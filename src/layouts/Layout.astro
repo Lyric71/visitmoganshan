@@ -1,0 +1,85 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title?: string;
+  description?: string;
+  /** Utility routes that must never enter the index. */
+  noindex?: boolean;
+  /** Social share image, relative to the site root. */
+  ogImage?: string;
+  /** Extra classes on <body>, for pages with their own ground colour. */
+  bodyClass?: string;
+}
+
+const {
+  title = '',
+  description = '',
+  noindex = false,
+  ogImage = '/og-image.png',
+  bodyClass = '',
+} = Astro.props;
+
+// Canonical convention: no trailing slash except root.
+const path = Astro.url.pathname === '/' ? '/' : Astro.url.pathname.replace(/\/$/, '');
+const canonical = new URL(path, Astro.site).href.replace(/(?<!\/)\/$/, '');
+const ogImageUrl = new URL(ogImage, Astro.site).href;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    {description && <meta name="description" content={description} />}
+    <link rel="canonical" href={canonical} />
+    {noindex && <meta name="robots" content="noindex, nofollow" />}
+
+    <!-- Icons. mark-favicon.svg is the reduced four culm variant, reversed on a
+         bamboo plate; the seven culm primary mark fills in below 24px and must
+         not be used here. The plate is not decoration: a transparent icon with
+         dark ink disappears against Chrome's dark tab strip. The 96px PNG is
+         what Google Search reads, and it needs a square multiple of 48. Rebuild
+         the whole set from the SVG with `npm run icons`. -->
+    <link rel="icon" href="/favicon.ico" sizes="32x32" />
+    <link rel="icon" href="/icon-96.png" type="image/png" sizes="96x96" />
+    <link rel="icon" href="/icon-48.png" type="image/png" sizes="48x48" />
+    <link rel="icon" href="/mark-favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <meta name="theme-color" content="#1F4A3C" />
+
+    <!-- The two faces that render above the fold. Other weights load on demand. -->
+    <link
+      rel="preload"
+      as="font"
+      type="font/woff2"
+      href="/fonts/playfair-display-latin-500-normal.woff2"
+      crossorigin
+    />
+    <link
+      rel="preload"
+      as="font"
+      type="font/woff2"
+      href="/fonts/inter-latin-400-normal.woff2"
+      crossorigin
+    />
+
+    <meta property="og:site_name" content="Visit Moganshan" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={title} />
+    {description && <meta property="og:description" content={description} />}
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={ogImageUrl} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    {description && <meta name="twitter:description" content={description} />}
+    <meta name="twitter:image" content={ogImageUrl} />
+  </head>
+  <body class={bodyClass}>
+    <slot />
+  </body>
+</html>

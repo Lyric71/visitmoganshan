@@ -1,0 +1,228 @@
+@import "tailwindcss";
+
+/* ==========================================================================
+   Visit Moganshan design tokens
+   Direction 01 "Grove", palette A "Bamboo & Mist".
+   Contrast ratios below were verified against WCAG 2.1; see
+   public/brand/BRAND-GUIDELINES.md for the full rules.
+   ========================================================================== */
+
+@theme {
+  /* --- Brand palette ---------------------------------------------------- */
+  --color-bamboo: #1f4a3c; /* primary,   8.43:1 on mist  (AAA) */
+  --color-bamboo-90: #33594d; /* tint, backgrounds only            */
+  --color-leaf: #3c6b4a; /* secondary, 5.22:1 on mist  (AA)  */
+  --color-mist: #e8ede9; /* page background alt               */
+  --color-mist-50: #f4f6f4;
+  --color-stone: #d8cfc0; /* cards, dividers, image mattes     */
+  --color-amber: #e0a458; /* accent / CTA, 7.79:1 on ink (AAA) */
+  --color-ink: #1a1d1b; /* body text                         */
+  --color-paper: #fbfaf7; /* page background                   */
+
+  /* --- Semantic --------------------------------------------------------- */
+  --color-surface: #ffffff;
+  --color-muted: #6c6f6b; /* 5.51:1 on paper (AA) */
+  --color-line: #dcd9d2;
+  /* Muted text on the dark bamboo field, 7.1:1, safe for body copy. */
+  --color-mist-muted: #b9c6bd;
+
+  /* --- Type ------------------------------------------------------------- */
+  --font-display: "Playfair Display", Georgia, "Times New Roman", serif;
+  --font-body: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-cjk: "Noto Serif SC", "Playfair Display", Georgia, serif;
+}
+
+/* Raw custom properties, for anything outside Tailwind's utility surface. */
+:root {
+  --vm-bamboo: var(--color-bamboo);
+  --vm-leaf: var(--color-leaf);
+  --vm-mist: var(--color-mist);
+  --vm-stone: var(--color-stone);
+  --vm-amber: var(--color-amber);
+  --vm-ink: var(--color-ink);
+  --vm-paper: var(--color-paper);
+}
+
+/* ==========================================================================
+   Self-hosted webfonts
+   Playfair Display is a DISPLAY face: headings, wordmark, pull quotes only.
+   Its hairlines thin out at 16 to 17px, so body copy always goes in Inter.
+   ========================================================================== */
+
+@font-face {
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/playfair-display-latin-400-normal.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/fonts/playfair-display-latin-500-normal.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("/fonts/playfair-display-latin-600-normal.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/fonts/playfair-display-latin-700-normal.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/inter-latin-400-normal.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/fonts/inter-latin-500-normal.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("/fonts/inter-latin-600-normal.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/fonts/inter-latin-700-normal.woff2") format("woff2");
+}
+
+/* ==========================================================================
+   Base
+   ========================================================================== */
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    background: var(--color-paper);
+    color: var(--color-ink);
+    font-family: var(--font-body);
+    font-size: 17px;
+    line-height: 1.68;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  h1,
+  h2,
+  h3 {
+    font-family: var(--font-display);
+    font-weight: 500;
+    color: var(--color-bamboo);
+  }
+
+  h1 {
+    font-size: clamp(32px, 4.4vw, 52px);
+    line-height: 1.14;
+    letter-spacing: -0.005em;
+  }
+
+  h2 {
+    font-size: clamp(24px, 3vw, 34px);
+    line-height: 1.2;
+  }
+
+  a {
+    color: var(--color-bamboo);
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-amber);
+    outline-offset: 3px;
+    border-radius: 2px;
+  }
+
+  ::selection {
+    background: var(--color-amber);
+    color: var(--color-ink);
+  }
+}
+
+/* ==========================================================================
+   Components
+   ========================================================================== */
+
+@layer components {
+  /* Primary CTA, amber ground, ink text (7.79:1, AAA). Never amber text. */
+  .vm-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    background: var(--color-amber);
+    color: var(--color-ink);
+    border: 0;
+    border-radius: 6px;
+    padding: 12px 22px;
+    font-family: var(--font-body);
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 1;
+    text-decoration: none;
+    cursor: pointer;
+    transition:
+      background-color 160ms ease,
+      transform 160ms ease;
+  }
+
+  .vm-btn:hover {
+    background: #edb066;
+  }
+
+  .vm-btn:active {
+    transform: translateY(1px);
+  }
+
+  /* Secondary CTA, bamboo ground, mist text (8.43:1, AAA). */
+  .vm-btn--quiet {
+    background: var(--color-bamboo);
+    color: var(--color-mist);
+  }
+
+  .vm-btn--quiet:hover {
+    background: var(--color-bamboo-90, #33594d);
+  }
+
+  /* Small caps eyebrow, as used above the wordmark in the lockup. */
+  .vm-eyebrow {
+    font-family: var(--font-display);
+    font-size: clamp(11px, 1.1vw, 13px);
+    font-weight: 500;
+    letter-spacing: 0.42em;
+    text-transform: uppercase;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

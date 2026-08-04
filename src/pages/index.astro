@@ -1,0 +1,259 @@
+---
+import Layout from '../layouts/Layout.astro';
+
+const year = new Date().getFullYear();
+---
+
+<Layout
+  title="Visit Moganshan, coming soon"
+  description="Bamboo, clouds and springs. A complete guide to Moganshan: the hikes, the stone villas, and where to stay, three hours from Shanghai. Launching soon."
+  bodyClass="vm-dark"
+>
+  <main class="grove">
+    <!-- Decorative only. The mountain at dusk says nothing the copy does not
+         already say, so the alt stays empty rather than repeating it to screen
+         readers. WebP first, JPG for the handful of clients that still need it. -->
+    <picture>
+      <source srcset="/images/moganshan-dusk.webp" type="image/webp" />
+      <img
+        class="grove__scene"
+        src="/images/moganshan-dusk.jpg"
+        alt=""
+        width="1536"
+        height="1024"
+        fetchpriority="high"
+        decoding="async"
+      />
+    </picture>
+
+    <div class="grove__inner">
+      <!-- Primary mark, reversed. Inline so it inherits colour and stays crisp;
+           at this size the full seven-culm version is the correct variant. -->
+      <svg
+        class="grove__mark"
+        xmlns="http://www.w3.org/2000/svg"
+        viewBox="0 0 96 96"
+        role="img"
+        aria-label="Visit Moganshan"
+      >
+        <path
+          fill="currentColor"
+          fill-rule="evenodd"
+          d="M12.50 62.00H12.50A4.50 4.50 0 0 1 17.00 66.50V81.50A4.50 4.50 0 0 1 12.50 86.00H12.50A4.50 4.50 0 0 1 8.00 81.50V66.50A4.50 4.50 0 0 1 12.50 62.00ZM8.00 75.00H17.00V78.00H8.00ZM24.50 44.00H24.50A5.50 5.50 0 0 1 30.00 49.50V80.50A5.50 5.50 0 0 1 24.50 86.00H24.50A5.50 5.50 0 0 1 19.00 80.50V49.50A5.50 5.50 0 0 1 24.50 44.00ZM19.00 57.00H30.00V60.00H19.00ZM19.00 72.00H30.00V75.00H19.00ZM36.00 30.00H36.00A4.00 4.00 0 0 1 40.00 34.00V82.00A4.00 4.00 0 0 1 36.00 86.00H36.00A4.00 4.00 0 0 1 32.00 82.00V34.00A4.00 4.00 0 0 1 36.00 30.00ZM32.00 43.00H40.00V46.00H32.00ZM32.00 58.00H40.00V61.00H32.00ZM32.00 75.50H40.00V78.50H32.00ZM48.00 13.00H48.00A6.00 6.00 0 0 1 54.00 19.00V80.00A6.00 6.00 0 0 1 48.00 86.00H48.00A6.00 6.00 0 0 1 42.00 80.00V19.00A6.00 6.00 0 0 1 48.00 13.00ZM42.00 26.00H54.00V29.00H42.00ZM42.00 41.00H54.00V44.00H42.00ZM42.00 58.50H54.00V61.50H42.00ZM60.00 27.00H60.00A4.00 4.00 0 0 1 64.00 31.00V82.00A4.00 4.00 0 0 1 60.00 86.00H60.00A4.00 4.00 0 0 1 56.00 82.00V31.00A4.00 4.00 0 0 1 60.00 27.00ZM56.00 40.00H64.00V43.00H56.00ZM56.00 55.00H64.00V58.00H56.00ZM56.00 72.50H64.00V75.50H56.00ZM71.50 46.00H71.50A5.50 5.50 0 0 1 77.00 51.50V80.50A5.50 5.50 0 0 1 71.50 86.00H71.50A5.50 5.50 0 0 1 66.00 80.50V51.50A5.50 5.50 0 0 1 71.50 46.00ZM66.00 59.00H77.00V62.00H66.00ZM66.00 74.00H77.00V77.00H66.00ZM83.50 60.00H83.50A4.50 4.50 0 0 1 88.00 64.50V81.50A4.50 4.50 0 0 1 83.50 86.00H83.50A4.50 4.50 0 0 1 79.00 81.50V64.50A4.50 4.50 0 0 1 83.50 60.00ZM79.00 73.00H88.00V76.00H79.00Z"
+        ></path>
+      </svg>
+
+      <p class="grove__eyebrow vm-eyebrow">Visit</p>
+      <h1 class="grove__wordmark">Moganshan</h1>
+      <p class="grove__tagline">Bamboo, clouds and springs</p>
+
+      <hr class="grove__rule" />
+
+      <p class="grove__body">
+        A complete guide to the mountain: the hikes, the stone villas, the hot afternoons
+        under the bamboo, and where to stay three hours from Shanghai.
+      </p>
+
+      <p class="grove__status">
+        <span class="grove__dot" aria-hidden="true"></span>
+        Coming soon
+      </p>
+    </div>
+
+    <footer class="grove__footer">
+      <p>Moganshan, Deqing County · Zhejiang, China</p>
+      <p>&copy; {year} Visit Moganshan</p>
+    </footer>
+  </main>
+</Layout>
+
+<style>
+  /* The page is one dark bamboo field, per the brand's reversed treatment:
+     mist on bamboo is 8.43:1 (AAA) and amber only ever appears as an accent. */
+  :global(body.vm-dark) {
+    background: var(--color-bamboo);
+    color: var(--color-mist);
+  }
+
+  .grove {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 100svh;
+    padding: clamp(2rem, 6vw, 4rem) 1.5rem calc(clamp(2rem, 6vw, 4rem) + 6px);
+    text-align: center;
+    overflow: hidden;
+  }
+
+  /* Moganshan at dusk, sitting under everything. object-fit keeps the ridgeline
+     intact at any viewport; the bamboo stand is on the left, so the crop is
+     anchored slightly right of centre to keep it from swallowing the copy. */
+  .grove__scene {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: 62% 50%;
+    /* Held just off full strength so the bamboo ground bleeds through and ties
+       the photo to the palette. The contrast work is done by the scrim below,
+       not by flattening the picture. */
+    opacity: 0.88;
+    z-index: 0;
+    pointer-events: none;
+    user-select: none;
+  }
+
+  /* A soft lift behind the lockup so the mark does not sit on a flat slab, and
+     a bamboo scrim over the photo so the lockup never lands on a bright ridge. */
+  .grove::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background:
+      radial-gradient(
+        ellipse 62% 58% at 50% 44%,
+        color-mix(in srgb, var(--color-bamboo) 82%, transparent) 0%,
+        color-mix(in srgb, var(--color-bamboo) 40%, transparent) 55%,
+        transparent 78%
+      ),
+      linear-gradient(
+        to bottom,
+        color-mix(in srgb, var(--color-bamboo) 30%, transparent) 0%,
+        transparent 30%,
+        transparent 62%,
+        color-mix(in srgb, var(--color-bamboo) 55%, transparent) 100%
+      );
+    z-index: 1;
+    pointer-events: none;
+  }
+
+  /* Amber baseline, echoing the bar across the foot of the social card. */
+  .grove::after {
+    content: '';
+    position: absolute;
+    inset: auto 0 0 0;
+    height: 6px;
+    background: var(--color-amber);
+    z-index: 3;
+  }
+
+  .grove__inner {
+    position: relative;
+    z-index: 2;
+    margin: auto;
+    max-width: 34rem;
+    animation: grove-rise 900ms cubic-bezier(0.22, 1, 0.36, 1) both;
+  }
+
+  .grove__mark {
+    width: clamp(60px, 8vw, 84px);
+    height: auto;
+    color: var(--color-mist);
+    margin-inline: auto;
+  }
+
+  .grove__eyebrow {
+    margin-top: clamp(2rem, 5vw, 3rem);
+    /* Amber on bamboo is 4.6:1, fine for this size and letter spacing,
+       and it is never used for body copy. */
+    color: var(--color-amber);
+    /* letter-spacing pushes the last glyph off-centre; pull it back. */
+    text-indent: 0.42em;
+  }
+
+  .grove__wordmark {
+    margin-top: 0.35rem;
+    font-size: clamp(3rem, 12vw, 5.5rem);
+    font-weight: 500;
+    line-height: 1;
+    letter-spacing: -0.015em;
+    color: var(--color-mist);
+  }
+
+  .grove__tagline {
+    margin-top: 1rem;
+    font-family: var(--font-display);
+    font-size: clamp(1rem, 2.2vw, 1.25rem);
+    font-style: italic;
+    color: var(--color-mist-muted);
+  }
+
+  .grove__rule {
+    width: 44px;
+    margin: clamp(2rem, 5vw, 2.75rem) auto;
+    border: 0;
+    border-top: 1px solid color-mix(in srgb, var(--color-mist) 30%, transparent);
+  }
+
+  .grove__body {
+    margin-inline: auto;
+    max-width: 32rem;
+    font-size: 1rem;
+    line-height: 1.75;
+    color: var(--color-mist-muted);
+    text-wrap: pretty;
+  }
+
+  .grove__status {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.6rem;
+    margin-top: clamp(2rem, 5vw, 2.75rem);
+    padding: 0.55rem 1.1rem;
+    border: 1px solid color-mix(in srgb, var(--color-mist) 22%, transparent);
+    border-radius: 999px;
+    font-size: 0.8125rem;
+    font-weight: 500;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--color-mist);
+  }
+
+  .grove__dot {
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: var(--color-amber);
+    animation: grove-pulse 2.6s ease-in-out infinite;
+  }
+
+  .grove__footer {
+    position: relative;
+    z-index: 2;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.4rem 1.5rem;
+    padding-top: 3rem;
+    font-size: 0.8125rem;
+    color: color-mix(in srgb, var(--color-mist) 60%, transparent);
+  }
+
+  .grove__footer p {
+    margin: 0;
+  }
+
+  @keyframes grove-rise {
+    from {
+      opacity: 0;
+      transform: translateY(14px);
+    }
+    to {
+      opacity: 1;
+      transform: none;
+    }
+  }
+
+  @keyframes grove-pulse {
+    0%,
+    100% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0.35;
+    }
+  }
+</style>

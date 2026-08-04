@@ -1,0 +1,37 @@
+{
+  "name": "visitmoganshan",
+  "type": "module",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "dev": "astro dev --host 127.0.0.1",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "check": "astro check",
+    "gen": "node scripts/generate-image.mjs",
+    "gen:edit": "node scripts/generate-image-edit.mjs",
+    "img": "node scripts/optimize-image.mjs",
+    "img:batch": "node scripts/optimize-images-batch.mjs",
+    "icons": "node scripts/build-icons.mjs",
+    "hooks:install": "node scripts/install-hooks.mjs"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.9.9",
+    "@astrojs/sitemap": "^3.7.3",
+    "@astrojs/vercel": "^11.0.3",
+    "@tailwindcss/vite": "^4.3.3",
+    "astro": "^7.1.3",
+    "dotenv": "^17.4.2",
+    "resend": "^6.18.0",
+    "tailwindcss": "^4.3.1"
+  },
+  "devDependencies": {
+    "playwright": "^1.62.0",
+    "prettier": "^3.9.6",
+    "prettier-plugin-astro": "^0.14.1",
+    "sharp": "^0.35.3"
+  }
+}
