@@ -714,20 +714,33 @@ const total = entries.length;
     margin-bottom: clamp(1.5rem, 3vw, 2rem);
   }
 
+  /* Multi-column rather than grid. The four sections have very unequal lengths
+     (Destinations runs to eight links, Where to stay to one), and grid ties
+     every cell in a row to the tallest one, which left a column-high hole under
+     the short sections and pushed the fourth onto a row of its own. Columns
+     flow instead, so the sections pack and the block stays balanced. */
   .browse__grid {
-    display: grid;
-    gap: clamp(2rem, 4vw, 3rem);
+    column-gap: clamp(2rem, 4vw, 3rem);
+  }
+
+  .browse__section {
+    /* Keeps a section from being split across a column boundary. Spacing goes
+       on the bottom, not the top: a top margin on whichever section happens to
+       start a column would push that column out of alignment with its
+       neighbours. */
+    break-inside: avoid;
+    margin-bottom: clamp(2rem, 4vw, 3rem);
   }
 
   @media (min-width: 768px) {
     .browse__grid {
-      grid-template-columns: repeat(2, minmax(0, 1fr));
+      column-count: 2;
     }
   }
 
   @media (min-width: 1180px) {
     .browse__grid {
-      grid-template-columns: repeat(3, minmax(0, 1fr));
+      column-count: 3;
     }
   }
 

@@ -65,13 +65,29 @@ const panels = THING_TABS.map((tab) => ({
     background: var(--color-mist);
   }
 
+  /* Steps 1 -> 2 -> 4. The Popular tab holds four; auto-fill resolved to three
+     columns between 1024px and 1180px and dropped the fourth onto its own row.
+     The shorter tabs (two or three items) simply fill part of a single row,
+     which they already did at the wider sizes. */
   .grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(min(100%, 260px), 1fr));
+    grid-template-columns: minmax(0, 1fr);
     gap: 1.25rem;
     margin: 0;
     padding: 0;
     list-style: none;
+  }
+
+  @media (min-width: 640px) {
+    .grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .grid {
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+    }
   }
 
   /* The panel is focusable so keyboard users land in the content after the

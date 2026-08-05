@@ -73,6 +73,9 @@ const svg = inline
     width: 163px;
     max-width: 46vw;
     flex: none;
+    /* The mark is only ~32px tall. The extra height is hit area, not ink: the
+       svg stays centred at its own size. */
+    min-height: 44px;
   }
 
   .lockup :global(svg),

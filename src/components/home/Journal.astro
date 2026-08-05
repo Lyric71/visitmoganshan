@@ -39,12 +39,28 @@ import { JOURNAL } from '../../data/journal';
 </section>
 
 <style>
+  /* Explicit counts rather than auto-fit. auto-fit resolved to three columns
+     between 1024px and 1180px, which left the fourth card alone on a second
+     row. The set is four, so the column count steps 1 -> 2 -> 4 and never
+     lands on three. */
   .grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr));
+    grid-template-columns: minmax(0, 1fr);
     gap: 1.25rem;
     margin: 0;
     padding: 0;
     list-style: none;
+  }
+
+  @media (min-width: 640px) {
+    .grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .grid {
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+    }
   }
 </style>

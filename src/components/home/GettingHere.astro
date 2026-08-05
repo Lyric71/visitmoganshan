@@ -49,13 +49,27 @@ const ROUTES = [
     background: var(--color-mist);
   }
 
+  /* Steps 1 -> 2 -> 4, so the four routes never sit three-up with one orphan.
+     See Journal.astro. */
   .flat {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(min(100%, 240px), 1fr));
+    grid-template-columns: minmax(0, 1fr);
     gap: 1rem;
     margin: 0;
     padding: 0;
     list-style: none;
+  }
+
+  @media (min-width: 640px) {
+    .flat {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .flat {
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+    }
   }
 
   .flat a {

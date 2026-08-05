@@ -226,7 +226,12 @@ const jsonLd = {
     font-size: 0.9375rem;
   }
 
+  /* inline-flex + min-height rather than padding: the row keeps its baseline
+     spacing while each link clears the 44px touch target. */
   .siblings a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 44px;
     color: var(--color-bamboo);
     text-decoration: none;
   }

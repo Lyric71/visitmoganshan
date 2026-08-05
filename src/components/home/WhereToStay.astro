@@ -74,13 +74,27 @@ const meta = (hotel: (typeof HOTELS)[number]) =>
 </section>
 
 <style>
+  /* Steps 1 -> 2 -> 4. See Journal.astro: auto-fit put three across between
+     1024px and 1180px and orphaned the fourth card. */
   .grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr));
+    grid-template-columns: minmax(0, 1fr);
     gap: 1.25rem;
     margin: 0;
     padding: 0;
     list-style: none;
+  }
+
+  @media (min-width: 640px) {
+    .grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .grid {
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+    }
   }
 
   .grid__empty {
