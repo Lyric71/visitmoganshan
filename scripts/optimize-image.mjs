@@ -4,10 +4,13 @@
 // Usage:
 //   npm run img <path-to-image> [more paths...]
 //   node scripts/optimize-image.mjs <path-to-image> [--max-width=2000] [--out=public] [--name=basename]
+//                                   [--jpg-quality=82] [--webp-quality=78]
 //
 // Behavior:
 //   Photos (no meaningful alpha)  -> writes <name>.jpg (q82) + <name>.webp (q78)
 //   Graphics with real alpha      -> writes <name>.png (palette) + <name>.webp (q85)
+//   Quality defaults suit hero-class art. Card-sized slots render at a few
+//   hundred CSS px and take --webp-quality=68 without a visible difference.
 //   Oversized images (> max-width in px) are resized down preserving aspect.
 //   Originals are NEVER overwritten unless they happen to live in the output
 //   directory with the same final name and extension; large source PNGs are
@@ -36,6 +39,14 @@ function parseArgs(rawArgs) {
     if (arg.startsWith("--max-width=")) opts.maxWidth = Number(arg.split("=")[1]);
     else if (arg.startsWith("--out=")) opts.outDir = arg.split("=")[1];
     else if (arg.startsWith("--name=")) opts.name = arg.split("=")[1];
+    else if (arg.startsWith("--jpg-quality=")) opts.jpgQuality = Number(arg.split("=")[1]);
+    else if (arg.startsWith("--webp-quality=")) {
+      // One flag for both branches: callers think in terms of "this asset",
+      // not "photo path vs graphic path".
+      const q = Number(arg.split("=")[1]);
+      opts.webpQualityPhoto = q;
+      opts.webpQualityGraphic = q;
+    }
     else if (arg.startsWith("--")) {
       console.error(`Unknown flag: ${arg}`);
       exit(2);
@@ -152,6 +163,7 @@ async function main() {
   if (files.length === 0) {
     console.error("Usage: npm run img <path-to-image> [more paths...]");
     console.error("       [--max-width=2000] [--out=public] [--name=basename]");
+    console.error("       [--jpg-quality=82] [--webp-quality=78]");
     exit(1);
   }
   const results = [];

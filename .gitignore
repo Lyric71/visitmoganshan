@@ -23,3 +23,8 @@ pnpm-debug.log*
 
 # generated images (text-to-image script default output)
 generated-*.png
+
+# Image masters. Kept on disk, never shipped and never committed: these are
+# ~3 MB PNGs each and only exist to be re-encoded by scripts/optimize-image.mjs
+# into public/images/. Living outside public/ keeps them out of the build.
+assets/raw/
