@@ -1,0 +1,95 @@
+---
+import type { Crumb } from '../lib/guide';
+
+/**
+ * The site-map strip: a full-width band directly under the header that says
+ * where in the tree the reader currently stands.
+ *
+ * It is full width rather than inset because it reads as part of the chrome,
+ * not as the first element of the article. The crumbs themselves stay in the
+ * normal container so they line up with the wordmark above them and the h1
+ * below them.
+ *
+ * The trail always starts at Home and always ends at the current page, which
+ * is a span rather than a link: a link to the page you are on is a dead
+ * control. Intermediate levels stay linked even where the page is not written
+ * yet, matching breadcrumbsFor() in src/lib/guide.ts.
+ *
+ * BreadcrumbList JSON-LD is emitted by guideJsonLd(), not here, so a page that
+ * renders this strip twice cannot ship two conflicting trails to Google.
+ */
+interface Props {
+  crumbs: Crumb[];
+}
+
+const { crumbs } = Astro.props;
+const last = crumbs.length - 1;
+---
+
+<nav class="crumbs" aria-label="Breadcrumb">
+  <div class="vm-container">
+    <ol class="crumbs__list">
+      {
+        crumbs.map((crumb, i) => (
+          <li class="crumbs__item">
+            {i === last ? (
+              <span class="crumbs__current" aria-current="page">
+                {crumb.label}
+              </span>
+            ) : (
+              <a class="crumbs__link" href={crumb.href}>
+                {crumb.label}
+              </a>
+            )}
+          </li>
+        ))
+      }
+    </ol>
+  </div>
+</nav>
+
+<style>
+  .crumbs {
+    /* Mist to paper, so the strip separates the header from the page without
+       needing a second heavy rule under an already-ruled header. */
+    background: linear-gradient(to bottom, var(--color-mist), var(--color-paper));
+    border-bottom: 1px solid var(--color-line);
+  }
+
+  .crumbs__list {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.25rem 0.5rem;
+    margin: 0;
+    padding-block: 0.875rem;
+    list-style: none;
+    font-size: 0.8125rem;
+    line-height: 1.4;
+  }
+
+  /* The separator belongs to the item that follows it, so a trail that wraps
+     never leaves an orphaned slash at the end of a line. */
+  .crumbs__item + .crumbs__item::before {
+    content: '/';
+    margin-right: 0.5rem;
+    color: var(--color-line);
+  }
+
+  .crumbs__link {
+    color: var(--color-muted);
+    text-decoration: none;
+  }
+
+  .crumbs__link:hover,
+  .crumbs__link:focus-visible {
+    color: var(--color-bamboo);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+
+  .crumbs__current {
+    font-weight: 600;
+    color: var(--color-ink);
+  }
+</style>

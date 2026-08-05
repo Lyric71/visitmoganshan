@@ -6,7 +6,7 @@ meta_description: Moganshan is over 92 percent forest, mostly moso bamboo, and i
 excerpt: Moganshan is over 92 percent forest, nearly all moso bamboo. What that means on the ground, month by month, where to walk, when to go.
 primary_keyword: moganshan bamboo forest
 secondary_keywords: [china bamboo forest, moganshan bamboo, bamboo forest near shanghai]
-schema: TouristAttraction + FAQPage
+schema: TouristAttraction
 word_count: 1465
 last_updated: 2026-08-05
 ---
@@ -95,19 +95,5 @@ Those places are usually short, groomed and singular: a lane you walk down, phot
 The two Golden Weeks are worth taking seriously. High-end guesthouse occupancy hit 94 percent over the May 2024 holiday. During National Day 2025, daily footfall in Yucun ran 30 to 40 percent above normal. The weekday and weekend split is severe here all year, and Mondays are notably quiet.
 
 At those peaks, the main paths through the bamboo are busy in the ordinary Chinese-holiday sense: continuous, loud, and queued at the photogenic points. The forest is big enough to absorb it if you walk twenty minutes off the obvious route. Most people do not. The [seasons guide](/seasons/) sets out the calendar properly.
-
-## Questions people ask
-
-**Is the Moganshan bamboo forest free to enter?**
-The core scenic area charges. Prices vary between sources and change with the season, with half price in winter, so check when you book rather than trusting a figure you read online. Bamboo outside the core area, around the guesthouse villages, is simply there.
-
-**When is the best time to visit the bamboo forest?**
-April and October if you want light and comfort. July and August if you want the cool air, which is why the mountain became a resort in the first place. Aim for a Monday.
-
-**Can I see bamboo without hiking?**
-Yes. Roads and village lanes run through it, and several guesthouses look straight into it. You do not need to be fit to see this forest.
-
-**Is it worth the trip from Shanghai?**
-As a day trip, it is tight, at close to three hours each way. As part of two nights on the mountain, yes.
 
 *Temperature figures, holiday occupancy data and transfer center hours last checked 5 August 2026. Ticket prices vary between sources and should be confirmed at booking.*

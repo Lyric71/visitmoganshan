@@ -6,7 +6,7 @@ meta_description: Yes for cool air, bamboo and quiet. No for sights, food or nig
 excerpt: A straight answer on whether Moganshan is worth visiting, what the mountain does well, who it disappoints, and how it compares with staying in Hangzhou.
 primary_keyword: is moganshan worth visiting
 secondary_keywords: [moganshan worth it, should i visit moganshan]
-schema: Article + FAQPage
+schema: Article
 word_count: 1500
 last_updated: 2026-08-05
 ---
@@ -110,23 +110,6 @@ The trade-off is simple. Hangzhou gives you more to do. Moganshan gives you fewe
 | Nightlife, bars, music | No | Nothing here at all |
 | One free day, starting in Pudong | No | Nine hours of travel for a short afternoon |
 | One free day, starting in Hangzhou | Yes | A 13 to 17 minute train changes the whole calculation |
-
-## Frequently asked questions
-
-**Is Moganshan worth visiting for one night?**
-From Hangzhou, yes. One night buys you a morning in the bamboo, the best hour of the day. From Shanghai, two nights makes more sense.
-
-**Is Moganshan too touristy?**
-It depends on when you go. Weekends and the two Golden Weeks are crowded, with high-end occupancy at 94 percent during the May 2024 holiday. Mondays are quiet. Check the [seasons](/seasons/) page before fixing dates.
-
-**Should I visit Moganshan instead of Hangzhou?**
-No. Visit it as well as Hangzhou. They do different jobs, and they are 13 to 17 minutes apart by train.
-
-**Is Moganshan worth it in winter?**
-For some people. January averages 1.4 °C, but tickets are half price and the mountain is empty. The summer argument does not apply.
-
-**What will disappoint me most?**
-The evenings. Everything else here is manageable with planning. The lack of food and activity after dark is structural, and planning does not fix it.
 
 For the geography, the villages and the full background, start with [what and where Moganshan is](/moganshan/).
 

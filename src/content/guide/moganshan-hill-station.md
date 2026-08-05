@@ -6,7 +6,7 @@ meta_description: How American missionaries built a summer town on a Zhejiang mo
 excerpt: American missionaries built a summer colony on this Zhejiang mountain in the 1890s. How it grew, why it ended in 1949, and what survives today.
 primary_keyword: moganshan hill station
 secondary_keywords: [shanghai hill station, moganshan colonial villas, hamptons of china]
-schema: Article + FAQPage
+schema: Article
 word_count: 1687
 last_updated: 2026-08-05
 ---
@@ -124,22 +124,5 @@ They are built from local mountain stone, in British, American, French, German a
 Most are private homes, hotels or closed buildings, so you cannot wander in. What you can do is walk the ridge roads and read them from outside. Our [villa guide](/moganshan/hill-station/the-villas/) covers the individual buildings, the [walking tour](/moganshan/hill-station/walking-tour/) puts them in an order that works on foot, and the [longer history](/moganshan/hill-station/history/) goes deeper on the dates and the disputes than this page does.
 
 For the mountain in general, start at the [Moganshan overview](/moganshan/). Several of these buildings are now hotels, and the [where to stay](/where-to-stay/) page treats all of them on the same terms.
-
-## Questions people ask
-
-**Was Moganshan really a foreign town?**
-For a season each year, close to it. By 1910 about 300 foreigners held summer homes here, and their own association ran land, building and roads from 1898. Chinese administrative control returned in 1928.
-
-**How many of the old villas are still standing?**
-About 250, though some sources say 200 or more. Roughly 154 Western-style villas existed in the 1920s; the rest were built by Chinese owners between 1928 and 1949.
-
-**Did Mao Zedong write the first constitution here?**
-He stayed on the mountain in 1954, the year the first constitution was adopted, in a villa built in 1934. Local sources often link the two. The drafting is documented as having taken place in Hangzhou, so we do not repeat that claim.
-
-**Why does anyone call this the Hamptons of China?**
-Tatler Asia used the phrase and it stuck. It describes the pattern, a cool retreat within reach of a hot rich city, not the look of the place.
-
-**Can I go inside the villas?**
-Mostly no. Many are private residences or closed. Several operate as hotels, and those you can book.
 
 *Historic figures on this page follow the fact base compiled 1 to 5 August 2026. Where sources conflict, the range is given rather than a single number.*

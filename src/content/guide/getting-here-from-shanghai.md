@@ -6,7 +6,7 @@ meta_description: How to get to Moganshan from Shanghai. High-speed rail from Ho
 excerpt: Every route from Shanghai to Moganshan, with real train times, fares, the road transfer nobody mentions, and honest door-to-door totals from Hongqiao and Pudong airport.
 primary_keyword: how to get to moganshan from shanghai
 secondary_keywords: [shanghai to moganshan, moganshan from shanghai, how far is moganshan from shanghai]
-schema: Article + HowTo + FAQPage
+schema: Article + HowTo
 word_count: 1835
 last_updated: 2026-08-05
 ---
@@ -131,22 +131,5 @@ One more thing worth knowing before you plan an evening arrival. Local reporting
 Once the route is settled, the questions are where to sleep and how long to stay. Start with [where to stay in Moganshan](/where-to-stay/) for the villages and the price bands. If you only have a Saturday and Sunday, the [weekend from Shanghai itinerary](/itineraries/weekend-from-shanghai/) is built around the train times on this page.
 
 Thinking of going and returning in one day? Read [Moganshan as a day trip](/getting-here/day-trip/) first. The math is tighter than it looks.
-
-## Frequently asked questions
-
-**How long does it take to get to Moganshan from Shanghai?**
-From central Shanghai by rail, 2 hours 45 minutes to 3 hours 30 minutes door to door. By car, 2 hours 30 minutes to 3 hours 15 minutes. From Pudong airport, 4 hours to 4 hours 45 minutes. These are estimates.
-
-**Which station do I book?**
-Deqing. Do not book the station named Moganshan. It is on a different line and it serves Deqing and Wukang town, not the mountain.
-
-**Is there a direct train to Moganshan?**
-No. There is no station on the mountain. The closest useful station is Deqing, and from there you take a shuttle or a taxi for another 30 to 40 minutes.
-
-**Can I drive to my hotel?**
-Not if it is inside the scenic area. Private cars stop at one of three transfer centres, at Yucun, Fatou or Houwu, open 08:00 to 18:00. Outside the scenic area, driving to the door is usually fine.
-
-**Is Moganshan the same as Moganshan Road in Shanghai?**
-No. Moganshan Road is the M50 art district in Putuo District, Shanghai. The mountain is in Deqing County, Zhejiang, about 200 km away.
 
 *Train times, shuttle departures, fares and transfer-centre hours last checked 5 August 2026. Timetables change seasonally, so confirm your service before you travel.*

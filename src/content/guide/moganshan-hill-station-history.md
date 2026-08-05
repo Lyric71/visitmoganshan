@@ -142,22 +142,4 @@ The named sites worth finding are Chiang Kai-shek's villa, Sword Pond, the Bai a
 
 The buildings themselves are covered in [the villas of Moganshan](/moganshan/hill-station/the-villas/), and the best way to see them in order is [the Moganshan walking tour](/moganshan/hill-station/walking-tour/), which strings the main sites into one route on foot.
 
-## Questions people ask
-
-### Who actually founded Moganshan?
-
-American Protestant missionaries, in the 1890s. E. N. Fletcher identified the site sometime between 1891 and 1894. Who built the first villa is disputed between George A. Hudson in 1898, an American named W. W. White, and an English merchant in 1896.
-
-### Did Mao Zedong write the Chinese constitution at Moganshan?
-
-He stayed on the mountain in 1954, the year the first constitution was adopted, in a villa built in 1934. The drafting is documented as having happened in Hangzhou. Local storytelling links the two; the sources do not.
-
-### How many old villas are left?
-
-About 250, with some sources saying 200 or more. Around 154 Western-style villas stood in the 1920s, and Chinese owners added more than 300 between 1928 and 1949.
-
-### Why did foreigners come back after 2003?
-
-Mark Kitto took a lease and opened Moganshan Lodge that year. Grant Horsfield followed in 2007 with the first foreign-run farmstay. Investors from 18 countries now hold guesthouses on and around the mountain.
-
 Historic figures on this page are drawn from published research and were last checked on 5 August 2026. Villa counts and ownership numbers vary between sources, and we have given ranges rather than single figures wherever they disagree.

@@ -1,0 +1,238 @@
+---
+import Layout from './Layout.astro';
+import SiteHeader from '../components/SiteHeader.astro';
+import SiteFooter from '../components/SiteFooter.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+
+/**
+ * The shell the three policy pages render into: privacy, terms, cookies.
+ *
+ * Deliberately close to GuideArticle rather than a separate look. A reader who
+ * clicks Privacy out of the footer is checking whether the site is run by
+ * someone real, so the page has to arrive with the same typography, the same
+ * breadcrumb strip and the same visible date as everything else.
+ *
+ * It does not reuse GuideArticle itself: that layout is built around a content
+ * collection entry (word count, siblings, Article JSON-LD) and a policy page
+ * has none of those. What it borrows is the contents rail, which these pages
+ * need most, because nobody reads a policy top to bottom. They arrive looking
+ * for one section.
+ *
+ * Sections are passed in rather than read from rendered headings. Astro gives a
+ * layout no access to the headings inside a slot of a .astro page, and the ids
+ * have to be stable anyway: /privacy#your-rights is a link people send.
+ */
+interface Props {
+  /** Page h1. */
+  title: string;
+  /** <title>, which carries the site name; the h1 does not. */
+  seoTitle: string;
+  description: string;
+  standfirst: string;
+  /** Editorial date, not the build date. Bumped by hand when the text changes. */
+  updated: string;
+  sections: { id: string; label: string }[];
+}
+
+const { title, seoTitle, description, standfirst, updated, sections } = Astro.props;
+
+const crumbs = [
+  { label: 'Home', href: '/' },
+  { label: title, href: Astro.url.pathname.replace(/\/$/, '') },
+];
+
+const updatedDate = new Date(`${updated}T00:00:00Z`);
+const updatedLabel = updatedDate.toLocaleDateString('en-GB', {
+  day: 'numeric',
+  month: 'long',
+  year: 'numeric',
+  timeZone: 'UTC',
+});
+
+// Policies are indexed but never a search result we want ranked, and they are
+// the one part of the site where a stale Google snippet is actively misleading.
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  name: title,
+  description,
+  url: new URL(Astro.url.pathname.replace(/\/$/, ''), Astro.site).href,
+  dateModified: updated,
+  inLanguage: 'en',
+  isPartOf: {
+    '@type': 'WebSite',
+    name: 'Visit Moganshan',
+    url: Astro.site?.href,
+  },
+  publisher: {
+    '@type': 'Organization',
+    name: 'BeyondBorder Group Ltd',
+  },
+  breadcrumb: {
+    '@type': 'BreadcrumbList',
+    itemListElement: crumbs.map((crumb, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      name: crumb.label,
+      item: new URL(crumb.href, Astro.site).href,
+    })),
+  },
+};
+---
+
+<Layout title={seoTitle} description={description}>
+  <Fragment slot="head">
+    <meta name="robots" content="index, follow" />
+    <Fragment set:html={`<script type="application/ld+json">${JSON.stringify(jsonLd)}</script>`} />
+  </Fragment>
+
+  <SiteHeader />
+  <Breadcrumbs crumbs={crumbs} />
+
+  <main id="main">
+    <div class="vm-container">
+      <header class="head">
+        <p class="vm-kicker">Legal</p>
+        <h1>{title}</h1>
+        <p class="standfirst">{standfirst}</p>
+        <p class="byline">
+          <span>Last updated <time datetime={updated}>{updatedLabel}</time></span>
+          <span>BeyondBorder Group Ltd, Hong Kong</span>
+        </p>
+      </header>
+
+      <div class="grid">
+        <aside class="toc" aria-labelledby="toc-title">
+          <p class="vm-kicker" id="toc-title">On this page</p>
+          <ul>
+            {
+              sections.map((section) => (
+                <li>
+                  <a href={`#${section.id}`}>{section.label}</a>
+                </li>
+              ))
+            }
+          </ul>
+        </aside>
+
+        <article class="vm-article">
+          <slot />
+        </article>
+      </div>
+
+      <nav class="siblings" aria-label="Other policies">
+        <a href="/privacy">Privacy</a>
+        <a href="/terms">Terms</a>
+        <a href="/cookies">Cookies</a>
+        <a href="/about">About this site</a>
+      </nav>
+    </div>
+  </main>
+
+  <SiteFooter />
+</Layout>
+
+<style>
+  /* Head ------------------------------------------------------------------ */
+
+  .head {
+    padding-block: clamp(2rem, 4vw, 3rem);
+    border-bottom: 1px solid var(--color-line);
+  }
+
+  .head h1 {
+    max-width: 20ch;
+    text-wrap: balance;
+  }
+
+  .standfirst {
+    max-width: 58ch;
+    margin-top: 1rem;
+    font-size: clamp(1.0625rem, 1.6vw, 1.25rem);
+    line-height: 1.55;
+    color: var(--color-ink);
+  }
+
+  .byline {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem 1.25rem;
+    margin-top: 1.25rem;
+    font-size: 0.8125rem;
+    color: var(--color-muted);
+  }
+
+  /* Body ------------------------------------------------------------------ */
+
+  .grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    gap: clamp(2rem, 5vw, 3.5rem);
+    padding-block: clamp(2rem, 4vw, 3rem);
+  }
+
+  @media (min-width: 1024px) {
+    .grid {
+      grid-template-columns: 15rem minmax(0, 1fr);
+      align-items: start;
+    }
+
+    /* Second in the source order and pulled left, so a screen reader hears the
+       heading and then the policy, not a nav wedged between them. */
+    .toc {
+      position: sticky;
+      top: 5.5rem;
+      order: -1;
+    }
+  }
+
+  .toc ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    border-left: 1px solid var(--color-line);
+  }
+
+  .toc li a {
+    display: block;
+    padding: 0.4rem 0 0.4rem 0.875rem;
+    margin-left: -1px;
+    border-left: 2px solid transparent;
+    font-size: 0.875rem;
+    line-height: 1.4;
+    color: var(--color-muted);
+    text-decoration: none;
+  }
+
+  .toc li a:hover {
+    border-left-color: var(--color-leaf);
+    color: var(--color-bamboo);
+  }
+
+  /* The article sets its own measure here. Policy copy has no images and no
+     tables to break out of it, so it can stay narrower than a guide page. */
+  .vm-article {
+    max-width: 72ch;
+  }
+
+  /* Sibling policies ------------------------------------------------------- */
+
+  .siblings {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem 2rem;
+    padding-block: clamp(2rem, 4vw, 3rem);
+    border-top: 1px solid var(--color-line);
+    font-size: 0.9375rem;
+  }
+
+  .siblings a {
+    color: var(--color-bamboo);
+    text-decoration: none;
+  }
+
+  .siblings a:hover {
+    text-decoration: underline;
+    text-underline-offset: 4px;
+  }
+</style>

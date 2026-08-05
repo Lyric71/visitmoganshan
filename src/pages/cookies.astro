@@ -1,0 +1,151 @@
+---
+import LegalPage from '../layouts/LegalPage.astro';
+
+/**
+ * /cookies
+ *
+ * The honest version of this page is four words long, so it leads with them and
+ * then explains why. The rest exists for the reader who does not believe a site
+ * can work without cookies, and for the day one of the categories below stops
+ * being hypothetical.
+ *
+ * If a cookie, a pixel, a hosted script or an embed ever ships, this page is
+ * part of that commit. A cookie policy that says none while one is set is worse
+ * than having no policy at all.
+ */
+const SECTIONS = [
+  { id: 'the-short-version', label: 'The short version' },
+  { id: 'why', label: 'Why' },
+  { id: 'what-a-cookie-is', label: 'What a cookie is' },
+  { id: 'if-that-changes', label: 'If that changes' },
+  { id: 'other-storage', label: 'Other browser storage' },
+  { id: 'third-party-content', label: 'Third party content' },
+  { id: 'server-logs', label: 'Server logs' },
+  { id: 'your-browser', label: 'Your browser' },
+  { id: 'legal', label: 'Legal framework' },
+  { id: 'contact', label: 'Contact' },
+];
+---
+
+<LegalPage
+  title="Cookies"
+  seoTitle="Cookie policy · Visit Moganshan"
+  description="Visit Moganshan sets no cookies of its own, loads no third party scripts and shows no consent banner. This page explains why, and what would change if that ever stopped being true."
+  standfirst="This site sets no cookies, runs no trackers and asks you to dismiss nothing. That is a design decision, not an oversight, and this page explains what it means."
+  updated="2026-08-05"
+  sections={SECTIONS}
+>
+  <h2 id="the-short-version">The short version</h2>
+  <p>
+    As of 5 August 2026, Visit Moganshan sets no cookies of its own, loads no third party scripts,
+    runs no analytics and shows no consent banner. There is nothing on this page for you to accept,
+    reject or configure, because there is nothing being set.
+  </p>
+
+  <h2 id="why">Why</h2>
+  <p>
+    Not principle alone. The site is a static build with no login, no basket and no personalisation,
+    so there is no state worth storing on your machine in the first place. Every font, image, style
+    sheet and script is served from our own domain, which keeps the guide fast, keeps it loading
+    reliably inside mainland China where many third party services are unreachable, and removes the
+    only realistic route by which somebody else could watch you read.
+  </p>
+  <p>
+    A cookie banner would also be a lie in miniature. Almost every one you dismiss exists to gather
+    consent for tracking that the site chose to add. We chose not to add it, so there is nothing to
+    consent to.
+  </p>
+
+  <h2 id="what-a-cookie-is">What a cookie is</h2>
+  <p>
+    A small text file a site asks your browser to store and send back on your next visit. Cookies are
+    what let a site remember you are logged in, what is in your basket, or which language you chose.
+    They are also what lets an advertising network recognise the same browser across thousands of
+    unrelated sites. The technology is neutral. The use it is put to is not, and it is the second use
+    that earned the reputation.
+  </p>
+
+  <h2 id="if-that-changes">If that changes</h2>
+  <p>
+    We are not promising never to set one. If the guide gains a feature that genuinely needs storage,
+    it will fall into one of these categories, and this page will be updated in the same release that
+    ships it.
+  </p>
+  <ul>
+    <li>
+      <strong>Strictly necessary.</strong> Required for the site to work at all: security,
+      preventing abuse, remembering a form you are part way through. These do not require your
+      consent under any regime we operate in, and we would still name them here.
+    </li>
+    <li>
+      <strong>Functional.</strong> Remembering a choice you made, such as a language or a preference
+      for kilometres over miles. Set only when you make the choice.
+    </li>
+    <li>
+      <strong>Analytics.</strong> Counting which pages are read, so we know what to improve. If we
+      ever measure, it will be privacy first and self hosted, with no cross site identifier and
+      nothing shared with an advertising network.
+    </li>
+    <li>
+      <strong>Marketing.</strong> Advertising and remarketing trackers. We have no plans for these.
+      If that ever changed, they would require your explicit opt in, off by default, and you would
+      meet a real consent control rather than a banner engineered to be accepted.
+    </li>
+  </ul>
+
+  <h2 id="other-storage">Other browser storage</h2>
+  <p>
+    Cookies are not the only way to keep something on your device, and a policy that only mentions
+    cookies is dodging the question. We also do not use local storage, session storage, IndexedDB,
+    service workers or fingerprinting techniques of any kind.
+  </p>
+  <p>
+    The one thing your browser does keep is its ordinary cache: copies of pages, images and fonts, so
+    a second visit loads faster. That is standard web behaviour, it holds nothing about you, and your
+    browser clears it whenever you ask it to.
+  </p>
+
+  <h2 id="third-party-content">Third party content</h2>
+  <p>
+    We embed nothing from anybody else. No hosted maps, no video players, no social widgets, no font
+    or script services, no comment platforms. Each of those is a request to another company's server
+    that carries your IP address and typically sets cookies of its own, and each is also a component
+    that can fail to load in mainland China and take part of the page with it. We link out to those
+    services instead, so you decide whether to visit them.
+  </p>
+  <p>
+    Once you follow a link off this site, that company's cookie practices apply and ours stop being
+    relevant.
+  </p>
+
+  <h2 id="server-logs">Server logs</h2>
+  <p>
+    Delivering a page to you still produces a log entry at our host, which can include your IP
+    address, the page requested and your browser type. That is how the web works and it happens
+    without any cookie. What those logs contain, how long they are kept and what we use them for is
+    covered in the <a href="/privacy">privacy policy</a>.
+  </p>
+
+  <h2 id="your-browser">Your browser</h2>
+  <p>
+    Your browser is the final authority over storage, whatever any site claims. Every major browser
+    lets you view what has been stored, delete it, and block cookies by site or across the board,
+    usually under settings for privacy, content or site data. Blocking cookies entirely will break a
+    great many sites. It will not break this one.
+  </p>
+
+  <h2 id="legal">Legal framework</h2>
+  <p>
+    We follow Hong Kong's Personal Data (Privacy) Ordinance, and we apply the standards of the
+    ePrivacy rules and the UK and EU GDPR for readers in the United Kingdom and the European Economic
+    Area. Those rules require consent before non essential storage is placed on your device. We meet
+    them by not placing any.
+  </p>
+
+  <h2 id="contact">Contact</h2>
+  <p>
+    If you believe you have found a cookie or a tracker on this site, we want to know today: write to
+    <a href="mailto:privacy@visitmoganshan.com">privacy@visitmoganshan.com</a>. Related pages are the
+    <a href="/privacy">privacy policy</a> and the <a href="/terms">terms</a>.
+  </p>
+</LegalPage>

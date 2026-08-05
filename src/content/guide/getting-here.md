@@ -6,7 +6,7 @@ meta_description: Trains to Deqing, the road transfer, and the scenic-area rule 
 excerpt: Moganshan sits 60 km north of Hangzhou in Zhejiang. Here is the full chain, train to Deqing, road transfer, then the scenic-area rule, with timings.
 primary_keyword: how to get to moganshan
 secondary_keywords: [moganshan how to get there, getting to moganshan from shanghai]
-schema: Article + HowTo + FAQPage
+schema: Article + HowTo
 word_count: 1596
 last_updated: 2026-08-05
 ---
@@ -114,19 +114,5 @@ If you are coming from Hangzhou, this is close to a local trip. The train takes 
 If you are coming from Shanghai, budget three hours and stop pretending it is a half-day outing. Two nights works far better than one, which is why the [where to stay](/where-to-stay/) page starts with the length of the trip rather than the properties.
 
 If you are choosing when to go, the mountain runs 6 to 7 °C cooler than Shanghai and Hangzhou in summer, which was the original reason anyone came here. See the [weather and seasons](/moganshan/weather/) page before you fix your dates.
-
-## Questions people actually ask
-
-**Is there a direct train from Shanghai to Moganshan?**
-No. There is no station on the mountain. Book Shanghai Hongqiao to Deqing, then take the shuttle or a taxi. Do not book the station named Moganshan.
-
-**What is the last realistic time to arrive?**
-The Y1 shuttle's final return leaves at 17:00, and the scenic-area transfer centers close at 18:00. If your train reaches Deqing after about 17:00, arrange a car in advance and confirm with your guesthouse.
-
-**How much is the scenic-area ticket?**
-Sources disagree. One set of figures gives RMB 120 online and RMB 130 at the gate. Another gives RMB 50 off-season and RMB 80 in peak season. Winter tickets are half price. Check the current price when you book rather than trusting any published number, including this one.
-
-**Can I drive right up to my guesthouse?**
-Sometimes. Inside the core scenic area, no. Your vehicle stops at Yucun, Fatou or Houwu. Properties outside that boundary are a different matter, so ask them directly.
 
 *Fares, train times and shuttle departures last checked 5 August 2026. Timetables and ticket prices change without much notice, so confirm before you travel.*

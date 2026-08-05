@@ -15,7 +15,12 @@
  * Shanghai) has already broken into the top ten for "what to do in moganshan".
  * The destination has to be pinned to Deqing County inside the first hundred
  * words of visible copy or the page competes with the wrong entity.
+ *
+ * The live conditions line sits with the locator for the same reason: weather
+ * on a hill an hour from the sea is the first practical question a reader has,
+ * and it doubles as proof the page is about a real place with an altitude.
  */
+import HeroWeather from './HeroWeather.astro';
 ---
 
 <section class="hero" aria-labelledby="hero-title">
@@ -32,17 +37,20 @@
   </picture>
 
   <div class="vm-container hero__inner">
-    <h1 id="hero-title" class="hero__title">Moganshan</h1>
-    <p class="hero__tagline">
-      A mountain that Shanghai built a second life on, and then forgot.
-    </p>
-    <p class="hero__locator">
-      Deqing County, Huzhou · Zhejiang, China · north of Hangzhou
-    </p>
-    <div class="hero__actions">
-      <a class="vm-btn" href="/moganshan/hill-station">Read the story</a>
-      <a class="vm-btn vm-btn--ghost-reversed" href="/where-to-stay">Where to stay</a>
+    <div class="hero__copy">
+      <h1 id="hero-title" class="hero__title">Moganshan</h1>
+      <p class="hero__tagline">
+        A mountain that Shanghai built a second life on, and then forgot.
+      </p>
+      <p class="hero__locator">
+        Deqing County, Huzhou · Zhejiang, China · north of Hangzhou
+      </p>
+      <div class="hero__actions">
+        <a class="vm-btn" href="/moganshan/hill-station">Read the story</a>
+        <a class="vm-btn vm-btn--ghost-reversed" href="/where-to-stay">Where to stay</a>
+      </div>
     </div>
+    <HeroWeather />
   </div>
 </section>
 
@@ -88,9 +96,28 @@
     );
   }
 
+  /* On phones the copy plus the weather panel fill most of the frame, so the
+     title sits far higher than the scrim above was tuned for. Carry the dark
+     further up rather than shrinking the type. */
+  @media (max-width: 767px) {
+    .hero::after {
+      background: linear-gradient(
+        to top,
+        color-mix(in srgb, var(--color-ink) 88%, transparent) 0%,
+        color-mix(in srgb, var(--color-ink) 70%, transparent) 45%,
+        color-mix(in srgb, var(--color-ink) 45%, transparent) 78%,
+        color-mix(in srgb, var(--color-ink) 22%, transparent) 100%
+      );
+    }
+  }
+
   .hero__inner {
     position: relative;
     max-width: 1180px;
+  }
+
+  .hero__copy {
+    max-width: 46ch;
   }
 
   .hero__title {
@@ -130,6 +157,17 @@
   @media (min-width: 768px) {
     .hero {
       min-height: 78vh;
+    }
+
+    /* The weather panel sits opposite the copy and settles on the same bottom
+       line, so the two blocks read as one band rather than two floating cards.
+       Below this width there is no room for a second column and the panel
+       falls back to full width under the buttons. */
+    .hero__inner {
+      display: flex;
+      align-items: flex-end;
+      justify-content: space-between;
+      gap: 2rem;
     }
   }
 </style>

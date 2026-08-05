@@ -6,7 +6,7 @@ meta_description: Moganshan is a bamboo mountain in Deqing County, Zhejiang, 60 
 excerpt: Moganshan is a bamboo mountain in Zhejiang, 60 km north of Hangzhou. Here is the geography, the villages, the history, and who the place suits.
 primary_keyword: moganshan china
 secondary_keywords: [where is moganshan china, moganshan zhejiang, mogan mountain]
-schema: Article + Place + FAQPage
+schema: Article + Place
 word_count: 1597
 last_updated: 2026-08-05
 ---
@@ -110,19 +110,5 @@ Tatler Asia calls Moganshan "the Hamptons of China". The New York Times put it o
 High-speed trains reach Deqing in 63 to 80 minutes from Shanghai Hongqiao, and in 13 to 17 minutes from Hangzhou East. From there you cover the last stretch by shuttle bus or taxi, about 30 to 40 minutes. If you are heading into the core scenic area, you then change vehicles again at one of three transfer centers: Yucun, Fatou or Houwu. They run 08:00 to 18:00.
 
 Full routes, fares and door-to-door estimates are on the [getting here](/getting-here/) page.
-
-## Questions people ask
-
-**Where is Moganshan, exactly?**
-Deqing County, Huzhou prefecture, Zhejiang Province, about 60 km north of Hangzhou and 200 to 240 km from Shanghai. It is not the Moganshan Road art district in Shanghai.
-
-**How do I get there?**
-Train to Deqing station, then 30 to 40 minutes by road. Do not book the station called Moganshan, which serves a different town.
-
-**How long should I stay?**
-Two nights is the useful minimum from Shanghai, since the trip runs close to three hours each way. One night works from Hangzhou. Three suits walkers, and the [things to do](/things-to-do/) page will tell you whether that is too many.
-
-**Is it worth it?**
-It depends on what you want. For quiet, cool air and good rooms in the countryside, yes. For sightseeing, food scene or anything after 21:00, no. Check the [weather and seasons](/moganshan/weather/) page before you fix dates, because season decides most of it.
 
 *Guesthouse counts, occupancy figures and visitor numbers last checked 5 August 2026. Ticket prices vary between sources and should be confirmed at booking.*

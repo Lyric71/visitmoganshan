@@ -1,0 +1,224 @@
+---
+import LegalPage from '../layouts/LegalPage.astro';
+
+/**
+ * /user-generated-content
+ *
+ * The page we point at when we ask a photographer for permission to use a
+ * picture, and the page a reader lands on after replying to that request. It
+ * has to work in two directions: it is a licence grant, and it is also the
+ * promise we make back about credit, scope and taking something down again.
+ *
+ * The reply tag matters. A public reply carrying #MoganshanYes is the only
+ * record either side has that permission was given, so the tag is stated once,
+ * exactly, and must not drift between this page and the request we send.
+ */
+const SECTIONS = [
+  { id: 'what-this-covers', label: 'What this covers' },
+  { id: 'how-we-ask', label: 'How we ask' },
+  { id: 'the-permission', label: 'The permission you give' },
+  { id: 'what-we-will-not-do', label: 'What we will not do' },
+  { id: 'credit', label: 'Credit' },
+  { id: 'your-promises', label: 'What you confirm' },
+  { id: 'people-in-the-frame', label: 'People in the frame' },
+  { id: 'age', label: 'Age' },
+  { id: 'moderation', label: 'Moderation' },
+  { id: 'takedown', label: 'Taking it down' },
+  { id: 'complaints', label: 'If it was not theirs to give' },
+  { id: 'money-and-data', label: 'Payment and your data' },
+  { id: 'general', label: 'General' },
+  { id: 'confirming', label: 'Confirming' },
+];
+---
+
+<LegalPage
+  title="User generated content"
+  seoTitle="User generated content terms · Visit Moganshan"
+  description="The terms on which Visit Moganshan publishes photographs, video, reviews and corrections sent in by readers: what permission you give, what we promise back, and how to have something removed."
+  standfirst="If we have asked to use your photograph, or you have sent us words, pictures or a correction, these are the terms. Your work stays yours. You give us permission to publish it, and you can take that permission back."
+  updated="2026-08-05"
+  sections={SECTIONS}
+>
+  <h2 id="what-this-covers">What this covers</h2>
+  <p>
+    These terms apply to any material you send us or allow us to use: photographs, video, captions,
+    reviews, trip reports, corrections, tips and messages. We call all of it "your content" below.
+    "We", "us" and "our" mean BeyondBorder Group Ltd, the Hong Kong company that publishes Visit
+    Moganshan.
+  </p>
+  <p>
+    They apply whether you sent the material to us directly, replied to a request from us on a social
+    platform, or agreed in writing by any other means. They sit alongside our
+    <a href="/terms">terms of use</a> and our <a href="/privacy">privacy policy</a>.
+  </p>
+
+  <h2 id="how-we-ask">How we ask</h2>
+  <p>
+    When we see a photograph of Moganshan we would like to publish, we contact the person who posted
+    it, on the platform where we found it, and we link to this page. Platforms include Instagram,
+    Xiaohongshu, Weibo, YouTube, Douyin, Flickr, Facebook and any similar service.
+  </p>
+  <p>
+    We do not treat a public post, a hashtag or a location tag as permission. Tagging a photograph
+    #moganshan is not an offer to us. We ask, every time, and we publish nothing until somebody says
+    yes.
+  </p>
+
+  <h2 id="the-permission">The permission you give</h2>
+  <p>
+    You keep the copyright in your content. Nothing here transfers ownership of anything, and you
+    remain free to publish, license or sell your own work to anybody else, including our competitors.
+  </p>
+  <p>
+    What you give us is permission: a worldwide, royalty free, non exclusive licence to use, store,
+    reproduce, display and publish your content on Visit Moganshan and on our own social media
+    accounts and newsletters, together with the right to crop, resize, compress, colour correct and
+    caption it so it fits the page it appears on. We may keep a copy for our records after it comes
+    down, so that we can show what was published and when.
+  </p>
+  <p>
+    Where you have given permission over a public reply or a message, we may also show your username
+    or name alongside the content, which is normally what crediting you requires.
+  </p>
+
+  <h2 id="what-we-will-not-do">What we will not do</h2>
+  <p>
+    This is a licence to publish a travel guide, not a blank cheque. Without asking you separately
+    and agreeing terms, we will not:
+  </p>
+  <ul>
+    <li>sell, sublicense or syndicate your content to another company;</li>
+    <li>use it in paid advertising, on merchandise, or in a printed product for sale;</li>
+    <li>use it to advertise a hotel, an operator or any other business;</li>
+    <li>
+      edit it in a way that changes what it shows, or place it beside a caption implying something
+      the picture does not support; or
+    </li>
+    <li>use it to train a machine learning model, or supply it to anybody else for that purpose.</li>
+  </ul>
+
+  <h2 id="credit">Credit</h2>
+  <p>
+    We credit by name or by handle wherever the format allows, and we link to your profile when you
+    give us one. If you would rather not be credited, or want a specific name used, tell us and we
+    will follow that. Being asked for a credit and then not receiving one is a fair reason to ask us
+    to take the content down, and we will.
+  </p>
+
+  <h2 id="your-promises">What you confirm</h2>
+  <p>By giving us permission, you confirm that:</p>
+  <ul>
+    <li>
+      the content is yours, or you hold every right needed to grant this permission, including from
+      any photographer, editor or collaborator involved;
+    </li>
+    <li>
+      publishing it will not breach anybody else's copyright, trade mark, privacy, publicity,
+      confidentiality or contractual rights;
+    </li>
+    <li>
+      it is accurate as far as you know, and where it is a review or a trip report, it describes your
+      own genuine experience;
+    </li>
+    <li>
+      you have not been paid or otherwise rewarded by a business to write it, or if you have, you
+      have told us; and
+    </li>
+    <li>
+      it is not defamatory, obscene, abusive, harassing, hateful, threatening, misleading or
+      otherwise unlawful.
+    </li>
+  </ul>
+
+  <h2 id="people-in-the-frame">People in the frame</h2>
+  <p>
+    If somebody is identifiable in your photograph or video, you confirm you have their agreement for
+    it to be published on a public travel site. If a child is identifiable, you confirm you have the
+    agreement of a parent or guardian. Where a person later objects to appearing, we will remove the
+    content rather than argue about it.
+  </p>
+
+  <h2 id="age">Age</h2>
+  <p>
+    You must be 18 or over to give us permission. If you are under 18, ask a parent or guardian to
+    contact us and give permission on your behalf.
+  </p>
+
+  <h2 id="moderation">Moderation</h2>
+  <p>
+    We choose what to publish, and we edit for length, clarity and house style. Not everything sent
+    to us is used, and a request from us is not a promise to publish.
+  </p>
+  <p>
+    We decline content that is unsafe to copy, such as trespass on closed land or driving advice we
+    would not stand behind; content that names or targets an individual member of hotel staff;
+    content that reads as a planted or paid review; and anything we cannot verify well enough to put
+    our name to. Declining is not a judgement on you, and we do not publish our reasons.
+  </p>
+
+  <h2 id="takedown">Taking it down</h2>
+  <p>
+    You can withdraw permission at any time, for any reason, without explaining yourself. Write to
+    <a href="mailto:hello@visitmoganshan.com">hello@visitmoganshan.com</a> and tell us which content
+    you mean. We remove it from the site within five working days, and from our social accounts as
+    soon as the platform allows.
+  </p>
+  <p>
+    Two honest limits. Copies already cached by search engines, archives or other people's reposts
+    are outside our control, and material already sent in a newsletter cannot be recalled from
+    inboxes. We will help you chase a cache where we can.
+  </p>
+  <p>
+    We may also remove your content ourselves at any time, without notice, if we believe it breaches
+    these terms or has stopped being accurate.
+  </p>
+
+  <h2 id="complaints">If it was not theirs to give</h2>
+  <p>
+    If you believe something published here is your work and was given to us by somebody else, write
+    to <a href="mailto:hello@visitmoganshan.com">hello@visitmoganshan.com</a> with the page address,
+    the content in question and enough detail to identify your rights in it. We take it down while we
+    look, not after. Getting that order the wrong way round is how publishers turn a mistake into a
+    dispute.
+  </p>
+
+  <h2 id="money-and-data">Payment and your data</h2>
+  <p>
+    Content published under these terms is unpaid on both sides. You are not charged, and no fee,
+    royalty or commission is due to you now or later. Where we commission work, we agree that
+    separately and in writing, and these terms do not apply to it.
+  </p>
+  <p>
+    Your name, handle and contact details are handled under our <a href="/privacy">privacy policy</a>,
+    which sets out what we keep, for how long and how to have it deleted. We keep a record of the
+    permission itself for as long as the content is published, plus two years, because that record is
+    the only proof either of us has that you said yes.
+  </p>
+
+  <h2 id="general">General</h2>
+  <p>
+    This permission is personal to us and we cannot transfer it without your written agreement,
+    except to a company that acquires the Visit Moganshan business as a whole. If we do not enforce
+    part of these terms straight away, we have not given it up. If any part is found unenforceable,
+    the rest stands. These terms are governed by the laws of Hong Kong, and the courts of Hong Kong
+    have exclusive jurisdiction, without depriving you of mandatory consumer protections in your own
+    country.
+  </p>
+  <p>
+    We may update this page. The version that applies to your content is the one published on the
+    date you gave permission, and the date at the top of this page is the current version.
+  </p>
+
+  <h2 id="confirming">Confirming</h2>
+  <p>
+    If we have asked to use your photograph on a social platform, reply publicly to that request with
+    the tag <strong>#MoganshanYes</strong>. That reply confirms that you have read this page, that
+    you agree to these terms, and that you are giving us permission to publish the content we asked
+    about.
+  </p>
+  <p>
+    If you would rather agree in writing instead, or want to change any part of this before you say
+    yes, email <a href="mailto:hello@visitmoganshan.com">hello@visitmoganshan.com</a> and we will sort
+    it out there. Saying no costs you nothing and we will not ask twice.
+  </p>
+</LegalPage>

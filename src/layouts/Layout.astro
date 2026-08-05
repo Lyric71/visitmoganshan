@@ -83,7 +83,10 @@ const ogImageUrl = new URL(ogImage, Astro.site).href;
          here rather than in the body so it is present before first paint. -->
     <slot name="head" />
   </head>
-  <body class={bodyClass}>
+  <!-- id="top" is the target of the footer's back to top link. On <body> rather
+       than on a wrapper so it returns the reader above the header, and so it
+       exists on every page without each one remembering to add it. -->
+  <body id="top" class={bodyClass}>
     <!-- First focusable element on every page. -->
     <a class="vm-skip" href="#main">Skip to content</a>
     <slot />

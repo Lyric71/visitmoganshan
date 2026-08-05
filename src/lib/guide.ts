@@ -21,7 +21,7 @@ export function toSlug(url: string): string {
  * see in the header.
  */
 const SECTIONS: Record<string, string> = {
-  moganshan: 'Discover',
+  moganshan: 'Destinations',
   'things-to-do': 'Things to do',
   'where-to-stay': 'Where to stay',
   'getting-here': 'Getting here',
@@ -34,6 +34,13 @@ const SECTIONS: Record<string, string> = {
 export function sectionLabel(url: string): string | undefined {
   return SECTIONS[toPath(url).split('/')[1] ?? ''];
 }
+
+/**
+ * The section labels in nav order, for anything that lists the whole site.
+ * Derived from SECTIONS rather than retyped, so a renamed section cannot end up
+ * ordered as if it were still called something else.
+ */
+export const SECTION_LABELS: string[] = Object.values(SECTIONS);
 
 export type Crumb = { label: string; href: string };
 
@@ -100,32 +107,45 @@ export type Faq = { question: string; answer: string };
 /**
  * Pull the question-and-answer pairs out of the raw markdown.
  *
- * The house pattern for an FAQ block is a bolded question on its own line
- * followed by an answer paragraph, so that is what this matches. Inline bold
- * inside a sentence cannot match, because the marker has to open the line and
- * the line has to end in a question mark.
+ * Questions live on the two FAQ hubs now, not on the articles, and the hubs
+ * write them as `### A question?` with the answer in the paragraph below. The
+ * older inline pattern, a bolded question line with the answer under it, is
+ * still matched: it is what the drafts used, and a page that goes back to it
+ * should still produce structured data rather than silently produce none.
+ *
+ * Only the first paragraph of an answer is carried into the markup. A longer
+ * answer reads fine on the page; in a rich result it is truncated anyway.
+ *
+ * Anything that is not a question and does not follow one is skipped, which is
+ * how the section intros and the closing freshness note stay out of the markup.
  */
 export function extractFaqs(body: string): Faq[] {
-  const lines = body.split(/\r?\n/);
   const faqs: Faq[] = [];
 
-  for (let i = 0; i < lines.length; i += 1) {
-    const match = /^\*\*(.+\?)\*\*\s*$/.exec(lines[i]!);
-    if (!match) continue;
+  for (const block of body.split(/\r?\n\s*\r?\n/)) {
+    const lines = block.trim().split(/\r?\n/);
+    const first = lines[0]?.trim();
+    if (!first) continue;
 
-    const answer: string[] = [];
-    for (let j = i + 1; j < lines.length; j += 1) {
-      const line = lines[j]!.trim();
-      if (!line) break;
-      answer.push(line);
+    const asHeading = /^###\s+(.+\?)\s*$/.exec(first);
+    if (asHeading) {
+      faqs.push({ question: asHeading[1]!, answer: '' });
+      continue;
     }
 
-    if (answer.length) {
-      faqs.push({ question: match[1]!, answer: stripMarkdown(answer.join(' ')) });
+    const asBold = /^\*\*(.+\?)\*\*\s*$/.exec(first);
+    if (asBold) {
+      faqs.push({ question: asBold[1]!, answer: stripMarkdown(lines.slice(1).join(' ')) });
+      continue;
     }
+
+    // A plain paragraph: the answer to the question above, when that question
+    // is still waiting for one.
+    const open = faqs[faqs.length - 1];
+    if (open && !open.answer) open.answer = stripMarkdown(lines.join(' '));
   }
 
-  return faqs;
+  return faqs.filter((faq) => faq.answer);
 }
 
 /** Answers go into JSON-LD as text, so links and emphasis come back out. */

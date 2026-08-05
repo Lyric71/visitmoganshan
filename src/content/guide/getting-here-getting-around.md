@@ -6,7 +6,7 @@ meta_description: Private cars cannot drive inside the Moganshan scenic area. Yo
 excerpt: Private vehicles cannot enter the scenic area. You transfer at Yucun, Fatou or Houwu. Here is how to move between villages, plus the luggage problem.
 primary_keyword: moganshan shuttle
 secondary_keywords: [moganshan bus, moganshan taxi, moganshan transfer centre]
-schema: HowTo + FAQPage
+schema: HowTo
 word_count: 1280
 last_updated: 2026-08-05
 ---
@@ -117,19 +117,5 @@ A few things genuinely help:
 - Book two nights rather than one. The transfer costs the same either way, and on a one-night trip it dominates.
 
 [Where to stay](/where-to-stay/) starts with that trade-off rather than with the properties.
-
-## Questions people actually ask
-
-**What happens to my luggage at the transfer center?**
-It moves with you. You take your bags off the vehicle that brought you and onto scenic-area transport. There is no left-luggage arrangement we can confirm, so plan to carry everything.
-
-**I will arrive after 18:00. What then?**
-The transfer centers are closed. If your guesthouse is outside the boundary, a taxi will still reach it. If it is inside, message them before you board your train, and be ready to spend the night in Wukang, the county seat about 20 km away, and go up in the morning.
-
-**Is there a bus between the villages?**
-Not one we can confirm for visitors. The Y1 shuttle connects Deqing station with Moganshan town, and it terminates there. For village-to-village movement, assume a car or a pickup.
-
-**Can I take a taxi inside the scenic area?**
-No. Private vehicles do not enter, and a taxi is a private vehicle. It takes you to Yucun, Fatou or Houwu, and that is where it leaves you.
 
 *Shuttle times, fares and transfer center hours last checked 5 August 2026. Hours and timetables change without notice, so confirm the ones your plan depends on before you travel.*

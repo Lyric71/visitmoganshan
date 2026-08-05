@@ -122,18 +122,4 @@ Most of these buildings are private. Some are homes, some are offices, a few are
 
 The walk is a looking exercise. Stay on public roads and paths, do not open gates, do not walk into gardens and do not photograph through windows. A villa that gets treated badly ends up behind a higher wall, and then nobody sees it. Where a building is a hotel, the way in is a booking.
 
-## Questions people ask
-
-**How long does this walk take?**
-We do not know yet, and we will not publish a figure until we have walked it with a timer. That is why the route notes say TODO: verify on the ground.
-
-**Can I go inside any of the villas?**
-Mostly no. Several operate as hotels, and those you can book. The rest are private or closed.
-
-**Did Mao Zedong write the constitution at the Empress Hotel villa?**
-He stayed there in 1954, the year the first constitution was adopted. The drafting is documented as having happened in Hangzhou, so we do not repeat the local version.
-
-**Where should I start reading if this is all new?**
-Try [the Moganshan hill station](/moganshan/hill-station/) for the short version, [the longer history](/moganshan/hill-station/history/) for the dates and the disputes, and [the villas of Moganshan](/moganshan/hill-station/the-villas/) for the buildings one by one.
-
 *Historic dates on this page were checked on 5 August 2026. Route distances, walking times, access and opening hours are not yet verified on the ground, and are marked as such throughout. Ticket prices and transfer hours change; check them when you book.*

@@ -1,0 +1,771 @@
+---
+import Layout from '../layouts/Layout.astro';
+import SiteHeader from '../components/SiteHeader.astro';
+import SiteFooter from '../components/SiteFooter.astro';
+import { getGuideEntries, sectionLabel, SECTION_LABELS, toPath } from '../lib/guide';
+
+/**
+ * /search
+ *
+ * The header has always linked here. What it needed was a page.
+ *
+ * Matching happens in the browser against /search-index.json, built from the
+ * guide collection at build time. That is the only shape a search box can take
+ * on a statically hosted site without standing up a service, and at this size
+ * it is also the fastest: one cached fetch, then results as the reader types,
+ * with no round trip per keystroke.
+ *
+ * Everything that matters works without JavaScript. The page renders the full
+ * guide, grouped by section, and that list is what a reader sees before they
+ * type and what a crawler receives. The results panel replaces it only once a
+ * query is actually matched, so a broken script leaves a browsable index rather
+ * than an empty box.
+ *
+ * The form is a real GET form pointing at this page, so /search?q=train is a
+ * shareable URL and the browser back button walks the queries.
+ */
+const entries = await getGuideEntries();
+
+// Section order follows the nav, so the browse list reads in the same order as
+// the header rather than alphabetically by accident of the URL tree.
+const grouped = new Map<string, { title: string; url: string; excerpt: string }[]>();
+
+for (const entry of entries) {
+  const section = sectionLabel(entry.data.url) ?? 'Guide';
+  const list = grouped.get(section) ?? [];
+  list.push({
+    title: entry.data.title,
+    url: toPath(entry.data.url),
+    excerpt: entry.data.excerpt,
+  });
+  grouped.set(section, list);
+}
+
+const sections = [...grouped.entries()]
+  .map(([title, pages]) => ({
+    title,
+    // Shortest path first: the section landing page sits above its children.
+    pages: pages.sort((a, b) => a.url.length - b.url.length || a.title.localeCompare(b.title)),
+  }))
+  .sort((a, b) => {
+    const ai = SECTION_LABELS.indexOf(a.title);
+    const bi = SECTION_LABELS.indexOf(b.title);
+    // Anything outside the known sections falls to the end rather than to the
+    // top, which is where an unlabelled page would otherwise land.
+    return (
+      (ai === -1 ? SECTION_LABELS.length : ai) - (bi === -1 ? SECTION_LABELS.length : bi) ||
+      a.title.localeCompare(b.title)
+    );
+  });
+
+const total = entries.length;
+---
+
+<Layout
+  title="Search · Visit Moganshan"
+  description="Search every guide on Visit Moganshan: getting here, where to stay, things to do and when to go."
+  noindex
+>
+  <SiteHeader />
+
+  <main id="main">
+    <div class="vm-container">
+      <header class="head">
+        <p class="vm-kicker">Search</p>
+        <h1>Search the guide</h1>
+        <p class="standfirst">
+          {total} pages on Moganshan: how to get here, where to stay, what there is to do and when
+          to come. Type a place, a station or a question.
+        </p>
+
+        <form class="search" role="search" method="get" action="/search" data-search-form>
+          <label class="sr-only" for="search-q">Search Visit Moganshan</label>
+          <span class="search__field">
+            <svg class="search__icon" viewBox="0 0 20 20" aria-hidden="true" focusable="false">
+              <circle cx="9" cy="9" r="6" fill="none" stroke="currentColor" stroke-width="1.8"
+              ></circle>
+              <path
+                d="M13.5 13.5 L17.5 17.5"
+                stroke="currentColor"
+                stroke-width="1.8"
+                stroke-linecap="round"></path>
+            </svg>
+            <input
+              class="search__input"
+              id="search-q"
+              name="q"
+              type="search"
+              placeholder="Shanghai by train, minsu, bamboo forest…"
+              autocomplete="off"
+              autocapitalize="off"
+              spellcheck="false"
+              enterkeyhint="search"
+            />
+            <button class="search__clear" type="button" data-search-clear hidden>
+              <span aria-hidden="true">✕</span>
+              <span class="sr-only">Clear search</span>
+            </button>
+          </span>
+          <button class="vm-btn search__submit" type="submit">Search</button>
+        </form>
+
+        <p class="search__status" data-search-status role="status" aria-live="polite"></p>
+      </header>
+
+      <!-- Results. Empty and hidden until a query matches; filled by the script
+           below. Never rendered at build time, because there is no query then. -->
+      <section class="results" data-search-results hidden aria-labelledby="results-title">
+        <h2 class="sr-only" id="results-title">Search results</h2>
+        <ul class="results__list" data-search-list></ul>
+      </section>
+
+      <!-- Nothing found. Sits between the results and the browse list so the
+           reader's next move is one of ours, not the back button. -->
+      <section class="empty" data-search-empty hidden>
+        <h2>Nothing matched</h2>
+        <p>
+          Try a shorter query, or the name of a place: <em>Deqing</em>, <em>Sword Pond</em>,
+          <em>minsu</em>. Everything on the site is listed below.
+        </p>
+      </section>
+
+      <section class="browse" data-search-browse aria-labelledby="browse-title">
+        <h2 id="browse-title">Everything on the site</h2>
+        <div class="browse__grid">
+          {
+            sections.map((section) => (
+              <div class="browse__section">
+                <p class="vm-kicker">{section.title}</p>
+                <ul>
+                  {section.pages.map((page) => (
+                    <li>
+                      <a href={page.url}>
+                        <span class="browse__title">{page.title}</span>
+                        <span class="browse__sub">{page.excerpt}</span>
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ))
+          }
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <SiteFooter />
+</Layout>
+
+<script>
+  /**
+   * Client-side search over the prebuilt index.
+   *
+   * Scoring is a weighted field match, not a relevance model: a token in the
+   * title is worth more than the same token in the twelfth paragraph, and a
+   * token that opens a word beats one buried inside it. On a guide this size
+   * that ranks correctly and takes under a millisecond, which is why there is
+   * no index library here.
+   *
+   * Every token has to match somewhere for a page to be a result. "shanghai
+   * train" returning every page that mentions Shanghai is how a small site
+   * search earns its reputation for being useless.
+   */
+  type Doc = { t: string; u: string; e: string; s: string; k: string; b: string };
+  type Prepared = Doc & { title: string; keywords: string; section: string; excerpt: string; body: string };
+  type Hit = { doc: Prepared; score: number };
+
+  const form = document.querySelector<HTMLFormElement>('[data-search-form]');
+  const input = document.querySelector<HTMLInputElement>('#search-q');
+  const clear = document.querySelector<HTMLButtonElement>('[data-search-clear]');
+  const status = document.querySelector<HTMLElement>('[data-search-status]');
+  const results = document.querySelector<HTMLElement>('[data-search-results]');
+  const list = document.querySelector<HTMLElement>('[data-search-list]');
+  const empty = document.querySelector<HTMLElement>('[data-search-empty]');
+  const browse = document.querySelector<HTMLElement>('[data-search-browse]');
+
+  if (form && input && status && results && list && empty && browse) {
+    const FIELDS = [
+      { key: 'title' as const, weight: 12 },
+      { key: 'keywords' as const, weight: 8 },
+      { key: 'section' as const, weight: 5 },
+      { key: 'excerpt' as const, weight: 4 },
+      { key: 'body' as const, weight: 1 },
+    ];
+
+    let docs: Prepared[] | null = null;
+    let loading: Promise<Prepared[]> | null = null;
+
+    /* --- Index ---------------------------------------------------------- */
+
+    // Lowercased copies live on the document so the hot loop never lowercases
+    // the same 6 KB of body copy again on the next keystroke.
+    const load = (): Promise<Prepared[]> => {
+      if (docs) return Promise.resolve(docs);
+      if (loading) return loading;
+
+      loading = fetch('/search-index.json')
+        .then((response) => {
+          if (!response.ok) throw new Error(`search index: ${response.status}`);
+          return response.json() as Promise<Doc[]>;
+        })
+        .then((raw) => {
+          docs = raw.map((doc) => ({
+            ...doc,
+            title: doc.t.toLowerCase(),
+            keywords: doc.k.toLowerCase(),
+            section: doc.s.toLowerCase(),
+            excerpt: doc.e.toLowerCase(),
+            body: doc.b.toLowerCase(),
+          }));
+          return docs;
+        });
+
+      return loading;
+    };
+
+    // Fetch as soon as the reader shows intent, so the first keystroke has the
+    // index in hand. Neither event fires on a page nobody searches from.
+    input.addEventListener('focus', () => void load(), { once: true });
+    form.addEventListener('submit', () => void load(), { once: true });
+
+    /* --- Matching ------------------------------------------------------- */
+
+    const tokenize = (query: string): string[] =>
+      query
+        .toLowerCase()
+        .normalize('NFKD')
+        // Keep CJK: the mountain's own name is the query some readers type.
+        .replace(/[^\p{Letter}\p{Number}\s]+/gu, ' ')
+        .split(/\s+/)
+        .filter(Boolean)
+        .slice(0, 8);
+
+    /**
+     * Score one field against one token.
+     *
+     * A word-opening match scores full, a match inside a word scores a third.
+     * "train" should rank the train page above a page that says "training".
+     */
+    const scoreField = (haystack: string, token: string): number => {
+      let index = haystack.indexOf(token);
+      let best = 0;
+
+      while (index !== -1) {
+        const before = index === 0 ? '' : haystack[index - 1]!;
+        const opensWord = index === 0 || !/[\p{Letter}\p{Number}]/u.test(before);
+        best = Math.max(best, opensWord ? 1 : 0.34);
+        if (best === 1) break;
+        index = haystack.indexOf(token, index + token.length);
+      }
+
+      return best;
+    };
+
+    /**
+     * The token, then its singular, for a query typed in the plural against
+     * copy written in the singular. A substring match already handles the other
+     * direction ("villa" finds "villas"), so only this way round needs help.
+     * The singular scores slightly under an exact hit, and that is the whole
+     * stemmer: anything more aggressive starts matching words nobody typed.
+     */
+    const variantsOf = (token: string): { text: string; factor: number }[] => {
+      const variants = [{ text: token, factor: 1 }];
+      if (token.length > 4 && /(?:ies|es|s)$/.test(token)) {
+        const singular = token.endsWith('ies')
+          ? `${token.slice(0, -3)}y`
+          : token.replace(/e?s$/, '');
+        if (singular.length > 2) variants.push({ text: singular, factor: 0.85 });
+      }
+      return variants;
+    };
+
+    const search = (tokens: string[], corpus: Prepared[]): Hit[] => {
+      const hits: Hit[] = [];
+      const variants = tokens.map(variantsOf);
+
+      for (const doc of corpus) {
+        let score = 0;
+        let matchedAll = true;
+
+        for (const token of variants) {
+          let tokenScore = 0;
+          for (const field of FIELDS) {
+            for (const variant of token) {
+              tokenScore = Math.max(
+                tokenScore,
+                scoreField(doc[field.key], variant.text) * field.weight * variant.factor,
+              );
+            }
+          }
+          if (tokenScore === 0) {
+            matchedAll = false;
+            break;
+          }
+          score += tokenScore;
+        }
+
+        if (!matchedAll) continue;
+
+        // The whole query as one phrase is a stronger signal than its parts.
+        const phrase = tokens.join(' ');
+        if (tokens.length > 1) {
+          if (doc.title.includes(phrase)) score += 20;
+          else if (doc.body.includes(phrase) || doc.excerpt.includes(phrase)) score += 8;
+        }
+
+        hits.push({ doc, score });
+      }
+
+      return hits.sort((a, b) => b.score - a.score || a.doc.t.localeCompare(b.doc.t));
+    };
+
+    /* --- Rendering ------------------------------------------------------ */
+
+    const escapeHtml = (text: string): string =>
+      text.replace(
+        /[&<>"']/g,
+        (char) =>
+          ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[char] ?? char,
+      );
+
+    const escapeRegExp = (text: string): string => text.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+
+    /** Marks matches in text that has already been escaped. */
+    const highlight = (escaped: string, tokens: string[]): string => {
+      if (!tokens.length) return escaped;
+      const pattern = new RegExp(`(${tokens.map(escapeRegExp).join('|')})`, 'gi');
+      return escaped.replace(pattern, '<mark>$1</mark>');
+    };
+
+    /**
+     * A window of body copy around the first match, cut on word boundaries.
+     * Falls back to the excerpt, which is what the listings elsewhere show.
+     */
+    const snippet = (doc: Prepared, tokens: string[]): string => {
+      const WINDOW = 180;
+      let at = -1;
+
+      for (const token of tokens) {
+        const found = doc.body.indexOf(token);
+        if (found !== -1 && (at === -1 || found < at)) at = found;
+      }
+
+      if (at === -1) return doc.e;
+
+      let start = Math.max(0, at - Math.floor(WINDOW / 3));
+      let end = Math.min(doc.b.length, start + WINDOW);
+      if (start > 0) {
+        const space = doc.b.indexOf(' ', start);
+        // Only trim forward to a word boundary that still leaves the match in.
+        if (space !== -1 && space < at) start = space + 1;
+      }
+      if (end < doc.b.length) {
+        const cut = doc.b.lastIndexOf(' ', end);
+        if (cut > start) end = cut;
+      }
+
+      const text = doc.b.slice(start, end).trim();
+      return `${start > 0 ? '… ' : ''}${text}${end < doc.b.length ? ' …' : ''}`;
+    };
+
+    const render = (hits: Hit[], tokens: string[]) => {
+      list.innerHTML = hits
+        .map(({ doc }) => {
+          const title = highlight(escapeHtml(doc.t), tokens);
+          const text = highlight(escapeHtml(snippet(doc, tokens)), tokens);
+          return `<li class="results__item">
+              <a href="${doc.u}">
+                <span class="results__section">${escapeHtml(doc.s)}</span>
+                <span class="results__title">${title}</span>
+                <span class="results__snippet">${text}</span>
+                <span class="results__url">${escapeHtml(doc.u)}</span>
+              </a>
+            </li>`;
+        })
+        .join('');
+    };
+
+    /* --- State ---------------------------------------------------------- */
+
+    const show = (element: HTMLElement, visible: boolean) => {
+      element.hidden = !visible;
+    };
+
+    const reset = (message = '') => {
+      status.textContent = message;
+      list.innerHTML = '';
+      show(results, false);
+      show(empty, false);
+      show(browse, true);
+    };
+
+    const run = async (query: string) => {
+      const tokens = tokenize(query);
+
+      if (!tokens.length) {
+        reset();
+        return;
+      }
+
+      let corpus: Prepared[];
+      try {
+        corpus = await load();
+      } catch {
+        // The index is the only thing that can fail here. Say so, and leave the
+        // full guide on screen rather than an empty results panel.
+        reset('Search is unavailable right now. Everything on the site is listed below.');
+        return;
+      }
+
+      // A slower fetch than the reader types: only paint the newest query.
+      if (input.value !== query) return;
+
+      const hits = search(tokens, corpus);
+      const count = hits.length;
+
+      status.textContent = count
+        ? `${count} ${count === 1 ? 'page' : 'pages'} for “${query.trim()}”`
+        : `Nothing for “${query.trim()}”`;
+
+      // Highlighting and snippets work off the same variants the scoring used,
+      // so a plural query still marks the singular it actually matched.
+      render(hits, [...new Set(tokens.flatMap((token) => variantsOf(token).map((v) => v.text)))]);
+      show(results, count > 0);
+      show(empty, count === 0);
+      show(browse, count === 0);
+    };
+
+    /* --- Wiring --------------------------------------------------------- */
+
+    const syncUrl = (query: string) => {
+      const url = new URL(window.location.href);
+      if (query.trim()) url.searchParams.set('q', query.trim());
+      else url.searchParams.delete('q');
+      // replaceState, not pushState: typing should not stack thirty history
+      // entries between the reader and the page they came from.
+      window.history.replaceState(null, '', `${url.pathname}${url.search}`);
+    };
+
+    let timer: number | undefined;
+
+    input.addEventListener('input', () => {
+      const query = input.value;
+      if (clear) clear.hidden = !query;
+      window.clearTimeout(timer);
+      timer = window.setTimeout(() => {
+        syncUrl(query);
+        void run(query);
+      }, 140);
+    });
+
+    form.addEventListener('submit', (event) => {
+      // The form still works without this: it would GET /search?q=… and the
+      // code below would run the query on load. Handling it here just avoids
+      // reloading the page and refetching the index to show the same results.
+      event.preventDefault();
+      window.clearTimeout(timer);
+      syncUrl(input.value);
+      void run(input.value);
+    });
+
+    clear?.addEventListener('click', () => {
+      input.value = '';
+      clear.hidden = true;
+      syncUrl('');
+      reset();
+      input.focus();
+    });
+
+    // Escape clears the field before the browser's own search-input behaviour
+    // does something different per engine.
+    input.addEventListener('keydown', (event) => {
+      if (event.key !== 'Escape' || !input.value) return;
+      event.preventDefault();
+      input.value = '';
+      if (clear) clear.hidden = true;
+      syncUrl('');
+      reset();
+    });
+
+    // Arriving at /search?q=…, and the back and forward buttons.
+    const applyUrlQuery = () => {
+      const query = new URL(window.location.href).searchParams.get('q') ?? '';
+      input.value = query;
+      if (clear) clear.hidden = !query;
+      if (query) void run(query);
+      else reset();
+    };
+
+    window.addEventListener('popstate', applyUrlQuery);
+    applyUrlQuery();
+
+    // Focus last, so an autofocus does not fight the scroll restore on a page
+    // the reader has come back to.
+    if (!input.value) input.focus({ preventScroll: true });
+  }
+</script>
+
+<style>
+  /* Head ------------------------------------------------------------------ */
+
+  .head {
+    padding-block: clamp(2rem, 4vw, 3.25rem) clamp(1.5rem, 3vw, 2.25rem);
+  }
+
+  .head h1 {
+    max-width: 18ch;
+    text-wrap: balance;
+  }
+
+  .standfirst {
+    max-width: 52ch;
+    margin-top: 1rem;
+    font-size: clamp(1.0625rem, 1.6vw, 1.1875rem);
+    line-height: 1.55;
+    color: var(--color-muted);
+  }
+
+  /* Form ------------------------------------------------------------------ */
+
+  .search {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin-top: clamp(1.5rem, 3vw, 2rem);
+    max-width: 46rem;
+  }
+
+  .search__field {
+    position: relative;
+    display: flex;
+    align-items: center;
+    flex: 1 1 18rem;
+    background: var(--color-surface);
+    border: 1px solid var(--color-line);
+  }
+
+  .search__field:focus-within {
+    border-color: var(--color-bamboo);
+    box-shadow: 0 0 0 3px color-mix(in srgb, var(--color-leaf) 22%, transparent);
+  }
+
+  .search__icon {
+    flex: none;
+    width: 20px;
+    height: 20px;
+    margin-inline: 0.9rem 0;
+    color: var(--color-muted);
+  }
+
+  .search__input {
+    flex: 1;
+    /* 44px minimum touch target, and 16px minimum so iOS does not zoom the
+       viewport the moment the field takes focus. */
+    min-height: 52px;
+    padding: 0.5rem 0.75rem;
+    border: 0;
+    background: transparent;
+    font-family: var(--font-body);
+    font-size: 1rem;
+    color: var(--color-ink);
+  }
+
+  .search__input:focus {
+    outline: none;
+  }
+
+  .search__input::placeholder {
+    color: var(--color-muted);
+  }
+
+  /* The engines' own clear button sits at a different place per browser and
+     cannot be styled; ours is the one that stays put. */
+  .search__input::-webkit-search-cancel-button {
+    display: none;
+  }
+
+  .search__clear {
+    flex: none;
+    width: 44px;
+    height: 44px;
+    margin-right: 0.25rem;
+    border: 0;
+    background: transparent;
+    font-size: 0.9375rem;
+    line-height: 1;
+    color: var(--color-muted);
+    cursor: pointer;
+  }
+
+  .search__clear:hover {
+    color: var(--color-bamboo);
+  }
+
+  .search__submit {
+    flex: none;
+    min-height: 52px;
+  }
+
+  .search__status {
+    margin-top: 1rem;
+    min-height: 1.5rem;
+    font-size: 0.875rem;
+    color: var(--color-muted);
+  }
+
+  /* Results --------------------------------------------------------------- */
+
+  .results {
+    padding-bottom: clamp(2.5rem, 5vw, 4rem);
+  }
+
+  .results__list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    border-top: 1px solid var(--color-line);
+  }
+
+  /* Everything below a result item is written by the script, so it never
+     carries this component's scope attribute. The list itself does, which is
+     what keeps these :global rules from leaking off the page. */
+
+  .results__list :global(.results__item) {
+    border-bottom: 1px solid var(--color-line);
+  }
+
+  .results__list :global(.results__item a) {
+    display: block;
+    padding: 1.25rem 0;
+    text-decoration: none;
+  }
+
+  .results__list :global(.results__item a:hover .results__title) {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+
+  .results__list :global(.results__section) {
+    display: block;
+    font-size: 0.75rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--color-muted);
+  }
+
+  .results__list :global(.results__title) {
+    display: block;
+    margin-top: 0.35rem;
+    font-family: var(--font-display);
+    font-size: clamp(1.125rem, 2vw, 1.375rem);
+    line-height: 1.3;
+    color: var(--color-bamboo);
+  }
+
+  .results__list :global(.results__snippet) {
+    display: block;
+    max-width: 68ch;
+    margin-top: 0.4rem;
+    font-size: 0.9375rem;
+    line-height: 1.6;
+    color: var(--color-ink);
+  }
+
+  .results__list :global(.results__url) {
+    display: block;
+    margin-top: 0.5rem;
+    font-size: 0.8125rem;
+    color: var(--color-muted);
+  }
+
+  .results__list :global(mark) {
+    background: color-mix(in srgb, var(--color-amber) 38%, transparent);
+    color: inherit;
+    padding: 0 0.1em;
+  }
+
+  /* Empty ----------------------------------------------------------------- */
+
+  .empty {
+    padding-block: clamp(1.5rem, 3vw, 2.5rem);
+    border-top: 1px solid var(--color-line);
+  }
+
+  .empty h2 {
+    font-size: clamp(1.25rem, 2vw, 1.5rem);
+  }
+
+  .empty p {
+    max-width: 52ch;
+    margin-top: 0.75rem;
+    color: var(--color-muted);
+  }
+
+  /* Browse ---------------------------------------------------------------- */
+
+  .browse {
+    padding-block: clamp(2rem, 4vw, 3rem) clamp(3rem, 6vw, 4.5rem);
+    border-top: 1px solid var(--color-line);
+  }
+
+  .browse h2 {
+    font-size: clamp(1.25rem, 2vw, 1.5rem);
+    margin-bottom: clamp(1.5rem, 3vw, 2rem);
+  }
+
+  .browse__grid {
+    display: grid;
+    gap: clamp(2rem, 4vw, 3rem);
+  }
+
+  @media (min-width: 768px) {
+    .browse__grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+
+  @media (min-width: 1180px) {
+    .browse__grid {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+  }
+
+  .browse__section ul {
+    margin: 0.75rem 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .browse__section li + li {
+    margin-top: 0.25rem;
+    border-top: 1px solid var(--color-line);
+  }
+
+  .browse__section li a {
+    display: block;
+    padding: 0.7rem 0;
+    text-decoration: none;
+  }
+
+  .browse__title {
+    display: block;
+    font-family: var(--font-display);
+    font-size: 1.0625rem;
+    line-height: 1.35;
+    color: var(--color-bamboo);
+  }
+
+  .browse__section li a:hover .browse__title {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+
+  .browse__sub {
+    display: block;
+    margin-top: 0.2rem;
+    font-size: 0.875rem;
+    line-height: 1.5;
+    color: var(--color-muted);
+  }
+</style>

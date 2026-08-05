@@ -6,7 +6,7 @@ meta_description: There is a Moganshan train station and it does not serve the m
 excerpt: The high-speed station named Moganshan does not serve the mountain. Deqing does. Here are the shuttle times, the fare, the taxi cost and late-arrival fixes.
 primary_keyword: moganshan train station
 secondary_keywords: [deqing station to moganshan, deqing railway station, y1 shuttle moganshan]
-schema: HowTo + Place + FAQPage
+schema: HowTo + Place
 word_count: 1294
 last_updated: 2026-08-05
 ---
@@ -112,27 +112,5 @@ Take the 17:39 from Hongqiao and you reach Deqing at 18:42. The last Y1 left at 
 Wukang is the Deqing county seat and the county's service town, which is why the Crowne Plaza Deqing Moganshan sits there rather than on the mountain. That is geography, not a recommendation. [Where to stay](/where-to-stay/) sets out the options across the whole area.
 
 One more warning. Chinese reporting notes the Moganshan villages have no real evening economy: no night market, very little late-night food. Arriving at 20:00 hungry is a real risk. Eat at the station or in Wukang.
-
-## Questions people actually ask
-
-### Is there a Moganshan train station?
-
-Yes, and that is the problem. It sits on a different line and it does not serve the mountain. Book Deqing.
-
-### I arrived late and the shuttle has finished. What now?
-
-Take a taxi to Moganshan town, about RMB 100 and about 30 minutes. If your bed is inside the scenic area and the transfer centers have closed for the day, message your guesthouse and be ready to spend the night in Wukang instead. Nothing about this is unusual, and no one will be surprised by your call.
-
-### How far is Deqing station to Moganshan?
-
-About 30 to 40 minutes by shuttle, about 30 minutes by taxi. The Y1 costs RMB 10 and a taxi costs about RMB 100.
-
-### Can I take a taxi all the way to my guesthouse?
-
-Sometimes. Private vehicles cannot enter the scenic area, so if your guesthouse is inside it you will change vehicles at Yucun, Fatou or Houwu, between 08:00 and 18:00. Confirm with the property first.
-
-### Is Hangzhou easier than Shanghai for this?
-
-Considerably. Hangzhou East to Deqing is 13 to 17 minutes with 16 services a day. If your itinerary allows a Hangzhou night before Moganshan, the transfer stops being a project.
 
 Fares, timetables and the Y1 schedule were last checked on 5 August 2026. Rail times change with each timetable revision, so confirm the shuttle departure you are counting on before you commit to a late train.

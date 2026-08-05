@@ -54,6 +54,16 @@ export type NavGroup = {
   match: string[];
   columns: NavColumn[];
   feature: NavFeature;
+  /**
+   * The section's FAQ hub. Pages no longer carry their own FAQ block: the
+   * questions from every page in a group are answered together on one hub, so
+   * a reader who arrives with a question lands somewhere that answers it and
+   * the twenty near-duplicate questions across the section become one set.
+   *
+   * Omitted where the hub does not exist yet, which keeps a dead link out of
+   * the header of every page on the site.
+   */
+  faq?: NavLink;
 };
 
 export const NAV: NavGroup[] = [
@@ -90,6 +100,7 @@ export const NAV: NavGroup[] = [
       title: "Moganshan's hill station",
       sub: 'Two hundred stone villas, and why they are here',
     },
+    faq: { label: 'Questions about the mountain', href: '/moganshan/faq' },
   },
 
   {
@@ -197,6 +208,7 @@ export const NAV: NavGroup[] = [
       title: 'Shanghai to Moganshan by train',
       sub: 'The route, the station, the last leg',
     },
+    faq: { label: 'Planning questions, answered', href: '/plan/faq' },
   },
 ];
 

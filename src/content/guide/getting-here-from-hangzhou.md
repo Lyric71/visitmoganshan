@@ -6,7 +6,7 @@ meta_description: "How to get to Moganshan from Hangzhou. The 13 to 17 minute tr
 excerpt: "Hangzhou East to Deqing takes 13 to 17 minutes, but the transfer takes longer. Real times, real costs and options for reaching Moganshan from Hangzhou."
 primary_keyword: how to get to moganshan from hangzhou
 secondary_keywords: [hangzhou to moganshan, moganshan from hangzhou, deqing station, hangzhou xiaoshan airport to moganshan]
-schema: Article + HowTo + FAQPage
+schema: Article + HowTo
 word_count: 1419
 last_updated: 2026-08-05
 ---
@@ -110,27 +110,5 @@ The temperature is a real argument in summer. July and August average 24.1 °C o
 > Tatler Asia, on Moganshan. No publication date given.
 
 If you want the trip mapped out with Shanghai in the mix, see our [Shanghai, Hangzhou and Moganshan itinerary](/itineraries/shanghai-hangzhou-moganshan/). For where to sleep once you are up there, start with [where to stay](/where-to-stay/).
-
-## Questions people actually ask
-
-**How long is the train from Hangzhou to Moganshan?**
-
-There is no train to Moganshan. The train runs Hangzhou East to Deqing in 13 to 17 minutes, and you transfer from there. Total travel time is closer to two hours.
-
-**Can I visit Moganshan as a day trip from Hangzhou?**
-
-You can, but it is tight. The last Y1 shuttle back to Deqing leaves around 17:00, which gives you roughly six hours on the mountain if you catch an early departure. With a car you get more room. A night is better than a long day.
-
-**Which station do I book?**
-
-Deqing. Not Moganshan station, which serves the county town area and not the mountain. Not Huzhou, which is farther away.
-
-**How much is the scenic area ticket?**
-
-Sources disagree, and we are not going to pick one for you. Published figures run from RMB 50 to RMB 130 depending on the source and the season, and winter tickets are half price. Check the current rate when you book.
-
-**Do I need a car once I am there?**
-
-Not inside the scenic area, where private vehicles are barred anyway. Between villages, a car or a booked driver helps, since the villages are spread out and Houwu is about 30 minutes from Yucun.
 
 *Timetables, fares and ticket prices last checked 5 August 2026. Rail schedules and shuttle departures change with the season. Confirm before you travel.*

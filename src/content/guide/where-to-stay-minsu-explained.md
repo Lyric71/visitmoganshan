@@ -6,7 +6,7 @@ meta_description: A minsu is a small owner-run guesthouse. Moganshan has about 1
 excerpt: Moganshan has about 1,000 minsu and few hotels. Here is what a Chinese guesthouse stay involves, what it costs, and whether foreign guests are accepted.
 primary_keyword: moganshan homestay
 secondary_keywords: [what is a minsu, china minsu, moganshan guesthouse]
-schema: Article + FAQPage
+schema: Article
 word_count: 1376
 last_updated: 2026-08-05
 ---
@@ -114,22 +114,5 @@ Payback periods stretched from three to five years out to five to eight. Labor e
 None of that is your problem directly. It becomes your problem in one way. Quality varies enormously, because many owners built into a boom that has since cooled, and no rating system holds the middle of the market to a standard. Read recent reviews. Look at photographs of the room, not the terrace.
 
 One more warning, about arrival. Private vehicles cannot drive inside the scenic area, so you change at a transfer center. [Getting around](/getting-here/getting-around/) covers it, and it is worth reading before you book a bed you cannot easily reach.
-
-## Questions people actually ask
-
-**Is a minsu the same as an Airbnb?**
-Not quite. An Airbnb is a listing. A minsu is a category of small licensed guesthouse, normally with an owner or manager living on site, and here it is the dominant form of accommodation rather than an alternative to one.
-
-**Can a foreign passport holder book directly?**
-Yes, and the May 2024 directive says a property cannot refuse you for lack of a licence. Refusals still happen, so confirm in writing before you pay.
-
-**Is RMB 300 a night really enough?**
-Off season and midweek, yes. That band is the normal mid-range rate. On a summer weekend or a Golden Week, expect the same room to ask RMB 1,000 or more. High-end occupancy hit 94 percent over the May 2024 holiday.
-
-**Will anyone speak English?**
-At the foreign-founded and high-end properties, likely. At a village family house, assume not, and plan around a translation app.
-
-**Do I need to book dinner in advance?**
-On your arrival night, yes. The villages have almost no evening food, and turning up hungry at eight is how people end up eating instant noodles.
 
 *Rates, occupancy figures and property counts last checked 5 August 2026. Prices move sharply between weekday and weekend, so confirm the night you actually want before you plan around a number.*

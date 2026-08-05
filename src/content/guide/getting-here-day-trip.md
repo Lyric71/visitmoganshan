@@ -6,7 +6,7 @@ meta_description: Can you visit Moganshan in a day from Shanghai? Yes, but barel
 excerpt: The arithmetic of a Moganshan day trip from Shanghai, an hour-by-hour plan for people doing it anyway, and what a second night actually buys you.
 primary_keyword: moganshan day trip from shanghai
 secondary_keywords: [moganshan day trip, is moganshan a good day trip, moganshan from shanghai in one day]
-schema: Article + FAQPage
+schema: Article
 word_count: 1506
 last_updated: 2026-08-05
 ---
@@ -104,22 +104,5 @@ For where to base yourself, start with [where to stay in Moganshan](/where-to-st
 Sometimes it is. If you are starting from Hangzhou rather than Shanghai, the whole calculation changes: door to door from central Hangzhou is 1 hour 20 minutes to 1 hour 45 minutes by car. It also makes sense if you have one free weekday in a packed China trip, or if you just want to see whether the place deserves a proper visit later.
 
 Go on a Monday if you can. Weekends and holidays drive the crowds here, and the gap is severe.
-
-## Frequently asked questions
-
-**Is Moganshan a good day trip from Shanghai?**
-It is workable but tight. You will spend 5 hours 30 minutes to 7 hours travelling and get about four to five hours on the mountain. From Pudong it is not worth attempting.
-
-**What is the earliest I can be on the mountain?**
-Realistically about 10:15 to 10:40, taking an early train from Hongqiao and the 09:40 Y1 shuttle. The transfer centres open at 08:00, but no Shanghai traveler arrives that early.
-
-**What time do I have to start heading back?**
-Aim to be moving down by 15:45. The last Y1 return leaves at 17:00 and the transfer centres close at 18:00. After that you are paying about RMB 100 for a taxi to Deqing.
-
-**Can I drive up and skip the shuttle?**
-Not inside the scenic area. Private cars stop at Yucun, Fatou or Houwu and you transfer there. Those centres run 08:00 to 18:00.
-
-**Is one night enough instead of two?**
-One night helps a lot because it buys you a morning. Two nights buys two mornings and takes the pressure off both travel days.
 
 *Train times, shuttle departures, transfer-centre hours and room-rate bands last checked 5 August 2026. Ticket prices conflict across sources and change by season, so confirm at booking.*

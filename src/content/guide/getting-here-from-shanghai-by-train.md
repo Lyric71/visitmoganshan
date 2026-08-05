@@ -6,7 +6,7 @@ meta_description: Real train times and fares from Shanghai Hongqiao to Deqing, h
 excerpt: "A practical rail guide from Shanghai Hongqiao to Moganshan: the direct services, fares, booking steps, what happens at Deqing station, and the last thirty kilometers."
 primary_keyword: shanghai to moganshan train
 secondary_keywords: [hongqiao to moganshan, shanghai moganshan high speed rail, deqing station]
-schema: HowTo + FAQPage
+schema: HowTo
 word_count: 1443
 last_updated: 2026-08-05
 ---
@@ -122,22 +122,5 @@ These are estimates, not timetabled figures. They assume you are not sprinting.
 | Central Shanghai by car | 2h30 to 3h15 |
 
 Pudong is the honest problem here. You have to cross Shanghai to Hongqiao first, by maglev and metro or by car in 50 to 70 minutes, before the rail journey even starts. If you land at Pudong in the afternoon, a night in Shanghai often beats arriving on the mountain after dark. The [overview of routes from Shanghai](/getting-here/from-shanghai/) compares rail, car and coach side by side.
-
-## Questions people actually ask
-
-**Is there a direct train from Shanghai to Moganshan?**
-No. There is no station at the mountain. The direct trains run to Deqing, 13 a day from Hongqiao, and you finish the trip by shuttle or taxi.
-
-**How long does the train take?**
-Between 63 and 80 minutes from Shanghai Hongqiao to Deqing, depending on which service you catch.
-
-**What does it cost?**
-Roughly RMB 61 to 110 for a second class seat, plus RMB 10 for the Y1 shuttle or about RMB 100 for a taxi.
-
-**Can I do Moganshan as a day trip from Shanghai?**
-You can, but you will spend five to seven hours in transit for a few hours on the mountain, and the last useful shuttle back leaves in the late afternoon. One night is the minimum that makes sense.
-
-**Should I go via Hangzhou instead?**
-If you are already in Hangzhou, yes. Hangzhou East to Deqing is 13 to 17 minutes with 16 services a day. It is not worth a detour from Shanghai.
 
 Train times, fares and shuttle departures last checked 5 August 2026. Verify live timetables when you book.
