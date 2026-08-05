@@ -7,6 +7,8 @@ excerpt: Six historic stone villas on a Zhejiang mountain, in an order that work
 primary_keyword: moganshan walking tour
 secondary_keywords: [moganshan villa walk, moganshan heritage villas, self guided moganshan]
 schema: HowTo + TouristTrip
+image: /images/guide/moganshan-hill-station-walking-tour.webp
+image_alt: Worn stone steps climbing between mossy garden walls towards a villa gatepost
 word_count: 1568
 last_updated: 2026-08-05
 ---

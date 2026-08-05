@@ -7,6 +7,8 @@ excerpt: "A practical rail guide from Shanghai Hongqiao to Moganshan: the direct
 primary_keyword: shanghai to moganshan train
 secondary_keywords: [hongqiao to moganshan, shanghai moganshan high speed rail, deqing station]
 schema: HowTo
+image: /images/guide/getting-here-from-shanghai-by-train.webp
+image_alt: A white high speed train standing at an empty platform under a long station canopy
 word_count: 1443
 last_updated: 2026-08-05
 ---

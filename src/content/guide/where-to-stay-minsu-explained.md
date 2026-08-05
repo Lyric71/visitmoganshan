@@ -7,6 +7,8 @@ excerpt: Moganshan has about 1,000 minsu and few hotels. Here is what a Chinese 
 primary_keyword: moganshan homestay
 secondary_keywords: [what is a minsu, china minsu, moganshan guesthouse]
 schema: Article
+image: /images/guide/where-to-stay-minsu-explained.webp
+image_alt: A lit upstairs window of a whitewashed village guesthouse above a stone courtyard at dusk
 word_count: 1376
 last_updated: 2026-08-05
 ---

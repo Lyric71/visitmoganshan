@@ -7,6 +7,8 @@ excerpt: A straight answer on whether Moganshan is worth visiting, what the moun
 primary_keyword: is moganshan worth visiting
 secondary_keywords: [moganshan worth it, should i visit moganshan]
 schema: Article
+image: /images/guide/plan-is-moganshan-worth-visiting.webp
+image_alt: Two wooden chairs and a glass of tea on a stone terrace above a bamboo valley
 word_count: 1500
 last_updated: 2026-08-05
 ---

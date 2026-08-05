@@ -7,6 +7,8 @@ excerpt: Moganshan is over 92 percent forest, nearly all moso bamboo. What that 
 primary_keyword: moganshan bamboo forest
 secondary_keywords: [china bamboo forest, moganshan bamboo, bamboo forest near shanghai]
 schema: TouristAttraction
+image: /images/guide/moganshan-bamboo-forest.webp
+image_alt: A narrow earth track running between dense moso bamboo culms in the Moganshan forest
 word_count: 1465
 last_updated: 2026-08-05
 ---

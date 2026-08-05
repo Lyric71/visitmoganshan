@@ -33,6 +33,13 @@ const guide = defineCollection({
     secondary_keywords: z.array(z.string()).default([]),
     /** Draft note, e.g. "Article + HowTo + FAQPage". Drives the JSON-LD. */
     schema: z.string().default('Article'),
+    /**
+     * Card thumbnail, used wherever the page is listed rather than read. Both
+     * fields travel together: an image with no hand written alt is a decorative
+     * image, and none of these are decorative.
+     */
+    image: z.string().optional(),
+    image_alt: z.string().optional(),
     word_count: z.number().optional(),
     last_updated: z.coerce.date(),
   }),

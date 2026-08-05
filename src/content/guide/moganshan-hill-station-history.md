@@ -7,6 +7,8 @@ excerpt: Moganshan began as a missionary summer escape in the 1890s. Here is the
 primary_keyword: moganshan history
 secondary_keywords: [moganshan 1930s, moganshan expat history, moganshan missionaries]
 schema: Article
+image: /images/guide/moganshan-hill-station-history.webp
+image_alt: A weathered stone villa with an arched veranda standing empty in the trees at Moganshan
 word_count: 2097
 last_updated: 2026-08-05
 ---

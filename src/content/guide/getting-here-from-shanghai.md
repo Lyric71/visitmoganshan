@@ -7,6 +7,8 @@ excerpt: Every route from Shanghai to Moganshan, with real train times, fares, t
 primary_keyword: how to get to moganshan from shanghai
 secondary_keywords: [shanghai to moganshan, moganshan from shanghai, how far is moganshan from shanghai]
 schema: Article + HowTo
+image: /images/guide/getting-here-from-shanghai.webp
+image_alt: The view from a car on an elevated expressway leaving a hazy Chinese city for green hills
 word_count: 1835
 last_updated: 2026-08-05
 ---

@@ -12,6 +12,8 @@ secondary_keywords:
   - moganshan day trip from shanghai
   - moganshan minsu
 schema: Article + FAQPage
+image: /images/guide/plan-faq.webp
+image_alt: A folded paper map, a notebook, keys and a glass of tea on a table by a window onto green hills
 word_count: 1900
 last_updated: 2026-08-05
 ---

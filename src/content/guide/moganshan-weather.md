@@ -7,6 +7,8 @@ excerpt: Moganshan sits 719 meters up and runs 6 to 7 degrees cooler than Shangh
 primary_keyword: moganshan weather
 secondary_keywords: [moganshan weather forecast, moganshan temperature, best time to visit moganshan]
 schema: Article
+image: /images/guide/moganshan-weather.webp
+image_alt: Mist drifting through wet bamboo above a rain darkened stone path on Moganshan
 word_count: 1400
 last_updated: 2026-08-05
 ---

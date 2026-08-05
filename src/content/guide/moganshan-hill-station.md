@@ -7,6 +7,8 @@ excerpt: American missionaries built a summer colony on this Zhejiang mountain i
 primary_keyword: moganshan hill station
 secondary_keywords: [shanghai hill station, moganshan colonial villas, hamptons of china]
 schema: Article
+image: /images/guide/moganshan-hill-station.webp
+image_alt: Stone summer houses with tiled roofs stepping down a bamboo covered slope at Moganshan
 word_count: 1687
 last_updated: 2026-08-05
 ---

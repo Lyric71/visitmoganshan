@@ -7,6 +7,8 @@ excerpt: The arithmetic of a Moganshan day trip from Shanghai, an hour-by-hour p
 primary_keyword: moganshan day trip from shanghai
 secondary_keywords: [moganshan day trip, is moganshan a good day trip, moganshan from shanghai in one day]
 schema: Article
+image: /images/guide/getting-here-day-trip.webp
+image_alt: An empty city avenue at dawn with a single taxi approaching between glass towers
 word_count: 1506
 last_updated: 2026-08-05
 ---

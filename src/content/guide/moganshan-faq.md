@@ -11,6 +11,8 @@ secondary_keywords:
   - moganshan bamboo forest tickets
   - moganshan villas
 schema: Article + FAQPage
+image: /images/guide/moganshan-faq.webp
+image_alt: A weathered wooden signpost where two forest paths meet in the bamboo on Moganshan
 word_count: 1400
 last_updated: 2026-08-05
 ---

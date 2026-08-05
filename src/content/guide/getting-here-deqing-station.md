@@ -7,6 +7,8 @@ excerpt: The high-speed station named Moganshan does not serve the mountain. Deq
 primary_keyword: moganshan train station
 secondary_keywords: [deqing station to moganshan, deqing railway station, y1 shuttle moganshan]
 schema: HowTo + Place
+image: /images/guide/getting-here-deqing-station.webp
+image_alt: A minibus and a line of taxis waiting outside a small modern Chinese railway station
 word_count: 1294
 last_updated: 2026-08-05
 ---

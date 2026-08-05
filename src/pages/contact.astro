@@ -1,0 +1,531 @@
+---
+import Layout from '../layouts/Layout.astro';
+import SiteHeader from '../components/SiteHeader.astro';
+import SiteFooter from '../components/SiteFooter.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import { CONTACT_TOPICS } from '../data/contact';
+
+/**
+ * /contact
+ *
+ * The footer has linked here since the first build. This is the page.
+ *
+ * Four fields and a sum, because every field added to a contact form is a reason
+ * not to finish it, and because the answer to "what do you want" is better
+ * written in a message box than picked from a taxonomy we invented. The topic
+ * select earns its place by routing the subject line, nothing more.
+ *
+ * The sum is the spam check. It arrives from /api/contact-challenge with a
+ * signed token and is verified server side; see src/lib/captcha.ts.
+ *
+ * Submission is a fetch to /api/contact so the reader keeps their scroll
+ * position and their typing when something fails, which on a form this size
+ * matters more than the round trip saved. The route validates everything again,
+ * because required attributes stop nobody posting from a script.
+ *
+ * The form needs JavaScript. Once there is a published address to fall back on,
+ * put it in the aside so a reader with scripting off still has a way through.
+ */
+const crumbs = [
+  { label: 'Home', href: '/' },
+  { label: 'Contact', href: '/contact' },
+];
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'ContactPage',
+  name: 'Contact',
+  description: 'How to reach the editors of Visit Moganshan.',
+  url: new URL('/contact', Astro.site).href,
+  inLanguage: 'en',
+  isPartOf: {
+    '@type': 'WebSite',
+    name: 'Visit Moganshan',
+    url: Astro.site?.href,
+  },
+  breadcrumb: {
+    '@type': 'BreadcrumbList',
+    itemListElement: crumbs.map((crumb, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      name: crumb.label,
+      item: new URL(crumb.href, Astro.site).href,
+    })),
+  },
+};
+---
+
+<Layout
+  title="Contact · Visit Moganshan"
+  description="Questions about Moganshan, corrections to a guide, listings and press enquiries. Write to the editors and we answer within a few days."
+>
+  <Fragment slot="head">
+    <Fragment set:html={`<script type="application/ld+json">${JSON.stringify(jsonLd)}</script>`} />
+  </Fragment>
+
+  <SiteHeader />
+  <Breadcrumbs crumbs={crumbs} />
+
+  <main id="main">
+    <div class="vm-container">
+      <header class="head">
+        <p class="vm-kicker">Contact</p>
+        <h1>Write to us</h1>
+        <p class="standfirst">
+          Corrections, questions the guide does not answer, a hotel or a business that belongs on
+          the site, or a press request. It reaches the editors, and we usually answer within a few
+          days.
+        </p>
+      </header>
+
+      <div class="grid">
+        <form class="form" novalidate data-contact-form>
+          <div class="field">
+            <label for="name">Your name</label>
+            <input id="name" name="name" type="text" required autocomplete="name" maxlength="120" />
+          </div>
+
+          <div class="field">
+            <label for="email">Your email</label>
+            <input
+              id="email"
+              name="email"
+              type="email"
+              required
+              autocomplete="email"
+              maxlength="200"
+              inputmode="email"
+            />
+            <p class="hint">So we can reply. We do not add it to any list.</p>
+          </div>
+
+          <div class="field">
+            <label for="topic">What is this about</label>
+            <select id="topic" name="topic">
+              {CONTACT_TOPICS.map((topic) => <option value={topic}>{topic}</option>)}
+            </select>
+          </div>
+
+          <div class="field">
+            <label for="message">Your message</label>
+            <textarea id="message" name="message" rows="7" required maxlength="4000"></textarea>
+          </div>
+
+          <!-- The math question, filled in by /api/contact-challenge. The page
+               is prerendered, so a sum written here would be the same sum for
+               every reader for the life of the deploy. -->
+          <div class="field field--sum">
+            <label for="answer">
+              Quick check: what is <span data-contact-question>loading the question</span>?
+            </label>
+            <input
+              id="answer"
+              name="answer"
+              type="text"
+              required
+              autocomplete="off"
+              inputmode="numeric"
+              maxlength="12"
+              size={8}
+            />
+            <p class="hint">This keeps automated spam out of the inbox.</p>
+          </div>
+
+          <!-- Honeypot. Off screen rather than display:none, because some bots
+               skip hidden inputs, and hidden from assistive tech either way. -->
+          <div class="trap" aria-hidden="true">
+            <label for="company">Company</label>
+            <input id="company" name="company" type="text" tabindex="-1" autocomplete="off" />
+          </div>
+
+          <div class="actions">
+            <button class="vm-btn" type="submit" data-contact-submit>Send message</button>
+            <p class="consent">
+              By sending this you agree we may keep the message to answer it. See our{' '}
+              <a href="/privacy">privacy notice</a>.
+            </p>
+          </div>
+
+          <p class="status" role="status" aria-live="polite" data-contact-status hidden></p>
+        </form>
+
+        <aside class="aside">
+          <h2>Before you write</h2>
+
+          <p>
+            <strong>Bookings.</strong> Tell us the dates, how many of you there are and roughly what you
+            are after, and we will pass it to the hotel. They come back to you directly with availability
+            and a price. Nothing is charged on this site.
+          </p>
+
+          <p>
+            <strong>Corrections are welcome.</strong> Prices, timetables and opening hours on the mountain
+            change without notice. If something here is out of date, tell us what you found and when,
+            and we will check it.
+          </p>
+
+          <p>
+            <strong>Trade and media.</strong> Rates, availability and press material reach the same inbox.
+            Pick the trade and media topic and we will route it.
+          </p>
+
+          <h2>What happens next</h2>
+          <p>
+            The message lands in the editors' inbox and we reply from a real address, so you can
+            answer straight back. A booking enquiry goes to the hotel with your name and your email,
+            because that is how they answer you. Nothing goes anywhere else.
+          </p>
+
+          <p class="publisher">
+            Visit Moganshan is published by BeyondBorder Group Ltd, Hong Kong.
+          </p>
+        </aside>
+      </div>
+    </div>
+  </main>
+
+  <SiteFooter />
+</Layout>
+
+<script>
+  /**
+   * Posts the form as JSON and reports back in one status line.
+   *
+   * Validation is left to the browser's own constraint API on submit, so the
+   * messages are the reader's language and the focus lands on the field that is
+   * wrong. The route validates everything again; this is only here to save a
+   * round trip.
+   */
+  type Challenge = { question: string; token: string };
+
+  const form = document.querySelector<HTMLFormElement>('[data-contact-form]');
+  const status = document.querySelector<HTMLParagraphElement>('[data-contact-status]');
+  const submit = document.querySelector<HTMLButtonElement>('[data-contact-submit]');
+  const question = document.querySelector<HTMLElement>('[data-contact-question]');
+  const answer = document.querySelector<HTMLInputElement>('#answer');
+
+  if (form && status && submit && question && answer) {
+    const say = (message: string, tone: 'ok' | 'bad') => {
+      status.textContent = message;
+      status.dataset.tone = tone;
+      status.hidden = false;
+    };
+
+    const value = (name: string): string => {
+      const field = form.elements.namedItem(name);
+      return field instanceof HTMLInputElement ||
+        field instanceof HTMLTextAreaElement ||
+        field instanceof HTMLSelectElement
+        ? field.value.trim()
+        : '';
+    };
+
+    /* --- The math question ---------------------------------------------- */
+
+    let token = '';
+
+    const paint = (challenge: Challenge) => {
+      token = challenge.token;
+      question.textContent = challenge.question;
+      answer.value = '';
+    };
+
+    const fetchChallenge = async (): Promise<boolean> => {
+      try {
+        const response = await fetch('/api/contact-challenge', { cache: 'no-store' });
+        if (!response.ok) throw new Error(String(response.status));
+        paint((await response.json()) as Challenge);
+        return true;
+      } catch {
+        question.textContent = 'unavailable';
+        return false;
+      }
+    };
+
+    // Fetched on load, so the question is on the page by the time anyone has
+    // finished typing a message rather than adding a wait to the send.
+    void fetchChallenge();
+
+    /* --- Sending ---------------------------------------------------------- */
+
+    form.addEventListener('submit', async (event) => {
+      event.preventDefault();
+
+      // novalidate is on the form so this runs on our terms, after the honeypot
+      // check and before anything is sent.
+      if (!form.reportValidity()) return;
+      if (value('company')) return;
+
+      // The question can be missing if the first fetch failed, or stale on a
+      // page left open for an hour. One retry here beats refusing to send.
+      if (!token && !(await fetchChallenge())) {
+        say('The spam check could not load. Please reload the page and try again.', 'bad');
+        return;
+      }
+
+      const label = submit.textContent;
+      submit.disabled = true;
+      submit.textContent = 'Sending…';
+      status.hidden = true;
+
+      try {
+        const response = await fetch('/api/contact', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            name: value('name'),
+            email: value('email'),
+            topic: value('topic'),
+            message: value('message'),
+            answer: value('answer'),
+            token,
+          }),
+        });
+
+        const result = (await response.json()) as {
+          success?: boolean;
+          error?: string;
+          challenge?: Challenge;
+        };
+
+        if (response.ok && result.success) {
+          form.reset();
+          // A used question is spent, and the next message needs its own.
+          void fetchChallenge();
+          say('Thank you. Your message is on its way, and we answer from a real address.', 'ok');
+        } else {
+          // A refused sum comes back with a replacement, so the reader answers
+          // the new one rather than reloading the page.
+          if (result.challenge) paint(result.challenge);
+          say(result.error || 'Something went wrong. Please try again.', 'bad');
+          if (result.challenge) answer.focus();
+        }
+      } catch {
+        say('No connection. Check your network and try again.', 'bad');
+      } finally {
+        submit.disabled = false;
+        submit.textContent = label;
+      }
+    });
+  }
+</script>
+
+<style>
+  /* Head ------------------------------------------------------------------ */
+
+  .head {
+    padding-block: clamp(2rem, 4vw, 3rem);
+    border-bottom: 1px solid var(--color-line);
+  }
+
+  .head h1 {
+    max-width: 18ch;
+    text-wrap: balance;
+  }
+
+  .standfirst {
+    max-width: 56ch;
+    margin-top: 1rem;
+    font-size: clamp(1.0625rem, 1.6vw, 1.1875rem);
+    line-height: 1.55;
+    color: var(--color-muted);
+  }
+
+  /* Body ------------------------------------------------------------------ */
+
+  .grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    gap: clamp(2.5rem, 5vw, 3.5rem);
+    padding-block: clamp(2rem, 4vw, 3rem) clamp(3rem, 6vw, 4.5rem);
+  }
+
+  @media (min-width: 1024px) {
+    .grid {
+      grid-template-columns: minmax(0, 1fr) 19rem;
+      align-items: start;
+    }
+  }
+
+  /* Form ------------------------------------------------------------------ */
+
+  .form {
+    max-width: 34rem;
+  }
+
+  .field + .field {
+    margin-top: 1.5rem;
+  }
+
+  .field label {
+    display: block;
+    margin-bottom: 0.4rem;
+    font-size: 0.8125rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--color-bamboo);
+  }
+
+  .field input,
+  .field select,
+  .field textarea {
+    display: block;
+    width: 100%;
+    /* 16px minimum, so iOS does not zoom the viewport on focus. */
+    min-height: 52px;
+    padding: 0.75rem 0.875rem;
+    background: var(--color-surface);
+    border: 1px solid var(--color-line);
+    border-radius: 6px;
+    font-family: var(--font-body);
+    font-size: 1rem;
+    line-height: 1.5;
+    color: var(--color-ink);
+  }
+
+  .field textarea {
+    min-height: 0;
+    resize: vertical;
+  }
+
+  .field select {
+    /* The native arrow disappears on some engines once a background is set, so
+       the control keeps its own appearance rather than being redrawn here. */
+    appearance: auto;
+  }
+
+  .field input:focus-visible,
+  .field select:focus-visible,
+  .field textarea:focus-visible {
+    outline: 2px solid var(--color-amber);
+    outline-offset: 2px;
+    border-color: var(--color-bamboo);
+  }
+
+  /* :user-invalid, not :invalid. A required field is invalid from the moment the
+     page loads, and painting an empty form red before anyone has typed is how a
+     form tells the reader they have already failed. */
+  .field input:user-invalid,
+  .field textarea:user-invalid {
+    border-color: #a1392c;
+  }
+
+  /* The answer is at most two digits, so a full width box would be a lie about
+     how much is wanted. The question itself drops the label's small caps: it is
+     a sentence to read, not a field name to scan. */
+  .field--sum input {
+    width: 7rem;
+  }
+
+  .field--sum [data-contact-question] {
+    font-size: 0.9375rem;
+    font-weight: 700;
+    letter-spacing: 0;
+    text-transform: none;
+    color: var(--color-ink);
+  }
+
+  .hint {
+    margin-top: 0.4rem;
+    font-size: 0.8125rem;
+    line-height: 1.5;
+    color: var(--color-muted);
+  }
+
+  .trap {
+    position: absolute;
+    left: -9999px;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+  }
+
+  .actions {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.75rem 1.25rem;
+    margin-top: 1.75rem;
+  }
+
+  .actions button {
+    min-height: 52px;
+  }
+
+  .consent {
+    flex: 1 1 16rem;
+    font-size: 0.8125rem;
+    line-height: 1.5;
+    color: var(--color-muted);
+  }
+
+  .consent a {
+    color: var(--color-bamboo);
+  }
+
+  .status {
+    margin-top: 1.25rem;
+    padding: 0.875rem 1.125rem;
+    border-left: 3px solid var(--color-stone);
+    background: var(--color-mist-50);
+    font-size: 0.9375rem;
+    line-height: 1.6;
+  }
+
+  .status[data-tone='ok'] {
+    border-left-color: var(--color-leaf);
+    color: var(--color-bamboo);
+  }
+
+  .status[data-tone='bad'] {
+    border-left-color: #a1392c;
+    color: #7d2c22;
+  }
+
+  /* Aside ------------------------------------------------------------------ */
+
+  .aside {
+    padding: clamp(1.5rem, 3vw, 1.875rem);
+    background: var(--color-mist-50);
+    border: 1px solid var(--color-line);
+    border-radius: 10px;
+    font-size: 0.9375rem;
+    line-height: 1.6;
+  }
+
+  .aside h2 {
+    font-size: 1.125rem;
+  }
+
+  .aside h2 + p {
+    margin-top: 0.75rem;
+  }
+
+  .aside p + h2 {
+    margin-top: 1.75rem;
+  }
+
+  .aside p + p {
+    margin-top: 0.875rem;
+  }
+
+  .aside strong {
+    font-weight: 600;
+    color: var(--color-bamboo);
+  }
+
+  .aside a {
+    color: var(--color-bamboo);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+
+  .publisher {
+    margin-top: 1.5rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--color-line);
+    font-size: 0.8125rem;
+    color: var(--color-muted);
+  }
+</style>

@@ -7,6 +7,8 @@ excerpt: Moganshan sits 60 km north of Hangzhou in Zhejiang. Here is the full ch
 primary_keyword: how to get to moganshan
 secondary_keywords: [moganshan how to get there, getting to moganshan from shanghai]
 schema: Article + HowTo
+image: /images/guide/getting-here.webp
+image_alt: A narrow mountain road curving up through bamboo forest with a crash barrier above the valley
 word_count: 1596
 last_updated: 2026-08-05
 ---

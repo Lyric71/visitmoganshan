@@ -128,8 +128,22 @@ const jsonLd = guideJsonLd(entry, crumbs)
               {siblings.map((sibling) => (
                 <li>
                   <a href={toPath(sibling.data.url)}>
-                    <span class="more__title">{sibling.data.title}</span>
-                    <span class="more__sub">{sibling.data.excerpt}</span>
+                    <span class="more__media">
+                      {sibling.data.image && (
+                        <img
+                          src={sibling.data.image}
+                          alt={sibling.data.image_alt ?? ''}
+                          width="300"
+                          height="200"
+                          loading="lazy"
+                          decoding="async"
+                        />
+                      )}
+                    </span>
+                    <span class="more__text">
+                      <span class="more__title">{sibling.data.title}</span>
+                      <span class="more__sub">{sibling.data.excerpt}</span>
+                    </span>
                   </a>
                 </li>
               ))}
@@ -290,7 +304,9 @@ const jsonLd = guideJsonLd(entry, crumbs)
   }
 
   .more li a {
-    display: block;
+    display: flex;
+    gap: 1rem;
+    align-items: flex-start;
     height: 100%;
     padding: 1.125rem 1.25rem;
     background: var(--color-paper);
@@ -299,6 +315,31 @@ const jsonLd = guideJsonLd(entry, crumbs)
 
   .more li a:hover {
     background: var(--color-mist-50);
+  }
+
+  /* Fixed basis rather than a percentage: the two columns are different
+     widths at some viewports, and a thumbnail that changes size between them
+     reads as two different components. */
+  .more__media {
+    flex: 0 0 5.5rem;
+    aspect-ratio: 3 / 2;
+    overflow: hidden;
+    background: var(--color-mist);
+  }
+
+  .more__media img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .more li a:hover .more__media img {
+    opacity: 0.92;
+  }
+
+  .more__text {
+    min-width: 0;
   }
 
   .more__title {

@@ -7,6 +7,8 @@ excerpt: "Hangzhou East to Deqing takes 13 to 17 minutes, but the transfer takes
 primary_keyword: how to get to moganshan from hangzhou
 secondary_keywords: [hangzhou to moganshan, moganshan from hangzhou, deqing station, hangzhou xiaoshan airport to moganshan]
 schema: Article + HowTo
+image: /images/guide/getting-here-from-hangzhou.webp
+image_alt: Rice paddies, a white walled village and low green hills seen from a moving train window
 word_count: 1419
 last_updated: 2026-08-05
 ---

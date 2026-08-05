@@ -7,6 +7,8 @@ excerpt: Private vehicles cannot enter the scenic area. You transfer at Yucun, F
 primary_keyword: moganshan shuttle
 secondary_keywords: [moganshan bus, moganshan taxi, moganshan transfer centre]
 schema: HowTo
+image: /images/guide/getting-here-getting-around.webp
+image_alt: A small green shuttle bus rounding a bend on a road through dense bamboo forest
 word_count: 1280
 last_updated: 2026-08-05
 ---
