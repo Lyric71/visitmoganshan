@@ -48,9 +48,11 @@ export default defineConfig({
     sitemap({
       changefreq: 'weekly',
       priority: 0.7,
-      // /search is noindex, and the JSON index behind it is not a page. A
-      // sitemap that lists either is telling Google two different things.
-      filter: (page) => !/\/search(-index\.json)?$/.test(page.replace(/\/$/, '')),
+      // /search and the contact confirmation are noindex, and the JSON index
+      // behind the search box is not a page. A sitemap that lists any of them is
+      // telling Google two different things.
+      filter: (page) =>
+        !/\/(search(-index\.json)?|contact\/thank-you)$/.test(page.replace(/\/$/, '')),
     }),
   ],
 });

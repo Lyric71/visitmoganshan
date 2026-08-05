@@ -118,11 +118,15 @@ const jsonLd = {
             <label for="answer">
               Quick check: what is <span data-contact-question>loading the question</span>?
             </label>
+            <!-- Not required in the markup: the question arrives from a fetch,
+                 and a required field nobody can answer until that lands turns
+                 Send into a button that silently does nothing. The script marks
+                 it required once there is a question to answer, and the route
+                 checks the sum again regardless. -->
             <input
               id="answer"
               name="answer"
               type="text"
-              required
               autocomplete="off"
               inputmode="numeric"
               maxlength="12"
@@ -132,10 +136,18 @@ const jsonLd = {
           </div>
 
           <!-- Honeypot. Off screen rather than display:none, because some bots
-               skip hidden inputs, and hidden from assistive tech either way. -->
+               skip hidden inputs, and hidden from assistive tech either way.
+
+               The name is deliberately meaningless. It was "company" and that
+               is a field every browser knows: Chrome and Edge fill a saved
+               organization into it regardless of autocomplete="off", which they
+               treat as advisory for address profiles. A reader whose browser did
+               that was silently read as a bot, and Send did nothing at all. Any
+               token an autofill heuristic recognises, company, organisation,
+               address, phone, is unusable here. -->
           <div class="trap" aria-hidden="true">
-            <label for="company">Company</label>
-            <input id="company" name="company" type="text" tabindex="-1" autocomplete="off" />
+            <label for="vm-ref">Leave this field empty</label>
+            <input id="vm-ref" name="vm-ref" type="text" tabindex="-1" autocomplete="off" />
           </div>
 
           <div class="actions">
@@ -228,6 +240,7 @@ const jsonLd = {
       token = challenge.token;
       question.textContent = challenge.question;
       answer.value = '';
+      answer.required = true;
     };
 
     const fetchChallenge = async (): Promise<boolean> => {
@@ -238,6 +251,7 @@ const jsonLd = {
         return true;
       } catch {
         question.textContent = 'unavailable';
+        answer.required = false;
         return false;
       }
     };
@@ -251,17 +265,34 @@ const jsonLd = {
     form.addEventListener('submit', async (event) => {
       event.preventDefault();
 
+      // The honeypot is posted, not judged here. Deciding in the browser means
+      // one wrong guess about a filled field ends as a button that does nothing
+      // and says nothing, which is the worst failure this form has. The route
+      // answers a trapped submission with a plain success, so a bot still
+      // learns nothing.
+
+      // The question comes first, before the browser is asked to validate. The
+      // other order is how Send becomes a button that does nothing: with no
+      // question on the page the answer box is empty, validation stops there,
+      // and the reader is left staring at a field reading "unavailable" with
+      // nothing said about why. The fetch can fail on load, or the question can
+      // be stale on a page left open for an hour; one retry here beats both.
+      if (!token) {
+        if (!(await fetchChallenge())) {
+          say('The spam check could not load. Please reload the page and try again.', 'bad');
+          return;
+        }
+
+        // The question has only just appeared, so there is nothing to send yet.
+        // Point at it rather than posting an answer we know is empty.
+        say('Almost there: answer the quick check above, then send again.', 'bad');
+        answer.focus();
+        return;
+      }
+
       // novalidate is on the form so this runs on our terms, after the honeypot
       // check and before anything is sent.
       if (!form.reportValidity()) return;
-      if (value('company')) return;
-
-      // The question can be missing if the first fetch failed, or stale on a
-      // page left open for an hour. One retry here beats refusing to send.
-      if (!token && !(await fetchChallenge())) {
-        say('The spam check could not load. Please reload the page and try again.', 'bad');
-        return;
-      }
 
       const label = submit.textContent;
       submit.disabled = true;
@@ -278,6 +309,7 @@ const jsonLd = {
             topic: value('topic'),
             message: value('message'),
             answer: value('answer'),
+            trap: value('vm-ref'),
             token,
           }),
         });
@@ -289,10 +321,13 @@ const jsonLd = {
         };
 
         if (response.ok && result.success) {
+          // Reset before leaving, so a reader who comes straight back on the
+          // history stack does not find their sent message still sitting there
+          // in a restored form, looking unsent.
           form.reset();
-          // A used question is spent, and the next message needs its own.
-          void fetchChallenge();
-          say('Thank you. Your message is on its way, and we answer from a real address.', 'ok');
+          say('Sent. Taking you to the confirmation…', 'ok');
+          window.location.assign('/contact/thank-you');
+          return;
         } else {
           // A refused sum comes back with a replacement, so the reader answers
           // the new one rather than reloading the page.

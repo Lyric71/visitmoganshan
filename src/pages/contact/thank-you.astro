@@ -1,0 +1,218 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import SiteHeader from '../../components/SiteHeader.astro';
+import SiteFooter from '../../components/SiteFooter.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+
+/**
+ * /contact/thank-you
+ *
+ * Where the form lands after a message goes out.
+ *
+ * A confirmation line under the send button was enough to say the post
+ * succeeded, and not enough to answer the question a reader actually has next,
+ * which is when somebody will write back and what they should do meanwhile. A
+ * page has room for both, and it gives the browser back button somewhere sane
+ * to go rather than a form full of text that has already been sent.
+ *
+ * noindex, because a confirmation page in search results is a page that greets
+ * strangers by thanking them for a message they never sent.
+ */
+const crumbs = [
+  { label: 'Home', href: '/' },
+  { label: 'Contact', href: '/contact' },
+  { label: 'Thank you', href: '/contact/thank-you' },
+];
+
+const next = [
+  {
+    href: '/getting-here',
+    title: 'Getting here',
+    sub: 'Trains from Shanghai and Hangzhou, the last leg up the hill, and what it costs.',
+  },
+  {
+    href: '/where-to-stay/minsu-explained',
+    title: 'What a minsu is',
+    sub: 'The kind of place most people end up booking here, and what it is actually like.',
+  },
+  {
+    href: '/moganshan/weather',
+    title: 'When to come',
+    sub: 'Month by month, including the two weeks nobody warns you about.',
+  },
+];
+---
+
+<Layout
+  title="Thank you · Visit Moganshan"
+  description="Your message has been sent to the editors of Visit Moganshan."
+  noindex
+>
+  <SiteHeader />
+  <Breadcrumbs crumbs={crumbs} />
+
+  <main id="main">
+    <div class="vm-container">
+      <section class="head">
+        <p class="vm-kicker">Contact</p>
+        <h1>Thank you, your message is sent</h1>
+        <p class="standfirst">
+          It is in the editors' inbox. We read everything that arrives and we answer from a real
+          address, usually within a few days, so keep an eye on the account you wrote from.
+        </p>
+
+        <ul class="points">
+          <li>
+            <strong>A booking enquiry</strong> goes to the hotel with your name and your email. They come
+            back to you directly with availability and a price.
+          </li>
+          <li>
+            <strong>A correction</strong> gets checked against whatever we can verify, and the page changes
+            if it needs to. We do not publish your name unless you have asked us to.
+          </li>
+          <li>
+            <strong>Nothing you sent</strong> goes anywhere else, and no message here puts you on a mailing
+            list. The <a href="/privacy">privacy notice</a> sets out the whole of it.
+          </li>
+        </ul>
+
+        <p class="actions">
+          <a class="vm-btn vm-btn--ghost" href="/contact">Send another message</a>
+          <a class="vm-btn" href="/">Back to the guide</a>
+        </p>
+      </section>
+
+      <section class="next" aria-labelledby="next-title">
+        <h2 id="next-title">While you wait</h2>
+        <ul class="next__list">
+          {
+            next.map((item) => (
+              <li>
+                <a href={item.href}>
+                  <span class="next__title">{item.title}</span>
+                  <span class="next__sub">{item.sub}</span>
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+      </section>
+    </div>
+  </main>
+
+  <SiteFooter />
+</Layout>
+
+<style>
+  .head {
+    padding-block: clamp(2.5rem, 5vw, 4rem) clamp(2rem, 4vw, 3rem);
+  }
+
+  .head h1 {
+    max-width: 20ch;
+    text-wrap: balance;
+  }
+
+  .standfirst {
+    max-width: 58ch;
+    margin-top: 1rem;
+    font-size: clamp(1.0625rem, 1.6vw, 1.25rem);
+    line-height: 1.55;
+    color: var(--color-ink);
+  }
+
+  .points {
+    max-width: 62ch;
+    margin: clamp(1.75rem, 3vw, 2.25rem) 0 0;
+    padding: 0;
+    list-style: none;
+    border-top: 1px solid var(--color-line);
+  }
+
+  .points li {
+    padding-block: 0.9rem;
+    border-bottom: 1px solid var(--color-line);
+    font-size: 0.9375rem;
+    line-height: 1.6;
+    color: var(--color-muted);
+  }
+
+  .points strong {
+    font-weight: 600;
+    color: var(--color-bamboo);
+  }
+
+  .points a {
+    color: var(--color-bamboo);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+
+  .actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin-top: clamp(1.75rem, 3vw, 2.25rem);
+  }
+
+  /* While you wait ---------------------------------------------------------- */
+
+  .next {
+    padding-block: clamp(2rem, 4vw, 3rem) clamp(3rem, 6vw, 4.5rem);
+    border-top: 1px solid var(--color-line);
+  }
+
+  .next h2 {
+    font-size: clamp(1.25rem, 2vw, 1.5rem);
+  }
+
+  .next__list {
+    display: grid;
+    gap: 1.25rem;
+    margin: clamp(1.25rem, 2.5vw, 1.75rem) 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  @media (min-width: 768px) {
+    .next__list {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+  }
+
+  .next__list a {
+    display: block;
+    height: 100%;
+    padding: 1.125rem 1.25rem 1.375rem;
+    background: var(--color-surface);
+    border: 1px solid var(--color-line);
+    border-radius: 10px;
+    text-decoration: none;
+    transition: border-color 180ms ease;
+  }
+
+  .next__list a:hover {
+    border-color: var(--color-bamboo);
+  }
+
+  .next__title {
+    display: block;
+    font-family: var(--font-display);
+    font-size: 1.125rem;
+    line-height: 1.3;
+    color: var(--color-bamboo);
+  }
+
+  .next__list a:hover .next__title {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+
+  .next__sub {
+    display: block;
+    margin-top: 0.35rem;
+    font-size: 0.9375rem;
+    line-height: 1.55;
+    color: var(--color-muted);
+  }
+</style>

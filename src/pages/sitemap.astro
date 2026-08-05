@@ -1,0 +1,426 @@
+---
+import Layout from '../layouts/Layout.astro';
+import SiteHeader from '../components/SiteHeader.astro';
+import SiteFooter from '../components/SiteFooter.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import { getGuideEntries, sectionLabel, SECTION_LABELS, toPath, formatDate } from '../lib/guide';
+
+/**
+ * /sitemap
+ *
+ * The human sitemap. The footer has linked here since the footer existed, and
+ * the link went nowhere.
+ *
+ * It is not the XML one. @astrojs/sitemap writes /sitemap-index.xml for
+ * crawlers; this page is for the reader who wants to see the whole guide laid
+ * out at once, and for the crawler that arrives on a deep page and needs one
+ * document linking every other. Those two jobs pull in the same direction, so
+ * the page is a plain nested list with no script behind it.
+ *
+ * The tree is built from the paths themselves rather than from a hand kept
+ * list of sections and children. A page moved by editing its frontmatter `url`
+ * moves here on the next build, and a page added to the collection appears here
+ * whether or not anybody remembered this file existed. Nesting a child under
+ * its parent is the whole point: a flat list of seventeen links says nothing
+ * about the shape of the site, and the shape is what both audiences came for.
+ */
+const entries = await getGuideEntries();
+
+type Page = {
+  title: string;
+  path: string;
+  excerpt: string;
+  updated: Date;
+  section: string;
+};
+
+type Row = Page & { depth: number };
+
+// localeCompare on the path puts every ancestor ahead of its descendants, which
+// is what lets the tree builder below assume a parent is already known by the
+// time its children arrive.
+const pages: Page[] = entries
+  .map((entry) => ({
+    title: entry.data.title,
+    path: toPath(entry.data.url),
+    excerpt: entry.data.excerpt,
+    updated: entry.data.last_updated,
+    section: sectionLabel(entry.data.url) ?? 'Guide',
+  }))
+  .sort((a, b) => a.path.localeCompare(b.path));
+
+/**
+ * The nearest published ancestor of a path, or undefined when nothing above it
+ * exists yet. Sections whose landing page is not written are common on a site
+ * still being built, and their children have to stay visible rather than
+ * disappear under a parent that never renders.
+ */
+function parentOf(path: string, known: Map<string, Row>): Row | undefined {
+  const segments = path.split('/').filter(Boolean);
+  for (let i = segments.length - 1; i > 0; i -= 1) {
+    const found = known.get(`/${segments.slice(0, i).join('/')}`);
+    if (found) return found;
+  }
+  return undefined;
+}
+
+/**
+ * Flattened depth-first, not nested. The list only ever runs three levels deep
+ * and a flat array with a depth on each row renders as one <ul> with indented
+ * items, which reads to a screen reader as one list of pages rather than as
+ * lists inside lists inside lists.
+ */
+function treeOf(list: Page[]): Row[] {
+  const known = new Map<string, Row>();
+  const rows: Row[] = [];
+
+  for (const page of list) {
+    const parent = parentOf(page.path, known);
+    const row: Row = { ...page, depth: parent ? parent.depth + 1 : 0 };
+    known.set(page.path, row);
+
+    // Straight after the last row already sitting under that parent, so a
+    // branch stays together instead of being split by the next root.
+    const at = parent
+      ? rows.findLastIndex((other) => other.path.startsWith(`${parent.path}/`) || other === parent) +
+        1
+      : rows.length;
+    rows.splice(at, 0, row);
+  }
+
+  return rows;
+}
+
+const grouped = new Map<string, Page[]>();
+for (const page of pages) {
+  grouped.set(page.section, [...(grouped.get(page.section) ?? []), page]);
+}
+
+const sections = [...grouped.entries()]
+  .map(([title, list]) => ({
+    title,
+    // Heading id, so each group is a real landmark a reader can be sent to:
+    // /sitemap#s-getting-here is a link worth having.
+    id: `s-${title.toLowerCase().replace(/[^a-z0-9]+/g, '-')}`,
+    rows: treeOf(list),
+  }))
+  .sort((a, b) => {
+    const ai = SECTION_LABELS.indexOf(a.title);
+    const bi = SECTION_LABELS.indexOf(b.title);
+    // Anything outside the known sections falls to the end, which is where an
+    // unlabelled page belongs until its section is added to the nav.
+    return (
+      (ai === -1 ? SECTION_LABELS.length : ai) - (bi === -1 ? SECTION_LABELS.length : bi) ||
+      a.title.localeCompare(b.title)
+    );
+  });
+
+/**
+ * The routes that are not guide entries. Written out by hand because they are
+ * hand written pages, and kept to the ones that exist: /contact/thank-you is
+ * noindex and reachable only after a send, and /search-index.json is data, not
+ * a page. Neither belongs in a list whose promise is that it is complete.
+ */
+const UTILITY = [
+  { title: 'Home', path: '/', note: 'The front page, and the fastest route into the guide.' },
+  { title: 'Search', path: '/search', note: 'Every page on the site, searchable as you type.' },
+  { title: 'Contact', path: '/contact', note: 'Corrections, questions, trade and media enquiries.' },
+];
+
+const LEGAL = [
+  { title: 'Privacy', path: '/privacy', note: 'What we collect, and what we do not.' },
+  { title: 'Terms', path: '/terms', note: 'The terms this guide is published on.' },
+  { title: 'Cookies', path: '/cookies', note: 'Which cookies the site sets, and why.' },
+  {
+    title: 'Content terms',
+    path: '/user-generated-content',
+    note: 'The terms for photographs and words you send us.',
+  },
+];
+
+const total = pages.length + UTILITY.length + LEGAL.length;
+
+const crumbs = [
+  { label: 'Home', href: '/' },
+  { label: 'Sitemap', href: '/sitemap' },
+];
+
+const canonical = new URL('/sitemap', Astro.site).href;
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: 'Sitemap',
+  description: 'Every page on Visit Moganshan, laid out in the order the site is built.',
+  url: canonical,
+  inLanguage: 'en',
+  isPartOf: { '@type': 'WebSite', name: 'Visit Moganshan', url: Astro.site?.href },
+  breadcrumb: {
+    '@type': 'BreadcrumbList',
+    itemListElement: crumbs.map((crumb, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      name: crumb.label,
+      item: new URL(crumb.href, Astro.site).href,
+    })),
+  },
+};
+---
+
+<Layout
+  title="Sitemap · Visit Moganshan"
+  description="Every page on Visit Moganshan in one list: getting here, the mountain, where to stay, planning, and the policies behind the site."
+>
+  <Fragment slot="head">
+    <Fragment set:html={`<script type="application/ld+json">${JSON.stringify(jsonLd)}</script>`} />
+  </Fragment>
+
+  <SiteHeader />
+  <Breadcrumbs crumbs={crumbs} />
+
+  <main id="main">
+    <div class="vm-container">
+      <header class="head">
+        <p class="vm-kicker">Sitemap</p>
+        <h1>Everything on this site</h1>
+        <p class="standfirst">
+          All {total} pages, grouped the way the guide is built and dated so you can see how fresh each
+          one is. Looking for something specific? <a href="/search">Search</a> is faster.
+        </p>
+      </header>
+
+      {
+        sections.map((section) => (
+          <section class="group" aria-labelledby={section.id}>
+            <h2 class="group__title" id={section.id}>
+              {section.title}
+            </h2>
+            <ul class="tree">
+              {section.rows.map((row) => (
+                <li class="tree__item" data-depth={row.depth}>
+                  <a class="tree__link" href={row.path}>
+                    <span class="tree__title">{row.title}</span>
+                    <span class="tree__excerpt">{row.excerpt}</span>
+                    <span class="tree__meta">
+                      <span class="tree__path">{row.path}</span>
+                      <time datetime={row.updated.toISOString().slice(0, 10)}>
+                        Updated {formatDate(row.updated)}
+                      </time>
+                    </span>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </section>
+        ))
+      }
+
+      <section class="group" aria-labelledby="s-site">
+        <h2 class="group__title" id="s-site">The site itself</h2>
+        <ul class="plain">
+          {
+            UTILITY.map((page) => (
+              <li>
+                <a href={page.path}>
+                  <span class="plain__title">{page.title}</span>
+                  <span class="plain__note">{page.note}</span>
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+      </section>
+
+      <section class="group" aria-labelledby="s-legal">
+        <h2 class="group__title" id="s-legal">Policies</h2>
+        <ul class="plain">
+          {
+            LEGAL.map((page) => (
+              <li>
+                <a href={page.path}>
+                  <span class="plain__title">{page.title}</span>
+                  <span class="plain__note">{page.note}</span>
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+      </section>
+
+      <p class="machines">
+        Crawling us? The machine readable index is at <a href="/sitemap-index.xml"
+          >/sitemap-index.xml</a
+        >, and it is the one referenced from <a href="/robots.txt">robots.txt</a>.
+      </p>
+    </div>
+  </main>
+
+  <SiteFooter />
+</Layout>
+
+<style>
+  /* Head ------------------------------------------------------------------ */
+
+  .head {
+    padding-block: clamp(2rem, 4vw, 3rem);
+    border-bottom: 1px solid var(--color-line);
+  }
+
+  .head h1 {
+    max-width: 18ch;
+    text-wrap: balance;
+  }
+
+  .standfirst {
+    max-width: 56ch;
+    margin-top: 1rem;
+    font-size: clamp(1.0625rem, 1.6vw, 1.1875rem);
+    line-height: 1.55;
+    color: var(--color-muted);
+  }
+
+  /* Groups ----------------------------------------------------------------- */
+
+  .group {
+    padding-block: clamp(2rem, 4vw, 2.75rem);
+    border-bottom: 1px solid var(--color-line);
+  }
+
+  .group__title {
+    font-size: clamp(1.25rem, 2.2vw, 1.625rem);
+  }
+
+  /* Guide tree ------------------------------------------------------------- */
+
+  .tree {
+    margin: clamp(1rem, 2vw, 1.5rem) 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .tree__item + .tree__item {
+    border-top: 1px solid var(--color-line);
+  }
+
+  /* Depth as a left inset, with a rule marking the branch. Two levels are all
+     the tree currently reaches; the third is here so a deeper page added later
+     indents rather than silently flattening into its parent's row. */
+  .tree__item[data-depth='1'] {
+    padding-left: clamp(0.875rem, 3vw, 1.75rem);
+    border-left: 2px solid var(--color-stone);
+  }
+
+  .tree__item[data-depth='2'] {
+    padding-left: clamp(1.75rem, 6vw, 3.5rem);
+    border-left: 2px solid var(--color-stone);
+  }
+
+  .tree__link {
+    display: block;
+    /* Comfortably past the 44px target on its own, before the excerpt line. */
+    padding: 0.8rem 0;
+    text-decoration: none;
+  }
+
+  .tree__title {
+    display: block;
+    font-family: var(--font-display);
+    font-size: clamp(1.0625rem, 1.8vw, 1.1875rem);
+    line-height: 1.35;
+    color: var(--color-bamboo);
+  }
+
+  .tree__link:hover .tree__title {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+
+  /* Deeper pages read as supporting the one above them, so their title steps
+     down to body face rather than staying at display size. */
+  .tree__item[data-depth='1'] .tree__title,
+  .tree__item[data-depth='2'] .tree__title {
+    font-family: var(--font-body);
+    font-size: 1rem;
+  }
+
+  .tree__excerpt {
+    display: block;
+    max-width: 68ch;
+    margin-top: 0.25rem;
+    font-size: 0.9375rem;
+    line-height: 1.55;
+    color: var(--color-ink);
+  }
+
+  .tree__meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.15rem 1rem;
+    margin-top: 0.4rem;
+    font-size: 0.8125rem;
+    color: var(--color-muted);
+  }
+
+  .tree__path {
+    font-family: var(--font-body);
+    word-break: break-word;
+  }
+
+  /* Utility and policy lists ----------------------------------------------- */
+
+  .plain {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    gap: 0;
+    margin: clamp(1rem, 2vw, 1.5rem) 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  @media (min-width: 768px) {
+    .plain {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      column-gap: clamp(2rem, 4vw, 3rem);
+    }
+  }
+
+  .plain li {
+    border-top: 1px solid var(--color-line);
+  }
+
+  .plain li a {
+    display: block;
+    padding: 0.8rem 0;
+    text-decoration: none;
+  }
+
+  .plain__title {
+    display: block;
+    font-family: var(--font-display);
+    font-size: 1.0625rem;
+    line-height: 1.35;
+    color: var(--color-bamboo);
+  }
+
+  .plain li a:hover .plain__title {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+
+  .plain__note {
+    display: block;
+    margin-top: 0.2rem;
+    font-size: 0.875rem;
+    line-height: 1.5;
+    color: var(--color-muted);
+  }
+
+  /* Machines --------------------------------------------------------------- */
+
+  .machines {
+    max-width: 60ch;
+    padding-block: clamp(2rem, 4vw, 3rem) clamp(3rem, 6vw, 4.5rem);
+    font-size: 0.9375rem;
+    color: var(--color-muted);
+  }
+</style>

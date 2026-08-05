@@ -83,7 +83,14 @@ export const POST: APIRoute = async ({ request }) => {
   // Bots fill every field they are given. Readers never see this one, so a value
   // here means the submission is not a reader. Answer 200 so the sender learns
   // nothing about why nothing arrived.
-  if (str(body.company)) return json({ success: true }, 200);
+  //
+  // `company` is still read for anything posting the old field shape. It is not
+  // what the form sends any more: browsers autofill a saved organization into a
+  // field by that name, and a reader whose browser did so was silently binned.
+  if (str(body.trap) || str(body.company)) {
+    console.warn('contact: honeypot filled, dropping submission');
+    return json({ success: true }, 200);
+  }
 
   const name = str(body.name);
   const email = str(body.email);
