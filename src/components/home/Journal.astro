@@ -1,0 +1,50 @@
+---
+import SectionHead from '../SectionHead.astro';
+import Card from '../Card.astro';
+import { JOURNAL } from '../../data/journal';
+
+/**
+ * 6.6 From the journal.
+ *
+ * This module ends in a link. No newsletter signup, no email capture, no exit
+ * modal, no sticky ribbon. The trade is deliberate: on a site with no audience
+ * yet, an email gate costs more in trust than it returns in addresses.
+ */
+---
+
+<section class="vm-section" aria-labelledby="journal-title">
+  <div class="vm-container">
+    <SectionHead
+      id="journal-title"
+      title="From the journal"
+      linkLabel="All stories"
+      linkHref="/journal"
+    />
+    <ul class="grid">
+      {
+        JOURNAL.map((post) => (
+          <li>
+            <Card
+              title={post.title}
+              href={post.href}
+              image={post.image}
+              alt={post.alt}
+              date={post.date}
+            />
+          </li>
+        ))
+      }
+    </ul>
+  </div>
+</section>
+
+<style>
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr));
+    gap: 1.25rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+</style>

@@ -5,6 +5,10 @@ import tailwindcss from '@tailwindcss/vite';
 import vercel from '@astrojs/vercel';
 import sitemap from '@astrojs/sitemap';
 
+import { satteri } from '@astrojs/markdown-satteri';
+
+import { stripLeadingTitle, internalLinkSlashes, scrollableTables } from './src/lib/markdown.mjs';
+
 // TODO: replace with the production domain before the first deploy.
 const SITE = 'https://www.visitmoganshan.com';
 
@@ -21,6 +25,17 @@ export default defineConfig({
     // LCP. Inlining costs a few KB of duplicated HTML per page and removes
     // the render-blocking round trips. Revisit past ~40 KB of CSS.
     inlineStylesheets: 'always',
+  },
+
+  // Guide pages are drafted as portable markdown. The layout owns the h1 and
+  // the site drops trailing slashes, so both are reconciled at build time
+  // rather than by asking writers to hand-edit every draft. See
+  // src/lib/markdown.mjs.
+  markdown: {
+    processor: satteri({
+      mdastPlugins: [stripLeadingTitle, internalLinkSlashes],
+      hastPlugins: [scrollableTables],
+    }),
   },
 
   vite: {

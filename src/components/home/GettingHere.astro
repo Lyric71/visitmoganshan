@@ -1,0 +1,90 @@
+---
+import SectionHead from '../SectionHead.astro';
+
+/**
+ * 6.10 Getting here. Four flat cards, no images.
+ *
+ * This is the module the whole second half exists for. The demand that exists
+ * for this destination is logistical and it comes from people already in
+ * Shanghai or Hangzhou, so these four links are worth more traffic than
+ * anything above the divider.
+ */
+const ROUTES = [
+  { title: 'From Shanghai', sub: 'train, car, transfers', href: '/getting-here/from-shanghai' },
+  { title: 'From Hangzhou', sub: '13 minutes, then what', href: '/getting-here/from-hangzhou' },
+  {
+    title: 'From the airports',
+    sub: 'Hongqiao, Pudong, Xiaoshan',
+    href: '/getting-here/from-hongqiao',
+  },
+  { title: 'Getting around', sub: 'the no-cars rule', href: '/getting-here/getting-around' },
+];
+---
+
+<section class="vm-section getting" aria-labelledby="getting-title">
+  <div class="vm-container">
+    <SectionHead
+      id="getting-title"
+      title="Getting here"
+      linkLabel="All routes"
+      linkHref="/getting-here"
+    />
+    <ul class="flat">
+      {
+        ROUTES.map((route) => (
+          <li>
+            <a href={route.href}>
+              <h3>{route.title}</h3>
+              <p>{route.sub}</p>
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </div>
+</section>
+
+<style>
+  .getting {
+    background: var(--color-mist);
+  }
+
+  .flat {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 240px), 1fr));
+    gap: 1rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .flat a {
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+    height: 100%;
+    padding: 1.25rem 1.25rem 1.5rem;
+    background: var(--color-paper);
+    border: 1px solid var(--color-line);
+    border-radius: 10px;
+    text-decoration: none;
+    transition: border-color 180ms ease;
+  }
+
+  .flat a:hover {
+    border-color: var(--color-bamboo);
+  }
+
+  .flat h3 {
+    font-family: var(--font-display);
+    font-size: 1.125rem;
+    font-weight: 500;
+    line-height: 1.3;
+  }
+
+  .flat p {
+    font-size: 0.9375rem;
+    line-height: 1.5;
+    color: var(--color-muted);
+  }
+</style>

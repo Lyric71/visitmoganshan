@@ -1,0 +1,111 @@
+---
+import SectionHead from '../SectionHead.astro';
+import Card from '../Card.astro';
+
+/**
+ * 6.4 What this mountain is. Four cards, 4-up on desktop, horizontal swipe on
+ * mobile.
+ *
+ * The swipe rail is CSS scroll-snap, not a carousel widget: no JS, no dots, no
+ * autoplay, and every card stays in the DOM and in the tab order.
+ */
+const PARTS = [
+  {
+    title: 'The bamboo forest',
+    sub: '92 percent forest cover, and a working crop',
+    href: '/moganshan/bamboo-forest',
+    image: '/images/part-bamboo.webp',
+    alt: 'Sunlight raking between the culms of a working bamboo grove at Moganshan',
+  },
+  {
+    title: 'The villas',
+    sub: 'British, American, French, all in local stone',
+    href: '/moganshan/hill-station/the-villas',
+    image: '/images/part-villas.webp',
+    alt: 'A row of old stone summer villas along a mountain lane at Moganshan',
+  },
+  {
+    title: 'The villages',
+    sub: 'Yucun, Xiantan, Sanjiuwu',
+    href: '/moganshan/villages',
+    image: '/images/part-villages.webp',
+    alt: 'A quiet village lane below Moganshan, tiled roofs above a stone drainage channel',
+  },
+  {
+    title: 'The tea',
+    sub: 'yellow bud, grown on the slopes',
+    href: '/moganshan/tea',
+    image: '/images/part-tea.webp',
+    alt: 'Terraced tea bushes curving around a misty hillside below the bamboo forest',
+  },
+];
+---
+
+<section class="vm-section" aria-labelledby="four-parts-title">
+  <div class="vm-container">
+    <SectionHead
+      id="four-parts-title"
+      title="What this mountain is"
+      linkLabel="Discover Moganshan"
+      linkHref="/moganshan"
+    />
+    <ul class="rail">
+      {
+        PARTS.map((part) => (
+          <li>
+            <Card
+              title={part.title}
+              sub={part.sub}
+              href={part.href}
+              image={part.image}
+              alt={part.alt}
+            />
+          </li>
+        ))
+      }
+    </ul>
+  </div>
+</section>
+
+<style>
+  .rail {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 78%;
+    gap: 1rem;
+    margin: 0;
+    padding: 0 clamp(1.25rem, 4vw, 2.5rem) 0.5rem;
+    list-style: none;
+    /* Break the container padding so the rail bleeds to the viewport edge and
+       reads as scrollable without a scrollbar or a row of dots. */
+    margin-inline: calc(-1 * clamp(1.25rem, 4vw, 2.5rem));
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: none;
+  }
+
+  .rail::-webkit-scrollbar {
+    display: none;
+  }
+
+  .rail > li {
+    scroll-snap-align: start;
+  }
+
+  @media (min-width: 640px) {
+    .rail {
+      grid-auto-columns: 44%;
+    }
+  }
+
+  @media (min-width: 1000px) {
+    .rail {
+      grid-auto-flow: row;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 1.25rem;
+      margin-inline: 0;
+      padding: 0;
+      overflow: visible;
+    }
+  }
+</style>

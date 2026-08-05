@@ -1,0 +1,197 @@
+---
+import Lockup from './Lockup.astro';
+
+/**
+ * Four columns on bamboo with mist type (8.43:1, AAA).
+ *
+ * The last-updated date is deliberately visible. Several of the pages currently
+ * ranking first for these queries were published in 2011, 2014 and 2016 and
+ * carry no date at all, so freshness is a competitive weapon here rather than
+ * housekeeping. It is stamped at build time, which is the only date we can
+ * assert honestly without a CMS.
+ */
+const COLUMNS = [
+  {
+    title: 'Discover',
+    links: [
+      { label: 'The mountain', href: '/moganshan' },
+      { label: 'Villages', href: '/moganshan/villages' },
+      { label: 'The hill station', href: '/moganshan/hill-station' },
+      { label: 'Bamboo forest', href: '/moganshan/bamboo-forest' },
+    ],
+  },
+  {
+    title: 'Practical',
+    links: [
+      { label: 'Getting here', href: '/getting-here' },
+      { label: 'Tickets', href: '/plan/tickets-and-entry' },
+      { label: 'Weather', href: '/moganshan/weather' },
+      { label: 'Accessibility', href: '/accessibility' },
+    ],
+  },
+  {
+    title: 'Stay',
+    links: [
+      { label: 'Best hotels', href: '/where-to-stay/best-hotels' },
+      { label: 'Hotel directory', href: '/where-to-stay' },
+      { label: 'Private villas', href: '/where-to-stay/private-villas' },
+      { label: 'Groups', href: '/groups' },
+    ],
+  },
+  {
+    title: 'About',
+    links: [
+      { label: 'About this site', href: '/about' },
+      { label: 'Trade and media', href: '/trade' },
+      { label: 'Contact', href: '/contact' },
+      { label: 'Privacy', href: '/privacy' },
+    ],
+  },
+];
+
+const updated = new Date();
+const updatedIso = updated.toISOString().slice(0, 10);
+const updatedLabel = updated.toLocaleDateString('en-GB', {
+  day: 'numeric',
+  month: 'long',
+  year: 'numeric',
+});
+const year = updated.getFullYear();
+---
+
+<footer class="footer">
+  <div class="vm-container">
+    <div class="footer__grid">
+      {
+        COLUMNS.map((column) => (
+          <nav class="footer__col" aria-label={column.title}>
+            <h2 class="footer__col-title">{column.title}</h2>
+            <ul>
+              {column.links.map((link) => (
+                <li>
+                  <a href={link.href}>{link.label}</a>
+                </li>
+              ))}
+            </ul>
+          </nav>
+        ))
+      }
+    </div>
+
+    <div class="footer__brand">
+      <Lockup reversed />
+      <!-- 莫干山 lives here and on the About page, never in the header. The face
+           is not bundled; the stack falls through to whatever serif CJK the OS
+           has. TODO: self-host a Noto Serif SC subset of these three glyphs. -->
+      <p class="footer__cjk" lang="zh-Hans">莫干山</p>
+    </div>
+
+    <!-- Verbatim. Do not soften this, and do not move it above the fold of the
+         footer: it is the sentence that makes the rest of the site credible. -->
+    <p class="footer__disclosure">
+      Published by BeyondBorder Group Ltd, Hong Kong. Independent. We say plainly on
+      the <a href="/about">About page</a> how this site is funded and whether we hold any
+      commercial interest in a property listed here.
+    </p>
+
+    <div class="footer__base">
+      <p>&copy; {year} Visit Moganshan · <a href="/sitemap">Sitemap</a></p>
+      <p>Last updated <time datetime={updatedIso}>{updatedLabel}</time></p>
+    </div>
+  </div>
+</footer>
+
+<style>
+  .footer {
+    background: var(--color-bamboo);
+    color: var(--color-mist);
+    padding-block: clamp(3.5rem, 7vw, 5rem) 2.5rem;
+  }
+
+  .footer__grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 2.5rem 1.5rem;
+  }
+
+  .footer__col-title {
+    font-family: var(--font-body);
+    font-size: 0.6875rem;
+    font-weight: 600;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--color-amber);
+  }
+
+  .footer__col ul {
+    margin: 0.9rem 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .footer__col a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 40px;
+    font-size: 0.9375rem;
+    text-decoration: none;
+    color: var(--color-mist);
+  }
+
+  .footer__col a:hover {
+    text-decoration: underline;
+    text-underline-offset: 4px;
+  }
+
+  .footer__brand {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 1rem 1.5rem;
+    margin-top: clamp(2.5rem, 5vw, 3.5rem);
+    padding-top: clamp(2rem, 4vw, 2.5rem);
+    border-top: 1px solid color-mix(in srgb, var(--color-mist) 18%, transparent);
+  }
+
+  .footer__cjk {
+    font-family: var(--font-cjk);
+    font-size: 1.05rem;
+    letter-spacing: 0.14em;
+    color: var(--color-mist-muted);
+  }
+
+  .footer__disclosure {
+    max-width: 68ch;
+    margin-top: 1.5rem;
+    font-size: 0.875rem;
+    line-height: 1.7;
+    color: var(--color-mist-muted);
+    text-wrap: pretty;
+  }
+
+  .footer__disclosure a {
+    color: var(--color-mist);
+  }
+
+  .footer__base {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 0.5rem 2rem;
+    margin-top: 2.5rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid color-mix(in srgb, var(--color-mist) 12%, transparent);
+    font-size: 0.8125rem;
+    color: var(--color-mist-muted);
+  }
+
+  .footer__base a {
+    color: var(--color-mist-muted);
+  }
+
+  @media (min-width: 768px) {
+    .footer__grid {
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+    }
+  }
+</style>

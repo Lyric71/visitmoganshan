@@ -1,0 +1,788 @@
+---
+import Lockup from './Lockup.astro';
+import { NAV, isCurrentGroup } from '../data/nav';
+
+/**
+ * Sticky header on mist with a hairline bottom rule.
+ *
+ * Four triggers, each opening a full-width mega menu: two link columns and one
+ * visual feature card. Desktop opens on hover and on click; the trigger is a
+ * real button so keyboard and touch get the same behaviour, and every panel is
+ * in the DOM at render so the links are crawlable without JavaScript.
+ *
+ * Only one panel is open at a time, and the whole thing closes on Escape, on
+ * outside click, and on focus leaving the nav.
+ *
+ * The search control is a plain link to /search, not a client-side search box.
+ * There is no index to search yet, and a search field that returns nothing is
+ * worse than a link that goes somewhere.
+ */
+const path = Astro.url.pathname.replace(/\/$/, '') || '/';
+---
+
+<header class="header">
+  <div class="vm-container header__inner">
+    <Lockup inline />
+
+    <nav class="header__nav" aria-label="Primary" data-mega>
+      <ul class="header__list">
+        {
+          NAV.map((group, index) => {
+            const id = `mega-${index}`;
+            const current = isCurrentGroup(group, path);
+            return (
+              <li class="header__item" data-mega-item>
+                <button
+                  class="header__trigger"
+                  type="button"
+                  aria-expanded="false"
+                  aria-controls={id}
+                  data-mega-trigger
+                  data-current={current ? '' : undefined}
+                >
+                  {group.label}
+                  <svg class="header__chev" viewBox="0 0 12 8" aria-hidden="true" focusable="false">
+                    <path
+                      d="M1 1.5 L6 6.5 L11 1.5"
+                      fill="none"
+                      stroke="currentColor"
+                      stroke-width="1.6"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                    />
+                  </svg>
+                </button>
+
+                <div class="mega" id={id} data-mega-panel hidden>
+                  <div class="vm-container mega__inner">
+                    <div class="mega__cols">
+                      {group.columns.map((column) => (
+                        <div class="mega__col">
+                          <p class="mega__col-title">{column.title}</p>
+                          <ul>
+                            {column.links.map((link) => (
+                              <li>
+                                <a
+                                  href={link.href}
+                                  aria-current={path === link.href ? 'page' : undefined}
+                                >
+                                  <span class="mega__link-label">{link.label}</span>
+                                  {link.sub && <span class="mega__link-sub">{link.sub}</span>}
+                                </a>
+                              </li>
+                            ))}
+                          </ul>
+                        </div>
+                      ))}
+                    </div>
+
+                    <a class="mega__feature" href={group.feature.href}>
+                      <span class="mega__feature-media">
+                        <img
+                          src={group.feature.image}
+                          alt={group.feature.alt}
+                          width="480"
+                          height="320"
+                          loading="lazy"
+                          decoding="async"
+                        />
+                      </span>
+                      <span class="mega__feature-kicker">{group.feature.kicker}</span>
+                      <span class="mega__feature-title">{group.feature.title}</span>
+                      <span class="mega__feature-sub">{group.feature.sub}</span>
+                    </a>
+
+                    <p class="mega__all">
+                      <a href={group.href}>{group.allLabel} &rarr;</a>
+                    </p>
+                  </div>
+                </div>
+              </li>
+            );
+          })
+        }
+      </ul>
+    </nav>
+
+    <div class="header__actions">
+      <a class="header__search" href="/search">
+        <svg viewBox="0 0 20 20" aria-hidden="true" focusable="false">
+          <circle cx="9" cy="9" r="6" fill="none" stroke="currentColor" stroke-width="1.8"></circle>
+          <path d="M13.5 13.5 L17.5 17.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path>
+        </svg>
+        <span class="header__search-label">Search</span>
+      </a>
+
+      <button
+        class="header__burger"
+        type="button"
+        aria-expanded="false"
+        aria-controls="site-menu"
+        data-menu-open
+      >
+        <span class="header__burger-bars" aria-hidden="true"></span>
+        <span class="sr-only">Menu</span>
+      </button>
+    </div>
+  </div>
+
+  <!-- Full-screen mobile panel. Same four groups, as accordions, so the phone
+       gets the same thirty links the desktop mega menu exposes rather than a
+       reduced menu that hides half the site. -->
+  <div class="panel" id="site-menu" hidden>
+    <div class="panel__top vm-container">
+      <Lockup reversed />
+      <button class="panel__close" type="button" data-menu-close>
+        <span aria-hidden="true">✕</span>
+        <span class="sr-only">Close menu</span>
+      </button>
+    </div>
+    <nav class="panel__nav vm-container" aria-label="Primary, mobile">
+      <ul class="panel__groups">
+        {
+          NAV.map((group, index) => (
+            <li class="panel__group">
+              <button
+                class="panel__group-trigger"
+                type="button"
+                aria-expanded="false"
+                aria-controls={`panel-group-${index}`}
+                data-accordion
+              >
+                {group.label}
+                <span class="panel__plus" aria-hidden="true"></span>
+              </button>
+              <div class="panel__group-body" id={`panel-group-${index}`} hidden>
+                <a class="panel__group-all" href={group.href}>
+                  {group.allLabel} &rarr;
+                </a>
+                {group.columns.map((column) => (
+                  <ul class="panel__sublist">
+                    {column.links.map((link) => (
+                      <li>
+                        <a href={link.href}>{link.label}</a>
+                      </li>
+                    ))}
+                  </ul>
+                ))}
+              </div>
+            </li>
+          ))
+        }
+        <li class="panel__group">
+          <a class="panel__flat" href="/search">Search</a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<script>
+  /* --- Desktop mega menu --- */
+  const nav = document.querySelector<HTMLElement>('[data-mega]');
+
+  if (nav) {
+    const items = Array.from(nav.querySelectorAll<HTMLElement>('[data-mega-item]'));
+    // Hover open is a pointer affordance. On touch the first tap would open and
+    // fire hover at once, so hover is bound only when the device actually has one.
+    const hoverable = window.matchMedia('(hover: hover) and (min-width: 1024px)');
+    let closeTimer: number | undefined;
+
+    const panelOf = (item: HTMLElement) => item.querySelector<HTMLElement>('[data-mega-panel]');
+    const triggerOf = (item: HTMLElement) =>
+      item.querySelector<HTMLButtonElement>('[data-mega-trigger]');
+
+    const closeAll = (except?: HTMLElement) => {
+      for (const item of items) {
+        if (item === except) continue;
+        const panel = panelOf(item);
+        const trigger = triggerOf(item);
+        if (panel) panel.hidden = true;
+        trigger?.setAttribute('aria-expanded', 'false');
+      }
+    };
+
+    const setOpen = (item: HTMLElement, open: boolean) => {
+      const panel = panelOf(item);
+      const trigger = triggerOf(item);
+      if (!panel || !trigger) return;
+      if (open) closeAll(item);
+      panel.hidden = !open;
+      trigger.setAttribute('aria-expanded', String(open));
+    };
+
+    for (const item of items) {
+      const trigger = triggerOf(item);
+
+      trigger?.addEventListener('click', (event) => {
+        // On a hovering pointer, pointerenter has already opened the panel by
+        // the time the click lands, so a plain toggle would close what the
+        // hover just opened. Clicking an already-open menu with a mouse must be
+        // a no-op; only keyboard activation and non-hovering pointers toggle.
+        // Keyboard-generated clicks carry detail === 0.
+        const fromKeyboard = event.detail === 0;
+        if (!fromKeyboard && hoverable.matches) {
+          setOpen(item, true);
+          return;
+        }
+        setOpen(item, trigger.getAttribute('aria-expanded') !== 'true');
+      });
+
+      item.addEventListener('pointerenter', (event) => {
+        if (!hoverable.matches || event.pointerType !== 'mouse') return;
+        window.clearTimeout(closeTimer);
+        setOpen(item, true);
+      });
+
+      item.addEventListener('pointerleave', (event) => {
+        if (!hoverable.matches || event.pointerType !== 'mouse') return;
+        // Small grace period: the gap between trigger and panel is a real
+        // pixel or two, and closing on that crossing feels broken.
+        closeTimer = window.setTimeout(() => setOpen(item, false), 120);
+      });
+    }
+
+    document.addEventListener('keydown', (event) => {
+      if (event.key !== 'Escape') return;
+      const openItem = items.find(
+        (item) => triggerOf(item)?.getAttribute('aria-expanded') === 'true',
+      );
+      if (!openItem) return;
+      setOpen(openItem, false);
+      triggerOf(openItem)?.focus();
+    });
+
+    document.addEventListener('click', (event) => {
+      if (!nav.contains(event.target as Node)) closeAll();
+    });
+
+    // Tabbing out of the nav entirely closes it. focusout fires before the new
+    // element is focused, hence relatedTarget rather than activeElement.
+    nav.addEventListener('focusout', (event) => {
+      const next = event.relatedTarget as Node | null;
+      if (!next || !nav.contains(next)) closeAll();
+    });
+  }
+
+  /* --- Mobile panel --- */
+  const panel = document.getElementById('site-menu');
+  const opener = document.querySelector<HTMLButtonElement>('[data-menu-open]');
+  const closer = document.querySelector<HTMLButtonElement>('[data-menu-close]');
+
+  if (panel && opener) {
+    const setOpen = (open: boolean) => {
+      panel.hidden = !open;
+      opener.setAttribute('aria-expanded', String(open));
+      // Lock the page behind the panel; a scrolling background under a
+      // full-screen menu is the classic mobile nav bug.
+      document.documentElement.style.overflow = open ? 'hidden' : '';
+      if (open) panel.querySelector<HTMLButtonElement>('button, a')?.focus();
+      else opener.focus();
+    };
+
+    opener.addEventListener('click', () => setOpen(true));
+    closer?.addEventListener('click', () => setOpen(false));
+
+    document.addEventListener('keydown', (event) => {
+      if (event.key === 'Escape' && !panel.hidden) setOpen(false);
+    });
+
+    for (const trigger of panel.querySelectorAll<HTMLButtonElement>('[data-accordion]')) {
+      trigger.addEventListener('click', () => {
+        const body = document.getElementById(trigger.getAttribute('aria-controls') ?? '');
+        if (!body) return;
+        const open = trigger.getAttribute('aria-expanded') === 'true';
+        trigger.setAttribute('aria-expanded', String(!open));
+        body.hidden = open;
+      });
+    }
+
+    // Follow-the-link close, so a hash link inside the panel behaves. Accordion
+    // buttons are excluded: they are not navigation.
+    panel.addEventListener('click', (event) => {
+      if ((event.target as HTMLElement).closest('a')) setOpen(false);
+    });
+  }
+</script>
+
+<style>
+  .sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip-path: inset(50%);
+    white-space: nowrap;
+  }
+
+  .header {
+    position: sticky;
+    top: 0;
+    z-index: 50;
+    background: var(--color-mist);
+    border-bottom: 1px solid var(--color-line);
+  }
+
+  .header__inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1.5rem;
+    min-height: 68px;
+  }
+
+  .header__nav {
+    display: none;
+    flex: 1;
+  }
+
+  .header__list {
+    display: flex;
+    justify-content: center;
+    gap: 0 0.5rem;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .header__item {
+    /* The panel is positioned against the header, not the item, so it can span
+       the full width. `static` here lets it do that. */
+    position: static;
+  }
+
+  .header__trigger {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    min-height: 44px;
+    padding-inline: 0.6rem;
+    border: 0;
+    border-bottom: 2px solid transparent;
+    background: transparent;
+    font-family: var(--font-body);
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: var(--color-ink);
+    white-space: nowrap;
+    cursor: pointer;
+  }
+
+  .header__trigger:hover,
+  .header__trigger[aria-expanded='true'] {
+    color: var(--color-bamboo);
+    border-bottom-color: var(--color-amber);
+  }
+
+  .header__trigger[data-current] {
+    color: var(--color-bamboo);
+    font-weight: 600;
+    border-bottom-color: var(--color-bamboo);
+  }
+
+  .header__chev {
+    width: 10px;
+    height: 7px;
+    flex: none;
+    transition: transform 150ms ease;
+  }
+
+  .header__trigger[aria-expanded='true'] .header__chev {
+    transform: rotate(180deg);
+  }
+
+  /* --- Mega panel --- */
+
+  .mega {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 100%;
+    background: var(--color-paper);
+    border-bottom: 1px solid var(--color-line);
+    box-shadow: 0 18px 32px -24px rgb(26 29 27 / 0.45);
+  }
+
+  .mega[hidden] {
+    display: none;
+  }
+
+  .mega__inner {
+    display: grid;
+    grid-template-columns: 1fr 1fr minmax(260px, 20rem);
+    gap: 0.75rem 2.5rem;
+    align-items: start;
+    padding-block: 1.75rem 2rem;
+  }
+
+  .mega__cols {
+    display: contents;
+  }
+
+  .mega__col ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .mega__col-title {
+    margin: 0 0 0.85rem;
+    font-size: 0.6875rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--color-muted);
+  }
+
+  .mega__col a {
+    display: block;
+    padding-block: 0.4rem;
+    text-decoration: none;
+    color: var(--color-ink);
+  }
+
+  .mega__link-label {
+    display: block;
+    font-size: 0.9375rem;
+    line-height: 1.35;
+  }
+
+  .mega__col a:hover .mega__link-label {
+    color: var(--color-bamboo);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+
+  .mega__link-sub {
+    display: block;
+    margin-top: 0.1rem;
+    font-size: 0.8125rem;
+    color: var(--color-muted);
+  }
+
+  .mega__col a[aria-current='page'] .mega__link-label {
+    color: var(--color-bamboo);
+    font-weight: 600;
+  }
+
+  .mega__feature {
+    grid-column: 3;
+    grid-row: 1 / span 2;
+    display: block;
+    text-decoration: none;
+    color: var(--color-ink);
+  }
+
+  .mega__feature-media {
+    display: block;
+    overflow: hidden;
+    border-radius: 4px;
+    background: var(--color-stone);
+  }
+
+  .mega__feature-media img {
+    display: block;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+    transition: transform 400ms ease;
+  }
+
+  .mega__feature:hover .mega__feature-media img {
+    transform: scale(1.03);
+  }
+
+  .mega__feature-kicker {
+    display: block;
+    margin-top: 0.85rem;
+    font-size: 0.6875rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--color-amber);
+  }
+
+  .mega__feature-title {
+    display: block;
+    margin-top: 0.3rem;
+    font-family: var(--font-display);
+    font-size: 1.125rem;
+    color: var(--color-bamboo);
+  }
+
+  .mega__feature:hover .mega__feature-title {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+
+  .mega__feature-sub {
+    display: block;
+    margin-top: 0.25rem;
+    font-size: 0.8125rem;
+    line-height: 1.45;
+    color: var(--color-muted);
+  }
+
+  .mega__all {
+    grid-column: 1 / 3;
+    margin: 0.5rem 0 0;
+    padding-top: 1rem;
+    border-top: 1px solid var(--color-line);
+  }
+
+  .mega__all a {
+    font-size: 0.8125rem;
+    font-weight: 600;
+    text-decoration: none;
+    color: var(--color-bamboo);
+  }
+
+  .mega__all a:hover {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .header__chev,
+    .mega__feature-media img {
+      transition: none;
+    }
+
+    .mega__feature:hover .mega__feature-media img {
+      transform: none;
+    }
+  }
+
+  /* --- Header actions --- */
+
+  .header__actions {
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+  }
+
+  .header__search {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.45rem;
+    min-width: 44px;
+    min-height: 44px;
+    padding-inline: 0.5rem;
+    border-radius: 6px;
+    font-size: 0.875rem;
+    font-weight: 500;
+    text-decoration: none;
+    color: var(--color-ink);
+  }
+
+  .header__search:hover {
+    background: color-mix(in srgb, var(--color-bamboo) 8%, transparent);
+  }
+
+  .header__search svg {
+    width: 18px;
+    height: 18px;
+    flex: none;
+  }
+
+  .header__search-label {
+    display: none;
+  }
+
+  .header__burger {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 44px;
+    height: 44px;
+    border: 0;
+    border-radius: 6px;
+    background: transparent;
+    color: var(--color-ink);
+    cursor: pointer;
+  }
+
+  .header__burger-bars,
+  .header__burger-bars::before,
+  .header__burger-bars::after {
+    display: block;
+    width: 20px;
+    height: 1.5px;
+    background: currentColor;
+  }
+
+  .header__burger-bars {
+    position: relative;
+  }
+
+  .header__burger-bars::before,
+  .header__burger-bars::after {
+    content: '';
+    position: absolute;
+    left: 0;
+  }
+
+  .header__burger-bars::before {
+    top: -6px;
+  }
+
+  .header__burger-bars::after {
+    top: 6px;
+  }
+
+  /* --- Mobile panel --- */
+
+  .panel {
+    position: fixed;
+    inset: 0;
+    z-index: 60;
+    display: flex;
+    flex-direction: column;
+    background: var(--color-bamboo);
+    color: var(--color-mist);
+    overflow-y: auto;
+  }
+
+  .panel[hidden] {
+    display: none;
+  }
+
+  .panel__top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 68px;
+  }
+
+  .panel__close {
+    width: 44px;
+    height: 44px;
+    border: 0;
+    background: transparent;
+    color: var(--color-mist);
+    font-size: 1.1rem;
+    cursor: pointer;
+  }
+
+  .panel__nav {
+    padding-block: 1.5rem 3rem;
+  }
+
+  .panel__groups {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .panel__group + .panel__group {
+    border-top: 1px solid color-mix(in srgb, var(--color-mist) 18%, transparent);
+  }
+
+  .panel__group-trigger {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding: 1rem 0;
+    border: 0;
+    background: transparent;
+    font-family: var(--font-display);
+    font-size: 1.5rem;
+    font-weight: 500;
+    text-align: left;
+    color: var(--color-mist);
+    cursor: pointer;
+  }
+
+  .panel__flat {
+    display: block;
+    padding: 1rem 0;
+    font-family: var(--font-display);
+    font-size: 1.5rem;
+    font-weight: 500;
+    text-decoration: none;
+    color: var(--color-mist);
+  }
+
+  .panel__plus {
+    position: relative;
+    width: 16px;
+    height: 16px;
+    flex: none;
+  }
+
+  .panel__plus::before,
+  .panel__plus::after {
+    content: '';
+    position: absolute;
+    inset: 50% 0 auto;
+    height: 1.5px;
+    background: currentColor;
+  }
+
+  .panel__plus::after {
+    transform: rotate(90deg);
+    transition: transform 150ms ease;
+  }
+
+  .panel__group-trigger[aria-expanded='true'] .panel__plus::after {
+    transform: rotate(0deg);
+  }
+
+  .panel__group-body[hidden] {
+    display: none;
+  }
+
+  .panel__group-body {
+    padding-bottom: 1rem;
+  }
+
+  .panel__group-all {
+    display: block;
+    padding-bottom: 0.75rem;
+    font-size: 0.8125rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: var(--color-amber);
+  }
+
+  .panel__sublist {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .panel__sublist a {
+    display: block;
+    padding: 0.55rem 0;
+    font-size: 1rem;
+    text-decoration: none;
+    color: color-mix(in srgb, var(--color-mist) 88%, transparent);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .panel__plus::after {
+      transition: none;
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .header__nav {
+      display: block;
+    }
+
+    .header__burger {
+      display: none;
+    }
+
+    .header__search-label {
+      display: inline;
+    }
+  }
+</style>

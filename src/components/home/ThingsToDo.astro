@@ -1,0 +1,82 @@
+---
+import SectionHead from '../SectionHead.astro';
+import Card from '../Card.astro';
+import TabGroup from '../TabGroup.astro';
+import { THINGS, THING_TABS } from '../../data/things-to-do';
+
+/**
+ * 6.5 Things to do.
+ *
+ * Heritage sits second, ahead of Nature. That order is deliberate: every
+ * competing site leads on bamboo, and the villas are what nobody else has
+ * written up properly.
+ *
+ * Panels are built at build time and all of them ship in the HTML. Hidden
+ * panels are still indexed, so the tab UI costs nothing in crawl terms and the
+ * page carries six views of the same set for the price of one request.
+ */
+const panels = THING_TABS.map((tab) => ({
+  tab,
+  items: THINGS.filter((thing) => thing.categories.includes(tab.id)),
+}));
+---
+
+<section class="vm-section things" aria-labelledby="things-title">
+  <div class="vm-container">
+    <SectionHead
+      id="things-title"
+      title="Things to do"
+      linkLabel="All 20 ideas"
+      linkHref="/things-to-do"
+    />
+
+    <TabGroup id="things" label="Filter things to do" tabs={THING_TABS}>
+      {
+        panels.map(({ tab, items }, i) => (
+          <div
+            id={`things-panel-${tab.id}`}
+            role="tabpanel"
+            aria-labelledby={`things-tab-${tab.id}`}
+            tabindex="0"
+            hidden={i !== 0}
+          >
+            <ul class="grid">
+              {items.map((thing) => (
+                <li>
+                  <Card
+                    title={thing.title}
+                    sub={thing.sub}
+                    href={thing.href}
+                    image={thing.image}
+                    alt={thing.alt}
+                  />
+                </li>
+              ))}
+            </ul>
+          </div>
+        ))
+      }
+    </TabGroup>
+  </div>
+</section>
+
+<style>
+  .things {
+    background: var(--color-mist);
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 260px), 1fr));
+    gap: 1.25rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  /* The panel is focusable so keyboard users land in the content after the
+     tablist; it must not draw a permanent outline for everyone else. */
+  [role='tabpanel']:focus {
+    outline: none;
+  }
+</style>

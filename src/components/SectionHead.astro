@@ -1,0 +1,53 @@
+---
+/**
+ * Section heading with a right-aligned "more" link.
+ *
+ * The heading is always an h2 and always carries the id that its enclosing
+ * <section aria-labelledby> points at, so the page outline stays intact for
+ * screen readers and for the outline Google builds from it.
+ */
+interface Props {
+  id: string;
+  title: string;
+  kicker?: string;
+  linkLabel?: string;
+  linkHref?: string;
+  /** Mist type on a dark band. */
+  reversed?: boolean;
+}
+
+const { id, title, kicker, linkLabel, linkHref, reversed = false } = Astro.props;
+---
+
+<div class:list={['head', reversed && 'head--reversed']}>
+  <div>
+    {kicker && <p class:list={['vm-kicker', reversed && 'vm-kicker--reversed']}>{kicker}</p>}
+    <h2 id={id}>{title}</h2>
+  </div>
+  {
+    linkHref && linkLabel && (
+      <a class:list={['vm-more', reversed && 'vm-more--reversed']} href={linkHref}>
+        {linkLabel}
+      </a>
+    )
+  }
+</div>
+
+<style>
+  .head {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 0.25rem 2rem;
+    margin-bottom: clamp(1.75rem, 3vw, 2.5rem);
+  }
+
+  .head h2 {
+    text-wrap: balance;
+  }
+
+  .head--reversed h2 {
+    color: var(--color-mist);
+  }
+</style>

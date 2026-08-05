@@ -1,0 +1,135 @@
+---
+/**
+ * 6.2 Hero.
+ *
+ * 78vh desktop, 60vh mobile. Sixty is deliberate: the top of the hill station
+ * band has to be visible without scrolling, or leading with culture buys
+ * nothing.
+ *
+ * No search box, no carousel. Nobody arrives at a small destination site
+ * knowing what to search for, and a rotating hero is a way of admitting no
+ * single picture was good enough.
+ *
+ * The locator line under the tagline is not decoration. Three different things
+ * share this name in the index, and Moganshan Road (the M50 art district in
+ * Shanghai) has already broken into the top ten for "what to do in moganshan".
+ * The destination has to be pinned to Deqing County inside the first hundred
+ * words of visible copy or the page competes with the wrong entity.
+ */
+---
+
+<section class="hero" aria-labelledby="hero-title">
+  <picture class="hero__media">
+    <source srcset="/images/hero.webp" type="image/webp" />
+    <img
+      src="/images/hero.jpg"
+      alt="Morning mist in the bamboo forest at Moganshan"
+      width="1536"
+      height="1024"
+      fetchpriority="high"
+      decoding="async"
+    />
+  </picture>
+
+  <div class="vm-container hero__inner">
+    <h1 id="hero-title" class="hero__title">Moganshan</h1>
+    <p class="hero__tagline">
+      A mountain that Shanghai built a second life on, and then forgot.
+    </p>
+    <p class="hero__locator">
+      Deqing County, Huzhou · Zhejiang, China · north of Hangzhou
+    </p>
+    <div class="hero__actions">
+      <a class="vm-btn" href="/moganshan/hill-station">Read the story</a>
+      <a class="vm-btn vm-btn--ghost-reversed" href="/where-to-stay">Where to stay</a>
+    </div>
+  </div>
+</section>
+
+<style>
+  .hero {
+    position: relative;
+    display: flex;
+    align-items: flex-end;
+    min-height: 60vh;
+    padding-block: clamp(2.5rem, 6vw, 4rem);
+    background: var(--color-bamboo);
+    overflow: hidden;
+    isolation: isolate;
+  }
+
+  .hero__media {
+    position: absolute;
+    inset: 0;
+    z-index: -2;
+  }
+
+  .hero__media img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: 55% 50%;
+  }
+
+  /* Scrim from the bottom so the type clears 4.5:1 against whatever the
+     photograph does at that point. Weighted low and hard rather than flooding
+     the whole frame, which would flatten the picture. */
+  .hero::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+    background: linear-gradient(
+      to top,
+      color-mix(in srgb, var(--color-ink) 88%, transparent) 0%,
+      color-mix(in srgb, var(--color-ink) 62%, transparent) 32%,
+      color-mix(in srgb, var(--color-ink) 18%, transparent) 62%,
+      transparent 88%
+    );
+  }
+
+  .hero__inner {
+    position: relative;
+    max-width: 1180px;
+  }
+
+  .hero__title {
+    /* Larger than the global h1 scale: this is the one display moment on the
+       page and the word is short enough to carry it. */
+    font-size: clamp(2.5rem, 9vw, 4.25rem);
+    line-height: 1.05;
+    letter-spacing: -0.015em;
+    color: var(--color-mist);
+  }
+
+  .hero__tagline {
+    max-width: 34ch;
+    margin-top: 0.9rem;
+    font-family: var(--font-display);
+    font-size: clamp(1.0625rem, 2.2vw, 1.375rem);
+    font-style: italic;
+    line-height: 1.4;
+    color: var(--color-mist);
+    text-wrap: pretty;
+  }
+
+  .hero__locator {
+    margin-top: 1rem;
+    font-size: 0.8125rem;
+    letter-spacing: 0.02em;
+    color: var(--color-mist-muted);
+  }
+
+  .hero__actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin-top: clamp(1.75rem, 3vw, 2.25rem);
+  }
+
+  @media (min-width: 768px) {
+    .hero {
+      min-height: 78vh;
+    }
+  }
+</style>

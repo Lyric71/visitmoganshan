@@ -1,0 +1,40 @@
+---
+/**
+ * 6.7 The divider band. The hinge of the page: culture above, practical below.
+ *
+ * id="plan" so the whole second half is reachable at visitmoganshan.com/#plan,
+ * which is the link to hand somebody who has already decided to come.
+ *
+ * The band also acts as the trigger for the mobile plan bar; see PlanBar.astro.
+ */
+---
+
+<section class="divider" id="plan" aria-labelledby="divider-title" data-plan-anchor>
+  <div class="vm-container">
+    <p class="vm-kicker vm-kicker--amber">Plan the trip</p>
+    <h2 id="divider-title" class="divider__line">
+      Everything below this line answers a question, not a mood.
+    </h2>
+  </div>
+</section>
+
+<style>
+  .divider {
+    background: var(--color-ink);
+    padding-block: clamp(3rem, 6vw, 4.5rem);
+    text-align: center;
+    /* The band spans the sticky header's scroll-margin so an anchored jump does
+       not park the heading underneath it. */
+    scroll-margin-top: 68px;
+  }
+
+  .divider__line {
+    max-width: 30ch;
+    margin-inline: auto;
+    font-size: clamp(1.375rem, 3vw, 2rem);
+    font-style: italic;
+    line-height: 1.35;
+    color: var(--color-mist);
+    text-wrap: balance;
+  }
+</style>

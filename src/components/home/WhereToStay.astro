@@ -1,0 +1,93 @@
+---
+import SectionHead from '../SectionHead.astro';
+import Card from '../Card.astro';
+import TabGroup from '../TabGroup.astro';
+import { HOTELS, HOTEL_TABS } from '../../data/hotels';
+
+/**
+ * 6.9 Where to stay.
+ *
+ * Every property is presented on the same terms. There is no featured slot, no
+ * sponsored treatment and no "our pick" badge, and there is no field in the
+ * Hotel type that could create one. That constraint is the product: the moment
+ * one card looks bought, every other card stops being evidence.
+ *
+ * Names, price bands and lines read TODO until they are first-hand or in
+ * writing from the property. A wrong figure on a real, named hotel is a legal
+ * problem, not a content problem.
+ */
+const panels = HOTEL_TABS.map((tab) => ({
+  tab,
+  items: tab.id === 'all' ? HOTELS : HOTELS.filter((h) => h.categories.includes(tab.id as never)),
+}));
+
+const meta = (hotel: (typeof HOTELS)[number]) =>
+  [hotel.village, hotel.keys ? `${hotel.keys} keys` : null, hotel.priceBand]
+    .filter(Boolean)
+    .join(' · ');
+---
+
+<section class="vm-section" aria-labelledby="stay-title">
+  <div class="vm-container">
+    <SectionHead
+      id="stay-title"
+      title="Where to stay"
+      linkLabel="The 12 best hotels, ranked"
+      linkHref="/where-to-stay/best-hotels"
+    />
+
+    <TabGroup id="stay" label="Filter places to stay" tabs={HOTEL_TABS}>
+      {
+        panels.map(({ tab, items }, i) => (
+          <div
+            id={`stay-panel-${tab.id}`}
+            role="tabpanel"
+            aria-labelledby={`stay-tab-${tab.id}`}
+            tabindex="0"
+            hidden={i !== 0}
+          >
+            {items.length ? (
+              <ul class="grid">
+                {items.slice(0, 3).map((hotel) => (
+                  <li>
+                    <Card
+                      title={hotel.name}
+                      meta={meta(hotel)}
+                      note={hotel.ourLine}
+                      href={`/where-to-stay/${hotel.slug}`}
+                      image={hotel.image || undefined}
+                      alt={hotel.alt}
+                    />
+                  </li>
+                ))}
+              </ul>
+            ) : (
+              <p class="grid__empty">
+                TODO: no property in the directory carries this category yet.
+              </p>
+            )}
+          </div>
+        ))
+      }
+    </TabGroup>
+  </div>
+</section>
+
+<style>
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr));
+    gap: 1.25rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .grid__empty {
+    color: var(--color-muted);
+  }
+
+  [role='tabpanel']:focus {
+    outline: none;
+  }
+</style>

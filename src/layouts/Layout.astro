@@ -78,8 +78,14 @@ const ogImageUrl = new URL(ogImage, Astro.site).href;
     <meta name="twitter:title" content={title} />
     {description && <meta name="twitter:description" content={description} />}
     <meta name="twitter:image" content={ogImageUrl} />
+
+    <!-- Structured data and anything else a page needs in the head. Injected
+         here rather than in the body so it is present before first paint. -->
+    <slot name="head" />
   </head>
   <body class={bodyClass}>
+    <!-- First focusable element on every page. -->
+    <a class="vm-skip" href="#main">Skip to content</a>
     <slot />
   </body>
 </html>

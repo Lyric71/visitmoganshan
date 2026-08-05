@@ -1,0 +1,113 @@
+---
+import SectionHead from '../SectionHead.astro';
+
+/**
+ * 6.13 Before you come. Four flat cards, no images.
+ *
+ * The last card asks whether the place is worth visiting and links to an honest
+ * answer. Keeping that question on the home page rather than burying it is the
+ * cheapest credibility the site will ever buy, and it is a real query with real
+ * volume that no incumbent answers straight.
+ */
+const ITEMS = [
+  {
+    title: 'Visa-free entry to China',
+    sub: '50 countries, plus the 240-hour transit rule',
+    href: '/plan/china-visa-free-entry',
+  },
+  {
+    title: 'Paying for things',
+    sub: 'Alipay and WeChat with a foreign card',
+    href: '/plan/money-and-payments',
+  },
+  {
+    title: 'Tickets and entry',
+    sub: 'what the scenic area actually costs',
+    href: '/plan/tickets-and-entry',
+  },
+  {
+    title: 'Is it worth visiting?',
+    sub: 'an honest answer',
+    href: '/plan/is-moganshan-worth-visiting',
+  },
+];
+---
+
+<section class="vm-section" aria-labelledby="before-title">
+  <div class="vm-container">
+    <SectionHead
+      id="before-title"
+      title="Before you come"
+      linkLabel="Plan your trip"
+      linkHref="/plan"
+    />
+    <ul class="flat">
+      {
+        ITEMS.map((item) => (
+          <li>
+            <a href={item.href}>
+              <h3>{item.title}</h3>
+              <p>{item.sub}</p>
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </div>
+</section>
+
+<style>
+  .flat {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 240px), 1fr));
+    gap: 0;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    border-top: 1px solid var(--color-line);
+  }
+
+  /* Hairline rules rather than four more boxes. The page already carries three
+     card modules below the divider and a fourth would turn into wallpaper. */
+  .flat li {
+    border-bottom: 1px solid var(--color-line);
+  }
+
+  .flat a {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    height: 100%;
+    padding: 1.25rem 1rem 1.25rem 0;
+    text-decoration: none;
+  }
+
+  .flat a:hover h3 {
+    text-decoration: underline;
+    text-underline-offset: 4px;
+  }
+
+  .flat h3 {
+    font-family: var(--font-display);
+    font-size: 1.0625rem;
+    font-weight: 500;
+    line-height: 1.35;
+    text-wrap: balance;
+  }
+
+  .flat p {
+    font-size: 0.9375rem;
+    line-height: 1.5;
+    color: var(--color-muted);
+  }
+
+  @media (min-width: 720px) {
+    .flat li + li a {
+      padding-left: 1.5rem;
+    }
+
+    .flat li + li {
+      border-left: 1px solid var(--color-line);
+    }
+  }
+</style>

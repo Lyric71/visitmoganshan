@@ -1,0 +1,87 @@
+---
+/**
+ * 6.7, second half: once the divider scrolls past on mobile, reveal a slim bar
+ * with exactly two links.
+ *
+ * Note the tension in the brief: section 6.7 asks for this bar, and the
+ * acceptance checklist bans sticky bars in the same breath as newsletter
+ * capture and modals. Read together, the ban is on capture, not on navigation,
+ * so the bar ships with exactly the two links named and nothing else. No email
+ * field, no dismiss-and-remember cookie, no third link creeping in later.
+ *
+ * Mobile only. On desktop the second half of the page is a short scroll and the
+ * header is already sticky.
+ */
+---
+
+<div class="planbar" data-planbar hidden>
+  <nav class="planbar__inner" aria-label="Plan the trip">
+    <a href="/where-to-stay">Where to stay</a>
+    <a href="/getting-here">Getting here</a>
+  </nav>
+</div>
+
+<script>
+  const bar = document.querySelector<HTMLElement>('[data-planbar]');
+  const anchor = document.querySelector<HTMLElement>('[data-plan-anchor]');
+  const mobile = window.matchMedia('(max-width: 767px)');
+
+  if (bar && anchor && 'IntersectionObserver' in window) {
+    // Reveal once the divider has left the top of the viewport, i.e. the reader
+    // is in the practical half. Hide again on the way back up.
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        const past = !entry.isIntersecting && entry.boundingClientRect.top < 0;
+        bar.hidden = !(past && mobile.matches);
+      },
+      { threshold: 0 },
+    );
+    observer.observe(anchor);
+
+    mobile.addEventListener('change', (event) => {
+      if (!event.matches) bar.hidden = true;
+    });
+  }
+</script>
+
+<style>
+  .planbar {
+    position: fixed;
+    inset: auto 0 0 0;
+    z-index: 40;
+    background: var(--color-bamboo);
+    border-top: 1px solid color-mix(in srgb, var(--color-mist) 18%, transparent);
+    /* Clear the iOS home indicator. */
+    padding-bottom: env(safe-area-inset-bottom, 0);
+  }
+
+  .planbar[hidden] {
+    display: none;
+  }
+
+  .planbar__inner {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .planbar a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 52px;
+    font-size: 0.9375rem;
+    font-weight: 600;
+    text-decoration: none;
+    color: var(--color-mist);
+  }
+
+  .planbar a + a {
+    border-left: 1px solid color-mix(in srgb, var(--color-mist) 18%, transparent);
+  }
+
+  @media (min-width: 768px) {
+    .planbar {
+      display: none;
+    }
+  }
+</style>

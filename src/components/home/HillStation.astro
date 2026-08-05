@@ -1,0 +1,119 @@
+---
+/**
+ * 6.3 The hill station. Full-width band on bamboo with mist text.
+ *
+ * Image left at 4:5, text right, and on mobile the image comes first in source
+ * order because the picture is the argument. The caption stays: the credit
+ * matters, and a credited photograph signals the material is real, which is the
+ * whole differentiation against pages assembled from other people's reviews.
+ */
+---
+
+<section class="band" aria-labelledby="hill-station-title">
+  <div class="vm-container band__inner">
+    <figure class="band__figure">
+      <img
+        src="/images/hill-station.webp"
+        alt="A Western-style stone villa at Moganshan, its granite walls and shuttered veranda under bamboo"
+        width="1024"
+        height="1280"
+        loading="lazy"
+        decoding="async"
+      />
+      <!-- TODO: replace with a credited archive photograph, 1920s villa or
+           tennis party, and put the collection and date in this caption. The
+           slot must not ship with an uncredited image presented as archive. -->
+      <figcaption>
+        A surviving stone villa on the mountain. TODO: archive photograph and credit.
+      </figcaption>
+    </figure>
+
+    <div class="band__text">
+      <p class="vm-kicker vm-kicker--amber">The hill station</p>
+      <h2 id="hill-station-title">
+        An Anglo-American summer colony, 200 km from Shanghai
+      </h2>
+      <p class="band__body">
+        American missionaries found the mountain in the 1890s. By 1910 around 300 foreigners
+        had summer houses here, and by the 1920s there were 154 stone villas. Roughly 250 are
+        still standing.
+      </p>
+      <ul class="band__links">
+        <li>
+          <a class="vm-more vm-more--reversed" href="/moganshan/hill-station/history">
+            Read the history
+          </a>
+        </li>
+        <li>
+          <a class="vm-more vm-more--reversed" href="/moganshan/hill-station/walking-tour">
+            Walk the villa route
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<style>
+  .band {
+    background: var(--color-bamboo);
+    color: var(--color-mist);
+    padding-block: clamp(4rem, 8vw, 6rem);
+  }
+
+  .band__inner {
+    display: grid;
+    gap: clamp(2rem, 5vw, 4rem);
+    align-items: center;
+  }
+
+  .band__figure {
+    margin: 0;
+  }
+
+  .band__figure img {
+    display: block;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 4 / 5;
+    object-fit: cover;
+    background: var(--color-bamboo-90);
+    border-radius: 4px;
+  }
+
+  .band__figure figcaption {
+    margin-top: 0.75rem;
+    font-size: 0.8125rem;
+    line-height: 1.5;
+    color: var(--color-mist-muted);
+  }
+
+  .band__text h2 {
+    color: var(--color-mist);
+    text-wrap: balance;
+  }
+
+  .band__body {
+    max-width: 60ch;
+    margin-top: 1.25rem;
+    color: var(--color-mist-muted);
+    text-wrap: pretty;
+  }
+
+  .band__links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0 2rem;
+    margin: 0.75rem 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  @media (min-width: 900px) {
+    .band__inner {
+      /* The image is the smaller column. A 4:5 portrait at half width swamps
+         three sentences of copy. */
+      grid-template-columns: minmax(0, 5fr) minmax(0, 7fr);
+    }
+  }
+</style>

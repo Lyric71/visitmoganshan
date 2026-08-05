@@ -100,6 +100,21 @@ Chinese, where needed: **Noto Serif SC**.
 * Don't rebuild the wordmark in a different typeface. Use the supplied files.
 * Don't use the five culm mark as the favicon.
 
+## Known fix applied to the horizontal lockups
+
+`lockup-horizontal.svg` and `lockup-horizontal-reversed.svg` shipped with
+`viewBox="0 0 296.9 62.0"`, but the outlined wordmark inks down to **64.88**.
+The viewBox was therefore cutting the descender of the "g" in *Moganshan* on
+every render. Both files now carry `height`/`viewBox` of **65.5**. No path
+coordinate was touched; only the canvas grew.
+
+`lockup-stacked.svg` and `og-image.svg` were checked and are not affected. The
+1600px lockup PNGs in `png/` were rasterised from the old canvas and still carry
+the clip; re-run `render.py` to refresh them.
+
+Re-extracting `setup/visit-moganshan-brand-assets.zip` over this folder will
+reintroduce the clip. Re-apply the canvas height if you do.
+
 ## Regenerating
 
 `build_assets.py` draws every vector from parameters and outlines the wordmark;

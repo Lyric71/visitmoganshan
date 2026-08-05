@@ -1,0 +1,84 @@
+---
+// The supplied lockup files, inlined at build time. The wordmark inside them is
+// outlined to paths, so it renders identically everywhere and carries no font
+// dependency.
+//
+// These are imported rather than retyped for a reason the brand guidelines are
+// explicit about: "Don't rebuild the wordmark in a different typeface. Use the
+// supplied files." Setting "Moganshan" as live Playfair Display text is not the
+// same artwork. The optical spacing, the cap height against the culms and the
+// baseline relationship are all baked into the outlines, and live text drifts
+// from them the moment the face fails to load or the platform substitutes.
+//
+// Both variants ship the same geometry and differ only in fill:
+//   light     mark #1F4A3C, "Visit" #3C6B4A (leaf), "Moganshan" #1F4A3C
+//   reversed  mark #E8EDE9, "Visit" #E0A458 (amber), "Moganshan" #E8EDE9
+//
+// Inlined rather than <img src> so the header costs no extra request on the
+// critical path. Editing the artwork means regenerating the SVG from
+// setup/visit-moganshan-brand-assets.zip, never hand-editing here.
+//
+// CANVAS FIX, and it must survive any regeneration from the zip: the supplied
+// files ship viewBox="0 0 296.9 62.0" while the outlined wordmark inks down to
+// 64.88, so the descender of the "g" was being cut off by the viewBox. Both
+// horizontal lockups in public/brand/ now carry height/viewBox 65.5. Not one
+// path coordinate changed; only the canvas grew. Re-extracting the zip over
+// public/brand/ reintroduces the clip, so re-apply it if you ever do.
+import lockup from '../../public/brand/lockup-horizontal.svg?raw';
+import lockupReversed from '../../public/brand/lockup-horizontal-reversed.svg?raw';
+
+interface Props {
+  /** Reversed treatment for dark bamboo grounds. */
+  reversed?: boolean;
+  /**
+   * Inline the artwork instead of linking it. The outlined wordmark is ~19 KB
+   * of path data, so only the header copy earns that: it renders above the fold
+   * and must not flash empty while a second request lands. The footer and the
+   * mobile panel link the same file and get it from cache.
+   */
+  inline?: boolean;
+  class?: string;
+}
+
+const { reversed = false, inline = false, class: className = '' } = Astro.props;
+
+const href = reversed ? '/brand/lockup-horizontal-reversed.svg' : '/brand/lockup-horizontal.svg';
+
+// The files carry their own width/height attributes; strip them so CSS owns the
+// size and the intrinsic ratio comes from the viewBox alone. The artwork is
+// decorative in this context: the link's aria-label is the accessible name.
+const svg = inline
+  ? (reversed ? lockupReversed : lockup)
+      .replace(/\s(width|height)="[^"]*"/g, '')
+      .replace('<svg ', '<svg aria-hidden="true" focusable="false" ')
+  : null;
+---
+
+<a class:list={['lockup', className]} href="/" aria-label="Visit Moganshan, home">
+  {
+    svg ? (
+      <Fragment set:html={svg} />
+    ) : (
+      <img src={href} alt="" width="297" height="66" loading="lazy" decoding="async" />
+    )
+  }
+</a>
+
+<style>
+  .lockup {
+    display: inline-flex;
+    align-items: center;
+    /* Minimum lockup width is 140px; below that the guidelines call for the
+       mark alone. 163px at the default height keeps clear of that floor. */
+    width: 163px;
+    max-width: 46vw;
+    flex: none;
+  }
+
+  .lockup :global(svg),
+  .lockup img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+</style>

@@ -1,0 +1,29 @@
+---
+import { render } from 'astro:content';
+import GuideArticle from '../layouts/GuideArticle.astro';
+import { getGuideEntries, toSlug } from '../lib/guide';
+
+/**
+ * Every guide page.
+ *
+ * The route comes from the frontmatter `url`, not from the filename, so a
+ * writer can move a page in the tree by editing one line and the source
+ * directory stays flat and greppable. The home page keeps its own
+ * src/pages/index.astro; this catch-all never matches it.
+ */
+export async function getStaticPaths() {
+  const all = await getGuideEntries();
+
+  return all.map((entry) => ({
+    params: { slug: toSlug(entry.data.url) },
+    props: { entry, all },
+  }));
+}
+
+const { entry, all } = Astro.props;
+const { Content, headings } = await render(entry);
+---
+
+<GuideArticle entry={entry} all={all} headings={headings}>
+  <Content />
+</GuideArticle>

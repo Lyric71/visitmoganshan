@@ -1,0 +1,153 @@
+---
+/**
+ * The only interactive component on the page.
+ *
+ * A real ARIA tablist: roving tabindex, arrow keys, Home and End, aria-selected.
+ * Not a set of buttons with a class swap.
+ *
+ * Every panel is rendered into the DOM and hidden with the `hidden` attribute
+ * rather than being fetched or mounted on demand, so every card in every tab is
+ * in the HTML a crawler receives on the first request. That is the whole reason
+ * the module is worth having on a page whose job is search.
+ *
+ * The parent renders the panels into the default slot and owns their ids:
+ *   id={`${id}-panel-${tab.id}`}  aria-labelledby={`${id}-tab-${tab.id}`}
+ */
+interface Props {
+  /** Unique per instance; namespaces every generated id. */
+  id: string;
+  /** Accessible name for the tablist, e.g. "Filter things to do". */
+  label: string;
+  tabs: readonly { id: string; label: string }[];
+}
+
+const { id, label, tabs } = Astro.props;
+---
+
+<div class="tabs" data-tabgroup={id}>
+  <div class="tabs__list" role="tablist" aria-label={label}>
+    {
+      tabs.map((tab, i) => (
+        <button
+          class="tabs__tab"
+          type="button"
+          role="tab"
+          id={`${id}-tab-${tab.id}`}
+          aria-controls={`${id}-panel-${tab.id}`}
+          aria-selected={i === 0 ? 'true' : 'false'}
+          tabindex={i === 0 ? 0 : -1}
+        >
+          {tab.label}
+        </button>
+      ))
+    }
+  </div>
+  <slot />
+</div>
+
+<script>
+  // One listener set per group. Astro hoists and bundles this once no matter
+  // how many TabGroups the page renders.
+  for (const group of document.querySelectorAll<HTMLElement>('[data-tabgroup]')) {
+    const tabs = Array.from(group.querySelectorAll<HTMLButtonElement>('[role="tab"]'));
+    if (!tabs.length) continue;
+
+    const select = (next: HTMLButtonElement, moveFocus = true) => {
+      for (const tab of tabs) {
+        const selected = tab === next;
+        tab.setAttribute('aria-selected', String(selected));
+        tab.tabIndex = selected ? 0 : -1;
+        const panel = document.getElementById(tab.getAttribute('aria-controls') ?? '');
+        if (panel) panel.hidden = !selected;
+      }
+      if (moveFocus) next.focus();
+    };
+
+    group.addEventListener('click', (event) => {
+      const tab = (event.target as HTMLElement).closest<HTMLButtonElement>('[role="tab"]');
+      if (tab) select(tab, false);
+    });
+
+    group.addEventListener('keydown', (event) => {
+      const current = (event.target as HTMLElement).closest<HTMLButtonElement>('[role="tab"]');
+      if (!current) return;
+      const i = tabs.indexOf(current);
+      let next: HTMLButtonElement | undefined;
+
+      switch (event.key) {
+        case 'ArrowRight':
+          next = tabs[(i + 1) % tabs.length];
+          break;
+        case 'ArrowLeft':
+          next = tabs[(i - 1 + tabs.length) % tabs.length];
+          break;
+        case 'Home':
+          next = tabs[0];
+          break;
+        case 'End':
+          next = tabs[tabs.length - 1];
+          break;
+        default:
+          return;
+      }
+
+      event.preventDefault();
+      if (next) select(next);
+    });
+  }
+</script>
+
+<style>
+  .tabs__list {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 0.25rem;
+    margin-bottom: clamp(1.5rem, 2.5vw, 2rem);
+    padding-bottom: 2px;
+    border-bottom: 1px solid var(--color-line);
+    /* Six labels do not fit at 320px and wrapping them into a ragged block
+       reads as a broken menu. Scroll the rail instead and keep it one line. */
+    overflow-x: auto;
+    scrollbar-width: none;
+  }
+
+  .tabs__list::-webkit-scrollbar {
+    display: none;
+  }
+
+  .tabs__tab {
+    flex: none;
+    position: relative;
+    /* 44px minimum touch target. */
+    min-height: 44px;
+    padding: 0.5rem 0.9rem;
+    border: 0;
+    background: transparent;
+    font-family: var(--font-body);
+    font-size: 0.9375rem;
+    font-weight: 500;
+    line-height: 1.2;
+    color: var(--color-muted);
+    white-space: nowrap;
+    cursor: pointer;
+    transition: color 140ms ease;
+  }
+
+  .tabs__tab:hover {
+    color: var(--color-bamboo);
+  }
+
+  /* Selected state carries weight and an underline, not colour alone. */
+  .tabs__tab[aria-selected='true'] {
+    color: var(--color-bamboo);
+    font-weight: 600;
+  }
+
+  .tabs__tab[aria-selected='true']::after {
+    content: '';
+    position: absolute;
+    inset: auto 0.55rem -3px;
+    height: 2px;
+    background: var(--color-bamboo);
+  }
+</style>

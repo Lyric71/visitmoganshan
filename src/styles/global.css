@@ -206,12 +206,326 @@
     background: var(--color-bamboo-90, #33594d);
   }
 
+  /* Ghost CTA, for the second button in a pair and for the trade strip. Reads
+     as a real control, not a link, without spending the one accent colour. */
+  .vm-btn--ghost {
+    background: transparent;
+    color: var(--color-bamboo);
+    box-shadow: inset 0 0 0 1.5px currentColor;
+  }
+
+  .vm-btn--ghost:hover {
+    background: color-mix(in srgb, var(--color-bamboo) 8%, transparent);
+  }
+
+  /* Ghost on a dark field: mist rule, mist label. */
+  .vm-btn--ghost-reversed {
+    background: transparent;
+    color: var(--color-mist);
+    box-shadow: inset 0 0 0 1.5px color-mix(in srgb, var(--color-mist) 55%, transparent);
+  }
+
+  .vm-btn--ghost-reversed:hover {
+    background: color-mix(in srgb, var(--color-mist) 12%, transparent);
+  }
+
   /* Small caps eyebrow, as used above the wordmark in the lockup. */
   .vm-eyebrow {
     font-family: var(--font-display);
     font-size: clamp(11px, 1.1vw, 13px);
     font-weight: 500;
     letter-spacing: 0.42em;
+    text-transform: uppercase;
+  }
+
+  /* Section kicker. Inter, not Playfair: this is a label, not display type.
+     Leaf on paper is 5.22:1, and it is never the only signal for anything. */
+  .vm-kicker {
+    margin: 0 0 0.75rem;
+    font-family: var(--font-body);
+    font-size: 0.6875rem;
+    font-weight: 600;
+    letter-spacing: 0.16em;
+    line-height: 1.2;
+    text-transform: uppercase;
+    color: var(--color-leaf);
+  }
+
+  .vm-kicker--reversed {
+    color: var(--color-mist-muted);
+  }
+
+  /* Amber is legible as a kicker on ink (7.79:1) and on bamboo at this weight
+     and tracking. It is still never used for body copy. */
+  .vm-kicker--amber {
+    color: var(--color-amber);
+  }
+
+  /* ---- Layout -------------------------------------------------------- */
+
+  .vm-container {
+    width: 100%;
+    max-width: 1180px;
+    margin-inline: auto;
+    padding-inline: clamp(1.25rem, 4vw, 2.5rem);
+  }
+
+  /* Section rhythm: 64px mobile, 96px desktop. */
+  .vm-section {
+    padding-block: clamp(4rem, 8vw, 6rem);
+  }
+
+  /* Editorial measure. Long lines are the fastest way to make a guide unread. */
+  .vm-prose {
+    max-width: 68ch;
+    text-wrap: pretty;
+  }
+
+  /* ---- Section head: h2 left, link right ------------------------------ */
+
+  .vm-more {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    /* 44px minimum touch target, met by padding rather than a fixed height so
+       the link still sits on the heading baseline. */
+    padding: 0.75rem 0;
+    font-size: 0.9375rem;
+    font-weight: 600;
+    text-decoration: none;
+    color: var(--color-bamboo);
+    white-space: nowrap;
+  }
+
+  .vm-more::after {
+    content: '→';
+    transition: transform 160ms ease;
+  }
+
+  .vm-more:hover {
+    text-decoration: underline;
+    text-underline-offset: 4px;
+  }
+
+  .vm-more:hover::after {
+    transform: translateX(3px);
+  }
+
+  .vm-more--reversed {
+    color: var(--color-mist);
+  }
+
+  /* ---- Cards ---------------------------------------------------------- */
+
+  .vm-card {
+    display: flex;
+    flex-direction: column;
+    background: var(--color-surface);
+    border: 1px solid var(--color-line);
+    border-radius: 10px;
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    transition:
+      border-color 180ms ease,
+      transform 180ms ease;
+  }
+
+  /* No lift, no shadow bloom. The page is quiet and the cards stay quiet; the
+     border darkening is enough to read as interactive. */
+  .vm-card:hover {
+    border-color: var(--color-bamboo);
+  }
+
+  .vm-card__media {
+    position: relative;
+    display: block;
+    width: 100%;
+    background: var(--color-stone);
+    overflow: hidden;
+  }
+
+  .vm-card__media img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .vm-card__body {
+    padding: 1.125rem 1.25rem 1.375rem;
+  }
+
+  .vm-card__title {
+    font-family: var(--font-display);
+    font-size: 1.125rem;
+    font-weight: 500;
+    line-height: 1.3;
+    color: var(--color-bamboo);
+  }
+
+  .vm-card__sub {
+    margin-top: 0.35rem;
+    font-size: 0.9375rem;
+    line-height: 1.55;
+    color: var(--color-muted);
+  }
+
+  /* ---- Skip link ------------------------------------------------------ */
+
+  .vm-skip {
+    position: absolute;
+    left: 1rem;
+    top: -100%;
+    z-index: 100;
+    padding: 0.75rem 1.25rem;
+    border-radius: 0 0 6px 6px;
+    background: var(--color-amber);
+    color: var(--color-ink);
+    font-weight: 600;
+    text-decoration: none;
+  }
+
+  .vm-skip:focus {
+    top: 0;
+  }
+
+  /* ---- Long-form article body ----------------------------------------- */
+
+  /* Rendered markdown is not scoped by the Astro component that slots it in,
+     so the guide body is styled here rather than in GuideArticle.astro.
+     Everything is keyed off .vm-article: nothing below leaks onto the home
+     page or any hand-built component. */
+
+  .vm-article {
+    max-width: 68ch;
+    text-wrap: pretty;
+  }
+
+  .vm-article > * + * {
+    margin-top: 1.25rem;
+  }
+
+  .vm-article h2 {
+    margin-top: 2.75rem;
+    /* Clears the sticky header when a contents link jumps here. */
+    scroll-margin-top: 5.5rem;
+    text-wrap: balance;
+  }
+
+  .vm-article h3 {
+    margin-top: 2rem;
+    scroll-margin-top: 5.5rem;
+    font-family: var(--font-body);
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: var(--color-ink);
+  }
+
+  .vm-article a {
+    color: var(--color-bamboo);
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 3px;
+  }
+
+  .vm-article a:hover {
+    color: var(--color-leaf);
+  }
+
+  .vm-article ul,
+  .vm-article ol {
+    padding-left: 1.25rem;
+  }
+
+  .vm-article li + li {
+    margin-top: 0.5rem;
+  }
+
+  .vm-article strong {
+    font-weight: 600;
+  }
+
+  /* Source notes. Every measured figure on this site carries one, and it is
+     the reason a reader should believe the number, so it is set as a quiet
+     credit rather than a decorative pull quote. */
+  .vm-article blockquote {
+    padding: 0.875rem 1.125rem;
+    border-left: 3px solid var(--color-stone);
+    background: var(--color-mist-50);
+    font-size: 0.875rem;
+    line-height: 1.6;
+    color: var(--color-muted);
+  }
+
+  .vm-article blockquote > * + * {
+    margin-top: 0.5rem;
+  }
+
+  /* Tables carry the timetables and the fare bands, which is the content most
+     of these pages are actually read for. They scroll rather than shrink; the
+     wrapper is added by rehypeScrollableTables in src/lib/markdown.mjs. */
+  .vm-table {
+    overflow-x: auto;
+    overscroll-behavior-x: contain;
+  }
+
+  .vm-article :where(table) {
+    min-width: 32rem;
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.9375rem;
+    line-height: 1.5;
+  }
+
+  .vm-article :where(th, td) {
+    padding: 0.625rem 0.875rem;
+    border-bottom: 1px solid var(--color-line);
+    text-align: left;
+    vertical-align: top;
+  }
+
+  .vm-article :where(thead th) {
+    border-bottom-color: var(--color-bamboo);
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--color-bamboo);
+  }
+
+  .vm-article :where(tbody tr:nth-child(even)) {
+    background: var(--color-mist-50);
+  }
+
+  .vm-article hr {
+    margin-block: 2.5rem;
+    border: 0;
+    border-top: 1px solid var(--color-line);
+  }
+
+  /* The closing "last checked" note, and the field-check notes on the walking
+     tour. Italic in the source, quiet on the page. */
+  .vm-article > p > em:only-child {
+    color: var(--color-muted);
+    font-size: 0.9375rem;
+  }
+
+  /* ---- Placeholder for image slots that have no final asset yet -------- */
+
+  .vm-slot {
+    display: grid;
+    place-items: center;
+    background:
+      repeating-linear-gradient(
+        135deg,
+        color-mix(in srgb, var(--color-stone) 70%, var(--color-paper)) 0 10px,
+        var(--color-stone) 10px 20px
+      );
+    color: var(--color-muted);
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.12em;
     text-transform: uppercase;
   }
 }

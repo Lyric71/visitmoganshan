@@ -1,0 +1,111 @@
+---
+/**
+ * The one card. Optional image, title, one line of sub, whole surface is the
+ * link.
+ *
+ * Images carry explicit width and height so the aspect box is reserved before
+ * the file arrives; this module is most of the page's CLS budget. Slots with no
+ * final asset render a striped placeholder rather than a broken img, so an
+ * unfinished card is visibly unfinished instead of quietly wrong.
+ */
+interface Props {
+  title: string;
+  sub?: string;
+  href: string;
+  image?: string;
+  alt?: string;
+  /** Aspect ratio of the media box, e.g. "3 / 2". */
+  ratio?: string;
+  /** Rendered under the title, above the sub. Used for the hotel meta line. */
+  meta?: string;
+  /** Rendered in italic under the sub. Used for the honest hotel line. */
+  note?: string;
+  /** Small visible date, e.g. for journal cards. */
+  date?: string | null;
+  class?: string;
+  loading?: 'lazy' | 'eager';
+}
+
+const {
+  title,
+  sub,
+  href,
+  image,
+  alt = '',
+  ratio = '3 / 2',
+  meta,
+  note,
+  date,
+  class: className = '',
+  loading = 'lazy',
+} = Astro.props;
+
+// Width/height only set the intrinsic ratio here; CSS drives the real size.
+const [w, h] = ratio.split('/').map((n) => Number(n.trim()));
+const dims = { width: Math.round(w * 400), height: Math.round(h * 400) };
+---
+
+<a class:list={['vm-card', className]} href={href}>
+  <div class="vm-card__media" style={`aspect-ratio:${ratio}`}>
+    {
+      image ? (
+        <img
+          src={image}
+          alt={alt}
+          width={dims.width}
+          height={dims.height}
+          loading={loading}
+          decoding="async"
+        />
+      ) : (
+        /* TODO: source the final photograph for this slot. See section 10 of
+           the build brief: real photography only, no generic stock bamboo. */
+        <span class="vm-slot" style="position:absolute;inset:0">
+          Image to come
+        </span>
+      )
+    }
+  </div>
+  <div class="vm-card__body">
+    <h3 class="vm-card__title">{title}</h3>
+    {meta && <p class="card__meta">{meta}</p>}
+    {sub && <p class="vm-card__sub">{sub}</p>}
+    {note && <p class="card__note">{note}</p>}
+    {
+      date && (
+        <p class="card__date">
+          <time datetime={date}>
+            {new Date(date).toLocaleDateString('en-GB', {
+              day: 'numeric',
+              month: 'long',
+              year: 'numeric',
+            })}
+          </time>
+        </p>
+      )
+    }
+  </div>
+</a>
+
+<style>
+  .card__meta {
+    margin-top: 0.4rem;
+    font-size: 0.8125rem;
+    color: var(--color-muted);
+  }
+
+  /* The honest line. Italic marks it as our voice rather than the property's. */
+  .card__note {
+    margin-top: 0.6rem;
+    font-style: italic;
+    font-size: 0.9375rem;
+    line-height: 1.5;
+    color: var(--color-ink);
+  }
+
+  .card__date {
+    margin-top: 0.75rem;
+    font-size: 0.8125rem;
+    color: var(--color-muted);
+  }
+</style>

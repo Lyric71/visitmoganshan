@@ -1,0 +1,154 @@
+---
+import SectionHead from '../SectionHead.astro';
+import { MONTHS, MONTH_LEGEND } from '../../data/months';
+
+/**
+ * 6.12 When to go.
+ *
+ * Twelve chips on ONE row at every viewport down to 320px. Wrapping into two
+ * rows of six stops it reading as a year and turns it into a grid of unrelated
+ * labels, so the chips shrink instead: the month abbreviation is three glyphs
+ * and survives it.
+ *
+ * Colour never carries the meaning alone. Each chip states its status in the
+ * accessible name and the legend below spells all three out.
+ */
+const legendOrder = ['good', 'busy', 'quiet'] as const;
+---
+
+<section class="vm-section when" aria-labelledby="when-title">
+  <div class="vm-container">
+    <SectionHead
+      id="when-title"
+      title="When to go"
+      linkLabel="Month by month"
+      linkHref="/seasons"
+    />
+
+    <ul class="months">
+      {
+        MONTHS.map((month) => (
+          <li class={`months__chip months__chip--${month.status}`}>
+            <span aria-hidden="true">{month.m}</span>
+            <span class="sr-only">
+              {month.m}, {MONTH_LEGEND[month.status]}
+            </span>
+          </li>
+        ))
+      }
+    </ul>
+
+    <ul class="legend">
+      {
+        legendOrder.map((status) => (
+          <li>
+            <span class={`legend__swatch legend__swatch--${status}`} aria-hidden="true" />
+            {MONTH_LEGEND[status]}
+          </li>
+        ))
+      }
+    </ul>
+  </div>
+</section>
+
+<style>
+  .sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip-path: inset(50%);
+    white-space: nowrap;
+  }
+
+  .when {
+    background: var(--color-mist);
+  }
+
+  .months {
+    display: grid;
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+    gap: 3px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .months__chip {
+    display: grid;
+    place-items: center;
+    /* Height, not padding: twelve equal blocks read as a calendar bar. */
+    min-height: 52px;
+    padding-inline: 2px;
+    border-radius: 5px;
+    font-size: clamp(0.6875rem, 1.6vw, 0.875rem);
+    font-weight: 600;
+    letter-spacing: 0.01em;
+    text-align: center;
+  }
+
+  .months__chip--good {
+    background: color-mix(in srgb, var(--color-leaf) 18%, transparent);
+    color: var(--color-leaf);
+  }
+
+  .months__chip--busy {
+    background: color-mix(in srgb, var(--color-amber) 22%, transparent);
+    color: var(--color-ink);
+  }
+
+  .months__chip--quiet {
+    background: var(--color-stone);
+    color: var(--color-muted);
+  }
+
+  .legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem 1.5rem;
+    margin: 1.25rem 0 0;
+    padding: 0;
+    list-style: none;
+    font-size: 0.8125rem;
+    color: var(--color-muted);
+  }
+
+  .legend li {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .legend__swatch {
+    width: 12px;
+    height: 12px;
+    border-radius: 3px;
+  }
+
+  .legend__swatch--good {
+    background: color-mix(in srgb, var(--color-leaf) 45%, transparent);
+  }
+
+  .legend__swatch--busy {
+    background: color-mix(in srgb, var(--color-amber) 55%, transparent);
+  }
+
+  .legend__swatch--quiet {
+    background: var(--color-stone);
+  }
+
+  @media (max-width: 380px) {
+    .months {
+      gap: 2px;
+    }
+
+    .months__chip {
+      min-height: 46px;
+      /* At 320px the row is the constraint, not the glyph. Tighten the tracking
+         before letting anything wrap. */
+      letter-spacing: -0.02em;
+    }
+  }
+</style>
