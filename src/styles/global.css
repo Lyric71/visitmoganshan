@@ -535,6 +535,24 @@
     letter-spacing: 0.12em;
     text-transform: uppercase;
   }
+
+  /* ---- Partner ad slot -------------------------------------------------- */
+
+  /* The unit is a fixed 468x60 creative, which is wider than a 360px phone.
+     It scrolls inside its own box for the same reason the tables do, so the
+     page body never scrolls sideways. */
+  .vm-ad {
+    margin-bottom: clamp(1.5rem, 3vw, 2rem);
+    overflow-x: auto;
+    overscroll-behavior-x: contain;
+  }
+
+  .vm-ad iframe {
+    display: block;
+    width: 468px;
+    height: 60px;
+    border: 0;
+  }
 }
 
 @media (prefers-reduced-motion: reduce) {

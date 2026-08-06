@@ -15,6 +15,10 @@ last_updated: 2026-08-05
 
 # Where to stay in Moganshan
 
+<div class="vm-ad" role="region" aria-label="Advertisement, scrollable horizontally" tabindex="0">
+  <iframe src="https://www.trip.com/partners/ad/DB19110296?Allianceid=9859697&SID=327673690&trip_sub1=" id="DB19110296" title="Trip.com" width="468" height="60" frameborder="0" scrolling="no" loading="lazy" style="border:none"></iframe>
+</div>
+
 About 1,000 places to sleep sit around the foot of one hill in Deqing County, Huzhou prefecture, Zhejiang Province. The hill is [Moganshan](/moganshan/), about 60 km north of Hangzhou and 200 to 240 km from Shanghai. It is not Moganshan Road, the Shanghai art district that takes over the search results whenever you type the name.
 
 Almost none of those 1,000 are hotels. Photographs will not sort them, because they all look alike and the map means nothing to you yet. What sorts them is the village you sleep in, then the price band, then the kind of property you are booking.
