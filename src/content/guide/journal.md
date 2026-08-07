@@ -7,6 +7,8 @@ excerpt: "No posts here yet. What the Moganshan journal will carry, the rules it
 primary_keyword: moganshan blog
 secondary_keywords: [moganshan stories, moganshan long reads, moganshan photo essays]
 schema: Blog
+image: /images/guide/journal.webp
+image_alt: A film camera, a stack of unlabeled prints and an open blank notebook on a worn wooden desk
 word_count: 1005
 last_updated: 2026-08-06
 ---
@@ -29,6 +31,8 @@ There is no mailing list either, and no pop-up asking for your address. New piec
 
 The guide pages answer questions with a train leaving: how to get here from Hongqiao, what a minsu is (a small guesthouse, usually owner-run), what a ticket costs.
 
+![A photographic contact sheet on a light table with a loupe and pencil](/images/guide/journal-2.webp 'Long reads and photo essays, when there is something worth the length. Not a posting schedule.')
+
 The journal is the other half. Moganshan stories do not fit a planning page: the mountain's past, and the people running things on it now.
 
 | Format | What it carries |
@@ -48,6 +52,8 @@ All four answer to the same three rules.
 
 They sit behind every other page here too. A journal is where they slip.
 
+![A single chair facing a wide window in an empty white room with bamboo outside](/images/guide/journal-3.webp 'Nothing gets published here to fill a slot. The page stays empty until the reporting is done.')
+
 Facts have to trace to a dated source. A figure that is not in our fact base, compiled 1 to 5 August 2026, does not reach a page, rounded or otherwise.
 
 Where two published sources disagree, both go up and we name the disagreement instead of smoothing it. Entry pricing is the standing case: one set puts a ticket at RMB 120 booked online and RMB 130 if you pay at the gate, another at RMB 50 out of season and RMB 80 at peak. Check yours when you book.
@@ -61,6 +67,8 @@ None of that is standard on a destination site.
 ## Five subjects already researched
 
 Desk research turned up more than the guide had room for. These five have the material, and they are the long reads this section is built to hold.
+
+![An open drawer of a wooden card index packed with blank dividers and cards](/images/guide/journal-4.webp 'Five subjects are researched far enough to write. Each is waiting on one figure we cannot yet confirm.')
 
 **The founding, and the committee.** Credit for finding the place goes to E. N. Fletcher, a missionary with the American Northern Baptists, in a year no source agrees on: 1891 to 1894. Western villas follow at 1896 to 1898, the first builder disputed three ways. Then in 1898 the residents constituted the Moganshan Summer Resort Association (莫干山避暑会), with a yearly meeting on the first Thursday of mid-August. A colony that draws up a constitution inside a few seasons had stopped thinking of itself as temporary. [A short history of Moganshan](/moganshan/hill-station/history/) has the outline.
 

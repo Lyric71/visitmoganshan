@@ -7,6 +7,8 @@ excerpt: "Nothing to download yet. What the Moganshan image library will hold, w
 primary_keyword: moganshan images
 secondary_keywords: [moganshan photos, moganshan press images, moganshan stock photography]
 schema: Article
+image: /images/guide/trade-image-library.webp
+image_alt: A scattered pile of unlabeled black and white photographic prints on a pale table, a loupe resting on top
 word_count: 1000
 last_updated: 2026-08-06
 ---
@@ -39,6 +41,8 @@ An honest placeholder costs a picture desk two minutes. A library that turns out
 
 The English-language record on Moganshan is short and old: a New York Times feature in June 2011, a listing among 45 places the year after, TIME in January 2010, CNN Travel on one resort around 2011. Nothing in Travel + Leisure, Monocle, the Financial Times, National Geographic Traveller, Condé Nast Traveler or BBC Travel.
 
+![A camera on a tripod on a misty mountain lane with bamboo dissolving into fog](/images/guide/trade-image-library-2.webp 'Almost nothing is shot here for international use, which is why the same four pictures circulate everywhere.')
+
 > English-language coverage audit, BeyondBorder Group Ltd primary research, 1 to 5 August 2026. That 2012 listing sits behind a paywall and was confirmed at second hand.
 
 Fifteen years of thin coverage leaves a thin visual record. That gap is the reason to build a library. TODO: verify what the stock agencies hold under this name.
@@ -48,6 +52,8 @@ What is missing is ordinary material. A working bamboo slope. A stone house with
 ## What the library will hold
 
 The subjects below are what the destination is.
+
+![Photographic prints laid out in a grid on a pale table seen from above](/images/guide/trade-image-library-3.webp 'Landscape, architecture, transport and the practical shots nobody takes. That is the gap this is meant to fill.')
 
 | Subject | What the Moganshan photos have to show |
 |---|---|
@@ -80,6 +86,8 @@ Video sits behind the stills and has no date. TODO: verify whether it happens at
 ## What the license is meant to allow
 
 Moganshan press images will be free for editorial use. That is the intention. Nobody has written the license, so read the table as a statement of purpose.
+
+![Unopened plain grey archive boxes stacked on a shelf in a cool storeroom](/images/guide/trade-image-library-4.webp 'Nothing is downloadable yet. When it is, the terms will be published on this page before the files are.')
 
 | Use | What we intend |
 |---|---|

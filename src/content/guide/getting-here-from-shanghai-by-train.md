@@ -25,6 +25,8 @@ The train is the fastest way in from Shanghai. It is also where travelers make t
 
 Deqing station is your stop. It sits on the Nanjing to Hangzhou high-speed line, which has been running since 2013, and it is the closest high-speed station to the mountain.
 
+![A white high-speed train pulling into a small provincial platform in afternoon sun](/images/guide/getting-here-from-shanghai-by-train-2.webp 'Deqing is a two minute stop. Have your bag off the rack before the train slows.')
+
 Moganshan station is a different place on a different line, the Shangqiu to Hefei to Hangzhou route. It serves Wukang, the Deqing county seat about 20 km away, which is where the county's offices, hospitals and big supermarkets are. Useful town. Wrong station.
 
 Huzhou station is a third option people find, and it is farther from Moganshan than Deqing is. Booking it costs you time on the road at the other end.
@@ -56,6 +58,8 @@ Times and train numbers change with each timetable revision, usually more than o
 ## How to book, step by step
 
 ### 1. Fix your date, then look at the whole day
+
+![A hand holding a smartphone in a station concourse with departure boards blurred behind](/images/guide/getting-here-from-shanghai-by-train-3.webp 'Book on the app before you fly. Foreign passports are accepted, but the first booking takes longer than you think.')
 
 Thirteen services is enough choice to be useful and not enough to be casual about. Weekends and the Golden Week holidays in early May and early October load the whole corridor. Book those well ahead.
 
@@ -95,6 +99,8 @@ Check four things before you leave the ticket hall or close the app.
 ## At Deqing station: the last 30 km
 
 Deqing station is not the mountain. You still have about 30 minutes of road ahead of you.
+
+![Minibuses and taxis lined up outside the exit of a small Chinese station](/images/guide/getting-here-from-shanghai-by-train-4.webp 'The train is the easy part. The last thirty kilometres is where the plan usually breaks.')
 
 The Y1 tourist shuttle, styled as a Republican-era tram, leaves from the Deqing Coach Centre next to the station and runs to the Moganshan tourist distribution centre. It takes 30 to 40 minutes and costs RMB 10.
 

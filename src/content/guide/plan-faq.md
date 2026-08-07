@@ -60,6 +60,8 @@ No. Moganshan Road is the M50 art district in Putuo District, Shanghai. The moun
 
 *Covered in full on [Deqing station](/getting-here/deqing-station/) and [getting around](/getting-here/getting-around/).*
 
+![A rural junction at the foot of a green mountain with a shelter and a lane climbing away](/images/guide/plan-faq-2.webp 'Almost every question on this page is really about the same thirty kilometres.')
+
 ### How far is Deqing station from Moganshan?
 
 About 30 to 40 minutes by shuttle, about 30 minutes by taxi. The Y1 costs RMB 10 and a taxi costs about RMB 100.
@@ -96,6 +98,8 @@ Not one we can confirm for visitors. The Y1 shuttle connects Deqing station with
 
 ### How much is the scenic-area ticket?
 
+![A hand holding a plain paper ticket stub against a blurred green background](/images/guide/plan-faq-3.webp 'Most visitors never buy one, because the villages and guesthouses sit outside the ticketed core.')
+
 Sources disagree, and we are not going to pick one for you. One set of figures gives RMB 120 online and RMB 130 at the gate. Another gives RMB 50 off-season and RMB 80 in peak season. Winter tickets are half price. Check the current price when you book rather than trusting any published number, including this one.
 
 ## How long to stay, and the day-trip question
@@ -125,6 +129,8 @@ One night helps a lot because it buys you a morning. Two nights buys two morning
 ## Where to stay
 
 *Covered in full on [what a minsu is](/where-to-stay/minsu-explained/) and [where to stay](/where-to-stay/).*
+
+![An open guesthouse doorway with slippers on the step and potted plants either side](/images/guide/plan-faq-4.webp 'A thousand small guesthouses and about a dozen hotels. That ratio answers most of the where question.')
 
 ### Is a minsu the same as an Airbnb?
 

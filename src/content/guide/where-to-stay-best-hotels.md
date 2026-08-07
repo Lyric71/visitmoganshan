@@ -7,6 +7,8 @@ excerpt: "We have not stayed in Moganshan's hotels, so we do not rank them. Inst
 primary_keyword: best hotels moganshan
 secondary_keywords: [moganshan best hotels, where to stay moganshan, moganshan hotel comparison]
 schema: Article
+image: /images/guide/where-to-stay-best-hotels.webp
+image_alt: A plain guest room with white walls, a linen-covered bed and a window open onto bamboo
 word_count: 1498
 last_updated: 2026-08-06
 ---
@@ -32,6 +34,8 @@ What we can offer is a Moganshan hotel comparison built on five checkable things
 ## One: the village, and its distance from a transfer center
 
 Moganshan is not a town with hotels in it. It is a mountain ringed by villages, and which one you book decides the day.
+
+![A guesthouse standing alone above a village with a lane switchbacking up to it](/images/guide/where-to-stay-best-hotels-2.webp 'Distance from a transfer centre decides more about your stay than anything in the room.')
 
 Mostly it comes down to dinner. Chinese reporting keeps landing on the same gap: these villages have no evening economy, meaning no night market and little food after dark. Yucun has a square and restaurants. Houwu, half an hour off, does not. Without a car, the village you are in at 6 pm is the village you eat in. Hence half board.
 
@@ -66,6 +70,8 @@ Two questions settle the rest: which transfer center serves the property, and do
 
 A rate means nothing on its own. It means something against the local band.
 
+![A plain guesthouse bedroom with a narrow bed, a tiled floor and a bare pendant bulb](/images/guide/where-to-stay-best-hotels-3.webp 'The bands here are wide and the photographs are flattering. Price against the market, not against the pictures.')
+
 | Band | A night | What it is |
 |---|---|---|
 | Mid-range, off season | RMB 300 to 500 | The converted village house. The normal stay |
@@ -90,6 +96,8 @@ A party of eight will not fit in most of the mountain. Groups take two or three 
 ## Five: the date you go
 
 Occupancy ran about 55 percent across the sector in 2024, down from about 70 before 2021. That is your bargaining position most nights. The average hides the rest.
+
+![A quiet village lane on a weekday morning with one parked car and laundry drying](/images/guide/where-to-stay-best-hotels-4.webp 'The same room on a Tuesday and on a Saturday in August is two different products at two different prices.')
 
 | When | What happens |
 |---|---|

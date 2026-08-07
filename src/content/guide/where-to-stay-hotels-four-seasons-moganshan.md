@@ -7,6 +7,8 @@ excerpt: "Four Seasons announced a 90-key resort at Moganshan in September 2025,
 primary_keyword: four seasons moganshan
 secondary_keywords: [four seasons resort moganshan, moganshan luxury hotel 2030, four seasons china]
 schema: Hotel
+image: /images/guide/where-to-stay-hotels-four-seasons-moganshan.webp
+image_alt: An empty cleared hillside above misted bamboo ridges, where nothing has been built yet
 word_count: 1148
 last_updated: 2026-08-06
 ---
@@ -64,11 +66,15 @@ Which we cannot check. Nothing in it describes a natural hot spring at Moganshan
 
 Then there is the address. The site is given as Yu Village. The main village at the foot of the mountain is Yucun (庾村), often written the same way in English. They may be the same place, though our research does not say.
 
+![A broad green valley with terraced fields and scattered buildings below forested ridges](/images/guide/where-to-stay-hotels-four-seasons-moganshan-2.webp 'The site sits in a valley on the mountain’s flank, not up among the old stone villas.')
+
 There is a second trap in that name: Anji County has its own Yucun (余村), different characters and county, and the two get mixed up. `TODO: verify which village the site sits in.` Treat the names as separate until then. The [villages guide](/moganshan/villages/) covers each one.
 
 ## Why the announcement matters more than the building will
 
 Names aside, take the brand off and look at who signed. A global luxury operator picked this mountain. The other side of the deal is not a private developer: Zhejiang Shangyin Cultural Tourism Development Co. sits under the Deqing County Cultural and Tourism Development Group, the county government's own development group. `TODO: verify the exact ownership chain.` The county put its own company behind a Four Seasons.
+
+![A plain unmarked construction hoarding around an empty rural site below bamboo hills](/images/guide/where-to-stay-hotels-four-seasons-moganshan-3.webp 'Nothing has been built. What the announcement did was tell the rest of the market this mountain is worth 2030 money.')
 
 Nothing else says as much about where this mountain is heading. The Ministry of Culture and Tourism named the area a national-level tourism resort on 15 December 2020, and private money had already been moving the same way.
 
@@ -89,6 +95,8 @@ None of which helps you book a room. It tells you what kind of mountain you will
 ## Moganshan luxury hotels between now and 2030
 
 Say you want that level of property this year. A few are open, listed by opening date below, which is not a ranking, and keys are in the table above. Names only, because nobody from this site has stayed in them, so there are no ratings and no reviews.
+
+![A resort room with timber walls and a full height window filled with green bamboo](/images/guide/where-to-stay-hotels-four-seasons-moganshan-4.webp 'This is what the top of the market already looks like here, and it is bookable now.')
 
 | Property | What the research confirms |
 |---|---|

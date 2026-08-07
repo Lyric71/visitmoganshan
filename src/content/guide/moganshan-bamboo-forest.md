@@ -25,6 +25,8 @@ If you have landed here looking for Moganshan Road, that is the M50 art district
 
 Moso (毛竹, maozhu) is the big timber bamboo of eastern China. Stems thick enough to fill your hand, growing straight and close together, with the leaves carried high overhead.
 
+![Thick pale green moso bamboo culms growing close together, bare of branches at eye level](/images/guide/moganshan-bamboo-forest-2.webp 'Moso is timber bamboo. The stems fill a hand, and the leaves are all thirty metres above you.')
+
 The result is a strange kind of woodland. Most of the volume above you is empty. The green is up in the canopy, the trunks are bare poles, and at ground level you can often see a long way between them. Sunlight arrives already colored.
 
 TODO: verify typical mature height and annual growth rate for moso at Moganshan's elevation. We have not found a figure we trust for this mountain.
@@ -32,6 +34,8 @@ TODO: verify typical mature height and annual growth rate for moso at Moganshan'
 ## It is a crop, not a park
 
 This matters more than anything else on the page. The bamboo on Moganshan is a working commercial crop. It is not landscaping, and nobody planted it for your photograph.
+
+![Cut bamboo stumps and a stack of felled culms tied beside a forest track](/images/guide/moganshan-bamboo-forest-3.webp 'This is a crop. Cut stumps, stacked poles and working tracks are part of the view, not a blemish on it.')
 
 Farmers cut the poles and dig the shoots, and both are sold. So the forest looks worked, because it is. Cut stumps, thinned stands, tracks running off the path, ground that somebody has clearly been over recently. Visitors sometimes read that as neglect. It is the opposite. The tidy version would be the fake one.
 
@@ -66,6 +70,8 @@ For routes and distances rather than viewpoints, use the [hiking guide](/things-
 ## Spring shoots
 
 In spring the shoots come up, and the same forest you have been walking through turns into food. Farmers dig them, and they appear on guesthouse menus within hours. Bamboo shoots are one of the two things the local season is actually promoted on, along with the meadows.
+
+![Dark sheathed bamboo shoots pushing up through wet leaf litter in spring](/images/guide/moganshan-bamboo-forest-4.webp 'In spring the shoots come up fast enough to see the difference between morning and evening.')
 
 Shoot timing moves with the weather from year to year. Treat it as a few weeks in spring, not a date you can book against.
 

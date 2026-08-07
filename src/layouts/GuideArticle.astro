@@ -84,6 +84,25 @@ const jsonLd = guideJsonLd(entry, crumbs)
         </p>
       </header>
 
+      {
+        data.image && (
+          <figure class="lead">
+            {/* Eager, and fetchpriority high: this is the LCP element on every
+                page that has one, and letting the browser discover it lazily
+                costs a round trip it cannot get back. */}
+            <img
+              src={data.image}
+              alt={data.image_alt ?? ''}
+              width="1600"
+              height="900"
+              loading="eager"
+              fetchpriority="high"
+              decoding="async"
+            />
+          </figure>
+        )
+      }
+
       <div class="body">
         {
           sections.length > 2 && (
@@ -111,6 +130,20 @@ const jsonLd = guideJsonLd(entry, crumbs)
 
         <article class="vm-article">
           <slot />
+
+          {/* Every photograph on this page is generated, and several of them
+              stand in for places a reader could go and identify: a named villa
+              on the walking tour, a named hotel, the station. A reader who
+              takes one of those for a photograph of the actual building has
+              been misled, and on a site that marks its unverified figures that
+              is not a footnote. It sits at the end of the prose, before the
+              onward links, on every article rather than only the ones with a
+              named subject: a note that appears sometimes is a note nobody
+              learns to look for. */}
+          <p class="illustration-note">
+            Photographs on this site are representative illustrations, not documentary images of
+            the specific building, property or service described.
+          </p>
 
           {
             showFaqLink && (
@@ -195,6 +228,26 @@ const jsonLd = guideJsonLd(entry, crumbs)
     margin-top: 1.25rem;
     font-size: 0.8125rem;
     color: var(--color-muted);
+  }
+
+  /* Lead image ------------------------------------------------------------ */
+
+  /* Full container width, not the prose measure: the lead is the one image on
+     the page that is establishing the place rather than illustrating a
+     paragraph, and it earns the extra width. 16:9 rather than the 3:2 the body
+     figures use, so it never pushes the first paragraph off a phone screen. */
+  .lead {
+    margin: 0;
+    margin-top: clamp(2rem, 4vw, 3rem);
+  }
+
+  .lead img {
+    display: block;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+    background: var(--color-mist);
   }
 
   /* Body ------------------------------------------------------------------ */
@@ -283,6 +336,19 @@ const jsonLd = guideJsonLd(entry, crumbs)
     text-decoration: underline;
     text-underline-offset: 3px;
     text-decoration-thickness: 1px;
+  }
+
+  /* Illustration disclosure ------------------------------------------------ */
+
+  /* Quiet, but not hidden: same treatment as the source notes the prose already
+     uses for a figure it cannot stand behind, which is exactly what this is. */
+  .illustration-note {
+    margin-top: clamp(2rem, 4vw, 3rem);
+    padding-top: 1rem;
+    border-top: 1px solid var(--color-line);
+    font-size: 0.8125rem;
+    line-height: 1.6;
+    color: var(--color-muted);
   }
 
   /* FAQ hub pointer -------------------------------------------------------- */

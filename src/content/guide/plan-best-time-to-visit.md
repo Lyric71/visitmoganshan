@@ -30,6 +30,8 @@ The best time to visit Moganshan is late April to May, or late September to earl
 
 Ask anywhere else and the answer comes back in one word: summer. That is historically correct. Missionaries built this place in the 1890s to escape Shanghai's heat, and it still works. July and August average 24.1 °C, some 6 to 7 °C below Shanghai and Hangzhou.
 
+![A queue of visitors packed onto a narrow stone mountain path in harsh summer light](/images/guide/plan-best-time-to-visit-2.webp 'Summer is when the mountain is coolest and when it is least pleasant. Both things are true at once.')
+
 Everybody else knows this, so you bid against the whole Yangtze delta for a bed. The shoulder months hand you most of the cool air and a fraction of the crowd. Both are promoted locally as shoulder seasons, which tells you the operators know summer is oversubscribed.
 
 That case has a hole, and we would rather name it. We have measured means for January, July and August, and an annual mean of 13.3 °C. For April and October we have nothing. [Moganshan weather](/moganshan/weather/) has every figure we do have.
@@ -56,6 +58,8 @@ The occupancy record backs that up. Guesthouse occupancy across the area average
 ## Month by month, with a verdict
 
 The year itself, month by month. The verdict column answers one question: would we book it?
+
+![Fresh yellow green spring growth against darker mature bamboo on a hillside path](/images/guide/plan-best-time-to-visit-3.webp 'Late April and May: new growth, long visibility, and none of the crowd that arrives in July.')
 
 | Month | Why you would come | The catch | Verdict |
 |---|---|---|---|
@@ -94,6 +98,8 @@ You cannot take your own car into the scenic area. Everyone changes at Yucun, Fa
 ## The two weeks to avoid
 
 A Golden Week is a weekend that runs for seven days. The May Day and National Day holidays, China's two Golden Weeks, sit directly on top of the two best periods of the year. That overlap is no accident. Those are the weeks the whole country is free to travel. The exact dates shift each year, so check yours before counting seven days from the 1st.
+
+![A completely full mountain car park with cars parked along both verges of the road](/images/guide/plan-best-time-to-visit-4.webp 'Golden Week is not a busy version of the mountain. It is a different and much worse trip.')
 
 What a Golden Week does to the mountain:
 

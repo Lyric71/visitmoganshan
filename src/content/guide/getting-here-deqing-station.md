@@ -25,6 +25,8 @@ That is the single most useful sentence on this page.
 
 Moganshan railway station is real. It has a real timetable and real trains. It sits on the Shangqiu to Hefei to Hangzhou line, and it serves the Deqing and Wukang side of the county rather than the mountain itself.
 
+![The forecourt of a small modern Chinese high-speed railway station under overcast light](/images/guide/getting-here-deqing-station-2.webp 'A small modern station on the high-speed network, of the kind that serves the mountain. The one carrying the Moganshan name is roughly 40 km away in the wrong direction.')
+
 Deqing railway station is the one that works. It is on the Nanjing to Hangzhou high-speed line, which has been open since 2013, and the shuttle bus to Moganshan leaves from the coach center next door.
 
 Book the wrong one and nothing dramatic happens. You just land in an unfamiliar part of a county you did not plan to visit, probably at an hour when the shuttle has stopped for the day.
@@ -63,6 +65,8 @@ If you cannot spot the Y1 bay, show a staff member the mountain's Chinese name, 
 ## The Y1 shuttle: real times, real fare
 
 The Y1 runs from Deqing Coach Center to the Moganshan tourist distribution center. It is dressed up to look like a Republican-era tram, which is charming and irrelevant to whether you make it. The ride takes about 30 to 40 minutes and costs RMB 10.
+
+![A small shuttle minibus waiting with its doors open in a station coach bay](/images/guide/getting-here-deqing-station-3.webp 'The shuttle leaves from the coach centre beside the station, not from the taxi rank most arrivals walk to first.')
 
 There are seven departures a day. Seven is the whole service, not a sample.
 
@@ -103,6 +107,8 @@ This catches taxi passengers more than shuttle passengers, because a taxi feels 
 ## If you arrive after the last shuttle
 
 Take the 17:39 from Hongqiao and you reach Deqing at 18:42. The last Y1 left at 16:00. The transfer centers shut at 18:00. You are not stranded, but you are now solving a problem instead of starting a trip.
+
+![A taxi waiting on wet tarmac outside a small station after dark](/images/guide/getting-here-deqing-station-4.webp 'Arrive late and the shuttle is gone. A taxi is the fix, and it costs several times the fare.')
 
 | Your situation | What to do |
 |---|---|

@@ -57,6 +57,8 @@ You will have company. China logged about 41.0 million foreign-national entries 
 
 Summer is the reason Moganshan exists. July and August average 24.1 °C, about 6 to 7 °C cooler than Shanghai and Hangzhou. That gap has been the whole proposition since the 1890s.
 
+![A bamboo slope in clear low autumn sun with yellowed leaves scattered on the path](/images/guide/plan-2.webp 'Late April to May, or late September to early November. Everything else is a compromise you should make knowingly.')
+
 | Season | What you get | What to watch |
 |---|---|---|
 | July to August | The cool air, at a 24.1 °C mean | Core season. Book early |
@@ -70,6 +72,8 @@ The two Golden Weeks, the May Day and National Day holidays, are worth avoiding 
 ## Step 3: how to get here
 
 Almost everyone arrives by high-speed train to Deqing station. Watch the name. Moganshan railway station, on the Shangqiu to Hefei to Hangzhou line, does not serve the mountain.
+
+![A traveller with a rucksack stepping down from a train onto a small platform](/images/guide/plan-3.webp 'Train to Deqing, then thirty kilometres by road. Two steps, and the second is the one to book.')
 
 | Leg | Time | Frequency | Cost |
 |---|---|---|---|
@@ -113,6 +117,8 @@ Pick the village before the property, since that shapes the trip more than the r
 ## Step 5: what to book before you go
 
 Dinner is the booking people forget. Chinese reporting is blunt about the missing evening economy: no night market, very little late-night food. If your guesthouse is not cooking, your options after 20:00 are thin. Reserve a table for every night when you book the room, and ask in the same message whether they can register a foreign passport.
+
+![An open laptop, a passport and a notebook on a kitchen table in morning light](/images/guide/plan-4.webp 'Beds, trains and dinner. In that order, and all of them before you leave home.')
 
 Train tickets can wait, though not until the last morning of a holiday weekend. Scenic-area tickets need no advance booking, but published prices conflict badly, so [tickets and entry](/plan/tickets-and-entry/) sets out both ranges rather than picking one.
 

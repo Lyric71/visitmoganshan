@@ -41,6 +41,8 @@ The station you want is **Deqing** (德清). Write it down in pinyin and in Chin
 
 Deqing sits on the Nanjing to Hangzhou high-speed line, which has been running since 2013. That is why the Hangzhou approach has always been quick, and why it does not depend on any recent construction.
 
+![A high-speed train crossing a viaduct over flat green farmland](/images/guide/getting-here-2.webp 'Step one is fast and easy. It is also the only step most people plan.')
+
 | Route | Journey time | Direct services a day | Second-class fare |
 |---|---|---|---|
 | Shanghai Hongqiao to Deqing | 63 to 80 min | 13 | about RMB 61 to 110 |
@@ -60,6 +62,8 @@ Full timings, fare bands and booking notes are on the [Shanghai to Moganshan by 
 
 Deqing station is not at the foot of the mountain. You have two ways to cover the gap.
 
+![A rural road climbing between bamboo seen through a rain flecked windscreen](/images/guide/getting-here-3.webp 'Thirty kilometres of road transfer separates the station from the mountain. No train covers it.')
+
 **The Y1 tourist shuttle.** It runs from the Deqing coach center, right beside the station, to the Moganshan tourist distribution center. Locals call it the Republican-era tram, after its styling.
 
 | | Y1 shuttle |
@@ -77,6 +81,8 @@ Seven departures a day is not many. There is a long gap between 10:40 and 13:00,
 ## Step three: the rule inside the scenic area
 
 This is the part almost nobody writes about in English.
+
+![A barrier gate closed across a mountain road with bamboo forest on both sides](/images/guide/getting-here-4.webp 'The rule that catches people out: your own vehicle does not go past this point.')
 
 **Private vehicles cannot drive inside the core scenic area.** Visitors leave their car or taxi at a transfer center and continue on scenic-area transport. There are three of them: **Yucun**, **Fatou** and **Houwu**. They operate from **08:00 to 18:00**.
 

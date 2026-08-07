@@ -23,6 +23,8 @@ About 250 historic villas stand on these slopes. English-language guides call th
 
 Every source, Chinese and English, gives the same material: local mountain stone, across both waves and fifty years.
 
+![A rough coursed stone wall with a deep set window and peeling green timber frame](/images/guide/moganshan-hill-station-the-villas-2.webp 'One material, local stone, carrying five different European ideas of what a summer house should look like.')
+
 Chinese writing about the mountain calls the result an "architecture of all nations". The styles named in the record are British, American, French, German and Chinese-eclectic.
 
 The mountain was built in two waves, thirty years apart.
@@ -71,6 +73,8 @@ The Chinese owners who followed were a different crowd. Their houses carry the p
 ## Six named houses, and what each one is now
 
 The record names six buildings individually, oldest first, which puts the only foreign-built one at the top.
+
+![A stone villa with a castellated tower and arched openings seen across a lawn](/images/guide/moganshan-hill-station-the-villas-3.webp 'A few of the named houses are hotels now. Most of the rest you can only look at from the lane.')
 
 | # | Villa | Date | Who built or used it | Status today |
 |---|---|---|---|---|
@@ -133,6 +137,8 @@ That is the third naming trap this destination sets for English speakers.
 ## How to see the old villas
 
 No private vehicle goes past the boundary of the scenic area, which is the ticketed core of the mountain. You transfer at Yucun, Fatou or Houwu, and those centers work from 08:00 to 18:00.
+
+![A chained iron gate across a private driveway with a house barely visible beyond](/images/guide/moganshan-hill-station-the-villas-4.webp 'Nearly all of them are private or shut. The walk is the way to see them, and it stays on the lane.')
 
 Ticket prices do not agree between sources, so here is the conflict.
 

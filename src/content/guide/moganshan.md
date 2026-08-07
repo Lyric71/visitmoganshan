@@ -51,6 +51,8 @@ One more, for anyone reading Chinese sources. Moganshan's village Yucun is writt
 
 The core scenic area covers about 20 km². It is not a single summit you climb and tick off. It is a low, wooded ridge with roads, villages and walking paths running through it.
 
+![A level mountain lane with stone edging running through bamboo, a view opening beyond](/images/guide/moganshan-2.webp 'It is a green, quiet, worked mountain. Not a wilderness, and not a theme park either.')
+
 The bamboo does most of the work. Moso bamboo grows tall and close, and on a windy day the whole slope creaks above your head. This is a working commercial crop, not landscaping. Farmers cut it, dig the shoots and sell both. The [bamboo forest](/moganshan/bamboo-forest/) page covers what that means for walking there.
 
 Between the trees sit around 250 surviving historic villas, built from local mountain stone. Some sources say 200 and up. They come in British, American, French, German and Chinese-eclectic styles, which Chinese writers describe as an architecture-of-all-nations collection.
@@ -62,6 +64,8 @@ Moganshan is listed as one of China's four great summer resorts, with Beidaihe, 
 ## The villages
 
 Most visitors sleep in a village, not on the peak. All of these sit in Moganshan Town, Deqing County.
+
+![An ordinary mountain village street with shutters half down and a scooter parked](/images/guide/moganshan-3.webp 'The villages are working places first. That is where almost every visitor actually sleeps and eats.')
 
 | Village | Chinese | What it is |
 |---|---|---|
@@ -90,6 +94,8 @@ The [hill station history](/moganshan/hill-station/) page tells it properly.
 ## Who Moganshan suits
 
 It works for people who want a quiet two or three days between Shanghai and Hangzhou. Walking, bamboo, cool air, a good room, long meals, an early night. Families do well here because the terrain is gentle and the villages feel safe. Anyone escaping a Shanghai August has the original use case: the mountain runs 6 to 7 °C cooler than the cities below, with a July and August mean of 24.1 °C.
+
+![Two people walking slowly along a bamboo lined path seen from a distance](/images/guide/moganshan-4.webp 'It suits people who want two days of very little. It disappoints anyone counting attractions.')
 
 Design people get more out of it than most. The guesthouse scene has been a proving ground for small Chinese hospitality design for twenty years.
 

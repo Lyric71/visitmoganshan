@@ -44,6 +44,8 @@ We would rather show the gap than invent numbers. A wrong distance on a mountain
 | Tickets | Charged, prices disputed between sources, half price in winter |
 | Company | Quiet midweek, Mondays most of all. Weekends and Golden Week are the opposite |
 
+![A stone stepped path with a handrail climbing steeply through bamboo](/images/guide/things-to-do-hiking-2.webp 'This is stepped path walking, not trail walking. The surface is made, and it is relentlessly up or down.')
+
 ## The terrain, in plain terms
 
 Some of that needs unpacking.
@@ -77,6 +79,8 @@ The height buys you temperature, not difficulty. July and August average 24.1 °
 | July to August | 24.1 °C mean, 6 to 7 °C cooler than Shanghai and Hangzhou | Peak season, humid, carry water |
 | January | 1.4 °C mean, close to freezing | Quiet, half-price tickets, cold hands |
 | Spring and autumn | Between the two, annual mean 13.3 °C | The promoted shoulder seasons |
+
+![Wet mossy stone steps with water running across them and a walking shoe on the edge](/images/guide/things-to-do-hiking-3.webp 'Wet stone with moss on it is the actual hazard here. Grip matters far more than ankle support.')
 
 Footwear is where visitors get caught out.
 
@@ -114,6 +118,8 @@ Eat when food is in front of you, and carry something for the afternoon.
 ## Where to ask for an actual route
 
 Three sources can give you one, in this order.
+
+![A hand drawn sketch map of lines and arrows on paper with a pencil alongside](/images/guide/things-to-do-hiking-4.webp 'The best route advice on this mountain is still spoken, drawn on paper, and comes from where you are sleeping.')
 
 - **Your guesthouse.** The best source on this mountain. Staff walk it weekly and know which paths are closed or dug up right now. English varies from house to house. Ask the night before, not on your way out of the door.
 - **The transfer centers and scenic-area gates.** Staffed during opening hours, with signboards on the mountain. How much English any of it carries: TODO: verify on the ground.

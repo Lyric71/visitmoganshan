@@ -7,6 +7,8 @@ excerpt: Moganshan in winter is the cheapest, emptiest season here. What January
 primary_keyword: moganshan in winter
 secondary_keywords: [moganshan snow, moganshan december, moganshan low season]
 schema: Article
+image: /images/guide/seasons-winter.webp
+image_alt: A frost-dusted stone path running along a bamboo slope under a cold grey sky
 word_count: 1198
 last_updated: 2026-08-06
 ---
@@ -21,6 +23,8 @@ Here means Deqing County, inside Huzhou prefecture, in China's Zhejiang Province
 
 January is the coldest month, and our sources disagree.
 
+![Frost rimed bamboo leaves at first light on a cold clear winter morning](/images/guide/seasons-winter-2.webp 'It rarely freezes hard, and it is cold in a damp way that a coat rated for dry cold will not fix.')
+
 | Figure | Value |
 |---|---|
 | January mean, the figure we use | 1.4 °C |
@@ -34,6 +38,8 @@ We print 1.4 °C because it is better supported. The honest range is roughly 1.4
 ## Moganshan snow is not a plan
 
 Snow brings people here, and we cannot give them what they want.
+
+![A thin melting dusting of snow on a bamboo slope under a flat grey sky](/images/guide/seasons-winter-3.webp 'Snow happens and does not last. Booking a trip for it is booking on a coin toss.')
 
 Our research turned up no snowfall record for this mountain: no average number of snow days, nothing on depth. So we will not write that a January dusting is common. If snow is your only reason to come, pick a different mountain.
 
@@ -65,6 +71,8 @@ We cannot list what closes. No source we trust publishes winter hours, so ask yo
 ## The evening problem is really a winter problem
 
 The cold and the price are the easy parts. Chinese reporting on the guesthouse villages notes something true all year: no evening economy, no night market, little food late.
+
+![A single lit guesthouse window on a dark hillside early in a winter evening](/images/guide/seasons-winter-4.webp 'In January the dark arrives at five and nothing opens after it. That is the season in one frame.')
 
 In August that is a mild disappointment. You can sit outside at nine. In January at 1.4 °C you cannot. Your guesthouse dining room is the evening, and if its kitchen closes you are back in your room early. Choose the property on whether you would be content there for a long evening indoors.
 

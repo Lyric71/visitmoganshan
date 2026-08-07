@@ -7,6 +7,8 @@ excerpt: Moganshan takes groups of 12 to 60. Train times, the ten-bed average th
 primary_keyword: moganshan groups
 secondary_keywords: [moganshan corporate retreat, group travel moganshan, moganshan team building]
 schema: Article
+image: /images/guide/groups.webp
+image_alt: A long wooden table laid with plain ceramic bowls in a whitewashed farmhouse room, bamboo forest through the window
 word_count: 1304
 last_updated: 2026-08-06
 ---
@@ -47,6 +49,8 @@ One line of the booking instruction must be right: the station is Deqing. A Moga
 
 Getting there is the easy half. Roughly 10,000 beds across about 1,000 properties averages ten beds a property, the most useful number here. About 80 percent are individually owned, so forty beds on one contract is unusual. [Where to stay](/where-to-stay/) has the villages.
 
+![Three converted guesthouses standing close together on a bamboo hillside](/images/guide/groups-2.webp 'A group of thirty sleeps in three houses, not one hotel. That single fact reshapes the whole plan.')
+
 | Group size | Houses, at the ten-bed average | What the stock does with you | What breaks first |
 |---|---|---|---|
 | 8 to 12 | 1 | What the market was built for. Whole-house booking is routine | Nothing |
@@ -65,6 +69,8 @@ Trip.com took 67.04 percent of Dalezhiye in March 2025: 28 properties, 556 rooms
 
 The job changes with the occasion, not the headcount.
 
+![A guesthouse terrace laid with tables for a private dinner above bamboo forest](/images/guide/groups-3.webp 'Whether you are running an offsite or a wedding changes which houses can take you, and when.')
+
 | The booking | What it needs | Where it gets hard |
 |---|---|---|
 | Company offsite | One room that seats everybody, power, a quiet day | Hardest to source here. [Moganshan corporate retreats](/groups/corporate-retreats/) |
@@ -74,6 +80,8 @@ The job changes with the occasion, not the headcount.
 ## Four rules that break a group plan
 
 ### No private vehicle goes past the scenic-area line
+
+![A minibus on a narrow mountain lane with luggage stacked on the verge](/images/guide/groups-4.webp 'Vehicle access, bed counts, dinner sittings and the transfer window. Four constraints, and they compound.')
 
 Groups change transport at Yucun, Fatou or Houwu, the three transfer centers, open 08:00 to 18:00.
 

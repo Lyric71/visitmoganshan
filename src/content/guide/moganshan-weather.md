@@ -37,6 +37,8 @@ Sources disagree on January. One puts the mean nearer 3.5 °C. We use 1.4 °C. E
 
 Air cools as it rises. Using the standard rate, height on its own should explain four or five degrees between the ridge and the plain below. Treat that as an estimate. The measured summer gap is bigger, at 6 to 7 °C below Shanghai and Hangzhou.
 
+![The view from a mountain shoulder down onto a hazy plain far below](/images/guide/moganshan-weather-2.webp 'Seven hundred metres is not much on paper. In July it is the difference between bearable and not.')
+
 The rest comes from what is on the ground. Forest covers more than 92 percent of the mountain, almost all of it moso bamboo, so the soil sits in shade most of the day. The cities do the opposite. Concrete stores heat all afternoon and gives it back after dark, which is why the gap feels widest at night.
 
 Do not oversell it. A July mean of 24.1 °C is mild, not cold. Afternoons in direct sun are warm and sticky. What changes is the evening, and whether you sleep.
@@ -50,6 +52,8 @@ In summer, take 6 to 7 degrees off it. For the rest of the year we have no measu
 ## Mist and cloud
 
 We have no measured rainfall or fog-day record for the mountain, so read this as guidance, not data.
+
+![Dense fog inside a bamboo forest with visibility down to a few rows of culms](/images/guide/moganshan-weather-3.webp 'Cloud sits on this mountain often. It is not a ruined day, but it is not the view in the brochure either.')
 
 Expect cloud. A wooded ridge at this height, in this part of China, spends a fair number of mornings inside one. That is much of what Moganshan looks like in photographs, and it is also what wrecks sunrise trips to the Xuguang platform. Plan the walk and treat the view as a bonus.
 
@@ -112,5 +116,7 @@ So pick the weekday first and the month second. A cold Monday in December beats 
 | Spring and autumn | Layers you can strip. A warm mid-layer for early mornings and after sunset |
 | Winter | Proper coat, hat, gloves. Treat it as near-freezing, not as mild |
 | Any month | Waterproof outer layer and shoes with real tread. Paths are stone and packed earth, and they turn slippery in mist |
+
+![A daypack, rain shell, fleece, umbrella and walking shoes laid out on a bed](/images/guide/moganshan-weather-4.webp 'A layer more than the forecast suggests, and something waterproof, in every month of the year.')
 
 *Temperature figures, crowd data and the half-price winter ticket last checked 5 August 2026. Ticket prices conflict between sources and change, so confirm at booking.*

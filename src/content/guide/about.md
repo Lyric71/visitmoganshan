@@ -7,6 +7,8 @@ excerpt: "Who publishes this independent Moganshan guide, how it is funded, and 
 primary_keyword: about visit moganshan
 secondary_keywords: [visitmoganshan, moganshan guide publisher, independent moganshan guide]
 schema: Article
+image: /images/guide/about.webp
+image_alt: An open blank notebook, a folded contour map, reading glasses and a glass of green tea on a wooden desk
 word_count: 1097
 last_updated: 2026-08-06
 ---
@@ -22,6 +24,8 @@ This page is here so you can judge how much of the rest of the site to believe.
 ## Who publishes it
 
 The publisher is BeyondBorder Group Ltd, registered in Hong Kong.
+
+![A desk with an open notebook, a laptop, a folded map and a cup of tea beside a window](/images/guide/about-2.webp 'The guide is researched and written by one person, funded by affiliate links and nothing else.')
 
 | | |
 |---|---|
@@ -47,6 +51,8 @@ One rule sits above whatever it turns out to be. Money does not buy a mention. I
 ## How we handle facts
 
 The method is more settled than the business model.
+
+![Annotated research pages spread across a wooden table under a lamp](/images/guide/about-3.webp 'Every figure on the site is traced to a source and dated, or it is marked unverified and left that way.')
 
 Every figure on this site traces back to a dated fact base. If a number is not in it, it does not reach a page. The same document underpins the destination fact sheet on [the trade page](/trade/).
 
@@ -103,6 +109,8 @@ Four commitments, and none of them has an exception clause.
 ## Dates, because things change
 
 Anything that can go stale carries a date. Ticket prices, train times, shuttle timetables, room rates and entry rules all move. China's unilateral visa-free scheme runs only to 31 December 2026 with no extension announced, the kind of fact an undated page gets badly wrong.
+
+![A stone villa under scaffolding on a misty bamboo hillside](/images/guide/about-4.webp 'Prices, shuttle times and opening dates on this mountain move. Each page carries the date it was last checked.')
 
 Every page ends with a last-checked line, and gets re-dated when a figure moves. [Plan your trip](/plan/) collects the time-sensitive items in one place.
 

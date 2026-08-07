@@ -7,6 +7,8 @@ excerpt: "A single line in a hotel press release is the whole evidence for hot s
 primary_keyword: moganshan hot springs
 secondary_keywords: [moganshan hot spring hotel, hot springs near shanghai, moganshan onsen]
 schema: Article
+image: /images/guide/moganshan-hot-springs.webp
+image_alt: Steam rising off a rocky mountain stream at dawn below a bamboo slope
 word_count: 1047
 last_updated: 2026-08-06
 ---
@@ -18,6 +20,8 @@ We cannot confirm a hot spring open to the public at Moganshan today. Moganshan 
 ## The one thing that is verified
 
 Four Seasons announced a resort here on 12 September 2025. It runs to 90 keys on a site of 23 hectares, and opens in 2030. The announcement calls it "Moganshan's first international luxury resort with direct access to natural hot springs".
+
+![Steam rising from a still dark outdoor pool at dawn](/images/guide/moganshan-hot-springs-2.webp 'One line in one press release is the entire published evidence. That is not the same as a hot spring you can visit.')
 
 > Four Seasons Moganshan announcement, 12 September 2025, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
@@ -65,6 +69,8 @@ Here is a test that works anywhere. A destination that really has a hot spring w
 
 This is not what you came for, but it is what is here.
 
+![A clear mountain stream running over dark rock through bamboo](/images/guide/moganshan-hot-springs-3.webp 'The water on this mountain is cold, fast and everywhere. It is the thing the landscape is actually built on.')
+
 Cool air, first. The mountain's whole reputation runs the other way from a hot spring: people have come up here since the 1890s to get cooler, not warmer. July and August here average 24.1 °C, a gap of 6 to 7 °C against Shanghai and Hangzhou. American missionaries built a summer town on this ridge for exactly that reason. [Moganshan weather](/moganshan/weather/) has the month-by-month figures.
 
 Then water, though not the kind you get into.
@@ -82,6 +88,8 @@ We could not establish whether swimming is allowed. `TODO: verify`. Kayaking at 
 ## If your trip depends on the water
 
 Say you are coming anyway, and the water is still the point. Confirm it with a property before you book, not after. [Where to stay](/where-to-stay/) lists what exists here, by village and price band. Email rather than phone, because you want the answer in writing, and keep the questions narrow:
+
+![A still indoor hotel pool with a glass wall looking onto bamboo](/images/guide/moganshan-hot-springs-4.webp 'Several hotels have heated pools. Whether any of that water comes out of the ground hot, nobody has published.')
 
 - Is your water naturally hot from the ground, or heated?
 - Is the bath on your site, and if not, how far away is it?

@@ -25,6 +25,8 @@ This page has two parts: what we can document, and what we cannot. It sits insid
 
 Most day-to-day payment in China runs through two apps: Alipay and WeChat Pay. For years both were effectively closed to visitors, because a foreign card could not be bound to them.
 
+![A small payment code stand on a village shop counter with a phone held towards it](/images/guide/plan-money-and-payments-2.webp 'Foreign cards have worked inside the Chinese payment apps since 2023. Set it up before you fly, not on the mountain.')
+
 The apps opened up in 2023. Both now accept a bank card issued outside China. You add the card inside the app and pay from your phone; your own bank never deals with a Chinese shop directly. This is the route people mean when they search for Alipay for foreigners. A WeChat Pay foreign card binding works the same way.
 
 Install both if you have room. They are not interchangeable at every counter, and the second app costs nothing.
@@ -94,6 +96,8 @@ Nine open questions is more than a travel page usually admits to. Publishing unt
 
 The ground gets firmer again here. Carrying some cash is worth the trouble. How well it works in a small mountain village is another matter, since the person taking your money may not have kept much change on hand for years.
 
+![Banknotes and coins loose on a worn wooden table beside a cloth wallet](/images/guide/plan-money-and-payments-3.webp 'Cash still works, and in a village that has lost its signal it is the only thing that does.')
+
 Cash is the backup, not the plan, and the notes should be small ones. Call that a judgment, not a documented fact. The way we read it, the app route is the dependable one now and cash is the insurance. We would still not fly without the insurance.
 
 The costs look like this.
@@ -141,6 +145,8 @@ Which shops take part and where the refund desks sit are both unconfirmed here. 
 ## Up in the villages
 
 Everything above is about China. This part is about where we are.
+
+![A tiny village grocery with shelves of unbranded packets and a worn wooden counter](/images/guide/plan-money-and-payments-4.webp 'Up here the shops are this size. Plan for one that cannot break a large note or take a foreign card.')
 
 Moganshan is rural, and its guesthouses are scattered across a set of villages.
 

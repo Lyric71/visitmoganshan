@@ -37,6 +37,8 @@ The recorded history of Moganshan as a town, rather than as a mountain, starts i
 
 Shanghai summers were brutal, and before air conditioning they were also dangerous. Foreign residents with money went uphill.
 
+![A plain early stone summer house with a timber veranda on a mountain shoulder](/images/guide/moganshan-hill-station-history-2.webp 'The first houses were built to escape a Shanghai summer, and nothing about them was grand.')
+
 An American Northern Baptist missionary named E. N. Fletcher identified Moganshan as a summer retreat. Sources date that moment anywhere from 1891 to 1894, and no single year is settled.
 
 The first Western villas followed in 1896 to 1898. Who built the very first one is genuinely disputed. One account credits George A. Hudson, an American Presbyterian, in 1898. Another names an American called W. W. White. A third gives the credit to an English merchant in 1896. We have not found a source that settles it, so the honest answer is a range and not a name.
@@ -56,6 +58,8 @@ Keon's framing matters for reading the place. These were not only holiday houses
 ## To 1929: the peak years
 
 By 1910 about 300 foreigners held summer homes on the mountain. Most were American and British: missionaries, businessmen, customs officials and their families. Churches and public halls went up to serve them.
+
+![A row of stone villas with varied rooflines along a mountain contour above a gravel lane](/images/guide/moganshan-hill-station-history-3.webp 'By the late 1920s this was a small town in the trees, with a committee, rules and tennis.')
 
 The sports arrived early and became the social spine of the season. The first tennis court was built in 1901. A tennis association followed, and by 1909 the Moganshan open championship was a significant fixture for Chinese and foreign residents alike. Public swimming pools spread through the 1930s.
 
@@ -137,6 +141,8 @@ The most recent marker is still five years out. On 12 September 2025 Four Season
 ## What you can still see today
 
 About 250 historic villas survive, though some sources say 200 or more. They are built mainly from local mountain stone, in British, American, French, German and Chinese-eclectic styles. Chinese sources describe the collection as an "architecture of all nations".
+
+![An overgrown stone staircase with a broken balustrade climbing to a rusted open gate](/images/guide/moganshan-hill-station-history-4.webp 'Most of what survives is like this: the stonework, the steps, the gateposts. The houses behind them are shut.')
 
 Most are not museums. Some are hotels, some are offices, some are shut, and plenty are just houses you look at from the road.
 

@@ -7,6 +7,8 @@ excerpt: Late September and November are the best weeks to visit Moganshan. Avoi
 primary_keyword: moganshan in autumn
 secondary_keywords: [moganshan october, moganshan fall, best time to visit moganshan]
 schema: Article
+image: /images/guide/seasons-autumn.webp
+image_alt: A leaf-covered stone path looking out from bamboo over a valley turning to autumn color
 word_count: 1305
 last_updated: 2026-08-06
 ---
@@ -34,6 +36,8 @@ Easy advice to give, hard to take. If National Day is your only week, come anywa
 | January mean | 1.4 °C |
 | September, October and November mean | No published figure |
 
+![Low October sun coming through a bamboo canopy onto a leaf strewn path](/images/guide/seasons-autumn-2.webp 'Autumn is the clearest air of the year here, and the light comes in at an angle summer never gives.')
+
 > Temperature means, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
 No published autumn mean exists in our research, so we are not printing one.
@@ -59,6 +63,8 @@ Nobody publishes a gate count, so the crowd column comes from holiday and weekda
 ## The one week of October to skip
 
 One row in that table is worse than it looks.
+
+![A dense crowd moving slowly along a mountain viewing platform](/images/guide/seasons-autumn-3.webp 'One week in October undoes everything good about the month. It is the easiest mistake to avoid.')
 
 Over the National Day holiday in 2025, daily footfall in the village of Yucun ran 30 to 40 percent above normal.
 
@@ -104,6 +110,8 @@ We have not established which set is live, so plan on the dearer one. Winter tic
 ## Daylight is the November catch
 
 November is the best walking month here, and it hands you the fewest hours to use it. The light goes before the 18:00 transfer cutoff does, and an afternoon that would have held a walk and a long lunch holds one of them.
+
+![A mountain lane in blue shadow while the upper slopes stay lit in November light](/images/guide/seasons-autumn-4.webp 'By November the light is gone before the transfer window closes. Walk earlier than feels necessary.')
 
 Arrival hits the same clock.
 

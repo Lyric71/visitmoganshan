@@ -38,6 +38,8 @@ Here is the part that guides leave out. The train is the easy leg. Everything af
 
 ### 1. Get to Hangzhou East
 
+![The concourse of a large Chinese high-speed railway station seen from above](/images/guide/getting-here-from-hangzhou-2.webp 'Hangzhou East is enormous. Budget the walk from the entrance to the gate, not just the thirteen minutes on the train.')
+
 Hangzhou East (Hangzhoudong) is where the Deqing trains leave from. Leave buffer time for ticket checks and for finding your gate.
 
 ### 2. Book Deqing, not Moganshan
@@ -77,6 +79,8 @@ Rail is not faster than driving on this route. It is often cheaper, and it is im
 
 The road distance is 60 to 63 km and the drive takes about an hour and a half. For two people with luggage, a car usually wins on convenience.
 
+![A two lane road curving between bamboo hills and tea terraces](/images/guide/getting-here-from-hangzhou-3.webp 'By car it is about an hour from Hangzhou, and the last stretch is this: narrow, green and slow.')
+
 Timing is the catch. Weekends and public holidays load this route heavily. Over the May 2024 holiday, occupancy at high-end guesthouses on the mountain hit 94 percent, and daily footfall in the village of Yucun during National Day 2025 ran 30 to 40 percent above normal. Everyone arrives in the same few hours. Leave early or leave late.
 
 ## The rule that catches drivers out
@@ -88,6 +92,8 @@ This is rarely stated in English-language sources, and it changes how you pack. 
 ## From Hangzhou Xiaoshan Airport
 
 Xiaoshan (HGH) is the airport for Hangzhou. There are two sensible routes.
+
+![A traveller with a suitcase leaving an airport arrivals hall at night](/images/guide/getting-here-from-hangzhou-4.webp 'From Xiaoshan the transfer is the whole problem, not the distance.')
 
 By rail, take a train or taxi into Hangzhou East, then the high-speed train to Deqing, then the shuttle or a taxi. Allow 2h30 to 3h00 in total.
 

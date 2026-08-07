@@ -41,6 +41,8 @@ One line before the detail. This is general information, not immigration advice.
 
 Work through it in this order and stop at the first yes.
 
+![Several passports fanned out on a plain dark table](/images/guide/plan-china-visa-free-entry-2.webp 'Which of the two schemes you use is decided entirely by which passport you are holding.')
+
 | Step | The question | If the answer is yes |
 |---|---|---|
 | 1 | Is your country in the dated list below? | Enter for 30 days. No visa, no application, no fee. Stop here |
@@ -105,6 +107,8 @@ Two names are worth a second look. Canada and the United Kingdom were added on 1
 ## Scheme two: the 240-hour transit rule
 
 If your country was not in that table, this is your route. On 17 December 2024 China replaced its old 72-hour and 144-hour transit rules with a single 240-hour scheme. Ten days, counted in hours, for 55 nationalities.
+
+![A glowing but blank departures board above rows of empty seats in a night terminal](/images/guide/plan-china-visa-free-entry-3.webp 'Transit means transit. The rule is counted in hours, and it is checked before you board.')
 
 | Feature | Detail |
 |---|---|
@@ -185,6 +189,8 @@ Unlikely is not a booking policy, though. We have no source that says the scheme
 ## What visa-free entry does not solve
 
 Getting in is the easy part now. Three things still catch visitors, and none of them depend on which scheme you used.
+
+![An unattended hotel reception desk with a bell and a closed ledger](/images/guide/plan-china-visa-free-entry-4.webp 'Entry is the easy part now. Registration, payment and the guesthouse desk are where friction has moved.')
 
 | What | Where it stands | What to do |
 |---|---|---|

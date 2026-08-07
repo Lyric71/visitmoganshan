@@ -37,6 +37,8 @@ The hours below are our estimates, not published figures. Treat them as rough.
 
 Two things set those hours, and your itinerary is not one of them. Travel time is the first clock. These are door-to-door estimates, and they include the last leg from Deqing station.
 
+![A road barrier and control hut at a scenic area entrance in late afternoon](/images/guide/itineraries-2.webp 'The transfer window closes long before the light does. Every itinerary here is built around it.')
+
 | From | Door to door |
 |---|---|
 | Central Shanghai by car | 2h30 to 3h15 |
@@ -86,6 +88,8 @@ A night fixes most of that. One night is a big jump for a small cost. It adds li
 
 Two nights costs the same total travel as a day trip, spread over three days. Call it a two-day itinerary with a travel day at each end. You get two mornings, and mornings are when the bamboo paths are worth walking. Forest cover runs over 92 percent, nearly all moso bamboo, grown and cut as a crop.
 
+![Mist burning off a bamboo valley seen from a guesthouse balcony with a chair and cup](/images/guide/itineraries-3.webp 'Two nights buys one unhurried morning, which is the single thing a day trip can never contain.')
+
 | Day | Morning | Rest of the day |
 |---|---|---|
 | One | Travel from Shanghai or Hangzhou | Check in, then the villa streets and Sword Pond |
@@ -120,6 +124,8 @@ The evenings are the part to square with yourself. Chinese reporting records no 
 ## Moganshan inside a Shanghai and Hangzhou trip
 
 Moganshan is rarely the reason for the trip. It goes into the middle of something bigger, and direct trains reach Deqing from both cities. Shanghai, then Moganshan, then Hangzhou is the standard first-timer route. Reverse it if you fly into Xiaoshan. Do not double back to Shanghai in between; that costs two extra hours of train. Both orders are laid out on the [Shanghai, Hangzhou and Moganshan](/itineraries/shanghai-hangzhou-moganshan/) page.
+
+![A dense city skyline at dusk seen across dark water](/images/guide/itineraries-4.webp 'The mountain works best in the middle of a city trip, not as a destination on its own.')
 
 ## Which days to pick
 

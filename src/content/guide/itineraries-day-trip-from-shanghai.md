@@ -7,6 +7,8 @@ excerpt: An hour-by-hour timetable for one day in Moganshan from Shanghai, built
 primary_keyword: moganshan day trip from shanghai
 secondary_keywords: [shanghai day trip moganshan, one day moganshan itinerary, moganshan from shanghai in a day]
 schema: TouristTrip
+image: /images/guide/itineraries-day-trip-from-shanghai.webp
+image_alt: An empty Chinese high-speed rail platform before dawn, with a single train waiting at the far end
 word_count: 1384
 last_updated: 2026-08-06
 ---
@@ -38,6 +40,8 @@ Look at the third row again. The centers shut at 18:00, but the last shuttle dow
 
 Forget the 07:30 shuttle, and the 08:40 with it. The earliest direct Hongqiao service we have documented is the D377, which leaves at 08:11 and reaches Deqing at 09:19, by which time both have gone. TODO: verify whether an earlier train runs; with 13 a day there may be one, and it would move everything forward an hour. So, two ways to cover the last 30 km.
 
+![A traveller standing between a taxi rank and a coach bay outside a station](/images/guide/itineraries-day-trip-from-shanghai-2.webp 'Shuttle or taxi. Decide before you walk out of the station, because the two exits face opposite ways.')
+
 | Option | Cost | Leaves | Reaches the town |
 |---|---|---|---|
 | Y1 shuttle, the Republican-era tram | RMB 10 | 09:40 | About 10:20 |
@@ -48,6 +52,8 @@ Fifteen minutes sounds like nothing, and the shuttle costs a tenth as much. But 
 ## The day, hour by hour
 
 The whole day, then, on the D377 out and a taxi at Deqing. The third column matters most.
+
+![A stone path along a mountain contour with a long view over green ridges](/images/guide/itineraries-day-trip-from-shanghai-3.webp 'Between about ten and four the mountain is yours. That is the whole of a day trip.')
 
 | Time | What you are doing | If this slips |
 |---|---|---|
@@ -80,6 +86,8 @@ Ticket prices also disagree: RMB 120 online and RMB 130 at the gate in one sourc
 ## The same day from Hangzhou
 
 Based in Hangzhou? Different trip, much easier. Hangzhou East to Deqing is 13 to 17 minutes over 35 km, 16 services a day, fares roughly RMB 16 to 67. By car it is 1 hour 20 to 1 hour 45 door to door, our estimate rather than a published figure.
+
+![A half empty station platform at midday with a train waiting and doors open](/images/guide/itineraries-day-trip-from-shanghai-4.webp 'From Hangzhou the same day is far easier. Thirteen minutes of train instead of an hour.')
 
 That short train puts the early shuttles back in reach. We hold no departure times for individual services, so read the shape, not the clock.
 

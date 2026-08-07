@@ -518,6 +518,44 @@
     font-size: 0.9375rem;
   }
 
+  /* ---- Body figures ----------------------------------------------------- */
+
+  /* Every guide page carries a lead image and at least three body figures. The
+     figure runs the full width of the text column rather than carrying a cap of
+     its own, so it lines up with the prose at every viewport whatever measure
+     the column is holding. Built by the vm-figures plugin in
+     src/lib/markdown.mjs from a markdown image standing alone in a paragraph. */
+  /* Scoped to the article rather than written as a bare .vm-figure: the
+     `.vm-article > * + *` flow rule above is two selectors deep and would
+     otherwise win on specificity and reset the top margin to the paragraph
+     rhythm. */
+  .vm-article > .vm-figure {
+    /* Wider than the paragraph rhythm on purpose: a figure is a break in the
+       reading, and the extra air is what makes it read as one. */
+    margin-block: clamp(2rem, 4vw, 2.75rem);
+  }
+
+  /* The aspect ratio is declared as well as the width/height attributes: the
+     attributes reserve the box before the file lands, the ratio keeps it exact
+     once CSS sets the width. Together they cost the page no layout shift. */
+  .vm-figure img {
+    display: block;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 3 / 2;
+    object-fit: cover;
+    background: var(--color-mist);
+  }
+
+  .vm-figure figcaption {
+    margin-top: 0.625rem;
+    padding-left: 0.75rem;
+    border-left: 2px solid var(--color-leaf);
+    font-size: 0.8125rem;
+    line-height: 1.5;
+    color: var(--color-muted);
+  }
+
   /* ---- Placeholder for image slots that have no final asset yet -------- */
 
   .vm-slot {

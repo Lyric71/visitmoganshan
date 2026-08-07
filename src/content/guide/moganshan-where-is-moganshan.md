@@ -44,6 +44,8 @@ Most sources put Tashan at 719 to 720 meters. A few say 758. We use the lower fi
 
 Almost everyone starts in one of those two cities, and neither is close.
 
+![Flat delta farmland with distant green hills seen from a train window](/images/guide/moganshan-where-is-moganshan-2.webp 'Two hundred kilometres of flat delta, and then a mountain that arrives quite suddenly.')
+
 | From | Distance | By road | By rail |
 |---|---|---|---|
 | Hangzhou | 60 to 63 km | about 1.5 hours | Hangzhou East to Deqing, 13 to 17 min, 16 a day |
@@ -70,6 +72,8 @@ Route detail is on the [Shanghai](/getting-here/from-shanghai/) and [Hangzhou](/
 
 This is where the search results fall apart, so take them one at a time.
 
+![A converted industrial warehouse lane in a Chinese city with a bicycle against a wall](/images/guide/moganshan-where-is-moganshan-3.webp 'One of the three is an art district in Shanghai, two hundred kilometres from the mountain.')
+
 - **Moganshan Road (莫干山路), Putuo District, Shanghai.** The address of the M50 art district, 200 km from the mountain. Much of the English search traffic for "Moganshan" lands here, and ride-hailing apps will take the street as your destination.
 - **Moganshan Veneer.** A plywood and veneer brand that turns up in product searches. Same name, no connection.
 - **Moganshan railway station.** The expensive one. It sits on the Shangqiu to Hefei to Hangzhou line and serves Deqing and Wukang town, not the mountain. People book it because the name matches, then sort it out on arrival. The station you want is **Deqing** (德清). Write it in pinyin and characters and show it to the ticket clerk.
@@ -83,6 +87,8 @@ Names sorted. The mountain itself is next.
 ## What is around the mountain: bamboo and villages
 
 Bamboo, mostly. Forest covers more than 92 percent of the slopes, nearly all of it moso, and it is a working crop. Farmers cut poles and dig shoots on the slopes you walk on.
+
+![A village of white walls and grey roofs on a hillside with bamboo rising behind](/images/guide/moganshan-where-is-moganshan-4.webp 'The villages sit on the shoulders of the mountain, below the gate and above the plain.')
 
 The core scenic area runs to about 20 km². It is not one summit you climb and tick off, but a wooded ridge with roads, paths, roughly 250 surviving stone villas and a few named sights like Sword Pond.
 

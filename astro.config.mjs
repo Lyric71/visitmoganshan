@@ -7,7 +7,12 @@ import sitemap from '@astrojs/sitemap';
 
 import { satteri } from '@astrojs/markdown-satteri';
 
-import { stripLeadingTitle, internalLinkSlashes, scrollableTables } from './src/lib/markdown.mjs';
+import {
+  stripLeadingTitle,
+  internalLinkSlashes,
+  scrollableTables,
+  figures,
+} from './src/lib/markdown.mjs';
 
 // TODO: replace with the production domain before the first deploy.
 const SITE = 'https://www.visitmoganshan.com';
@@ -34,7 +39,7 @@ export default defineConfig({
   markdown: {
     processor: satteri({
       mdastPlugins: [stripLeadingTitle, internalLinkSlashes],
-      hastPlugins: [scrollableTables],
+      hastPlugins: [scrollableTables, figures],
     }),
   },
 

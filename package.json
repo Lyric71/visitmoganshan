@@ -15,6 +15,8 @@
     "gen:edit": "node scripts/generate-image-edit.mjs",
     "img": "node scripts/optimize-image.mjs",
     "img:batch": "node scripts/optimize-images-batch.mjs",
+    "img:audit": "node scripts/audit-images.mjs",
+    "figures": "node scripts/build-figures.mjs",
     "icons": "node scripts/build-icons.mjs",
     "hooks:install": "node scripts/install-hooks.mjs"
   },

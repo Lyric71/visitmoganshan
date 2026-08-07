@@ -42,6 +42,8 @@ The northern approach improved recently. The Shanghai to Suzhou to Huzhou high-s
 | Coach, Shanghai to Deqing | 2h40 to 4h | Same as rail, from Deqing | From about RMB 69 | 3h30 to 5h (our estimate) |
 | Rail from Pudong | Transfer to Hongqiao first, then 63 to 80 min | Y1 shuttle or taxi | Rail fare plus the Pudong transfer | 4h00 to 4h45 |
 
+![An expressway crossing flat green delta country towards distant hills](/images/guide/getting-here-from-shanghai-2.webp 'Rail, car or coach: all three cross the same flat delta and end at the same thirty kilometre climb.')
+
 Every door-to-door figure above is an estimate. Real trips vary with traffic, queue length at the taxi rank, and how long you spend finding the right exit at Deqing.
 
 > Timetables, fares and transfer times compiled from primary research, BeyondBorder Group Ltd, Hong Kong, 1 to 5 August 2026.
@@ -49,6 +51,8 @@ Every door-to-door figure above is an estimate. Real trips vary with traffic, qu
 ## Route 1: high-speed rail from Hongqiao
 
 This is the route we recommend for most people, and it is the one to default to if you are unsure.
+
+![The interior of a high-speed train carriage with farmland blurring past the window](/images/guide/getting-here-from-shanghai-3.webp 'Under an hour of the journey is actually on a train. The rest is getting to and from one.')
 
 Thirteen direct services run from Shanghai Hongqiao to Deqing each day. The journey takes 63 to 80 minutes. Second class fares run roughly RMB 61 to 110, so the exact train you pick changes the price more than you might expect.
 
@@ -109,6 +113,8 @@ Take the coach if the fare genuinely matters to you. Otherwise the train is bett
 ## The Pudong problem
 
 Here is the part nobody wants to say plainly. Shanghai Pudong International Airport is a bad starting point for Moganshan.
+
+![A walkway inside an airport terminal at dusk with aircraft visible outside](/images/guide/getting-here-from-shanghai-4.webp 'Landing at Pudong adds a crossing of Shanghai before the trip to the mountain even starts.')
 
 Pudong is on the far east side of Shanghai. Deqing is southwest of the city. To reach the mountain you first have to cross Shanghai to Hongqiao, either by maglev plus metro, or by car in 50 to 70 minutes. Only then does the 63 to 80 minute train even begin, and only then does the 30 to 40 minute road transfer begin after that.
 

@@ -23,6 +23,8 @@ For about half a century, this mountain was a summer town run mostly by American
 
 Shanghai in July is hot and wet. In the 1890s there was no air conditioning, and foreign families with money looked for somewhere cooler to sit out the worst of it.
 
+![A hazy lowland city street in heavy summer heat with the horizon lost in humidity](/images/guide/moganshan-hill-station-2.webp 'The reason for the whole place is down there: a delta summer that used to be genuinely dangerous.')
+
 Moganshan solved that problem. The mean temperature in July and August is 24.1 °C, which runs 6 to 7 °C below Shanghai and Hangzhou. That is not a dramatic gap on paper. Sleeping in it, at night, without a fan, it was everything.
 
 The mountain ended up on the traditional list of China's four great summer resorts, alongside Beidaihe, Lushan and Jigongshan.
@@ -44,6 +46,8 @@ It behaved like a small municipal government. It held an annual meeting on the f
 ## Tennis, 1901
 
 The first tennis court on Moganshan was built in **1901**. A tennis association followed. By **1909** the Moganshan open championship had become a real social fixture, and Chinese and foreign players both took part.
+
+![A cracked concrete sports court with a sagging net on a mountain terrace](/images/guide/moganshan-hill-station-3.webp 'A tennis court in 1901, on a mountain reached by sedan chair. That is the scale of what was built here.')
 
 A tennis court is not something you build for a camping trip. You build one when you expect to come back every summer for twenty years, and to bring your children.
 
@@ -120,6 +124,8 @@ Tatler Asia has called Moganshan "the Hamptons of China." Take that as magazine 
 ## What is left to look at
 
 About 250 historic villas survive. Some sources say 200 or more, so treat the number as an estimate rather than a count.
+
+![A stone retaining wall and garden steps half swallowed by bamboo on a wooded slope](/images/guide/moganshan-hill-station-4.webp 'The hill station is mostly foundations and walls now. Knowing what stood on them is the whole visit.')
 
 They are built from local mountain stone, in British, American, French, German and Chinese-eclectic styles. Chinese writing about the mountain calls the collection an "architecture of all nations."
 

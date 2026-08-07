@@ -7,6 +7,8 @@ excerpt: naked Stables opened in 2011 with about 121 keys. We have not stayed, s
 primary_keyword: naked stables moganshan
 secondary_keywords: [naked stables, naked retreats moganshan, moganshan luxury resort]
 schema: Hotel
+image: /images/guide/where-to-stay-hotels-naked-stables.webp
+image_alt: Open rough grass on a high ridge edged by bamboo, with layered hills fading beyond
 word_count: 1098
 last_updated: 2026-08-06
 ---
@@ -35,6 +37,8 @@ What would change this page: a stay we book and pay for ourselves, then a report
 | Certification | the first LEED Platinum certified resort in mainland China, awarded on opening |
 | Corporate | Trip.com signed a strategic joint venture with naked Retreats in February 2023 |
 
+![Low earth walled lodges with grass roofs spread across a grassy mountain plateau](/images/guide/where-to-stay-hotels-naked-stables-2.webp 'Around 121 keys spread across a plateau is why this kind of property reads as a village rather than a hotel.')
+
 > Property record and corporate history, measured. BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
 That list is short on purpose. What we could not confirm:
@@ -56,6 +60,8 @@ naked Stables came four years later, in 2011, on a larger site, carrying the LEE
 ## The press cluster, and what it left behind
 
 Foreign media found it fast.
+
+![A horse in a fenced paddock on a misty mountain plateau with a timber stable behind](/images/guide/where-to-stay-hotels-naked-stables-3.webp 'The stables in the name are real, and they are most of what the early coverage photographed.')
 
 | Outlet | Item | When |
 |---|---|---|
@@ -105,6 +111,8 @@ We have not confirmed whether naked Stables sits inside that zone, or whether it
 ## What a Moganshan luxury resort costs
 
 One number covers this property and naked Castle: roughly USD 291 to 524 a night, recorded in 2025. Our research holds no Stables-only figure.
+
+![An infinity edge pool on a mountain terrace looking over layered forested ridges](/images/guide/where-to-stay-hotels-naked-stables-4.webp 'At this end of the market the rate is buying the land and the view, not the room.')
 
 Treat that as a range across two hotels. No room is sold at the band, nothing is broken out by season, and Moganshan rates change a lot between a March Tuesday and an August Saturday. The local trade treats anything above RMB 1,500 as high end.
 

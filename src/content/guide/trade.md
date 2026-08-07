@@ -7,6 +7,8 @@ excerpt: "Trade and media resources for Moganshan: who publishes this site, wher
 primary_keyword: moganshan travel trade
 secondary_keywords: [moganshan dmc, moganshan press kit, moganshan tour operator]
 schema: Article
+image: /images/guide/trade.webp
+image_alt: Layered bamboo-covered ridges above a small valley village, seen from a high viewpoint under cloud
 word_count: 1101
 last_updated: 2026-08-06
 ---
@@ -29,6 +31,8 @@ None of that comes from a hosted stay or a press trip. It is desk research, comp
 
 Our read, and it is a read rather than a measured figure: in the trade, Moganshan is an add-on.
 
+![Mist filling the valleys between bamboo ridges at first light](/images/guide/trade-2.webp 'The destination is well known domestically and close to invisible in international catalogues.')
+
 It turns up in the standard inbound-agency catalog as a half day or a single night on a Shanghai and Hangzhou circuit, not as an anchor stay. Closing that gap is why this site exists, and saying so plainly is worth more than a pitch.
 
 There are reasons, worth pricing in before you cost anything.
@@ -43,6 +47,8 @@ The other side of the ledger is old. A July and August mean of 24.1 °C, 6 to 7 
 ## The access numbers
 
 So much for the argument. Here is the costing-sheet part.
+
+![A high-speed train crossing flat farmland at speed](/images/guide/trade-3.webp 'Sixty three minutes from Hongqiao is the number that does the selling. The last thirty kilometres is the one to brief.')
 
 | Leg | Time | Frequency | Fare |
 |---|---|---|---|
@@ -81,6 +87,8 @@ Entry rules do more work here than they look. The 240-hour visa-free transit in 
 ## What you can take from this site
 
 The **destination fact sheet** carries every figure the site holds, each with source and date, and names the conflicts. Re-dated on a rolling basis, so check the stamp before building 2027 product. [Fact sheet](/trade/fact-sheet/).
+
+![A neat stack of printed reference sheets beside a laptop on a desk](/images/guide/trade-4.webp 'The fact sheet, the itinerary modules and the source list are free to use with attribution.')
 
 **Itinerary modules** are drop-in blocks, not finished tours, so a Moganshan night slots into a Shanghai and Hangzhou program without a rebuild. Transfer times, gate hours and the 18:00 cutoff are already in them. [Sample itineraries](/trade/sample-itineraries/).
 

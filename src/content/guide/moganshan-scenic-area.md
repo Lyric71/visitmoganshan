@@ -43,6 +43,8 @@ What reaches you is the effect of the labels. Protected status is why there is a
 | Forest cover | Over 92 percent, nearly all moso bamboo |
 | Main peak | Tashan, 719 to 720 m. You will see 758 m elsewhere; ignore it |
 
+![An aerial view over a forested mountain massif with roofs scattered in one valley](/images/guide/moganshan-scenic-area-2.webp 'About twenty square kilometres sit inside the gate. Nearly everything a visitor books sits outside it.')
+
 Use the smaller figure, since that is the part with a ticket on it. The bamboo is grown and cut as a commercial crop, and the [bamboo forest page](/moganshan/bamboo-forest/) shows what that looks like on the ground.
 
 ## What is inside, and what is not
@@ -68,6 +70,8 @@ TODO: verify how many of the roughly 250 surviving historic villas sit inside th
 ## The gates and the three transfer centers
 
 Knowing where the line falls is only half of it. Crossing it trips people up.
+
+![A line of turnstiles under a canopy at the entrance to a scenic area](/images/guide/moganshan-scenic-area-3.webp 'One gate, one turnstile line, and a great many visitors who never pass through either.')
 
 One rule shapes every visit, and English-language sources almost never print it. Private vehicles cannot drive inside the scenic area.
 
@@ -109,6 +113,8 @@ TODO: verify child, student and senior concessions. Neither range breaks them ou
 ## Inside the gate: the named sights
 
 Once through, this is the part you paid for.
+
+![A dark still pool below a small waterfall in a rock cleft with a stone viewing platform](/images/guide/moganshan-scenic-area-4.webp 'The named sights are small and close together. Do not plan a whole day around reaching them.')
 
 Sword Pond carries the mountain's founding story. The name Moganshan comes from Mo Ye (莫邪) and Gan Jiang (干将), a swordsmith couple of the Spring and Autumn period who, in legend, forged blades for the King of Wu and cooled them here. It is a legend, and the walk is worth doing anyway.
 

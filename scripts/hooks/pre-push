@@ -1,0 +1,19 @@
+#!/bin/bash
+# Refuse to push unoptimized images.
+# Installed by `npm run hooks:install`. See scripts/audit-images.mjs.
+#
+# Vercel image optimization is off on this site, so whatever is committed is
+# byte for byte what a reader downloads. There is no CDN step later that will
+# catch a 3 MB PNG, which is why this gate sits here rather than in review.
+
+set -e
+
+ROOT="$(git rev-parse --show-toplevel)"
+cd "$ROOT"
+
+if ! node scripts/audit-images.mjs; then
+  echo ""
+  echo "Push blocked: unoptimized images under public/."
+  echo "Re-encode them with: npm run img <path> --out=public/images/<dir>"
+  exit 1
+fi

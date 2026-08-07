@@ -53,6 +53,8 @@ Children are worth thinking about before you book. The scenic area is walking an
 
 Everything else here grew around this.
 
+![A stone villa gable with a tall chimney and arched windows seen from a lane below](/images/guide/things-to-do-2.webp 'The villa walk is the one thing here that is genuinely unusual, and it takes half a day at a slow pace.')
+
 American Protestant missionaries founded a summer hill station here in the 1890s, escaping the heat in Shanghai. The first Western villas date to 1896 to 1898, and by 1910 about 300 foreigners held summer homes here, mostly American and British. Around 250 villas survive, in local stone, in a mix of European and Chinese-eclectic styles that Chinese sources call an "architecture of all nations."
 
 The first tennis court went in during 1901, and by 1909 the Moganshan open championship was a fixture in Sino-foreign society. People came to do very little, slowly, for a whole summer, which is roughly the offer today.
@@ -114,6 +116,8 @@ Paths link the named sights, the villa quarter and the villages, through bamboo 
 | Dazaowu, the most remote village | Rice paddies and the Dadouwu reservoir |
 | The core scenic area | Barred to private vehicles, so the riding happens on the valley roads |
 
+![A bicycle leaning on a stone parapet above a still green reservoir among forested slopes](/images/guide/things-to-do-3.webp 'There is water down at the reservoir and a road worth riding to reach it. Neither is inside the gate.')
+
 Which village you sleep in decides whether any of that is easy. [Where to stay](/where-to-stay/) sets out which is which.
 
 TODO: verify operators, rental prices and seasons for kayaking and bike hire.
@@ -169,6 +173,8 @@ The single day is the question we get most. From Hangzhou it works, at about 1.5
 ## Evenings are quiet by default
 
 Chinese reporting on the guesthouse economy records no evening economy in these villages.
+
+![A guesthouse common room in the evening with low lamps, a wood stove and empty chairs](/images/guide/things-to-do-4.webp 'The evening is a room like this one. Plan for it rather than being surprised by it.')
 
 - **No night market, little late-night food.** Guesthouses serve dinner, then the village closes.
 - **Book dinner with the room.** Visitors used to Chinese city travel complain about this, fairly.

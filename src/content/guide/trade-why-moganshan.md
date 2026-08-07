@@ -7,6 +7,8 @@ excerpt: "The commercial case for a Moganshan module in a Shanghai and Hangzhou 
 primary_keyword: moganshan for tour operators
 secondary_keywords: [moganshan dmc, china itinerary planning, yangtze delta itinerary]
 schema: Article
+image: /images/guide/trade-why-moganshan.webp
+image_alt: A weathered stone villa terrace and balustrade looking out over a bamboo valley at sunrise
 word_count: 1398
 last_updated: 2026-08-06
 ---
@@ -51,6 +53,8 @@ The Pudong row is the one to price. Ninety extra minutes, before the trip has ev
 | City hotel rooms | Owner-run guesthouses, about 1,000 of them | No international curated-collection listing here |
 | Full, scheduled days | A deliberately slow one | Nothing to program after dinner |
 
+![A dense modern city of towers to the horizon seen through humid haze](/images/guide/trade-why-moganshan-2.webp 'Two cities and a mountain reads very differently on a brochure page from two cities.')
+
 In our reading, a rural night here displaces a Suzhou add, a second Hangzhou night or one more Shanghai night. Moganshan beats all three on contrast. What it does not have is anywhere to send people after 20:00. Our research does not settle that trade for you.
 
 ## The history is documented
@@ -68,6 +72,8 @@ Prior coverage exists, with a caveat. The New York Times listed Moganshan in "45
 ## Deep supply, and its downside
 
 Access and product argue for the place. Supply is where it gets complicated.
+
+![A row of near identical small guesthouses along a village road](/images/guide/trade-why-moganshan-3.webp 'A thousand properties, almost none contractable at scale. Depth of supply is not the same as usable supply.')
 
 | Measure | Figure | As of |
 |---|---|---|
@@ -94,6 +100,8 @@ The 240-hour visa-free transit, in force since 17 December 2024, covers 55 natio
 ## What will go wrong
 
 Everything above is the case for. This is the part we would show a client before signing.
+
+![An abandoned luggage trolley at the foot of a long flight of stone steps](/images/guide/trade-why-moganshan-4.webp 'The complaints are predictable: the transfer, the steps, the luggage and the early evening. Brief the client.')
 
 | Problem | Why | What it costs you |
 |---|---|---|

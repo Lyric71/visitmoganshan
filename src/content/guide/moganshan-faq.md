@@ -27,6 +27,8 @@ Each section links to the page that answers it at length. The answers here are t
 
 *Covered in full on [what and where Moganshan is](/moganshan/).*
 
+![Bamboo covered mountain ridges fading into haze with a road switchbacking across the nearest slope](/images/guide/moganshan-faq-2.webp 'One mountain, three names that get confused, and about twenty square kilometres of ticketed core.')
+
 ### Where is Moganshan, exactly?
 
 Deqing County, Huzhou prefecture, Zhejiang Province, about 60 km north of Hangzhou and 200 to 240 km from Shanghai. It is not the Moganshan Road art district in Shanghai.
@@ -46,6 +48,8 @@ It depends on what you want. For quiet, cool air and good rooms in the countrysi
 ## The hill station and the villas
 
 *Covered in full on [the hill station](/moganshan/hill-station/), [a short history](/moganshan/hill-station/history/) and [the walking tour](/moganshan/hill-station/walking-tour/).*
+
+![A grey stone villa with an arched veranda and weathered shutters standing among trees](/images/guide/moganshan-faq-3.webp 'About 250 stone houses survive up here. Most are closed, a handful are hotels, none are a museum.')
 
 ### Who actually founded Moganshan?
 
@@ -102,6 +106,8 @@ As a day trip, it is tight, at close to three hours each way. As part of two nig
 ## Weather, and when to go
 
 *Covered in full on [weather, month by month](/moganshan/weather/).*
+
+![Cloud pouring over a bamboo ridge and down into a valley](/images/guide/moganshan-faq-4.webp 'At 719 metres the mountain makes its own weather, and it is often a few degrees and one cloud layer from the valley.')
 
 ### What is the best time to visit Moganshan?
 

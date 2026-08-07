@@ -36,6 +36,8 @@ Both are estimates, and both include getting to Hongqiao, the train and the tran
 
 The train is the easy part. Thirteen direct services a day run from Hongqiao to Deqing in 63 to 80 minutes, second class fares roughly RMB 61 to 110. The hard part comes after you get off.
 
+![A crowded evening station concourse with motion blurred commuters](/images/guide/itineraries-weekend-from-shanghai-2.webp 'The Friday train is the easy clock. The transfer at the other end is the one that decides your evening.')
+
 Clock one is the Y1 tourist shuttle from the Deqing Coach Center. Seven departures a day, and the last one leaves at 16:00.
 
 Clock two is the transfer centers. No private vehicle goes inside the scenic area, so everyone changes at Yucun, Fatou or Houwu, and those three run 08:00 to 18:00.
@@ -97,6 +99,8 @@ The Saturday 17:00 line is not padding. The transfer centers stop at 18:00 where
 
 Tables can hold the timing. They cannot tell you what the day is for. Two things here can, and the first is the bamboo. Forest cover is over 92 percent, mostly moso, and it is a working crop rather than landscaping. The paths are best early, and that alone is the reason to sleep up here. The walks are on the [bamboo forest](/moganshan/bamboo-forest/) page.
 
+![Layered bamboo covered ridges in clear morning light with a road on one flank](/images/guide/itineraries-weekend-from-shanghai-3.webp 'Saturday is the only full day a weekend gives you. It is worth deciding in advance what it holds.')
+
 Second, the architecture. About 250 historic villas survive in local mountain stone, built from the 1890s by American and British missionary families and later by Chinese owners. Our [villa walking tour](/moganshan/hill-station/walking-tour/) suits a slow morning.
 
 Sword Pond, or Jianchi, is the sight most visitors list. In legend the mountain is named for the swordsmiths Mo Ye and Gan Jiang, and the pond is where their blades were quenched. This page does not dress that up as history.
@@ -135,6 +139,8 @@ Holidays are worse again. High-end occupancy hit 94 percent over the May 2024 ho
 ## The midweek version of the same trip
 
 Same trains, same shuttle. Two nights, shifted.
+
+![An empty village lane with closed shutters and wet stone paving](/images/guide/itineraries-weekend-from-shanghai-4.webp 'The same mountain on a Tuesday. Cheaper, quieter, and a genuinely different place.')
 
 | Two nights, starting | Friday to Sunday | Saturday to Monday | Sunday to Tuesday |
 |---|---|---|---|

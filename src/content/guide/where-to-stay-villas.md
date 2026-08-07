@@ -7,6 +7,8 @@ excerpt: Two things get called a Moganshan villa. One is a historic stone house 
 primary_keyword: moganshan villa
 secondary_keywords: [moganshan villa rental, moganshan private villa, whole house rental china]
 schema: ItemList
+image: /images/guide/where-to-stay-villas.webp
+image_alt: A whole two-storey stone and plaster house lit from inside at blue hour below a dark bamboo slope
 word_count: 1298
 last_updated: 2026-08-06
 ---
@@ -34,6 +36,8 @@ No building carries that name. It stands in for the scattered stock of old house
 
 American Protestant missionaries started the hill station in the 1890s, and about 250 stone houses still stand. Then 1949 emptied them. Residents left, the buildings went to work units or were requisitioned, and they became housing instead of hospitality. The view from the road is the whole visit.
 
+![A boarded up historic stone house with weeds through the terrace paving](/images/guide/where-to-stay-villas-2.webp 'Most of the famous stone houses are in this condition. Almost none of them are rooms you can book.')
+
 > Villa counts and post-1949 use, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
 naked Castle is the exception people run into: a house of 1910 by a Scottish doctor and missionary called Maitland, reopened as a hotel in 2017 with about 95 keys. We have not stayed in it, so nothing here rates it, and whether any other old house works the same way our research does not settle. `TODO: verify which other historic villas operate as accommodation.` [The hotel list](/where-to-stay/hotels/) has the rest.
@@ -41,6 +45,8 @@ naked Castle is the exception people run into: a house of 1910 by a Scottish doc
 ## The whole-house stay, which is what most of these searches want
 
 So much for the houses you cannot have. Ten beds is not a hotel. It is a converted village house with a family in it, which is why the building can be yours.
+
+![The living room of a whole house rental with a long table, a wood stove and glazing onto bamboo](/images/guide/where-to-stay-villas-3.webp 'This is what a bookable villa here usually is: a whole modern guesthouse, taken by one group.')
 
 | The structure | The figure | What it does for you |
 |---|---|---|
@@ -107,6 +113,8 @@ Say five rooms, though nothing in the record fixes that number, and off season t
 ## What to ask before you send money
 
 You would not ask any of these about a room.
+
+![A smartphone showing a blank messaging screen beside a notepad on a wooden table](/images/guide/where-to-stay-villas-4.webp 'Whole house deals are agreed in chat and paid in advance. Get the bed count and the dinner terms in writing.')
 
 | Ask | Why it changes for a building |
 |---|---|

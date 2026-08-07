@@ -7,6 +7,8 @@ excerpt: Luxury is a loose word on this mountain. What the top of the Moganshan 
 primary_keyword: moganshan luxury hotel
 secondary_keywords: [luxury resort zhejiang, moganshan high end hotel, luxury hotels near shanghai]
 schema: ItemList
+image: /images/guide/where-to-stay-luxury.webp
+image_alt: A quiet lounge with a lit fire, a linen sofa and a full-height window onto misted bamboo
 word_count: 1305
 last_updated: 2026-08-06
 ---
@@ -45,6 +47,8 @@ Rooms priced above RMB 1,500 grew 42 percent in a year. Owners have decided the 
 
 Amanfayun sits in Hangzhou, about 60 km from this mountain. Its rooms run roughly USD 987 to 1,196 a night. Carry that figure into your booking.
 
+![A city hotel room high above dense towers with floor to ceiling glass](/images/guide/where-to-stay-luxury-2.webp 'Sixty kilometres away in Hangzhou the same money buys a different category of hotel entirely.')
+
 | Property | Where | Rough price a night |
 |---|---|---|
 | naked Stables and naked Castle | Moganshan | USD 291 to 524 |
@@ -63,6 +67,8 @@ A note for anyone who searched luxury hotels near Shanghai. The city is 200 to 2
 ## What is open at the top today
 
 Three properties on the mountain sit at that end. Listed by opening year, which is not a ranking.
+
+![A stone and timber lodge terrace with deep eaves looking over bamboo ridges at dusk](/images/guide/where-to-stay-luxury-3.webp 'The top of this market is small, and it competes on land and quiet rather than on service depth.')
 
 | Property | Opened | Keys | What the record adds |
 |---|---|---|---|
@@ -113,6 +119,8 @@ None of which helps you this year. There is no room and no published rate, and 2
 ## Booking at this end of the market
 
 Three things decide a booking at this end. The brand on the gate is the least of them.
+
+![An empty resort reception lounge with low seating and tall windows onto forest](/images/guide/where-to-stay-luxury-4.webp 'Book direct or through a platform that holds a real reservation. Rates here move a long way by date.')
 
 | The choice | What actually decides it |
 |---|---|

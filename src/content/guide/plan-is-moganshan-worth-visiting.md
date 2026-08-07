@@ -33,6 +33,8 @@ Moganshan is a mountain in Deqing County, part of Huzhou prefecture, in Zhejiang
 
 Four things hold up.
 
+![A quiet bamboo forest interior with no path and no people](/images/guide/plan-is-moganshan-worth-visiting-2.webp 'What it does better than almost anywhere within reach of Shanghai: nothing, at scale, for two days.')
+
 **The temperature.** The mountain runs 6 to 7 °C cooler than Shanghai and Hangzhou in summer, with a July and August mean of 24.1 °C. This is why the place exists. American Protestant missionaries came here in the 1890s to escape Shanghai's heat, and the proposition has not changed.
 
 **The forest.** Cover is over 92 percent, mostly moso bamboo. It is a working commercial crop, not landscaping, so you walk through farmed hillside rather than a manicured park. The [bamboo forest](/moganshan/bamboo-forest/) page covers where to walk and when.
@@ -56,6 +58,8 @@ Walkers with two full days will be fine. Walkers with four hours will not.
 ## Who should not come
 
 Read this before you book.
+
+![A closed shopfront and single street lamp on a wet village street after dark](/images/guide/plan-is-moganshan-worth-visiting-3.webp 'Evenings end early. If that reads as a problem rather than the point, this is the wrong mountain.')
 
 **Anyone who needs nightlife.** There is none. Not a small version, not a quiet version. None.
 
@@ -84,6 +88,8 @@ It is not undiscovered. Moganshan Town recorded 2.60 million visitors in 2018 an
 ## How it compares with your other options
 
 Most readers are choosing between Moganshan and more nights in the city they are in.
+
+![Visitors on a covered walkway in a busy classical Chinese garden](/images/guide/plan-is-moganshan-worth-visiting-4.webp 'The honest comparison is not with a wilderness. It is with another day in Hangzhou.')
 
 | | Moganshan | Stay in Hangzhou | Stay in Shanghai |
 |---|---|---|---|

@@ -31,6 +31,8 @@ Almost no English-language page mentions this. Most people learn it at the barri
 | **Fatou** | Named as one of the three official transfer points. TODO: verify which road approach it covers. | 08:00 to 18:00 |
 | **Houwu** (后坞) | Quiet western village, about 30 minutes from Yucun. | 08:00 to 18:00 |
 
+![A car park and waiting shelter at the foot of a bamboo mountain with a shuttle bus leaving](/images/guide/getting-here-getting-around-2.webp 'Private cars stop here. Everything above this point moves by shuttle, on foot, or not at all.')
+
 > Scenic-area vehicle restriction and transfer center hours, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
 Two things follow from those hours. Arrive after 18:00 and the system has shut for the day. Set off before 08:00 and it has not started.
@@ -66,6 +68,8 @@ Village-to-village travel happens by road. Outside the restricted core that mean
 ## Walking
 
 Walking works well inside the scenic area and badly between villages.
+
+![A narrow mountain lane bending into mist between dense bamboo](/images/guide/getting-here-getting-around-3.webp 'Between villages the lane is the footpath. There is rarely a pavement, and rarely much traffic either.')
 
 Inside the core the named sights are close together and linked by paths: Sword Pond (Jianchi), Luhuadang Park, Dakeng, the Xuguang sunrise platform, Chiang Kai-shek's villa, the Bai and Yun Art Museum. Spending a day on foot among them is what most visitors do.
 
@@ -106,6 +110,8 @@ Laoling, on the south side, has a reservoir, kayaking and cycling, and it was on
 ## Luggage, honestly
 
 For an international visitor arriving with suitcases, this is the single biggest friction point on the whole trip.
+
+![A suitcase at the bottom of a long flight of uneven stone steps climbing into bamboo](/images/guide/getting-here-getting-around-4.webp 'The last hundred metres to a guesthouse is often steps. Pack for carrying, not for wheeling.')
 
 Picture the chain. Pudong to Hongqiao. Hongqiao to Deqing, 63 to 80 minutes. Deqing to Moganshan town, another 30 to 40. Then a transfer center, where the bags come off one vehicle and go onto another. Then the last stretch to the property, which may involve steps.
 

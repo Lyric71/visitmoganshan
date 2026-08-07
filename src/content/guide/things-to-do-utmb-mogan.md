@@ -7,6 +7,8 @@ excerpt: "Ultra-Trail Mogan runs under the UTMB World Series. Dates, distances a
 primary_keyword: moganshan by utmb
 secondary_keywords: [ultra trail mogan, moganshan trail race, utmb china]
 schema: Article
+image: /images/guide/things-to-do-utmb-mogan.webp
+image_alt: A steep, rough stone staircase climbing into mist through a bamboo forest
 word_count: 1050
 last_updated: 2026-08-06
 ---
@@ -52,6 +54,8 @@ A distance taken from a third-party page, this one included, is not worth having
 
 So much for the blanks. The organizer has the course. What follows is the ground it runs over.
 
+![A steep rooted forest trail climbing a mountain shoulder with a runner far ahead](/images/guide/things-to-do-utmb-mogan-2.webp 'The ground is steep, stepped and often wet. It is a climbing course, not a fast one.')
+
 The high point is Tashan, at 719 to 720 meters. The 758 m you may see quoted is wrong. Nothing here is alpine. Nobody blows up on altitude, and a road is never far.
 
 Over 92 percent of the mountain is forest, nearly all of it moso bamboo, a commercial crop cut for poles and dug for shoots. About 20 km² of that is the core scenic area, threaded by stone paths and steps laid from the 1890s to move summer families between villas.
@@ -69,6 +73,8 @@ We have not measured a course: no distances, no gradients of our own. [Walking a
 ## Book a bed before you book anything else
 
 The harder problem is not the running. Before anyone adds a race, this mountain is full at weekends.
+
+![A simple twin room in a mountain guesthouse with plain bedding and a small window](/images/guide/things-to-do-utmb-mogan-3.webp 'Race weekend empties the mountain of beds. Book that before anything else, including the entry.')
 
 | What a race weekend runs into | Figure |
 |---|---|
@@ -89,6 +95,8 @@ Book the day you have a date, and pick somewhere that serves dinner. Chinese rep
 ## The 18:00 problem
 
 Take the train to **Deqing**. A station named Moganshan exists and does not serve the mountain: it is on another line, serving Wukang town. [Deqing station](/getting-here/deqing-station/) has the detail.
+
+![A road barrier down across a mountain road at dusk with one light on in the hut](/images/guide/things-to-do-utmb-mogan-4.webp 'The transfer window does not move for a race. Plan the day after the finish around it.')
 
 Two clocks run against you.
 

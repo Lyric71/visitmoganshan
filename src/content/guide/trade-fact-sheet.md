@@ -7,6 +7,8 @@ excerpt: "The reference sheet DMCs and journalists ask for: every Moganshan figu
 primary_keyword: moganshan fact sheet
 secondary_keywords: [moganshan destination information, moganshan statistics, moganshan for media]
 schema: Article
+image: /images/guide/trade-fact-sheet.webp
+image_alt: An aerial view of bamboo-covered ridges with mist collecting in the valleys
 word_count: 1297
 last_updated: 2026-08-06
 ---
@@ -52,6 +54,8 @@ Other sources put the peak at 758 m. Two further disagreements: the wider area a
 | Shanghai to Deqing, coach | 2h40 to 4h | direct | from RMB 69 |
 | Transfer centers | 08:00 to 18:00 | Yucun, Fatou, Houwu | free |
 
+![An overhead view of a rail interchange plaza with buses and cars in marked lanes](/images/guide/trade-fact-sheet-2.webp 'Every access figure on this sheet is measured door to door, not quoted from a timetable.')
+
 > Rail, road, shuttle and transfer-center figures, measured. BeyondBorder Group Ltd research, 1 to 5 August 2026.
 
 Y1 departures: 07:30, 08:40, 09:40, 10:40, 13:00, 15:00, 16:00, returning until 17:00. It ends in Moganshan town, not the scenic area.
@@ -94,6 +98,8 @@ Moganshan for media:
 | Mid-range room | RMB 300 to 500 off-season, RMB 1,000+ at peak |
 | High-end threshold | RMB 1,500+. naked Stables and Castle, USD 291 to 524 |
 | Deqing minsu sector | over 7 million guests, RMB 3 billion+ yearly |
+
+![Dozens of guesthouses stepped up a bamboo hillside seen from across a valley](/images/guide/trade-fact-sheet-3.webp 'About a thousand properties, and a dozen of them are hotels. That shape drives every rate in this section.')
 
 > Stock and rate bands, measured, rates 2025. BeyondBorder Group Ltd research, 1 to 5 August 2026.
 
@@ -153,5 +159,7 @@ A fourth: Moganshan's Yucun (庾村) is not Anji's Yucun (余村), the 2021 UN T
 - Any inbound or foreign-visitor figure for Deqing or Huzhou.
 - Image license wording, credit line, resolution: [image library](/trade/image-library/).
 - A press contact, due on [about](/about/).
+
+![A printed table on paper with several rows left blank and a pen laid across it](/images/guide/trade-fact-sheet-4.webp 'The blanks are deliberate. A figure we could not source is left empty rather than filled with an estimate.')
 
 This sheet is maintained by BeyondBorder Group Ltd, Hong Kong, and dated 6 August 2026.

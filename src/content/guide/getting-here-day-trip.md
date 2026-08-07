@@ -25,6 +25,8 @@ Yes. People do it every weekend. But the day is shorter than almost anyone tells
 
 From central Shanghai, door to door to Moganshan is 2 hours 45 minutes to 3 hours 30 minutes by rail. That is our estimate, and it already includes getting to Hongqiao, the 63 to 80 minute train to Deqing, and the road transfer of 30 to 40 minutes at the far end.
 
+![An almost empty high-speed rail platform before sunrise with a white train waiting](/images/guide/getting-here-day-trip-2.webp 'A Moganshan day trip only works on the first train out. Everything after that eats the mountain, not the journey.')
+
 Double it for the return. You are looking at 5 hours 30 minutes to 7 hours of moving.
 
 Put that inside a day running 06:45 to 20:30, about 13 hours 45 minutes. Subtract the travel. What is left is roughly 5 to 6 hours in Deqing County, and that is the optimistic version.
@@ -50,6 +52,8 @@ Work backwards from 17:00 and 18:00, not forwards from your alarm.
 ## A one-day plan that works
 
 If you are doing it anyway, do it like this. The timings below assume the D377, which leaves Hongqiao at 08:11 and reaches Deqing at 09:19.
+
+![A stone stepped path climbing through bamboo in late morning light](/images/guide/getting-here-day-trip-3.webp 'The middle of a day trip is one good walk. Trying to fit two is how people end up seeing neither.')
 
 | Time | What you are doing |
 |---|---|
@@ -94,6 +98,8 @@ The second is the bamboo. Forest cover is over 92 percent, mostly moso bamboo, a
 | Cost of beds | None | Mid-range off-season RMB 300 to 500 a night. Peak weekends run RMB 1,000 and up |
 | Best day of the week | Whichever you have | Sunday to Tuesday. Mondays are notably quiet |
 | Main risk | Missing the 17:00 shuttle | Paying peak rates for a Saturday |
+
+![Dusk over a bamboo ridge seen from a villa terrace with valley lights below](/images/guide/getting-here-day-trip-4.webp 'The hour a day tripper never gets: the mountain after the last shuttle has gone.')
 
 The cost line is the one that changes minds. Two mid-range nights in shoulder season (RMB 600 to 1,000) run close to what a single peak-weekend room costs, and you get the mountain quiet instead of full. Spring brings bamboo shoots and green meadows, and clear late autumn is the other good window. Both are promoted locally as shoulder seasons, which is another way of saying fewer people.
 

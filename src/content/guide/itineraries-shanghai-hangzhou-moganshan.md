@@ -43,6 +43,8 @@ It has been written up before, if thinly. The New York Times put it at number 18
 
 Both legs are short, and they run often enough that you never build the day around one train.
 
+![The aisle of a high-speed train carriage with full luggage racks](/images/guide/itineraries-shanghai-hangzhou-moganshan-2.webp 'Two short rail legs hold the whole route together, and neither is longer than an hour.')
+
 | Leg | Journey time | Services a day | Second class fare |
 |---|---|---|---|
 | Shanghai Hongqiao to Deqing | 63 to 80 min | 13 direct | about RMB 61 to 110 |
@@ -73,6 +75,8 @@ Two cities and a mountain, and the whole trip puts you on a train for under two 
 ## The five days in detail
 
 Same five days, unpacked.
+
+![A stone bridge and willows over still water at dawn with mist and a distant pagoda](/images/guide/itineraries-shanghai-hangzhou-moganshan-3.webp 'Hangzhou is the middle city on this route, and its lake is best at the hour nobody is up for it.')
 
 ### Day 1: land in Shanghai
 
@@ -168,6 +172,8 @@ Winter scenic-area tickets are half price. Published prices conflict across sour
 ## Where to sleep on the mountain
 
 Moganshan runs on minsu (民宿), small owner-run guesthouses, and yangjiale (洋家乐), the foreign-founded farmstays that started here in 2007. About 1,000 properties as of September 2025.
+
+![A plain guest bedroom in a converted stone villa with bamboo filling the window](/images/guide/itineraries-shanghai-hangzhou-moganshan-4.webp 'Two nights in one bed on the mountain is what makes a five day route feel unhurried.')
 
 | Village | What it gives you on a one-night stop |
 |---|---|

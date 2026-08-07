@@ -27,6 +27,8 @@ The villages sit at the foot of the mountain, and so do almost all of the roughl
 
 Your plan decides this, so settle it before shopping on price.
 
+![A path leaving a village and climbing into bamboo with no gate or barrier](/images/guide/plan-tickets-and-entry-2.webp 'Most walking here happens on paths like this one, which nobody charges for.')
+
 | What you want to do | Ticket needed? |
 |---|---|
 | Stay in a guesthouse in Yucun, Xiantan or Laoling | No |
@@ -71,6 +73,8 @@ So the conflict is annoying without being expensive, and the thing that will rea
 
 One constraint never shows up in the price. Private vehicles cannot drive inside the scenic area. That rule shapes every visit, and English sources almost never print it. You leave the car at one of three transfer centers below.
 
+![Empty seats under a canopy at a transfer centre as a shuttle pulls away](/images/guide/plan-tickets-and-entry-3.webp 'The eighteen hundred wall is firmer than the ticket price, and far more likely to ruin a day.')
+
 | Transfer center | Where it is | Hours |
 |---|---|---|
 | Yucun | Main gateway, foot of the mountain | 08:00 to 18:00 |
@@ -109,6 +113,8 @@ Ask your guesthouse all three in the same message that asks the price. Two more 
 ## Buying it, and what to have ready
 
 Assume you do need a ticket. Buying one is easy, provided you did one thing before you left. The RMB 10 online discount implies advance sale, and those sales run through Alipay and WeChat Pay, which foreign cards can be bound to. Do that setup at home, because the line at Yucun is a bad place to find out it does not work. [Money and payments](/plan/money-and-payments/) has it.
+
+![A small ticket window with a glass hatch and metal tray in a stone kiosk](/images/guide/plan-tickets-and-entry-4.webp 'Take a passport and a working payment app. Published prices disagree, so take the difference in cash too.')
 
 Carry your passport, not a photo. Hotels and attractions check it as routine, and your booking ties to the number.
 

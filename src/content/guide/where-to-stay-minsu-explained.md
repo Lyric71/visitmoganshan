@@ -23,6 +23,8 @@ The mountain has about 1,000 places to sleep. Almost none of them are hotels in 
 
 A minsu (民宿) is a small guesthouse, usually owned and run by the family behind it. The word is used across China. On Moganshan it normally means a village house converted room by room, with the owner or a live-in manager on the property rather than a front desk and a duty roster.
 
+![The tiled entrance hall of a family run guesthouse doubling as a sitting room](/images/guide/where-to-stay-minsu-explained-2.webp 'A minsu is somebody’s house with rooms in it. The line between the family space and yours is often thin.')
+
 The scale is easy to work out from local numbers. Spread roughly 10,000 beds over about 1,000 properties and the average comes out near ten beds each. Compare that with the Crowne Plaza Deqing Moganshan, which has about 340 rooms and sits down in Wukang town rather than on the mountain at all.
 
 Ownership follows the same pattern. About 80 percent of properties are individually owned. In Xiantan, the densest guesthouse village on the mountain, about 135 minsu serve a village of under 2,000 people, and roughly 90 percent of them are run by locals.
@@ -77,6 +79,8 @@ The [best hotels and guesthouses guide](/where-to-stay/best-hotels/) covers name
 
 Breakfast comes first in most people's questions. It is set property by property here, with no local standard we can point to, so put it in your booking message rather than assume it.
 
+![A round table laid with shared dishes in a guesthouse dining room with plastic stools](/images/guide/where-to-stay-minsu-explained-3.webp 'Dinner is cooked at a set time and cleared afterwards. Arrive at nine and there is nothing.')
+
 Dinner is the one that matters more, and the reason is structural. Chinese reporting on the sector is blunt about it: the villages have no evening economy. No night market. Very little late food.
 
 So if you arrive at seven, drop your bags and go looking for somewhere to eat, you may not find it. Yucun (庾村) is the main hub at the foot of the mountain and has a square, a market and restaurants. The smaller villages do not.
@@ -100,6 +104,8 @@ What follows from that is not fear, it is one extra message. Before you pay, wri
 ## English, check-in and paying
 
 Nobody publishes a survey of English levels here, so we will not pretend to one. Reason from the ownership picture instead. Around 80 percent of properties are individually owned, and in Xiantan about 90 percent are locally run. The foreign-founded yangjiale and the design-led high end are your best odds of fluent English at the door. A family house in a village of 2,000 people is not.
+
+![A passport lying face down beside a paper registration form on a guesthouse counter](/images/guide/where-to-stay-minsu-explained-4.webp 'Registration is a legal requirement, not a formality. Some small properties still turn foreign guests away over it.')
 
 Translation apps carry most of this. Photos of your booking screen carry the rest.
 

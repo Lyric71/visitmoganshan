@@ -7,6 +7,8 @@ excerpt: "A 1910 villa built by a Scottish missionary doctor, restored and opene
 primary_keyword: naked castle moganshan
 secondary_keywords: [naked castle, moganshan castle hotel, naked retreats]
 schema: Hotel
+image: /images/guide/where-to-stay-hotels-naked-castle.webp
+image_alt: A granite villa with a castellated parapet and arched windows, set into a bamboo slope
 word_count: 1096
 last_updated: 2026-08-06
 ---
@@ -34,6 +36,8 @@ Nobody from this site has slept in the building. So what follows describes it an
 
 In 1910 a Scottish doctor who came to China as a missionary built himself a house in English castle style. He was not alone. That same year about 300 foreigners, most of them American and British, held summer homes on these slopes: missionaries, businessmen and customs officials. They came in July because Shanghai summers were unbearable and, before air conditioning, dangerous.
 
+![A stone villa with a square castellated tower and heavy mullioned windows on a wooded hillside](/images/guide/where-to-stay-hotels-naked-castle-2.webp 'The type is a 1910 stone house restored a century later: original stonework, almost nothing original inside.')
+
 The colony was already old by then. American Protestant missionaries found the mountain in the 1890s, and the earliest Western villas date from 1896 to 1898.
 
 Maitland built at the top of the boom. Nine years on, the foreign-owned stock was 154 villas. By 1929 it was 78, and in 1949 the foreigners left for good.
@@ -58,6 +62,8 @@ Seeing the rest means a walk and a lot of garden walls. [The stone villas](/moga
 
 The mountain then spent fifty years out of the tourism business, which makes the next dates interesting. naked Retreats is a small group of properties around Moganshan, founded by Grant Horsfield, a South African.
 
+![A quiet stone walled hotel courtyard with a single mature tree at its centre](/images/guide/where-to-stay-hotels-naked-castle-3.webp 'It is the smallest and most enclosed of the group’s Moganshan properties, and it feels it.')
+
 | Year | Property | What it was |
 |---|---|---|
 | 2007 | naked Home Village | The first yangjiale (洋家乐) on the mountain, at Sanjiuwu. The word means a farmstay opened by a foreigner |
@@ -81,6 +87,8 @@ For scale, the local trade sets its high-end threshold at RMB 1,500, and rooms a
 ## Deqing station, then the transfer you cannot skip
 
 Money settled, the harder constraint is the clock.
+
+![An unbranded shuttle vehicle waiting on a gravel forecourt below a stone building](/images/guide/where-to-stay-hotels-naked-castle-4.webp 'The last leg is arranged by the property. Confirm it when you book, not when you land at Deqing.')
 
 Your station is Deqing. Moganshan railway station serves Wukang town, not the mountain.
 

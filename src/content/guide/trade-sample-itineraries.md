@@ -7,6 +7,8 @@ excerpt: "Drop-in Moganshan modules for product managers: a two-night block, a t
 primary_keyword: moganshan sample itinerary
 secondary_keywords: [moganshan tour operator itinerary, china itinerary module, moganshan dmc programme]
 schema: Article
+image: /images/guide/trade-sample-itineraries.webp
+image_alt: An unlabeled contour map spread on a wooden table with a pencil and a brass compass
 word_count: 1400
 last_updated: 2026-08-06
 ---
@@ -35,6 +37,8 @@ No property here is named as a recommendation. [Trade and media](/trade/) sets o
 | Transfer center hours | 08:00 to 18:00, all three | Measured |
 | Road leg, Deqing station to Moganshan town | 30 to 40 minutes | Measured |
 | Y1 public shuttle | 7 departures, 07:30 to 16:00, RMB 10, ends in the town | Measured |
+
+![An analogue clock with a blank dial above rows of empty seats in a waiting room](/images/guide/trade-sample-itineraries-2.webp 'Four fixed constraints, and every one of them is a clock rather than a distance.')
 
 > Scenic-area vehicle rule, transfer center hours, road leg and Y1 timetable, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
@@ -86,6 +90,8 @@ Availability is rarely the constraint. Occupancy in the area sat near 55 percent
 
 The standard block, and the one we quote first.
 
+![A small group with day packs walking up a village lane towards guesthouses](/images/guide/trade-sample-itineraries-3.webp 'The two night module is the one that works commercially. Arrival day is written off on purpose.')
+
 | Day | Movement | Timing | Status |
 |---|---|---|---|
 | D1 | Rail to Deqing, road leg to the village, check in | 63 to 80 min, then 30 to 40 min | Measured |
@@ -117,6 +123,8 @@ Sell the third night to walkers and August families, not a first-timer on five d
 ## Why the one-night module does not hold
 
 Which leaves the version most catalogs carry. Operators reach for one night because it prices cleanly. The clock defeats it.
+
+![An empty hotel corridor with doors along one side and dusk in the far window](/images/guide/trade-sample-itineraries-4.webp 'One night means arriving after the light and leaving before the morning. The client sees a corridor.')
 
 One night gives the client an arrival afternoon and a departure morning. The afternoon only exists if the train lands early enough to clear a center, which from Hongqiao means leaving by about 15:30. The morning ends when the road leg back begins. Between them, no full day at all.
 

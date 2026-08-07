@@ -33,6 +33,8 @@ Our field check is scheduled, and anything unverified is marked `TODO: verify on
 
 Four things shape the day more than the route does.
 
+![Walking boots, a folded map and a water bottle on a stone step at the start of a path](/images/guide/moganshan-hill-station-walking-tour-2.webp 'The route is about four kilometres of lane and steps. Nothing technical, but nothing flat either.')
+
 **The transfer rule.** Private vehicles cannot drive inside the scenic area. You change at one of three transfer centers, Yucun, Fatou or Houwu, and they run 08:00 to 18:00. Arrive at 19:00 and the system has closed. [Getting around Moganshan](/getting-here/getting-around/) explains how the transfers work.
 
 **Tickets.** Sources disagree on the price. One gives RMB 120 online and RMB 130 at the gate. Another gives RMB 50 off-season and RMB 80 at peak. Winter is half price. Check the figure when you book, rather than trusting any published number, including ours.
@@ -61,6 +63,8 @@ The numbering is a reading order, not a measured route. It runs from the politic
 ## Stop 1: Songyue Lodge, Chiang Kai-shek's villa
 
 Chiang Kai-shek honeymooned here with Soong Mei-ling in December 1927, in Wuling village. That marriage was a political event as much as a personal one.
+
+![A symmetrical two storey stone house on a terrace with steps rising to the entrance](/images/guide/moganshan-hill-station-walking-tour-3.webp 'The walk opens with the grandest house on the route, and its terraced platform sets the pattern for the rest.')
 
 He came back in 1948, by then President, and held currency-reform meetings on the mountain. Within about a year the foreign residents were gone and the villas were being requisitioned.
 
@@ -113,6 +117,8 @@ It is a working hotel, so access is for guests. [Where to stay](/where-to-stay/)
 ## Stop 6: The assembly hall of the 1984 Moganshan Conference
 
 In 1984 a group of young reform economists met in the mountain's assembly hall. The gathering is still cited in China as a turning point in how the country argued about its economy.
+
+![A plain mid century assembly hall with tall metal framed windows among trees](/images/guide/moganshan-hill-station-walking-tour-4.webp 'The route ends at something that is not a villa at all, and carries the most recent history on the mountain.')
 
 Nothing about the building announces this. No honeymoon, no gangster. It is the stop with the longest reach all the same.
 

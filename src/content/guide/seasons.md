@@ -47,6 +47,8 @@ We could not settle which is current, so budget for the higher line. Checked 5 A
 
 Moganshan was built as a summer resort by people running from the heat. American Protestant missionaries wanted somewhere cool enough to survive a Shanghai August, and E. N. Fletcher, an American Northern Baptist, is credited with finding the mountain between 1891 and 1894. Villas followed from 1896 to 1898, and by 1910 about 300 foreigners had summer homes on the ridge. The [hill station](/moganshan/hill-station/) page covers what they built.
 
+![A shaded stone villa veranda with cane chairs looking over a bamboo valley in summer](/images/guide/seasons-2.webp 'The place exists because of one season. It has been running that trade for a hundred and thirty years.')
+
 That logic still runs the calendar. July and August are the core season because those are the months the temperature gap earns its keep, and because Chinese school holidays fall inside them.
 
 ## Spring, March to May
@@ -75,6 +77,8 @@ Summer works for families tied to Chinese school terms. With open dates, it is t
 
 September cools off week by week, and October is mild and often clear. November is crisp, and hard to beat for walking.
 
+![Patches of copper and yellow among green bamboo on a slope in clear autumn light](/images/guide/seasons-3.webp 'Autumn is the quiet best case: stable weather, clean air, and the crowd gone home after the first week of October.')
+
 Autumn earns the recommendation on visibility. Summer mist and spring rain both cost you the ridge view, and late autumn is when the air clears. Operators promote it as a shoulder season, which tells you they know summer is oversubscribed.
 
 The crowd shape is lopsided. The first week of October is National Day, the hardest week on the calendar. After it the numbers fall away, and by November a weekday walk can run an hour without meeting anybody. Prices slide back toward the off-season band. For an international trip, this is the season.
@@ -100,6 +104,8 @@ Come in winter if you want quiet more than comfort. Do not come expecting a vill
 ## The two Golden Weeks
 
 Two weeks of the year sit outside every pattern above. China has week-long public holidays from 1 May and from 1 October, called Golden Weeks, and they are the two dates most likely to spoil a Moganshan trip.
+
+![Visitors pressed together in a bottleneck at a mountain attraction entrance](/images/guide/seasons-4.webp 'Two weeks a year the whole calculation inverts. Both are marked on every page of this site.')
 
 The scale shows up against a normal year. Guesthouse occupancy across the destination ran about 70 percent before 2021 and about 55 percent in 2024, with the high-end segment at 68 percent in 2025.
 

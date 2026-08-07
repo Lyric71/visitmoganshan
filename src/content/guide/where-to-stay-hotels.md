@@ -7,6 +7,8 @@ excerpt: Every named hotel and resort in Moganshan, with location, opening year,
 primary_keyword: moganshan hotels
 secondary_keywords: [hotels in moganshan, moganshan china hotels, moganshan accommodation list]
 schema: ItemList
+image: /images/guide/where-to-stay-hotels.webp
+image_alt: A low stone and timber guesthouse lit from inside at dusk, set into a bamboo hillside
 word_count: 1293
 last_updated: 2026-08-06
 ---
@@ -54,6 +56,8 @@ Where the fact base is silent, the cell reads `TODO: verify`. Most properties he
 | Moganshan Hotel | `TODO: verify` | `TODO: verify` | `TODO: verify` | `TODO: verify` | State-owned |
 | Four Seasons Moganshan | Yu Village, a 23-hectare site | 2030, announced | 90 planned | `TODO: verify` | Not open. See the next section |
 
+![Lit windows of a dozen scattered properties among dark bamboo at dusk](/images/guide/where-to-stay-hotels-2.webp 'A dozen properties call themselves hotels here, and they are spread across the whole mountain.')
+
 > Property names, locations, opening years and key counts, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
 The gaps are not evenly spread. Solvang Village, Lost Villa, Pullman and Arcadia Resorts are names and nothing more.
@@ -75,6 +79,8 @@ The wording used is "Moganshan's first international luxury resort with direct a
 ## Twelve hotels, a thousand guesthouses
 
 That ratio is what no booking site shows you.
+
+![A dense village of small guesthouses packed tightly along a mountain contour](/images/guide/where-to-stay-hotels-3.webp 'For every hotel on the list there are roughly eighty guesthouses, and no list covers those.')
 
 | Measure | Figure |
 |---|---|
@@ -103,6 +109,8 @@ Rates here answer to the calendar more than to the property, which is why the ta
 ## The guesthouses this page cannot cover
 
 Those thousand guesthouses sit in villages ringing the mountain's base. No honest English directory of those exists yet, and no search engine will produce one. Building one takes stays and photography over months.
+
+![A small family run guesthouse frontage with plants in tins and a bicycle against the wall](/images/guide/where-to-stay-hotels-4.webp 'Most of them have no English presence at all, which is why this page stops where it does.')
 
 Until then, [where to stay](/where-to-stay/) starts with which village to sleep in, and the [villages guide](/moganshan/villages/) says what each has after dark.
 

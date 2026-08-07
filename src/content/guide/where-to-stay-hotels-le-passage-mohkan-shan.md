@@ -7,6 +7,8 @@ excerpt: Le Passage Mohkan Shan has about 28 keys and French founders on Mogansh
 primary_keyword: le passage mohkan shan
 secondary_keywords: [le passage moganshan, moganshan french hotel, moganshan country house]
 schema: Hotel
+image: /images/guide/where-to-stay-hotels-le-passage-mohkan-shan.webp
+image_alt: A rendered and stone country house with dark shutters standing among bamboo on a hillside
 word_count: 1043
 last_updated: 2026-08-06
 ---
@@ -28,6 +30,8 @@ So try both. "Le Passage Mohkan Shan" is the property's own form. "Le Passage Mo
 ## What the record confirms
 
 We can stand behind three things: about 28 keys, French founders and a property built for the international market rather than the domestic one.
+
+![A white rendered hillside hotel with a two level colonnaded veranda and dark shutters](/images/guide/where-to-stay-hotels-le-passage-mohkan-shan-2.webp 'A small property of around 28 keys, in a building that borrows from the hill station rather than copying it.')
 
 > Property record, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
@@ -60,6 +64,8 @@ In English these get called a country house or a country hotel. The local words 
 ## The domain no longer resolves
 
 There is a reason so much of that is unchecked. As of 6 August 2026, the property's own domain, lepassagemohkanshan.com, does not resolve. Type it into a browser and no site loads.
+
+![An old rotary telephone and a dead plant on a side table in a dim hotel hallway](/images/guide/where-to-stay-hotels-le-passage-mohkan-shan-3.webp 'The property’s own site stopped resolving. That is not proof it has closed, and not proof it has not.')
 
 > Domain check on lepassagemohkanshan.com, BeyondBorder Group Ltd, 6 August 2026.
 
@@ -112,6 +118,8 @@ One last trap. A railway station named Moganshan exists, on a different line, an
 ## What to do with this page
 
 Use it as a checklist, not a review. Search both spellings, confirm on a platform that rooms are on sale, get a rate in writing, and ask whether you will be sleeping inside the scenic area.
+
+![A hotel key and a small brass bell on a wooden counter in warm lamp light](/images/guide/where-to-stay-hotels-le-passage-mohkan-shan-4.webp 'Book it through a platform that will refund you, and confirm the property is trading before you travel.')
 
 Four things would change this page: a stay, an answered phone call, a dated rate sheet, and a website that loads. None has happened. The [hotels index](/where-to-stay/hotels/) lists the other named properties, and [where to stay](/where-to-stay/) explains why village and price band matter more here than brand.
 

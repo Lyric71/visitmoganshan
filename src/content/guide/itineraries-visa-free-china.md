@@ -7,6 +7,8 @@ excerpt: "Two trips on the same trains: a 30-day version for the 50 unilateral c
 primary_keyword: china visa free itinerary
 secondary_keywords: [240 hour visa free china itinerary, china visa free 30 days, shanghai visa free trip]
 schema: TouristTrip
+image: /images/guide/itineraries-visa-free-china.webp
+image_alt: The flat green delta countryside of eastern China seen from a moving train window
 word_count: 1609
 last_updated: 2026-08-06
 ---
@@ -38,6 +40,8 @@ They are not one trip at two lengths. Trip A is planned forward from your arriva
 
 Four measured facts time both plans.
 
+![Queue lanes in an airport immigration hall with travellers waiting](/images/guide/itineraries-visa-free-china-2.webp 'Both trips start at the same desk. Which scheme you are using changes what you have to show there.')
+
 | The leg | Time | How often | Second class fare |
 |---|---|---|---|
 | Hongqiao (Shanghai) to Deqing | 63 to 80 minutes, direct | 13 a day | RMB 61 to 110 |
@@ -54,6 +58,8 @@ An 08:11 out of Hongqiao reaches Deqing at 09:19 and puts you on the hill by mid
 ## Trip A: the 30-day version
 
 Trip A buys you slack. Thirty days is more than this corner of China needs, so the freedom matters more than the number. Even with a month, the mountain is worth two or three nights.
+
+![An open passport and a folded itinerary on a hotel bed beside a packed rucksack](/images/guide/itineraries-visa-free-china-3.webp 'Thirty days is enough to stop planning around the clock and start planning around the weather.')
 
 Twelve days:
 
@@ -111,6 +117,8 @@ Your arrival airport matters more here than on Trip A. Our estimates:
 ## The onward ticket is what breaks Trip B
 
 All of that assumes one condition. The scheme wants a confirmed ticket to a third country. More trips fail there than anywhere else, and they fail at booking rather than the border.
+
+![A passenger waiting at an airline check-in desk at night](/images/guide/itineraries-visa-free-china-4.webp 'The transit rule is checked at the airline desk before you fly, not at the border when you land.')
 
 | Routing | Does it qualify |
 |---|---|

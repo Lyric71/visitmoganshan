@@ -7,6 +7,8 @@ excerpt: Real door-to-door times from Shanghai, why midweek availability is the 
 primary_keyword: moganshan corporate retreat
 secondary_keywords: [company offsite near shanghai, corporate retreat china, offsite venue zhejiang]
 schema: Article
+image: /images/guide/groups-corporate-retreats.webp
+image_alt: A plain wooden meeting table and closed notebooks in a stone-walled room, with forested hills through tall windows
 word_count: 1291
 last_updated: 2026-08-06
 ---
@@ -24,6 +26,8 @@ Assume a group of twenty to fifty, and assume the hard part is moving that many 
 | Central Shanghai | Private car or hired coach | 2h30 to 3h15 |
 | Shanghai Hongqiao | High-speed rail to Deqing, then road | 2h45 to 3h30 |
 | Shanghai Pudong | Transfer to Hongqiao, then rail and road | 4h00 to 4h45 |
+
+![A group with overnight bags walking along a station platform seen from behind](/images/guide/groups-corporate-retreats-2.webp 'Sixty three minutes from Hongqiao is the number that makes a Moganshan offsite possible at all.')
 
 Every figure is an estimate, ours rather than a published schedule, current as of 5 August 2026. They move with traffic and with the taxi queue at Deqing. Then there is your slowest colleague.
 
@@ -50,6 +54,8 @@ Rates follow. A mid-range room runs RMB 300 to 500 off season and passes RMB 1,0
 ## Three things that break a group booking
 
 Up to here it reads like an easy yes. None of these three appear on a booking page.
+
+![A long communal table set for twelve inside a converted stone villa](/images/guide/groups-corporate-retreats-3.webp 'Houses here average about ten beds. A group of thirty is three separate bookings and three separate dinners.')
 
 ### The 08:00 to 18:00 window
 
@@ -116,6 +122,8 @@ Get all of it in writing before you commit. A guesthouse averaging ten beds is u
 ## Planning checklist
 
 Everything above, in the order you need it.
+
+![A whiteboard and stacked chairs in a plain converted barn meeting space](/images/guide/groups-corporate-retreats-4.webp 'Meeting space exists but is rarely purpose built. Ask what the room actually is before you book it.')
 
 | When | Do this | Why |
 |---|---|---|

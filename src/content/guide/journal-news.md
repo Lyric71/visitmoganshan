@@ -7,6 +7,8 @@ excerpt: What is changing in Moganshan and in China's entry rules, logged newest
 primary_keyword: moganshan news
 secondary_keywords: [moganshan updates, moganshan 2026, what is changing in moganshan]
 schema: Blog
+image: /images/guide/journal-news.webp
+image_alt: A tower crane above the concrete frame of a half-built structure on a bamboo hillside
 word_count: 1191
 last_updated: 2026-08-06
 ---
@@ -70,6 +72,8 @@ Moganshan's beds are otherwise small and local. About 80 percent of the area's g
 
 The Shanghai to Suzhou to Huzhou high-speed line opened on 26 December 2024. At its fastest it puts Huzhou 55 minutes from Shanghai Hongqiao. The northern approach into Zhejiang got better.
 
+![New railway viaduct piers crossing flat farmland towards a completed elevated track](/images/guide/journal-news-2.webp 'New line, new station, wrong mountain. The stop that carries the name is nowhere near it.')
+
 It did not change the trip most visitors take.
 
 | Station | What it is to you |
@@ -84,6 +88,8 @@ It did not change the trip most visitors take.
 ## 17 December 2024: 240-hour transit replaces the 72 and 144-hour rules
 
 On 17 December 2024 China folded its 72-hour and 144-hour transit schemes into one 240-hour rule. Ten days, counted in hours, for 55 nationalities including the United States. It covers 24 provinces and municipalities, Shanghai and Zhejiang among them, with free movement across those lines.
+
+![A quiet border control desk with a closed lane barrier](/images/guide/journal-news-3.webp 'The transit rule changed twice in thirteen months. It is the item on this page most likely to move again.')
 
 All of it rests on one condition, a confirmed ticket onward to a third country. A round trip home does not qualify.
 
@@ -116,6 +122,8 @@ Refusals are still reported. Two years on, the directive has not settled it on t
 ## The standing watch item: the scheme runs out at the end of 2026
 
 Two entries above rest on one law with an expiry date. The unilateral visa-free regime is written only to 31 December 2026, and as of August 2026 no extension had been announced.
+
+![A wall calendar in a plain room with one date circled in pencil](/images/guide/journal-news-4.webp 'The visa-free scheme has an end date on it. Nobody has moved it yet, and that is the whole watch item.')
 
 | If you travel | What to do |
 |---|---|

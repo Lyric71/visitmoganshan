@@ -29,6 +29,8 @@ First, the disclosure. This site holds no featured placements and no sponsored l
 
 The villages sit around the foot of the mountain, not on top of it, and the distances between them are real. Houwu is about 30 minutes from Yucun, a long way to go for dinner.
 
+![Three settlements on different shoulders of a bamboo mountain seen from a high viewpoint](/images/guide/where-to-stay-2.webp 'Choose the village before the property. It decides your transfer, your evening and how far you walk.')
+
 | Village | Chinese | What it is | Book it if |
 |---|---|---|---|
 | Yucun | 庾村 | Main hub at the foot of the mountain. Square, market, restaurants, the "1932" culture park, main scenic-area gateway. | First visit, no car, one night |
@@ -85,6 +87,8 @@ That calendar also decides how early to book. For a Golden Week, book early: hig
 ## The four kinds of property here
 
 Moganshan accommodation comes in four kinds, and price does not tell you which you are walking into.
+
+![A converted stone barn guesthouse with new full height glazing set into old walls](/images/guide/where-to-stay-3.webp 'Old house, new build, whole house rental or resort. The four behave differently on price and on access.')
 
 | Type | What you are booking |
 |---|---|
@@ -145,6 +149,8 @@ Occupancy fell while beds kept being added, so owners are chasing a smaller shar
 ## Dinner is the decision people forget
 
 Chinese reporting on the sector puts it plainly. These villages have no evening economy: no night market, very little late food.
+
+![A guesthouse kitchen at the end of service with one light on and an empty dining room beyond](/images/guide/where-to-stay-4.webp 'Book dinner when you book the room. There is rarely a second option within walking distance.')
 
 Yucun has a square, a market and restaurants. The smaller villages mostly do not. Drop your bags in Houwu at seven, go looking for dinner, and you may find none.
 
