@@ -18,10 +18,11 @@ import {
 /**
  * The shell every guide page renders into.
  *
- * One h1, from frontmatter; the markdown body supplies h2s and below. The
- * layout is single-column on mobile and gains a sticky contents rail at
- * 1024px, because these pages run 1,300 to 2,100 words and a reader who
- * arrived from a logistics search wants one section, not the essay.
+ * One h1, from frontmatter; the markdown body supplies h2s and below. A
+ * horizontal contents strip sits above the body at every width, because these
+ * pages run 1,300 to 2,100 words and a reader who arrived from a logistics
+ * search wants one section, not the essay. The measure stays with the prose:
+ * the strip runs the full container, the article holds its 68ch column.
  *
  * Everything below the body is internal linking. Deep pages arriving from
  * search are the entire traffic model, so each one ends with a way sideways
@@ -83,21 +84,28 @@ const jsonLd = guideJsonLd(entry, crumbs)
         </p>
       </header>
 
-      <div class="grid">
+      <div class="body">
         {
           sections.length > 2 && (
-            <aside class="toc" aria-labelledby="toc-title">
+            <nav class="toc" aria-labelledby="toc-title">
               <p class="vm-kicker" id="toc-title">
                 On this page
               </p>
-              <ul>
-                {sections.map((section) => (
+              {/* role="list" restores the semantics Safari drops from a
+                  list-style: none list. */}
+              <ol role="list">
+                {sections.map((section, index) => (
                   <li>
-                    <a href={`#${section.slug}`}>{section.text}</a>
+                    <a href={`#${section.slug}`}>
+                      <span class="toc__num" aria-hidden="true">
+                        {String(index + 1).padStart(2, '0')}
+                      </span>
+                      <span class="toc__text">{section.text}</span>
+                    </a>
                   </li>
                 ))}
-              </ul>
-            </aside>
+              </ol>
+            </nav>
           )
         }
 
@@ -191,53 +199,90 @@ const jsonLd = guideJsonLd(entry, crumbs)
 
   /* Body ------------------------------------------------------------------ */
 
-  .grid {
-    display: grid;
-    /* minmax(0, 1fr) rather than 1fr: a grid item's default min-width is auto,
-       so one wide timetable would otherwise stretch the whole column past the
-       viewport instead of scrolling inside its own box. */
-    grid-template-columns: minmax(0, 1fr);
-    gap: clamp(2rem, 5vw, 3.5rem);
+  /* min-width: 0 on the article rather than the wrapper: one wide timetable
+     would otherwise stretch the body past the viewport instead of scrolling
+     inside its own box. */
+  .body {
     padding-block: clamp(2rem, 4vw, 3rem);
   }
 
-  @media (min-width: 1024px) {
-    .grid {
-      grid-template-columns: 15rem minmax(0, 1fr);
-      align-items: start;
-    }
-
-    /* Contents first in the source order would put a nav between the h1 and the
-       first paragraph for a screen reader. It is placed second and pulled left
-       instead, so the reading order stays heading, then article. */
-    .toc {
-      position: sticky;
-      top: 5.5rem;
-      order: -1;
-    }
+  /* The contents strip and the prose now share one full-width column, so the
+     68ch cap the article carries by default is lifted here. */
+  .body > .vm-article {
+    min-width: 0;
+    max-width: none;
   }
 
-  .toc ul {
+  /* Contents index --------------------------------------------------------- */
+
+  /* Wrapping a flat row of links produced ragged, uneven columns. A ruled grid
+     instead: fixed tracks, one hairline per row, numbers running down the left
+     of each entry, so the block reads as an index rather than a stray line of
+     navigation that happened to wrap. */
+  .toc {
+    margin-bottom: clamp(2.25rem, 4vw, 3rem);
+    padding: clamp(1.25rem, 3vw, 1.75rem) clamp(1.25rem, 3vw, 2rem);
+    background: var(--color-mist-50);
+  }
+
+  .toc ol {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    column-gap: clamp(1.5rem, 4vw, 3rem);
     margin: 0;
     padding: 0;
     list-style: none;
-    border-left: 1px solid var(--color-line);
+  }
+
+  @media (min-width: 640px) {
+    .toc ol {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .toc ol {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+  }
+
+  .toc li {
+    border-top: 1px solid var(--color-line);
   }
 
   .toc li a {
-    display: block;
-    padding: 0.4rem 0 0.4rem 0.875rem;
-    margin-left: -1px;
-    border-left: 2px solid transparent;
-    font-size: 0.875rem;
+    display: flex;
+    align-items: baseline;
+    gap: 0.75rem;
+    /* Padding, not a line-height fudge: the row has to clear 44px for a thumb
+       even though the type is 14px. */
+    padding: 0.7rem 0;
+    font-size: 0.9375rem;
     line-height: 1.4;
-    color: var(--color-muted);
+    color: var(--color-ink);
     text-decoration: none;
+    transition: color 0.15s ease;
+  }
+
+  /* Tabular figures keep 01 and 11 the same width, so the titles start on one
+     line down every column. */
+  .toc__num {
+    flex: none;
+    font-size: 0.6875rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    font-variant-numeric: tabular-nums;
+    color: var(--color-leaf);
   }
 
   .toc li a:hover {
-    border-left-color: var(--color-leaf);
     color: var(--color-bamboo);
+  }
+
+  .toc li a:hover .toc__text {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1px;
   }
 
   /* FAQ hub pointer -------------------------------------------------------- */
