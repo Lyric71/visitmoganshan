@@ -6,7 +6,6 @@ import Breadcrumbs from '../components/Breadcrumbs.astro';
 import { NAV, isCurrentGroup } from '../data/nav';
 import {
   breadcrumbsFor,
-  formatDate,
   guideJsonLd,
   readingMinutes,
   sectionLabel,
@@ -74,14 +73,13 @@ const jsonLd = guideJsonLd(entry, crumbs)
         {kicker && <p class="vm-kicker">{kicker}</p>}
         <h1>{data.title}</h1>
         <p class="standfirst">{data.excerpt}</p>
-        <p class="byline">
-          <span
-            >Last updated <time datetime={data.last_updated.toISOString().slice(0, 10)}
-              >{formatDate(data.last_updated)}</time
-            ></span
-          >
-          {minutes && <span>{minutes} min read</span>}
-        </p>
+        {
+          minutes && (
+            <p class="byline">
+              <span>{minutes} min read</span>
+            </p>
+          )
+        }
       </header>
 
       {

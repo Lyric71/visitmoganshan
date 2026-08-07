@@ -41,14 +41,6 @@ const crumbs = [
   { label: title, href: Astro.url.pathname.replace(/\/$/, '') },
 ];
 
-const updatedDate = new Date(`${updated}T00:00:00Z`);
-const updatedLabel = updatedDate.toLocaleDateString('en-GB', {
-  day: 'numeric',
-  month: 'long',
-  year: 'numeric',
-  timeZone: 'UTC',
-});
-
 // Policies are indexed but never a search result we want ranked, and they are
 // the one part of the site where a stale Google snippet is actively misleading.
 const jsonLd = {
@@ -96,7 +88,6 @@ const jsonLd = {
         <h1>{title}</h1>
         <p class="standfirst">{standfirst}</p>
         <p class="byline">
-          <span>Last updated <time datetime={updated}>{updatedLabel}</time></span>
           <span>BeyondBorder Group Ltd, Hong Kong</span>
         </p>
       </header>

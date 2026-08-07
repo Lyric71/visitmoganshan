@@ -3,12 +3,6 @@ import Lockup from './Lockup.astro';
 
 /**
  * Four columns on bamboo with mist type (8.43:1, AAA).
- *
- * The last-updated date is deliberately visible. Several of the pages currently
- * ranking first for these queries were published in 2011, 2014 and 2016 and
- * carry no date at all, so freshness is a competitive weapon here rather than
- * housekeeping. It is stamped at build time, which is the only date we can
- * assert honestly without a CMS.
  */
 const COLUMNS = [
   {
@@ -48,14 +42,7 @@ const COLUMNS = [
   },
 ];
 
-const updated = new Date();
-const updatedIso = updated.toISOString().slice(0, 10);
-const updatedLabel = updated.toLocaleDateString('en-GB', {
-  day: 'numeric',
-  month: 'long',
-  year: 'numeric',
-});
-const year = updated.getFullYear();
+const year = new Date().getFullYear();
 ---
 
 <footer class="footer">
@@ -93,7 +80,6 @@ const year = updated.getFullYear();
           href="/user-generated-content">Content terms</a
         >
       </p>
-      <p>Last updated <time datetime={updatedIso}>{updatedLabel}</time></p>
       <!-- A plain fragment link, so it works with scripting off and lands on the
            skip link rather than mid-header. -->
       <p class="footer__top"><a href="#top">Back to top ↑</a></p>
