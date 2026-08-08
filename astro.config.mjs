@@ -52,16 +52,18 @@ const affiliateSeed = JSON.parse(
  * Affiliate links that are not a property.
  *
  * The seed only knows about hotels. Rail is the other thing a reader books
- * before they arrive, and the Shanghai to Deqing search is the one query almost
- * every visitor from Shanghai runs, so it gets a slug of its own here rather
- * than a raw tracked URL pasted into three markdown files. Same alliance and
- * SID as the hotel links; trip_sub1 matches the Shanghai to Deqing rail banners
- * already running on those pages, so prose clicks and banner clicks stay
+ * before they arrive, and the two searches almost every visitor runs are
+ * Shanghai to Deqing and Hangzhou to Deqing, so each gets a slug of its own
+ * here rather than a raw tracked URL pasted into several markdown files. Same
+ * alliance and SID as the hotel links; trip_sub1 matches the rail banner
+ * running on the corresponding pages, so prose clicks and banner clicks stay
  * separable in the partner reports.
  */
 const PARTNER_LINKS = {
   'trains-shanghai-deqing':
     'https://www.trip.com/trains/tt-common/ttlist?departurecitycode=CN001AOH&arrivalcitycode=CN001DRH&Allianceid=9859697&SID=327673690&trip_sub1=train-sh-dq&trip_sub3=D19143728',
+  'trains-hangzhou-deqing':
+    'https://www.trip.com/trains/tt-common/ttlist?departurecitycode=CN001HGH&arrivalcitycode=CN001DRH&Allianceid=9859697&SID=327673690&trip_sub1=trains-hz-dq&trip_sub3=D19144281',
 };
 
 const affiliateRedirects = Object.fromEntries(

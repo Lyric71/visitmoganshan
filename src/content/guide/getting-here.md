@@ -50,7 +50,9 @@ Deqing sits on the Nanjing to Hangzhou high-speed line, which has been running s
 
 Three real Hongqiao services, as a sense check: G1419 leaves at 17:39 and arrives 18:42, so 63 minutes. G687 runs 12:12 to 13:21. D377 runs 08:11 to 09:19. Timetables change every few months, so treat these as examples rather than a schedule and check the [live Shanghai to Deqing times](/go/trains-shanghai-deqing/) for the day you are travelling.
 
-> We may earn a commission if you book through that link, at no cost to you. [How this site is funded](/plan/disclosure/).
+Coming from Hangzhou, the equivalent is the [live Hangzhou East to Deqing times](/go/trains-hangzhou-deqing/), where the choice is which of the sixteen daily services lands you in front of a shuttle rather than in the gap between two.
+
+> We may earn a commission if you book through either of those links, at no cost to you. [How this site is funded](/plan/disclosure/).
 
 The northern approach improved in late 2024, when the Shanghai to Suzhou to Huzhou high-speed line opened on 26 December and cut the fastest Hongqiao to Huzhou run to 55 minutes.
 

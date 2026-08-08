@@ -1,0 +1,80 @@
+{
+  "id": 12550034,
+  "name": "Moganshan Jingshe Holiday Homestay",
+  "seedName": "Moganshan Jingshe Holiday Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-12550034",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=12550034&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-12550034&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Accommodation Quality:Rooms are spacious, clean, and well-equipped with hotel-like facilities . Some rooms feature artistic decor and are suitable for families or group stays.(based on 7 reviews) Environment & Atmosphere:The setting is quiet, serene, and well-maintained, with a small courtyard ideal for relaxation. Amenities & Services:Includes a tea area, record player, and locally sourced breakfast/lunch/dinner. The host is described as friendly and attentive, offering local specialties .(based on 7 reviews) Suitability:Ideal for family trips, group stays, or team-building events due to space and ambiance.(based on 6 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Accommodation Quality",
+        "text": "Rooms are spacious, clean, and well-equipped with hotel-like facilities . Some rooms feature artistic decor and are suitable for families or group stays.",
+        "count": 7
+      },
+      {
+        "topic": "Atmosphere",
+        "text": "The setting is quiet, serene, and well-maintained, with a small courtyard ideal for relaxation. Amenities & Services:Includes a tea area, record player, and locally sourced breakfast/lunch/dinner. The host is described as friendly and attentive, offering local specialties .",
+        "count": 7
+      },
+      {
+        "topic": "Suitability",
+        "text": "Ideal for family trips, group stays, or team-building events due to space and ambiance.",
+        "count": 6
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 61, Village Group 3, Hecun Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$75",
+  "facilities": [
+    "Outdoor swimming pool"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/12550034/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206n12000sc66a8s1086.jpg"
+    },
+    {
+      "src": "/images/stays/12550034/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0226q12000b5yl089FC46.webp"
+    },
+    {
+      "src": "/images/stays/12550034/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200v170000011sawd55E3.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "衞生很乾凈，房間還有名畫版畫，環境很好，離庾村很近，還有室外泳池，避暑好地方，推薦推薦👍🏻👍🏻",
+      "author": "Guest User",
+      "date": "2025-08-18",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=12550034&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-12550034&trip_sub3=D19127628"
+    },
+    {
+      "quote": "我最近在這家民宿度過了一段非常愉快的假期。首先，民宿的位置非常便利。無論是購物、觀光還是品嚐當地美食，都非常方便。同時，民宿周圍的環境也非常安靜，遠離了城市的喧囂。房間佈置温馨舒適。床鋪柔軟，床單和被褥都非常乾淨整潔。特別是老闆人很熱情。",
+      "author": "Guest User",
+      "date": "2025-05-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=12550034&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-12550034&trip_sub3=D19127628"
+    },
+    {
+      "quote": "老闆很熱情，我們退房了也讓在泳池多玩會兒，適合幾個家庭一起入住。小院子還可以燒烤，離各個景點也很近",
+      "author": "Guest User",
+      "date": "2025-07-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=12550034&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-12550034&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 11,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:07:55.152Z",
+  "source": "trip"
+}

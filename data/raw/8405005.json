@@ -1,0 +1,65 @@
+{
+  "id": 8405005,
+  "name": "Mogan Qixin Independent Villa",
+  "seedName": "Mogan Qixin Independent Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-8405005",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8405005&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8405005&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Mogan Qixin Independent Villa?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 95, Xiwuli, Houwu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$44",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/8405005/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4a12000sypiyvm1F99.jpg"
+    },
+    {
+      "src": "/images/stays/8405005/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD0z12000ayc4eha308F.webp"
+    },
+    {
+      "src": "/images/stays/8405005/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD6a12000a4oe2am7B7A.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Great stay during tomb sweeping holidays. Calm location but still close to the village. The host (and her family because it's a family business) are very very nice, helpful. Feels like being home with mom, grandma and grandpa. Couldn't enjoy...",
+      "author": "Guest User",
+      "date": "2025-04-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8405005&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8405005&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The accommodation is very considerate and the food cooked by the owner is delicious. The location is unique and it is very convenient to travel by car. If you want to travel nearby, you can ask the owner for the...",
+      "author": "Shentounaiba302",
+      "date": "2023-09-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8405005&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8405005&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間設施一般沒有想象中好，好在有個陽台。衞生間比較小也比較簡陋，浴簾發黴了掛的太高也擋不住水。山裡飛蟲比較多。早飯準備情況一般，安排不夠到位衹能隨便應付吃一下，可能因為節假日漲價，感覺不值這個價。停車是停在門口路邊。周邊去吃農家菜還算方便的，周圍環境空氣比較好",
+      "author": "Guest User",
+      "date": "2026-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8405005&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8405005&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.4,
+    "count": 13,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:07:42.184Z",
+  "source": "trip"
+}

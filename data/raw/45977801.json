@@ -1,0 +1,94 @@
+{
+  "id": 45977801,
+  "name": "Moganshan Zhuohan Holiday Guesthouse",
+  "seedName": "Moganshan Zhuohan Holiday Guesthouse",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-45977801",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=45977801&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-45977801&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Situated near Moganshan Houwu transfer point , convenient for scenic spots and parking.(based on 2 reviews) Facilities:Includes a small swimming pool, playground equipment , and a courtyard with lawn and flowers.(based on 2 reviews) Environment:Mountainous setting with fresh air, bamboo forests, and scenic views from rooms.(based on 1 review) Service:Hosts are welcoming, offer assistance with local activities , and provide multilingual communication.(based on 5 reviews) Cleanliness:Rooms are described as clean, tidy, and well-maintained.(based on 5 reviews) Family-friendliness:Spacious family rooms, child-friendly amenities , and suitable for elderly guests.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Situated near Moganshan Houwu transfer point , convenient for scenic spots and parking.",
+        "count": 2
+      },
+      {
+        "topic": "Facilities",
+        "text": "Includes a small swimming pool, playground equipment , and a courtyard with lawn and flowers.",
+        "count": 2
+      },
+      {
+        "topic": "Environment",
+        "text": "Mountainous setting with fresh air, bamboo forests, and scenic views from rooms.",
+        "count": 1
+      },
+      {
+        "topic": "Service",
+        "text": "Hosts are welcoming, offer assistance with local activities , and provide multilingual communication.",
+        "count": 5
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms are described as clean, tidy, and well-maintained.",
+        "count": 5
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 59, Lingjiaoxia, Houwu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$902",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Bar",
+    "Restaurant",
+    "Playground",
+    "Kids' club"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/45977801/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200i1g000001h47ar144B.jpg"
+    },
+    {
+      "src": "/images/stays/45977801/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6112000dq76ufkC12F.webp"
+    },
+    {
+      "src": "/images/stays/45977801/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200g1g000001hhv0x24B1.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The B&B is at the foot of Mogan Mountain. There is a transfer station next door, which makes it convenient to go to the scenic spot. The owner is very enthusiastic and took us to pick wild strawberries and dig...",
+      "author": "Guest User",
+      "date": "2024-05-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=45977801&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-45977801&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Facilities: It feels more like home, after all, Moganshan is the birthplace of homestays, and there are too many PKs nearby Hygiene: The sleeping, sitting and using facilities are relatively clean Environment: The location is good, there is a parking...",
+      "author": "yionllyer",
+      "date": "2024-05-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=45977801&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-45977801&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Super good experience, beautiful and comfortable environment, good service, the best choice for coming to the mountains.",
+      "author": "Guest User",
+      "date": "2024-05-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=45977801&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-45977801&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.1,
+    "count": 13,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:07:30.479Z",
+  "source": "trip"
+}

@@ -1,0 +1,65 @@
+{
+  "id": 7349070,
+  "name": "Guyue Caotang",
+  "seedName": "Guyue Caotang",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-7349070",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=7349070&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-7349070&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Guyue Caotang?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 65, Xiwuli, Houwu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$60",
+  "facilities": [
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/7349070/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200h1700000112uj01269.jpg"
+    },
+    {
+      "src": "/images/stays/7349070/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200l0f0000007ay6lF4B3.webp"
+    },
+    {
+      "src": "/images/stays/7349070/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200p0f0000007aw107A9D.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The village is fantastic, nice chilly ambience & the owners of the guest house are really nice, always alert for helping and assist the visitors. The rooms are decorate with natural materials, bamboo, wooden… Is a guest house, not hotel,...",
+      "author": "Guest User",
+      "date": "2024-09-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=7349070&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-7349070&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Highly recommended ~ very pleasant stay! I feel like my pace has slowed down. We arrived at nine in the morning, and since the room we booked had not been cleaned yet, the auntie upgraded our room for free! The...",
+      "author": "Guest User",
+      "date": "2025-05-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=7349070&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-7349070&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The small courtyard in the mountains is simple and elegant with beautiful scenery. The owner is very welcoming and the breakfast is great. Stay 2 nights",
+      "author": "Guest User",
+      "date": "2025-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=7349070&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-7349070&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 10,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:09:02.872Z",
+  "source": "trip"
+}

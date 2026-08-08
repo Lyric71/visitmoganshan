@@ -1,0 +1,93 @@
+{
+  "id": 17449849,
+  "name": "Mogan Mountain Yu Tea Homestay",
+  "seedName": "Mogan Mountain Yu Tea Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-17449849",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=17449849&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-17449849&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Environment:Situated in a scenic area with easy access to natural attractions , surrounded by fresh air and lush greenery.(based on 1 review) Facilities:Features a clean, well-maintained pool, outdoor spaces for activities , and a spacious layout accommodating large groups .(based on 1 review) Service Quality:Hosts are consistently praised for their warmth, attentiveness, and willingness to assist .(based on 2 reviews) Breakfast & Food:Offers rich, organic breakfasts and high-quality meals using locally sourced ingredients.(based on 3 reviews) Cleanliness:Rooms and communal areas are described as tidy, with clean bedding and no signs of neglect.(based on 3 reviews) Family-Friendly:Ideal for families, with activities for children and flexible spaces for gatherings.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Situated in a scenic area with easy access to natural attractions , surrounded by fresh air and lush greenery.",
+        "count": 1
+      },
+      {
+        "topic": "Facilities",
+        "text": "Features a clean, well-maintained pool, outdoor spaces for activities , and a spacious layout accommodating large groups .",
+        "count": 1
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Hosts are consistently praised for their warmth, attentiveness, and willingness to assist .",
+        "count": 2
+      },
+      {
+        "topic": "Food",
+        "text": "Offers rich, organic breakfasts and high-quality meals using locally sourced ingredients.",
+        "count": 3
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms and communal areas are described as tidy, with clean bedding and no signs of neglect.",
+        "count": 3
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 34, Laolingjiao, Laoling Village, Deqing, Zhejiang, China",
+  "priceRange": "From US$89",
+  "facilities": [
+    "Sunbathing area",
+    "Cardroom",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/17449849/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200l1g000001hfevg49E7.jpg"
+    },
+    {
+      "src": "/images/stays/17449849/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20081g000001hfg4d92B6.webp"
+    },
+    {
+      "src": "/images/stays/17449849/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200k1g000001hjfq8D22A.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "早餐非常美味，孩子很喜歡吃，點贊，環境很好，唯一的缺點就是游泳池邊上沒有圍欄",
+      "author": "Guest User",
+      "date": "2026-02-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=17449849&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-17449849&trip_sub3=D19127628"
+    },
+    {
+      "quote": "第二次入住了，房間乾淨整潔舒適，早餐還吃到了老闆娘做的蛋糕和吐司，午餐是老爺子的大廚手藝，非常熱情給喝了他家的桂花紅茶、拿了凱樂石賽事的寶劍、秋高氣爽，天氣也十分給力，這個季節出遊一切剛剛好，非常好的一次愉快出行體驗，值得推薦！",
+      "author": "Guest User",
+      "date": "2025-10-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=17449849&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-17449849&trip_sub3=D19127628"
+    },
+    {
+      "quote": "首先真的特別推薦，兩天下來和老闆處的很好，老闆娘太好了所以要先誇誇老闆，房間衞生打掃的真乾淨，小院環境搭理也是相當好，不過老闆説4月的時候來小院會更漂亮，店的位置離莫干山景點、民國風情水街、和各個景點、漂流地都比較近，比較網紅的魚鱗壩、看日落地也不遠，出行都比較方便，房間佈置也很明亮、床品和洗護用品也都是非常舒適，感覺老闆很有品位，晚上睡覺也比較安逸，特別早上起來感覺寧靜空氣也特別好，老闆贈送的水果和飲品很豐富，孩子們和大人都玩的很開心，沒有因為住宿問題而失望，這個價位也是物超所值[強][強]",
+      "author": "Guest User",
+      "date": "2025-08-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=17449849&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-17449849&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 10,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:09:25.281Z",
+  "source": "trip"
+}

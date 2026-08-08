@@ -1,0 +1,62 @@
+{
+  "id": 1725844,
+  "name": "Qinxin Pavilion",
+  "seedName": "Qinxin Pavilion",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1725844",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1725844&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1725844&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Qinxin Pavilion?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Jiangjiazhuang, Fatou Village, Fatou Township, Deqing, Zhejiang, 313202, China",
+  "priceRange": "From US$23",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/1725844/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/fd/hotel/g1/M08/90/86/CghzfVUryF6ATbH8ADRetCdjSV8355.jpg"
+    },
+    {
+      "src": "/images/stays/1725844/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200d180000013t5z1AA01.webp"
+    },
+    {
+      "src": "/images/stays/1725844/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/fd/hotel/g2/M0B/5B/75/Cghzf1UiEreAT8JXACDMTAofDtU210.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The hotel is located in a picturesque area of ​​the Moganshan Mountains. A river flows nearby and flows into a lake a little further on. It's perfect for relaxation.",
+      "author": "Viktor Arestov",
+      "date": "2025-05-15",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1725844&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1725844&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The most cost-effective guesthouse in Moganshan!!! Convenient for water activities and dining! The owner is very nice and gave us suggestions on sightseeing and dining! We will definitely stay here again! Accommodation: First impression: very clean (you need to change...",
+      "author": "Guest User",
+      "date": "2024-08-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1725844&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1725844&trip_sub3=D19127628"
+    },
+    {
+      "quote": "A relatively quiet place",
+      "author": "Guest User",
+      "date": "2025-04-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1725844&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1725844&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.8,
+    "count": 12,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:08:08.837Z",
+  "source": "trip"
+}

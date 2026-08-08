@@ -1,0 +1,76 @@
+{
+  "id": 1760450,
+  "name": "Mount Mogan Lanshe Mountain Villa (Boutique Hostel)",
+  "seedName": "Mount Mogan Lanshe Mountain Villa (Boutique Hostel)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1760450",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1760450&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1760450&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service Quality:Staff are attentive, friendly, and accommodating, with hosts and housekeepers described as warm, meticulous, and helpful. The service ensures a relaxed stay, with hosts offering guidance on local attractions and activities.(based on 7 reviews) Accommodation and Design:Rooms are designed with Zen-inspired simplicity and elegance, featuring comfortable facilities. The property maintains a clean, well-kept environment, with thoughtful touches like imported electric blankets and well-maintained common areas.(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service Quality",
+        "text": "Staff are attentive, friendly, and accommodating, with hosts and housekeepers described as warm, meticulous, and helpful. The service ensures a relaxed stay, with hosts offering guidance on local attractions and activities.",
+        "count": 7
+      },
+      {
+        "topic": "Accommodation and Design",
+        "text": "Rooms are designed with Zen-inspired simplicity and elegance, featuring comfortable facilities. The property maintains a clean, well-kept environment, with thoughtful touches like imported electric blankets and well-maintained common areas.",
+        "count": 2
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Yadanwu, Laoling Village, Moganshan, Deqing, Zhejiang, 313202, China",
+  "priceRange": "From US$123",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1760450/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205x120009i3jg4r8A76.jpg"
+    },
+    {
+      "src": "/images/stays/1760450/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205u120009i0dk49252D.webp"
+    },
+    {
+      "src": "/images/stays/1760450/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02034120009i0dq5lECCE.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "There's no owner, just one auntie. She's a nice, welcoming, and friendly person. But you know, with one auntie responsible for the entire B&B, cleaning, and hosting, it's a bit of a stretch. I think the B&B owner is understaffed....",
+      "author": "Guest User",
+      "date": "2025-08-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1760450&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1760450&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Want to tell the truth? There was no service at all. The breakfast was extremely simple, with a few white steamed buns, pickles (they were terrible), boiled eggs, and porridge. If you have high standards, then this is totally unacceptable....",
+      "author": "Guest User",
+      "date": "2024-10-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1760450&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1760450&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Super satisfied, quiet environment, pet-friendly!",
+      "author": "Guest User",
+      "date": "2024-04-14",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1760450&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1760450&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.2,
+    "count": 13,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:07:14.777Z",
+  "source": "trip"
+}

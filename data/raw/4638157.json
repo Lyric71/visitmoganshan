@@ -1,0 +1,68 @@
+{
+  "id": 4638157,
+  "name": "Mogan Yunyi Shanju Hotel",
+  "seedName": "Mogan Yunyi Shanju Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-4638157",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4638157&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4638157&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness:Multiple reviews confirmed the cleanliness of the accommodation, with specific mentions of tidy beds, a well-maintained environment, and the absence of pests in most cases. The host's attention to hygiene was also noted in several comments.(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness",
+        "text": "Multiple reviews confirmed the cleanliness of the accommodation, with specific mentions of tidy beds, a well-maintained environment, and the absence of pests in most cases. The host's attention to hygiene was also noted in several comments.",
+        "count": 3
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Shiyi Road, Laoling Village, Moganshan Town, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$46",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/4638157/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203y12000fv0uc2qA080.jpg"
+    },
+    {
+      "src": "/images/stays/4638157/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1re6m12000b87h4ih2D60.webp"
+    },
+    {
+      "src": "/images/stays/4638157/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205712000i2g1p1c3B64.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Nice location, friendly staff, but the bed was very hard, no housekeeping service…Bugs and insects in the room.",
+      "author": "Guest User",
+      "date": "2023-09-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4638157&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4638157&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The beds were clean and tidy and the bedroom was well ventilated. The facilities are relatively basic, but the price/performance ratio is quite good for a B&B in this location. It's close to the road and you can hear the...",
+      "author": "Guest User",
+      "date": "2024-06-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4638157&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4638157&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿位於莫干山角勞嶺水庫旁，前門是北岸咖啡，風景直看水庫以及遠處大片連綿羣山，滿眼的綠色。環境優美，設計的非常漂亮，院後背靠羣山，依山傍水。老闆及老闆娘非常熱情客氣，晚上吃個飯，分量絕對能趕上北方的水平，大氣，以後再來莫干山首選莫幹雲逸山居及北岸咖啡👍🏻👍🏻👍🏻",
+      "author": "Yangxiao🐟deyangda🐟",
+      "date": "2024-07-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4638157&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4638157&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9,
+    "count": 11,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:09:01.619Z",
+  "source": "trip"
+}

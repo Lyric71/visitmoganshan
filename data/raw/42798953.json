@@ -1,0 +1,68 @@
+{
+  "id": 42798953,
+  "name": "Quiet Mountain Boutique Homestay",
+  "seedName": "Quiet Mountain Boutique Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-42798953",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=42798953&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-42798953&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Environment:Situated in a tranquil rural area with natural scenery . Service Quality:Hosts are consistently described as warm, attentive, and accommodating, with personalized care for guests . Facilities & Activities:Features include a large, well-maintained swimming pool, on-site recreational activities . Culinary Experience:The host prepares flavorful, home-cooked meals using fresh, locally sourced ingredients, with specific praise for dishes like braised pork and lamb. Accommodation:Rooms are clean, spacious, and equipped with modern amenities . The property is described as family-friendly, offering a \"home-like\" atmosphere.",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Village Group 10, Chishan Village, Sanqiao, Fuxi Subdistrict, Deqing, Zhejiang, China",
+  "priceRange": "From US$304",
+  "facilities": [
+    "Billiards room",
+    "Cardroom",
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/42798953/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1q12000eih7q37A41C.jpg"
+    },
+    {
+      "src": "/images/stays/42798953/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0582a12000t00plej27D8.webp"
+    },
+    {
+      "src": "/images/stays/42798953/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2t12000eih84jf69D6.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "老闆娘非常客氣，各方面都非常滿意，期待下次入住",
+      "author": "Guest User",
+      "date": "2023-10-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=42798953&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-42798953&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿景觀很精緻，夜景也不錯，各種娛樂設施豐富，還有采摘和釣魚活動，老闆很熱情，服務周到，燒的菜有特色又美味，讓我們全家有賓至如歸的感覺。",
+      "author": "Guest User",
+      "date": "2024-05-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=42798953&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-42798953&trip_sub3=D19127628"
+    },
+    {
+      "quote": "老闆娘服務態度非常熱情周到，讓人感到賓至如歸。 老闆是大廚菜燒的特別好吃，新鮮的食材和精心製作的菜品讓人胃口大開，特別是紅燒肉入口即化、肥而不膩。 非常滿意的一次入住體驗，推薦!!!",
+      "author": "Guest User",
+      "date": "2024-06-30",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=42798953&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-42798953&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.3,
+    "count": 11,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:08:42.169Z",
+  "source": "trip"
+}

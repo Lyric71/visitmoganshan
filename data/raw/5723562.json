@@ -1,0 +1,64 @@
+{
+  "id": 5723562,
+  "name": "Hotel Yunshuige",
+  "seedName": "Hotel Yunshuige",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5723562",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5723562&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5723562&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Hotel Yunshuige?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 22, Lingkengli, Laoling Village, Moganshan Town, Deqing, Zhejiang, 313204, China",
+  "priceRange": "From US$71",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5723562/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200r16000000yvzar5E4A.jpg"
+    },
+    {
+      "src": "/images/stays/5723562/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200316000000yz8172D60.webp"
+    },
+    {
+      "src": "/images/stays/5723562/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200b16000000yzvfb6E92.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The location of the B&B is easy to find. After exiting the Laoling Tunnel, turn right and you'll be there a few hundred meters away. The small building is very recognizable, with a European-style building on the top. There are...",
+      "author": "Haichi",
+      "date": "2024-07-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5723562&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5723562&trip_sub3=D19127628"
+    },
+    {
+      "quote": "A very good B&B experience. The surrounding environment is beautiful. There is a large reservoir not far away. Every dish they cook is delicious. I especially recommend the pheasant and steamed bream from the reservoir. Their breakfast is also special....",
+      "author": "Gongjianfanrong",
+      "date": "2024-05-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5723562&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5723562&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿體驗很棒，非常熱情nice的一家人，老闆的廚藝太棒啦，吃到了很鮮美地道的農家菜，專門幫我們去抓的雞，手工粽子更是我們吃過的最美味的粽子，這麼熱的天辛苦啦，以後有時間了還會來的哦",
+      "author": "Guest User",
+      "date": "2026-08-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5723562&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5723562&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 11,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:08:21.437Z",
+  "source": "trip"
+}

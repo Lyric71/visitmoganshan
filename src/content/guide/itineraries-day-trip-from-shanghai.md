@@ -91,6 +91,10 @@ Based in Hangzhou? Different trip, much easier. Hangzhou East to Deqing is 13 to
 
 ![A half empty station platform at midday with a train waiting and doors open](/images/guide/itineraries-day-trip-from-shanghai-4.webp 'From Hangzhou the same day is far easier. Thirteen minutes of train instead of an hour.')
 
+Book it off the [live Hangzhou East to Deqing timetable](/go/trains-hangzhou-deqing/). On a day trip the departure you want is the earliest one you will actually make, since everything after it is decided by the shuttle.
+
+> We may earn a commission if you book through that link, at no cost to you. [How this site is funded](/plan/disclosure/).
+
 That short train puts the early shuttles back in reach. We hold no departure times for individual services, so read the shape, not the clock.
 
 | Time | What you are doing |
