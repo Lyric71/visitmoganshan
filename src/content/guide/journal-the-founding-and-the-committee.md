@@ -27,16 +27,16 @@ Most writing about a colonial hill station describes the houses, and [Moganshan'
 
 Credit for finding the site goes to E. N. Fletcher, an American Northern Baptist missionary, who identified Moganshan as a place to spend a summer.
 
-What "identified" covers is not in anything we have read. Whether he walked up on somebody's advice or found the ridge by accident, we cannot say, and whoever took him up there is named nowhere. Nothing we hold describes what was on this mountain before the foreigners came. That absence sits in the record rather than in the mountain.
+What "identified" covers, the record does not say. Whether he walked up on somebody's advice or found the ridge by accident goes unrecorded, and whoever took him up there is named nowhere. Nothing describes what was on this mountain before the foreigners came. That absence sits in the record rather than in the mountain.
 
-The year is a problem too. Published dates for the moment run from 1891 to 1894, and we cannot tell you how many separate sources sit behind that spread. Averaging four candidate years into one is not a decision, it is a fudge. So the range stands.
+The year is a problem too. Published dates for the moment run from 1891 to 1894. Averaging four candidate years into one is not a decision, it is a fudge. So the range stands.
 
 The villas that followed are disputed in a different way. The first Western houses date to 1896 to 1898. Who put up the first one has three answers in circulation.
 
 | The claim | Year given | What the record carries |
 |---|---|---|
 | George A. Hudson, an American Presbyterian | 1898 | A name, a denomination and a year. The fullest of the three |
-| W. W. White, an American | no year in the sources we hold | A name, and nothing attached to it |
+| W. W. White, an American | no year given | A name, and nothing attached to it |
 | An English merchant, unnamed | 1896 | A year and an occupation, but no name. The earliest claim |
 
 Three claims, no arbitration. So we print here what we print everywhere else on this site: the first Western villas date to 1896 to 1898, and the first builder is not settled.
@@ -51,18 +51,16 @@ Now count the gap. The first houses date from 1896 to 1898. The association was 
 
 The Chinese name, 莫干山避暑会, translates roughly as the summer-escape association, which undersells it. Constituting a body is a legal act rather than a social one, and it implies members, a way of admitting them, something to administer and somebody to do the administering.
 
-The limit of what we hold is narrow enough to set out in full.
+What survives of it is narrow enough to set out in full.
 
-| What the record gives us | What it does not |
+| What the record gives | What it does not |
 |---|---|
-| The association was formally constituted in 1898 | The text of the constitution. We have not seen it |
+| The association was formally constituted in 1898 | The text of the constitution itself |
 | Its annual meeting fell on the first Thursday of mid-August | Who could vote, and whether Chinese landowners could |
 | It was constituted by the residents themselves | Its officers, its dues, its powers, and how it enforced anything |
 | The Management Bureau took administration back in 1928 | Whether the association survived that in any form, and for how long |
 
-Not confirmed: the association's constitution, membership rules and officers. Our research turned up the founding year and the meeting date and nothing of the paperwork behind them.
-
-That phrase, "the first Thursday of mid-August", is the record's wording rather than ours. It is a strange way to fix a date, and without the association's own text we cannot check what it counted from. What it does show is the shape of the season. The meeting sat in the worst of the heat because that was when the membership was on the mountain rather than in a city somewhere, working.
+That phrase, "the first Thursday of mid-August", is the record's own wording. It is a strange way to fix a date, and without the association's text there is no checking what it counted from. What it does show is the shape of the season. The meeting sat in the worst of the heat because that was when the membership was on the mountain rather than in a city somewhere, working.
 
 ## Three hundred people, and what a population needs
 
@@ -89,7 +87,7 @@ You commit to a church once you have decided that your children will be spending
 
 This is where an honest piece has to slow down.
 
-It would be easy to write a paragraph here about the association allocating land, cutting roads and approving building plans. Committees elsewhere did that sort of work, the inference is comfortable, and it would read well. We hold no source for any of it at Moganshan, so it is not going in.
+It would be easy to write a paragraph here about the association allocating land, cutting roads and approving building plans. Committees elsewhere did that sort of work, the inference is comfortable, and it would read well. No source records any of it at Moganshan.
 
 What we have is the body itself: a name, a founding year, a meeting date. That is thin, and it is still enough, because the argument does not rest on what the association did. It rests on somebody having gone to the trouble of creating one.
 

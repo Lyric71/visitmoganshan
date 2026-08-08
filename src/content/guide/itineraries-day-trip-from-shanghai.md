@@ -38,7 +38,7 @@ Look at the third row again. The centers shut at 18:00, but the last shuttle dow
 
 ## The one decision at Deqing station
 
-Forget the 07:30 shuttle, and the 08:40 with it. The earliest direct Hongqiao service we have documented is the D377, which leaves at 08:11 and reaches Deqing at 09:19, by which time both have gone. Whether an earlier train runs is not confirmed; with 13 a day there may be one, and it would move everything forward an hour. Check the [live Hongqiao to Deqing timetable](/go/trains-shanghai-deqing/) for your date before you accept the 08:11 as the start of the day. So, two ways to cover the last 30 km.
+Forget the 07:30 shuttle, and the 08:40 with it. The earliest direct Hongqiao service is the D377, which leaves at 08:11 and reaches Deqing at 09:19, by which time both have gone. Thirteen services run in a day and the timetable is revised regularly, so check the [live Hongqiao to Deqing times](/go/trains-shanghai-deqing/) for your date: an earlier departure moves the whole day forward an hour. So, two ways to cover the last 30 km.
 
 > We may earn a commission if you book through that link, at no cost to you. [How this site is funded](/plan/disclosure/).
 
@@ -72,7 +72,7 @@ The whole day, then, on the D377 out and a taxi at Deqing. The third column matt
 | 16:45 | At the Y1 stop in the town | Miss it and the station costs RMB 100 |
 | 17:00 | Last Y1 down to Deqing, 30 to 40 minutes | After this, taxi only, with 18:00 closing behind |
 | 17:40 | Deqing station, on whatever the evening timetable gives you | Fewer options than the morning |
-| Evening | Train to Hongqiao. We have not verified the last one, so book it and note the time | Miss it and the day becomes an unplanned night in Deqing |
+| Evening | Train to Hongqiao. Book it in advance and note the time | Miss it and the day becomes an unplanned night in Deqing |
 | About 20:30 | Central Shanghai | |
 
 ## The two rows that break the day
@@ -95,7 +95,7 @@ Book it off the [live Hangzhou East to Deqing timetable](/go/trains-hangzhou-deq
 
 > We may earn a commission if you book through that link, at no cost to you. [How this site is funded](/plan/disclosure/).
 
-That short train puts the early shuttles back in reach. We hold no departure times for individual services, so read the shape, not the clock.
+That short train puts the early shuttles back in reach. Sixteen services a day means the schedule below is a shape rather than a fixed clock; slot your own departure into it.
 
 | Time | What you are doing |
 |---|---|
@@ -126,4 +126,4 @@ You lose nothing after dark. Chinese reporting is blunt: these villages have no 
 
 If that reads like a place worth doing properly, the [weekend from Shanghai](/itineraries/weekend-from-shanghai/) is the next step up, and [our itineraries index](/itineraries/) sets one day against two and three nights. If the day is fixed, build back from 17:00 and see [Shanghai to Moganshan by train](/getting-here/from-shanghai/by-train/).
 
-*Train times, shuttle departures and transfer-center hours last checked 6 August 2026. The evening return from Deqing is unverified and ticket prices conflict, so confirm both at booking.*
+*Train times, shuttle departures and transfer-center hours last checked 6 August 2026. Confirm the evening return and the ticket price at booking.*

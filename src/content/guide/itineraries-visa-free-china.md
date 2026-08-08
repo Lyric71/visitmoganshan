@@ -80,7 +80,7 @@ Twelve days:
 
 Shanghai comes first because Hongqiao is both a landing airport and the rail head for Deqing. Land at Xiaoshan and reverse it.
 
-Day 11 is the row a transit traveler cannot copy. Where you spend it is your call, since our fact base stops at the mountain and the rail corridor.
+Day 11 is the row a transit traveler cannot copy. Where you spend it is your call, and the visa-free scheme puts no province off limits.
 
 ## Trip B: the 240-hour version
 

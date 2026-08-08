@@ -29,8 +29,6 @@ Moso (毛竹, maozhu) is the big timber bamboo of eastern China. Stems thick eno
 
 The result is a strange kind of woodland. Most of the volume above you is empty. The green is up in the canopy, the trunks are bare poles, and at ground level you can often see a long way between them. Sunlight arrives already colored.
 
-Not confirmed: typical mature height and annual growth rate for moso at Moganshan's elevation. We have not found a figure we trust for this mountain.
-
 ## It is a crop, not a park
 
 This matters more than anything else on the page. The bamboo on Moganshan is a working commercial crop. It is not landscaping, and nobody planted it for your photograph.

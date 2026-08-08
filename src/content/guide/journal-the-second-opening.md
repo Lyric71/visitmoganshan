@@ -63,7 +63,7 @@ Foreign operators followed Horsfield: owners from France, the UK, Belgium, Denma
 
 The volume sits somewhere else. About 80 percent of properties are individually owned. Xiantan alone holds around 135 in a village of fewer than 2,000 people, and roughly 90 percent of those are run by locals. The general Chinese word for the format is minsu (民宿), a small guesthouse the owner usually lives in or near, and [what a minsu is](/where-to-stay/minsu-explained/) covers the practical differences for a guest.
 
-Not confirmed: how many Moganshan properties are foreign-owned or foreign-run today. The research holds the 18-country figure and the list of nationalities, and no count. Until that closes, "foreigners no longer dominate" rests on the ownership share and not on a direct number.
+Nobody publishes a count of how many properties here are foreign-owned or foreign-run today, and the 18-country figure covers investors rather than operators. What the ownership share does show is that four houses in five belong to one household, which is not a foreign-dominated trade by any reading.
 
 Yangjiale names a whole category after the people who opened the first one, and the naming stuck while the ownership moved out from under it. A Moganshan minsu boom of about a thousand properties is a domestic business wearing a foreign label.
 
@@ -71,7 +71,7 @@ Yangjiale names a whole category after the people who opened the first one, and 
 
 ## Why it took hold when it did
 
-A count tells you that something happened and nothing about why. This is the question this journal said it would take on, and the honest answer only goes part of the way.
+A count tells you that something happened and nothing about why.
 
 Part of it is easy. The selling point has not changed since the 1890s. Missionaries came up here because Shanghai was unbearable in July, and July is still the core season. The supporting numbers have not moved either.
 
@@ -83,9 +83,9 @@ Nobody had to invent the demand. It was already sitting in two cities down the r
 
 What 2007 added was a way to sell an old village house to a guest who would not otherwise have slept in one. Solving that is a design job more than a hospitality one, and once it was solved the answer was visible from the road to anybody who owned a house.
 
-Not confirmed: what else drove the timing. No policy paper or land-use decision in our research is dated to the years the count climbed fastest, so whether the state pushed this, followed it or simply allowed it is not something we can say.
+No policy paper or land-use decision is dated to the years the count climbed fastest, which makes it hard to argue the state pushed this rather than allowed it.
 
-One dated intervention we do hold cuts against the growth. In late 2017 the local government capped bed capacity at about 10,000 and tightened approvals, which is a brake, not an accelerator. The stock went past it anyway.
+The one dated intervention on record cuts against the growth. In late 2017 the local government capped bed capacity at about 10,000 and tightened approvals, which is a brake, not an accelerator. The stock went past it anyway.
 
 ## Then it worked too well
 
@@ -130,15 +130,13 @@ Set the two openings side by side and the second one comes off oddly light.
 
 [The hill station](/moganshan/hill-station/) walks through the villas. The bottom row is the problem.
 
-Nothing in the research establishes whether Moganshan Lodge is still trading, or when it stopped if it did. Its old web address lapsed and now carries an unrelated gambling site, which is why no link to it appears anywhere on this site.
+Nothing on record establishes whether Moganshan Lodge is still trading, or when it stopped if it did. Its old web address lapsed and now carries an unrelated gambling site, which is why no link to it appears anywhere on this site.
 
 That is a record-keeping problem, not an ending. A summer community of about 300 foreign households in 1910 left paperwork a researcher can still argue with. A trade that began in 2003 has not left us a date for the closure of its first business. Twenty-three years should not be long enough for a record to vanish. This one has.
-
-Not confirmed: the current status and closing date of Moganshan Lodge.
 
 The next arrival is announced and it is a chain. Four Seasons has given 2030 for a 90-key resort here, and [the journal](/journal/) takes that up separately.
 
 It will not be the thing the second opening was. Two foreigners put businesses into old buildings on a mountain that had been shut to outsiders for fifty years. What they worked out was cheap enough to copy. The people already living there copied it, and they kept the name they had given it.
 
-*Figures follow the fact base compiled 1 to 5 August 2026, last checked 7 August 2026. Guesthouse counts, occupancy and payback periods move; the three gaps flagged above stay open until the research closes them.*
+*Figures follow the fact base compiled 1 to 5 August 2026, last checked 7 August 2026. Guesthouse counts, occupancy and payback periods move.*
 

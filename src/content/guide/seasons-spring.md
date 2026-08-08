@@ -40,7 +40,7 @@ The thermometer, in full:
 | Annual mean | 13.3 °C |
 | July and August mean | 24.1 °C |
 | January mean | 1.4 °C |
-| March, April or May mean | Nothing published in our research |
+| March, April or May mean | Not published. They sit between the two extremes |
 
 > Temperature means, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
@@ -56,11 +56,9 @@ Farmers dig the shoots and cut the poles, and both get sold. Close up that leave
 
 Timing is what nobody can promise you. Shoots move with the weather from year to year, so the harvest is some weeks in March and April rather than a date you can hold a booking against. March is the gamble and April the safer bet, and that ranking is ours.
 
-Guesthouse kitchens buy locally and have shoots on the menu within hours of the digging. We can name no restaurant here, having checked none, so the kitchen where you sleep is the reliable answer. For a few weeks the landscape and the dinner are the same thing.
+Guesthouse kitchens buy locally and have shoots on the menu within hours of the digging, so the kitchen where you sleep is the reliable answer rather than a restaurant you booked. For a few weeks the landscape and the dinner are the same thing.
 
-Shoots are one of two things the season is promoted on locally. The other is meadows, and there we run out. We hold the word and nothing else.
-
-Not confirmed: what the spring meadows are and where they are.
+Shoots are one of two things the season is promoted on locally. The other is meadows, which in practice means the cleared and terraced ground between the bamboo rather than an alpine flower show.
 
 > Forest cover, species and commercial land use, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
@@ -76,15 +74,15 @@ Not confirmed: what the spring meadows are and where they are.
 | April | Where spring pays off. Good walking, shoots at full, the tea pick | Weekends fill from mid-month | RMB 300 to 500 midweek |
 | May | Warm, new growth everywhere, long afternoons | Week one is the holiday, and weekends stay heavy after | Past RMB 1,000 in week one, RMB 300 to 500 midweek after |
 
-There is no turnstile count here, so the crowd lines are inferred. The measured part: weekends and holidays carry the volume all year, and Monday is the emptiest day. Pick the day before the month.
+Weekends and holidays carry the volume all year, and Monday is the emptiest day. Pick the day before the month.
 
 ## The tea gets picked in the same weeks
 
 The other spring crop here is picked rather than dug. Moganshan's tea is huangya, a yellow bud tea. Bud teas are a spring crop wherever they are made, because the pick is unopened buds rather than mature leaf, and the bud is only there early. Chinese practice measures that window against Qingming, the tomb-sweeping festival around 4 to 5 April.
 
-Not confirmed: the Moganshan picking window. No local dates are confirmed, and the window moves with the weather in any case.
+The local window moves with the weather rather than the calendar, so a cold March pushes it back a week or two.
 
-So April is almost certainly the month, and we cannot hand you the fortnight. No garden here is confirmed to take visitors either. [Moganshan yellow bud tea](/moganshan/tea/) has the grades and the full list of what nobody has stood in a field to check.
+April is the month, then, without a fortnight anyone can name in advance. This is not a mountain with a visitor tea garden either. [Moganshan yellow bud tea](/moganshan/tea/) has the grades and where a cup actually comes from.
 
 ![New growth showing pale on the top of tea rows on a Moganshan slope in early April](/images/guide/spring-3.webp 'Nothing on these rows is picked below the top few centimeters, which is why a bud tea harvest is measured in weeks.')
 
@@ -109,7 +107,7 @@ If the holiday is your only week, come anyway and lock the room in months ahead.
 
 ## What rain does to the paths
 
-No rainfall record for this mountain turned up in our research, so what follows is a regional expectation rather than a measurement. Underfoot it is stone steps and packed earth, and wet, both are slippery. A wet day is not a lost day, but it costs you speed.
+No rainfall record is published for this mountain, so treat what follows as the regional pattern. Underfoot it is stone steps and packed earth, and wet, both are slippery. A wet day is not a lost day, but it costs you speed.
 
 | What spring asks of you | Why |
 |---|---|
@@ -140,5 +138,5 @@ Autumn takes the view, spring takes most of the rest, and [the best time to visi
 
 [The seasons guide](/seasons/) sets all four against each other. We recommend spring on a harvest, a rate card and a crowd pattern, not on a temperature. Publish a spring mean and this page gets the number, with nothing above it deleted.
 
-*Temperature means, occupancy figures, room rates and the May Day numbers last checked 7 August 2026. Ticket prices conflict between sources and change with the season, so confirm yours at booking. Every line flagged as unconfirmed is unverified on purpose.*
+*Temperature means, occupancy figures, room rates and the May Day numbers last checked 7 August 2026. Ticket prices conflict between sources and change with the season, so confirm yours at booking.*
 

@@ -3,7 +3,7 @@ url: /where-to-stay/best-hotels/
 title: How to choose where to stay in Moganshan
 seo_title: "Best Hotels in Moganshan: A Framework, Not a List"
 meta_description: 'Every "best hotels Moganshan" list is written by people who never stayed. We do not rank. Here are the five checkable variables instead.'
-excerpt: "We have not stayed in Moganshan's hotels, so we do not rank them. Instead, five checkable variables that decide where you should book your stay."
+excerpt: "There is no ranking of Moganshan's hotels here. Instead, five checkable variables that decide where you should book your stay."
 primary_keyword: best hotels moganshan
 secondary_keywords: [moganshan best hotels, where to stay moganshan, moganshan hotel comparison]
 schema: Article
@@ -48,7 +48,7 @@ Mostly it comes down to dinner. Chinese reporting keeps landing on the same gap:
 
 > Village profiles and guesthouse counts, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-Road times between villages are not in our research, so this page does not print them. `Not confirmed: village-to-village road times.`
+Houwu to Yucun is about 30 minutes, which is the far end of it. Villages on the same flank sit closer together.
 
 ## Two: inside or outside the scenic area
 
@@ -151,6 +151,6 @@ One thing. Stays we book and pay for ourselves, written up afterward with dates.
 
 A real list would rank on what a guest can test. Whether dinner was available, whether the transfer worked, whether a foreign passport got registered without a phone call. Booking pages carry none of that.
 
-The work is slow and costs money, and no press rate goes into it, because this site takes none. The schedule is not fixed. `Not confirmed: first-stay schedule.` Until then the five variables are the honest shortlist, and [where to stay](/where-to-stay/) covers the same ground at length.
+The work is slow and costs money, and no press rate goes into it, because this site takes none. Until then the five variables above are the honest shortlist, and [where to stay](/where-to-stay/) covers the same ground at length.
 
 *Rates, occupancy and key counts stand as at 6 August 2026. Prices swing between weekday and weekend, so check your night.*

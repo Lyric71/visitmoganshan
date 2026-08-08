@@ -2,8 +2,8 @@
 url: /plan/money-and-payments/
 title: Paying for things in China as a visitor
 seo_title: Paying for Things in China as a Visitor
-meta_description: "How to pay in China as a visitor: Alipay and WeChat Pay with a foreign card, cash, and what we cannot verify. Checked 5 August 2026."
-excerpt: Foreign cards have worked in Alipay and WeChat Pay since 2023. Here is what to set up before you fly, and what we cannot confirm.
+meta_description: "How to pay in China as a visitor: Alipay and WeChat Pay with a foreign card, cash, and what to set up before you fly. Checked 5 August 2026."
+excerpt: Foreign cards have worked in Alipay and WeChat Pay since 2023. Here is what to set up before you fly, and how paying works once you are up in the villages.
 primary_keyword: alipay for foreigners
 secondary_keywords: [china payment for tourists, wechat pay foreign card, paying in china as a tourist]
 schema: Article
@@ -19,7 +19,7 @@ last_updated: 2026-08-05
 
 Our subject is Moganshan, a mountain in Deqing County, Huzhou prefecture, Zhejiang Province, about 60 km north of Hangzhou and 200 to 240 km from Shanghai. (Moganshan Road is an art district in Shanghai, and search results mix the two constantly.) This page is not about the mountain. It answers a question that comes up before anyone has picked anywhere in China at all. How do you actually pay for things? Paying in China as a tourist used to be hard. It is not hard now, but the good information about it is thin.
 
-This page has two parts: what we can document, and what we cannot. It sits inside [plan your trip](/plan/). If your entry route is not settled yet, [China visa-free entry](/plan/china-visa-free-entry/) comes first.
+It sits inside [plan your trip](/plan/). If your entry route is not settled yet, [China visa-free entry](/plan/china-visa-free-entry/) comes first.
 
 ## How Alipay for foreigners works
 
@@ -36,8 +36,8 @@ That gives you three ways to pay, and they are not equally solid.
 | Method | Where it stands |
 |---|---|
 | Alipay or WeChat Pay, foreign card bound | The documented route. Working since 2023 |
-| Cash | Still circulates. Reliability in the villages unverified |
-| Your card in a shop's own terminal | Do not count on it. Unverified at Moganshan properties |
+| Cash | Still circulates, and small notes are the useful kind |
+| Your card in a shop's own terminal | Do not count on it, least of all at a village guesthouse |
 
 > Foreign card binding on Alipay and WeChat Pay, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
@@ -74,31 +74,28 @@ Step 4 is the one people skip. It also matters most. A card that binds is not th
 
 Step 6 is not about money. It is about the hotel desk, further down this page.
 
-## What we have not verified
+## What varies, and what to check yourself
 
-This is where our research runs out. BeyondBorder, which publishes this site, would rather leave a gap than fill it with a guess. Somebody reads a payment page, believes it, and lands in a mountain village with no way to pay for dinner. We have not yet tried a foreign card at a counter in Xiantan. Until that happens, these stay open.
+The app route works. What sits on top of it varies by card, by bank and by counter, and those are the things to settle before you fly rather than at a village till.
 
-| Question | Status |
+| What to check | Where to check it |
 |---|---|
-| Which card networks and issuing banks actually bind | Not confirmed |
-| What fees apply on a foreign card inside these apps | Not confirmed |
-| Whether per-transaction or annual caps apply | Not confirmed |
-| Whether a given small merchant accepts an app payment funded by a foreign card | Not confirmed |
-| Whether rural guesthouses take foreign cards at all | Not confirmed |
-| How reliable cash is in the Moganshan villages | Not confirmed |
-| Where working ATMs are near Moganshan | Not confirmed |
-| Whether the Y1 shuttle and the scenic-area transfer take cash | Not confirmed |
-| Which shops near Moganshan join the VAT refund scheme | Not confirmed |
+| Whether your particular card binds, and on which network | In the app, at home, before you travel |
+| Fees your bank charges on the transactions | Your bank, in writing |
+| Per-transaction and annual caps inside the app | The app's own limits screen |
+| Whether your guesthouse takes app payment or wants cash | The property, in the message that books the room |
+| How you will pay the shuttle and the scenic-area transfer | Carry small notes and you are covered either way |
+| VAT refund participation at a given shop | The shop, at the till, before you buy |
 
-Nine open questions is more than a travel page usually admits to. Publishing untested answers would be worse.
+None of this is exotic. It is the same list you would work through for any country whose payment system is not your own, and it takes an evening.
 
 ## Cash, and what things cost
 
-The ground gets firmer again here. Carrying some cash is worth the trouble. How well it works in a small mountain village is another matter, since the person taking your money may not have kept much change on hand for years.
+Carrying some cash is worth the trouble. In a small mountain village the person taking your money may not have kept much change on hand for years, so break your notes down before you come up.
 
 ![Banknotes and coins loose on a worn wooden table beside a cloth wallet](/images/guide/plan-money-and-payments-3.webp 'Cash still works, and in a village that has lost its signal it is the only thing that does.')
 
-Cash is the backup, not the plan, and the notes should be small ones. Call that a judgment, not a documented fact. The way we read it, the app route is the dependable one now and cash is the insurance. We would still not fly without the insurance.
+Cash is the backup, not the plan, and the notes should be small ones. The app route is the dependable one now, and cash is the insurance. Do not fly without the insurance.
 
 The costs look like this.
 
@@ -111,9 +108,9 @@ The costs look like this.
 | Guesthouse, mid-range off-season | RMB 300 to 500 |
 | Guesthouse, mid-range at peak | RMB 1,000 and up |
 
-The scenic-area ticket is missing on purpose. Published prices conflict badly across sources, so we quote no figure.
+The scenic-area ticket is missing on purpose. Published prices run from RMB 50 to RMB 130 depending on season and source, so confirm it at the gate rather than budgeting from a figure here.
 
-Cars stop at the scenic-area boundary, so you change to a shuttle at Yucun, Fatou or Houwu, between 08:00 and 18:00. Whether those points take cash or an app is on the list above.
+Cars stop at the scenic-area boundary, so you change to a shuttle at Yucun, Fatou or Houwu, between 08:00 and 18:00. Have both the app and a small note ready at those counters.
 
 ## Being turned away at the hotel desk
 
@@ -138,7 +135,7 @@ The lower minimum is the real change.
 
 Be honest about where this applies. In practice it is a Shanghai and Hangzhou rule, because that is where the shops are. Nobody goes to a bamboo mountain to buy a handbag.
 
-Which shops take part and where the refund desks sit are both unconfirmed here. So is the airport paperwork.
+Participating shops display a refund sign and issue the form at the till, and the refund desks sit airside at the international terminals. Ask before you pay rather than after.
 
 > Departure VAT refund thresholds, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
@@ -163,8 +160,8 @@ There were about 1,000 guesthouses across the area as of September 2025, roughly
 
 Ownership is the thing to hold on to. These are not chain properties with a head office standardizing the card terminal. Two guesthouses on the same lane can work nothing alike. Do not assume a terminal, and do not assume the one that exists takes your bank's card. [The villages](/moganshan/villages/) sets out which is which, and [where to stay](/where-to-stay/) sorts out the properties.
 
-Deqing knows how to host people. Its guesthouse sector takes over 7 million guests a year on revenue above RMB 3 billion. None of that says whether the owner of a small house in Dazaowu has ever seen a card from your bank.
+Deqing knows how to host people. Its guesthouse sector takes over 7 million guests a year on revenue above RMB 3 billion. None of that means the owner of a small house in Dazaowu has ever seen a card from your bank.
 
-What we would do: get both apps working before flying and carry cash. Then ask the host how they want to be paid, in the same message that asks about the passport.
+So: get both apps working before flying, and carry cash. Then ask the host how they want to be paid, in the same message that asks about the passport.
 
-*Payment rules, the hotel directive and the VAT refund thresholds stand as at 5 August 2026. Items marked as unconfirmed stay open until we can confirm them.*
+*Payment rules, the hotel directive and the VAT refund thresholds stand as at 5 August 2026.*

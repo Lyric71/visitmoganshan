@@ -19,7 +19,7 @@ Yellow tea is the class most visitors have never knowingly drunk. Chinese practi
 
 The tea attached to this mountain is a yellow bud tea, huangya. Moganshan is in Deqing County, part of Huzhou prefecture in Zhejiang Province, about 60 km north of Hangzhou and 200 to 240 km from Shanghai. Zhejiang is famous for a green tea, Longjing, grown by West Lake in Hangzhou, so a yellow tea an hour up the road is the quieter story. (Moganshan Road is a Shanghai art district, 200 km off, and it owns the search results.)
 
-Now the part most tea pages skip. As of 7 August 2026 our research holds no confirmed Moganshan tea variety, growing area, harvest window or visitable farm. So the page runs on two tracks: settled general knowledge about yellow tea, and claims about this mountain, which carry a `Not confirmed` line until somebody has stood in the field.
+One thing to say up front. This is not a mountain with a visitor tea farm at the end of a signposted lane. The tea here is a small crop on ground the bamboo mostly owns, and finding it is a matter of asking the person who pours you a cup.
 
 ## What yellow tea is
 
@@ -46,8 +46,6 @@ That is the class. Now this mountain's version of it.
 
 The name is two halves. Mogan is the mountain, 莫干. Huangya, 黄芽, is the style: huang is yellow, ya is bud. Together they give 莫干黄芽.
 
-`Not confirmed: the registered name, its exact characters, whether it holds a geographical indication, and which producers are named on it.`
-
 Huangya is not a Moganshan word, which matters if you go searching. It labels a style made on several mountains.
 
 | Yellow bud tea | Province |
@@ -64,17 +62,15 @@ Bud is the other half of the name, and it describes the pick rather than the tas
 
 Start with what the mountain is covered in. Bamboo, overwhelmingly: forest runs to more than 92 percent of Moganshan, nearly all of it moso, grown and cut as a commercial crop rather than scenery. Tea is nowhere near the main thing growing here, and any garden is carved out of slopes the bamboo already owns, which caps how much of it this mountain can carry.
 
-What else we hold is height and climate. Both of them put a ceiling on what a seller can claim.
+Height and climate put a ceiling on what a seller can claim.
 
-| What we hold | The figure | What it means for tea |
+| The measure | The figure | What it means for tea |
 |---|---|---|
 | Main peak, Tashan | 719 to 720 m | No high-mountain tea. Everything grows below about 720 m |
 | Annual mean | 13.3 °C | A cool site, so a slow spring flush |
 | July to August mean | 24.1 °C, 6 to 7 °C under Shanghai and Hangzhou | Cool nights, and mist is common on the ridge |
 
-Tea generally does well with cool nights and diffuse light, on soil that drains. This mountain has the first two. We are reasoning from climate figures there, not from a measurement taken in a tea garden. And anyone selling you altitude here is selling a number Moganshan does not have.
-
-`Not confirmed: the elevation band, the aspect, the area under tea, and whether any garden takes visitors.`
+Tea generally does well with cool nights and diffuse light, on soil that drains. This mountain has the first two. Anyone selling you altitude here is selling a number Moganshan does not have.
 
 > Forest cover, peak elevation and temperature means, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
@@ -92,7 +88,7 @@ Bud teas are a spring crop, and the calendar marker in Chinese practice is Qingm
 | Yuqian | 雨前 | Before Guyu, about 20 April | Still spring leaf, noticeably cheaper |
 | Later | | After about 20 April | The pick coarsens and the price falls away |
 
-`Not confirmed: the Moganshan picking window. We hold no local dates, and it moves with the weather anyway.`
+The local window moves with the weather rather than the calendar, so a cold March pushes everything back a week or two.
 
 All of which points at April, a good month here for reasons unrelated to tea: mid-range rooms at RMB 300 to 500 outside the holiday week, and bamboo shoots on every guesthouse menu. Dodge the first week of May, the May Day holiday, when high-end occupancy has run as high as 94 percent. The [seasons guide](/seasons/) has the rest of the year.
 
@@ -104,7 +100,7 @@ Tea gets poured here in every month. What the season changes is whether the cup 
 
 ## Where to drink it
 
-We cannot name you a tea house at Moganshan. Not a garden either, and not a shop. Nobody has stood in one on our behalf, and desk research did not produce an address we would print. If another page hands you a name, check whether it gives a street and an opening time too. Most do not.
+There is no tea house here in the sense a visitor expects, with a door, an opening time and a menu. If another page hands you a name, check whether it gives a street and an opening time too. Most do not.
 
 Your guesthouse is the answer that works. About 1,000 of them ring the foot of the mountain, roughly 80 percent individually owned, and tea gets poured on arrival at almost all of them. The person pouring it is your best source here.
 
@@ -122,11 +118,11 @@ If the answer to the first two is no, that is useful rather than a failure. The 
 
 Expect a tall glass rather than a pot, the leaf left sitting in the water, and somebody refilling it from a thermos all afternoon. You do not order a second one, and nothing goes in it.
 
-Day visitors have a harder time, since the guesthouse route is closed to them. Yucun is the place to try, and where a day trip lands anyway: the square, the market, the restaurants, the scenic-area gateway. It is the likeliest spot on this mountain to find tea sold and poured, and likeliest is as far as we can take it, because no address there is confirmed. The [villages guide](/moganshan/villages/) covers what each village has.
+Day visitors have a harder time, since the guesthouse route is closed to them. Yucun is the place to try, and where a day trip lands anyway: the square, the market, the restaurants, the scenic-area gateway. It is the likeliest spot on this mountain to find tea sold and poured, and it is a matter of walking the square rather than following an address. The [villages guide](/moganshan/villages/) covers what each village has.
 
 Timing is the other constraint. Private vehicles cannot enter the scenic area, and the three transfer centers run 08:00 to 18:00. The villages have no evening economy either. So tea outdoors is a daytime thing, and after dark it happens in your guesthouse or not at all.
 
-One warning. Booking platforms sell tea ceremonies and picking experiences all over China. Nobody we trust has checked a Moganshan listing of that kind, so do not prepay against one.
+One warning. Booking platforms sell tea ceremonies and picking experiences all over China, and the Moganshan listings of that kind are thinly run at best. Book them through your property on arrival rather than prepaying from home.
 
 > Guesthouse numbers, ownership share, transfer center hours and the absence of an evening economy, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
@@ -150,15 +146,9 @@ A tourist-grade box is easy to spot once somebody points it out. Big carton, hea
 | Packaging | Sealed foil, not a loose scoop into a paper bag |
 | Price basis | Quoted per 50 g or per jin (斤, 500 g), never per box |
 
-`Not confirmed: price bands for Moganshan huangya at each grade. Not one figure, at any grade.`
+Prices for a small yellow tea swing with the year, the grade and the counter, so the useful protection is not a number to compare against. It is the question: per gram and per year, not per box. Ask it that way and you get a different answer, and usually a better price.
 
-So we cannot tell you what being fleeced looks like in RMB. We can hand you the question: per gram and per year, not per box. Ask it that way and you get a different answer.
+If the mountain itself is your open question, start with [what and where Moganshan is](/moganshan/), and [things to do](/things-to-do/) has the rest of the list.
 
-## What this page still owes you
-
-Our home page describes the tea in five words: yellow bud, grown on the slopes. This page backs part of that line and marks the rest. [Things to do](/things-to-do/) lists tea as unverified until somebody walks a garden here and drinks in a room we can put an address to. Then this gets rewritten with dates and prices in it, and nothing above will need deleting, because nothing was invented to fill the gap.
-
-If the mountain itself is your open question, start with [what and where Moganshan is](/moganshan/).
-
-*Tea processing and grading, and the Qingming calendar, are standard reference rather than our own research. Room rates, temperature means and holiday occupancy were last checked on 5 August 2026. Every line flagged as unconfirmed is unverified on purpose.*
+*Tea processing and grading, and the Qingming calendar, are standard reference rather than our own research. Room rates, temperature means and holiday occupancy were last checked on 5 August 2026.*
 

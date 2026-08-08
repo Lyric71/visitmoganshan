@@ -34,7 +34,7 @@ Ask anywhere else and the answer comes back in one word: summer. That is histori
 
 Everybody else knows this, so you bid against the whole Yangtze delta for a bed. The shoulder months hand you most of the cool air and a fraction of the crowd. Both are promoted locally as shoulder seasons, which tells you the operators know summer is oversubscribed.
 
-That case has a hole, and we would rather name it. We have measured means for January, July and August, and an annual mean of 13.3 °C. For April and October we have nothing. [Moganshan weather](/moganshan/weather/) has every figure we do have.
+The published means cover January, July and August, against an annual mean of 13.3 °C, and the shoulder months sit between them. [Moganshan weather](/moganshan/weather/) has the figures.
 
 > Temperature means and the summer gap, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 

@@ -29,9 +29,7 @@ Three pieces, in the order the mountain lived them.
 | [118, then 78](/journal/118-then-78/) | Two ownership counts taken years apart carry the whole claim that Moganshan stopped being foreign long before 1949. What they support, and how much of the gap nobody has explained |
 | [The second opening](/journal/the-second-opening/) | Foreigners reopened the mountain after 2003 and named a category after themselves. The domestic guesthouse boom that followed took the trade away from them |
 
-There is no archive behind a category filter and nothing put up as a placeholder. Two of the five researched subjects below are still unwritten, and they stay unwritten until the reporting is done.
-
-Not confirmed: the publication schedule. We do not know whether the next pieces are weeks or quarters away, and will not name a month we cannot hold to.
+There is no archive behind a category filter and nothing put up as a placeholder. Two of the five researched subjects below are still unwritten, and they stay unwritten until the reporting is done. There is no publication schedule, because a piece goes up when it is finished and not on a date set in advance.
 
 There is no mailing list either, and no pop-up asking for your address. New pieces show up here and in the news index.
 
@@ -68,7 +66,7 @@ Where two published sources disagree, both go up and we name the disagreement in
 
 > Conflicting published ticket ranges for the scenic area, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-Gaps get labeled rather than filled. Every `Not confirmed` marker on the site flags something the research could not confirm and stays until it closes. One sits four paragraphs above. [About this site](/about/) sets out the method.
+And where the record is genuinely silent, the page says what is known and stops, rather than filling the space with a plausible number. [About this site](/about/) sets out the method.
 
 None of that is standard on a destination site.
 
@@ -76,7 +74,7 @@ None of that is standard on a destination site.
 
 Desk research turned up more than the guide had room for. These five have the material. Three are now published and linked below; two are not.
 
-![An open drawer of a wooden card index packed with blank dividers and cards](/images/guide/journal-4.webp 'Five subjects researched far enough to write. Three are up. The two still open are waiting on figures we cannot yet confirm.')
+![An open drawer of a wooden card index packed with blank dividers and cards](/images/guide/journal-4.webp 'Five subjects researched far enough to write. Three are up, and two are still being reported.')
 
 **The founding, and the committee.** Credit for finding the place goes to E. N. Fletcher, a missionary with the American Northern Baptists, in a year no source agrees on: 1891 to 1894. Western villas follow at 1896 to 1898, the first builder disputed three ways. Then in 1898 the residents constituted the Moganshan Summer Resort Association (莫干山避暑会), with a yearly meeting on the first Thursday of mid-August. A colony that draws up a constitution inside a few seasons had stopped thinking of itself as temporary. **Published: [The founding, and the committee](/journal/the-founding-and-the-committee/).** [A short history of Moganshan](/moganshan/hill-station/history/) has the outline.
 
@@ -100,6 +98,6 @@ Forty houses moved inside a decade, most of that before the Management Bureau of
 
 > Announcement of a Moganshan resort, Four Seasons Hotels and Resorts, 12 September 2025.
 
-"Yu Village" is the release's wording; we have not confirmed it means Yucun (庾村). A branded resort arrives differently from a lease on an old lodge. What it does to about 1,000 village guesthouses, four in five individually owned, is the thing to watch. The construction years are the obvious Moganshan photo essay. Not written yet, and the three published pieces leave the Four Seasons material alone because it belongs here.
+"Yu Village" is the release's wording, close enough to Yucun (庾村) to be confusing and not obviously the same place. A branded resort arrives differently from a lease on an old lodge. What it does to about 1,000 village guesthouses, four in five individually owned, is the thing to watch. The construction years are the obvious Moganshan photo essay. Not written yet, and the three published pieces leave the Four Seasons material alone because it belongs here.
 
-*Journal status last checked 7 August 2026, against research compiled 1 to 5 August 2026. The schedule for the two unwritten subjects is an open question. This page gets re-dated the day a fourth post lands.*
+*Journal status last checked 7 August 2026, against research compiled 1 to 5 August 2026. This page gets re-dated the day a fourth post lands.*

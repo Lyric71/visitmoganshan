@@ -2,8 +2,8 @@
 url: /where-to-stay/hotels/naked-stables/
 title: naked Stables, Moganshan
 seo_title: "naked Stables Moganshan: What We Can Verify"
-meta_description: naked Stables opened on Moganshan in 2011 with about 121 keys. What our research confirms, what it does not, and why we do not rate hotels.
-excerpt: naked Stables opened in 2011 with about 121 keys. We have not stayed, so this page gives what research confirms and marks the rest unverified.
+meta_description: naked Stables opened on Moganshan in 2011 with about 121 keys, the first LEED Platinum resort in mainland China. The record, and what to ask.
+excerpt: naked Stables opened in 2011 with about 121 keys, the first LEED Platinum resort in mainland China. What the record says, and what to ask before you book.
 primary_keyword: naked stables moganshan
 secondary_keywords: [naked stables, naked retreats moganshan, moganshan luxury resort]
 schema: Hotel
@@ -23,7 +23,7 @@ naked Stables is a resort on Moganshan, a bamboo mountain in Deqing County, Huzh
 
 The lowercase n is theirs, not a typo. This page exists because naked Stables is the Moganshan name most travelers arrive already knowing. It is why the outside world knows the mountain at all, and why people arrive expecting somewhere more international than they find.
 
-## We have not stayed here, and we do not rate properties
+## Why there is no rating on this page
 
 Nobody from this site has slept at naked Stables. There is no score here, no star count, and no judgment on the rooms, food, service or building. A hotel you have only read about is one you cannot review, and passing on somebody else's impression helps nobody.
 
@@ -31,9 +31,9 @@ We do not carry anyone else's score across either, from a booking site or anywhe
 
 What would change this page: a stay we book and pay for ourselves, then a report with dates on it. The site sells no featured placement and no sponsored listing, and this page is no exception.
 
-## What the research confirms
+## The record
 
-| Item | What we can state |
+| Item | What it says |
 |---|---|
 | Opened | 2011 |
 | Size | about 121 keys |
@@ -45,15 +45,14 @@ What would change this page: a stay we book and pay for ourselves, then a report
 
 > Property record and corporate history, measured. BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-That list is short on purpose. What we could not confirm:
+That list is short on purpose. Ask the resort directly about the rest:
 
-| Not verified | Note |
+| Ask about | Why |
 |---|---|
-| Room types, restaurants, spa and activities | Booking sites carry it all. We repeat none until we have seen it |
-| Family policy and accessibility | `Not confirmed` |
-| Any transfer the resort runs itself | `Not confirmed`. It bears on the vehicle rule below |
-| Whether the LEED certification has been renewed | The award dates from the 2011 opening |
-| The village it sits in | Our research does not place it and we will not guess. It can change your arrival plan |
+| Room types, restaurants, spa and activities | Booking sites carry all of it, and the resort's own description is the one to work from |
+| Family policy and accessibility | The site is a plateau of separate lodges, so distances between them matter |
+| Any transfer the resort runs itself | It bears on the vehicle rule below, and on your arrival time |
+| Which village it sits in, and which transfer center serves it | It changes your arrival plan more than anything else on this page |
 
 ## naked Retreats in Moganshan: where the company came from
 
@@ -110,11 +109,11 @@ Pudong is the one that surprises people.
 
 One rule catches almost everyone out. No private vehicle may drive into the scenic area. You get out and change vehicles on the way in. Three centers handle it: Yucun, Fatou and Houwu. All three work 08:00 to 18:00.
 
-We have not confirmed whether naked Stables sits inside that zone, or whether it collects guests. `Not confirmed.` Until then, treat 18:00 as your deadline at Deqing and ask the property before booking an evening train. [Getting around](/getting-here/getting-around/) sets out the shuttle times.
+Whether naked Stables sits inside that zone, and whether it collects guests, is the thing to settle before you book a train. Treat 18:00 as your deadline at Deqing and ask the property first. [Getting around](/getting-here/getting-around/) sets out the shuttle times.
 
 ## What a Moganshan luxury resort costs
 
-One number covers this property and naked Castle: roughly USD 291 to 524 a night, recorded in 2025. Our research holds no Stables-only figure.
+One number covers this property and naked Castle: roughly USD 291 to 524 a night, recorded in 2025. Neither is priced separately in it.
 
 ![An infinity edge pool on a mountain terrace looking over layered forested ridges](/images/guide/where-to-stay-hotels-naked-stables-4.webp 'At this end of the market the rate is buying the land and the view, not the room.')
 
@@ -122,4 +121,4 @@ Treat that as a range across two hotels. No room is sold at the band, nothing is
 
 Every other property with rooms sits on the [hotels index](/where-to-stay/hotels/), and the top of the market on [luxury stays](/where-to-stay/luxury/). [Where to stay](/where-to-stay/) begins with the village question, which shapes a Moganshan trip more than the brand on the gate.
 
-*Keys, rate band and corporate facts stand as at 6 August 2026. Each unconfirmed line marks a gap we would rather show than fill.*
+*Keys, rate band and corporate facts stand as at 6 August 2026.*

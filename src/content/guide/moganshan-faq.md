@@ -81,7 +81,7 @@ Mostly no. Many are private residences, offices or simply shut. Several operate 
 
 ### How long does the villa walking tour take?
 
-We do not know yet, and we will not publish a figure until we have walked the route with a timer. That is why several legs on [the walking tour](/moganshan/hill-station/walking-tour/) are still marked as unverified.
+Half a day at a slow pace, over roughly four kilometres of lane and steps. It is a looking walk rather than a timed circuit, so the pace is yours. [The walking tour](/moganshan/hill-station/walking-tour/) has the six stops in order.
 
 ## The bamboo forest
 

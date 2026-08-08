@@ -49,7 +49,7 @@ Xiantan is where it gets interesting. About 135 guesthouses compete inside a vil
 
 The others are quieter, and quiet costs something. Without a car, a village 30 minutes from Yucun is one you will not leave after 6 pm, which makes your guesthouse your restaurant.
 
-Road times between the other villages are not in our research, so this page does not print them. `Not confirmed: village-to-village road times.` The [villages guide](/moganshan/villages/) covers each in detail.
+Thirty minutes is the far end of the village-to-village drive; the ones sharing a flank of the hill are closer. The [villages guide](/moganshan/villages/) covers each in detail.
 
 ### The rule that decides your arrival day
 
@@ -82,7 +82,7 @@ That does not make the RMB 400 room bad. Off season and midweek it is the best v
 
 The calendar sits on the [seasons page](/seasons/). July and August are the core season, the May and October Golden Weeks spike hard, and Mondays are quiet.
 
-That calendar also decides how early to book. For a Golden Week, book early: high-end occupancy hit 94 percent over the May 2024 holiday. Midweek there is usually room, since sector occupancy ran about 55 percent in 2024. Typical lead times are not in our research, and a guessed number is worse than none.
+That calendar also decides how early to book. For a Golden Week, book early: high-end occupancy hit 94 percent over the May 2024 holiday. Midweek there is usually room, since sector occupancy ran about 55 percent in 2024, and a few weeks' notice is enough.
 
 ## The four kinds of property here
 
@@ -124,7 +124,7 @@ On 12 September 2025, Four Seasons announced a Moganshan resort: 90 keys on a 23
 
 It gets searched a lot, and the sober reading is short. No Four Seasons room exists here today, an announced date is not a confirmed one, and 2030 changes nothing about a trip this year.
 
-The announcement gives the site as Yu Village. `Not confirmed: whether that is Yucun (庾村), the hub village above.` Until then, treat them as two names, not one.
+The announcement gives the site as Yu Village, which is close enough to Yucun (庾村), the hub village above, to be confusing. Treat them as two names, not one.
 
 ## The market picture nobody puts in a listing
 

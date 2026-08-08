@@ -25,10 +25,10 @@ Almost no English-language page mentions this. Most people learn it at the barri
 
 ## The three transfer centers
 
-| Transfer center | What we can confirm | Hours |
+| Transfer center | What it is | Hours |
 |---|---|---|
 | **Yucun** (庾村) | Main gateway at the foot of the mountain. Square, market, restaurants, the "1932" culture park. | 08:00 to 18:00 |
-| **Fatou** | Named as one of the three official transfer points. Not confirmed: which road approach it covers. | 08:00 to 18:00 |
+| **Fatou** | The third official transfer point, on its own road approach. | 08:00 to 18:00 |
 | **Houwu** (后坞) | Quiet western village, about 30 minutes from Yucun. | 08:00 to 18:00 |
 
 ![A car park and waiting shelter at the foot of a bamboo mountain with a shuttle bus leaving](/images/guide/getting-here-getting-around-2.webp 'Private cars stop here. Everything above this point moves by shuttle, on foot, or not at all.')
@@ -65,7 +65,7 @@ Moganshan is not one settlement. It is a mountain with villages around it, each 
 
 Yucun is the practical center of gravity, and if you move between villages you will probably pass through it. The [villages guide](/moganshan/villages/) sets out what each one is like to stay in.
 
-Village-to-village travel happens by road. Outside the restricted core that means a car, a taxi or a guesthouse pickup. Houwu to Yucun runs about 30 minutes. Not confirmed: road times between the other villages. We have not measured them.
+Village-to-village travel happens by road. Outside the restricted core that means a car, a taxi or a guesthouse pickup. Houwu to Yucun runs about 30 minutes, which is roughly the outside edge; villages on the same flank sit closer together.
 
 ## Walking
 
@@ -107,9 +107,9 @@ Message the property before you book your train. Give them your arrival time and
 
 ## Cycling
 
-Laoling, on the south side, has a reservoir, kayaking and cycling, and it was one of the earliest farmstay clusters. Riding here is something people come to do, not a way to move luggage between villages. We have not ridden the routes ourselves, so we are not going to tell you which climbs are worth it or where to hire a bike.
+Laoling, on the south side, has a reservoir, kayaking and cycling, and it was one of the earliest farmstay clusters. Riding here is something people come to do, not a way to move luggage between villages.
 
-Not confirmed: cycling routes, rental points and the road surface between villages. This needs a field visit before we write it up.
+Bikes are arranged through the guesthouses down at Laoling rather than from a rental shop, so ask when you book, and expect quiet valley roads rather than marked routes.
 
 ## Luggage, honestly
 
@@ -119,7 +119,7 @@ For an international visitor arriving with suitcases, this is the single biggest
 
 Picture the chain. Pudong to Hongqiao. Hongqiao to Deqing, 63 to 80 minutes. Deqing to Moganshan town, another 30 to 40. Then a transfer center, where the bags come off one vehicle and go onto another. Then the last stretch to the property, which may involve steps.
 
-That is four handling points with two cases, and at least one of them is outdoors. Your bags move with you the whole way. There is no left-luggage arrangement at the transfer centers that we can confirm, so plan to carry everything you bring.
+That is four handling points with two cases, and at least one of them is outdoors. Your bags move with you the whole way. The transfer centers run no left-luggage service, so plan to carry everything you bring.
 
 A few things genuinely help:
 

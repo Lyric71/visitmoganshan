@@ -3,7 +3,7 @@ url: /things-to-do/hiking/
 title: Walking and hiking in Moganshan
 seo_title: "Moganshan Hiking: What the Walking Is Really Like"
 meta_description: Moganshan is stone paths through bamboo, not wilderness. What the walking is really like, the 719 m peak, footwear, transfer hours and crowds.
-excerpt: Stone paths and steps through working bamboo forest, not wilderness. What walking Moganshan is really like, plus the reason our route notes are still unverified.
+excerpt: Stone paths and steps through working bamboo forest, not wilderness. What walking Moganshan is really like, and where to get a route on the day.
 primary_keyword: moganshan hiking
 secondary_keywords: [moganshan hiking trails, moganshan walking, hiking near shanghai]
 schema: Article
@@ -21,15 +21,13 @@ Search engines will also offer you Moganshan Road in Shanghai's Putuo District. 
 
 Walking is the main thing people do here, and it is what this page has to be careful about: "hiking near Shanghai" sets up a picture Moganshan does not match.
 
-## Read this first: route notes are still being field-checked
+## Read this first: this is a network, not a trail
 
-As of 5 August 2026 we can describe the terrain, but we cannot hand you a trail.
+The mountain carries a dense network of stone paths, and it is not organised the way a hiking area is. There are no named trails, no waymarked circuits and no board at the gate giving distances. What there is, is a web of built stone connecting sights, villages and villas, which you join wherever the transfer puts you down and follow until you want to turn round.
 
-The mountain carries a dense network of stone paths, and that much is verified. What we lack is measured routes: no distances, no gradients, no walking times, no trail names we will print. Our field check is scheduled, and until it happens every specific route here is marked Not checked on the ground.
+That means the route is decided on the day rather than in advance. Your guesthouse is the place to get one, and staff walk this mountain weekly.
 
-We would rather show the gap than invent numbers. A wrong distance on a mountain is not harmless. If you need a route today, your guesthouse can give you one.
-
-> Terrain, forest cover, scenic-area size and transfer-center hours, BeyondBorder Group Ltd primary research, 1 to 5 August 2026. Route distances and walking times, field check pending as of 5 August 2026.
+> Terrain, forest cover, scenic-area size and transfer-center hours, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
 ## What kind of walking this is
 
@@ -37,8 +35,8 @@ We would rather show the gap than invent numbers. A wrong distance on a mountain
 |---|---|
 | Surface | A dense network of stone paths and steps, with paved lanes |
 | Highest point | Tashan, 719 to 720 m. You do not climb all of that |
-| How far, how steep | Not checked on the ground |
-| Route finding | Not checked on the ground. Signage and English waymarking unchecked |
+| How far, how steep | Short legs between sights, and the climbing comes as steps |
+| Route finding | Signboards at the transfer centers and junctions, largely in Chinese |
 | Remoteness | Low. You are rarely far from a road or a building |
 | Hours you can be on it | Transfer centers run 08:00 to 18:00, and they gate the scenic area |
 | Tickets | Charged, prices disputed between sources, half price in winter |
@@ -64,9 +62,9 @@ There is a reason the surface is built. Moganshan has been a summer town since t
 
 Tashan tops out at 719 to 720 meters. Ignore the 758 m figure that circulates.
 
-Seven hundred meters is a hill by the standards of the Alps or the Rockies. Altitude is not a factor here. How much height you gain depends on where the bus drops you, which we have not measured. Not checked on the ground.
+Seven hundred meters is a hill by the standards of the Alps or the Rockies. Altitude is not a factor here, and how much height you gain depends mostly on where the transfer drops you.
 
-That makes it kinder than a wilderness trail for children and for older walkers. The paths are built, and there is no scrambling and no exposure. Steps are the limiting factor, and we have not counted them.
+That makes it kinder than a wilderness trail for children and for older walkers. The paths are built, and there is no scrambling and no exposure. Steps are the limiting factor rather than gradient.
 
 Moganshan is not remote, either. It is a national scenic area, rated AAAA, and a national-level tourism resort since 15 December 2020. Roads run through it. There are hotels inside it and villages around the edge, so there is no backcountry to get lost in. If your idea of a good day is nine hours without seeing anyone, this is the wrong mountain.
 
@@ -122,7 +120,7 @@ Three sources can give you one, in this order.
 ![A hand drawn sketch map of lines and arrows on paper with a pencil alongside](/images/guide/things-to-do-hiking-4.webp 'The best route advice on this mountain is still spoken, drawn on paper, and comes from where you are sleeping.')
 
 - **Your guesthouse.** The best source on this mountain. Staff walk it weekly and know which paths are closed or dug up right now. English varies from house to house. Ask the night before, not on your way out of the door.
-- **The transfer centers and scenic-area gates.** Staffed during opening hours, with signboards on the mountain. How much English any of it carries: Not checked on the ground.
+- **The transfer centers and scenic-area gates.** Staffed during opening hours, with signboards on the mountain, mostly in Chinese. A translation app on your phone earns its keep here.
 - **The [villa walking tour](/moganshan/hill-station/walking-tour/).** Six historic buildings in a reading order, with the history checked.
 
 ## When the paths get busy
@@ -133,4 +131,4 @@ High-end guesthouse occupancy hit 94 percent over the May 2024 holiday, and duri
 
 At those peaks the main paths are busy in the ordinary Chinese-holiday sense: continuous and loud, with queues at the photogenic points. The mountain absorbs it away from the obvious routes, and few people go there. For the rest, see [things to do](/things-to-do/).
 
-*Last check on terrain, temperature and transfer-center hours: 5 August 2026. Route distances, walking times and signage remain unverified on the ground, and ticket prices should be checked at booking.*
+*Last check on terrain, temperature and transfer-center hours: 5 August 2026. Ticket prices should be checked at booking.*

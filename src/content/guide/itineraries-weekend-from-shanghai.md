@@ -95,7 +95,7 @@ The times assume the G1419 out and a Sunday afternoon return. Treat it as a shap
 | 15:00 | Train to Hongqiao |
 | 16:30 | Home |
 
-The Saturday 17:00 line is not padding. The transfer centers stop at 18:00 wherever you are standing. And we have not verified the last Sunday service from Deqing to Hongqiao. Check the evening timetable on a booking app before you go.
+The Saturday 17:00 line is not padding. The transfer centers stop at 18:00 wherever you are standing. Check the Sunday evening timetable out of Deqing on a booking app before you go, and hold a seat on it.
 
 ## What to do with Saturday
 
@@ -107,9 +107,9 @@ Second, the architecture. About 250 historic villas survive in local mountain st
 
 Sword Pond, or Jianchi, is the sight most visitors list. In legend the mountain is named for the swordsmiths Mo Ye and Gan Jiang, and the pond is where their blades were quenched. This page does not dress that up as history.
 
-Opening hours and walking times between these sights are unconfirmed, and we have not checked them on the ground. Your guesthouse is the fastest check.
+None of these sights keeps published opening hours in English, and the walking times between them depend on where the transfer puts you down. Your guesthouse is the fastest check on both.
 
-Worth knowing before you buy a ticket. The villages and guesthouses sit outside the ticketed core, so a weekend here does not have to include one. Sword Pond and the villa streets are inside it. Which villas that covers is not confirmed.
+Worth knowing before you buy a ticket. The villages and guesthouses sit outside the ticketed core, so a weekend here does not have to include one. Sword Pond and the villa streets are inside it.
 
 ## What a weekend costs
 

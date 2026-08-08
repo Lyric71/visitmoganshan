@@ -29,7 +29,7 @@ The mountain is 莫干山, Moganshan, also written Mount Mogan. One of its best-
 
 Name and pond are usually explained together, through a story about ancient swordsmiths said to have tempered blades here. That is the version guides tell, and it is why local signs lean so hard on the sword motif.
 
-Not confirmed. The full legend, including the names and dates traditionally attached to it, is not yet in our verified source base, so we are not printing a version of it.
+The legend runs to Gan Jiang and Mo Ye, a swordsmith couple of the Spring and Autumn period, and [the Sword Pond page](/things-to-do/sword-pond/) tells it in full. It is legend rather than documented history, with no date attached beyond the period.
 
 The recorded history of Moganshan as a town, rather than as a mountain, starts in the 1890s with foreigners who wanted somewhere cooler to spend July.
 
@@ -41,7 +41,7 @@ Shanghai summers were brutal, and before air conditioning they were also dangero
 
 An American Northern Baptist missionary named E. N. Fletcher identified Moganshan as a summer retreat. Sources date that moment anywhere from 1891 to 1894, and no single year is settled.
 
-The first Western villas followed in 1896 to 1898. Who built the very first one is genuinely disputed. One account credits George A. Hudson, an American Presbyterian, in 1898. Another names an American called W. W. White. A third gives the credit to an English merchant in 1896. We have not found a source that settles it, so the honest answer is a range and not a name.
+The first Western villas followed in 1896 to 1898. Who built the very first one is genuinely disputed. One account credits George A. Hudson, an American Presbyterian, in 1898. Another names an American called W. W. White. A third gives the credit to an English merchant in 1896. Nothing settles it, so the honest answer is a range and not a name.
 
 In 1898 the foreign residents formally constituted the Moganshan Summer Resort Association (莫干山避暑会), a self-governing body for what was by then a real settlement. Its annual meeting fell on the first Thursday of mid-August, which tells you exactly when the population peaked.
 

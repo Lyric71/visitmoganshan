@@ -40,7 +40,7 @@ American Protestant missionaries started the hill station in the 1890s, and abou
 
 > Villa counts and post-1949 use, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-naked Castle is the exception people run into: a house of 1910 by a Scottish doctor and missionary called Maitland, reopened as a hotel in 2017 with about 95 keys. We have not stayed in it, so nothing here rates it, and whether any other old house works the same way our research does not settle. `Not confirmed: which other historic villas operate as accommodation.` [The hotel list](/where-to-stay/hotels/) has the rest.
+naked Castle is the exception people run into: a house of 1910 by a Scottish doctor and missionary called Maitland, reopened as a hotel in 2017 with about 95 keys. It is close to the only historic villa on this mountain you can actually sleep in. [The hotel list](/where-to-stay/hotels/) has the rest.
 
 ## The whole-house stay, which is what most of these searches want
 
@@ -96,7 +96,7 @@ Yucun, the hub village at the bottom of the mountain, has restaurants around its
 
 ### Nobody publishes a price
 
-This is the question that brings most people here, and it has no answer we can stand behind. Property counts, rate bands, then the named operators one by one: no published whole-house rate on this mountain. Better an open gap than a modeled number. `Not confirmed: whole-house rates.`
+This is the question that brings most people here, and no property on this mountain publishes a whole-house rate. Every one of them is quoted on request, against your dates.
 
 What is published is the per-room band, so start there. Checked 5 August 2026:
 

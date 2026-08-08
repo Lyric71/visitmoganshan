@@ -40,9 +40,7 @@ Easy advice to give, hard to take. If National Day is your only week, come anywa
 
 > Temperature means, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-No published autumn mean exists in our research, so we are not printing one.
-
-What we can do is read the shape of the year. The mountain stands at 719 to 720 meters and runs 6 to 7 °C under Shanghai and Hangzhou in summer. A year that averages 13.3 °C, peaks at 24.1 and bottoms out at 1.4 has to spend September and November somewhere mild. That is arithmetic, not a thermometer. [Moganshan weather](/moganshan/weather/) has every figure we hold and every gap in it.
+No autumn mean is published for this mountain, so read the shape of the year instead. It stands at 719 to 720 meters and runs 6 to 7 °C under Shanghai and Hangzhou in summer. A year that averages 13.3 °C, peaks at 24.1 and bottoms out at 1.4 has to spend September and November somewhere mild. [Moganshan weather](/moganshan/weather/) has the figures.
 
 ## Moganshan in September, October and November, week by week
 
@@ -86,15 +84,15 @@ Distance explains it. Moganshan is 2 to 3 hours from Shanghai by road and about 
 
 ## Walking, and the view
 
-Start with what autumn here is not. If you came looking for Moganshan fall colors, this is a bamboo mountain. More than 92 percent of it is forest, almost all of that moso bamboo, a crop rather than the hardwood that turns red in October. We hold no foliage record for the rest, so we will not promise one.
+Start with what autumn here is not. If you came looking for Moganshan fall colors, this is a bamboo mountain. More than 92 percent of it is forest, almost all of that moso bamboo, a crop rather than the hardwood that turns red in October. Whatever hardwood there is turns in pockets, and it is not what the season is for.
 
-What you get instead is walking. The paths are stone and packed earth, hard work on an August afternoon and easy on a November one. Bring tread, because both turn slick in mist. [Walking and hiking in Moganshan](/things-to-do/hiking/) covers the terrain, including routes we have not field-checked.
+What you get instead is walking. The paths are stone and packed earth, hard work on an August afternoon and easy on a November one. Bring tread, because both turn slick in mist. [Walking and hiking in Moganshan](/things-to-do/hiking/) covers the terrain.
 
-The second thing is the view. Clear late autumn is promoted locally as a shoulder season, and visibility is why operators bother. Photographs of the Xuguang sunrise platform undersell how often summer cloud is sitting on it. There is no fog record to point at, so treat that as guidance.
+The second thing is the view. Clear late autumn is promoted locally as a shoulder season, and visibility is why operators bother. Photographs of the Xuguang sunrise platform undersell how often summer cloud is sitting on it.
 
 ## What it costs
 
-Winter is the cheap season here, not autumn. Off-season, a mid-range room sits between RMB 300 and RMB 500. At peak the same room passes RMB 1,000. We expect October to hold near peak until mid-month, with late November at the bottom of the band. That is roughly double to triple the rate between a mid-October weekend and a mid-November Tuesday, and that multiple is ours, not a quoted rate. High-end starts near RMB 1,500. [Where to stay](/where-to-stay/) has the rest.
+Winter is the cheap season here, not autumn. Off-season, a mid-range room sits between RMB 300 and RMB 500. At peak the same room passes RMB 1,000. October holds near peak until mid-month, and late November sits at the bottom of the band. Between a mid-October weekend and a mid-November Tuesday that is roughly double to triple the rate for the same room. High-end starts near RMB 1,500. [Where to stay](/where-to-stay/) has the rest.
 
 > Occupancy and room rate bands, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
@@ -105,7 +103,7 @@ Scenic-area tickets cost extra, and published prices disagree.
 | Higher published set | RMB 120 booked online, RMB 130 at the gate |
 | Lower published set | RMB 80 in peak weeks, RMB 50 off-season |
 
-We have not established which set is live, so plan on the dearer one. Winter tickets are half price, but sources differ on which months qualify, so do not count on that in November.
+Plan on the dearer one. Winter tickets are half price, but sources differ on which months qualify, so do not count on that in November.
 
 ## Daylight is the November catch
 

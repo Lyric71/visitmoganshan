@@ -79,7 +79,7 @@ Scenic-area tickets are a separate cost, and published prices disagree.
 | The higher one | RMB 120 online, RMB 130 at the gate | Half price in winter |
 | The lower one | RMB 80 at peak | RMB 50 off-season |
 
-We could not settle which is current, so budget for the higher line. Rates and tickets checked 5 August 2026.
+Budget for the higher line. Rates and tickets checked 5 August 2026.
 
 ## The two Golden Weeks are worse than August
 

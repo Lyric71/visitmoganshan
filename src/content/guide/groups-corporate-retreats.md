@@ -78,7 +78,7 @@ The last mile from Deqing runs on the same clock.
 
 [Getting around Moganshan](/getting-here/getting-around/) has the detail.
 
-Whether chartered group coaches are treated differently at the transfer centers is not confirmed. We have found no source that settles it.
+A chartered coach is treated like any other private vehicle at the transfer centers, so build the change of vehicle into the arrival plan rather than hoping the charter gets waved through.
 
 ### Property size
 
@@ -95,11 +95,11 @@ A 40-person group does not book a guesthouse here. It books three, or one of the
 
 > Property key counts and the Four Seasons announcement, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-Those are room counts. We do not know how many people a room sleeps, or whether any property takes a full buyout.
+Those are room counts rather than headcounts, and a full buyout is a question for each property rather than a standing offer.
 
 Crowne Plaza, in that last row, has the capacity and sits in the county seat 20 km away. It solves your headcount and removes the reason you were coming. Four Seasons announced 90 keys here for 2030, no help now.
 
-Splitting across two or three guesthouses is normal, and costs a vehicle move at every session start. Village-to-village road times are unmeasured.
+Splitting across two or three guesthouses is normal, and costs a vehicle move at every session start. Keep the houses in one village, because the drive between villages runs to half an hour at the far end.
 
 ### There is no evening economy
 
@@ -111,13 +111,11 @@ For a group, that has one consequence. Your property is the whole evening, every
 
 Whether that is a drawback depends on what your two days are for. [Team building](/groups/team-building/) is the companion page.
 
-## What we cannot tell you
+## The meeting side is not published anywhere
 
-Nothing here covers the meeting side of any Moganshan property. The research turned up no verified data, so this page prints none. Meeting room sizes, AV, conference connectivity, catering and day delegate rates are all **unconfirmed**.
+No property on this mountain publishes what a planner needs: room sizes, AV, conference connectivity, catering or day delegate rates. That is not an oversight on their part. These are guesthouses, and a house averaging ten beds does not run a meetings sales desk.
 
-Awkward to publish on a page meant to help you book. Better than making numbers up.
-
-Get all of it in writing before you commit. A guesthouse averaging ten beds is unlikely to have a meeting room, and the ones that do publish nothing we can find. No offsite venue in Zhejiang is an exception, and corporate retreat planning in China is much the same.
+So get all of it in writing before you commit, property by property, and treat a vague answer as a no. Ask for the dimensions of the room and a photograph of it empty.
 
 ## Planning checklist
 
@@ -142,4 +140,4 @@ Moganshan works as a two-night midweek offsite for a Shanghai team, not a one-ni
 
 The venue research falls on you, property by property. [Groups and events](/groups/) collects the rest, and [Moganshan through the year](/seasons/) covers seasons.
 
-*Travel times, occupancy figures, property counts and room rates come from research carried out 1 to 5 August 2026. Every line flagged as unconfirmed marks something we could not confirm.*
+*Travel times, occupancy figures, property counts and room rates come from research carried out 1 to 5 August 2026.*

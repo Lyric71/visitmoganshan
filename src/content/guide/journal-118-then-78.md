@@ -46,9 +46,7 @@ You cannot get a rate out of a decade and a year. Nine years is the ceiling, not
 
 ## Whether the two numbers can be subtracted at all
 
-A page built on two figures owes the reader one answer first. Were they counted the same way?
-
-We do not know, and that is the state of the evidence rather than a hedge.
+A page built on two figures owes the reader one answer first. Were they counted the same way? The record does not say.
 
 | The question | What the record gives |
 |---|---|
@@ -61,7 +59,7 @@ A fifth question does more damage, so it goes in a sentence rather than a table 
 
 The same doubt reaches the 154, and the 250 further down. Every figure here comes out of one thin base, and skepticism applied to a single number would be decoration.
 
-Not confirmed: the compiling body, the exact year and the ownership definition behind both the 118 and the 78. Until that closes, the difference of 40 is a difference between two counts, not a count of houses that moved.
+So the difference of 40 is a difference between two counts, and not a count of houses that moved.
 
 ## Four ways forty houses change hands
 
@@ -128,7 +126,7 @@ Seventy years of weather, war, demolition and rebuilding will take houses off a 
 
 The surviving figure is soft at its own end. Some sources say 200 or more rather than about 250, and nobody we can find has published the method behind either. What makes a villa historic here is undefined.
 
-Not confirmed: the survival figure and the method behind it. "About 250" is an estimate that has been repeated, not a count that has been made. The survivors are the ones [the walking tour](/moganshan/hill-station/walking-tour/) puts into an order that works on foot.
+"About 250" is an estimate that has been repeated rather than a count that has been made. The survivors are the ones [the walking tour](/moganshan/hill-station/walking-tour/) puts into an order that works on foot.
 
 ![Restored stone villa in use today at Moganshan](/images/guide/journal-118-4.webp 'About 250 historic villas survive. More than 450 were built, on the figures we hold, and no published survey accounts for the difference.')
 

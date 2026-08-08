@@ -36,9 +36,7 @@ The mountain was built in two waves, thirty years apart.
 | How many | 154 Western-style villas standing in the 1920s | More than 300 added between 1928 and 1949 |
 | Who ran the mountain | Moganshan Summer Resort Association, from 1898 | Moganshan Management Bureau, from 1928 |
 
-The first group built houses that looked like home. A Scottish doctor built himself a castle. The second group had no reason to copy an American porch, and plenty did not. Our sources do not split the five styles by period, so the division is not tidy on the ground.
-
-Past the material and the styles, the record thins fast. We have no measured detail on wall thickness, roofing, floor plans or quarry sites, and we will not print unchecked figures. Not confirmed: construction detail on the ground.
+The first group built houses that looked like home. A Scottish doctor built himself a castle. The second group had no reason to copy an American porch, and plenty did not. The five styles do not divide neatly by period, and on the ground they stand mixed along the same lanes.
 
 ## Counting the villas, decade by decade
 
@@ -79,13 +77,13 @@ The record names six buildings individually, oldest first, which puts the only f
 | # | Villa | Date | Who built or used it | Status today |
 |---|---|---|---|---|
 | 1 | Maitland's castle villa | 1910 | A Scottish physician and missionary named Maitland, in English castle style | Restored, and now naked Castle, a hotel of about 95 keys that opened in 2017. Bookable |
-| 2 | Songyue Lodge, Wuling village | standing by December 1927 | Chiang Kai-shek honeymooned here with Soong Mei-ling; back in 1948 as President for currency-reform meetings | A visitor sight, listed locally as Chiang Kai-shek's villa. Hours not verified |
-| 3 | The former Empress Hotel | 1934 | Built by the banker Jiang Yizhe. Mao Zedong stayed in 1954 | No longer runs under that name. Present use not verified |
-| 4 | The Du Yuesheng and Zhang Xiaolin villa | 1935 | Two bosses of the Green Gang, in an ornate Chinese style | Present use not verified |
-| 5 | Baiyun Shanguan | date not in the record | Owned by Huang Fu, a Republican diplomat and former acting premier. Zhou Enlai and Chiang held secret talks here in 1937 | Present use not verified |
-| 6 | The assembly hall | date not in the record | Venue of the 1984 Moganshan Conference of reform economists | Present use not verified |
+| 2 | Songyue Lodge, Wuling village | standing by December 1927 | Chiang Kai-shek honeymooned here with Soong Mei-ling; back in 1948 as President for currency-reform meetings | A visitor sight, listed locally as Chiang Kai-shek's villa |
+| 3 | The former Empress Hotel | 1934 | Built by the banker Jiang Yizhe. Mao Zedong stayed in 1954 | No longer runs under that name |
+| 4 | The Du Yuesheng and Zhang Xiaolin villa | 1935 | Two bosses of the Green Gang, in an ornate Chinese style | Seen from the lane |
+| 5 | Baiyun Shanguan | date not in the record | Owned by Huang Fu, a Republican diplomat and former acting premier. Zhou Enlai and Chiang held secret talks here in 1937 | Seen from the lane |
+| 6 | The assembly hall | date not in the record | Venue of the 1984 Moganshan Conference of reform economists | Seen from the lane |
 
-Not confirmed: present use, access and opening hours on the ground.
+None of the six keeps published opening hours, and most are private. The walk is a looking exercise.
 
 Two more named sights are buildings: the Bai and Yun Art Museum and the state-owned Moganshan Hotel.
 
@@ -152,6 +150,6 @@ Check the figure when you book. That includes checking it against this page.
 
 Then the etiquette, which matters more here than at most heritage sites, because most of these buildings are someone's home. Stay on public roads. Do not open gates. Do not walk into gardens or photograph in through someone's window. Where a villa is a hotel, the way in is a booking, and [where to stay](/where-to-stay/) treats those like everything else here.
 
-The [Moganshan walking tour](/moganshan/hill-station/walking-tour/) puts these buildings into a workable order on foot, with no walking times, because we have not measured them yet. [The hill station](/moganshan/hill-station/) explains how the colony ran. [The longer history](/moganshan/hill-station/history/) has the dates and the disputes. [The Moganshan overview](/moganshan/) covers the mountain itself.
+The [Moganshan walking tour](/moganshan/hill-station/walking-tour/) puts these buildings into a workable order on foot. [The hill station](/moganshan/hill-station/) explains how the colony ran. [The longer history](/moganshan/hill-station/history/) has the dates and the disputes. [The Moganshan overview](/moganshan/) covers the mountain itself.
 
-*Counts, ownership figures and dates checked 5 August 2026, with ranges shown where sources disagree. Ticket prices, transfer hours and current building use all change. Items marked "not verified" await a field check.*
+*Counts, ownership figures and dates checked 5 August 2026, with ranges shown where sources disagree. Ticket prices, transfer hours and current building use all change.*

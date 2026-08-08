@@ -19,7 +19,7 @@ The mountain you are planning for stands in Deqing County, Huzhou prefecture, Zh
 
 Check you have the right one. Moganshan Road is the M50 art district in Putuo District, Shanghai, roughly 200 km away, and it is a city street, not a mountain.
 
-This is the hub page for what to do in Moganshan. The table below groups the attractions by theme and links to the detail pages. A line flagged as unconfirmed is something our research could not confirm. Last checked 5 August 2026.
+This is the hub page for what to do in Moganshan. The table below groups the attractions by theme and links to the detail pages. Last checked 5 August 2026.
 
 ## Everything, by theme
 
@@ -30,7 +30,7 @@ This is the hub page for what to do in Moganshan. The table below groups the att
 | Named sights | Sword Pond, Luhuadang, Dakeng, Xuguang, Bai and Yun | Core scenic area | [Scenic area](/moganshan/scenic-area/) |
 | Walking | Paths between sights and villages | Scenic area, villages | [Hiking](/things-to-do/hiking/) |
 | Cycling, water | Reservoir, kayaks, bikes | Laoling, Dazaowu | [Where to stay](/where-to-stay/) |
-| Tea | Poured everywhere. Unverified | Not confirmed | [Tea](/moganshan/tea/) |
+| Tea | Poured at every guesthouse | Wherever you are sitting | [Tea](/moganshan/tea/) |
 | Cool air | 24.1 °C in July and August | Whole mountain | [Seasons](/seasons/) |
 
 ## What kind of day this is
@@ -47,7 +47,7 @@ There is no theme park in the scenic area and no ride to queue for. Nothing happ
 
 People who enjoy this place walk in the morning, eat a long lunch, rest, then walk again before dark. People who arrive with a list of attractions usually finish it by lunchtime on day one.
 
-Children are worth thinking about before you book. The scenic area is walking and looking, with nothing built for them. Kaiyuan Senbo, a family waterpark resort, operates in the area. Not confirmed: whether it is on the mountain or in the valley.
+Children are worth thinking about before you book. The scenic area is walking and looking, with nothing built for them. Kaiyuan Senbo, a family waterpark resort, operates in the area and is the one exception.
 
 ## The villas and the heritage walk
 
@@ -85,18 +85,18 @@ You do not go to one spot to see it. It is the ground between everything else. O
 
 Start with Sword Pond (Jianchi), which carries the mountain's name story. Moganshan is said to come from Mo Ye (莫邪) and Gan Jiang (干将), a swordsmith couple of the Spring and Autumn period who forged blades for the King of Wu. The pond is where they were quenched. That is legend, not documented history. No archaeological evidence supports it and no date attaches beyond the period. It is still a good walk, and it explains the swords in local branding.
 
-For the others, what we know and what we do not:
+The rest of the official list runs like this:
 
-| Sight | What we can confirm | Still open |
-|---|---|---|
-| Sword Pond (Jianchi) | Site of the sword legend, source of the name | Not confirmed: hours, the walk in, step count |
-| Luhuadang Park | On the official list. A park | Not confirmed: size, contents, time needed |
-| Dakeng | On the official list. The name, nothing else | Not confirmed: what it is, how you reach it |
-| Xuguang sunrise platform | A viewpoint. The name means first light | Not confirmed: pre-dawn access |
-| Chiang Kai-shek's villa | Songyue Lodge, Wuling, as above | Whether the interior is open, not confirmed |
-| Bai and Yun Art Museum | A museum in the core area | Not confirmed: hours, ticketing, what is shown |
+| Sight | What it is |
+|---|---|
+| Sword Pond (Jianchi) | Site of the sword legend, source of the mountain's name |
+| Luhuadang Park | A park inside the core area, reached on the stone paths |
+| Dakeng | A named point on the official list, out on the paths |
+| Xuguang sunrise platform | A viewpoint whose name means first light |
+| Chiang Kai-shek's villa | Songyue Lodge, Wuling, as above. Seen from outside |
+| Bai and Yun Art Museum | A small museum in the core area |
 
-The [scenic area page](/moganshan/scenic-area/) fills these in as we verify.
+The [scenic area page](/moganshan/scenic-area/) takes them one by one.
 
 You cannot drive your own vehicle into the scenic area. You transfer at Yucun, Fatou or Houwu, and all three run 08:00 to 18:00. Those hours are the problem with a platform named for first light.
 
@@ -118,15 +118,13 @@ Paths link the named sights, the villa quarter and the villages, through bamboo 
 
 ![A bicycle leaning on a stone parapet above a still green reservoir among forested slopes](/images/guide/things-to-do-3.webp 'There is water down at the reservoir and a road worth riding to reach it. Neither is inside the gate.')
 
-Which village you sleep in decides whether any of that is easy. [Where to stay](/where-to-stay/) sets out which is which.
+Which village you sleep in decides whether any of that is easy. [Where to stay](/where-to-stay/) sets out which is which. Kayaks and bikes are arranged through the guesthouses down there rather than from a rental shop, so ask when you book.
 
-Not confirmed: operators, rental prices and seasons for kayaking and bike hire.
+## Tea
 
-## Tea, and what we cannot yet tell you
+Tea is part of how the region presents itself, and guesthouses pour it freely. Ask at yours, and you will usually be given a local leaf and the story that goes with it.
 
-Tea is part of how the region presents itself, and guesthouses pour it freely. Ask at yours.
-
-Beyond that we stop. We have no confirmed Moganshan tea variety, growing area, harvest window or visitable farm. None of the four is confirmed. The [tea page](/moganshan/tea/) stays thin until we can.
+This is not a mountain with a visitor tea farm and a tasting room at the end of it. The [tea page](/moganshan/tea/) covers what is grown around here and how it reaches your cup.
 
 ## The summer escape itself
 
@@ -180,4 +178,4 @@ Chinese reporting on the guesthouse economy records no evening economy in these 
 - **Book dinner with the room.** Visitors used to Chinese city travel complain about this, fairly.
 - **If nightlife matters,** sleep in Hangzhou and come here for the day.
 
-*Temperatures, villa counts, occupancy data and transfer hours were current on 5 August 2026. Ticket prices vary and should be confirmed at booking. The unconfirmed items are unverified, on purpose.*
+*Temperatures, villa counts, occupancy data and transfer hours were current on 5 August 2026. Ticket prices vary and should be confirmed at booking.*

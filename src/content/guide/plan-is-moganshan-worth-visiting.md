@@ -100,7 +100,7 @@ Most readers are choosing between Moganshan and more nights in the city they are
 | Crowd risk | High on weekends and Golden Weeks | High year round | High year round |
 | Minimum useful stay | Two nights from Shanghai, one from Hangzhou | One night | One night |
 
-We will not rank the water towns and bamboo counties nearby against Moganshan. This site has measured Deqing County, not them, and a comparison we have not checked is worth nothing to you.
+The water towns and bamboo counties nearby are a different trip, and this site covers Deqing County rather than ranking the region.
 
 The trade-off is simple. Hangzhou gives you more to do. Moganshan gives you fewer people, cooler air and better sleep. In July and August that is an easy call. In February it is harder, though winter tickets are half price and January averages 1.4 °C.
 

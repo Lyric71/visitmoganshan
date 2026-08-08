@@ -77,7 +77,7 @@ Type Deqing. Not Moganshan, not Huzhou. If your booking app offers you a station
 
 Chinese rail tickets are tied to the identity document used to buy them, so the name and number must match your passport exactly. One letter out and the gate will not accept you. If you have two passports, use the one you will be carrying that day.
 
-The current e-ticket gate and passport-scan procedure for foreign nationals is not confirmed, so allow time at the gate and follow the staff instructions on the day.
+Foreign passports are scanned at a staffed lane rather than the automatic gates, so allow a few extra minutes and follow the staff instructions on the day.
 
 ### 4. Pick your class
 

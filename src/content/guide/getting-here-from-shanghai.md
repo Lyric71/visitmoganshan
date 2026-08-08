@@ -38,7 +38,7 @@ The northern approach improved recently. The Shanghai to Suzhou to Huzhou high-s
 | Route | Main leg | Last mile | Cost per person | Door to door (estimate) |
 |---|---|---|---|---|
 | High-speed rail from Hongqiao | 63 to 80 min, 13 direct services a day | Y1 shuttle 30 to 40 min, or taxi about 30 min | RMB 61 to 110 rail, plus RMB 10 shuttle or about RMB 100 taxi | 2h45 to 3h30 |
-| Private car, central Shanghai | 200 to 240 km, 2 to 3 hours driving | Included, but you stop at a transfer centre | Not confirmed | 2h30 to 3h15 |
+| Private car, central Shanghai | 200 to 240 km, 2 to 3 hours driving | Included, but you stop at a transfer centre | Quoted by the operator, per car | 2h30 to 3h15 |
 | Coach, Shanghai to Deqing | 2h40 to 4h | Same as rail, from Deqing | From about RMB 69 | 3h30 to 5h (our estimate) |
 | Rail from Pudong | Transfer to Hongqiao first, then 63 to 80 min | Y1 shuttle or taxi | Rail fare plus the Pudong transfer | 4h00 to 4h45 |
 
@@ -104,7 +104,7 @@ A car from central Shanghai covers 200 to 240 km in 2 to 3 hours. Door to door, 
 
 It suits families, anyone with heavy luggage, and anyone arriving outside shuttle hours. It also removes the awkward handoff at Deqing, which is worth something after a long flight.
 
-We do not quote a charter price here. Rates vary widely by operator and season, and we have not verified a range we trust.
+Charter rates swing widely by operator and season, so get the figure in writing before the car is booked, and book through your property rather than at the curb.
 
 There is one rule that catches almost every first-time driver, and English-language sources rarely mention it:
 

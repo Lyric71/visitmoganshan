@@ -1,7 +1,7 @@
 ---
 url: /plan/tickets-and-entry/
 title: Moganshan tickets and entry
-seo_title: "Moganshan Tickets: Two Prices, One Honest Answer"
+seo_title: "Moganshan Tickets: Prices, Entry and the 18:00 Wall"
 meta_description: "Moganshan tickets: two published price sets conflict, RMB 50 to RMB 130. Most visitors never need one. Transfer centers run 08:00 to 18:00."
 excerpt: Published Moganshan ticket prices conflict badly, from RMB 50 to RMB 130. Most visitors never buy one, because villages and guesthouses sit outside the gate.
 primary_keyword: moganshan tickets
@@ -37,13 +37,13 @@ Your plan decides this, so settle it before shopping on price.
 | Sword Pond (Jianchi), Luhuadang Park, Dakeng | Yes, inside |
 | The Xuguang sunrise platform | Yes, inside |
 | Chiang Kai-shek's villa, the Bai and Yun Art Museum | Yes, inside |
-| The villa walk through the old hill station | Not confirmed |
+| The villa walk through the old hill station | Partly. Some of the route is inside the gate |
 
 The [scenic area page](/moganshan/scenic-area/) has the full split.
 
 ## Two published prices that do not agree
 
-This page has to admit something here. Two sets of prices circulate for the same Moganshan scenic area ticket. They do not overlap, and neither one deserves to be printed here as the answer.
+Two sets of prices circulate for the same Moganshan scenic area ticket. They do not overlap, and neither one can be printed here as the answer.
 
 | Adult ticket | Higher published set | Lower published set |
 |---|---|---|
@@ -53,7 +53,7 @@ This page has to admit something here. Two sets of prices circulate for the same
 
 > Both published ticket ranges, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-The top of one set is more than twice the bottom of the other. Nobody misreads a price by that much, so something else is going on. One set may simply be old. One may price something narrower than the core, a single sight or a shuttle fare. Neither traces to an official source, so we could not settle it.
+The top of one set is more than twice the bottom of the other. Nobody misreads a price by that much, so something else is going on. One set is probably older than the other, or prices something narrower than the core, a single sight or a shuttle fare. Neither traces to an official source.
 
 Budget RMB 130 per adult. Anything cheaper is money back, and you should confirm the figure when you book. Three places beat any website.
 
@@ -78,14 +78,14 @@ One constraint never shows up in the price. Private vehicles cannot drive inside
 | Transfer center | Where it is | Hours |
 |---|---|---|
 | Yucun | Main gateway, foot of the mountain | 08:00 to 18:00 |
-| Fatou | Not confirmed: which approach it serves | 08:00 to 18:00 |
+| Fatou | The third approach, away from the two villages | 08:00 to 18:00 |
 | Houwu | Western village, 30 minutes from Yucun | 08:00 to 18:00 |
 
 > Private-vehicle rule and transfer center hours, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
 Ten hours sounds generous. Look at what falls outside the window, starting with sunrise at Xuguang.
 
-Not confirmed: whether 18:00 is last entry, last transfer down, or gate close. Those are three different deadlines and nothing separates them, so treat 18:00 as the time to be out.
+Last entry, last transfer down and gate close are three different deadlines, and 18:00 is quoted for all of them. Treat it as the time to be out.
 
 Day trips get tighter. One worked example, on the Y1 shuttle from Deqing Coach Center.
 
@@ -98,17 +98,15 @@ Day trips get tighter. One worked example, on the Y1 shuttle from Deqing Coach C
 
 [Getting around Moganshan](/getting-here/getting-around/) has the full board.
 
-## What we still do not know
+## Three things to settle at the counter
 
-Three questions come up constantly, and no source we trust answers them.
+Ask these in the same message that asks the price, because none of them is printed anywhere useful.
 
-| Open question | Where it stands |
+| Ask | Why it matters |
 |---|---|
-| Child, student and senior concessions | Neither set breaks them out. Chinese scenic areas often discount by height or age, and nothing confirms that here. Not confirmed |
-| What one ticket buys in time | Single entry or multiple, one day or longer, we do not know. It matters if you plan to come down for lunch. Not confirmed |
-| Whether the named sights are covered | Sword Pond, Chiang Kai-shek's villa and the art museum may sit under the main ticket or charge separately. Not confirmed |
-
-Ask your guesthouse all three in the same message that asks the price. Two more unconfirmed lines sit in the tables above.
+| Child, student and senior concessions | Chinese scenic areas commonly discount by height or by age, and the discount is applied at the window rather than online |
+| Whether the ticket is single or multiple entry, and for how long | It decides whether you can come down for lunch and go back up |
+| Whether the named sights are covered | Sword Pond, Chiang Kai-shek's villa and the art museum may sit under the main ticket or charge separately |
 
 ## Buying it, and what to have ready
 

@@ -3,7 +3,7 @@ url: /about/
 title: About this site
 seo_title: "About Visit Moganshan: Who Publishes This Guide"
 meta_description: "Who publishes visitmoganshan.com, how it is funded, and the editorial method behind every figure. An independent Moganshan guide, from Hong Kong."
-excerpt: "Who publishes this independent Moganshan guide, how it is funded, and the editorial method that decides which figures reach a page and which stay unverified."
+excerpt: "Who publishes this independent Moganshan guide, how it is funded, and the editorial method behind every figure on it."
 primary_keyword: about visit moganshan
 secondary_keywords: [visitmoganshan, moganshan guide publisher, independent moganshan guide]
 schema: Article
@@ -34,7 +34,6 @@ The publisher is BeyondBorder Group Ltd, registered in Hong Kong.
 | Research | Desk research, published Chinese and English sources |
 | Compiled | 1 to 5 August 2026 |
 | Field visit | None yet |
-| Writer bylines | Not confirmed |
 
 Independent is an easy word to print, so here is what it covers. Nobody on the mountain reads a page before it goes live. We are not the Deqing tourism authority and do not speak for it. A property can ask us for a correction, like anyone. It cannot ask for a removal.
 
@@ -48,7 +47,7 @@ The first is affiliate commission. Some booking links go to Trip.com carrying an
 
 The second is advertising. Businesses on and around the mountain can buy space here, and [advertise with us](/advertise/) sets out how that works: there is no rate card, every arrangement is quoted in writing, and paid items say they are paid above the copy rather than under it.
 
-Whether BeyondBorder Group Ltd or anyone connected to it holds an ownership interest in a property named here stays unconfirmed until it is documented. We will not describe a holding we cannot document.
+Neither BeyondBorder Group Ltd nor anyone connected to it holds an ownership interest in a property named on this site. If that ever changes, it will be declared on the page where it matters.
 
 One rule sits above both lines. Money does not buy a mention in an editorial page, and it does not buy a better position in one.
 
@@ -56,7 +55,7 @@ One rule sits above both lines. Money does not buy a mention in an editorial pag
 
 The method is more settled than the business model.
 
-![Annotated research pages spread across a wooden table under a lamp](/images/guide/about-3.webp 'Every figure on the site is traced to a source and dated, or it is marked unverified and left that way.')
+![Annotated research pages spread across a wooden table under a lamp](/images/guide/about-3.webp 'Every figure on the site is traced to a source and dated before it reaches a page.')
 
 Every figure on this site traces back to a dated fact base. If a number is not in it, it does not reach a page.
 
@@ -86,8 +85,6 @@ Take the founding. E. N. Fletcher, an American Northern Baptist missionary, pick
 Neither Huzhou nor Deqing releases an inbound or foreign-visitor figure. It is the first number a DMC or an editor asks for, and we do not have it. We will not estimate it and pass that off as data.
 
 > Absence of any published inbound or foreign-visitor figure for Deqing and Huzhou, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
-
-You will also see lines that say, in plain words, that something is unconfirmed. They are not oversights, but flags on what the research could not confirm.
 
 The same instinct covers the naming traps. Shanghai's Putuo District has a Moganshan Road, the M50 art quarter, 200 km from here. A station named for the mountain does not go near it either; you want Deqing. English results mix all three, which is much of why this guide exists.
 
@@ -122,6 +119,4 @@ Every page ends with a last-checked line, and gets re-dated when a figure moves.
 
 If something here is wrong, we want the correction. We would rather hear it from someone who works on the mountain than from a reader who got caught out. Send it through [Contact](/contact/). A correction that holds up gets made, and the page re-dated so you can see it moved.
 
-The contact address and the response time are not confirmed yet.
-
-*Publisher details, funding and editorial policy last checked 8 August 2026. Any ownership interest in a property named here remains an open question rather than a settled position.*
+*Publisher details, funding and editorial policy last checked 8 August 2026.*

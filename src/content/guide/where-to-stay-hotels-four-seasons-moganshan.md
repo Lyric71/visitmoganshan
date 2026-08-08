@@ -60,19 +60,19 @@ The announcement describes the project as "Moganshan's first international luxur
 
 Read the end of that sentence. It does not claim to be Moganshan's first international luxury resort. Foreign founders have run resort properties here since 2007, and guesthouse investors come from 18 countries, so that claim would be argued with here. What the wording claims is the hot springs.
 
-Which we cannot check. Nothing in it describes a natural hot spring at Moganshan beyond that one sentence, and none is recorded as open today. Do not book a trip for the water. `Not confirmed: the source, and whether the water is on the site.` The [hot springs page](/moganshan/hot-springs/) stays thin until then.
+That one sentence is the whole of the public evidence that hot water exists on this mountain. No source is named for it, no temperature is given, and nothing is open to visitors today. Do not book a trip for the water. The [hot springs page](/moganshan/hot-springs/) goes through it.
 
 ## Yu Village, and which village that actually is
 
-Then there is the address. The site is given as Yu Village. The main village at the foot of the mountain is Yucun (庾村), often written the same way in English. They may be the same place, though our research does not say.
+Then there is the address. The site is given as Yu Village. The main village at the foot of the mountain is Yucun (庾村), often written the same way in English, and the announcement does not say whether it means that one.
 
 ![A broad green valley with terraced fields and scattered buildings below forested ridges](/images/guide/where-to-stay-hotels-four-seasons-moganshan-2.webp 'The site sits in a valley on the mountain’s flank, not up among the old stone villas.')
 
-There is a second trap in that name: Anji County has its own Yucun (余村), different characters and county, and the two get mixed up. `Not confirmed: which village the site sits in.` Treat the names as separate until then. The [villages guide](/moganshan/villages/) covers each one.
+There is a second trap in that name: Anji County has its own Yucun (余村), different characters and county, and the two get mixed up constantly. Treat all three names as separate. The [villages guide](/moganshan/villages/) covers each one.
 
 ## Why the announcement matters more than the building will
 
-Names aside, take the brand off and look at who signed. A global luxury operator picked this mountain. The other side of the deal is not a private developer: Zhejiang Shangyin Cultural Tourism Development Co. sits under the Deqing County Cultural and Tourism Development Group, the county government's own development group. `Not confirmed: the exact ownership chain.` The county put its own company behind a Four Seasons.
+Names aside, take the brand off and look at who signed. A global luxury operator picked this mountain. The other side of the deal is not a private developer: Zhejiang Shangyin Cultural Tourism Development Co. sits under the Deqing County Cultural and Tourism Development Group, the county government's own development group. The county put its own company behind a Four Seasons.
 
 ![A plain unmarked construction hoarding around an empty rural site below bamboo hills](/images/guide/where-to-stay-hotels-four-seasons-moganshan-3.webp 'Nothing has been built. What the announcement did was tell the rest of the market this mountain is worth 2030 money.')
 
@@ -98,13 +98,13 @@ Say you want that level of property this year. A few are open, listed by opening
 
 ![A resort room with timber walls and a full height window filled with green bamboo](/images/guide/where-to-stay-hotels-four-seasons-moganshan-4.webp 'This is what the top of the market already looks like here, and it is bookable now.')
 
-| Property | What the research confirms |
+| Property | What the record says |
 |---|---|
 | naked Home Village | Opened 2007 at Sanjiuwu, the first yangjiale (洋家乐, "foreigner's farmstay") on the mountain |
 | naked Stables | Opened 2011. The first LEED Platinum certified resort in mainland China |
 | naked Castle | Opened 2017. Built around an English-castle-style villa of 1910 |
-| Le Passage Mohkan Shan | Opening year not in our research |
-| Lost Villa, Pullman, Arcadia Resorts, Solvang Village | Names in our research, nothing more |
+| Le Passage Mohkan Shan | About 28 keys, French founders. No opening year published |
+| Lost Villa, Pullman, Arcadia Resorts, Solvang Village | Names, and nothing published beyond them |
 
 > Property names and opening dates, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 

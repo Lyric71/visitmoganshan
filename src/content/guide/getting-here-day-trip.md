@@ -75,7 +75,7 @@ If you are doing it anyway, do it like this. The timings below assume the D377, 
 
 Two warnings on that table. The 15:45 line is not padding. Getting back to the transfer point takes longer than the map suggests, and the centre stops working at 18:00 regardless of where you are standing.
 
-Second, we have not verified the last evening service from Deqing back to Hongqiao. Check it on a booking app before you leave. Missing it turns a tight day into an unplanned night.
+Second, check the last evening service from Deqing back to Hongqiao on a booking app before you leave, and hold a seat on it. Missing it turns a tight day into an unplanned night.
 
 Scenic-area ticket prices vary by source and season. One source gives RMB 120 online and RMB 130 at the gate, another RMB 50 off-season and RMB 80 in peak. Winter tickets are half price. Check at booking rather than trusting any single number, including ours.
 

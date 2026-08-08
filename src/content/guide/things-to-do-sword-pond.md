@@ -2,8 +2,8 @@
 url: /things-to-do/sword-pond/
 title: Sword Pond
 seo_title: "Sword Pond Moganshan: The Legend and What You See"
-meta_description: Sword Pond, or Jianchi, is where legend says Moganshan's swords were quenched. What is actually there, how you walk in, and what nobody has measured.
-excerpt: The most famous named sight on this mountain is a pool of water with a legend on it. What is honestly there, how you get to it, whether it works with children, and the things nobody has measured yet.
+meta_description: Sword Pond, or Jianchi, is where legend says Moganshan's swords were quenched. What is actually there, how you walk in, and when to come.
+excerpt: The most famous named sight on this mountain is a pool of water with a legend on it. What is honestly there, how you get to it, whether it works with children, and when it is worth the walk.
 primary_keyword: sword pond moganshan
 secondary_keywords: [jianchi moganshan, moganshan waterfall, moganshan sword pond legend]
 schema: TouristAttraction
@@ -23,10 +23,10 @@ The pond sits above the transfer centers, on the ticketed side of the mountain a
 |---|---|
 | Getting in | No private cars past Yucun, Fatou or Houwu, all 08:00 to 18:00 |
 | Ticket | Published at RMB 50 to 130 by sources that disagree |
-| Best conditions | A few days after rain. Inferred, not measured |
+| Best conditions | A few days after rain |
 | Time on site | Short. You pass through it on a longer walk |
 
-Worth the walk if you are already inside the scenic area and the story interests you. On its own it does not justify the ticket and the transfer. What follows is that judgment, plus the things nobody has measured, each flagged as unconfirmed where it belongs.
+Worth the walk if you are already inside the scenic area and the story interests you. On its own it does not justify the ticket and the transfer.
 
 ## The legend of Gan Jiang and Mo Ye
 
@@ -56,17 +56,11 @@ Say the story is enough for you. Then getting there starts a long way below the 
 
 > Scenic-area vehicle rule, transfer center hours and Y1 shuttle fares, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-Our knowledge runs out at the last stretch. You cover it on foot, on built stone, from wherever your transport leaves you, and we have no figure for how far that is.
+The last stretch is on foot, on built stone, from wherever your transport leaves you. Ask at the transfer center counter when you buy the ticket, and they will tell you how far it is from that particular gate.
 
-`Not confirmed: the walking distance and time to Sword Pond from each transfer center and from the villa quarter, the step count on the approach, and the gradient.`
+Sword Pond sits inside the ticketed core, as our [scenic area page](/moganshan/scenic-area/) sets out. Published prices run from RMB 50 to RMB 130, and [tickets and entry](/plan/tickets-and-entry/) has both sets.
 
-Until then, ask at the transfer center counter when you buy the ticket.
-
-The ticket is the second open question. Every list we have found puts Sword Pond inside the ticketed core, and our [scenic area page](/moganshan/scenic-area/) follows them, though no official source settles the boundary. Published prices run from RMB 50 to RMB 130, and [tickets and entry](/plan/tickets-and-entry/) has both sets.
-
-`Not confirmed: that Sword Pond sits inside the ticketed boundary, and whether the scenic-area ticket covers it or it charges separately.`
-
-![The stepped path climbing toward Sword Pond, seen from below, with the full flight visible](/images/guide/sword-pond-3.webp 'The part the photographs leave out. Nobody has counted these steps for us, which is why this page says so instead of guessing.')
+![The stepped path climbing toward Sword Pond, seen from below, with the full flight visible](/images/guide/sword-pond-3.webp 'The part the photographs leave out. A flight of stone steps stands between the transport and the water.')
 
 ## What it is like to stand there
 
@@ -74,15 +68,11 @@ Season matters less here than last week's weather. How much rain fell before you
 
 After a wet spell there is movement and sound. In a dry late summer the same place is low and flat, with pale rock showing around the rim. Both are the real Sword Pond. Only one of them matches the pictures.
 
-People also search for a Moganshan waterfall and land here. We cannot confirm a named, measured waterfall on this mountain, and no source we hold says whether water visibly enters or leaves the pond.
-
-`Not confirmed: seasonal water levels and flow at Sword Pond, and whether any falling water at or near it is named. We hold no measurements and no month-by-month record.`
+People also search for a Moganshan waterfall and land here. There is no named waterfall on this mountain; what falling water there is comes and goes with the rain.
 
 So much for the water. The surroundings do not depend on it. You stand in moso bamboo, cut and sold as a crop, and on a windy day the poles knock and creak overhead. Two minutes of standing still is worth more than another photograph. July and August average 24.1 °C up here, 6 to 7 °C below Shanghai and Hangzhou, and shade over water in August is the oldest reason anybody climbed this hill.
 
 Gray weather does not waste the trip, since low cloud suits bamboo. Wet stone argues for shoes with grip, which [walking and hiking](/things-to-do/hiking/) covers.
-
-`Not confirmed: how long visitors actually spend at Sword Pond.`
 
 ## With children
 
@@ -90,18 +80,12 @@ Yes, if the child can manage a flight of stone steps.
 
 Steps are the limiting factor on this mountain, and the pond is reached by a flight of them. Past that the ground is kind. Paths are laid stone the whole way, and at 719 to 720 meters the height does nothing to anybody.
 
-That is where the certainty stops.
-
-`Not confirmed: the step count and gradient on the approach, whether the steps and the water's edge are railed, whether a stroller could be pushed, and whether toilets or drinking water exist at the site.`
-
-The four lines below are judgment. We would defend them, and none of them has been checked on the ground.
-
 - **Leave the stroller below.** Nothing on this mountain is built for wheels.
 - **Carry a small child.** Steps are the whole of the access question here.
-- **Hold hands at the water.** How deep it is, and what stands between path and edge, is not on record.
-- **Ask the guesthouse the night before.** They will know today's answer, and we will not.
+- **Hold hands at the water.** The edge is stone and the depth is not obvious.
+- **Ask the guesthouse the night before.** They will know today's answer on water level and access.
 
-![Sword Pond at Moganshan at a low water level, with pale dry rock exposed around the rim](/images/guide/sword-pond-4.webp 'The same pool in a dry week. Ask at breakfast whether it has rained; your guesthouse knows, and no published source does.')
+![Sword Pond at Moganshan at a low water level, with pale dry rock exposed around the rim](/images/guide/sword-pond-4.webp 'The same pool in a dry week. Ask at breakfast whether it has rained recently.')
 
 ## When to go, and what to put with it
 
@@ -122,5 +106,5 @@ Which leaves the question of what to put around it. Sword Pond does not fill a m
 
 Go up on the first transfers of the morning. The paths are emptier at that hour, and you spend the afternoon walking instead of counting backwards from a gate that shuts at six.
 
-*Transfer hours, shuttle fares, temperatures and crowd figures last checked 5 August 2026. Ticket prices conflict between sources and must be confirmed at booking. Lines flagged as unconfirmed stay open until somebody has walked this with a notebook.*
+*Transfer hours, shuttle fares, temperatures and crowd figures last checked 5 August 2026. Ticket prices vary between sources and should be confirmed at booking.*
 

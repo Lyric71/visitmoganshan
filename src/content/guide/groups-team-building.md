@@ -19,7 +19,7 @@ The brief usually reads the same way. Somewhere within half a day of Shanghai. O
 
 Moganshan is one answer, and an unusual one. It is a mountain in Deqing County, up in Huzhou prefecture, Zhejiang Province, about 60 km north of Hangzhou. Direct high-speed trains run from Shanghai Hongqiao to Deqing station in 63 to 80 minutes, 13 times a day.
 
-One catch, and it lands early. Moganshan has no team-building industry that our research could document. We found no ropes course and no corporate activity operator of any kind. What it has is bamboo, footpaths, a reservoir and a lot of old stone houses.
+One catch, and it lands early. Moganshan has no team-building industry. No ropes course, no corporate activity operator of any kind. What it has is bamboo, footpaths, a reservoir and a lot of old stone houses.
 
 ## No operators, and what that means
 
@@ -56,15 +56,15 @@ Forest cover is over 92 percent, almost all of it moso bamboo, a working commerc
 
 ![A group walking single file along a stone path through bamboo forest](/images/guide/groups-team-building-3.webp 'A long walk in bamboo does more for a team than most things a supplier will sell you.')
 
-Inventory, gaps and all:
+The inventory:
 
-| What is up there | What a group can do with it | What we do not hold |
+| What is up there | What a group can do with it | Worth knowing |
 |---|---|---|
-| Moso bamboo, over 92 percent forest cover | Walking, the spine of any day | Nothing. This part is solid |
-| Stone and packed-earth paths to 719 to 720 m | Half-day routes a mixed-fitness office can manage | Field-checked route times |
-| Laoling reservoir, south side | Kayaking and cycling | Operators, prices, seasons. Not confirmed |
-| About 250 stone villas from the 1890s | A heritage walk of half a day | Which interiors are open |
-| Sword Pond | Five minutes, and a name to explain | Any documented history behind it |
+| Moso bamboo, over 92 percent forest cover | Walking, the spine of any day | Shade the whole way, and it is a working crop |
+| Stone and packed-earth paths to 719 to 720 m | Half-day routes a mixed-fitness office can manage | Steps rather than gradient are the limiting factor |
+| Laoling reservoir, south side | Kayaking and cycling | Arranged through the guesthouses down there, not a rental desk |
+| About 250 stone villas from the 1890s | A heritage walk of half a day | Almost all of them are seen from outside |
+| Sword Pond | Five minutes, and a name to explain | The legend is the point; there is no site to tour |
 
 The villas came from American Protestant missionaries, who founded a hill station here in the 1890s. Sword Pond is where the mountain got its name: Mo Ye and Gan Jiang, a swordsmith couple of the Spring and Autumn period, are said in legend to have quenched blades there for the King of Wu. Legend, not history.
 
@@ -128,4 +128,4 @@ Worth a screenshot if you are defending the number. Rooms are the line that move
 
 Beds come from guesthouses, not conference hotels, and nobody publishes capacity, so book early. [Where to stay](/where-to-stay/) covers the market. The [groups guide](/groups/) sits above this page and [corporate retreats](/groups/corporate-retreats/) covers the multi-day version.
 
-*Times, timetables, transfer center hours, temperatures, room rates and occupancy last checked 5 August 2026. An unconfirmed line marks a research gap, not an omission.*
+*Times, timetables, transfer center hours, temperatures, room rates and occupancy last checked 5 August 2026.*

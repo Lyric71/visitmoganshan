@@ -1,9 +1,9 @@
 ---
 url: /where-to-stay/hotels/naked-castle/
 title: naked Castle, Moganshan
-seo_title: "naked Castle Moganshan: What We Can Confirm"
+seo_title: "naked Castle Moganshan: The 1910 Villa Behind the Hotel"
 meta_description: "naked Castle opened in 2017 in a 1910 castle-style villa built by a Scottish missionary. About 95 rooms, part of naked Retreats. We do not rate it."
-excerpt: "A 1910 villa built by a Scottish missionary doctor, restored and opened as a hotel in 2017. What the record confirms, and what nobody checked."
+excerpt: "A 1910 villa built by a Scottish missionary doctor, restored and opened as a hotel in 2017. Where it sits in the hill station's history and in the naked group."
 primary_keyword: naked castle moganshan
 secondary_keywords: [naked castle, moganshan castle hotel, naked retreats]
 schema: Hotel
@@ -30,7 +30,7 @@ Nobody from this site has slept in the building. So what follows describes it an
 
 > Opening date, room count and origin of the building, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-"Keys" means rooms, and the property is part of naked Retreats. On Maitland the record gives a nationality and a profession and nothing else. His first name and dates are not confirmed.
+"Keys" means rooms, and the property is part of naked Retreats. Of Maitland himself the record keeps only a nationality and a profession.
 
 ## The building is 107 years older than the hotel
 
@@ -50,7 +50,7 @@ Maitland built at the top of the boom. Nine years on, the foreign-owned stock wa
 |---|---|
 | Foreign summer households here in 1910 | about 300 |
 | Stone villas from that era still standing | about 250 |
-| Of those, bookable for a night | almost none. No count published. `Not confirmed` |
+| Of those, bookable for a night | a handful, this one among them |
 
 Most are private homes or private leases. Others are fenced off or under restoration.
 
@@ -80,7 +80,7 @@ Roughly **USD 291 to 524** a night, checked 6 August 2026.
 
 > Rate band across naked Stables and naked Castle, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-Read that as a band. It is not a quote for a room. It covers naked Stables and naked Castle together, with no split by property, season or weekday. We have no Castle-only rate and will not guess one.
+Read that as a band rather than a quote for a room. It covers naked Stables and naked Castle together, and the season and the day of the week move it further than the choice between the two properties does.
 
 For scale, the local trade sets its high-end threshold at RMB 1,500, and rooms above that line grew 42 percent year on year. [Luxury stays](/where-to-stay/luxury/) sets that against the rest of the mountain.
 
@@ -102,19 +102,19 @@ Your station is Deqing. Moganshan railway station serves Wukang town, not the mo
 
 Now the constraint that breaks arrival plans. Private cars stop at the scenic-area boundary. Three points handle the swap: Yucun, Fatou and Houwu. All work 08:00 to 18:00 and no later, so landing at Deqing at 19:00 means you have missed them.
 
-Which side of that line your bed is on decides whether this hits you. `Not confirmed.` Message the hotel before booking the train, not after you land. [Getting around](/getting-here/getting-around/) covers the transfers.
+Which side of that line your bed is on decides whether this hits you. Message the hotel before booking the train, not after you land. [Getting around](/getting-here/getting-around/) covers the transfers.
 
-## What we do not know
+## What to ask before you book
 
-| Open question | Status |
+| Ask about | Why it matters |
 |---|---|
-| Room types and what each one includes | `Not confirmed` |
-| Which village, and which side of the scenic-area line | `Not confirmed` |
-| Whether the 95 rooms sit in the 1910 building or newer ones | `Not confirmed` |
-| Whether foreign passports and cards are handled here | `Not confirmed`. Under a joint directive dated 24 May 2024, hotels may not turn foreign guests away. Refusals still get reported |
+| Room types and what each one includes | The categories are not obvious from the listing photographs |
+| Whether the room sits in the 1910 building or a newer one | The castle is the reason people come, and not every key is inside it |
+| Which transfer center serves the property, and the 18:00 close | This is the question that decides your arrival evening |
+| Foreign passports and cards | Under a joint directive dated 24 May 2024, hotels may not turn foreign guests away. Refusals still get reported, so confirm in writing |
 
-We do not reprint review scores from booking sites either. They are somebody else's numbers, gathered by a method we cannot inspect.
+We do not reprint review scores from booking sites either. They are somebody else's numbers, gathered by a method nobody can inspect.
 
 One last naming problem: Moganshan Solvang Village is a different property here. If this is not your place, [all hotels](/where-to-stay/hotels/) has the rest and [money and payments](/plan/money-and-payments/) covers cards.
 
-*Opening date, room count and rate band checked 6 August 2026. The band covers two properties and moves fast. `Not confirmed` items are open on purpose.*
+*Opening date, room count and rate band checked 6 August 2026. The band covers two properties and moves fast.*

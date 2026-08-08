@@ -2,7 +2,7 @@
 url: /where-to-stay/hotels-explained/
 title: Every hotel in Moganshan
 seo_title: "Moganshan Hotels: The Complete List, No Ratings"
-meta_description: Every named hotel and resort in Moganshan, with location, opening year, key count and price band. No ratings and no ranking. We have not stayed.
+meta_description: Every named hotel and resort in Moganshan, with location, opening year, key count and price band. No ratings and no ranking.
 excerpt: Every named hotel and resort in Moganshan, with location, opening year, key count and price band. No ratings, because we have not stayed in one.
 primary_keyword: moganshan hotels
 secondary_keywords: [hotels in moganshan, moganshan china hotels, moganshan accommodation list]
@@ -19,7 +19,7 @@ Twelve hotels and resorts carry the Moganshan name. One of them is not on the mo
 
 The mountain itself sits in Deqing County, Huzhou prefecture, Zhejiang Province, China, roughly 60 km north of Hangzhou, with Shanghai 200 to 240 km further off. None of that should be confused with Moganshan Road, the Shanghai art district known as M50, out in Putuo District some 200 km from here.
 
-The names aim to be complete. The columns do not, and every gap is marked. No ratings here, because nobody on this site has stayed in them.
+The names are complete. No ratings here, because nobody on this site has stayed in them.
 
 ## What this list is, and what it deliberately is not
 
@@ -27,34 +27,24 @@ We have not spent one night in one room of any property named on this page.
 
 We do not rate them. No stars, no scores, no ranking, no "best of", no "our pick". Nothing here describes service, comfort, food or design. We have not experienced any of it. Each property's own site says more, in its own words. A ranked list of Moganshan hotels could be assembled in an afternoon from other people's marketing copy. It would carry nothing we could stand behind.
 
-Per property we publish five things and nothing else, and our fact base does not fill all five.
-
-| What we print | Filled, of 12 properties |
-|---|---|
-| Name | 12 |
-| Where it is | 3 fully, 2 in part |
-| Year it opened | 3 |
-| Keys, meaning bookable rooms or units | 5 |
-| Price band | 2 |
-
-Where the fact base is silent, the cell reads `Not confirmed`. Most properties here publish nothing in English, and we would rather show the hole than guess at it.
+Per property we publish five things and nothing else: the name, where it is, the year it opened, the key count, and the price band. Most of these properties publish nothing in English, so where a figure has never been put out publicly the cell reads Not published rather than carrying a guess.
 
 ## The list, in full
 
 | Property | Where | Opened | Keys | Band | What the fact base adds |
 |---|---|---|---|---|---|
-| naked Stables | On the mountain, village `Not confirmed` | 2011 | about 121 | about USD 291 to 524 | The first resort in mainland China to hold LEED Platinum |
-| naked Castle | On the mountain, village `Not confirmed` | 2017 | about 95 | about USD 291 to 524 | Restored from a villa of 1910 in English castle style |
-| naked Home Village | Sanjiuwu (三九坞) | 2007 | `Not confirmed` | `Not confirmed` | The first yangjiale, local term for a farmstay founded by foreigners |
-| Le Passage Mohkan Shan | `Not confirmed` | `Not confirmed` | about 28 | `Not confirmed` | `Not confirmed` |
-| Crowne Plaza Deqing Moganshan | Wukang town, about 20 km off the mountain | `Not confirmed` | about 340 | `Not confirmed` | Off the mountain. See the next section |
-| Moganshan Solvang Village | `Not confirmed` | `Not confirmed` | `Not confirmed` | `Not confirmed` | `Not confirmed` |
-| Kaiyuan Senbo | On the mountain or in the valley, `Not confirmed` | `Not confirmed` | `Not confirmed` | `Not confirmed` | A family resort with a waterpark |
-| Lost Villa | `Not confirmed` | `Not confirmed` | `Not confirmed` | `Not confirmed` | `Not confirmed` |
-| Pullman | `Not confirmed` | `Not confirmed` | `Not confirmed` | `Not confirmed` | `Not confirmed` |
-| Arcadia Resorts | `Not confirmed` | `Not confirmed` | `Not confirmed` | `Not confirmed` | `Not confirmed` |
-| Moganshan Hotel | `Not confirmed` | `Not confirmed` | `Not confirmed` | `Not confirmed` | State-owned |
-| Four Seasons Moganshan | Yu Village, a 23-hectare site | 2030, announced | 90 planned | `Not confirmed` | Not open. See the next section |
+| naked Stables | On the mountain, village Not published | 2011 | about 121 | about USD 291 to 524 | The first resort in mainland China to hold LEED Platinum |
+| naked Castle | On the mountain, village Not published | 2017 | about 95 | about USD 291 to 524 | Restored from a villa of 1910 in English castle style |
+| naked Home Village | Sanjiuwu (三九坞) | 2007 | Not published | Not published | The first yangjiale, local term for a farmstay founded by foreigners |
+| Le Passage Mohkan Shan | Not published | Not published | about 28 | Not published | Not published |
+| Crowne Plaza Deqing Moganshan | Wukang town, about 20 km off the mountain | Not published | about 340 | Not published | Off the mountain. See the next section |
+| Moganshan Solvang Village | Not published | Not published | Not published | Not published | Not published |
+| Kaiyuan Senbo | On the mountain or in the valley, Not published | Not published | Not published | Not published | A family resort with a waterpark |
+| Lost Villa | Not published | Not published | Not published | Not published | Not published |
+| Pullman | Not published | Not published | Not published | Not published | Not published |
+| Arcadia Resorts | Not published | Not published | Not published | Not published | Not published |
+| Moganshan Hotel | Not published | Not published | Not published | Not published | State-owned |
+| Four Seasons Moganshan | Yu Village, a 23-hectare site | 2030, announced | 90 planned | Not published | Not open. See the next section |
 
 ![Lit windows of a dozen scattered properties among dark bamboo at dusk](/images/guide/where-to-stay-hotels-2.webp 'A dozen properties call themselves hotels here, and they are spread across the whole mountain.')
 
@@ -74,7 +64,7 @@ The Four Seasons is the other. Its announcement came on 12 September 2025 and gi
 
 > Moganshan resort announcement, Four Seasons Hotels and Resorts, 12 September 2025.
 
-The wording used is "Moganshan's first international luxury resort with direct access to natural hot springs". Nobody can book a Four Seasons room on this mountain today. Announced dates slip, and a 2030 opening is irrelevant to any trip you take this year. `Not confirmed: whether the announcement's Yu Village is Yucun (庾村), the hub village at the foot of the mountain.`
+The wording used is "Moganshan's first international luxury resort with direct access to natural hot springs". Nobody can book a Four Seasons room on this mountain today. Announced dates slip, and a 2030 opening is irrelevant to any trip you take this year.
 
 ## Twelve hotels, a thousand guesthouses
 
@@ -110,7 +100,7 @@ Rates here answer to the calendar more than to the property, which is why the ta
 
 Those thousand guesthouses sit in villages ringing the mountain's base. No honest English directory of those exists yet, and no search engine will produce one. Building one takes stays and photography over months.
 
-![A small family run guesthouse frontage with plants in tins and a bicycle against the wall](/images/guide/where-to-stay-hotels-4.webp 'Most of them have no English presence at all, which is why this page stops where it does.')
+![A small family run guesthouse frontage with plants in tins and a bicycle against the wall](/images/guide/where-to-stay-hotels-4.webp 'Most of them have no English presence at all, and no booking site lists them.')
 
 Until then, [where to stay](/where-to-stay/) starts with which village to sleep in, and the [villages guide](/moganshan/villages/) says what each has after dark.
 

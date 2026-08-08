@@ -19,7 +19,7 @@ Between the two cities almost every first-time visitor to eastern China already 
 
 Check you have the right place first. Moganshan Road in Shanghai's Putuo District is the M50 art district, 200 km from here, and it dominates the search results.
 
-Last checked 5 August 2026. This is a routing page about trains and the order you take them in. It does not tell you what to see in Shanghai or Hangzhou, because our fact base covers the mountain and the rail corridor, not the cities. Use a city guide for those days. A line flagged as unconfirmed marks a gap we would not guess at.
+Last checked 5 August 2026. This is a routing page about trains and the order you take them in. It does not tell you what to see in Shanghai or Hangzhou; use a city guide for those days.
 
 ## Why the mountain goes in the middle
 
@@ -90,8 +90,6 @@ Most long-haul flights arrive at Pudong. If you have the choice, fly into Hongqi
 
 A full day in the city, then a second night.
 
-Not confirmed: Shanghai sights and opening hours.
-
 ### Day 3: Shanghai to Moganshan
 
 Take a morning or early-afternoon train from Hongqiao to Deqing. Sample departures run 08:11, 12:12 and 17:39, but numbers change with each timetable revision. The full list and booking steps are on our [Shanghai to Moganshan by train](/getting-here/from-shanghai/by-train/) page.
@@ -108,8 +106,6 @@ Your own car stops at the scenic-area boundary. You change to authorized transpo
 
 The shortest leg by a wide margin. Spend the morning on the mountain and you still get most of a day in Hangzhou. Our [Hangzhou to Moganshan](/getting-here/from-hangzhou/) page covers both directions. Xiaoshan is the airport at this end.
 
-Not confirmed: Hangzhou sights and Xiaoshan transfer times.
-
 ## Running it in reverse
 
 Backwards works just as well. Both legs are identical either way, so the choice comes down to your departure airport.
@@ -120,9 +116,7 @@ Backwards works just as well. Both legs are identical either way, so the choice 
 | Shanghai Hongqiao or Pudong | Hangzhou, Moganshan, Shanghai |
 | Shanghai, but you want the mountain last | Shanghai, Hangzhou, Moganshan, then back to Shanghai |
 
-That third row is the one people ask about most. The order works, but you cross the same ground twice, and the Shanghai to Hangzhou leg is outside our measured set.
-
-Not confirmed: Shanghai Hongqiao to Hangzhou East journey time and frequency.
+That third row is the one people ask about most. The order works, but you cross the same ground twice, and the Shanghai to Hangzhou leg is an hour of train you did not need to take.
 
 ## Visas: the 240-hour rule
 

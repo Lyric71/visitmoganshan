@@ -2,8 +2,8 @@
 url: /things-to-do/utmb-mogan/
 title: Ultra-Trail Mogan by UTMB
 seo_title: "Moganshan by UTMB: The Ultra-Trail Mogan Race"
-meta_description: "Ultra-Trail Mogan runs under the UTMB World Series. Dates, distances and fees are unverified. What we confirm, plus terrain, beds and the 18:00 gate."
-excerpt: "Ultra-Trail Mogan runs under the UTMB World Series. Dates, distances and fees are unverified, so get those from UTMB. We cover terrain, beds and transport."
+meta_description: "Ultra-Trail Mogan runs under the UTMB World Series. What the terrain is like, why you book a bed first, and the 18:00 transfer gate that shapes race day."
+excerpt: "Ultra-Trail Mogan runs under the UTMB World Series. Dates and distances come from UTMB; this page covers the terrain, the beds and the transport."
 primary_keyword: moganshan by utmb
 secondary_keywords: [ultra trail mogan, moganshan trail race, utmb china]
 schema: Article
@@ -19,40 +19,25 @@ A trail race called Ultra-Trail Mogan runs on Moganshan under the UTMB World Ser
 
 The mountain is in Deqing County, Huzhou prefecture, Zhejiang Province, China. The nearest big city is Hangzhou, 60 km south, and Shanghai is 200 to 240 km away. Check the name before you enter anything: there is a Moganshan Road 200 km from here, in Shanghai's Putuo District, an art quarter that clutters these results.
 
-## Two things we can confirm, and a long list we cannot
+## The race, and where to get its numbers
 
-Our research confirms Ultra-Trail Mogan runs under the UTMB World Series, and that the series has published video about it. UTMB World Series is the global circuit built around the Ultra-Trail du Mont-Blanc race in France. Finishing one of its races earns Running Stones, the credits that feed the Mont-Blanc lottery. How many depends on the distance.
+Ultra-Trail Mogan runs under the UTMB World Series, the global circuit built around the Ultra-Trail du Mont-Blanc race in France. Finishing one of its races earns Running Stones, the credits that feed the Mont-Blanc lottery, and how many depends on the distance you run.
 
 > Ultra-Trail Mogan's UTMB World Series affiliation and video coverage, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-That is all we can stand behind, as of 5 August 2026.
+Everything that decides whether you can enter comes from the organizer and only from the organizer:
 
-| What you need before entering | What our research shows |
-|---|---|
-| Whether an edition is scheduled this year | Not confirmed |
-| Race dates | Not confirmed |
-| Distances | Not confirmed |
-| Elevation gain | Not confirmed |
-| Cut-off times | Not confirmed |
-| Entry fee | Not confirmed |
-| Registration window | Not confirmed |
-| Running Stones earned | Not confirmed |
-| Field size | Not confirmed |
-| Start and finish location | Not confirmed |
+- whether an edition is scheduled this year, and on what date
+- the distances, elevation gain and cut-off times
+- the entry fee and the registration window
+- Running Stones earned per distance
+- field size, and where the start and finish sit
 
-Ten blanks, covering everything you would need to enter.
-
-Chinese events publish in Chinese first, and the English follows late and secondhand. We could fill that table in ten minutes with numbers that looked right. Plenty of pages have. Get a cut-off wrong and you turn up trained for the wrong race. Miss the entry window and you do not turn up.
-
-## Where to get the real numbers
-
-Go to the UTMB World Series site and open the Ultra-Trail Mogan event page. Everything in that empty table lives there. Search the official domain, not the race name: aggregators outrank organizers for a small Asian event.
-
-A distance taken from a third-party page, this one included, is not worth having.
+Go to the UTMB World Series site and open the Ultra-Trail Mogan event page. Search the official domain rather than the race name, because aggregators outrank organizers for a small Asian event, and a distance or a cut-off taken from a third-party page is not worth having. Chinese events publish in Chinese first, and the English follows late and secondhand.
 
 ## What the ground is actually like
 
-So much for the blanks. The organizer has the course. What follows is the ground it runs over.
+The organizer has the course. What follows is the ground it runs over.
 
 ![A steep rooted forest trail climbing a mountain shoulder with a runner far ahead](/images/guide/things-to-do-utmb-mogan-2.webp 'The ground is steep, stepped and often wet. It is a climbing course, not a fast one.')
 
@@ -68,7 +53,7 @@ Plan around the stone. Built steps punish legs in a way dirt does not, and wet s
 | July to August | 24.1 °C mean, 6 to 7 °C cooler than Shanghai and Hangzhou |
 | January | 1.4 °C mean, close to freezing |
 
-We have not measured a course: no distances, no gradients of our own. [Walking and hiking](/things-to-do/hiking/) marks the same gaps.
+[Walking and hiking](/things-to-do/hiking/) covers the same ground at walking pace.
 
 ## Book a bed before you book anything else
 
@@ -119,8 +104,8 @@ Scenic-area tickets are charged, and published prices disagree.
 | The other | RMB 50 off-season, RMB 80 at peak |
 | Both | Half price in winter |
 
-Whether a race entry covers the gate, we cannot say.
+Whether a race entry covers the gate is a question for the organizer, not the ticket office.
 
 The car ban settles what a supporter can do: nobody drives the course, so a companion follows on foot or by bus. [Getting around](/getting-here/getting-around/) explains that, and [things to do](/things-to-do/) covers what else is up here.
 
-*Figures on this page were checked 5 August 2026, when all ten race details above were unverified. Confirm the race with UTMB World Series.*
+*Figures on this page were checked 5 August 2026. Confirm the race itself, and every number attached to it, with UTMB World Series.*
