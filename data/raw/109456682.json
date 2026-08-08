@@ -1,0 +1,81 @@
+{
+  "id": 109456682,
+  "name": "Shenshan Homestay",
+  "seedName": "Shenshan Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-109456682",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=109456682&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-109456682&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Facilities:Spacious rooms with large windows, modern amenities , fully equipped kitchens, and scenic views.(based on 6 reviews) Service:Hosts are warm and helpful, providing travel advice and flexible meal options .(based on 11 reviews) Cleanliness:Rooms are consistently described as clean and well-maintained.(based on 10 reviews) Ambiance:Quiet, natural surroundings , and minimalist, cozy interior design.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Facilities",
+        "text": "Spacious rooms with large windows, modern amenities , fully equipped kitchens, and scenic views.",
+        "count": 6
+      },
+      {
+        "topic": "Service",
+        "text": "Hosts are warm and helpful, providing travel advice and flexible meal options .",
+        "count": 11
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms are consistently described as clean and well-maintained.",
+        "count": 10
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "About 100 meters southeast of Nanlu Village Villagers Committee, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$47",
+  "facilities": [
+    "Bar",
+    "Cardroom"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/109456682/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1e12000bkcs20l7C78.jpg"
+    },
+    {
+      "src": "/images/stays/109456682/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5r12000bgaeivy03D2.webp"
+    },
+    {
+      "src": "/images/stays/109456682/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0612000bhws88u3D35.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "很好的民宿天然的氧吧出門就是小溪往前走幾步就是魚鱗壩因為帶孩子在外面玩水老闆也給延遲了退房房間乾淨衞生早上的麪條也很好吃",
+      "author": "Guest User",
+      "date": "2025-06-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=109456682&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-109456682&trip_sub3=D19127628"
+    },
+    {
+      "quote": "位置就在魚鱗壩附近，而且去別的地方玩也很近，老闆還可以帶去挖筍，體驗很好，免費的，餐館吃的也不錯，總結下來還是挺好的！",
+      "author": "Guest User",
+      "date": "2025-04-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=109456682&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-109456682&trip_sub3=D19127628"
+    },
+    {
+      "quote": "很好的民宿天然的氧吧出門就是小溪往前走幾步就是魚鱗壩因為帶孩子在外面玩水老闆也給延遲了退房房間乾淨衞生早上的麪條也很好吃",
+      "author": "Guest User",
+      "date": "2025-06-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=109456682&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-109456682&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.1,
+    "count": 28,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:32:22.251Z",
+  "source": "trip"
+}

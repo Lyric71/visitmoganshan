@@ -1,0 +1,79 @@
+{
+  "id": 8494901,
+  "name": "the Red Tree Villa",
+  "seedName": "the Red Tree Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-8494901",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8494901&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8494901&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Hygiene:Rooms are clean and tidy, and the overall environment is clean. Toiletries are complete.(based on 10 reviews) Service:Owners and staff are enthusiastic, providing good service and travel recommendations(based on 10 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Hygiene",
+        "text": "Rooms are clean and tidy, and the overall environment is clean. Toiletries are complete.",
+        "count": 10
+      },
+      {
+        "topic": "Service",
+        "text": "Owners and staff are enthusiastic, providing good service and travel recommendations",
+        "count": 10
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 20 Cuiying Road, Yu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$52",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant",
+    "Playground",
+    "Kids' club"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/8494901/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201r120009r6pkc52275.jpg"
+    },
+    {
+      "src": "/images/stays/8494901/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200b0h0000008zowh64F4.webp"
+    },
+    {
+      "src": "/images/stays/8494901/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0204m120009mr3nqa2AE6.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "沒有踩雷的一次住宿！服務態度都很友好，洗漱用品備得很齊全，房間採光也不錯，安安靜靜睡了個好覺，滿意",
+      "author": "Guest User",
+      "date": "2026-06-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8494901&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8494901&trip_sub3=D19127628"
+    },
+    {
+      "quote": "老闆人超好，我們到之前就把房間空調打開了，院子裏還有個自家的游泳池，乾淨衞生。因為我們愛睡懶覺，快10點起床，早過了早飯時間，老闆還親自煮麪給我們吃，細心的給我做旅遊推薦，還有美食推薦。強烈安利一波。",
+      "author": "Anonymous User",
+      "date": "2025-08-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8494901&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8494901&trip_sub3=D19127628"
+    },
+    {
+      "quote": "沒有踩雷的一次住宿！服務態度都很友好，洗漱用品備得很齊全，房間採光也不錯，安安靜靜睡了個好覺，滿意",
+      "author": "Guest User",
+      "date": "2026-06-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8494901&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8494901&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 35,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:30:34.934Z",
+  "source": "trip"
+}

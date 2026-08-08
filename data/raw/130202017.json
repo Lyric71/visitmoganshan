@@ -1,0 +1,82 @@
+{
+  "id": 130202017,
+  "name": "moganshan yuebanwan clean yinju qingshe meisu",
+  "seedName": "moganshan yuebanwan clean yinju qingshe meisu",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-130202017",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=130202017&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-130202017&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service Quality:The landlord/owner is enthusiastic and thoughtful, helping with luggage, introducing local food and culture, and lending electric bicycles, etc.(based on 14 reviews) Facilities and Breakfast:The hotel has a swimming pool, and the breakfast is rich and diverse.(based on 8 reviews) Room Hygiene:The rooms are clean and tidy(based on 9 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service Quality",
+        "text": "The landlord/owner is enthusiastic and thoughtful, helping with luggage, introducing local food and culture, and lending electric bicycles, etc.",
+        "count": 14
+      },
+      {
+        "topic": "Facilities and Breakfast",
+        "text": "The hotel has a swimming pool, and the breakfast is rich and diverse.",
+        "count": 8
+      },
+      {
+        "topic": "Room Hygiene",
+        "text": "The rooms are clean and tidy",
+        "count": 9
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 67, Mogaowu, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$44",
+  "facilities": [
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/130202017/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4s12000t1iip9e6133.jpg"
+    },
+    {
+      "src": "/images/stays/130202017/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5i12000t1ipf9v09A1.webp"
+    },
+    {
+      "src": "/images/stays/130202017/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6a12000t1ij5hs021F.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Stumbled upon this guesthouse on Trip.com and booked it right away. The environment is absolutely fantastic, with an EV charging station and a swimming pool right on site. The best part is the owner, who is incredibly kind. They personally...",
+      "author": "Guest User",
+      "date": "2026-07-26",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=130202017&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-130202017&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Our stay in Moganshan this time was fantastic! The guesthouse overall was very clean and tidy. The host, Auntie, was incredibly warm and attentive, providing truly thoughtful service. The breakfast spread was extensive and very satisfying. It's a really reassuring...",
+      "author": "Guest User",
+      "date": "2026-07-26",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=130202017&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-130202017&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Nice room, and the service was very attentive. The owner was also very thoughtful with breakfast.",
+      "author": "Guest User",
+      "date": "2026-07-26",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=130202017&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-130202017&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 10,
+    "count": 26,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:32:00.854Z",
+  "source": "trip"
+}

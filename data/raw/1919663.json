@@ -1,0 +1,91 @@
+{
+  "id": 1919663,
+  "name": "Zhuling Shanju Hotel",
+  "seedName": "Zhuling Shanju Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1919663",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1919663&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1919663&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:Overwhelmingly praised for natural scenery , tranquility, and proximity to nature. Service:Hosts described as warm, helpful, and attentive .(based on 12 reviews) Cleanliness:Rooms and facilities were consistently noted as \"clean,\" \"tidy,\" and \"well-maintained.\"(based on 6 reviews) Location:Convenient access to nearby attractions and scenic settings .(based on 3 reviews) Value:Competitive pricing, especially during off-seasons, with some mentioning cost-effectiveness compared to surrounding accommodations.(based on 1 review) Guest Suggestion:Some customers suggest hygiene issues (dirty seats/rooms) and facilities problems (faulty sockets/noisy ACs)(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Overwhelmingly praised for natural scenery , tranquility, and proximity to nature. Service:Hosts described as warm, helpful, and attentive .",
+        "count": 12
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms and facilities were consistently noted as \"clean,\" \"tidy,\" and \"well-maintained.\"",
+        "count": 6
+      },
+      {
+        "topic": "Location",
+        "text": "Convenient access to nearby attractions and scenic settings .",
+        "count": 3
+      },
+      {
+        "topic": "Value",
+        "text": "Competitive pricing, especially during off-seasons, with some mentioning cost-effectiveness compared to surrounding accommodations.",
+        "count": 1
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest hygiene issues (dirty seats/rooms) and facilities problems (faulty sockets/noisy ACs)",
+      "count": 2
+    }
+  },
+  "address": "No. 44-1, Laoling Village, Mogan Town (Beside the Distribution Center of Moganshan Scenic Area), Deqing, Zhejiang, 313202, China",
+  "priceRange": "From US$38",
+  "facilities": [
+    "Restaurant",
+    "Cafe",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1919663/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0r12000c7vv500CBC1.jpg"
+    },
+    {
+      "src": "/images/stays/1919663/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1re6m12000b87h4ih2D60.webp"
+    },
+    {
+      "src": "/images/stays/1919663/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3p12000c7vunygFAE8.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "第一次點評住的地方 酒店和民宿都住過不少 實在沒見過這麼及其臟亂差的房間 水龍頭的水是黃的 馬桶圈上是有水漬的 地板是亂七八糟的臟的要命 衞生間的門是晃的 乾濕是不分離的 房間一進門是一股味道的 插座是殘次的還少的可憐 遙控器是很臟的 空調聲音是很吵的 但是老闆人不錯 有求必應而且熱心 以上都是實話實説 實在忍不住吐槽",
+      "author": "Elaine",
+      "date": "2026-08-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1919663&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1919663&trip_sub3=D19127628"
+    },
+    {
+      "quote": "第一次點評住的地方 酒店和民宿都住過不少 實在沒見過這麼及其臟亂差的房間 水龍頭的水是黃的 馬桶圈上是有水漬的 地板是亂七八糟的臟的要命 衞生間的門是晃的 乾濕是不分離的 房間一進門是一股味道的 插座是殘次的還少的可憐 遙控器是很臟的 空調聲音是很吵的 但是老闆人不錯 有求必應而且熱心 以上都是實話實説 實在忍不住吐槽",
+      "author": "Elaine",
+      "date": "2026-08-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1919663&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1919663&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間很乾凈，前面的陽台望出去有茶園，竹林，還有一個湖泊，晚上燈光配合很漂亮，房子後面景色也很美，放眼望去全是景色。 早餐的稀飯很nice，我每天都吃兩碗🙂，老闆娘也很好，房間衹有兩份早餐，但是我們帶了兩個寶子，沒加錢也吃了早餐。 這次去莫干山還會定他家酒店。",
+      "author": "Ada-strong",
+      "date": "2024-05-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1919663&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1919663&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.3,
+    "count": 27,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:33:22.140Z",
+  "source": "trip"
+}

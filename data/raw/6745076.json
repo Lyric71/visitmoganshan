@@ -1,0 +1,90 @@
+{
+  "id": 6745076,
+  "name": "Mogan Mountain Green Farm",
+  "seedName": "Mogan Mountain Green Farm",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-6745076",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6745076&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6745076&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Proximity to scenic spots and convenient access.(based on 3 reviews) Accommodation:Spacious rooms with solid, well-maintained facilities .(based on 4 reviews) Cleanliness:Rooms described as \"tidy,\" \"clean,\" and \"dry\" with no dampness despite rain.(based on 2 reviews) Service:Hosts praised for warmth and hospitality, with meals highlighted as flavorful and reasonably priced.(based on 1 review) Ambiance:Rustic, nostalgic atmosphere suitable for dining and relaxation. Amenities:Basic but functional facilities, with breakfast provided .(based on 4 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Proximity to scenic spots and convenient access.",
+        "count": 3
+      },
+      {
+        "topic": "Accommodation",
+        "text": "Spacious rooms with solid, well-maintained facilities .",
+        "count": 4
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms described as \"tidy,\" \"clean,\" and \"dry\" with no dampness despite rain.",
+        "count": 2
+      },
+      {
+        "topic": "Service",
+        "text": "Hosts praised for warmth and hospitality, with meals highlighted as flavorful and reasonably priced.",
+        "count": 1
+      },
+      {
+        "topic": "Ambiance",
+        "text": "Rustic, nostalgic atmosphere suitable for dining and relaxation. Amenities:Basic but functional facilities, with breakfast provided .",
+        "count": 4
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "50 meters south of Yangguang Horticulture, Gaofeng Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$46",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/6745076/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200p0s000000hkqwi69A7.jpg"
+    },
+    {
+      "src": "/images/stays/6745076/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200c0s000000ho96sAFFC.webp"
+    },
+    {
+      "src": "/images/stays/6745076/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200c0t000000ii7u43592.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "🏡一個人住的大床房，古風韻味十足，木質結構搭配暖光燈，温馨又雅緻✨。店主熱情好客，入住體驗很貼心😊。窗外綠意盎然，田園風光盡收眼底🌿，夜晚靜謐舒適，適合放鬆身心🌙。整體感受超值👍！！",
+      "author": "Guanqirenshi",
+      "date": "2026-01-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6745076&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6745076&trip_sub3=D19127628"
+    },
+    {
+      "quote": "🏡一個人住的大床房，古風韻味十足，木質結構搭配暖光燈，温馨又雅緻✨。店主熱情好客，入住體驗很貼心😊。窗外綠意盎然，田園風光盡收眼底🌿，夜晚靜謐舒適，適合放鬆身心🌙。整體感受超值👍！！",
+      "author": "Guanqirenshi",
+      "date": "2026-01-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6745076&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6745076&trip_sub3=D19127628"
+    },
+    {
+      "quote": "老闆娘老闆都很熱情，要在裏面吃飯的話要提前講好，老闆手藝可以，燒菜燒的家常菜味道挺好，農莊環境很有舊時候的感覺，在這邊吃飯喝酒很有氛圍，值得一去，吃飯喝酒住宿的好地方",
+      "author": "Guoguoheyaoyaodeshijieditu",
+      "date": "2024-07-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6745076&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6745076&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.4,
+    "count": 13,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:35:14.010Z",
+  "source": "trip"
+}

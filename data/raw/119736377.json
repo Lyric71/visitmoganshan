@@ -1,0 +1,92 @@
+{
+  "id": 119736377,
+  "name": "Suo · Fei · Parent Child Mountain Luxury Beauty Hotel",
+  "seedName": "Suo · Fei · Parent Child Mountain Luxury Beauty Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-119736377",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=119736377&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-119736377&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment Location:The environment is quiet and suitable for leisure and lying flat, and the surrounding area is quiet with comfortable evening walks(based on 3 reviews) Decoration:The overall decoration is gentle and stylish, with soft lighting and romantic atmosphere(based on 1 review) Facilities:The facilities are complete and perfect, and the supporting facilities are complete(based on 2 reviews) Bedding:The bed sheets are soft and comfortable, and the mattress is neither too hard nor too soft(based on 6 reviews) Check-in Process:The check-in process is simple, convenient and worry-free Hygiene:The hygiene is well done and meticulous, without a strong commercial feeling(based on 6 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment Location",
+        "text": "The environment is quiet and suitable for leisure and lying flat, and the surrounding area is quiet with comfortable evening walks",
+        "count": 3
+      },
+      {
+        "topic": "Decoration",
+        "text": "The overall decoration is gentle and stylish, with soft lighting and romantic atmosphere",
+        "count": 1
+      },
+      {
+        "topic": "Facilities",
+        "text": "The facilities are complete and perfect, and the supporting facilities are complete",
+        "count": 2
+      },
+      {
+        "topic": "Bedding",
+        "text": "The bed sheets are soft and comfortable, and the mattress is neither too hard nor too soft",
+        "count": 6
+      },
+      {
+        "topic": "Check-in Process",
+        "text": "The check-in process is simple, convenient and worry-free Hygiene:The hygiene is well done and meticulous, without a strong commercial feeling",
+        "count": 6
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 74, Village Group 12, Houwu Village, Fatou Township, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$51",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/119736377/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1y12000fb0i6p83D71.jpg"
+    },
+    {
+      "src": "/images/stays/119736377/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1h12000dwyohfu395B.webp"
+    },
+    {
+      "src": "/images/stays/119736377/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4l12000dwym27x5A99.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "滿分民宿！清幽安靜，綠化環境超棒。房間乾淨透亮，床鋪很適合家庭、朋友同住，衞生做得特別到位，軟裝温馨舒適。房東熱情好溝通，入住流程簡單方便，住着安心放鬆，出行便利，性價比很高，真心推薦",
+      "author": "Guest User",
+      "date": "2026-07-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=119736377&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-119736377&trip_sub3=D19127628"
+    },
+    {
+      "quote": "台盆、浴缸全部都是漏水的，洗澡水是黃色的，馬桶早上壞了找不到服務人員，早飯也沒得吃，直到下午13:32分才有服務人員出現",
+      "author": "Guest User",
+      "date": "2026-07-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=119736377&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-119736377&trip_sub3=D19127628"
+    },
+    {
+      "quote": "和對象一起來度假選的這家民宿，氛圍感直接拉滿！裝修温柔浪漫，軟裝很有小心思，燈光柔和，拍照特別好看。房間乾淨無異味，床品軟糯，私密性很好，隔音優秀。房東温柔貼心，入住流程簡單省心，周邊環境安靜，傍晚散步很舒服。設施完善，洗漱用品品質在線，性價比拉滿，二人約會首選，強烈安利給情侶！",
+      "author": "Guest User",
+      "date": "2026-07-14",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=119736377&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-119736377&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 7.2,
+    "count": 13,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:35:51.650Z",
+  "source": "trip"
+}

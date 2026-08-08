@@ -1,0 +1,91 @@
+{
+  "id": 5209017,
+  "name": "Youzi Jiuji Holiday Villa (Moganshan Naked Valley Branch)",
+  "seedName": "Youzi Jiuji Holiday Villa (Moganshan Naked Valley Branch)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5209017",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5209017&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5209017&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Situated in the Moganshan International Tourism Resort, offering proximity to attractions like Moganshan Scenic Area and Yucun Scenic Area .(based on 2 reviews) Environment:Scenic surroundings with ivy-covered walls, flower-scented air, and quiet, relaxing atmosphere. Each room has an independent balcony with excellent views.(based on 8 reviews) Facilities:Equipped with free parking, swimming pool, KTV, and wooden structure interiors. Rooms are spacious, clean, and feature comfortable beds and sofas.(based on 1 review) Service:Staff are friendly and helpful, providing useful travel information and accommodating needs .(based on 10 reviews) Amenities:Free breakfast with unique local flavors; private courtyards for relaxation; child-friendly spaces for families.(based on 1 review)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Situated in the Moganshan International Tourism Resort, offering proximity to attractions like Moganshan Scenic Area and Yucun Scenic Area .",
+        "count": 2
+      },
+      {
+        "topic": "Environment",
+        "text": "Scenic surroundings with ivy-covered walls, flower-scented air, and quiet, relaxing atmosphere. Each room has an independent balcony with excellent views.",
+        "count": 8
+      },
+      {
+        "topic": "Facilities",
+        "text": "Equipped with free parking, swimming pool, KTV, and wooden structure interiors. Rooms are spacious, clean, and feature comfortable beds and sofas.",
+        "count": 1
+      },
+      {
+        "topic": "Service",
+        "text": "Staff are friendly and helpful, providing useful travel information and accommodating needs .",
+        "count": 10
+      },
+      {
+        "topic": "Amenities",
+        "text": "Free breakfast with unique local flavors; private courtyards for relaxation; child-friendly spaces for families.",
+        "count": 1
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 13, Village Group 10, He Village, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$84",
+  "facilities": [
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5209017/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1i12000er1ehbv9815.jpg"
+    },
+    {
+      "src": "/images/stays/5209017/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2s12000sv7ylgtD280.webp"
+    },
+    {
+      "src": "/images/stays/5209017/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4x12000sv83eqd9704.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "房間很不錯，羣山環繞，環境優美，適合帶孩子躺平，老闆服務很好 很熱情",
+      "author": "Guest User",
+      "date": "2026-05-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5209017&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5209017&trip_sub3=D19127628"
+    },
+    {
+      "quote": "2017年剛開業的時候兩人就住過這家，當時還沒有爬山虎，這次帶着長者孩子再來住，發現已是滿牆的爬山虎，真是美極了！每個房間都有觀景陽台，簡直是夢中情樓！應姐一如繼往的熱情！阿姨做的菜也好吃，省得出去找飯店還不放心。強烈推薦！",
+      "author": "Anonymous User",
+      "date": "2024-08-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5209017&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5209017&trip_sub3=D19127628"
+    },
+    {
+      "quote": "很有氛圍感，非常出片，角角落落都很精緻，最關鍵的是，住起來很舒服，我們去的那天有點下雨，本來自帶小魚塘，還可以釣釣魚，弄弄燒烤啥的，有點可惜。出行停車啥的也都很方便，距離德清和莫干山鎮都不算遠，管家小哥也很貼心。",
+      "author": "Guest User",
+      "date": "2024-07-15",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5209017&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5209017&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 10,
+    "count": 16,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:34:18.658Z",
+  "source": "trip"
+}

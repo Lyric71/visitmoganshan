@@ -1,0 +1,77 @@
+{
+  "id": 28756391,
+  "name": "Mogan Cuizhulou Boutique Hostel",
+  "seedName": "Mogan Cuizhulou Boutique Hostel",
+  "city": "Huzhou",
+  "cityId": 86,
+  "goSlug": "moganshan-28756391",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=28756391&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-28756391&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Located near the town, about ten minutes away from the town, and the location is quite good(based on 1 review) Service:The staff such as the owner and the aunt are very enthusiastic(based on 6 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Located near the town, about ten minutes away from the town, and the location is quite good",
+        "count": 1
+      },
+      {
+        "topic": "Service",
+        "text": "The staff such as the owner and the aunt are very enthusiastic",
+        "count": 6
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 36 Huangni Mountain, Fangshan Village, Daixi Town, Wuxing District, Huzhou, Zhejiang, China",
+  "priceRange": "From US$51",
+  "facilities": [
+    "Cardroom",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/28756391/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200d12000000t42j9EC7A.jpg"
+    },
+    {
+      "src": "/images/stays/28756391/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200312000000t7ao6EE8C.webp"
+    },
+    {
+      "src": "/images/stays/28756391/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200w12000000tbm5532A2.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "很熱情，我們一早上走老闆老闆娘還特地給我們帶早飯，房間也很乾凈",
+      "author": "Guest User",
+      "date": "2025-10-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=28756391&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-28756391&trip_sub3=D19127628"
+    },
+    {
+      "quote": "真的很推薦這家民宿阿姨人特別好知道我們多定了一間主動幫忙幫我們租掉第二天把錢退給我們真的很棒！民宿乾淨又衞生還有早飯吃，環境安靜離景點也比較近！",
+      "author": "Guest User",
+      "date": "2025-05-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=28756391&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-28756391&trip_sub3=D19127628"
+    },
+    {
+      "quote": "酒店價格實惠性價比高，房間乾淨整潔寬敞明亮，還有獨立小陽台，住着很舒心小孩非常喜歡，老闆娘人也很熱情，還送了很多筍，總之特別滿意",
+      "author": "Guest User",
+      "date": "2025-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=28756391&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-28756391&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.3,
+    "count": 7,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:36:22.150Z",
+  "source": "trip"
+}

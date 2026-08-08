@@ -1,0 +1,68 @@
+{
+  "id": 49508938,
+  "name": "Moganshan Red Dust Inn",
+  "seedName": "Moganshan Red Dust Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-49508938",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=49508938&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-49508938&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Breakfast:Breakfast is frequently highlighted as a standout feature, with guests enjoying homemade and local dishes like corn buns and bamboo shoots. The meals are described as delicious and plentiful, catering to various tastes and adding value to the stay.(based on 12 reviews) Environment:The hotel offers a tranquil environment, perfect for relaxation and leisure. Guests appreciate the peaceful surroundings and the natural beauty visible from the property, making it ideal for a restful getaway.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Breakfast",
+        "text": "Breakfast is frequently highlighted as a standout feature, with guests enjoying homemade and local dishes like corn buns and bamboo shoots. The meals are described as delicious and plentiful, catering to various tastes and adding value to the stay.",
+        "count": 12
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Hongchen Inn (No. 34 Shangxiazhuang, Lanshukeng Village, Moganshan Town), Deqing County, Huzhou, Deqing, Zhejiang, China",
+  "priceRange": "From US$55",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/49508938/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02027120008j305zrCBDD.jpg"
+    },
+    {
+      "src": "/images/stays/49508938/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20091g000001hjx93AAD2.webp"
+    },
+    {
+      "src": "/images/stays/49508938/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200c1g000001hk5za15A2.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The breakfast was good, the surroundings were quiet, and the host responded promptly.",
+      "author": "Ziguliang👼🏻👑",
+      "date": "2026-07-30",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=49508938&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-49508938&trip_sub3=D19127628"
+    },
+    {
+      "quote": "本來想去看螢火蟲的，但是後來去了庾村。逛累了就沒去。留着後面有機會再去看吧。早飯簡簡單單，足夠吃飽。粥熬的很好。坐在庭子裏面，看看風景很舒服呀。房間遇到小問題，老闆也積極幫忙解決。去了附近的魚鱗壩，玩玩水槍。",
+      "author": "Guest User",
+      "date": "2025-08-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=49508938&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-49508938&trip_sub3=D19127628"
+    },
+    {
+      "quote": "在攜程上訂了這家民宿，住下來感覺特別值。民宿維護得很好，乾淨又整潔。我們住的房間特別寬敞，一點不覺得侷促，窗外就是山景，早上拉開窗簾，陽光灑進來，感覺整個人都亮堂了。房間裏該有的設施都有，空調製冷制熱都很快，24小時熱水隨時能用，吹頭髮也方便，無線WIFI信號也挺穩定，刷視頻、發朋友圈都不卡。 早餐是中式的固定套餐，味道不錯，不用早起趕時間。樓下後院有一個泳池，水挺乾淨的，我們從入住到退房，暢遊了三天。 周邊吃飯的地方也不少，螢火蟲基地走路幾分鐘就能到，附近還有一個洞穴咖啡，莫干山景區開車也很近。 總之，這是一次很棒的入住體驗，房間舒適，景色也好，老闆娘熱情，下次來莫干山還會選這裏！",
+      "author": "Aweia",
+      "date": "2025-08-18",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=49508938&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-49508938&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 38,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:30:12.489Z",
+  "source": "trip"
+}

@@ -1,0 +1,73 @@
+{
+  "id": 5218276,
+  "name": "Moganshan Qimenglin Homestay (Xiantan Village Scenic Area)",
+  "seedName": "Moganshan Qimenglin Homestay (Xiantan Village Scenic Area)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5218276",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5218276&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5218276&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Host Services:The hosts are highly praised for their warmth, guidance, and attentiveness. They provide detailed travel advice, accompany guests to scenic spots, and offer local specialties like bamboo shoots and homemade dishes, enhancing the overall experience.(based on 7 reviews) Accommodation Value:The property offers good value for money, with clean, well-maintained rooms and basic yet functional facilities. It is positioned as a family-run establishment with a rustic charm, suitable for budget-conscious travelers seeking a natural retreat.(based on 5 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Host Services",
+        "text": "The hosts are highly praised for their warmth, guidance, and attentiveness. They provide detailed travel advice, accompany guests to scenic spots, and offer local specialties like bamboo shoots and homemade dishes, enhancing the overall experience.",
+        "count": 7
+      },
+      {
+        "topic": "Accommodation Value",
+        "text": "The property offers good value for money, with clean, well-maintained rooms and basic yet functional facilities. It is positioned as a family-run establishment with a rustic charm, suitable for budget-conscious travelers seeking a natural retreat.",
+        "count": 5
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 19 Yangwukeng, Xiantan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$27",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/5218276/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/fd/hotel/g5/M09/7E/F1/CggYr1c16bmAJeDbAAKJ0czAvHM058.jpg"
+    },
+    {
+      "src": "/images/stays/5218276/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20080q000000gaxqs0A0C.webp"
+    },
+    {
+      "src": "/images/stays/5218276/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/fd/hotel/g5/M09/66/E6/CggYsFc1n6SAb8l2AAG12xOu67g034.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "老闆一家太好了，可以炒菜，品種豐富，味道濃郁，菜品分量價格也是實打實的，老闆一家都非常好，臨走奶奶還送我們很遠。孩子玩水受涼，半夜發燒大叔還給我們找葯。麻煩啦，騎車帶我們非常辛苦。下次去爬山一定首選棲夢林，民宿很乾凈，可以挖筍，魚鱗壩，都在附近。謝謝老闆。",
+      "author": "Guest User",
+      "date": "2025-05-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5218276&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5218276&trip_sub3=D19127628"
+    },
+    {
+      "quote": "老闆一家太好了，可以炒菜，品種豐富，味道濃郁，菜品分量價格也是實打實的，老闆一家都非常好，臨走奶奶還送我們很遠。孩子玩水受涼，半夜發燒大叔還給我們找葯。麻煩啦，騎車帶我們非常辛苦。下次去爬山一定首選棲夢林，民宿很乾凈，可以挖筍，魚鱗壩，都在附近。謝謝老闆。",
+      "author": "Guest User",
+      "date": "2025-05-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5218276&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5218276&trip_sub3=D19127628"
+    },
+    {
+      "quote": "老闆的房後就是竹林就是山，房前開窗就可以看到日出，老闆一家人很好，熱情周到，🈶️求必應，經常帶客人上山，門票都省了，我下山回來的時候下錯了站，老闆騎摩託車好遠去接我回來，人太好了，感覺像來山裡走了一趟親戚，老闆家的小菜味道也很好👍下次一定再來#早餐早飯都是本地特色，粽子，米糕，土雞蛋，鹹菜竹筍，腐乳有人吃了3塊，我很喜歡老闆家的玉米麪饅頭",
+      "author": "Guest User",
+      "date": "2025-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5218276&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5218276&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.3,
+    "count": 19,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:33:56.100Z",
+  "source": "trip"
+}

@@ -1,0 +1,91 @@
+{
+  "id": 1628405,
+  "name": "Moganshan Ziling Villa",
+  "seedName": "Moganshan Ziling Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1628405",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1628405&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1628405&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Accessibility:The property is centrally located near the mountain tourist hub, with easy access to transportation and free parking nearby.(based on 2 reviews) Cleanliness & Maintenance:Rooms are consistently described as clean, odor-free, and well-maintained.(based on 6 reviews) Service Quality:Hosts are praised for their warm, attentive service and friendly attitude.(based on 5 reviews) Breakfast:Complimentary, home-cooked meals are highlighted as flavorful, nutritious, and thoughtfully prepared.(based on 5 reviews) Ambiance:The setting is tranquil, ideal for escaping urban noise, with scenic views from the rooftop terrace. Facilities:Basic amenities are functional, though some users note simplicity .(based on 1 review)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Accessibility",
+        "text": "The property is centrally located near the mountain tourist hub, with easy access to transportation and free parking nearby.",
+        "count": 2
+      },
+      {
+        "topic": "Maintenance",
+        "text": "Rooms are consistently described as clean, odor-free, and well-maintained.",
+        "count": 6
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Hosts are praised for their warm, attentive service and friendly attitude.",
+        "count": 5
+      },
+      {
+        "topic": "Breakfast",
+        "text": "Complimentary, home-cooked meals are highlighted as flavorful, nutritious, and thoughtfully prepared.",
+        "count": 5
+      },
+      {
+        "topic": "Ambiance",
+        "text": "The setting is tranquil, ideal for escaping urban noise, with scenic views from the rooftop terrace. Facilities:Basic amenities are functional, though some users note simplicity .",
+        "count": 1
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Beside Ziling Village Villagers Committee, Moganshan Town, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$213",
+  "facilities": [
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1628405/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/hotel/447000/446294/7fe786e68df5416eb4c76f35dd87d8b0.jpg"
+    },
+    {
+      "src": "/images/stays/1628405/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20060n000000egzky8063.webp"
+    },
+    {
+      "src": "/images/stays/1628405/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0582r12000sh0lv1rD531.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "這家民宿的位置非常便利，交通十分方便，房間收拾的很整潔。而且，民宿的主人非常貼心，為我們準備了豐富的早餐，讓我們感受到了家的温暖。非常好，很滿意，下次還來！",
+      "author": "Guest User",
+      "date": "2024-10-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1628405&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1628405&trip_sub3=D19127628"
+    },
+    {
+      "quote": "環境很好，衞生很好，家庭民宿，由一對老夫妻操持，熱情。但感覺房間設施太簡單，不知道民宿是不是都這樣，房間沒有書桌，其中一個空調遙控器的電池用不了了，另外，房間也沒有免費礦泉水，和泡茶的茶葉，燒水壺倒是有。除了山裡環境好，還是住酒店比民宿設施更好，各有利弊吧",
+      "author": "Guest User",
+      "date": "2024-07-11",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1628405&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1628405&trip_sub3=D19127628"
+    },
+    {
+      "quote": "這家民宿的位置非常便利，交通十分方便，房間收拾的很整潔。而且，民宿的主人非常貼心，為我們準備了豐富的早餐，讓我們感受到了家的温暖。非常好，很滿意，下次還來！",
+      "author": "Guest User",
+      "date": "2024-10-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1628405&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1628405&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.3,
+    "count": 15,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:35:03.707Z",
+  "source": "trip"
+}

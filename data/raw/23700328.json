@@ -1,0 +1,78 @@
+{
+  "id": 23700328,
+  "name": "Yinyi Shanju Guesthouse",
+  "seedName": "Yinyi Shanju Guesthouse",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-23700328",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=23700328&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-23700328&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Located on the street of Yucun, near Yucun Square, convenient to the race start, with many restaurants, breakfast shops and coffee shops nearby(based on 5 reviews) Decoration and Facilities:Liked the overall decoration style, furniture and furnishings are good, with a swimming pool and a small back garden, and about a few hundred meters to the Republic of China style street(based on 3 reviews) Service:The owner is very enthusiastic and thoughtful, allowing check-out after the race, providing washing help, and offering other assistance.(based on 10 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Located on the street of Yucun, near Yucun Square, convenient to the race start, with many restaurants, breakfast shops and coffee shops nearby",
+        "count": 5
+      },
+      {
+        "topic": "Decoration and Facilities",
+        "text": "Liked the overall decoration style, furniture and furnishings are good, with a swimming pool and a small back garden, and about a few hundred meters to the Republic of China style street",
+        "count": 3
+      },
+      {
+        "topic": "Service",
+        "text": "The owner is very enthusiastic and thoughtful, allowing check-out after the race, providing washing help, and offering other assistance.",
+        "count": 10
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 54 Huangfu East Road, Hou Village, Liaoyuan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$113",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/23700328/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD0f120009f3ypia5B9D.jpg"
+    },
+    {
+      "src": "/images/stays/23700328/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD3r120009f3wmph3A76.webp"
+    },
+    {
+      "src": "/images/stays/23700328/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0583h12000sq1fiwd40E2.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "這次是來跑Outopia越野賽的。這個民宿的老闆娘人真好，很熱情，登記時就説我可以跑完再來退房。地點也很方便，坐客車過來好找，去比賽起點也方便。附近很多飯店、早餐店和咖啡店。睡得很好！",
+      "author": "PJ jiang",
+      "date": "2026-04-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=23700328&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-23700328&trip_sub3=D19127628"
+    },
+    {
+      "quote": "老闆娘很熱情，老闆很淳樸。知道我是來比賽的，渾身都是泥巴。讓我趕緊去房間裏洗漱。第二天還給我找了布洛芬。很感謝。有了賓至如歸的感覺。",
+      "author": "Zouchuhuangye",
+      "date": "2026-04-12",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=23700328&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-23700328&trip_sub3=D19127628"
+    },
+    {
+      "quote": "酒店的位置呢，就在這個庾村的這個街上，然後就在這個漁村廣場的斜對面，晚上是可以看錶演的，非常方便，就在斜對面，然後酒店的這個整體的這個裝修風格我非常的喜歡，整體的裝修風格就是這種仿民國風的，然後傢俱啊擺設啊各種都特特別好。嗯，拍照也是很出片的，酒店游泳池還有一個小的後花園，嗯，他這個去這個民國的這個風情街大該走個幾百米吧，也能到晚上去逛逛這個街，然後去吃點東西，然後再逛着回到酒店就是很舒服的，然後離這個景區莫干山景區的這個換乘中心就是坐這個車上景區的這個車站也不遠，三四百米就能到，然後就是美中不足的就是我的這個房間，它是挨着街道的，所以一整晚這個街上的車來回過，聲音都比較大，但是可能是因為我這個睡眠質量是比較差的人羣，我老公跟我兒子一點都不受影響。",
+      "author": "linlinamy",
+      "date": "2026-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=23700328&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-23700328&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9,
+    "count": 19,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:34:07.280Z",
+  "source": "trip"
+}

@@ -1,0 +1,83 @@
+{
+  "id": 7089453,
+  "name": "Chengxin Heqi Harmony & Wellness Retreat, Mogan Mountain",
+  "seedName": "Chengxin Heqi Harmony & Wellness Retreat, Mogan Mountain",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-7089453",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=7089453&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-7089453&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Environment:Quiet, lush greenery, fresh air, proximity to Yu Village and Fish Scale Dam for activities.(based on 8 reviews) Facilities:Large pool, barbecue area, spacious and clean rooms with complete amenities.(based on 6 reviews) Service:Hosts are warm and attentive, offering flexible breakfast times and pet-friendly policies.(based on 9 reviews) Pet-Friendly:Two dogs available for interaction . Suitability:Ideal for family gatherings, relaxation, and weekend getaways with children.(based on 8 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Quiet, lush greenery, fresh air, proximity to Yu Village and Fish Scale Dam for activities.",
+        "count": 8
+      },
+      {
+        "topic": "Facilities",
+        "text": "Large pool, barbecue area, spacious and clean rooms with complete amenities.",
+        "count": 6
+      },
+      {
+        "topic": "Service",
+        "text": "Hosts are warm and attentive, offering flexible breakfast times and pet-friendly policies.",
+        "count": 9
+      },
+      {
+        "topic": "Pet-Friendly",
+        "text": "Two dogs available for interaction . Suitability:Ideal for family gatherings, relaxation, and weekend getaways with children.",
+        "count": 8
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 6 Back Lane, Deqing, Zhejiang, China",
+  "priceRange": "From US$70",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/7089453/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200b0f0000007hf2xD604.jpg"
+    },
+    {
+      "src": "/images/stays/7089453/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0o12000sd77oveDC97.webp"
+    },
+    {
+      "src": "/images/stays/7089453/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3012000sd74m4j5079.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "藏在莫干山深處的治癒養生小院🍃 山居環境清幽自在，山野綠意滿目治癒，房間乾淨通透，開窗就是滿眼山景。 陳老師專業帶練太極站樁、晨起採氣開炁門，循序漸進滋養身心，跟着練習渾身舒暢通透；丁老師沉浸式頌缽音療，聲波温柔撫平焦慮疲憊，失眠一晚安穩深睡。 還有下午申時茶修、靜心抄經，還一起製作了青梅酒楊梅酒。擼貓曬太陽、山間閑坐發呆，完全逃離城市內卷，真正養心養氣、歸隱療愈，來過就念念不忘，無限回購安利✨",
+      "author": "Guest User",
+      "date": "2026-07-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=7089453&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-7089453&trip_sub3=D19127628"
+    },
+    {
+      "quote": "店主跟店主夫人真的超級好 晚上點外賣還想着我們嗚嗚 民宿環境也超級好 還有一個大泳池 環境：非常温馨 衞生：非常棒 還有一次性用品 服務：非常非常非常好 給到爆 人超級好",
+      "author": "Guest User",
+      "date": "2026-07-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=7089453&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-7089453&trip_sub3=D19127628"
+    },
+    {
+      "quote": "這個民宿簡直太美了，衹恨自己不能多住幾天，養生～養心、養氣，環境美，住的地方味道好舒服，晚上還能泡腳，有游泳池，有觀月台，清晨站樁採氣，早餐吃的好有機，睡前有頌缽療愈！好想帶着姐妹們來啊！",
+      "author": "Guest User",
+      "date": "2026-04-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=7089453&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-7089453&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 10,
+    "count": 26,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:31:50.258Z",
+  "source": "trip"
+}

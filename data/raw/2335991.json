@@ -1,0 +1,92 @@
+{
+  "id": 2335991,
+  "name": "No. 2 Deqing Farm Stay",
+  "seedName": "No. 2 Deqing Farm Stay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2335991",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2335991&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2335991&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment Location:Many reviews mention being close to mountains, with beautiful surrounding environments suitable for leisure, such as 'the mountains are literally 5 minutes away' and 'can directly see the mountain opposite from the window'.(based on 3 reviews) Hygiene:Multiple reviews state that the room is very clean, like 'Sooo clean' and 'The room is very clean'.(based on 9 reviews) Service Quality:Front desk speaks English and is helpful, and the owner is very friendly and enthusiastic, as mentioned 'front desk speaks English, they're helpful too' and 'The owner is very friendly'.(based on 9 reviews) Facilities:Rooms have decent sizes, comfortable beds, and some have facilities like balconies and swings, e.g., 'the beds are comfy' and 'there is a swing at the entrance of the lobby'.(based on 1 review) Breakfast:Breakfast is simple and nutritious, with various items like 'the breakfast is simple and nutritious' and 'breakfast items than expected, there are a lot of fried ingredients'(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment Location",
+        "text": "Many reviews mention being close to mountains, with beautiful surrounding environments suitable for leisure, such as 'the mountains are literally 5 minutes away' and 'can directly see the mountain opposite from the window'.",
+        "count": 3
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Multiple reviews state that the room is very clean, like 'Sooo clean' and 'The room is very clean'.",
+        "count": 9
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Front desk speaks English and is helpful, and the owner is very friendly and enthusiastic, as mentioned 'front desk speaks English, they're helpful too' and 'The owner is very friendly'.",
+        "count": 9
+      },
+      {
+        "topic": "Facilities",
+        "text": "Rooms have decent sizes, comfortable beds, and some have facilities like balconies and swings, e.g., 'the beds are comfy' and 'there is a swing at the entrance of the lobby'.",
+        "count": 1
+      },
+      {
+        "topic": "Breakfast",
+        "text": "Breakfast is simple and nutritious, with various items like 'the breakfast is simple and nutritious' and 'breakfast items than expected, there are a lot of fried ingredients'",
+        "count": 2
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 58 Xiwuli, Houwu Village, Moganshan Town, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$47",
+  "facilities": [
+    "Cardroom",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/2335991/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200m13000000ukhn6782C.jpg"
+    },
+    {
+      "src": "/images/stays/2335991/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0512000b5pzqmy610E.webp"
+    },
+    {
+      "src": "/images/stays/2335991/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3e12000b5pzfac7F71.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "My goodness I didn't want to leave. Sooo clean, rustic and classy.. The food at the restaurant is good. The mountains are literally 5 minutes away. The beds are comfy, front desk speaks English, they're helpful too. Just worth it...",
+      "author": "Guest User",
+      "date": "2025-10-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2335991&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2335991&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room size is decent, and the facilities are average for a farm stay. The surrounding greenery is beautiful and perfect for a family outing. The owner is very friendly.",
+      "author": "Guest User",
+      "date": "2025-09-18",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2335991&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2335991&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room is OK, quite big, but the location is a bit hard to find. The parking is a bit far. It is recommended to get out of the car and pick up your things at once. The environment is...",
+      "author": "Guest User",
+      "date": "2025-08-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2335991&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2335991&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.2,
+    "count": 24,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:33:00.389Z",
+  "source": "trip"
+}

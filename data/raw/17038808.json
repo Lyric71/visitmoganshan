@@ -1,0 +1,93 @@
+{
+  "id": 17038808,
+  "name": "Mantu Qiuyiju Holiday Meishu",
+  "seedName": "Mantu Qiuyiju Holiday Meishu",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-17038808",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=17038808&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-17038808&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service:Consistently praised for attentive, proactive staff .(based on 6 reviews) Environment:Scenic mountain views, modern new-style Chinese architecture, spacious rooms with large windows.(based on 2 reviews) Facilities:On-site amenities , pet-friendly policy, and proximity to attractions .(based on 5 reviews) Dining:High-quality meals , praised for taste and portion size. Location:Convenient parking, short travel time to nearby attractions, and central yet tranquil setting.(based on 1 review) Hygiene:Cleanliness emphasized across rooms, bathrooms, and communal areas.(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service",
+        "text": "Consistently praised for attentive, proactive staff .",
+        "count": 6
+      },
+      {
+        "topic": "Environment",
+        "text": "Scenic mountain views, modern new-style Chinese architecture, spacious rooms with large windows.",
+        "count": 2
+      },
+      {
+        "topic": "Facilities",
+        "text": "On-site amenities , pet-friendly policy, and proximity to attractions .",
+        "count": 5
+      },
+      {
+        "topic": "Dining",
+        "text": "High-quality meals , praised for taste and portion size. Location:Convenient parking, short travel time to nearby attractions, and central yet tranquil setting.",
+        "count": 1
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Cleanliness emphasized across rooms, bathrooms, and communal areas.",
+        "count": 3
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 38, Huangnishan, Fangshan Village, Daixi Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$50",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/17038808/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2g12000f9qdr0uC0B4.jpg"
+    },
+    {
+      "src": "/images/stays/17038808/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0581a12000spzdzo5DA3F.webp"
+    },
+    {
+      "src": "/images/stays/17038808/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02058120008e9wrqx1EB5.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "服務:五星，到民宿以後管家到停車場來接，幫送行李到房間，賓至如歸。 正餐要提前一天預訂，每天都會貼心關懷遊玩攻略等，並且詢問明天是否訂餐。 環境是不錯的山景，住民宿住的就是個風景。 整體建築和裝修新中式風格。 服務到位，環境到位，洗澡水壓也可以。",
+      "author": "Guest User",
+      "date": "2024-08-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=17038808&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-17038808&trip_sub3=D19127628"
+    },
+    {
+      "quote": "本來懷着不安的心情定的酒店，沒想到這麼棒。老闆人很熱情友善，有求必應，我家娃玩的很開心，下次有機會一定還來。民宿硬件很棒，寵物友好。店裡餐食也很靠譜，菜品味道好吃，我們連吃了三頓。祝福老闆一家都身體健康，生意興旺!",
+      "author": "Guest User",
+      "date": "2024-08-14",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=17038808&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-17038808&trip_sub3=D19127628"
+    },
+    {
+      "quote": "這是我定的最滿意的一次民宿，環境很不錯裝修也跟審美疲勞的白房子不同，如果房間配小冰箱就完美了哈哈，房間空間大，適合朋友們去住，我的體驗不錯，游泳池也不錯，孩子玩很安全，老闆很熱情，早餐也不錯的乾淨衞生健康，值得二刷",
+      "author": "Guest User",
+      "date": "2024-08-14",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=17038808&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-17038808&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 16,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:34:40.936Z",
+  "source": "trip"
+}

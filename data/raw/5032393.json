@@ -1,0 +1,82 @@
+{
+  "id": 5032393,
+  "name": "Wolixiang Hostel",
+  "seedName": "Wolixiang Hostel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5032393",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5032393&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5032393&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Room Facilities and Cleanliness:Rooms are spacious, well-decorated, and maintained to high standards of cleanliness. The beds are comfortable, and the overall design provides a cozy and aesthetically pleasing environment for guests.(based on 8 reviews) Host's Hospitality:The host is described as warm and attentive, offering personalized care for families with children, providing additional amenities like hot ginger tea after outdoor activities, and ensuring a welcoming atmosphere throughout the stay.(based on 9 reviews) Garden and On-site Features:The property includes a charming courtyard with homegrown vegetables, flowers, and small animals like parrots, cats, and quails, enhancing the rustic charm. Guests can enjoy barbecues using provided equipment, adding to the leisurely experience.(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Room Facilities and Cleanliness",
+        "text": "Rooms are spacious, well-decorated, and maintained to high standards of cleanliness. The beds are comfortable, and the overall design provides a cozy and aesthetically pleasing environment for guests.",
+        "count": 8
+      },
+      {
+        "topic": "Host's Hospitality",
+        "text": "The host is described as warm and attentive, offering personalized care for families with children, providing additional amenities like hot ginger tea after outdoor activities, and ensuring a welcoming atmosphere throughout the stay.",
+        "count": 9
+      },
+      {
+        "topic": "Garden and On-site Features",
+        "text": "The property includes a charming courtyard with homegrown vegetables, flowers, and small animals like parrots, cats, and quails, enhancing the rustic charm. Guests can enjoy barbecues using provided equipment, adding to the leisurely experience.",
+        "count": 3
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Village Group 6, Xianrenkeng, Ziling Village, Deqing, Zhejiang, 313200, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant",
+    "Cafe",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5032393/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200a170000011qzw72A06.jpg"
+    },
+    {
+      "src": "/images/stays/5032393/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200c0v000000k03xrB9E6.webp"
+    },
+    {
+      "src": "/images/stays/5032393/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200a170000011qzw72A06.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "這家民宿體驗太棒了！老闆特別熱情，早飯超級好，都是親手做的。下次有機會來還會定這家！！出去玩的話打車也很方便的。",
+      "author": "Guest User",
+      "date": "2026-05-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5032393&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5032393&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿出乎意料的舒適乾淨 每一樣東西非常乾淨衞生 能看出老闆是注重住宿者的感受的 設施是用了心思的 格調很好 連浴缸都是很舒適的大浴缸 老闆娘很熱心 主動給予我幫助 讓我的莫干山之旅輕鬆愉快😀就是忘了拍照🤣",
+      "author": "Guest User",
+      "date": "2026-04-13",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5032393&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5032393&trip_sub3=D19127628"
+    },
+    {
+      "quote": "國慶假期來旅行，在這裏尋得了久違的鬆弛感，就像在自己窩裡鄉一樣。遠離城市喧囂的雅緻悠閑居所，入住體驗超預期，必須給用心經營的老闆娘點贊👍 民宿位於紫嶺村黨羣服務中心的斜對面，房間乾淨整潔，洗澡水也很舒適，特別是老闆娘自製的健康早餐和新鮮水果獲得了同行家人們的一致好評。 特別感謝超級nice的老闆娘，粘人的“萬人迷”19，可愛的“值班員”團團，又是開心的一天，剛離開就開始想念了，有機會一定會再來哦！ 非常適合家庭、朋友、親子出行和小型團建（12人左右），強烈推薦❤️",
+      "author": "Feifanshijie",
+      "date": "2025-10-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5032393&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5032393&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 20,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:33:34.345Z",
+  "source": "trip"
+}

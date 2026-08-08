@@ -1,0 +1,68 @@
+{
+  "id": 2998192,
+  "name": "Kaolawo Villa",
+  "seedName": "Kaolawo Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2998192",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2998192&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2998192&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Room:Rooms are spacious and clean, situated near scenic spots, post offices, and stations; hosts are warm, offering fruits, snacks, and early breakfast to race participants; boasting distinctive decoration styles like Spanish and American manors(based on 13 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Room",
+        "text": "Rooms are spacious and clean, situated near scenic spots, post offices, and stations; hosts are warm, offering fruits, snacks, and early breakfast to race participants; boasting distinctive decoration styles like Spanish and American manors",
+        "count": 13
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Building 36 (at the end of Xingwang Road), Huashengda Villa, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$64",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/2998192/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/fd/hotel/g4/M07/F7/7B/CggYHlYV7GiAWDIOABPIS0dYBlU973.jpg"
+    },
+    {
+      "src": "/images/stays/2998192/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0584712000snnof87F681.webp"
+    },
+    {
+      "src": "/images/stays/2998192/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/fd/hotel/g5/M05/C7/80/CggYsFbnbjqAVQcVAAiC8gcdzT8616.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "環境很好，也很乾凈，名宿裝修很特別，老闆服務很熱情，準備了好吃的水果零食，早上也準備了豐富的早餐，孩子們很開心下次有機會還再來",
+      "author": "Guest User",
+      "date": "2026-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2998192&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2998192&trip_sub3=D19127628"
+    },
+    {
+      "quote": "環境很好，也很乾凈，名宿裝修很特別，老闆服務很熱情，準備了好吃的水果零食，早上也準備了豐富的早餐，孩子們很開心下次有機會還再來",
+      "author": "Guest User",
+      "date": "2026-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2998192&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2998192&trip_sub3=D19127628"
+    },
+    {
+      "quote": "來參加越野賽，賽前一個月更換的酒店，離起終點＜100米，對參賽者特別友好 西班牙風格，見圖 老闆特別友好，地圖定位不準，叔叔出來接我們，百公里六點起跑，阿姨四點就起來準備早餐，白粥雞蛋玉米板栗 回程叔叔阿姨幫忙拎東西給送上出租車 耳機掉落房間了，又辛苦阿姨翻找、郵寄 🚫140字",
+      "author": "Guest User",
+      "date": "2024-11-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2998192&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2998192&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 10,
+    "count": 17,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:33:45.155Z",
+  "source": "trip"
+}

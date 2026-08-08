@@ -1,0 +1,89 @@
+{
+  "id": 130973250,
+  "name": "Youjing · Moganshan YOJO Designer Lakeside Garden Boutique Stay",
+  "seedName": "Youjing · Moganshan YOJO Designer Lakeside Garden Boutique Stay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-130973250",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=130973250&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-130973250&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment Location:Located near Laoling Reservoir, about 2 kilometers from Yucun Square and transfer center, with beautiful scenery of mountains, bamboos and lakes around, suitable for relaxation and healing(based on 4 reviews) Facilities:Rich entertainment facilities such as KTV, chess and card rooms, billiards, etc., and the homestay is very new(based on 6 reviews) Hygiene:Rooms are clean, tidy and comfortable(based on 9 reviews) Cost-effectiveness:High cost-effectiveness, providing a great experience(based on 9 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment Location",
+        "text": "Located near Laoling Reservoir, about 2 kilometers from Yucun Square and transfer center, with beautiful scenery of mountains, bamboos and lakes around, suitable for relaxation and healing",
+        "count": 4
+      },
+      {
+        "topic": "Facilities",
+        "text": "Rich entertainment facilities such as KTV, chess and card rooms, billiards, etc., and the homestay is very new",
+        "count": 6
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Rooms are clean, tidy and comfortable",
+        "count": 9
+      },
+      {
+        "topic": "Cost-effectiveness",
+        "text": "High cost-effectiveness, providing a great experience",
+        "count": 9
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "40 meters northeast of Mogan North Shore Cafe, Yulan Line, Laoling Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$109",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Billiards room",
+    "Cardroom",
+    "Restaurant",
+    "Karaoke"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/130973250/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0204u12000mrsnuog6C93.jpg"
+    },
+    {
+      "src": "/images/stays/130973250/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3g12000n08vhbfC729.webp"
+    },
+    {
+      "src": "/images/stays/130973250/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3k12000n089yalFAFB.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "這次入住體驗太棒了！房間乾淨整潔，床品柔軟舒服，一進門就感覺很放鬆。房東人特別好，提前發了詳細的入住指南和美食攻略，還貼心準備了小零食和水果。民宿晚上特別安靜，一覺睡到自然醒。房間的投影儀也超讚，窩在裏面看電影太愜意了。性價比超高，已經推薦給朋友啦！",
+      "author": "Anonymous User",
+      "date": "2026-06-16",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=130973250&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-130973250&trip_sub3=D19127628"
+    },
+    {
+      "quote": "713元一晚，週五的房間。住的地方沒有明確的停車位，車位是和隔壁店鋪公用的，每次停都要和隔壁大爺大媽説一聲，不方便。房間裏沒有桌子，沒椅子，沒茶葉，衹有兩瓶礦泉水。開出來龍頭裡的水都是黃的。床上的被褥很久沒睡了，枕頭湊近聞一股出租車裡的味道，床鋪有皮屑，睡的刺撓。實在不敢睡1點逃離酒店，回家住了。",
+      "author": "Anonymous User",
+      "date": "2026-06-14",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=130973250&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-130973250&trip_sub3=D19127628"
+    },
+    {
+      "quote": "清明假期入住，煙雨莫干山，體驗很豐滿。周邊交通方便，距離庾村廣場和換乘中心兩公里，不想動車的話，走個二十來分鐘也就到了，還有鄉村公交；周圍環境不錯，緊挨着勞嶺水庫，隔着馬路就是兩家飯店，飯菜很實惠，口味也很好；民宿設施豐富，乾淨整潔，老闆一家很講究，院落和房間收拾的很乾凈，很熱情，送了自家做的筍乾。娃和老闆家的兩個小朋友一下子就打成了一片😄",
+      "author": "gownsman",
+      "date": "2026-04-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=130973250&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-130973250&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.5,
+    "count": 27,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:33:12.012Z",
+  "source": "trip"
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1288056,
+  "name": "Xiangshuiling Hotel",
+  "seedName": "Xiangshuiling Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1288056",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1288056&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1288056&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Facilities:Complete facilities, including being suitable for staying, with convenient parking(based on 3 reviews) Food:Local dishes are delicious, medium and dinner prices are not expensive, and the homely dishes are good Hygiene:Some users mentioned clean and hygienic, while some pointed out issues but overall has positive aspects like good environment Guest Suggestion:Some customers suggest upgrading facilities, ensuring thorough cleaning, and addressing room odors, particularly in less-used areas.(based on 4 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Facilities",
+        "text": "Complete facilities, including being suitable for staying, with convenient parking",
+        "count": 3
+      },
+      {
+        "topic": "Food",
+        "text": "Local dishes are delicious, medium and dinner prices are not expensive, and the homely dishes are good Hygiene:Some users mentioned clean and hygienic, while some pointed out issues but overall has positive aspects like good environment Guest Suggestion:Some customers suggest upgrading facilities, ensuring thorough cleaning, and addressing room odors, particularly in less-used areas.",
+        "count": 4
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No.1 Xiangshuiling, Mogan Mountain, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$43",
+  "facilities": [
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1288056/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200g120008xp0pv6302B.jpg"
+    },
+    {
+      "src": "/images/stays/1288056/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0712000s6d8197706A.webp"
+    },
+    {
+      "src": "/images/stays/1288056/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5m12000s6dbsxoCF61.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "預訂錯了想退酒店不給退，多跑了50km去住，酒店位置在半山腰不太好周圍也沒有什麼讓人亮眼的景點，價格和檔次不否偏貴，尤其是早餐，數量少種類少，廚師沒估好人數，一堆遊客在等着早飯吃，每次就上幾個菜，一人一個就沒了，等待時間長。, 體驗非常一般",
+      "author": "Guest User",
+      "date": "2026-08-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1288056&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1288056&trip_sub3=D19127628"
+    },
+    {
+      "quote": "雖然酒店設施有點老，但是酒店前台和大堂經理服務態度很好，基本上是有啥要求都會盡量滿足用户，謝謝用心的服務 酒店所處的環境不錯，周圍都是竹子，看到很多竹筍 距離景區距離適中，找個黑車，不用排隊等大巴上山了",
+      "author": "Wokanyixianichengzaigaosuni",
+      "date": "2026-04-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1288056&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1288056&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間裝修舊式，但用品都挺新，前台小男孩服務很好，幫提大箱子上樓。周邊身處森林竹海，山徑晨間漫步，空氣非常不錯。",
+      "author": "Anonymous User",
+      "date": "2026-05-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1288056&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1288056&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9,
+    "count": 31,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:31:34.205Z",
+  "source": "trip"
+}

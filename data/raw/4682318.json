@@ -1,0 +1,78 @@
+{
+  "id": 4682318,
+  "name": "Yishan Erju Hotel",
+  "seedName": "Yishan Erju Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-4682318",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4682318&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4682318&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Convenient location, easy to walk out. Public area balcony can see sunrise, and there is a path behind the house to go up the mountain for fun.(based on 1 review) Room Hygiene:Rooms are clean and tidy. (based on 6 reviews) Service:Boss and female boss are enthusiastic and thoughtful, responsive. (based on 9 reviews) Suitable for:Suitable for family travel, etc., and also suitable for couples. Guest Suggestion: Some customers suggest improving hot water stability and enhancing host responsiveness to ensure guest comfort and safety.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Convenient location, easy to walk out. Public area balcony can see sunrise, and there is a path behind the house to go up the mountain for fun.",
+        "count": 1
+      },
+      {
+        "topic": "Room Hygiene",
+        "text": "Rooms are clean and tidy.",
+        "count": 6
+      },
+      {
+        "topic": "Service",
+        "text": "Boss and female boss are enthusiastic and thoughtful, responsive.",
+        "count": 9
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 6 Zhuyuan Road, Yucun Village, Moganshan Town (beside Junanli Scenic Area), Deqing, Zhejiang, China",
+  "priceRange": "From US$37",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/4682318/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1312000hz9haqrA9FF.jpg"
+    },
+    {
+      "src": "/images/stays/4682318/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4l12000hybpkukE88A.webp"
+    },
+    {
+      "src": "/images/stays/4682318/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5m12000hybw642DA8A.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "房間很好，老闆服務周到，賓至如歸的感覺。我們到達當天，問了老闆娘好玩的地方，下午就按她推薦的魚鱗壩，碧塢龍潭去玩的。天氣熱，老闆娘還給了西瓜🍉吃，感謝！",
+      "author": "yinwen213",
+      "date": "2025-07-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4682318&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4682318&trip_sub3=D19127628"
+    },
+    {
+      "quote": "阿姨很熱親，這次過來越野，阿姨半夜起來給我們煮蛋，跑完下午三點半，回到酒店又給我們開房間洗澡，必須給這個民宿點贊",
+      "author": "Guest User",
+      "date": "2026-03-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4682318&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4682318&trip_sub3=D19127628"
+    },
+    {
+      "quote": "趁着年前來莫干山玩一下，臨時預訂了這家民宿，離莫干山風景區和庾村景區都很近，對於我這個不開車的人來説很方便，步行出門就行。老闆娘熱情招待，很有温暖的感覺，早餐美味，推薦哦！",
+      "author": "Shuran",
+      "date": "2025-01-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4682318&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4682318&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 16,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:34:29.964Z",
+  "source": "trip"
+}

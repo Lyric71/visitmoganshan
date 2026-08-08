@@ -1,0 +1,77 @@
+{
+  "id": 63741446,
+  "name": "Moganshan Qingpanshan Residence",
+  "seedName": "Moganshan Qingpanshan Residence",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-63741446",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=63741446&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-63741446&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Breakfast and Food:The breakfast offering is diverse and locally inspired, featuring handmade pancakes, noodles, bamboo shoots, sweet potatoes, and fresh eggs. The hostess prepares meals personally, ensuring quality and variety that exceed expectations for guests.(based on 9 reviews) Service and Hospitality:Staff and hosts demonstrate exceptional warmth and attentiveness, providing friendly guidance on local attractions and promptly addressing guest needs, such as adjusting room assignments for comfort or accommodating special requests.(based on 16 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Breakfast and Food",
+        "text": "The breakfast offering is diverse and locally inspired, featuring handmade pancakes, noodles, bamboo shoots, sweet potatoes, and fresh eggs. The hostess prepares meals personally, ensuring quality and variety that exceed expectations for guests.",
+        "count": 9
+      },
+      {
+        "topic": "Service and Hospitality",
+        "text": "Staff and hosts demonstrate exceptional warmth and attentiveness, providing friendly guidance on local attractions and promptly addressing guest needs, such as adjusting room assignments for comfort or accommodating special requests.",
+        "count": 16
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 50, Nanlu Village Group, Liaoyuan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$66",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/63741446/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/020681200084doz6g8E4B.jpg"
+    },
+    {
+      "src": "/images/stays/63741446/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201c1200084dog3p0DB7.webp"
+    },
+    {
+      "src": "/images/stays/63741446/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0202c1200084dnlby9374.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "服務態度很好，房間空間很大，設施設備齊全且很新，老闆一家超級熱情，早餐很豐盛，搭配很好，室內乾淨衞生整潔，院子裏面井井有條，花花草草很怡人，村裡夏天很涼快，適合來避暑，推薦這家店，下次帶家裡人來還住這家店",
+      "author": "Guest User",
+      "date": "2026-05-31",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=63741446&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-63741446&trip_sub3=D19127628"
+    },
+    {
+      "quote": "莫干山歸來，念念不忘的除了山水，還有這家寶藏民宿。民宿坐落在一個庾村安靜的位置，距離蔣公古道入口非常近，步行至庾村廣場也很方便。作為有點潔癖的人，我對住宿衞生要求很高。這家民宿完全超出預期，從房間到公共區域都乾淨整潔。床品也乾爽舒適，可以一夜天亮。早餐也是意外驚喜，品種豐富，清粥小菜，雞蛋饅頭，當地特色的筍乾，紅薯，還吃到了老闆娘親自下廚的麪。最後必須要誇誇老闆夫妻倆，不像經營者，更像你在山裡的朋友。體驗感滿分，下次來還會住！",
+      "author": "Zhongnianxiaoayi",
+      "date": "2025-10-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=63741446&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-63741446&trip_sub3=D19127628"
+    },
+    {
+      "quote": "這次民宿體驗很棒！位置便利，房間寬敞，老闆夫婦熱情周到，早餐是老闆娘親手做的，美味又豐盛。孩子們玩的很開心，期待下次！",
+      "author": "Guest User",
+      "date": "2025-10-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=63741446&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-63741446&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 33,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:30:46.053Z",
+  "source": "trip"
+}

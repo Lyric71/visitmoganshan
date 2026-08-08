@@ -1,0 +1,83 @@
+{
+  "id": 52180342,
+  "name": "Huzhou Deqing Yixi Chinese Inn",
+  "seedName": "Huzhou Deqing Yixi Chinese Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-52180342",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=52180342&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-52180342&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Close to Mogan Mountain scenic area, square and other places, convenient for travel(based on 3 reviews) Room Condition:Rooms are clean and warm(based on 3 reviews) Children Facilities:Have children-related facilities like children's room, children's pool(based on 1 review) Parking:Parking is convenient with free parking spaces at the door(based on 3 reviews) Environment:Beautiful environment with small streams and other sceneries",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Close to Mogan Mountain scenic area, square and other places, convenient for travel",
+        "count": 3
+      },
+      {
+        "topic": "Room Condition",
+        "text": "Rooms are clean and warm",
+        "count": 3
+      },
+      {
+        "topic": "Children Facilities",
+        "text": "Have children-related facilities like children's room, children's pool",
+        "count": 1
+      },
+      {
+        "topic": "Parking",
+        "text": "Parking is convenient with free parking spaces at the door",
+        "count": 3
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 11, Mogaowu, Sanmo Line, Deqing, Zhejiang, China",
+  "priceRange": "From US$419",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/52180342/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0580d12000spbx7ra9BEF.jpg"
+    },
+    {
+      "src": "/images/stays/52180342/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0580d12000spbx7ra9BEF.webp"
+    },
+    {
+      "src": "/images/stays/52180342/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201a120008iwhgtj0054.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "這次和朋友同事一起團建，參加了莫干山越野賽，民宿就在線路的途徑點，距離起點步行十幾分鍾就到了，離廣場也很近，吃飯的餐廳也很多，早餐阿姨做的很豐盛，好吃，很好的體驗。",
+      "author": "Guest User",
+      "date": "2023-11-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=52180342&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-52180342&trip_sub3=D19127628"
+    },
+    {
+      "quote": "非常棒的一次旅遊體驗，老闆媽媽很熱情，房間整理的很乾凈，早飯都是現燒的很好吃，晚上我們自己弄了燒烤吃了火鍋，老闆都會幫忙收拾，大人孩子都有獨立有空間盡情玩耍，下次有機會還會來住，也會推薦給想來的朋友",
+      "author": "Guest User",
+      "date": "2026-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=52180342&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-52180342&trip_sub3=D19127628"
+    },
+    {
+      "quote": "很棒的一家民宿，房間很乾凈温馨，阿姨做的飯菜超級好吃，晚飯我們説想吃小龍蝦，阿姨很用心的按照我們喜歡的口味準備，還給我們送了自家挖的筍。五個娃在這裏也玩得很開心。民宿的位置很不錯，下面是一條很熱鬧的小吃街，上面是登上道，出行方便。",
+      "author": "Guest User",
+      "date": "2024-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=52180342&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-52180342&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 16,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:34:53.967Z",
+  "source": "trip"
+}

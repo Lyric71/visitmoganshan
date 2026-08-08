@@ -1,0 +1,83 @@
+{
+  "id": 1628724,
+  "name": "Mogan Mountain Zhuwanli Mountain Villa",
+  "seedName": "Mogan Mountain Zhuwanli Mountain Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1628724",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1628724&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1628724&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Proximity to Biyu Longtan entrance and hiking trails, with free access to nearby mountainous areas.(based on 1 review) Cleanliness:Rooms described as \"spotless\" and \"very clean,\" with attention to hygiene.(based on 2 reviews) Hospitality:Hosts were consistently praised for warmth, guidance, and willingness to assist guests.(based on 3 reviews) Culinary Experience:Locally sourced dishes highlighted for freshness and flavor, with meals included in stays. Value:Affordable pricing for meals, accommodations, and activities like mountain walks or firefly viewing.(based on 2 reviews) Amenities:Spacious family rooms, rooftop terraces with panoramic views, and private outdoor spaces for relaxation.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Proximity to Biyu Longtan entrance and hiking trails, with free access to nearby mountainous areas.",
+        "count": 1
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms described as \"spotless\" and \"very clean,\" with attention to hygiene.",
+        "count": 2
+      },
+      {
+        "topic": "Hospitality",
+        "text": "Hosts were consistently praised for warmth, guidance, and willingness to assist guests.",
+        "count": 3
+      },
+      {
+        "topic": "Culinary Experience",
+        "text": "Locally sourced dishes highlighted for freshness and flavor, with meals included in stays. Value:Affordable pricing for meals, accommodations, and activities like mountain walks or firefly viewing.",
+        "count": 2
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Village Group 11, Xiantan Village, Moganshan Town, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$28",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/1628724/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200k070000002cnwu8736.jpg"
+    },
+    {
+      "src": "/images/stays/1628724/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0583r12000sqefu9w4E11.webp"
+    },
+    {
+      "src": "/images/stays/1628724/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0584712000sq8dovg6DE7.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "住宿環境不錯，店家人不錯，老闆自己燒的菜也很好吃，推薦驢友體驗",
+      "author": "Guest User",
+      "date": "2025-05-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1628724&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1628724&trip_sub3=D19127628"
+    },
+    {
+      "quote": "在碧塢龍潭景區門口，距離莫干山遊客換乘中心大概10公里，開車十幾分鍾。民宿住着可以，紙巾都還是品牌的。老闆娘燒的雞很好吃～",
+      "author": "Guest User",
+      "date": "2025-10-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1628724&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1628724&trip_sub3=D19127628"
+    },
+    {
+      "quote": "老闆和老闆娘都非常熱情，幫佔車位還把行李箱直接扛到了房間，走的時候也幫忙扛到車邊，房間很乾凈舒服，二樓還有公共客廳及大陽台。做的菜非常好吃很新鮮，且量大啊～好實誠啊～吃的是晚飯，老闆建議坐外面吃，真的很涼快很愜意，大家還一起聊聊天，老闆還給們介紹周邊，關鍵還有老闆養的狗狗小黑，特別聽話可愛，和小黑玩了一會等看完螢火蟲回來居然聽到我們聲音跑去路邊接我們，哈哈哈，好開心！離碧塢龍潭超級近，走過去也就200米，晚上走去看螢火蟲也不遠，一路上都很熱鬧，第二天去了碧塢龍潭，正正好！此次行程很開心，下次來還來住，還要摸摸小黑，哈哈哈，祝店家生意興隆！",
+      "author": "Guest User",
+      "date": "2023-08-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1628724&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1628724&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 7.6,
+    "count": 12,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:35:37.500Z",
+  "source": "trip"
+}

@@ -1,0 +1,80 @@
+{
+  "id": 5781499,
+  "name": "Mogan Mountain Style B and B",
+  "seedName": "Mogan Mountain Style B and B",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5781499",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5781499&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5781499&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service Quality:The host is consistently described as warm, helpful, and accommodating .(based on 9 reviews) Facilities & Cleanliness:Rooms are clean, well-maintained, and free of chemical odors. Amenities include a playground , and locally made breakfast.(based on 4 reviews) Dining Experience:Meals are praised for their taste and affordability.(based on 1 review)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service Quality",
+        "text": "The host is consistently described as warm, helpful, and accommodating .",
+        "count": 9
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms are clean, well-maintained, and free of chemical odors. Amenities include a playground , and locally made breakfast.",
+        "count": 4
+      },
+      {
+        "topic": "Dining Experience",
+        "text": "Meals are praised for their taste and affordability.",
+        "count": 1
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 27 Langjia Village, Deqing, Zhejiang, 313207, China",
+  "priceRange": "From US$42",
+  "facilities": [
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5781499/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0586c12000sncvk82526D.jpg"
+    },
+    {
+      "src": "/images/stays/5781499/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203u120009q55uxtB466.webp"
+    },
+    {
+      "src": "/images/stays/5781499/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0585r12000sp281g1F665.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "老闆非常熱情，做的飯也很好吃，還積極推薦景點。",
+      "author": "Modouganfanren",
+      "date": "2026-02-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5781499&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5781499&trip_sub3=D19127628"
+    },
+    {
+      "quote": "老闆人很好，很熱心還幫忙搬行李，民宿位置挺好的，在仙潭村景區附近，周圍風景不錯，也很安靜，白天在陽台能看到山峯，晚上能看到滿天星星",
+      "author": "Guest User",
+      "date": "2024-07-30",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5781499&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5781499&trip_sub3=D19127628"
+    },
+    {
+      "quote": "老闆給我們升了個朝陽的房間，在陽台待着特別舒服，衞生間有時會有異味 建議自己帶洗髮水沐浴露啥的，洗髮水真的不出沫",
+      "author": "Guest User",
+      "date": "2024-08-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5781499&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5781499&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 27,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:32:12.324Z",
+  "source": "trip"
+}

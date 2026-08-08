@@ -1,0 +1,78 @@
+{
+  "id": 67686861,
+  "name": "Ying Fanchen Holiday Villa",
+  "seedName": "Ying Fanchen Holiday Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-67686861",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=67686861&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-67686861&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service Quality:Staff are consistently described as friendly and attentive, providing helpful guidance on local attractions, ticket purchases, and personalized recommendations. Breakfast is often praised for its quantity and availability.(based on 14 reviews) Cleanliness and Comfort:Rooms are regularly noted as clean, tidy, and well-ventilated. The presence of mature bayberry trees and natural elements contributes to a refreshing atmosphere, while soundproofing and spacious layouts enhance comfort.(based on 20 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service Quality",
+        "text": "Staff are consistently described as friendly and attentive, providing helpful guidance on local attractions, ticket purchases, and personalized recommendations. Breakfast is often praised for its quantity and availability.",
+        "count": 14
+      },
+      {
+        "topic": "Cleanliness and Comfort",
+        "text": "Rooms are regularly noted as clean, tidy, and well-ventilated. The presence of mature bayberry trees and natural elements contributes to a refreshing atmosphere, while soundproofing and spacious layouts enhance comfort.",
+        "count": 20
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 20, Ganjia Village, Liaoyuan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$51",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Billiards room",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/67686861/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201z1200084mi7roF729.jpg"
+    },
+    {
+      "src": "/images/stays/67686861/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200x1200083lmlog1E4A.webp"
+    },
+    {
+      "src": "/images/stays/67686861/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200x1200083ljc5mB12E.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Nice little holiday villa with a swimming pool at the back. The room has a kettle and bottles of water, but no tea or coffee. There’s not too much around the hotel, but it is just a 20 minute walk...",
+      "author": "Guest User",
+      "date": "2023-08-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=67686861&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-67686861&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Clean and hygienic, conveniently located, and offers great value for money.",
+      "author": "Guest User",
+      "date": "2025-09-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=67686861&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-67686861&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I chose this place when I visited Moganshan during the May Day holiday. It's close to Yucun Square, and because it's not on the main street, the room is very quiet, which ensures a good rest.",
+      "author": "Guest User",
+      "date": "2025-05-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=67686861&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-67686861&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 33,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:31:10.541Z",
+  "source": "trip"
+}

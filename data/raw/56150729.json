@@ -1,0 +1,90 @@
+{
+  "id": 56150729,
+  "name": "Moganshan Listen to Yunshan Residents",
+  "seedName": "Moganshan Listen to Yunshan Residents",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-56150729",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=56150729&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-56150729&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment and Location:The location is convenient, close to attractions like the hiking trail entrance of Shangjianchi and Yucun, with a cozy courtyard and beautiful scenery visible from the room windows(based on 3 reviews) Facilities:Equipped with a swimming pool, and there are mahjong tables and billiards tables(based on 3 reviews) Service Quality:The owners are warm and enthusiastic, and the service staff are friendly and professional(based on 4 reviews) Hygiene:Rooms are clean and tidy, and the overall environment is nice(based on 5 reviews) Breakfast:The breakfast is rich in variety or simple but to the taste(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment and Location",
+        "text": "The location is convenient, close to attractions like the hiking trail entrance of Shangjianchi and Yucun, with a cozy courtyard and beautiful scenery visible from the room windows",
+        "count": 3
+      },
+      {
+        "topic": "Facilities",
+        "text": "Equipped with a swimming pool, and there are mahjong tables and billiards tables",
+        "count": 3
+      },
+      {
+        "topic": "Service Quality",
+        "text": "The owners are warm and enthusiastic, and the service staff are friendly and professional",
+        "count": 4
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Rooms are clean and tidy, and the overall environment is nice",
+        "count": 5
+      },
+      {
+        "topic": "Breakfast",
+        "text": "The breakfast is rich in variety or simple but to the taste",
+        "count": 3
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 17 South Road, Liaoyuan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$68",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/56150729/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20071h000001i4pbc8578.jpg"
+    },
+    {
+      "src": "/images/stays/56150729/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200p1h000001hn5qcC0DF.webp"
+    },
+    {
+      "src": "/images/stays/56150729/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0582912000snpt0ihC76E.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The guesthouse was fantastic! The rooms were clean and comfortable, the courtyard was cozy, and the swimming pool provided swimming rings which the kids loved. The owners were very welcoming. I highly recommend it to anyone who likes guesthouses.",
+      "author": "Guest User",
+      "date": "2025-08-18",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=56150729&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-56150729&trip_sub3=D19127628"
+    },
+    {
+      "quote": "老闆兩口子很温和的人，幫忙提箱子，主動送到集散站。房間很乾凈，非常非常大，陽台也非常非常大，温馨的小院很安靜，對了，有游泳池，我們有一天下午一個景點孩子玩兒的一般，回來在泳池玩兒一個傍晚，也是很難忘。出門4-5分鐘在庾村轉悠轉悠挺好。",
+      "author": "Guest User",
+      "date": "2025-08-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=56150729&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-56150729&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間舒適，早餐也挺好的，品種豐富，位置離上劍池的徒步路線口比較近，還是挺方便的。老闆在院子裏養的花花草草挺用心的，忘記提前預約晚餐，老闆娘介紹了飯店儘管是節假日期間還能打折。",
+      "author": "Guest User",
+      "date": "2025-05-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=56150729&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-56150729&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 9,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:35:58.653Z",
+  "source": "trip"
+}

@@ -1,0 +1,79 @@
+{
+  "id": 54622691,
+  "name": "Moyi Moganshan MoYi Light Luxury Beauty Hotel",
+  "seedName": "Moyi Moganshan MoYi Light Luxury Beauty Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-54622691",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=54622691&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-54622691&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service Quality:Staff are noted for their friendly and attentive service, providing travel recommendations and personalized assistance. The hosts are described as warm and hospitable, ensuring a welcoming atmosphere for guests of all ages.(based on 7 reviews) Child-Friendly Features:The property offers swimming pools, encouraging guests to explore and enjoy their stay.(based on 6 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service Quality",
+        "text": "Staff are noted for their friendly and attentive service, providing travel recommendations and personalized assistance. The hosts are described as warm and hospitable, ensuring a welcoming atmosphere for guests of all ages.",
+        "count": 7
+      },
+      {
+        "topic": "Child-Friendly Features",
+        "text": "The property offers swimming pools, encouraging guests to explore and enjoy their stay.",
+        "count": 6
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 8, Xiacun Village, Houwu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$57",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/54622691/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6312000ba4wmmc733F.jpg"
+    },
+    {
+      "src": "/images/stays/54622691/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0204a12000a294hnz7518.webp"
+    },
+    {
+      "src": "/images/stays/54622691/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0q12000ba4wk9j3B5A.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "民宿環境非常好，正好在後塢景區，周圍有很多餐廳，吃飯方便。房間很乾凈，到處設計的都很合理，住的很舒服。以後還值得來的一家。",
+      "author": "buaalzc",
+      "date": "2025-10-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=54622691&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-54622691&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿位置很好周圍吃飯買東西都很方便，開窗見山旁邊就是小溪，房間乾淨。一家人山間徒步陽台品茶，度過了愉快的假期。",
+      "author": "Shanyetingfeng",
+      "date": "2026-04-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=54622691&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-54622691&trip_sub3=D19127628"
+    },
+    {
+      "quote": "地址就在莫干山下後塢村，離莫干山接駁車點很近。 住宿環境很好，有個泳池，夏天可以帶娃在裏面游泳。 老闆和老闆娘性格很熱情好客。 ps：老闆推薦的林溪飯店菜很好吃。是我這段旅途中吃過最香的一頓，就在民宿旁邊。",
+      "author": "Momo0924",
+      "date": "2025-08-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=54622691&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-54622691&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 22,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:32:46.140Z",
+  "source": "trip"
+}

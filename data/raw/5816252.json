@@ -1,0 +1,80 @@
+{
+  "id": 5816252,
+  "name": "Lafael Garden Hotel",
+  "seedName": "Lafael Garden Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5816252",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5816252&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5816252&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Design/Decor:Retro/Chicago-style interiors, unique architecture with greenery, and spacious layouts . Service:Warm and attentive staff , personalized care , and a welcoming atmosphere.(based on 8 reviews) Facilities:Quiet, well-insulated rooms; functional public areas ; small courtyard with a stream.(based on 2 reviews) Cleanliness:Rooms described as “clean, tidy, and matching photos,” with attention to hygiene.(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Decor",
+        "text": "Retro/Chicago-style interiors, unique architecture with greenery, and spacious layouts . Service:Warm and attentive staff , personalized care , and a welcoming atmosphere.",
+        "count": 8
+      },
+      {
+        "topic": "Facilities",
+        "text": "Quiet, well-insulated rooms; functional public areas ; small courtyard with a stream.",
+        "count": 2
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms described as “clean, tidy, and matching photos,” with attention to hygiene.",
+        "count": 3
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 17, Mogaowu, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$904",
+  "facilities": [
+    "Bar"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5816252/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2s12000f5ohbyh8EBF.jpg"
+    },
+    {
+      "src": "/images/stays/5816252/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2003070000002ngnb631B.webp"
+    },
+    {
+      "src": "/images/stays/5816252/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2s12000f5ohbyh8EBF.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "房間還可以，吳管家很熱情，徐師傅盡責，阿姨廚藝很對胃口，他們的客廳有特色。",
+      "author": "Guest User",
+      "date": "2025-07-14",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5816252&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5816252&trip_sub3=D19127628"
+    },
+    {
+      "quote": "這家民宿裝修風格很有特色，美式風格，很乾凈，很温馨。管家阿姨服務態度超級棒，也很熱情！早餐也很豐盛，中式西式都有，同行的長者和小孩都很滿意，下次來還會選擇這裏！",
+      "author": "Guest User",
+      "date": "2023-08-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5816252&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5816252&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間乾淨整潔，庭院很方便，前台大姐温暖親切。推薦推薦。非常棒的住宿體驗，很喜歡，下次來再預訂。",
+      "author": "Guest User",
+      "date": "2023-08-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5816252&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5816252&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 9,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:35:26.598Z",
+  "source": "trip"
+}

@@ -1,0 +1,76 @@
+{
+  "id": 110422317,
+  "name": "Moganshan Huaxuan Zhuli Homestay",
+  "seedName": "Moganshan Huaxuan Zhuli Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-110422317",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=110422317&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-110422317&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service Quality and Hospitality:Staff demonstrate consistent warmth and attentiveness, offering personalized recommendations and proactive assistance. Guests appreciate the welcoming atmosphere, with hosts ensuring comfort through small gestures like early check-in arrangements.(based on 16 reviews) Room Design and Comfort:Rooms are spacious, modern, and aesthetically pleasing, featuring minimalist yet inviting decor. The layout caters to families, with child-friendly elements and comfortable furnishings enhancing the overall stay experience.(based on 15 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service Quality and Hospitality",
+        "text": "Staff demonstrate consistent warmth and attentiveness, offering personalized recommendations and proactive assistance. Guests appreciate the welcoming atmosphere, with hosts ensuring comfort through small gestures like early check-in arrangements.",
+        "count": 16
+      },
+      {
+        "topic": "Room Design and Comfort",
+        "text": "Rooms are spacious, modern, and aesthetically pleasing, featuring minimalist yet inviting decor. The layout caters to families, with child-friendly elements and comfortable furnishings enhancing the overall stay experience.",
+        "count": 15
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 33, Shangxiazhuang, Lanshukeng, Beihu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$55",
+  "facilities": [
+    "Restaurant",
+    "Cafe"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/110422317/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5x12000boj0tc03944.jpg"
+    },
+    {
+      "src": "/images/stays/110422317/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0b12000bojkqihC8ED.webp"
+    },
+    {
+      "src": "/images/stays/110422317/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1m12000bojog3g1722.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "空氣清新，迴歸大自然的感覺。別緻又安逸的小村莊，清晨可以聽到小鳥在院子裏叫，主人特別友好，離開時還送了伴手禮。",
+      "author": "Candy TangTT",
+      "date": "2026-05-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=110422317&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-110422317&trip_sub3=D19127628"
+    },
+    {
+      "quote": "這家民宿超乾淨，靠山這麼近沒有一衹蚊子，泳池的水很清澈，早餐也很適口。停車方便，去周邊景點都很方便，是民宿中的上佳之選。",
+      "author": "Guest User",
+      "date": "2026-08-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=110422317&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-110422317&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間佈置得特別温馨，不是那種千篇一律的酒店風，感覺像在家裡一樣舒服。衞生做得也很到位，床單被套都是乾乾淨淨的，衞生間沒有一點異味",
+      "author": "Guest User",
+      "date": "2025-08-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=110422317&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-110422317&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 33,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:30:57.474Z",
+  "source": "trip"
+}

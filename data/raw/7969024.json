@@ -1,0 +1,86 @@
+{
+  "id": 7969024,
+  "name": "Honey Nest Villa Moganshan Designer Holiday Meisu",
+  "seedName": "Honey Nest Villa Moganshan Designer Holiday Meisu",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-7969024",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=7969024&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-7969024&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Parking:Parking facilities are convenient, with sufficient parking spaces around for self-driving tourists.(based on 12 reviews) Service:The service is warm, such as the owner picking up guests at night, introducing surrounding plays, and communicating strategies.(based on 18 reviews) Atmosphere:It has a home-like feeling, being warm though not large, allowing people to relax and be at ease Guest Suggestion:Some customers recommend enhancing cleanliness (e.g., moldy lids, dirty toilets), updating old facilities (e.g., leaking bathtubs, unstable water pressure), and providing stable hot water.(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Parking",
+        "text": "Parking facilities are convenient, with sufficient parking spaces around for self-driving tourists.",
+        "count": 12
+      },
+      {
+        "topic": "Service",
+        "text": "The service is warm, such as the owner picking up guests at night, introducing surrounding plays, and communicating strategies.",
+        "count": 18
+      },
+      {
+        "topic": "Atmosphere",
+        "text": "It has a home-like feeling, being warm though not large, allowing people to relax and be at ease Guest Suggestion:Some customers recommend enhancing cleanliness (e.g., moldy lids, dirty toilets), updating old facilities (e.g., leaking bathtubs, unstable water pressure), and providing stable hot water.",
+        "count": 2
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 73, Xia Village, Houwu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$58",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Billiards room",
+    "Cardroom",
+    "餐廳",
+    "Cafe",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/7969024/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02051120008p8q4lu770E.jpg"
+    },
+    {
+      "src": "/images/stays/7969024/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200q120008p8pqvh8AE5.webp"
+    },
+    {
+      "src": "/images/stays/7969024/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203f120008p8pox0027D.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The environment is very good, the surrounding scenery is very nice~ The hostess is very nice~ Very enthusiastic",
+      "author": "Guest User",
+      "date": "2024-08-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=7969024&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-7969024&trip_sub3=D19127628"
+    },
+    {
+      "quote": "We were the only family to check in that day. It was quiet. The store gave us some home-grown plums. The air conditioner was still a little noisy in the dead of night. There was a narrow road with a...",
+      "author": "Xuemenglele",
+      "date": "2024-07-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=7969024&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-7969024&trip_sub3=D19127628"
+    },
+    {
+      "quote": "This B&B experience really exceeded my expectations! From the moment I walked in, I was deeply attracted by the elegant environment here. Every detail of the entire B&B reveals the owner's care and enthusiasm. Moreover, the parking facilities here are...",
+      "author": "Guest User",
+      "date": "2024-04-16",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=7969024&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-7969024&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.9,
+    "count": 42,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:30:22.114Z",
+  "source": "trip"
+}

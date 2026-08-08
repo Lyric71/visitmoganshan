@@ -1,0 +1,82 @@
+{
+  "id": 62395746,
+  "name": "Ruoxian Shanju Inn",
+  "seedName": "Ruoxian Shanju Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-62395746",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=62395746&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-62395746&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Facilities & Cleanliness:Well-maintained facilities with spacious communal areas (e.g., large courtyard, rooftop terrace) and clean, modern rooms. Emphasis on hygiene standards, with spotless interiors and ample amenities provided for guests.(based on 10 reviews) Breakfast & Food:High-quality breakfast with diverse options, including locally sourced ingredients. Positive feedback on meals prepared by the host, such as flavorful soups and fresh fruits, enhancing the overall dining experience.(based on 5 reviews) Ambiance & Experience:Charming, tranquil atmosphere with natural surroundings (e.g., greenery, streams). Guests appreciate the blend of rustic charm and comfort, with opportunities for outdoor activities and photography-friendly settings.(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness",
+        "text": "Well-maintained facilities with spacious communal areas (e.g., large courtyard, rooftop terrace) and clean, modern rooms. Emphasis on hygiene standards, with spotless interiors and ample amenities provided for guests.",
+        "count": 10
+      },
+      {
+        "topic": "Food",
+        "text": "High-quality breakfast with diverse options, including locally sourced ingredients. Positive feedback on meals prepared by the host, such as flavorful soups and fresh fruits, enhancing the overall dining experience.",
+        "count": 5
+      },
+      {
+        "topic": "Experience",
+        "text": "Charming, tranquil atmosphere with natural surroundings (e.g., greenery, streams). Guests appreciate the blend of rustic charm and comfort, with opportunities for outdoor activities and photography-friendly settings.",
+        "count": 2
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 30, Yaowu Village, Deqing, Zhejiang, China",
+  "priceRange": "From US$139",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Billiards room",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/62395746/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200c1h000001ho3deFCEB.jpg"
+    },
+    {
+      "src": "/images/stays/62395746/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200h1h000001hnhgl7124.webp"
+    },
+    {
+      "src": "/images/stays/62395746/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20081h000001hm42bF66F.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "位置很方便，景點對面～房間乾淨整潔，老闆熱情周到，非常細心～退房時熱情周到，給準備早餐～",
+      "author": "Senge suyu",
+      "date": "2026-07-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=62395746&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-62395746&trip_sub3=D19127628"
+    },
+    {
+      "quote": "老闆蠻細心周到的，因為旁邊團建的人比較多，幫我們換了一個相對安靜的房間，還準備了當地的黃桃給我們品嚐，有問題也都很快跟進解決問題。路口就有吃飯的地方，離周圍的景點也是比較近的，還是比較方便的。",
+      "author": "Guest User",
+      "date": "2024-08-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=62395746&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-62395746&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿在半山腰裡，交通方便。民宿一樓有超大院子與公共露台，環境好衞生好，早餐豐富，老闆貼心準備了各種水果，開心",
+      "author": "Guest User",
+      "date": "2025-02-13",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=62395746&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-62395746&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 10,
+    "count": 23,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:32:35.221Z",
+  "source": "trip"
+}
