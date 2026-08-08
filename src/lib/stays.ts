@@ -158,19 +158,52 @@ export async function getPublishedStays(): Promise<StayEntry[]> {
 }
 
 /**
+ * Properties that already have a written article, keyed by hotelId.
+ *
+ * A guide page carrying `stay_id` is the one page for that property. It is a
+ * thousand words of research with a position, and the property template is a
+ * gallery and a button; where both exist the article wins and takes the booking
+ * block with it. The map is hotelId to the article's path.
+ */
+export async function getEditorialStayPages(): Promise<Map<number, string>> {
+  const guide = await getCollection('guide');
+  const pages = new Map<number, string>();
+  for (const entry of guide) {
+    const id = entry.data.stay_id;
+    if (id) pages.set(id, entry.data.url.replace(/\/+$/, ''));
+  }
+  return pages;
+}
+
+/**
  * What the route builds paths from.
  *
- * Published only, except when STAYS_PREVIEW is set. Preview exists so the
- * template can be worked on against draft entries without ever publishing them;
- * the pages it produces carry noindex and are kept out of the sitemap, and the
- * flag is never set on a production build.
+ * Published entries, minus any property whose article already covers it, so a
+ * hotel never ends up with two pages competing for its own name.
+ *
+ * Preview is the one exception: with STAYS_PREVIEW set, drafts route too, so
+ * the template can be worked on without publishing anything. Those pages carry
+ * noindex and stay out of the sitemap, and the flag is never set on a
+ * production build.
  */
 export async function getRoutableStays(): Promise<StayEntry[]> {
-  if (process.env.STAYS_PREVIEW) {
-    const all = await getCollection('stays');
-    return all.sort((a, b) => a.data.name.localeCompare(b.data.name));
-  }
-  return getPublishedStays();
+  const editorial = await getEditorialStayPages();
+  const source = process.env.STAYS_PREVIEW
+    ? (await getCollection('stays')).sort((a, b) => a.data.name.localeCompare(b.data.name))
+    : await getPublishedStays();
+  return source.filter((entry) => !editorial.has(entry.data.id));
+}
+
+/**
+ * Where a reader should be sent for one property: its article if it has one,
+ * its own page if it has one, and nowhere if it has neither.
+ */
+export async function resolveStayHrefs(): Promise<Map<number, string>> {
+  const hrefs = new Map<number, string>();
+  for (const entry of await getPublishedStays()) hrefs.set(entry.data.id, stayPath(entry.data.slug));
+  // Second, so an article overwrites the property page rather than the reverse.
+  for (const [id, url] of await getEditorialStayPages()) hrefs.set(id, url);
+  return hrefs;
 }
 
 /**

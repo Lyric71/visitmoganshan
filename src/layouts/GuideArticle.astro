@@ -3,6 +3,8 @@ import Layout from './Layout.astro';
 import SiteHeader from '../components/SiteHeader.astro';
 import SiteFooter from '../components/SiteFooter.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
+import StayBooking from '../components/StayBooking.astro';
+import type { StayEntry } from '../lib/stays';
 import { NAV, isCurrentGroup } from '../data/nav';
 import {
   breadcrumbsFor,
@@ -31,9 +33,11 @@ interface Props {
   entry: GuideEntry;
   all: GuideEntry[];
   headings: { depth: number; slug: string; text: string }[];
+  /** Set on the handful of articles that are about one bookable property. */
+  stay?: StayEntry | null;
 }
 
-const { entry, all, headings } = Astro.props;
+const { entry, all, headings, stay = null } = Astro.props;
 const { data } = entry;
 
 const path = toPath(data.url);
@@ -139,9 +143,14 @@ const jsonLd = guideJsonLd(entry, crumbs)
               named subject: a note that appears sometimes is a note nobody
               learns to look for. */}
           <p class="illustration-note">
-            Photographs on this site are representative illustrations, not documentary images of
-            the specific building, property or service described.
+            {
+              stay
+                ? 'The photographs above are representative illustrations, not documentary images of the specific building, property or service described. The gallery below is different: those frames are the property’s own listing images.'
+                : 'Photographs on this site are representative illustrations, not documentary images of the specific building, property or service described.'
+            }
           </p>
+
+          {stay && <StayBooking entry={stay} />}
 
           {
             showFaqLink && (

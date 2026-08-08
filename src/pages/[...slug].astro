@@ -2,6 +2,7 @@
 import { render } from 'astro:content';
 import GuideArticle from '../layouts/GuideArticle.astro';
 import { getGuideEntries, toSlug } from '../lib/guide';
+import { getPublishedStays } from '../lib/stays';
 
 /**
  * Every guide page.
@@ -13,17 +14,25 @@ import { getGuideEntries, toSlug } from '../lib/guide';
  */
 export async function getStaticPaths() {
   const all = await getGuideEntries();
+  // An article about one bookable property absorbs that property's gallery,
+  // guest excerpts and booking link, so the hotel has one page rather than two
+  // competing for its own name. See getRoutableStays in src/lib/stays.ts.
+  const stays = await getPublishedStays();
 
   return all.map((entry) => ({
     params: { slug: toSlug(entry.data.url) },
-    props: { entry, all },
+    props: {
+      entry,
+      all,
+      stay: stays.find((candidate) => candidate.data.id === entry.data.stay_id) ?? null,
+    },
   }));
 }
 
-const { entry, all } = Astro.props;
+const { entry, all, stay } = Astro.props;
 const { Content, headings } = await render(entry);
 ---
 
-<GuideArticle entry={entry} all={all} headings={headings}>
+<GuideArticle entry={entry} all={all} headings={headings} stay={stay}>
   <Content />
 </GuideArticle>

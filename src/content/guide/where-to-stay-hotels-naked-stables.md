@@ -10,6 +10,10 @@ schema: Hotel
 image: /images/guide/where-to-stay-hotels-naked-stables.webp
 image_alt: Open rough grass on a high ridge edged by bamboo, with layered hills fading beyond
 word_count: 1098
+# This article is the one page for Trip.com hotelId 901389. It absorbs that
+# property's gallery, guest excerpts and booking link, and suppresses
+# /where-to-stay/naked-stables-resort-901389.
+stay_id: 901389
 last_updated: 2026-08-06
 ---
 

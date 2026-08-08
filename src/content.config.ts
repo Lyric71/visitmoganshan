@@ -41,6 +41,17 @@ const guide = defineCollection({
     image: z.string().optional(),
     image_alt: z.string().optional(),
     word_count: z.number().optional(),
+    /**
+     * Trip.com hotelId, when this article is about one bookable property.
+     *
+     * Where it is set, this page is the one page for that property: it absorbs
+     * the photographs, the guest excerpts and the booking link that would
+     * otherwise sit on /where-to-stay/{slug}, and the stays route stops
+     * generating that slug. Two pages about one hotel compete with each other
+     * for the same query and split whatever authority either would have had,
+     * and of the two the researched article is always the one worth keeping.
+     */
+    stay_id: z.number().optional(),
     last_updated: z.coerce.date(),
   }),
 });

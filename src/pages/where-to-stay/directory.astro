@@ -7,10 +7,9 @@ import {
   STAYS_SEED,
   TYPE_BLURB,
   TYPE_ORDER,
-  getPublishedStays,
   goPath,
   guessType,
-  stayPath,
+  resolveStayHrefs,
   storefrontUrl,
   type StayType,
 } from '../../lib/stays';
@@ -38,8 +37,11 @@ import {
  * carries no type field, and inventing a verified-looking fact is exactly what
  * this site exists not to do.
  */
-const published = await getPublishedStays();
-const publishedById = new Map(published.map((entry) => [entry.data.id, entry]));
+
+// Where each written-up property lives. Most would be a page from the stays
+// collection; a couple are researched articles that absorbed the property data
+// instead, and those win. Either way a row resolves to one link.
+const writtenUp = await resolveStayHrefs();
 
 type Row = (typeof STAYS_SEED)[number] & { type: StayType };
 
@@ -142,12 +144,12 @@ const jsonLd = {
 
             <ul class="rows">
               {group.items.map((row) => {
-                const entry = publishedById.get(row.id);
+                const href = writtenUp.get(row.id);
                 return (
                   <li class="row">
                     <span class="row__name">
-                      {entry ? <a href={stayPath(entry.data.slug)}>{row.name}</a> : row.name}
-                      {entry && <span class="row__flag">Written up</span>}
+                      {href ? <a href={href}>{row.name}</a> : row.name}
+                      {href && <span class="row__flag">Written up</span>}
                     </span>
                     <span class="row__city">{row.city}</span>
                     {/* aria-label rather than a visually hidden span: 809 rows
