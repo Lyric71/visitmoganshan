@@ -1,0 +1,74 @@
+{
+  "id": 44220399,
+  "name": "Man Yixuan in Moganshan · Petrichor Impression · Homestay for Parent-child Leisure and Vacation.",
+  "seedName": "Man Yixuan in Moganshan · Petrichor Impression · Homestay for Parent-child Leisure and Vacation.",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-44220399",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=44220399&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-44220399&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness & Maintenance:Rooms are consistently described as clean, with attention to detail in cleanliness, including fresh bedding and tidy common areas. The swimming pool is noted for its cleanliness, and the overall property maintains a high standard of hygiene.(based on 8 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Maintenance",
+        "text": "Rooms are consistently described as clean, with attention to detail in cleanliness, including fresh bedding and tidy common areas. The swimming pool is noted for its cleanliness, and the overall property maintains a high standard of hygiene.",
+        "count": 8
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 35 Shangxiazhuang, Lanshukeng, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$55",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant",
+    "Conference room",
+    "Multi-function room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/44220399/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1p12000byu2l5v6BD1.jpg"
+    },
+    {
+      "src": "/images/stays/44220399/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2z12000byuyua9899D.webp"
+    },
+    {
+      "src": "/images/stays/44220399/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3812000byv1udjC1AD.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "老闆特別熱情，房間很乾凈，環境特別nice,住的愜意，鄉村生活的代表！",
+      "author": "Guest User",
+      "date": "2026-07-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=44220399&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-44220399&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間：預訂的兩個大床房（201、202）,房間清爽乾淨（有點像yaduo的風格）；大落地窗；山景非常漂亮。 設施：麻將桌、會客廳、餐廳，家庭氛圍濃厚。慢充電樁4個。 環境：周圍環境太讚了，綠水青山。 服務：提供挖筍工具，借了膠鞋在小溪採摘野水芹、摸了螺螄。",
+      "author": "Bangbang",
+      "date": "2026-03-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=44220399&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-44220399&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間寬敞乾淨，空調、水壓都非常給力。老闆人很好，我們11點半才到，老闆一直等着也沒電話催，到了還幫我們提行李。樓下的泳池看着也很乾凈。性價比很高！適合躺平。",
+      "author": "Guest User",
+      "date": "2026-08-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=44220399&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-44220399&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 78,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:27:27.590Z",
+  "source": "trip"
+}

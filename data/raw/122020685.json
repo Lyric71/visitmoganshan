@@ -1,0 +1,87 @@
+{
+  "id": 122020685,
+  "name": "Mogan Island home for your parents and children (Yu Village Plaza Store)",
+  "seedName": "Mogan Island home for your parents and children (Yu Village Plaza Store)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-122020685",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=122020685&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-122020685&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment and Location:Located near Yucun Square, convenient for travel. Many users mentioned being close to Yucun Square, such as being only a few hundred meters away, and being at the foot of Moganshan, with convenient travel.(based on 47 reviews) Facilities:Equipped with complete facilities, including a swimming pool, game consoles, etc. Some users mentioned the hotel has a new and complete facility(based on 58 reviews) Service:The front desk service is enthusiastic and meticulous. Many users praised the enthusiastic service of the staff(based on 73 reviews) Hygiene:The room is clean. Users repeatedly mentioned that the room is tidy and clean(based on 92 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment and Location",
+        "text": "Located near Yucun Square, convenient for travel. Many users mentioned being close to Yucun Square, such as being only a few hundred meters away, and being at the foot of Moganshan, with convenient travel.",
+        "count": 47
+      },
+      {
+        "topic": "Facilities",
+        "text": "Equipped with complete facilities, including a swimming pool, game consoles, etc. Some users mentioned the hotel has a new and complete facility",
+        "count": 58
+      },
+      {
+        "topic": "Service",
+        "text": "The front desk service is enthusiastic and meticulous. Many users praised the enthusiastic service of the staff",
+        "count": 73
+      },
+      {
+        "topic": "Hygiene",
+        "text": "The room is clean. Users repeatedly mentioned that the room is tidy and clean",
+        "count": 92
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 5 Attached, No. 8 Bieshu Road, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$43",
+  "facilities": [
+    "Conference room",
+    "Playground",
+    "Kids' club"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/122020685/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3k12000feihcc09B3A.jpg"
+    },
+    {
+      "src": "/images/stays/122020685/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4o12000evua03f3BC4.webp"
+    },
+    {
+      "src": "/images/stays/122020685/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3f12000evulpbfAC65.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "非常棒！房間乾淨，大床房帶陽台，空間寬敞，電梯搭乘，服務貼心！距離庾村廣場七八百米，很近很方便，莫干山風景優美值得常來。來專門參加越野跑的，店家考慮到比賽，也沒有催退房時間，跑完比賽回民宿洗個澡兩點過再乘車回家，完美的一天！",
+      "author": "SheldonRain",
+      "date": "2026-05-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=122020685&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-122020685&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房子挺乾淨的，離庾村文化廣場1公里多點，離魚鱗壩開車10幾分鐘，離莫干山景區1公里多點，去幾個地方都很方便。性價比挺高的。一樓有兩個遊戲機，孩子不無聊。晚上玩上一小時直接回去洗洗睡了。早上路邊是有點聲音的，但還能接受，玩累了，睡得很香。",
+      "author": "Guest User",
+      "date": "2026-04-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=122020685&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-122020685&trip_sub3=D19127628"
+    },
+    {
+      "quote": "酒店交通便利，出門幾分鐘便是庾村廣場商業區，環境優美，人文環境不錯，景色宜人，設施完善，前台服務態度好，耐心細緻，適宜親子出遊。",
+      "author": "Guanxin·zizai",
+      "date": "2026-06-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=122020685&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-122020685&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 210,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:27:06.278Z",
+  "source": "trip"
+}

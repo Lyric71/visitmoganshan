@@ -1,0 +1,92 @@
+{
+  "id": 4638034,
+  "name": "Chengfeng Xiaoyuan",
+  "seedName": "Chengfeng Xiaoyuan",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-4638034",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4638034&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4638034&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service:Warm and attentive hospitality from staff, with personalized care .(based on 20 reviews) Cleanliness:Rooms and facilities described as tidy, with emphasis on hygiene practices .(based on 15 reviews) Facilities:Well-equipped rooms with functional layouts , some featuring private balconies or small courtyards.(based on 6 reviews) Value:Competitive pricing for the quality of service and amenities, especially compared to higher-priced alternatives.(based on 3 reviews) Ambiance:Rustic, cozy atmosphere with unique touches , ideal for relaxation.(based on 2 reviews) Guest Suggestion:Some customers suggest issues including poor hygiene with hair on the floor, poor sound insulation that disturbs sleep, and a hard bed(based on 6 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service",
+        "text": "Warm and attentive hospitality from staff, with personalized care .",
+        "count": 20
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms and facilities described as tidy, with emphasis on hygiene practices .",
+        "count": 15
+      },
+      {
+        "topic": "Facilities",
+        "text": "Well-equipped rooms with functional layouts , some featuring private balconies or small courtyards.",
+        "count": 6
+      },
+      {
+        "topic": "Value",
+        "text": "Competitive pricing for the quality of service and amenities, especially compared to higher-priced alternatives.",
+        "count": 3
+      },
+      {
+        "topic": "Ambiance",
+        "text": "Rustic, cozy atmosphere with unique touches , ideal for relaxation.",
+        "count": 2
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest issues including poor hygiene with hair on the floor, poor sound insulation that disturbs sleep, and a hard bed",
+      "count": 6
+    }
+  },
+  "address": "No. 65 Zhuyuan Road, Moganshan Town, Deqing, Zhejiang, 313204, China",
+  "priceRange": "From US$47",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/4638034/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0s12000efiu89b0ED8.jpg"
+    },
+    {
+      "src": "/images/stays/4638034/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0580b12000sp066se736D.webp"
+    },
+    {
+      "src": "/images/stays/4638034/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4c12000edwo79p7075.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "房間很乾凈，訂的家庭房，陽台太讚了，老闆娘人美心善熱情開朗，不厭其煩的滿足我們這幾個帶娃媽媽的各種需求，重點是位置特別好，在庾村景區入口的位置，走路一分鐘就到了，打車過來還沒到堵車就到了，再往裡麪走的其他民宿，雖然在景區的中心位置，但是非常堵車，無論是自駕還是打車都不方便。超好評！",
+      "author": "Yanyanjiade",
+      "date": "2026-02-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4638034&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4638034&trip_sub3=D19127628"
+    },
+    {
+      "quote": "酒店離庾村非常近 走路5分鐘到廣場金魚媽媽餐廳 是老闆自家的房子 可以停車 遠離庾村的酒吧街道晚上還是比較安靜的 住的風信子 外面還有一個小陽台 忘記拍照片了 很適合朋友出遊 預訂",
+      "author": "Guest User",
+      "date": "2026-04-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4638034&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4638034&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間很乾凈，訂的家庭房，陽台太讚了，老闆娘人美心善熱情開朗，不厭其煩的滿足我們這幾個帶娃媽媽的各種需求，重點是位置特別好，在庾村景區入口的位置，走路一分鐘就到了，打車過來還沒到堵車就到了，再往裡麪走的其他民宿，雖然在景區的中心位置，但是非常堵車，無論是自駕還是打車都不方便。超好評！",
+      "author": "Yanyanjiade",
+      "date": "2026-02-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4638034&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4638034&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.8,
+    "count": 56,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:28:21.748Z",
+  "source": "trip"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 17335072,
+  "name": "Hongxin Xiaozhu Homestay",
+  "seedName": "Hongxin Xiaozhu Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-17335072",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=17335072&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-17335072&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Hongxin Xiaozhu Homestay?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 5, Tangzi, Fangshan Village, Wuxing District, Huzhou, Deqing, Zhejiang, China",
+  "priceRange": "From US$55",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/17335072/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5712000ecsexjp8DE6.jpg"
+    },
+    {
+      "src": "/images/stays/17335072/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02049120009phpyuj1AB6.webp"
+    },
+    {
+      "src": "/images/stays/17335072/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205k120009uuayov3BBA.webp"
+    }
+  ],
+  "comments": [],
+  "rating": null,
+  "sourcedAt": "2026-08-08T15:18:53.376Z",
+  "source": "trip"
+}

@@ -1,0 +1,74 @@
+{
+  "id": 96413254,
+  "name": "Guiye·Moganshan GUIYE, a luxurious and beautiful accommodation surrounded by mountains and rivers",
+  "seedName": "Guiye·Moganshan GUIYE, a luxurious and beautiful accommodation surrounded by mountains and rivers",
+  "city": "Huzhou",
+  "cityId": 86,
+  "goSlug": "moganshan-96413254",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=96413254&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-96413254&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness:Guests frequently highlight the spotless rooms, fresh bedding, and overall hygiene standards. The property maintains high cleanliness levels, ensuring a comfortable and safe stay for all visitors.(based on 11 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness",
+        "text": "Guests frequently highlight the spotless rooms, fresh bedding, and overall hygiene standards. The property maintains high cleanliness levels, ensuring a comfortable and safe stay for all visitors.",
+        "count": 11
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 7, Tangzi, Fangshan Village, Daixi Town, Wuxing District, Huzhou, Zhejiang, China",
+  "priceRange": "From US$98",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant",
+    "Conference room",
+    "Multi-function room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/96413254/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02047120009pgjpxbABED.jpg"
+    },
+    {
+      "src": "/images/stays/96413254/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4x12000gslkrpl79DB.webp"
+    },
+    {
+      "src": "/images/stays/96413254/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203812000aafvxs9630C.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "民宿露台看出去風景很好，房間也很乾凈，衞生很到位，空調也很給力，很滿意，推薦！",
+      "author": "Guest User",
+      "date": "2026-05-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=96413254&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-96413254&trip_sub3=D19127628"
+    },
+    {
+      "quote": "特別滿意，泳池水很乾凈，老闆經常都在清理泳池。實際入住後覺得比我在網上看的照片要更好看一些。老闆特別熱情實在。寶貝玩得不想走了。下次再來這邊肯定繼續住歸也！😊",
+      "author": "Guest User",
+      "date": "2025-08-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=96413254&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-96413254&trip_sub3=D19127628"
+    },
+    {
+      "quote": "老闆娘人超級好，各種水果準備非常齊全，桌球，麻將應有盡有，老闆娘推薦的餐飲也很好酒店非常不錯，各方面服務都細緻周到，適合入住",
+      "author": "Guest User",
+      "date": "2025-07-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=96413254&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-96413254&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 41,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:29:27.034Z",
+  "source": "trip"
+}

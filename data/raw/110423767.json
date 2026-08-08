@@ -1,0 +1,88 @@
+{
+  "id": 110423767,
+  "name": "Moganshan Qingxu Yuanshan Parent-child Homestay",
+  "seedName": "Moganshan Qingxu Yuanshan Parent-child Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-110423767",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=110423767&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-110423767&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:Quiet and comfortable environment, suitable for rest. Beautiful courtyard. (based on 49 reviews) Service:Friendly service, answer questions actively, introduce surrounding attractions and plan travel routes. (based on 39 reviews) Breakfast:Some users mention that breakfast is sufficient or delicious. (based on 16 reviews) Room:Large rooms, comfortable bedding, suitable for family travel. (based on 49 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Quiet and comfortable environment, suitable for rest. Beautiful courtyard.",
+        "count": 49
+      },
+      {
+        "topic": "Service",
+        "text": "Friendly service, answer questions actively, introduce surrounding attractions and plan travel routes.",
+        "count": 39
+      },
+      {
+        "topic": "Breakfast",
+        "text": "Some users mention that breakfast is sufficient or delicious.",
+        "count": 16
+      },
+      {
+        "topic": "Room",
+        "text": "Large rooms, comfortable bedding, suitable for family travel.",
+        "count": 49
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 8, Hou Village, Liaoyuan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$43",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/110423767/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0812000bokjf6380EC.jpg"
+    },
+    {
+      "src": "/images/stays/110423767/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1f12000bojzlk1E084.webp"
+    },
+    {
+      "src": "/images/stays/110423767/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4r12000bojtx83888C.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "If you're visiting Moganshan, definitely check out this guesthouse! It's super close to Yujie Street and really convenient for driving everywhere. The bed is huge and incredibly comfortable. There's a big, quiet pool in the yard, and the facilities are...",
+      "author": "Guest User",
+      "date": "2026-07-26",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=110423767&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-110423767&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Was a really nice stay! The receptionist was super helpful and friendly, recommended us some great activities and itinerary. Location is also good, a 10 minute walk to the shopping street.",
+      "author": "Guest User",
+      "date": "2025-10-15",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=110423767&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-110423767&trip_sub3=D19127628"
+    },
+    {
+      "quote": "This is the best B&B I have ever stayed in! The environment is beautiful and hygienic, and it is very clean. It is also very close to the tourist attractions. The breakfast in the morning is also delicious, and the...",
+      "author": "Guest User",
+      "date": "2024-05-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=110423767&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-110423767&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 108,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:26:19.227Z",
+  "source": "trip"
+}

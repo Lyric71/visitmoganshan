@@ -1,0 +1,72 @@
+{
+  "id": 2589895,
+  "name": "Moganshan Biwu Yuanxiang Parent Child Homestay",
+  "seedName": "Moganshan Biwu Yuanxiang Parent Child Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2589895",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2589895&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2589895&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness and Maintenance:Multiple reviews highlight the consistently clean and tidy rooms, bathrooms, and common areas. The property maintains high hygiene standards, with no reported issues related to odors or cleanliness during stays.(based on 10 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness and Maintenance",
+        "text": "Multiple reviews highlight the consistently clean and tidy rooms, bathrooms, and common areas. The property maintains high hygiene standards, with no reported issues related to odors or cleanliness during stays.",
+        "count": 10
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Biwu Village, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$52",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/2589895/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02035120008k3ero26807.jpg"
+    },
+    {
+      "src": "/images/stays/2589895/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200b14000000vq5k5EBBC.webp"
+    },
+    {
+      "src": "/images/stays/2589895/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0586d12000sq6parx1734.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "民宿的整體環境和設計非常好，外面泳池特別乾淨，多肉養得很好，下雨天在民宿裏擺爛也很舒服。房間很乾凈，老闆老闆娘人都很好，很熱情。小狗開心特別粘人，非常可愛。早餐也很好吃。距離庾村5km，距離龍潭300m左右，自駕遊很舒適。",
+      "author": "Guest User",
+      "date": "2024-03-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2589895&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2589895&trip_sub3=D19127628"
+    },
+    {
+      "quote": "老闆親切 照顧周到 這次越野賽入住兩天 感恩老闆的諸多幫忙 點滴在心頭 祝老闆生意興隆❤️❤️🙏🏻",
+      "author": "Guest User",
+      "date": "2024-04-15",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2589895&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2589895&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿的整體環境和設計非常好，外面泳池特別乾淨，多肉養得很好，下雨天在民宿裏擺爛也很舒服。房間很乾凈，老闆老闆娘人都很好，很熱情。小狗開心特別粘人，非常可愛。早餐也很好吃。距離庾村5km，距離龍潭300m左右，自駕遊很舒適。",
+      "author": "Guest User",
+      "date": "2024-03-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2589895&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2589895&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 24,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:23:51.577Z",
+  "source": "trip"
+}

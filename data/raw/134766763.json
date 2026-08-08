@@ -1,0 +1,64 @@
+{
+  "id": 134766763,
+  "name": "Moganshan Yunqi Chayin · Ins Infinity Pool Mountain Tea Field Wilderness Boutique Stay",
+  "seedName": "Moganshan Yunqi Chayin · Ins Infinity Pool Mountain Tea Field Wilderness Boutique Stay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-134766763",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=134766763&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-134766763&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Yunqi Chayin · Ins Infinity Pool Mountain Tea Field Wilderness Boutique Stay?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 24, Meigaowuzhong Village, Ziling Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$134",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/134766763/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3o12000sr2t8fpEC70.jpg"
+    },
+    {
+      "src": "/images/stays/134766763/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6p12000sqqdxaq20F2.webp"
+    },
+    {
+      "src": "/images/stays/134766763/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3a12000splhargB44D.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Had a very comfortable stay! The home-style cooking was also incredibly delicious. I highly recommend everyone to come and visit. Even on rainy days, you can play mahjong or sing karaoke with friends at the hotel, so you'll never get...",
+      "author": "Xincunqingcufa",
+      "date": "2026-07-23",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=134766763&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-134766763&trip_sub3=D19127628"
+    },
+    {
+      "quote": "A perfect stay! The room was clean and tidy, with a great ambiance that was perfect for photos. The host was warm and helpful, and check-in was a breeze. The location is convenient for getting around, with plenty of amenities...",
+      "author": "Guest User",
+      "date": "2026-07-23",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=134766763&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-134766763&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間很滿意，酒店老闆很貼心，提前準備好了午餐，到了就可以午餐。泳池也很好看，水池乾淨。午餐晚餐都好吃。期待下次有機會再來。 還介紹晚上去庾村玩。特別棒的一次入住酒店。特別是酒店裝修很好。景色優美。",
+      "author": "Guest User",
+      "date": "2026-08-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=134766763&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-134766763&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 10,
+    "count": 38,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:29:34.335Z",
+  "source": "trip"
+}

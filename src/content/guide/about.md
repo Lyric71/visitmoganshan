@@ -9,15 +9,15 @@ secondary_keywords: [visitmoganshan, moganshan guide publisher, independent moga
 schema: Article
 image: /images/guide/about.webp
 image_alt: An open blank notebook, a folded contour map, reading glasses and a glass of green tea on a wooden desk
-word_count: 1097
-last_updated: 2026-08-06
+word_count: 1130
+last_updated: 2026-08-08
 ---
 
 # About this site
 
 visitmoganshan.com is an English-language guide to Moganshan, a mountain in Zhejiang Province, China, inside Deqing County in Huzhou prefecture. Hangzhou is roughly 60 km south of it. Shanghai is 200 to 240 km off. In Chinese the mountain is written 莫干山.
 
-It is for travelers heading to China, or already there, weighing a few days outside Shanghai and Hangzhou. Tour operators, DMCs and editors want [the trade page](/trade/) instead.
+It is for travelers heading to China, or already there, weighing a few days outside Shanghai and Hangzhou. If you run a hotel, an attraction or a service on the mountain rather than plan a trip to it, [advertise with us](/advertise/) is the page you want.
 
 This page is here so you can judge how much of the rest of the site to believe.
 
@@ -42,11 +42,15 @@ The missing field visit is why we describe hotels without reviewing them.
 
 ## Funding, and what we own
 
-The commercial model is not settled, and this section will change.
+There are two revenue lines, and both are visible on the page they run on.
 
-How this site is funded is not settled, and neither is whether BeyondBorder Group Ltd or anyone connected to it holds a commercial interest, direct or indirect, in any property named here. Both stay unconfirmed here until they are documented. We will not describe a revenue model we cannot document.
+The first is affiliate commission. Some booking links go to Trip.com carrying an identifier that tells them the booking came from us, you pay what you would have paid anyway, and the links are marked as commercial in the page source. [How this site is funded](/plan/disclosure/) has the detail.
 
-One rule sits above whatever it turns out to be. Money does not buy a mention. It does not buy a better position either.
+The second is advertising. Businesses on and around the mountain can buy a listing, a labelled placement or a sponsored feature, and [advertise with us](/advertise/) sets out the terms in public rather than in an email. Paid items say they are paid, above the copy rather than under it.
+
+Whether BeyondBorder Group Ltd or anyone connected to it holds an ownership interest in a property named here stays unconfirmed until it is documented. We will not describe a holding we cannot document.
+
+One rule sits above both lines. Money does not buy a mention in an editorial page, and it does not buy a better position in one.
 
 ## How we handle facts
 
@@ -54,7 +58,7 @@ The method is more settled than the business model.
 
 ![Annotated research pages spread across a wooden table under a lamp](/images/guide/about-3.webp 'Every figure on the site is traced to a source and dated, or it is marked unverified and left that way.')
 
-Every figure on this site traces back to a dated fact base. If a number is not in it, it does not reach a page. The same document underpins the destination fact sheet on [the trade page](/trade/).
+Every figure on this site traces back to a dated fact base. If a number is not in it, it does not reach a page.
 
 That shows up as three habits.
 
@@ -101,9 +105,9 @@ That decision costs the site its most commercial pages. There is no best-hotel l
 
 Four commitments, and none of them has an exception clause.
 
-- We do not sell rooms. No booking engine, no cart.
-- We do not take a commission on a booking we cannot see. No affiliate link is live today, and the final affiliate policy is not settled.
-- We do not accept payment for placement or for a link.
+- We do not sell rooms. No booking engine, no cart. A booking link hands you to the platform that takes the money.
+- We do not run a paid item without saying it is paid. Advertising is labelled where a reader sees it, and commercial links are marked as commercial in the source.
+- We do not sell a place in an editorial page, a position in a list, or the removal of a caveat. Those are not for sale at any price, which is the short answer to the email we expect from hotel marketing.
 - We do not trade coverage for a press trip or a hosted stay. Nothing here has come from either, to date.
 
 ## Dates, because things change
@@ -120,4 +124,4 @@ If something here is wrong, we want the correction. We would rather hear it from
 
 The contact address and the response time are not confirmed yet.
 
-*Publisher details and editorial policy last checked 6 August 2026. The funding model and the affiliate policy are open questions, not settled positions.*
+*Publisher details, funding and editorial policy last checked 8 August 2026. Any ownership interest in a property named here remains an open question rather than a settled position.*

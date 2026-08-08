@@ -1,0 +1,36 @@
+{
+  "id": 1411421,
+  "name": "Moganshan Gaoshikan No. 5 Homestay",
+  "seedName": "Moganshan Gaoshikan No. 5 Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1411421",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1411421&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1411421&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Gaoshikan No. 5 Homestay?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Shan Zhen Xian Tan Cun Mo Bi Wu Gao Shi Kan No. 5, Deqing, Zhejiang, 313100, China",
+  "priceRange": "From US$96",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/1411421/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203r12000t96o45o8303.jpg"
+    },
+    {
+      "src": "/images/stays/1411421/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1re6m12000b87h4ih2D60.webp"
+    },
+    {
+      "src": "/images/stays/1411421/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1h12000t6kds4019CE.webp"
+    }
+  ],
+  "comments": [],
+  "rating": null,
+  "sourcedAt": "2026-08-08T15:18:06.113Z",
+  "source": "trip"
+}

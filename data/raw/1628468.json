@@ -1,0 +1,38 @@
+{
+  "id": 1628468,
+  "name": "Moganshan Hailin Hotel",
+  "seedName": "Moganshan Hailin Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1628468",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1628468&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1628468&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Hailin Hotel?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 10, Yangwukeng, Xiantan Village, Moganshan Town, Deqing, Zhejiang, 313207, China",
+  "priceRange": "From US$49",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1628468/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200d16000000zof24AFFC.jpg"
+    },
+    {
+      "src": "/images/stays/1628468/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200r0k000000b7gft52A6.webp"
+    },
+    {
+      "src": "/images/stays/1628468/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0586e12000so46wmcD690.webp"
+    }
+  ],
+  "comments": [],
+  "rating": null,
+  "sourcedAt": "2026-08-08T15:19:16.727Z",
+  "source": "trip"
+}

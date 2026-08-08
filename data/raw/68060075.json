@@ -1,0 +1,72 @@
+{
+  "id": 68060075,
+  "name": "Moganshan Moyin | Sika Deer | River Tracing | Swimming Pool Homestay",
+  "seedName": "Moganshan Moyin | Sika Deer | River Tracing | Swimming Pool Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-68060075",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=68060075&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-68060075&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness & Maintenance:The property upholds high cleanliness standards, focusing on hygiene details. Rooms are regularly described as tidy, organized, and equipped with essential amenities, accommodating guests with cleanliness needs or allergies.(based on 20 reviews) Local Experiences:Unique features include activities like tea leaf picking, bamboo shoot harvesting, and interacting with deer and ducks, offering memorable experiences for nature lovers. Nearby dining choices and barbecue facilities enhance the overall stay.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Maintenance",
+        "text": "The property upholds high cleanliness standards, focusing on hygiene details. Rooms are regularly described as tidy, organized, and equipped with essential amenities, accommodating guests with cleanliness needs or allergies.",
+        "count": 20
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 3 Yangwukeng, Xiantan Village, Deqing, Zhejiang, China",
+  "priceRange": "From US$103",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Multi-function room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/68060075/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0f12000bj48ob7D96B.jpg"
+    },
+    {
+      "src": "/images/stays/68060075/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5312000bj425es8F2A.webp"
+    },
+    {
+      "src": "/images/stays/68060075/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3012000bj42yml3818.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The B&B is located deep in the mountains. The bamboo forest behind the house is also owned by the owner. It is said that it would be better to make a hot spring in the bamboo forest. It is very...",
+      "author": "Anonymous User",
+      "date": "2024-02-14",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=68060075&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-68060075&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The boss and his wife are very casual and easygoing, making people feel comfortable. The boss's son is very talkative and cute. 😊 The house is clean and tidy. The decoration of the house is simple but stylish. The surrounding...",
+      "author": "Anonymous User",
+      "date": "2024-02-14",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=68060075&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-68060075&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The style of the B&B is perfect for me. The Instagram style is very suitable for taking photos. Many facilities in the store are very design-oriented and photogenic. The surrounding scenery is also nice, with a bamboo forest.",
+      "author": "Guest User",
+      "date": "2024-01-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=68060075&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-68060075&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.6,
+    "count": 53,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:28:36.278Z",
+  "source": "trip"
+}

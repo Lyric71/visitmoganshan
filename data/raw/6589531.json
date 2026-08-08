@@ -1,0 +1,85 @@
+{
+  "id": 6589531,
+  "name": "ENJOY COTTAGE",
+  "seedName": "ENJOY COTTAGE",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-6589531",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6589531&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6589531&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:The homestay has beautiful surroundings, like being in a forest or park, with lush greenery. It's quiet and suitable for leisure and vacation. Breakfast:The breakfast is very rich, with various types of food.(based on 33 reviews) Facilities:There are courtyards, karaoke rooms, and convenient parking, and the facilities are well-prepared with many details.(based on 10 reviews) Location:It's located in a good position with many surrounding attractions, convenient for self-driving travel.(based on 7 reviews) Hygiene:The house is very clean, and the bathroom has no peculiar smell.(based on 18 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "The homestay has beautiful surroundings, like being in a forest or park, with lush greenery. It's quiet and suitable for leisure and vacation. Breakfast:The breakfast is very rich, with various types of food.",
+        "count": 33
+      },
+      {
+        "topic": "Facilities",
+        "text": "There are courtyards, karaoke rooms, and convenient parking, and the facilities are well-prepared with many details.",
+        "count": 10
+      },
+      {
+        "topic": "Location",
+        "text": "It's located in a good position with many surrounding attractions, convenient for self-driving travel.",
+        "count": 7
+      },
+      {
+        "topic": "Hygiene",
+        "text": "The house is very clean, and the bathroom has no peculiar smell.",
+        "count": 18
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Wai'an Village, Wusi Village, Deqing, Zhejiang, China",
+  "priceRange": "From US$52",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/6589531/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200o0g0000008ma0e0546.jpg"
+    },
+    {
+      "src": "/images/stays/6589531/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200h0g0000008mtpf9A79.webp"
+    },
+    {
+      "src": "/images/stays/6589531/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD34120009f5vace1301.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "設施：特別齊全 衞生：十分乾淨 環境：森林奇境 服務：貼心真誠 備註: 一家人十分淳樸、送茶水、送水果、景點門票便宜、早飯豐富且免費、晚飯價格公道且好吃，十分推薦，而且下次再來還會選擇。",
+      "author": "Guest User",
+      "date": "2026-07-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6589531&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6589531&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿環境很好，特別適合休閑度假。有非常好看的院子，現實中的綠野仙蹤😊😊。而且老闆人很nice，早早就幫忙開好了空調，幫忙提了行李，而且還有水果贈送哦。早上早餐也超級豐盛。下次來還是會繼續選擇這家民宿！",
+      "author": "Xiaopangqiuqiu207",
+      "date": "2026-07-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6589531&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6589531&trip_sub3=D19127628"
+    },
+    {
+      "quote": "挖到一家神仙民宿！裝修審美在線，隨便一個角落拍照都很出片。房間採光超好，床品柔軟舒服，衞浴乾淨無異味。房東十分貼心，準備了很多小細節。地理位置絕佳，出行覓食都很方便，旅途最驚喜的一站，下次一定再來！",
+      "author": "Guest User",
+      "date": "2026-07-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6589531&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6589531&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 85,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:25:28.410Z",
+  "source": "trip"
+}

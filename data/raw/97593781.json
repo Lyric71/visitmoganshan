@@ -1,0 +1,73 @@
+{
+  "id": 97593781,
+  "name": "Moganshan Zui Corner B&B",
+  "seedName": "Moganshan Zui Corner B&B",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-97593781",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=97593781&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-97593781&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness and Maintenance:The property maintains exceptional cleanliness, with spotless rooms, bathrooms, and public areas. Guests repeatedly praised the immaculate condition of bedding, towels, and overall hygiene, making it ideal for those with high cleanliness standards.(based on 116 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness and Maintenance",
+        "text": "The property maintains exceptional cleanliness, with spotless rooms, bathrooms, and public areas. Guests repeatedly praised the immaculate condition of bedding, towels, and overall hygiene, making it ideal for those with high cleanliness standards.",
+        "count": 116
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 9, Lingjiaoxia, Houwu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$93",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/97593781/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201v120009ylqd7571E1.jpg"
+    },
+    {
+      "src": "/images/stays/97593781/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3n12000bhy3i3h9620.webp"
+    },
+    {
+      "src": "/images/stays/97593781/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4212000bhycgie0DD7.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "暑假帶孩子去瑤塢遊玩，距離酒店很近呢，酒店服務熱情，細心周到～是不錯的體驗～推薦家庭和情侶出遊來這邊住哦^_^",
+      "author": "Guest User",
+      "date": "2026-08-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=97593781&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-97593781&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間非常滿意！衞生非常乾淨。老闆是退伍軍人，服務非常棒，還推薦周邊的遊玩攻略，漂流塑溪非常近，值得強力推薦，性價比超高！",
+      "author": "Guest User",
+      "date": "2026-07-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=97593781&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-97593781&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間乾淨整潔，適合帶娃出行，酒店還有無邊泳池孩子非常喜歡。店主人非常好熱情好客，還給帶特產，強烈推薦！！",
+      "author": "Guest User",
+      "date": "2026-07-16",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=97593781&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-97593781&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 294,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:25:05.961Z",
+  "source": "trip"
+}

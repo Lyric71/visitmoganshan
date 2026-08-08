@@ -1,0 +1,36 @@
+{
+  "id": 134113499,
+  "name": "夏谷民宿(莫干山镇南路村店)",
+  "seedName": "夏谷民宿(莫干山镇南路村店)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-134113499",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=134113499&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-134113499&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at 夏谷民宿(莫干山镇南路村店)?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 27, Duijiangwu, Nanlu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$730",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/134113499/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6k12000s8pmf2i80B8.jpg"
+    },
+    {
+      "src": "/images/stays/134113499/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2k12000s8pl12j2524.webp"
+    },
+    {
+      "src": "/images/stays/134113499/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0w12000sf9pu7hBC80.webp"
+    }
+  ],
+  "comments": [],
+  "rating": null,
+  "sourcedAt": "2026-08-08T15:19:42.816Z",
+  "source": "trip"
+}

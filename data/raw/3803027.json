@@ -1,0 +1,85 @@
+{
+  "id": 3803027,
+  "name": "Jishan Jishui B&B",
+  "seedName": "Jishan Jishui B&B",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-3803027",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=3803027&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-3803027&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment Location:Located in the Moganshan area, close to surrounding attractions like Jiangnan Yaowu, with convenient transportation, easy parking for self-driving, and beautiful and fresh air(based on 6 reviews) Room Facilities:Rooms are large, clean, tidy, new, some with balconies, swimming pools, slides and other facilities(based on 19 reviews) Service:The boss is polite, introduces surrounding scenic spots, provides breakfast, and food can be reserved in advance(based on 15 reviews) Diet Features:Provides freshly picked vegetables and delicious local specialties.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment Location",
+        "text": "Located in the Moganshan area, close to surrounding attractions like Jiangnan Yaowu, with convenient transportation, easy parking for self-driving, and beautiful and fresh air",
+        "count": 6
+      },
+      {
+        "topic": "Room Facilities",
+        "text": "Rooms are large, clean, tidy, new, some with balconies, swimming pools, slides and other facilities",
+        "count": 19
+      },
+      {
+        "topic": "Service",
+        "text": "The boss is polite, introduces surrounding scenic spots, provides breakfast, and food can be reserved in advance",
+        "count": 15
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 6, Lingjiaoxia, Houwu Village, Fatou Township, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$68",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Billiards room",
+    "Restaurant",
+    "Conference room",
+    "Playground",
+    "Kids' club"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/3803027/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3812000mgbq27bB6C3.jpg"
+    },
+    {
+      "src": "/images/stays/3803027/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD4p120009fd9u3v7426.webp"
+    },
+    {
+      "src": "/images/stays/3803027/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD3i120009fd9vgr86FC.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "民宿離景區近，房間大乾淨整潔。重點是老闆非常好，協助解決各種問題，早餐豐盛。老闆把民宿打理得很好，門口的泳池每天清理足見用心。推薦推薦。",
+      "author": "Guest User",
+      "date": "2026-07-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=3803027&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-3803027&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿挺好的，本來定的時候看中它的房間面積都很大，那種20平左右的實在太小了，但就是怕舊舊的，實際到了民宿不管公區還是房間都看上去很好呢，很乾凈，風格也是挺清新的，喜歡它的木製樓梯和鐵藝把手，民宿裏的陳設都是有點原木風吧。早餐很豐盛，根本吃不完，老闆很客氣。山裡的環境就是好，吃吃農家菜也很不錯，民宿吃的話要提前和老闆預訂，不點菜，按人頭100每人來算的，圖的就是一個新鮮，因為蔬菜都是地上現摘的，真的很鮮美，特別是土雞湯。",
+      "author": "Guest User",
+      "date": "2026-05-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=3803027&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-3803027&trip_sub3=D19127628"
+    },
+    {
+      "quote": "這次因為女兒學校到莫干山研學，我也一起過來，順便自己一個人來山裡放鬆一下。山裡很漂亮，滿目皆是綠色，空氣真的不錯，早晚還是有點温差，非常適宜的天氣。民宿不錯，位置方便，周邊吃的，去莫干山，庾村，江南瑤塢都很近。定的時候顯示沒有早餐，但老闆還是給我提供了，真的非常感謝。房間雖然定的是最小面積的，但我覺得也很大了，帶個陽台。裏面很乾凈，該提供的都有，還有大浴缸。床對着一面大玻璃，望出去就是青山，非常治癒。有個院子，院子裏還有泳池，泳池上有個滑梯。下次有時間帶上家裡人再來，畢竟莫干山也不算遠，很方便。",
+      "author": "Guest User",
+      "date": "2026-05-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=3803027&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-3803027&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 83,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:21:22.086Z",
+  "source": "trip"
+}

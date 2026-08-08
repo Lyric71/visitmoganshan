@@ -1,0 +1,64 @@
+{
+  "id": 5612394,
+  "name": "Huatian Shuiyuan Inn",
+  "seedName": "Huatian Shuiyuan Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5612394",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5612394&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5612394&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Huatian Shuiyuan Inn?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 7, Miaoqian, Miaoqian Village, Moganshan Town, Deqing, Zhejiang, 313202, China",
+  "priceRange": "From US$38",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5612394/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0586n12000sqe5etf863C.jpg"
+    },
+    {
+      "src": "/images/stays/5612394/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0585o12000sn8fyhx3018.webp"
+    },
+    {
+      "src": "/images/stays/5612394/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0581712000sqjvcig2BBC.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "There is a farmhouse inn on the roadside in Miaoqian Village. There is a stream and a trail at the door. The balcony overlooks greenery. A few hundred meters up is the ancient tree-lined road with a 2.5-kilometer hiking trail....",
+      "author": "Daolun",
+      "date": "2024-08-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5612394&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5612394&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I was traveling during the summer vacation and found this B&B on Ctrip. The price/performance ratio is pretty good. The room has a small terrace on the third floor. The bedding is clean and tidy. The boss and the landlady...",
+      "author": "Guest User",
+      "date": "2023-08-25",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5612394&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5612394&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The boss and his wife are very enthusiastic, attentive, and responsive to all requests. They also always remind the children not to go alone to the river or the roadside, which is especially good! The 10 yuan breakfast is all...",
+      "author": "Guest User",
+      "date": "2023-08-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5612394&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5612394&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.4,
+    "count": 3,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:15:00.871Z",
+  "source": "trip"
+}

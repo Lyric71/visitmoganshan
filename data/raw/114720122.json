@@ -1,0 +1,67 @@
+{
+  "id": 114720122,
+  "name": "Moganshan February 30 Villa",
+  "seedName": "Moganshan February 30 Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-114720122",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=114720122&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-114720122&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan February 30 Villa?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 527, Moganshan Scenic Area, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$97",
+  "facilities": [
+    "Restaurant",
+    "Cafe",
+    "Conference room",
+    "Multi-function room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/114720122/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3y12000dcq8ga6E47F.jpg"
+    },
+    {
+      "src": "/images/stays/114720122/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6f12000cou5nba5463.webp"
+    },
+    {
+      "src": "/images/stays/114720122/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3p12000coeuqyp8CE8.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "A great hotel, located on the top of Mogan Mountain with beautiful scenery. It is a ten-minute walk from Wuling Village (Chiang Kai-shek's official residence). There is a big sea of ​​flowers in the middle. It is really pleasant to...",
+      "author": "Guest User",
+      "date": "2024-03-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=114720122&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-114720122&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間設施很新，窗明幾近，視野通透，停車很方便，周邊景色很美，距離網紅咖啡廳就衹有50米，店長很熱情，來有接去有送，主動幫助提行李，早餐也很豐盛，莫干山我多次來到，這次非常滿意……",
+      "author": "Guest User",
+      "date": "2026-05-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=114720122&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-114720122&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿在山頂，風景很好，看日落日出方便，旁邊就是網紅咖啡店，非常出片。民宿乾淨整潔，貼心服務，會主動幫忙提行李箱、指揮停車。民宿的早飯豐盛，正餐的食材新鮮，竹林雞、紅燒魚、筍衣讓人難忘，可惜衹住一晚，下次多住幾天，沉浸式體驗山林的幽靜。",
+      "author": "Guest User",
+      "date": "2025-10-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=114720122&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-114720122&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 57,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:25:55.059Z",
+  "source": "trip"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 3993646,
+  "name": "Om Yoga Resort",
+  "seedName": "Om Yoga Resort",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-3993646",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=3993646&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-3993646&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Om Yoga Resort?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 53, Fangcunwu, Hecun Village, Deqing, Zhejiang, China",
+  "priceRange": "From US$29",
+  "facilities": [
+    "Bar",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/3993646/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200v0800000039ali3E25.jpg"
+    },
+    {
+      "src": "/images/stays/3993646/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200q0g0000007sok2220E.webp"
+    },
+    {
+      "src": "/images/stays/3993646/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200h09000000430pw79D3.webp"
+    }
+  ],
+  "comments": [],
+  "rating": null,
+  "sourcedAt": "2026-08-08T15:18:30.989Z",
+  "source": "trip"
+}

@@ -1,0 +1,65 @@
+{
+  "id": 61636388,
+  "name": "A Period · Moganshan Tranquil Healing Hot Spring Boutique Stay",
+  "seedName": "A Period · Moganshan Tranquil Healing Hot Spring Boutique Stay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-61636388",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=61636388&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-61636388&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at A Period · Moganshan Tranquil Healing Hot Spring Boutique Stay?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 27, Village Group 13, Xiantan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$112",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/61636388/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0585r12000sn4guyy1657.jpg"
+    },
+    {
+      "src": "/images/stays/61636388/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0583e12000snqanwj3760.webp"
+    },
+    {
+      "src": "/images/stays/61636388/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0580o12000snrjj03236F.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The rooms were spacious, and the guesthouse offered a variety of activities, including karaoke, billiards, video games, card games, and swimming. The owner was very welcoming. However, the decor was a bit dated, and the facilities weren't as new. The...",
+      "author": "flying55",
+      "date": "2025-04-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=61636388&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-61636388&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Although small, the hotel was fully equipped and the rooms were clean and tidy. It was a very satisfying stay. The owner was very welcoming and proactively asked about our needs, introduced local specialties, and most importantly, even helped me...",
+      "author": "Guest User",
+      "date": "2025-04-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=61636388&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-61636388&trip_sub3=D19127628"
+    },
+    {
+      "quote": "【Ancient Charm Homestay Experience】Time flows between the green tiles and wooden beams, and warm sunlight filters through the carved window lattices. The host is as warm as an old friend, and the handmade breakfast is full of local flavor. The...",
+      "author": "Anonymous User",
+      "date": "2025-05-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=61636388&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-61636388&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.8,
+    "count": 7,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:21:44.704Z",
+  "source": "trip"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 76217770,
+  "name": "Moganshan Qijian Miss Sister's B&B",
+  "seedName": "Moganshan Qijian Miss Sister's B&B",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-76217770",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=76217770&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-76217770&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Scenery & Location:Overlooking mountain views, lush greenery, and convenient access to nearby attractions. Facilities:High-end amenities . Ambiance:Stylish, home-like design with a reading room, bar area, and garden views. Cleanliness:Consistently praised for cleanliness, including spotless rooms and premium toiletries. Accessibility:Easy parking and quiet environment, suitable for families and photography. Service:Friendly and attentive staff, with additional services like breakfast and assistance during unexpected issues.",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 4, Lujiaqiao, Houwu Village, Moganshan, Deqing, Zhejiang, China",
+  "priceRange": "From US$91",
+  "facilities": [
+    "Bar",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/76217770/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0202s120008p419i3C5D3.jpg"
+    },
+    {
+      "src": "/images/stays/76217770/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205g120008p3awu26708.webp"
+    },
+    {
+      "src": "/images/stays/76217770/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203l120008p411mq313C.webp"
+    }
+  ],
+  "comments": [],
+  "rating": null,
+  "sourcedAt": "2026-08-08T15:19:17.071Z",
+  "source": "trip"
+}

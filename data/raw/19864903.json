@@ -1,0 +1,91 @@
+{
+  "id": 19864903,
+  "name": "Bein Village Moganshan",
+  "seedName": "Bein Village Moganshan",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-19864903",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=19864903&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-19864903&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment Location:Located in the mountains of Moganshan, surrounded by beautiful scenery, close to scenic spots like Bidu Longtan, with a quiet and peaceful environment, where you can see mountain clouds, stars, etc.(based on 17 reviews) Service:Housekeepers contact in advance to guide, provide pick-up and drop-off services, etc., and the service is thoughtful and meticulous(based on 52 reviews) Food:Breakfast and dinner are delicious, with large portions and delicious taste(based on 14 reviews) Facilities:Rooms are large, with tasteful design, warm style, and comfortable bedding(based on 46 reviews) Activities:There are exclusive locations to watch the sunset, and activities like organizing to watch the sunset on the mountain top can be carried out Guest Suggestion:Some customers suggest issues regarding high price with low cost performance, problems with facilities such as leaking sink and non-adjustable hot water, and hygiene problem with bedbugs on pillows(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment Location",
+        "text": "Located in the mountains of Moganshan, surrounded by beautiful scenery, close to scenic spots like Bidu Longtan, with a quiet and peaceful environment, where you can see mountain clouds, stars, etc.",
+        "count": 17
+      },
+      {
+        "topic": "Service",
+        "text": "Housekeepers contact in advance to guide, provide pick-up and drop-off services, etc., and the service is thoughtful and meticulous",
+        "count": 52
+      },
+      {
+        "topic": "Food",
+        "text": "Breakfast and dinner are delicious, with large portions and delicious taste",
+        "count": 14
+      },
+      {
+        "topic": "Facilities",
+        "text": "Rooms are large, with tasteful design, warm style, and comfortable bedding",
+        "count": 46
+      },
+      {
+        "topic": "Activities",
+        "text": "There are exclusive locations to watch the sunset, and activities like organizing to watch the sunset on the mountain top can be carried out Guest Suggestion:Some customers suggest issues regarding high price with low cost performance, problems with facilities such as leaking sink and non-adjustable hot water, and hygiene problem with bedbugs on pillows",
+        "count": 3
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 100, Biwu, Xiantan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$152",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/19864903/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206b120008xibefoDEC8.jpg"
+    },
+    {
+      "src": "/images/stays/19864903/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0202l120008xhydhhEC90.webp"
+    },
+    {
+      "src": "/images/stays/19864903/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206y120008xi2j1650EC.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The room had a leaky sink and cracked floor. It was expensive and offered very poor value for money. A five-star hotel price for three-star quality at over 1700 yuan is simply not worth it!",
+      "author": "Guest User",
+      "date": "2025-12-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=19864903&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-19864903&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The guesthouse was fantastic! The owner was incredibly welcoming and provided excellent service, doing their best to meet all our needs. The auntie's breakfast and dinner were especially delicious, surpassing many high-end restaurants! The four of us ordered a lot...",
+      "author": "Guest User",
+      "date": "2025-10-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=19864903&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-19864903&trip_sub3=D19127628"
+    },
+    {
+      "quote": "It was great! The owner was very welcoming. The accommodation was located halfway up the mountain, and breathing in the fresh air in the morning was wonderful. Breakfast and dinner were both delicious, and the cook was very hospitable. I...",
+      "author": "Guest User",
+      "date": "2025-10-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=19864903&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-19864903&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 128,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:25:55.661Z",
+  "source": "trip"
+}

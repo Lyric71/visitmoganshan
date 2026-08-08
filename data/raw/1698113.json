@@ -1,0 +1,76 @@
+{
+  "id": 1698113,
+  "name": "Idyllic Life in Mogan",
+  "seedName": "Idyllic Life in Mogan",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1698113",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1698113&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1698113&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness and Maintenance:The property maintains high cleanliness standards, with guests noting spotless rooms, fresh-smelling interiors, and functional facilities. Regular maintenance of common areas and private spaces contributes to a welcoming stay.(based on 3 reviews) Guest Suggestion: Some customers suggest improving quilt cleanliness, ensuring heater functionality, and enhancing staff responsiveness to guest requests.(based on 1 review)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness and Maintenance",
+        "text": "The property maintains high cleanliness standards, with guests noting spotless rooms, fresh-smelling interiors, and functional facilities. Regular maintenance of common areas and private spaces contributes to a welcoming stay.",
+        "count": 3
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving quilt cleanliness, ensuring heater functionality, and enhancing staff responsiveness to guest requests.",
+      "count": 1
+    }
+  },
+  "address": "No. 10, Laoling Village, Moganshan, Deqing, Zhejiang, 313202, China",
+  "priceRange": "From US$109",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Bar",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1698113/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/020461200085o1rsh8E41.jpg"
+    },
+    {
+      "src": "/images/stays/1698113/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200g14000000wkhaz9CFB.webp"
+    },
+    {
+      "src": "/images/stays/1698113/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200s14000000w9lda2F59.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Very peaceful location. Lovely and comfortable room. I walked to yucan village and also took a didi which was very quick and was 8rmb. For foreigners in colder weather I would suggest raising the water temperature of the shower. Smoking...",
+      "author": "Guest User",
+      "date": "2024-04-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1698113&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1698113&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The yard is great, suitable for a slow life, sitting in the yard and drinking tea and chatting. The boss was very attentive and helped us take photos and leave beautiful memories. The B&B is very quiet, and there is...",
+      "author": "Guest User",
+      "date": "2024-04-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1698113&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1698113&trip_sub3=D19127628"
+    },
+    {
+      "quote": "It was a very pleasant trip. The boss and his family were very simple, kind and enthusiastic. I originally planned to stay for one night, but ended up staying here for three days and two nights. I went to the...",
+      "author": "Guest User",
+      "date": "2024-04-14",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1698113&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1698113&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.8,
+    "count": 46,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:23:50.728Z",
+  "source": "trip"
+}

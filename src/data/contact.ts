@@ -10,6 +10,7 @@ export const CONTACT_TOPICS = [
   'General question',
   'Booking or availability',
   'Hotel or business listing',
+  'Advertiser',
   'Trade and media',
   'Correction or update',
 ] as const;

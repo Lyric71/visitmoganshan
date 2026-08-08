@@ -1,0 +1,82 @@
+{
+  "id": 46588786,
+  "name": "Moganshan Heshan Hot Spring Boutique Stay",
+  "seedName": "Moganshan Heshan Hot Spring Boutique Stay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-46588786",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=46588786&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-46588786&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Atmosphere & Aesthetics:The property is praised for its \"yearly festive\" decor, abundant floral arrangements, and photogenic settings, creating a relaxing and immersive environment. Facilities & Cleanliness:Rooms are described as clean, well-equipped , and comfortable, with attention to detail in bedding and decor.(based on 1 review) Service Quality:The host is highlighted as friendly, knowledgeable about local tourism, and attentive .(based on 2 reviews) Suitability for Groups:Ideal for families, couples, or friends, with spacious areas for relaxation, outdoor spaces, and child-friendly amenities. Natural Environment:Surrounded by mountains, with a tranquil atmosphere and fresh air, enhancing the overall stay.(based on 1 review)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Aesthetics",
+        "text": "The property is praised for its \"yearly festive\" decor, abundant floral arrangements, and photogenic settings, creating a relaxing and immersive environment. Facilities & Cleanliness:Rooms are described as clean, well-equipped , and comfortable, with attention to detail in bedding and decor.",
+        "count": 1
+      },
+      {
+        "topic": "Service Quality",
+        "text": "The host is highlighted as friendly, knowledgeable about local tourism, and attentive .",
+        "count": 2
+      },
+      {
+        "topic": "Suitability for Groups",
+        "text": "Ideal for families, couples, or friends, with spacious areas for relaxation, outdoor spaces, and child-friendly amenities. Natural Environment:Surrounded by mountains, with a tranquil atmosphere and fresh air, enhancing the overall stay.",
+        "count": 1
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 12, Ganjia Village, Liaoyuan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$80",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/46588786/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6q12000ebdxwiy1B3D.jpg"
+    },
+    {
+      "src": "/images/stays/46588786/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3i12000b27kcec1A6F.webp"
+    },
+    {
+      "src": "/images/stays/46588786/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4u12000b27lpnl19A7.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "入住體驗Good!!! 民宿超有氛圍，年味佈置蠻足的，挺多拍照打卡的氛圍處，老闆好愛花，一家開在花店裡的民宿。 下雨過後空氣非常清新，吸氧散心的好地方，就是一整個放鬆住了！",
+      "author": "Guest User",
+      "date": "2024-02-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=46588786&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-46588786&trip_sub3=D19127628"
+    },
+    {
+      "quote": "入住體驗Good!!! 民宿超有氛圍，年味佈置蠻足的，挺多拍照打卡的氛圍處，老闆好愛花，一家開在花店裡的民宿。 下雨過後空氣非常清新，吸氧散心的好地方，就是一整個放鬆住了！",
+      "author": "Guest User",
+      "date": "2024-02-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=46588786&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-46588786&trip_sub3=D19127628"
+    },
+    {
+      "quote": "國慶期間，拖家帶口入住～舒舒服服。在露台吹吹風，在院子看旁邊層層疊疊的山巒，整個人都很平靜。老闆貼心的推薦旅遊線路和美食，嘗試過後發現都很好！晚上很晚回來，也在一樓等着我們。 位置離莫干山集散中心很近，走過去就可以，包括去庾村，也很方便。",
+      "author": "Guest User",
+      "date": "2023-10-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=46588786&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-46588786&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 3,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:14:05.870Z",
+  "source": "trip"
+}

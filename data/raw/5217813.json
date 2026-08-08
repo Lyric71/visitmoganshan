@@ -1,0 +1,83 @@
+{
+  "id": 5217813,
+  "name": "Yuanweiju Inn Mogan Mountain",
+  "seedName": "Yuanweiju Inn Mogan Mountain",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5217813",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5217813&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5217813&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Facilities:Complete facilities, large rooms, free parking available.(based on 70 reviews) Breakfast:Free breakfast is not abundant but delicious and affordable, satisfying guests' needs.(based on 39 reviews) Dining:Own restaurant provides discounts for guests. Local dishes are delicious. Environment:Beautiful environment with green plants, suitable for relaxation Guest Suggestion:Some customers suggest room hygiene issues, sound insulation problems, and low cost-effectiveness(based on 11 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Facilities",
+        "text": "Complete facilities, large rooms, free parking available.",
+        "count": 70
+      },
+      {
+        "topic": "Breakfast",
+        "text": "Free breakfast is not abundant but delicious and affordable, satisfying guests' needs.",
+        "count": 39
+      },
+      {
+        "topic": "Dining",
+        "text": "Own restaurant provides discounts for guests. Local dishes are delicious. Environment:Beautiful environment with green plants, suitable for relaxation Guest Suggestion:Some customers suggest room hygiene issues, sound insulation problems, and low cost-effectiveness",
+        "count": 11
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 428, Huangfu East Road, Liaoyuan Village, Moganshan Town, Deqing, Zhejiang, 313204, China",
+  "priceRange": "From US$45",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5217813/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20010x000000le94l88B6.jpg"
+    },
+    {
+      "src": "/images/stays/5217813/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6y12000ecfhcap976B.webp"
+    },
+    {
+      "src": "/images/stays/5217813/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20070x000000li0cz4E29.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The Original Flavor Guesthouse is conveniently located right across the road from the tourist distribution center. It has its own restaurant, making dining and lodging very convenient. The facilities are excellent, including high-quality toiletries and a powerful hot shower. The...",
+      "author": "Guest User",
+      "date": "2026-06-04",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5217813&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5217813&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間乾淨衞生，服務周到。酒店緊鄰莫干山景區遊客中心，距庾村景區步行20分鐘左右，酒店附近有Y1、208、314公交站台，出行方便。酒店提供的免費早餐雖算不上豐盛，但可口、實惠，足以讓客人吃飽、吃好。酒店的餐館也不錯，住店客人用餐可享受折扣。",
+      "author": "Guest User",
+      "date": "2026-07-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5217813&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5217813&trip_sub3=D19127628"
+    },
+    {
+      "quote": "一、中午12點到店，被告知原定房間未空出，被\"免費升級\"到另一間房。結果帶我們去的房間異味嚴重，像是長期無人居住、通風極差；樓下空間僅四五平米，極其簡陋悶熱，複式結構但根本沒法住。我當場表示無法接受、要求退房，房東拒絕。 二、隔音極差，晚上和早上都被走廊及隔壁噪音吵醒。 三、 房間衞生明顯不達標，房間有一股味道。凳子臟污明顯，毛巾浴巾發硬、起毛刺。門把手缺失，最基礎的熱水也放了很久才出。 總結：從換房推諉、拒絕退房，到房間異味、隔音差、衞生糟糕、設施破損，整個體驗從頭到尾都很糟。退房時店家態度尚可，但這完全無法彌補住宿條件太差的事實。",
+      "author": "Guest User",
+      "date": "2026-07-18",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5217813&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5217813&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 387,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:27:04.244Z",
+  "source": "trip"
+}

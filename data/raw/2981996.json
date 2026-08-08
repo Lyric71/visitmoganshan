@@ -1,0 +1,81 @@
+{
+  "id": 2981996,
+  "name": "Moganshan Mo Wen Dong Xi Homestay (Xiantan Village Scenic Area)",
+  "seedName": "Moganshan Mo Wen Dong Xi Homestay (Xiantan Village Scenic Area)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2981996",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2981996&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2981996&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Situated near Mogan Mountain, Biwu Longtan Scenic Area, and bamboo forests, offering serene surroundings and easy access to natural attractions.(based on 11 reviews) Environment:Features a small courtyard with fireflies, a large swimming pool, and a garden for relaxation. Rooms are clean, with balconies or terraces offering mountain views.(based on 6 reviews) Cleanliness:Rooms and common areas are consistently noted as spotless, with self-cleaning by hosts.(based on 20 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Situated near Mogan Mountain, Biwu Longtan Scenic Area, and bamboo forests, offering serene surroundings and easy access to natural attractions.",
+        "count": 11
+      },
+      {
+        "topic": "Environment",
+        "text": "Features a small courtyard with fireflies, a large swimming pool, and a garden for relaxation. Rooms are clean, with balconies or terraces offering mountain views.",
+        "count": 6
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms and common areas are consistently noted as spotless, with self-cleaning by hosts.",
+        "count": 20
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 25, Langjiakeng, Biwu Village, Xiantan Village, Moganshan Town, Deqing, Zhejiang, 3132220, China",
+  "priceRange": "From US$30",
+  "facilities": [
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/2981996/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc7312000saf53w26BE3.jpg"
+    },
+    {
+      "src": "/images/stays/2981996/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1re6m12000b87h4ih2D60.webp"
+    },
+    {
+      "src": "/images/stays/2981996/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc7312000saf53w26BE3.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "民宿位於幽靜的山林中，臨近莫干山風景區和碧塢龍潭景區，周圍空氣清新，風景優美。庭院和小花園佈置精緻，適合欣賞山景、露營、賞月等活動。部分客人提到民宿後山是竹林，能看到螢火蟲和野茶，整體環境讓人放鬆。",
+      "author": "Guest User",
+      "date": "2026-07-18",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2981996&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2981996&trip_sub3=D19127628"
+    },
+    {
+      "quote": "性價比挺好的名宿，窗外就是山景，提供早飯，離庾村廣場開車十來分鐘，老闆還贈送了冰箱貼，還有可愛的狗狗貓貓",
+      "author": "Guest User",
+      "date": "2026-08-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2981996&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2981996&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間開窗就是竹林，離螢火蟲基地近，江南瑤塢景區開車半個小時內，山路稍微有點繞，其他餐飲附近也都還算方便的。",
+      "author": "Guest User",
+      "date": "2026-07-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2981996&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2981996&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 52,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:27:51.825Z",
+  "source": "trip"
+}

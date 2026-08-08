@@ -1,0 +1,59 @@
+{
+  "id": 132406561,
+  "name": "Mogan Mountain Mid Flower Garden Resort Bungalow",
+  "seedName": "Mogan Mountain Mid Flower Garden Resort Bungalow",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-132406561",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=132406561&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-132406561&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Mogan Mountain Mid Flower Garden Resort Bungalow?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 50 Laolingjiao, Laoling Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$53",
+  "facilities": [
+    "Restaurant",
+    "Conference room",
+    "Multi-function room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/132406561/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6112000pfhn9vu3118.jpg"
+    },
+    {
+      "src": "/images/stays/132406561/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6512000pegdp5r43A5.webp"
+    },
+    {
+      "src": "/images/stays/132406561/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0w12000pegjd18EC20.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "房子很新，位於勞嶺村景區，附近勞嶺水庫有各類風格漂亮的餐廳。附近有茶園，稻田。去庾村景區和莫干山景區集散中心都很近很近。民宿老闆服務熱情，介紹周邊遊玩細緻耐心。值得信賴。",
+      "author": "Guest User",
+      "date": "2025-12-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=132406561&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-132406561&trip_sub3=D19127628"
+    },
+    {
+      "quote": "酒店老闆和老闆娘都非常熱情周到，推薦景區遊玩攻略，衞生乾淨，整潔，寬敞明亮。早點老闆娘還給我們吃她自己做的青糰子，很好吃，雞蛋也是綠色跑地🐔蛋，下次還來他家住。",
+      "author": "Guest User",
+      "date": "2025-11-16",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=132406561&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-132406561&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 2,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:22:37.930Z",
+  "source": "trip"
+}

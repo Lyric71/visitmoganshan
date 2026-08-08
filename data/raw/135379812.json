@@ -1,0 +1,36 @@
+{
+  "id": 135379812,
+  "name": "Omito Hotel (Moganshan Branch)",
+  "seedName": "Omito Hotel (Moganshan Branch)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-135379812",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=135379812&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-135379812&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Omito Hotel (Moganshan Branch)?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 234 Huangfu East Road, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/135379812/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6y12000tefhmolF499.jpg"
+    },
+    {
+      "src": "/images/stays/135379812/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6p12000tbtd0zbF5F8.webp"
+    },
+    {
+      "src": "/images/stays/135379812/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4012000tbtaq829B57.webp"
+    }
+  ],
+  "comments": [],
+  "rating": null,
+  "sourcedAt": "2026-08-08T15:23:28.029Z",
+  "source": "trip"
+}

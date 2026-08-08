@@ -1,0 +1,50 @@
+{
+  "id": 38616038,
+  "name": "Moganshan Xingyeshanju Homestay",
+  "seedName": "Moganshan Xingyeshanju Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-38616038",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=38616038&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-38616038&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Xingyeshanju Homestay?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 6, Shangguan, Xiantan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$70",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/38616038/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200j18000001435thC18A.jpg"
+    },
+    {
+      "src": "/images/stays/38616038/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0580r12000sn2box7EFC2.webp"
+    },
+    {
+      "src": "/images/stays/38616038/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD4s120009ezeke65D49.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "房間乾淨衞生，老闆很熱情友好，感受到莫干山的美好的人和事，期待下次再來",
+      "author": "Guest User",
+      "date": "2024-10-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=38616038&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-38616038&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 2,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:15:26.544Z",
+  "source": "trip"
+}

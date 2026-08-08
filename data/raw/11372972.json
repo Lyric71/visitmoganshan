@@ -1,0 +1,77 @@
+{
+  "id": 11372972,
+  "name": "Moganshan Chaoyan Homestay",
+  "seedName": "Moganshan Chaoyan Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-11372972",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=11372972&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-11372972&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service Quality:Staff were noted for their friendly, attentive service, with hosts described as warm and helpful. Guests appreciated the overall hospitality, which included seamless check-in processes and personalized recommendations for local experiences.(based on 1 review) Amenities & Experiences:Unique features like shaded patios, indoor-outdoor living spaces, and opportunities for leisurely strolls in nature were highlighted. The combination of comfort, design, and immersive natural settings left a lasting positive impression on visitors.(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service Quality",
+        "text": "Staff were noted for their friendly, attentive service, with hosts described as warm and helpful. Guests appreciated the overall hospitality, which included seamless check-in processes and personalized recommendations for local experiences.",
+        "count": 1
+      },
+      {
+        "topic": "Experiences",
+        "text": "Unique features like shaded patios, indoor-outdoor living spaces, and opportunities for leisurely strolls in nature were highlighted. The combination of comfort, design, and immersive natural settings left a lasting positive impression on visitors.",
+        "count": 3
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Chajialing, Xiantan Village, Deqing, Zhejiang, China",
+  "priceRange": "From US$83",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/11372972/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5j12000s4jnuda4195.jpg"
+    },
+    {
+      "src": "/images/stays/11372972/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3712000p9a5dco0AB7.webp"
+    },
+    {
+      "src": "/images/stays/11372972/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5b12000s7v7uk642C0.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "房間寬敞，乾淨。游泳池是孩子的最愛😍晚上還能看螢火蟲，很方便。老闆和裏面的工作人員都非常好！早餐豐富，自帶的餐廳食物也很好吃。",
+      "author": "Guest User",
+      "date": "2023-08-22",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=11372972&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-11372972&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間寬敞，乾淨。游泳池是孩子的最愛😍晚上還能看螢火蟲，很方便。老闆和裏面的工作人員都非常好！早餐豐富，自帶的餐廳食物也很好吃。",
+      "author": "Guest User",
+      "date": "2023-08-22",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=11372972&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-11372972&trip_sub3=D19127628"
+    },
+    {
+      "quote": "好好好，非常好，老闆人超級奈斯，很熱情而且房間非常大，晚上非常有氛圍感，還有餐廳可以吃飯～",
+      "author": "Guest User",
+      "date": "2023-10-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=11372972&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-11372972&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 3,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:14:34.284Z",
+  "source": "trip"
+}

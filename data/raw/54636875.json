@@ -1,0 +1,64 @@
+{
+  "id": 54636875,
+  "name": "Deqing Mengyuanju Homestay",
+  "seedName": "Deqing Mengyuanju Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-54636875",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=54636875&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-54636875&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Deqing Mengyuanju Homestay?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 88, Xia Village, Houwu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$124",
+  "facilities": [
+    "Cardroom"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/54636875/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2c12000dp2wh9161BB.jpg"
+    },
+    {
+      "src": "/images/stays/54636875/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4s12000bd5s2yi8724.webp"
+    },
+    {
+      "src": "/images/stays/54636875/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2c12000dp2wh9161BB.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "跟着導航到了一個巷子裏，能停幾個車，也不知道店在哪裡，往上坡走，右拐走幾步就到了，放個牌子指一下就好了。店主很客氣，房間乾淨衞生，早飯挺好吃。房前一大片空地放了晾衣桿可以曬衣服，夏天一晚上就曬乾了。",
+      "author": "Guest User",
+      "date": "2024-08-16",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=54636875&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-54636875&trip_sub3=D19127628"
+    },
+    {
+      "quote": "裝修風格很喜歡，本以為閣樓會很低，完全超出預想，空間很大，這個天氣不熱不冷很好，老闆很好，帶我們挖竹筍，摘野生金銀花早飯很豐富，有油條，小籠包，紅薯，水煮雞蛋，筍尖，豆腐乳，花生米，我們大小8個人，稀飯給我們盛3大碗😀，午飯和晚飯是要提前一天預訂，我們是臨時決定去的，沒來得及，老闆推薦叔叔家飯店",
+      "author": "Guest User",
+      "date": "2024-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=54636875&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-54636875&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間非常整潔、空間大，推門有陽台，晚上可以和朋友一起打打牌、吹吹晚風，很是愜意，房東準備的早餐很豐盛，還有房東自家種的小番茄也非常好吃😋，一家三口入住非常滿意，有機會還會再來",
+      "author": "Guest User",
+      "date": "2024-08-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=54636875&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-54636875&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 3,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:22:10.085Z",
+  "source": "trip"
+}

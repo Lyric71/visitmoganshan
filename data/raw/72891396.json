@@ -1,0 +1,66 @@
+{
+  "id": 72891396,
+  "name": "Guiyu Moganshan Hot Spring Villa",
+  "seedName": "Guiyu Moganshan Hot Spring Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-72891396",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=72891396&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-72891396&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Guiyu Moganshan Hot Spring Villa?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 15, Lingjiaoxia, Houwu Village, Mogan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$61",
+  "facilities": [
+    "Indoor swimming pool",
+    "Cardroom",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/72891396/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203i120009obomj827A6.jpg"
+    },
+    {
+      "src": "/images/stays/72891396/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5i12000nvxcri17E0A.webp"
+    },
+    {
+      "src": "/images/stays/72891396/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6p12000nisbgx19203.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "1. 這家民宿藏在莫干山後塢村竹林裏，超安靜，完全避開喧鬧。房間乾淨整潔，落地窗看竹海超治癒，床品舒服睡得安穩。老闆熱情，早餐家常可口，步行就能逛古道，自駕去周邊祕境也近，300元價位性價比拉滿，情侶散心太合適。 2. 民宿太適合避世散心了，地處竹林深處，靜謐無擾。房間簡約乾淨，設施齊全，推窗就是青山竹海。民宿停車方便，離大斗塢、碧塢龍潭都很近，早餐清淡養胃，整體温馨舒適，預算內的寶藏住處，推薦情侶入住。 3. 入住體驗超棒的山間民宿，位置安靜不吵鬧，被整片竹海包圍，空氣清新。房間整潔舒適，沒有多餘商業化氣息，老闆貼心周到，農家早餐很可口。自駕出行便利，輕鬆抵達小眾自然景點，性價比絕了，散心放鬆首選。",
+      "author": "Guest User",
+      "date": "2026-04-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=72891396&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-72891396&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間一般，但是老闆娘熱情好客。地處後塢，出行散步，閑逛都方便。周邊都是較有特色的民宿，還有咖吧，燒烤等。在民宿中用餐也方便，味道不錯",
+      "author": "Guest User",
+      "date": "2026-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=72891396&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-72891396&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間很整潔，老闆人很好，本來想起來吃早飯，結果睡過了，老闆還專門留了早餐，強烈推薦，老闆家門口還有免費停車位，充電樁，環境也很好",
+      "author": "Guest User",
+      "date": "2026-04-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=72891396&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-72891396&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.6,
+    "count": 3,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:14:45.951Z",
+  "source": "trip"
+}

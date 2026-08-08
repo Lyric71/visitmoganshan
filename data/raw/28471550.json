@@ -1,0 +1,88 @@
+{
+  "id": 28471550,
+  "name": "Moganshan Lusheye Jilai Homestay",
+  "seedName": "Moganshan Lusheye Jilai Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-28471550",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=28471550&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-28471550&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:Set in a tranquil location with lush greenery and mountains, offering serene atmosphere and scenic views. Features include a large swimming pool and garden, ideal for nature enjoyment.(based on 27 reviews) Service Quality:Attentive and friendly service praised by guests, with helpful hosts ensuring comfort. Staff is warm, accommodating, and quick to resolve issues.(based on 42 reviews) Facilities:Well-maintained facilities with spacious pool, varied rooms, and dining area serving delicious meals. Rooms are clean with comfortable amenities and thoughtful touches.(based on 27 reviews) Activities:Near attractions like hiking trails and local eateries. Guests enjoy bamboo shoot picking, creek exploration, and village strolls, enhancing the experience.(based on 8 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Set in a tranquil location with lush greenery and mountains, offering serene atmosphere and scenic views. Features include a large swimming pool and garden, ideal for nature enjoyment.",
+        "count": 27
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Attentive and friendly service praised by guests, with helpful hosts ensuring comfort. Staff is warm, accommodating, and quick to resolve issues.",
+        "count": 42
+      },
+      {
+        "topic": "Facilities",
+        "text": "Well-maintained facilities with spacious pool, varied rooms, and dining area serving delicious meals. Rooms are clean with comfortable amenities and thoughtful touches.",
+        "count": 27
+      },
+      {
+        "topic": "Activities",
+        "text": "Near attractions like hiking trails and local eateries. Guests enjoy bamboo shoot picking, creek exploration, and village strolls, enhancing the experience.",
+        "count": 8
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Village Group 9, Xiantan Village, Deqing, Zhejiang, China",
+  "priceRange": "From US$87",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/28471550/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2u12000cefma5mB8CC.jpg"
+    },
+    {
+      "src": "/images/stays/28471550/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/020711200090n5yyz910D.webp"
+    },
+    {
+      "src": "/images/stays/28471550/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3a12000liahdmw95FB.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "房間的台階容易摔倒，沒有注意台階的標識 設施：泳池很大最深1.5米，有免費的游泳圈和水槍，就是滑梯是個擺設。沒有水的話就是皮滑。 民宿的早餐是個通病，還是需要提升一下 服務：管家很好，有求必應",
+      "author": "Guest User",
+      "date": "2026-08-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=28471550&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-28471550&trip_sub3=D19127628"
+    },
+    {
+      "quote": "泳池非常漂亮，服務小哥哥非常熱情，酒店的也超出預期，傍晚在山上和孩子一起步行即是盛夏也不覺得炎熱，非常推薦",
+      "author": "Joycem",
+      "date": "2026-08-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=28471550&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-28471550&trip_sub3=D19127628"
+    },
+    {
+      "quote": "來莫干山參加越野比賽，名宿的地理位置很好，去起點很方便，環境很安靜，房間的裝修風格自帶設計感，簡約高級，設施都很新，住得非常舒服。民宿還自帶一大片草地和泳池，可以坐在鞦韆上眺望山林，早餐也很豐盛。最感動的是管家小哥特別暖心，很多方面都替我們提前考慮到了，下次一定還會再來！",
+      "author": "Anonymous User",
+      "date": "2026-06-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=28471550&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-28471550&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 85,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:25:32.226Z",
+  "source": "trip"
+}

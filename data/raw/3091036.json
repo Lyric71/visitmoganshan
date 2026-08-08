@@ -1,0 +1,78 @@
+{
+  "id": 3091036,
+  "name": "Moganshan Senxi Resort",
+  "seedName": "Moganshan Senxi Resort",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-3091036",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=3091036&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-3091036&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service:The hotel staff is frequently commended for their attentive and proactive service, such as pre-arrival communication and assistance with luggage. Guests value the warm reception and thoughtful service that contribute to a welcoming atmosphere.(based on 17 reviews) Guest Suggestion: Some customers suggest the hotel needs to improve pest control, enhance cleanliness , and address musty odors to meet hygiene standards.(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service",
+        "text": "The hotel staff is frequently commended for their attentive and proactive service, such as pre-arrival communication and assistance with luggage. Guests value the warm reception and thoughtful service that contribute to a welcoming atmosphere.",
+        "count": 17
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest the hotel needs to improve pest control, enhance cleanliness , and address musty odors to meet hygiene standards.",
+      "count": 2
+    }
+  },
+  "address": "No. 1, Lingkengli, Laoling Village, Moganshan Town, Deqing, Zhejiang, 313204, China",
+  "priceRange": "From US$133",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Bar",
+    "Restaurant",
+    "Cafe",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/3091036/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc7412000nlskqwp4FB3.jpg"
+    },
+    {
+      "src": "/images/stays/3091036/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0202h120009jun41aBDAA.webp"
+    },
+    {
+      "src": "/images/stays/3091036/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3l12000nls6j45AB99.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "If it weren't for the two bottles of plum wine you gave me, I would really give you one point. I don't know how you got the score. The price really doesn't match the hotel environment. There are so many...",
+      "author": "larffe",
+      "date": "2024-01-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=3091036&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-3091036&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The hotel is in a good location and has a nice decoration. It is suitable for relaxing. The owner is very warm and thoughtful! Fruits, drinks and small gifts were prepared, which felt great.",
+      "author": "Guest User",
+      "date": "2023-10-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=3091036&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-3091036&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I haven't been out for a long time, so I had high expectations. This hotel did not disappoint me. It was a very pleasant stay. The green outside the window was very quiet and the scenery was very good. The...",
+      "author": "Guest User",
+      "date": "2023-09-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=3091036&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-3091036&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.6,
+    "count": 80,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:23:28.945Z",
+  "source": "trip"
+}

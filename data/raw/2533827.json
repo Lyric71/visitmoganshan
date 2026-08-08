@@ -1,0 +1,94 @@
+{
+  "id": 2533827,
+  "name": "Ala Backyard · Ala Home Moganshan Family-friendly Wenquan Vacation Apartment",
+  "seedName": "Ala Backyard · Ala Home Moganshan Family-friendly Wenquan Vacation Apartment",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2533827",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2533827&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2533827&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location and Environment:Located in Moganshan Scenic Area, on the hillside with beautiful scenery, fresh air. Nearby there are streams, rafting, night markets and other attractions. Driving is convenient for travel.(based on 9 reviews) Facilities and Equipment:Facilities are complete, with an infinity pool, slides and other entertainment facilities like mahjong, billiards, table tennis. Living facilities are comprehensive.(based on 40 reviews) Room Conditions:Rooms are spacious and warm, well-designed, suitable for family stays. The pool is great for taking photos and is a paradise for children.(based on 37 reviews) Proximity to Attractions:Close to rafting, night markets and other surrounding attractions, convenient for play.(based on 9 reviews) Guest Suggestion:Some customers suggest room hygiene, bathroom, and pool issues(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location and Environment",
+        "text": "Located in Moganshan Scenic Area, on the hillside with beautiful scenery, fresh air. Nearby there are streams, rafting, night markets and other attractions. Driving is convenient for travel.",
+        "count": 9
+      },
+      {
+        "topic": "Facilities and Equipment",
+        "text": "Facilities are complete, with an infinity pool, slides and other entertainment facilities like mahjong, billiards, table tennis. Living facilities are comprehensive.",
+        "count": 40
+      },
+      {
+        "topic": "Room Conditions",
+        "text": "Rooms are spacious and warm, well-designed, suitable for family stays. The pool is great for taking photos and is a paradise for children.",
+        "count": 37
+      },
+      {
+        "topic": "Proximity to Attractions",
+        "text": "Close to rafting, night markets and other surrounding attractions, convenient for play.",
+        "count": 9
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest room hygiene, bathroom, and pool issues",
+      "count": 2
+    }
+  },
+  "address": "No. 10, Miaoqian Village, Moganshan Town, Deqing, Zhejiang, 313202, China",
+  "priceRange": "From US$91",
+  "facilities": [
+    "Billiards room",
+    "Cardroom",
+    "Restaurant",
+    "Water park",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/2533827/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4512000ja6s1i82262.jpg"
+    },
+    {
+      "src": "/images/stays/2533827/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5512000bjww55oA59B.webp"
+    },
+    {
+      "src": "/images/stays/2533827/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2h12000kl8ww2d3296.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Very good stay experience, the room is clean and comfortable, the hot spring is clean and comfortable, the owner is warm and hospitable... I plan to go again when it snows next month...",
+      "author": "Zhiweiniditou",
+      "date": "2023-12-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2533827&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2533827&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The hotel is located in Moganshan Scenic Area, halfway up the mountain, with beautiful scenery. You can breathe the freshness brought by nature when you go out. There is a stream drifting down from the mountain at the door. There...",
+      "author": "Xiaozi",
+      "date": "2023-08-30",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2533827&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2533827&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Overall, it was a good experience. The environment was very good. The boss was very enthusiastic. I brought my children here to swim in the summer. The swimming pool was very large and I had a lot of fun. The...",
+      "author": "Anne zhaoyan",
+      "date": "2023-09-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2533827&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2533827&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 112,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:26:17.874Z",
+  "source": "trip"
+}

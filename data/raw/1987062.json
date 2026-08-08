@@ -1,0 +1,58 @@
+{
+  "id": 1987062,
+  "name": "Yiling Shanju Hotel",
+  "seedName": "Yiling Shanju Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1987062",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1987062&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1987062&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Yiling Shanju Hotel?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 30, Lingkeng, Laoling Village, Moganshan Town, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$48",
+  "facilities": [
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1987062/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200j04000000059328DFB.jpg"
+    },
+    {
+      "src": "/images/stays/1987062/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200m0s000000iay9t0DD7.webp"
+    },
+    {
+      "src": "/images/stays/1987062/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200m0s000000iay8n31B1.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "房間一眼看進去挺乾淨的 衞生間淋浴就是小淋浴頭，木頭房子。以為會很老舊的感覺。其實還不錯，有個面對竹林的小陽台 還可以，入住的時候十二點左右就到了 房間已經收拾好 可以直接入住。上樓的時候，房間打掃好，沒有關門。可以直接看到其他房型，在我們對門的兩個房型看着很不錯。大陽台有秋千，太陽灑進來很好看。視頻我有拍可以對不一下，有機會下次住對門的房型，早餐就是粥，配菜是醃製的鹹菜損。紅薯很甜，還挺好吃的，還有一個小饅頭 和一碟榨菜。開胃，",
+      "author": "Binbinyouni。",
+      "date": "2025-05-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1987062&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1987062&trip_sub3=D19127628"
+    },
+    {
+      "quote": "陽台的風景非常好，老闆非常客氣，做的菜很好吃，到後山可以看到很漂亮的山景，期待下次再次過來",
+      "author": "Guest User",
+      "date": "2023-10-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1987062&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1987062&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.8,
+    "count": 2,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:15:55.182Z",
+  "source": "trip"
+}

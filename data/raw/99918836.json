@@ -1,0 +1,80 @@
+{
+  "id": 99918836,
+  "name": "Sunset in Shanli",
+  "seedName": "Sunset in Shanli",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-99918836",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=99918836&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-99918836&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Hygiene & Maintenance:Most reviews highlight clean rooms, well-kept bathrooms, and fresh bedding. The property maintains high standards of cleanliness in common areas, with regular maintenance of facilities like pools and outdoor play zones.(based on 17 reviews) Guest Suggestion:Some customers suggest improving service quality and enhancing cost-effectiveness, as several reviews mention underwhelming service details and perceived value for money.(based on 1 review)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Maintenance",
+        "text": "Most reviews highlight clean rooms, well-kept bathrooms, and fresh bedding. The property maintains high standards of cleanliness in common areas, with regular maintenance of facilities like pools and outdoor play zones.",
+        "count": 17
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving service quality and enhancing cost-effectiveness, as several reviews mention underwhelming service details and perceived value for money.",
+      "count": 1
+    }
+  },
+  "address": "No. 43 Shangguan, Xiantan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$112",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant",
+    "Water park",
+    "Conference room",
+    "Multi-function room",
+    "Kids' club"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/99918836/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2012000e8rjf5uC818.jpg"
+    },
+    {
+      "src": "/images/stays/99918836/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203u120009zj12k2C9C5.webp"
+    },
+    {
+      "src": "/images/stays/99918836/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201w12000a0mxhge0AB5.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "This stay was excellent. Just as advertised, it's close to a small river, and the owner personally took my wife and me fishing. This was my biggest catch ever, and we successfully discovered various fish species. The room was very...",
+      "author": "Guest User",
+      "date": "2025-08-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=99918836&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-99918836&trip_sub3=D19127628"
+    },
+    {
+      "quote": "This was my first time staying in a guesthouse, and I was apprehensive about hygiene and safety. After a three-hour drive, I arrived at the guesthouse, initially quite disappointed. Nearly a thousand yuan for such an unassuming little white house...",
+      "author": "Guest User",
+      "date": "2025-07-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=99918836&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-99918836&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The sanitation facilities weren't as perfect as the photos. We decided against letting our child swim after seeing the pool. The surrounding area is mostly residential, and the soundproofing is terrible, with noise waking us up very early in the...",
+      "author": "Guest User",
+      "date": "2024-07-11",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=99918836&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-99918836&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 105,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:21:19.149Z",
+  "source": "trip"
+}

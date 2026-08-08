@@ -1,0 +1,83 @@
+{
+  "id": 6036282,
+  "name": "Moganshan South Road Bieyuan · Misty Private Hot Spring Designer Resort Homestay",
+  "seedName": "Moganshan South Road Bieyuan · Misty Private Hot Spring Designer Resort Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-6036282",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6036282&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6036282&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Facilities:Rooms are new and modern, with intelligent facilities. Some rooms have a good view of the stream. (based on 24 reviews) Activities:Offer various activities like barbecuing (providing charcoal stoves) and bamboo shooting. Also have fun items for children. Service:Actively introduce surrounding attractions, and some provide local specialties like small watermelons.(based on 28 reviews) Guest Suggestion:Some customers suggest improving door security instructions and enhancing room cleanliness standards, as issues with lock mechanisms and unclean towels were notably mentioned.(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Facilities",
+        "text": "Rooms are new and modern, with intelligent facilities. Some rooms have a good view of the stream.",
+        "count": 24
+      },
+      {
+        "topic": "Activities",
+        "text": "Offer various activities like barbecuing (providing charcoal stoves) and bamboo shooting. Also have fun items for children. Service:Actively introduce surrounding attractions, and some provide local specialties like small watermelons.",
+        "count": 28
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving door security instructions and enhancing room cleanliness standards, as issues with lock mechanisms and unclean towels were notably mentioned.",
+      "count": 2
+    }
+  },
+  "address": "Nanlu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$120",
+  "facilities": [
+    "Hot springs",
+    "Restaurant",
+    "Conference room",
+    "Playground",
+    "Kids' club"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/6036282/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6x12000j5iwiumE4AA.jpg"
+    },
+    {
+      "src": "/images/stays/6036282/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0112000iugvazn6836.webp"
+    },
+    {
+      "src": "/images/stays/6036282/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5l12000iugwh8v7D66.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "老闆人挺實在。一家子都蠻親戚。釣魚蠻好 魚貨很強大 一個小時四條草魚。臨時隨意找的地方。算是很驚喜。 沒去看螢火蟲 老闆主動把票換成了咖啡。",
+      "author": "Guest User",
+      "date": "2026-07-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6036282&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6036282&trip_sub3=D19127628"
+    },
+    {
+      "quote": "第二次來住這家民宿啦，感覺服務和設施也越來越好，門口有小溪可以玩水，特別乾淨，還可以在院子裏燒烤，晚上還有打鐵花和小朋友玩的泡泡",
+      "author": "YoYo_suntudou",
+      "date": "2026-07-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6036282&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6036282&trip_sub3=D19127628"
+    },
+    {
+      "quote": "酒店地理位置很棒，馬路對面有小溪，設施也很好，有游泳池，晚上有娛樂活動，餐廳也很棒，院子即使滿房也不覺得擁擠，整體來説推薦",
+      "author": "Guest User",
+      "date": "2026-07-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6036282&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6036282&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 77,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:27:32.475Z",
+  "source": "trip"
+}

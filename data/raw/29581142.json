@@ -1,0 +1,60 @@
+{
+  "id": 29581142,
+  "name": "Yinglun Yueshan Villa",
+  "seedName": "Yinglun Yueshan Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-29581142",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=29581142&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-29581142&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Yinglun Yueshan Villa?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 15, Yadanwu Village Group, Laoling Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$168",
+  "facilities": [
+    "Library",
+    "Tea room",
+    "Restaurant",
+    "Cafe"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/29581142/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200110000000pryiu273E.jpg"
+    },
+    {
+      "src": "/images/stays/29581142/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2h0610000000oky5oB1EC.webp"
+    },
+    {
+      "src": "/images/stays/29581142/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2h0u10000000okbkfF8E9.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "這是在莫干山非常獨特的三房民宿，獨門獨院，坐落在莫干山南北二條山脈中間，據説此地正是莫干山洋家樂的發源地，剛好處於裸心堡與祼心谷中間，門前有條清澈的小溪水穿流而過，在感受到山裡獨有的風景同時更帶來涼意，莫干山避暑勝地名副其實，更具象化。 回到正題：二樓是三個房間，面積都不小，在設計與質感山主理人肯定是花了不少心思，房間還是榻榻米的結構，家庭出行也不擔心孩子住不下了，一樓是大廳和廚房，雖房間量少，但這廳的設計完全符合了民宿的標準，如果自己會做飯，廚房還可使用，院子有二個，進門就有一個，未曾相到，穿過客廳還有個後院，這或許就是當下人人嚮往中的山中小院吧 總之，體驗感非常滿意，無其它客人打擾之外，管家不特意安排也在在現場，入住期間，真的有家的感覺，把私密感做到了極致 莫干山避暑選對了！整棟三房不擠不鬧，山風順着溪水吹進院子，住完才知道什麼叫不想走。",
+      "author": "Cheshou；",
+      "date": "2026-07-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=29581142&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-29581142&trip_sub3=D19127628"
+    },
+    {
+      "quote": "這是在莫干山非常獨特的三房民宿，獨門獨院，坐落在莫干山南北二條山脈中間，據説此地正是莫干山洋家樂的發源地，剛好處於裸心堡與祼心谷中間，門前有條清澈的小溪水穿流而過，在感受到山裡獨有的風景同時更帶來涼意，莫干山避暑勝地名副其實，更具象化。 回到正題：二樓是三個房間，面積都不小，在設計與質感山主理人肯定是花了不少心思，房間還是榻榻米的結構，家庭出行也不擔心孩子住不下了，一樓是大廳和廚房，雖房間量少，但這廳的設計完全符合了民宿的標準，如果自己會做飯，廚房還可使用，院子有二個，進門就有一個，未曾相到，穿過客廳還有個後院，這或許就是當下人人嚮往中的山中小院吧 總之，體驗感非常滿意，無其它客人打擾之外，管家不特意安排也在在現場，入住期間，真的有家的感覺，把私密感做到了極致 莫干山避暑選對了！整棟三房不擠不鬧，山風順着溪水吹進院子，住完才知道什麼叫不想走。",
+      "author": "Cheshou；",
+      "date": "2026-07-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=29581142&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-29581142&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 6,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:11:58.318Z",
+  "source": "trip"
+}

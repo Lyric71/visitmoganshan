@@ -1,0 +1,64 @@
+{
+  "id": 134314513,
+  "name": "Mogan Zhujian Anyu Homestay",
+  "seedName": "Mogan Zhujian Anyu Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-134314513",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=134314513&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-134314513&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Mogan Zhujian Anyu Homestay?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 24, Lingkengli, Laoling Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$63",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/134314513/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0j12000t95n18q2B6D.jpg"
+    },
+    {
+      "src": "/images/stays/134314513/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4a12000s8ulmr8F55C.webp"
+    },
+    {
+      "src": "/images/stays/134314513/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2z12000s8uvfip57FF.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The owner was really welcoming and communicative, reaching out in advance and helping with our luggage. The view was great, and they even provided free breakfast.",
+      "author": "Guest User",
+      "date": "2026-07-26",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=134314513&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-134314513&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房東特別好還會提供出行建議，服務態度很好，而且性格開朗。房間設施齊全，居住體驗好，環境整齊乾淨，交通離庾村廣場搭車10多分鐘，也比較方便。房東還會及時清理垃圾，也會提供缺的東西，還有提供餐食服務，總體來説這次居住體驗非常不錯，謝謝房東的招待😊😊😊",
+      "author": "Guest User",
+      "date": "2026-08-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=134314513&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-134314513&trip_sub3=D19127628"
+    },
+    {
+      "quote": "訂的大床房老闆直接給升級家庭房坐在陽台上可以看到遠山房間裏還有冰箱洗衣機玩了一整天回來後坐在陽台上喝着冰鎮飲料欣賞遠山的風景洗洗換洗衣服好不愜意老闆還很熱情的推薦附近景點不遠處的水庫風景真的YYDS。",
+      "author": "Guest User",
+      "date": "2026-07-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=134314513&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-134314513&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 10,
+    "count": 39,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:29:04.678Z",
+  "source": "trip"
+}

@@ -1,0 +1,66 @@
+{
+  "id": 26444953,
+  "name": "Moment Inn",
+  "seedName": "Moment Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-26444953",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=26444953&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-26444953&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moment Inn?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 8 Fenshuiling, Lanshukeng Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$43",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/26444953/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201i120009nu501nC9C2.jpg"
+    },
+    {
+      "src": "/images/stays/26444953/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205t120009ntofemC024.webp"
+    },
+    {
+      "src": "/images/stays/26444953/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0584w12000srl12558F7A.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The floor was in terrible condition, and the breakfast was terrible. I had to drive out for lunch and dinner every day. I wanted to get away for a while, but I ended up driving everywhere. The guesthouse was on...",
+      "author": "Woshihudada",
+      "date": "2026-05-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=26444953&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-26444953&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The hotel has an excellent location, just over ten minutes from Deqing County, Yucun Village, and the reservoir. There's a swimming pool right outside, and parking is available across the street. The owner is incredibly nice; we even stumbled upon...",
+      "author": "Guest User",
+      "date": "2025-10-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=26444953&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-26444953&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The housekeeper was very reliable. Not only did he pick me up and drop me off in town early in the morning, but he also took the initiative to take me to the high-speed rail station when I couldn't get...",
+      "author": "Anonymous User",
+      "date": "2025-10-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=26444953&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-26444953&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.2,
+    "count": 35,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:24:42.927Z",
+  "source": "trip"
+}

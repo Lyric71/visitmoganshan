@@ -1,0 +1,59 @@
+{
+  "id": 1212998,
+  "name": "Mount Mogan Wild Extravagance (Boutique Homestay)",
+  "seedName": "Mount Mogan Wild Extravagance (Boutique Homestay)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1212998",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1212998&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1212998&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Mount Mogan Wild Extravagance (Boutique Homestay)?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 1 Back Lane, Village Group 10, Chishan, Sanqiao Village, Wukang Town, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$75",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1212998/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200p0u000000j3t3r3553.jpg"
+    },
+    {
+      "src": "/images/stays/1212998/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200e0u000000j7ew6B02C.webp"
+    },
+    {
+      "src": "/images/stays/1212998/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200p0u000000j3spq164D.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "It is very clean, with a reasonable and warm layout. The chess and card room and karaoke are very good. There is a rocking chair pavilion in the yard. The kitchen and restaurant are right next to it, which is...",
+      "author": "Guest User",
+      "date": "2023-08-13",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1212998&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1212998&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間整潔乾淨，老闆説淡季就是自己住的。院子佈置的很別緻，有童趣；周圍景色很好，背後是茶山竹林，晚上也很安靜。適合親子週末自駕前來",
+      "author": "Longjingzuoqiuming",
+      "date": "2026-04-12",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1212998&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1212998&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.4,
+    "count": 2,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:24:43.030Z",
+  "source": "trip"
+}

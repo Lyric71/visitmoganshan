@@ -1,0 +1,64 @@
+{
+  "id": 1841820,
+  "name": "Moganshan Corner Time Home Stay",
+  "seedName": "Moganshan Corner Time Home Stay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1841820",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1841820&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1841820&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Corner Time Home Stay?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 18, Langjia Village, Xiantan Village, Moganshan Town, Deqing, Zhejiang, 313202, China",
+  "priceRange": "From US$44",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1841820/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203y12000b92y9gl9DC7.jpg"
+    },
+    {
+      "src": "/images/stays/1841820/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200c0s000000hwpcfFA92.webp"
+    },
+    {
+      "src": "/images/stays/1841820/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0226i120009101qov132D.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The boss lady is very nice, the room is clean and the location is good, 5 stars.",
+      "author": "Guest User",
+      "date": "2024-04-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1841820&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1841820&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The environment is very good",
+      "author": "Guest User",
+      "date": "2023-10-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1841820&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1841820&trip_sub3=D19127628"
+    },
+    {
+      "quote": "角落時光民宿，這間民宿真的太治癒了～, 環境安靜雅緻，裝修簡約又有格調，每一處細節都透着用心。房間乾淨整潔，床品柔軟舒適，推開門就是陽光露台晚風徐徐特別愜意。, 房東熱情周到，有問必答，貼心又不打擾。遠離城市喧囂，在這裏慢下來度日，舒服又安心，下次來還選這家。",
+      "author": "Guest User",
+      "date": "2026-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1841820&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1841820&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 5,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:12:24.687Z",
+  "source": "trip"
+}

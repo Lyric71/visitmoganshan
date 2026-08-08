@@ -1,0 +1,80 @@
+{
+  "id": 1861020,
+  "name": "Yunxing Villa",
+  "seedName": "Yunxing Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1861020",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1861020&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1861020&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment and Location:Very quiet, with rooms being dry and quiet, suitable for staying, like 'Very quiet recommended' and 'At the end of the holiday, fewer people, rooms are dry and quiet'.(based on 3 reviews) Facilities and Hygiene:Rooms are clean and tidy, mentioned multiple times such as 'The house is a local's own building, and it's clean and tidy' and 'The room was clean and tidy'(based on 3 reviews) Service Quality:Hosts are very enthusiastic and welcoming, providing help like bringing food, lending chargers, etc.(based on 5 reviews) House Situation:The house is a local's own building, with local characteristics",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment and Location",
+        "text": "Very quiet, with rooms being dry and quiet, suitable for staying, like 'Very quiet recommended' and 'At the end of the holiday, fewer people, rooms are dry and quiet'.",
+        "count": 3
+      },
+      {
+        "topic": "Facilities and Hygiene",
+        "text": "Rooms are clean and tidy, mentioned multiple times such as 'The house is a local's own building, and it's clean and tidy' and 'The room was clean and tidy'",
+        "count": 3
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Hosts are very enthusiastic and welcoming, providing help like bringing food, lending chargers, etc.",
+        "count": 5
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 22, Xiwuli, Fatouhouwu Village, Deqing, Zhejiang, 313206, China",
+  "priceRange": "From US$31",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1861020/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200t15000000xi70c81D5.jpg"
+    },
+    {
+      "src": "/images/stays/1861020/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02001120008301ngl929F.webp"
+    },
+    {
+      "src": "/images/stays/1861020/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0202p1200082zzlluFD2D.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "We booked the room through Ctrip, but when we arrived that evening, we were told it was already occupied. The owner said the Ctrip platform wasn't properly managed. They then moved us to another B&B that was undergoing renovations. The...",
+      "author": "Guest User",
+      "date": "2025-10-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1861020&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1861020&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The boss is very enthusiastic",
+      "author": "Guest User",
+      "date": "2024-11-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1861020&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1861020&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I booked the cheapest room, which was more than enough for me. The house is a local's own building, and it's clean and tidy. The hostess is super nice. I didn't know where the supermarket was, but she brought me...",
+      "author": "Guest User",
+      "date": "2023-08-14",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1861020&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1861020&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 6.6,
+    "count": 10,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:11:33.588Z",
+  "source": "trip"
+}

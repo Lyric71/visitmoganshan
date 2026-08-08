@@ -1,0 +1,39 @@
+{
+  "id": 3103645,
+  "name": "Moganshan Jiangwan No. 8 Bed & Breakfast",
+  "seedName": "Moganshan Jiangwan No. 8 Bed & Breakfast",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-3103645",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=3103645&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-3103645&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Jiangwan No. 8 Bed & Breakfast?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 8 Xiajiang Bay, Fatou Village, Fatou Township, Deqing, Zhejiang, 313100, China",
+  "priceRange": "From US$142",
+  "facilities": [
+    "Bar",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/3103645/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02241120008ak3mmy72DE.jpg"
+    },
+    {
+      "src": "/images/stays/3103645/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205212000c5wpwkd95C3.webp"
+    },
+    {
+      "src": "/images/stays/3103645/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200a160000010g81hD189.webp"
+    }
+  ],
+  "comments": [],
+  "rating": null,
+  "sourcedAt": "2026-08-08T15:18:09.178Z",
+  "source": "trip"
+}

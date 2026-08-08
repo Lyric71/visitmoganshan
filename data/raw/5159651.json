@@ -1,0 +1,50 @@
+{
+  "id": 5159651,
+  "name": "Mountain Stone House Yododo Inn",
+  "seedName": "Mountain Stone House Yododo Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5159651",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5159651&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5159651&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Mountain Stone House Yododo Inn?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 62, Langjia Village, Xiantan Village, Deqing, Zhejiang, China",
+  "priceRange": "From US$49",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5159651/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0h12000swt9fam3A84.jpg"
+    },
+    {
+      "src": "/images/stays/5159651/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1s12000swt0y1j6E3C.webp"
+    },
+    {
+      "src": "/images/stays/5159651/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4a12000swszqh645B6.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "農家別墅小院非常不錯👍，是我喜歡的風格，老闆樓上弄的也很乾凈，泳池孩子也非常喜歡，早餐也很不錯，還吃了老闆娘做的一桌農家菜，後面院子停車也很方便，值得推薦👍👍",
+      "author": "Guest User",
+      "date": "2026-08-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5159651&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5159651&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 1,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:16:59.701Z",
+  "source": "trip"
+}

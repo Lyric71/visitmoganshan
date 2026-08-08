@@ -1,0 +1,57 @@
+{
+  "id": 5964264,
+  "name": "Moganshan Yashan Inn",
+  "seedName": "Moganshan Yashan Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5964264",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5964264&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5964264&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Yashan Inn?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 6, Shenjialing, Xiantan Village, Moganshan Town, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$51",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5964264/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200p0a0000004hkk9EAB2.jpg"
+    },
+    {
+      "src": "/images/stays/5964264/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200w0a0000004hkv83D12.webp"
+    },
+    {
+      "src": "/images/stays/5964264/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20020a0000004hkfeD9D9.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Clean and hygienic! The environment is also very good! Very quiet! The boss’s cooking is very authentic! I will go next time",
+      "author": "Huzhouhuwai",
+      "date": "2025-03-11",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5964264&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5964264&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The boss is very friendly and welcoming, the room is clean and the environment is beautiful",
+      "author": "Guest User",
+      "date": "2023-08-15",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5964264&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5964264&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 2,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:15:11.056Z",
+  "source": "trip"
+}

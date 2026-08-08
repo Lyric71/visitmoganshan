@@ -1,0 +1,73 @@
+{
+  "id": 5175502,
+  "name": "Moganshan Motian Homestay",
+  "seedName": "Moganshan Motian Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5175502",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5175502&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5175502&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Accessibility:Strategically located near major attractions, the property offers convenient access to nearby points of interest. Parking is easily available, and the surrounding natural scenery, including streams and tea gardens, enhances the outdoor experience.(based on 14 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Accessibility",
+        "text": "Strategically located near major attractions, the property offers convenient access to nearby points of interest. Parking is easily available, and the surrounding natural scenery, including streams and tea gardens, enhances the outdoor experience.",
+        "count": 14
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Baijia Mountain, Ziling Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$84",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room",
+    "Multi-function room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5175502/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0584c12000sov1x9q420E.jpg"
+    },
+    {
+      "src": "/images/stays/5175502/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02048120003hqhe7c7166.webp"
+    },
+    {
+      "src": "/images/stays/5175502/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205i120003hq62aiAC6B.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "老闆非常熱情，服務周到，先是發了很詳細的導航地址，很容易就找到了。房間很乾凈，用品都是質量比較好的，一樓大廳也佈置得很有格調，人多的話喝喝茶聊天很舒適，室外還有泳池，這個天氣玩水很舒服，運氣不錯早飯還吃到了大餛飩~",
+      "author": "Guest User",
+      "date": "2026-07-22",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5175502&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5175502&trip_sub3=D19127628"
+    },
+    {
+      "quote": "我們家兩大兩小，選擇墨田的大雪房間非常合適，房間足夠大，兩個床鋪睡起來也很舒服。老闆很友善，對客人非常用心。早餐豐富又健康，有時令水果，牛奶豆漿，雜糧，還有老闆娘親手現做的美味煎餃😁。值得入住",
+      "author": "cicikalu",
+      "date": "2026-05-18",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5175502&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5175502&trip_sub3=D19127628"
+    },
+    {
+      "quote": "這家民宿設計感超棒，和周圍的青山綠竹相輔相成！居住體驗就是一場美學享受。在這裏靜坐、品茗，時間彷彿放慢了腳步。 墨田民宿非常乾淨，一進大廳就換需更換拖鞋，纖塵不染。 房間的佈局清新脱俗，床品舒適宜入眠。清晨醒來拉簾見山，滿目清翠，連綿的山巒在晨霧中若隱若現，如同一幅剛剛甦醒的水墨畫。 在園中漫步，濕潤的空氣裏混合著草木與泥土的芬芳，深深吸入，彷彿滌凈了肺腑，也撫平了心緒的褶皺。 墨田的餐食美味，不僅是滿足味蕾，更是一種心情的愉悦。 民宿地理位置也不錯，距離庾村，莫干山主景區都不遠，方便出行。 墨田的主理人熱情、真誠、細心、負責，不僅是一位經營者，更像是一位細心周到的主人，讓我們在異鄉找到了歸屬感。千金不換。 強烈推薦！",
+      "author": "Anonymous User",
+      "date": "2026-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5175502&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5175502&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 112,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:25:05.454Z",
+  "source": "trip"
+}

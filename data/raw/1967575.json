@@ -1,0 +1,57 @@
+{
+  "id": 1967575,
+  "name": "Mogan Mountain Yaonanwu Manor",
+  "seedName": "Mogan Mountain Yaonanwu Manor",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1967575",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1967575&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1967575&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Mogan Mountain Yaonanwu Manor?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 42, Lujia Bridge, Houwu Village, Moganshan Town, Deqing, Zhejiang, 313206, China",
+  "priceRange": "From US$29",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1967575/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0583l12000snwkqi30BD2.jpg"
+    },
+    {
+      "src": "/images/stays/1967575/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200w1a0000018qwwhFD29.webp"
+    },
+    {
+      "src": "/images/stays/1967575/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0581b12000sqbownzCFB7.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The B&B looks good from the outside, but it's really hard to describe inside. The sanitary facilities in the room are poor, the furniture is basic, and there are no basic bath towels. The bed sheets and pillows smell like...",
+      "author": "Guest User",
+      "date": "2023-08-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1967575&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1967575&trip_sub3=D19127628"
+    },
+    {
+      "quote": "最近一直在忙來忙去，沒顧得上點評。最喜歡院子，很有氛圍感，房東阿姨做飯也好吃，很熱情，很樸實。房間佈置得再精緻一點，那就更好了，加油！",
+      "author": "Guest User",
+      "date": "2023-10-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1967575&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1967575&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 7.4,
+    "count": 2,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:16:20.552Z",
+  "source": "trip"
+}

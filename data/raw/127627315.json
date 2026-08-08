@@ -1,0 +1,36 @@
+{
+  "id": 127627315,
+  "name": "Moganshan Dafengshu Homestay",
+  "seedName": "Moganshan Dafengshu Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-127627315",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=127627315&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-127627315&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Dafengshu Homestay?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 58, Lingjiaoxia, Houwu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$101",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/127627315/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0582012000ssr7sz06B84.jpg"
+    },
+    {
+      "src": "/images/stays/127627315/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0582012000ssr7sz06B84.webp"
+    },
+    {
+      "src": "/images/stays/127627315/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4712000jjq8nh06806.webp"
+    }
+  ],
+  "comments": [],
+  "rating": null,
+  "sourcedAt": "2026-08-08T15:19:40.066Z",
+  "source": "trip"
+}

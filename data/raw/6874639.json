@@ -1,0 +1,36 @@
+{
+  "id": 6874639,
+  "name": "Moganshan Xiyuan Inn",
+  "seedName": "Moganshan Xiyuan Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-6874639",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6874639&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6874639&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Xiyuan Inn?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 26, Lingkeng, Laoling Village, Deqing, Zhejiang, 313204, China",
+  "priceRange": "From US$52",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/6874639/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0204e120009mnqp3k7BE4.jpg"
+    },
+    {
+      "src": "/images/stays/6874639/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201m120009mafd5fA213.webp"
+    },
+    {
+      "src": "/images/stays/6874639/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205q120009mahvgjEBB3.webp"
+    }
+  ],
+  "comments": [],
+  "rating": null,
+  "sourcedAt": "2026-08-08T15:18:31.682Z",
+  "source": "trip"
+}

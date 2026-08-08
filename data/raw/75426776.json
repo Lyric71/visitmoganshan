@@ -1,0 +1,53 @@
+{
+  "id": 75426776,
+  "name": "Moganshan Xizhu Yunding Homestay",
+  "seedName": "Moganshan Xizhu Yunding Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-75426776",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=75426776&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-75426776&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Xizhu Yunding Homestay?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 58, Ganmiaowu, Miaoqian Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$84",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/75426776/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201512000974x4993BFA.jpg"
+    },
+    {
+      "src": "/images/stays/75426776/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0202112000974xl3s686A.webp"
+    },
+    {
+      "src": "/images/stays/75426776/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD5u120009f5wd5x4ED3.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "老闆人很好，服務也很好，強烈推薦的有特色的民宿，有自家的游泳池，風景也很好，約上三五好友再來一次！",
+      "author": "Guest User",
+      "date": "2023-08-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=75426776&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-75426776&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 1,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:17:44.169Z",
+  "source": "trip"
+}

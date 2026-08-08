@@ -1,0 +1,66 @@
+{
+  "id": 879126,
+  "name": "Datang Mountain Villa",
+  "seedName": "Datang Mountain Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-879126",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=879126&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-879126&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Datang Mountain Villa?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 45, Kanshang, Houwu Village, Moganshan Town, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$26",
+  "facilities": [
+    "Table tennis room",
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/879126/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200z120008yr222c2AD2.jpg"
+    },
+    {
+      "src": "/images/stays/879126/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/020011200086qmswd9A7F.webp"
+    },
+    {
+      "src": "/images/stays/879126/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1re6m12000b87h4ih2D60.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "已經第三次來了 一如既往的開心～ 老闆人很nice，性價比很高的民宿，喜歡阿姨燒的菜，山莊院子很大 有桌球 投影 泳池...樣樣俱全，喜歡樓頂的露台 可以看美美的晚霞，謝謝老闆做的咖啡☕ 希望下次有時間再來玩哈～",
+      "author": "Anonymous User",
+      "date": "2023-10-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=879126&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-879126&trip_sub3=D19127628"
+    },
+    {
+      "quote": "已經第三次來了 一如既往的開心～ 老闆人很nice，性價比很高的民宿，喜歡阿姨燒的菜，山莊院子很大 有桌球 投影 泳池...樣樣俱全，喜歡樓頂的露台 可以看美美的晚霞，謝謝老闆做的咖啡☕ 希望下次有時間再來玩哈～",
+      "author": "Anonymous User",
+      "date": "2023-10-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=879126&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-879126&trip_sub3=D19127628"
+    },
+    {
+      "quote": "服務態度令人感到温暖和舒心，員工們總是微笑着問候我們，讓我們感到非常親切。這裏的環境非常寧靜和舒適，而且距離景點也非常近。",
+      "author": "Guest User",
+      "date": "2024-07-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=879126&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-879126&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 4,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:13:17.594Z",
+  "source": "trip"
+}

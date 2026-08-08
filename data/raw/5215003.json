@@ -1,0 +1,57 @@
+{
+  "id": 5215003,
+  "name": "Shanjian Tianyuan Farmhouse",
+  "seedName": "Shanjian Tianyuan Farmhouse",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5215003",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5215003&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5215003&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Shanjian Tianyuan Farmhouse?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 9, Langjia Village, Xiantan Village, Deqing, Zhejiang, China",
+  "priceRange": "From US$36",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5215003/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0584j12000sgrw47f6101.jpg"
+    },
+    {
+      "src": "/images/stays/5215003/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0587012000smfe268F158.webp"
+    },
+    {
+      "src": "/images/stays/5215003/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0582h12000sqdrx0fE240.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The whole family went to Yulingba, Moganshan, and booked this B&B online. The room was super clean and well-equipped. The surrounding environment was great, it was like a green oxygen bar. The owner was very polite and helped with the...",
+      "author": "Guest User",
+      "date": "2025-08-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5215003&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5215003&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The whole family went to Yulingba, Moganshan, and booked this B&B online. The room was super clean and well-equipped. The surrounding environment was great, it was like a green oxygen bar. The owner was very polite and helped with the...",
+      "author": "Guest User",
+      "date": "2025-08-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5215003&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5215003&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 4,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:13:42.037Z",
+  "source": "trip"
+}

@@ -1,0 +1,55 @@
+{
+  "id": 6062494,
+  "name": "Moganshan Family Inn",
+  "seedName": "Moganshan Family Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-6062494",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6062494&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6062494&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Family Inn?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 12, Niutouwu, Fatou Village, Deqing, Zhejiang, China",
+  "priceRange": "From US$42",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/6062494/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200w0a0000004fqw0BDFB.jpg"
+    },
+    {
+      "src": "/images/stays/6062494/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1re6m12000b87h4ih2D60.webp"
+    },
+    {
+      "src": "/images/stays/6062494/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2B0t180000014gdz5E75B.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Although the price was cheap, the experience was really bad!",
+      "author": "Anonymous User",
+      "date": "2025-08-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6062494&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6062494&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Clean and hygienic, the owner is welcoming",
+      "author": "Guest User",
+      "date": "2024-10-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6062494&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6062494&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 6.1,
+    "count": 2,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:16:29.283Z",
+  "source": "trip"
+}

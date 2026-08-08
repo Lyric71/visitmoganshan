@@ -1,0 +1,62 @@
+{
+  "id": 28136039,
+  "name": "Moganshan Rihe Yunge Inn",
+  "seedName": "Moganshan Rihe Yunge Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-28136039",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=28136039&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-28136039&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Rihe Yunge Inn?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 7, Xiwuli, Houwu Village, Deqing, Zhejiang, China",
+  "priceRange": "From US$43",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/28136039/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2h0w0z000000n762jC26F.jpg"
+    },
+    {
+      "src": "/images/stays/28136039/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2h0j0z000000n0lzaF278.webp"
+    },
+    {
+      "src": "/images/stays/28136039/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2h0k0z000000n5ajb1D7C.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The room's industrial-style design is so cool! The wooden structure paired with the cement walls gives it a really high-quality feel. 🏡🌄 The view from the window is absolutely stunning, with distant mountains shrouded in mist – every shot is...",
+      "author": "Guest User",
+      "date": "2026-02-22",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=28136039&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-28136039&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The experience was good. The tatami room was spacious and comfortable. The handsome boss and his family were kind and friendly. I will come again if I have the chance.",
+      "author": "Guest User",
+      "date": "2024-08-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=28136039&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-28136039&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room's industrial-style design is so cool! The wooden structure paired with the cement walls gives it a really high-quality feel. 🏡🌄 The view from the window is absolutely stunning, with distant mountains shrouded in mist – every shot is...",
+      "author": "Guest User",
+      "date": "2026-02-22",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=28136039&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-28136039&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.3,
+    "count": 5,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:12:54.071Z",
+  "source": "trip"
+}

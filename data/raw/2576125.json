@@ -1,0 +1,75 @@
+{
+  "id": 2576125,
+  "name": "Dongshan Yunju Hotel",
+  "seedName": "Dongshan Yunju Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2576125",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2576125&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2576125&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service Quality:The boss and his wife are warm and hospitable, actively helping with various needs, such as helping with transportation and providing timely assistance. They are friendly and make guests feel at home.(based on 2 reviews) Breakfast:Breakfast is rich and delicious, with self-grown fruits available(based on 1 review)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service Quality",
+        "text": "The boss and his wife are warm and hospitable, actively helping with various needs, such as helping with transportation and providing timely assistance. They are friendly and make guests feel at home.",
+        "count": 2
+      },
+      {
+        "topic": "Breakfast",
+        "text": "Breakfast is rich and delicious, with self-grown fruits available",
+        "count": 1
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 56, Lingjiaoxia, Houwu Village, Fatou Township, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$45",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/2576125/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20060f0000007cmyhC8AE.jpg"
+    },
+    {
+      "src": "/images/stays/2576125/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD1e120009f4qcr32A50.webp"
+    },
+    {
+      "src": "/images/stays/2576125/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2008080000002uq97F318.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Speechless. There were so many black bugs. I spent the whole night killing them. The boss also said that there were more insects when we stayed there, but not on other days. It is also said that insects are edible.",
+      "author": "Guest User",
+      "date": "2023-11-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2576125&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2576125&trip_sub3=D19127628"
+    },
+    {
+      "quote": "東山雲居，位於安靜的半山處，環境優美，在陽台上喝茶聊天，好舒服。酒店內外乾淨，老闆熱情，去景點方便，特別是自駕遊的👍",
+      "author": "Guest User",
+      "date": "2024-05-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2576125&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2576125&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Speechless. There were so many black bugs. I spent the whole night killing them. The boss also said that there were more insects when we stayed there, but not on other days. It is also said that insects are edible.",
+      "author": "Guest User",
+      "date": "2023-11-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2576125&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2576125&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 7,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:11:31.720Z",
+  "source": "trip"
+}

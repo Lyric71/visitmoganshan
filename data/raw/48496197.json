@@ -1,0 +1,50 @@
+{
+  "id": 48496197,
+  "name": "Yun Hotel",
+  "seedName": "Yun Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-48496197",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=48496197&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-48496197&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Yun Hotel?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Village Group 1, Lingkeng, Laoling Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$174",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/48496197/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200518000001577yo9A1E.jpg"
+    },
+    {
+      "src": "/images/stays/48496197/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2008190000016v5ppBC28.webp"
+    },
+    {
+      "src": "/images/stays/48496197/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2009190000016xerd80AB.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "It was a great experience. I spent a few days in the mountains to cultivate my mind. This homestay was better than I thought. It is located on the west slope of Mogan Mountain, halfway up the mountain, with a...",
+      "author": "Guest User",
+      "date": "2023-11-22",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=48496197&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-48496197&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 1,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:23:07.379Z",
+  "source": "trip"
+}

@@ -1,0 +1,72 @@
+{
+  "id": 16944597,
+  "name": "Mogan Mountain Eight Trees Inn",
+  "seedName": "Mogan Mountain Eight Trees Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-16944597",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=16944597&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-16944597&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness:Multiple guests emphasized the exceptional cleanliness of the rooms and common areas, noting a spotless environment that felt welcoming and refreshing. The overall hygiene standards were consistently praised, contributing to a comfortable stay.(based on 1 review)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness",
+        "text": "Multiple guests emphasized the exceptional cleanliness of the rooms and common areas, noting a spotless environment that felt welcoming and refreshing. The overall hygiene standards were consistently praised, contributing to a comfortable stay.",
+        "count": 1
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 9 Jimiaowu, Deqing, Zhejiang, China",
+  "priceRange": "From US$78",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/16944597/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200w160000010eh1wAF8F.jpg"
+    },
+    {
+      "src": "/images/stays/16944597/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200s180000013yng50708.webp"
+    },
+    {
+      "src": "/images/stays/16944597/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200u180000013vesy5FBA.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "之前住過八棵樹，這次給爸媽親戚定了這家，他們很滿意，正好遇到颱風天，還給我們延後了日期，多次跟老闆交流，老闆也非常有耐心，感謝老闆的悉心招待。",
+      "author": "Yingtaoxiaomali",
+      "date": "2026-07-22",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=16944597&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-16944597&trip_sub3=D19127628"
+    },
+    {
+      "quote": "之前住過八棵樹，這次給爸媽親戚定了這家，他們很滿意，正好遇到颱風天，還給我們延後了日期，多次跟老闆交流，老闆也非常有耐心，感謝老闆的悉心招待。",
+      "author": "Yingtaoxiaomali",
+      "date": "2026-07-22",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=16944597&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-16944597&trip_sub3=D19127628"
+    },
+    {
+      "quote": "老闆人很好！這次住的民宿簡直絕了！從進門的那一刻起，就感覺特別温馨。房間佈置得超有格調，每一個小細節都能看出老闆的用心。整體環境乾淨整潔，讓人住着特別舒服，心情都變得超好啦！",
+      "author": "Guest User",
+      "date": "2025-08-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=16944597&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-16944597&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 10,
+    "count": 9,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:09:46.656Z",
+  "source": "trip"
+}

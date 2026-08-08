@@ -1,0 +1,62 @@
+{
+  "id": 4500534,
+  "name": "Moganshan Chenchen Xiaoyuan Homestay",
+  "seedName": "Moganshan Chenchen Xiaoyuan Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-4500534",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4500534&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4500534&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Chenchen Xiaoyuan Homestay?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Opposite Mogan Police Station, Zhuyuan Road, Deqing, Zhejiang, 313204, China",
+  "priceRange": "From US$38",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/4500534/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02050120008be17g7C4B3.jpg"
+    },
+    {
+      "src": "/images/stays/4500534/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3x12000ighvbvt5A55.webp"
+    },
+    {
+      "src": "/images/stays/4500534/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0580w12000sssf87k2DD7.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Stayed here for the Moganshan trail race and had a great experience. The homestay is conveniently located close to the race site, which made getting around very easy. The owner was exceptionally friendly and always ready to assist with any...",
+      "author": "Guest User",
+      "date": "2026-04-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4500534&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4500534&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Stayed here for the Moganshan trail race and had a great experience. The homestay is conveniently located close to the race site, which made getting around very easy. The owner was exceptionally friendly and always ready to assist with any...",
+      "author": "Guest User",
+      "date": "2026-04-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4500534&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4500534&trip_sub3=D19127628"
+    },
+    {
+      "quote": "My friend and I stayed here while traveling from Singapore to participate in the UTMB Moganshan Trail Running Race. The guesthouse was spacious and clean, conveniently located within walking distance of the start/finish line and restaurants. The owners, a husband...",
+      "author": "Guest User",
+      "date": "2026-04-13",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4500534&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4500534&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.9,
+    "count": 10,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:09:53.251Z",
+  "source": "trip"
+}

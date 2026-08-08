@@ -76,6 +76,25 @@ const affiliateRedirects = Object.fromEntries(
   ]),
 );
 
+/**
+ * Retired routes.
+ *
+ * The trade and media section (/trade and its four children) was withdrawn and
+ * replaced by /advertise, which is what a hotel, an attraction or an operator
+ * arriving on any of those URLs is now looking for. 301 rather than 302,
+ * unlike the affiliate table above: these pages are not coming back, and a
+ * permanent redirect is the only thing that moves a search result across.
+ */
+const RETIRED_ROUTES = Object.fromEntries(
+  [
+    '/trade',
+    '/trade/why-moganshan',
+    '/trade/fact-sheet',
+    '/trade/sample-itineraries',
+    '/trade/image-library',
+  ].map((path) => [path, { status: /** @type {301} */ (301), destination: '/advertise' }]),
+);
+
 // https://astro.build/config
 export default defineConfig({
   site: SITE,
@@ -84,7 +103,7 @@ export default defineConfig({
   // applying redirect rules, so path-level 301s always match.
   trailingSlash: 'never',
 
-  redirects: affiliateRedirects,
+  redirects: { ...affiliateRedirects, ...RETIRED_ROUTES },
 
   build: {
     // Stylesheets shipped as <link> tags sit on the critical path and delay

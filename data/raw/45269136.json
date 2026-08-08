@@ -1,0 +1,64 @@
+{
+  "id": 45269136,
+  "name": "Mount Mogan's cozy little home",
+  "seedName": "Mount Mogan's cozy little home",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-45269136",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=45269136&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-45269136&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Mount Mogan's cozy little home?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Houhong (Beside the Villagers Committee), Nanlu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$59",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/45269136/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200e170000011517c9B01.jpg"
+    },
+    {
+      "src": "/images/stays/45269136/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200v1900000174jn5A5FE.webp"
+    },
+    {
+      "src": "/images/stays/45269136/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02020120008x409spB8E9.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "房間很漂亮，用的都是山泉水，有户外游泳池還有親子活動，確實是小驚喜！晚安糖水是紅豆湯哦！一定要去喝幾碗，喝過最好喝的糖水啦！推薦推薦！來莫干山一定要打卡這家民宿！下次試試竹取亭，日式私湯哦！",
+      "author": "Anonymous User",
+      "date": "2025-08-31",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=45269136&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-45269136&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間就比較像別人的家裡房間， 衞生：一般 設施：一般 環境：一般 服務：還不錯",
+      "author": "Au💖Yan ⁰⁴⁵²⁶⁶⁵⁹²⁶",
+      "date": "2026-07-18",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=45269136&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-45269136&trip_sub3=D19127628"
+    },
+    {
+      "quote": "去的時候就已經猜到，經營者可能是比較年長的人，（因為之前住過的民宿，管家都是提早一天聯繫好，發旅遊小貼士的，交代一些住宿相關事宜的）叔叔阿姨，和藹可親，但是作為民宿而已，衞生、服務方面期待能提高一個檔次",
+      "author": "Guest User",
+      "date": "2024-07-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=45269136&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-45269136&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 7.1,
+    "count": 10,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:11:11.505Z",
+  "source": "trip"
+}

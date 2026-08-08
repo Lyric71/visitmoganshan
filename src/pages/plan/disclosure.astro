@@ -13,13 +13,15 @@ import LegalPage from '../../layouts/LegalPage.astro';
  * rule for exactly this reason: an illustrated commission disclosure is
  * decoration pretending to be content.
  *
- * Everything asserted here has to stay true of the actual build. If a paid
- * placement, a sponsored listing or a second partner ever ships, this page
- * changes in the same commit.
+ * Everything asserted here has to stay true of the actual build. Advertising is
+ * sold from /advertise, so the advertising section below has to keep pace with
+ * what that page offers: if a format changes there, it changes here in the same
+ * commit. The same goes for a second booking partner.
  */
 const SECTIONS = [
   { id: 'short-version', label: 'The short version' },
   { id: 'who-we-work-with', label: 'Who we work with' },
+  { id: 'advertising', label: 'Advertising' },
   { id: 'what-a-link-does', label: 'What a link does' },
   { id: 'what-it-does-not-buy', label: 'What it does not buy' },
   { id: 'photographs-and-reviews', label: 'Photographs and reviews' },
@@ -31,30 +33,46 @@ const SECTIONS = [
 <LegalPage
   title="How this site is funded"
   seoTitle="Affiliate disclosure · Visit Moganshan"
-  description="Visit Moganshan earns commission on some Trip.com bookings. What that pays for, what it does not buy, and how property pages are put together."
-  standfirst="Some links on this site earn us a commission when a booking is made. This page says which ones, what they pay for, and what they do not buy."
+  description="Visit Moganshan earns commission on some Trip.com bookings and sells labelled advertising. What that pays for, what it does not buy, and how property pages are put together."
+  standfirst="Some links on this site earn us a commission when a booking is made, and some items on it are paid advertising. This page says which ones, what they pay for, and what they do not buy."
   updated="2026-08-08"
   sections={SECTIONS}
 >
   <h2 id="short-version">The short version</h2>
   <p>
-    Visit Moganshan makes money in one way: commission on bookings made through links to Trip.com.
-    You pay the same price you would pay going to Trip.com directly. Nobody pays us to appear on
-    this site, nobody pays us to rank higher on it, and no property has ever been given copy
-    approval over a page about itself.
+    Visit Moganshan makes money in two ways: commission on bookings made through links to Trip.com,
+    and advertising sold to businesses on and around the mountain. You pay the same price you would
+    pay going to Trip.com directly. Every paid item says it is paid, on the page, before you read
+    it. Nobody buys a mention in an editorial page, nobody buys a position on this site, and no
+    property has ever been given copy approval over a page about itself.
   </p>
 
   <h2 id="who-we-work-with">Who we work with</h2>
   <p>
     One booking partner, Trip.com. We are in their affiliate programme, which means a link from
     here carries an identifier that tells them the booking came from us. There is no second
-    partner, no hotel that books through us directly, and no commercial arrangement with any
-    property on the mountain.
+    partner and no hotel that books through us directly. Any other commercial arrangement with a
+    business on this mountain is an advertising one, and it is labelled wherever it appears.
   </p>
   <p>
     Where a property has no bookable listing with that partner, we say so and send you to the
     property instead. A page here is not a shop window, and a place we rate is not left out because
     it pays nobody.
+  </p>
+
+  <h2 id="advertising">Advertising</h2>
+  <p>
+    Hotels, guesthouses, restaurants, attractions and operators can buy three things here: an
+    expanded listing for their own business, a labelled placement on the guide pages their reader
+    lands on, or a sponsored feature. <a href="/advertise">Advertise with us</a> publishes the
+    formats and the terms, so a reader can see what an advertiser was sold rather than guess at it.
+  </p>
+  <p>
+    Every one of those is labelled as paid at the top of the item, where you see it before you read
+    the copy rather than after. Editorial pages are not for sale: paying does not add a property to
+    a page that names properties, does not move anything up a list, and does not remove a caveat.
+    Corrections are free of all of it, and an advertiser gets a correction made against itself on
+    the same terms as anyone else.
   </p>
 
   <h2 id="what-a-link-does">What a link does</h2>

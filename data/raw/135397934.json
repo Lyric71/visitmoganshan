@@ -1,0 +1,65 @@
+{
+  "id": 135397934,
+  "name": "Senli Forest Leisure Vacation Homestay",
+  "seedName": "Senli Forest Leisure Vacation Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-135397934",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=135397934&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-135397934&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Senli Forest Leisure Vacation Homestay?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 17, Miaoqiantongjia Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/135397934/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4h12000tdg7l8n7209.jpg"
+    },
+    {
+      "src": "/images/stays/135397934/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6j12000tcyqiy9F092.webp"
+    },
+    {
+      "src": "/images/stays/135397934/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3i12000tcz0ah7FB00.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "五星推薦森里民宿！環境清幽充滿森系氛圍感，房間整潔舒適。老闆熱情周到，服務細緻。在這裏度過了悠閑放鬆的假期，靜謐治癒，出行體驗極佳，值得再來。",
+      "author": "Guest User",
+      "date": "2026-08-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=135397934&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-135397934&trip_sub3=D19127628"
+    },
+    {
+      "quote": "山裡的民宿，環境很好，中古風格，很舒適。拍照出片，泳池好玩。晚上還可以搞點燒烤，非常適合朋友聚會、公司團建！還有咖啡飲料🥤",
+      "author": "Guest User",
+      "date": "2026-08-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=135397934&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-135397934&trip_sub3=D19127628"
+    },
+    {
+      "quote": "五星推薦森里民宿！環境清幽充滿森系氛圍感，房間整潔舒適。老闆熱情周到，服務細緻。在這裏度過了悠閑放鬆的假期，靜謐治癒，出行體驗極佳，值得再來。",
+      "author": "Guest User",
+      "date": "2026-08-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=135397934&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-135397934&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 3,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:20:07.840Z",
+  "source": "trip"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 29825362,
+  "name": "Yaoke Shanju Guesthouse",
+  "seedName": "Yaoke Shanju Guesthouse",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-29825362",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=29825362&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-29825362&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Yaoke Shanju Guesthouse?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 75, Zhong Village, Liaoyuan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$542",
+  "facilities": [
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/29825362/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02022120008izkrosCFE4.jpg"
+    },
+    {
+      "src": "/images/stays/29825362/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0202h120008izk5j6A7B7.webp"
+    },
+    {
+      "src": "/images/stays/29825362/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20091a00000190yuq956A.webp"
+    }
+  ],
+  "comments": [],
+  "rating": null,
+  "sourcedAt": "2026-08-08T15:18:53.115Z",
+  "source": "trip"
+}

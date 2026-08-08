@@ -1,0 +1,67 @@
+{
+  "id": 12090109,
+  "name": "Muhan Hotel",
+  "seedName": "Muhan Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-12090109",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=12090109&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-12090109&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Muhan Hotel?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 53, Laoling Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$70",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Billiards room",
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/12090109/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200j0u000000ixxcu22A5.jpg"
+    },
+    {
+      "src": "/images/stays/12090109/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200i11000000rem4d9BE2.webp"
+    },
+    {
+      "src": "/images/stays/12090109/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20051h000001hs4ps49F5.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "During the Spring Festival, we rented an entire villa in Moganshan. We lived comfortably and had a great time. The proprietress was very enthusiastic and considerate. She arranged a delicious dinner for us. The dinner was farm food, the taste...",
+      "author": "Guest User",
+      "date": "2024-02-13",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=12090109&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-12090109&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room is clean and hygienic, the boss is warm and polite, this season is very suitable, Moganshan is very beautiful.",
+      "author": "Anonymous User",
+      "date": "2023-11-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=12090109&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-12090109&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The homestay is clean and beautiful, with a large area for activities, which is very nice.",
+      "author": "Dapangxiehengzhuozou",
+      "date": "2023-11-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=12090109&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-12090109&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 7,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:10:46.841Z",
+  "source": "trip"
+}

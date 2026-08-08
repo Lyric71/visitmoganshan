@@ -1,0 +1,59 @@
+{
+  "id": 5472772,
+  "name": "Deqing Mogan Mountain Jianxi Villa",
+  "seedName": "Deqing Mogan Mountain Jianxi Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5472772",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5472772&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5472772&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment Location:The surrounding environment is excellent, being a national scenic area with beautiful scenery, suitable for summer escape. The location is convenient and the environment is pleasant. Many users mention the great scenery and pleasant surroundings. Service Quality:The boss is very enthusiastic and the service is thoughtful, with users repeatedly stating the good service attitude(based on 1 review) Room Facilities:The rooms are clean, tidy and spacious, giving people a fresh and natural feeling",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment Location",
+        "text": "The surrounding environment is excellent, being a national scenic area with beautiful scenery, suitable for summer escape. The location is convenient and the environment is pleasant. Many users mention the great scenery and pleasant surroundings. Service Quality:The boss is very enthusiastic and the service is thoughtful, with users repeatedly stating the good service attitude",
+        "count": 1
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 12 Lingkengli, Laoling Village, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$57",
+  "facilities": [
+    "Library",
+    "Restaurant",
+    "Cafe",
+    "Karaoke"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5472772/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0580g12000smyxenp41D8.jpg"
+    },
+    {
+      "src": "/images/stays/5472772/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200d0u000000j4n223E00.webp"
+    },
+    {
+      "src": "/images/stays/5472772/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0582c12000sqfm9jz4DD0.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "With its attentive service, beautiful environment, and kind-hearted, sincere owner, this is a highly recommended guesthouse for tourists visiting Moganshan!",
+      "author": "Guest User",
+      "date": "2025-02-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5472772&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5472772&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 1,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:17:23.249Z",
+  "source": "trip"
+}

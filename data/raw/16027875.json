@@ -1,0 +1,72 @@
+{
+  "id": 16027875,
+  "name": "She Ye Yi Zhai Hotel",
+  "seedName": "She Ye Yi Zhai Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-16027875",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=16027875&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-16027875&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service Quality:Staff are consistently praised for proactive communication, timely assistance , and personalized attention.(based on 14 reviews) Culinary Experience:On-site meals are highlighted for their homemade, locally sourced dishes with nostalgic flavors, often prepared by attentive cooks. Privacy & Quietness:The property is described as secluded, with minimal noise and no neighboring disturbances, ideal for relaxation.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service Quality",
+        "text": "Staff are consistently praised for proactive communication, timely assistance , and personalized attention.",
+        "count": 14
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 41, Biwu Village, Deqing, Zhejiang, China",
+  "priceRange": "From US$170",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Cafe"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/16027875/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200v0t000000iuqra0DCD.jpg"
+    },
+    {
+      "src": "/images/stays/16027875/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200a0t000000il1sg1A84.webp"
+    },
+    {
+      "src": "/images/stays/16027875/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200h0t000000ilauqF587.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "I contacted the housekeeper before booking, and the housekeeper recommended the Daqianmen room, which is really nice. It is on the second floor and has a small balcony. It is very comfortable to sit on the balcony and drink tea...",
+      "author": "Wangatong",
+      "date": "2025-06-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=16027875&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-16027875&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Sheye Yizhai is a not-so-young homestay brand. At first, I was worried that the facilities would be too old. At first glance, Sheye in Moganshan has durable hardware, but whether it is day or night, sitting on the balcony, the...",
+      "author": "Liangism",
+      "date": "2024-10-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=16027875&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-16027875&trip_sub3=D19127628"
+    },
+    {
+      "quote": "臨時帶父母出來玩，沒想到訂的第一家民宿就讓我非常驚喜！風格有點像沉穩的黑色侘寂風，正合我心~管家也主動幫我們升級了房間並加了床，要不是來之前已經訂好了第二天的民宿，我都想繼續住在這裏了，而且管家説現在是淡季，這幾天就我們一家，屬於獨享了是。另外晚餐也好豐盛量好足，我們三個人每人都吃了兩碗飯～",
+      "author": "Guest User",
+      "date": "2025-09-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=16027875&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-16027875&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9,
+    "count": 37,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:24:16.046Z",
+  "source": "trip"
+}

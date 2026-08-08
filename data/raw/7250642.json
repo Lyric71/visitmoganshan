@@ -1,0 +1,70 @@
+{
+  "id": 7250642,
+  "name": "Jiushe Moganshan Banshan Forest Holiday Home",
+  "seedName": "Jiushe Moganshan Banshan Forest Holiday Home",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-7250642",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=7250642&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-7250642&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Jiushe Moganshan Banshan Forest Holiday Home?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 85, Xiwuli, Houwu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$133",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Hot springs",
+    "Bar",
+    "Billiards room",
+    "Restaurant",
+    "Conference room",
+    "Multi-function room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/7250642/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3012000b9jxifu07FD.jpg"
+    },
+    {
+      "src": "/images/stays/7250642/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc7412000b9kh00hCB20.webp"
+    },
+    {
+      "src": "/images/stays/7250642/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3212000b9jymthA826.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Stayed there 2020 the first time, so we decided to come back again because the hotel was really nice. In the meantime the owner ship changed and it became a bit more like a local hotel, but still pretty pricey....",
+      "author": "MarkusB",
+      "date": "2023-08-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=7250642&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-7250642&trip_sub3=D19127628"
+    },
+    {
+      "quote": "寶藏民宿 出乎意料的驚喜 從入門處開始愛上這家非常低調但又很有料的民宿 有點異域風格 很野性很野蠻生長～我們一家四口訂的唯一一間loft房，睡了兩晚都特別舒適，早飯也能吃到真正有機的食物和水果，真的就像回自己的家或者住在好朋友家，沒有一般民宿的商業感，這份獨特在這個社會環境下已經很珍貴了。",
+      "author": "Guest User",
+      "date": "2025-06-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=7250642&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-7250642&trip_sub3=D19127628"
+    },
+    {
+      "quote": "很有意境和温度的一家店。自駕出行去周邊的各個景點也很方便，店主很和善，諮詢問題有問必答，會針對性提供一些建議，吃的和玩的都挺合適，小朋友在這裏玩的很開心",
+      "author": "Guest User",
+      "date": "2025-08-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=7250642&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-7250642&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 8,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:10:21.366Z",
+  "source": "trip"
+}

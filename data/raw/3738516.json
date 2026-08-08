@@ -1,0 +1,92 @@
+{
+  "id": 3738516,
+  "name": "Another Side Mognshan Holiday Guesthouse",
+  "seedName": "Another Side Mognshan Holiday Guesthouse",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-3738516",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=3738516&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-3738516&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness:Rooms and bathrooms are consistently described as spotless, with fresh bedding and no odors.(based on 16 reviews) Amenities:Spacious rooms with wooden décor, private or shared pools, and well-equipped public areas.(based on 7 reviews) Service:Hosts are praised for friendliness, proactive assistance , and sharing local tips.(based on 17 reviews) Dining:Seasonal, locally sourced breakfasts and highly rated meals, including specialty dishes like \"ship fish\" and \"lotus root egg soup.\"(based on 7 reviews) Accessibility:Free parking, nearby public parking, and convenient access to transportation .(based on 6 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms and bathrooms are consistently described as spotless, with fresh bedding and no odors.",
+        "count": 16
+      },
+      {
+        "topic": "Amenities",
+        "text": "Spacious rooms with wooden décor, private or shared pools, and well-equipped public areas.",
+        "count": 7
+      },
+      {
+        "topic": "Service",
+        "text": "Hosts are praised for friendliness, proactive assistance , and sharing local tips.",
+        "count": 17
+      },
+      {
+        "topic": "Dining",
+        "text": "Seasonal, locally sourced breakfasts and highly rated meals, including specialty dishes like \"ship fish\" and \"lotus root egg soup.\"",
+        "count": 7
+      },
+      {
+        "topic": "Accessibility",
+        "text": "Free parking, nearby public parking, and convenient access to transportation .",
+        "count": 6
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 39, Xiantan Village, Deqing, Zhejiang, China",
+  "priceRange": "From US$48",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/3738516/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2v12000e22w6r9109B.jpg"
+    },
+    {
+      "src": "/images/stays/3738516/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6k12000b785wnz28D0.webp"
+    },
+    {
+      "src": "/images/stays/3738516/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2v12000e22w6r9109B.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "位置很好，對面小溪就可以溯溪，老闆也很熱情，餐廳菜都還不錯。缺點一説隔音比較差，對睡眠輕的人不太友好，可能我們剛好也碰見隔壁幾家人一起，11點開着門打牌在那大呼小叫，當然老闆也及時去跟他們溝通了；二是泳池的水客觀説不算很乾凈。",
+      "author": "Guest User",
+      "date": "2026-07-31",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=3738516&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-3738516&trip_sub3=D19127628"
+    },
+    {
+      "quote": "位置很好，對面小溪就可以溯溪，老闆也很熱情，餐廳菜都還不錯。缺點一説隔音比較差，對睡眠輕的人不太友好，可能我們剛好也碰見隔壁幾家人一起，11點開着門打牌在那大呼小叫，當然老闆也及時去跟他們溝通了；二是泳池的水客觀説不算很乾凈。",
+      "author": "Guest User",
+      "date": "2026-07-31",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=3738516&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-3738516&trip_sub3=D19127628"
+    },
+    {
+      "quote": "第一，不建議暑期週末到莫干山，性價比很低。第二，他家的農家菜超好吃，螺絲、雞湯、小炒肉、筍都值得推薦，走時買了一桶醃筍帶回家慢慢吃。第三，門口就是小溪，比去魚鱗壩人擠人好，雖説去那邊也不遠。第四，設施普通但很乾凈，淡季來就超值了。第五，早餐簡單但味道很好。",
+      "author": "Yigongli",
+      "date": "2025-08-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=3738516&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-3738516&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.2,
+    "count": 43,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:29:49.859Z",
+  "source": "trip"
+}

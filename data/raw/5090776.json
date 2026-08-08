@@ -1,0 +1,58 @@
+{
+  "id": 5090776,
+  "name": "Yunshang Shenchu Homestay",
+  "seedName": "Yunshang Shenchu Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5090776",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5090776&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5090776&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Yunshang Shenchu Homestay?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 39, Ganmiaowu, Moganshan Town, Deqing, Zhejiang, 313202, China",
+  "priceRange": "From US$52",
+  "facilities": [
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5090776/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02031120008xosxugB90B.jpg"
+    },
+    {
+      "src": "/images/stays/5090776/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1re6m12000b87h4ih2D60.webp"
+    },
+    {
+      "src": "/images/stays/5090776/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0581212000snf2ztb8C7C.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "下次去繼續續訂！體驗感很好老闆做飯也好吃！就是忘了拍照片",
+      "author": "Guest User",
+      "date": "2025-06-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5090776&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5090776&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間是原木風，但是沒空拍照老闆很熱情，老闆娘做飯很好吃早餐很豐盛。她自己種的菜也甜，蘿蔔乾超級好吃。他們心善，收養了一衹流浪狗能帶狗入住真的很好了。下次有機會再來玩",
+      "author": "Guest User",
+      "date": "2023-12-31",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5090776&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5090776&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 2,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:15:36.901Z",
+  "source": "trip"
+}

@@ -1,0 +1,64 @@
+{
+  "id": 9348176,
+  "name": "Defengju Inn",
+  "seedName": "Defengju Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-9348176",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=9348176&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-9348176&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Defengju Inn?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 11, Lijiatang, Gaofeng Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$25",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/9348176/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD6h120009f526bc9BDB.jpg"
+    },
+    {
+      "src": "/images/stays/9348176/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02052120008jf6oys822E.webp"
+    },
+    {
+      "src": "/images/stays/9348176/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02045120008jf6k0i42C9.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "I participated in the Moganshan cross-country race, and the starting point was at the Kaiyuan Hotel, so I found this hotel 1.1 kilometers away. The auntie who owned the hotel was very welcoming. She told us we didn't need to...",
+      "author": "Guest User",
+      "date": "2025-12-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=9348176&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-9348176&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The experience was quite poor; the facilities were dilapidated, and the owner's attitude and tone were really unpleasant.",
+      "author": "Guest User",
+      "date": "2025-10-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=9348176&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-9348176&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The page says the room is 40 square meters, but in reality it is not that big, at most 20 square meters. It was winter, the temperature was several degrees below zero, the air conditioner didn't work at all, it...",
+      "author": "Anonymous User",
+      "date": "2023-12-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=9348176&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-9348176&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 5.9,
+    "count": 3,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:16:03.129Z",
+  "source": "trip"
+}

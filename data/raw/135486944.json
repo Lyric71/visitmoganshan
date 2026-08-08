@@ -1,0 +1,39 @@
+{
+  "id": 135486944,
+  "name": "Qinxin Tranquil Resort",
+  "seedName": "Qinxin Tranquil Resort",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-135486944",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=135486944&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-135486944&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Qinxin Tranquil Resort?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Moganshan International Tourism Resort, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/135486944/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1112000tfopokx6A1B.jpg"
+    },
+    {
+      "src": "/images/stays/135486944/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2r12000tetgpa47DA5.webp"
+    },
+    {
+      "src": "/images/stays/135486944/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2u12000tf32s1kB7C8.webp"
+    }
+  ],
+  "comments": [],
+  "rating": null,
+  "sourcedAt": "2026-08-08T15:20:30.926Z",
+  "source": "trip"
+}

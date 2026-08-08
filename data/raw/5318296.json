@@ -1,0 +1,40 @@
+{
+  "id": 5318296,
+  "name": "Ringing Heights",
+  "seedName": "Ringing Heights",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5318296",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5318296&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5318296&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Ringing Heights?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 61 Mogaowu, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$608",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Bar",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5318296/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0584m12000sph0c1t5F83.jpg"
+    },
+    {
+      "src": "/images/stays/5318296/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0584n12000sqickjq0B10.webp"
+    },
+    {
+      "src": "/images/stays/5318296/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0584y12000so26jg580D7.webp"
+    }
+  ],
+  "comments": [],
+  "rating": null,
+  "sourcedAt": "2026-08-08T15:23:03.269Z",
+  "source": "trip"
+}

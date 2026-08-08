@@ -1,0 +1,65 @@
+{
+  "id": 5085506,
+  "name": "Moganshan Luojia Homestay",
+  "seedName": "Moganshan Luojia Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5085506",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5085506&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5085506&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Luojia Homestay?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 24, Xia Village, Houwu Village, Deqing, Zhejiang, China",
+  "priceRange": "From US$44",
+  "facilities": [
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5085506/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0585712000sp553q7EA11.jpg"
+    },
+    {
+      "src": "/images/stays/5085506/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/fd/hotel/g6/M0B/56/59/CggYslcgR7eAIYvHACyEfodLwHs013.webp"
+    },
+    {
+      "src": "/images/stays/5085506/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/fd/hotel/g5/M07/4E/E9/CggYsVcgRK6AVVJ7ABHKnq31aw8963.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The courtyard is tucked away quite deep inside. The room is pretty spacious, though the courtyard itself isn't very big. The proprietress is easygoing, and there were even fruits available. All in all, it was a pleasant weekend experience. Very...",
+      "author": "Zuichuxinshidexin",
+      "date": "2026-06-25",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5085506&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5085506&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The courtyard is tucked away quite deep inside. The room is pretty spacious, though the courtyard itself isn't very big. The proprietress is easygoing, and there were even fruits available. All in all, it was a pleasant weekend experience. Very...",
+      "author": "Zuichuxinshidexin",
+      "date": "2026-06-25",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5085506&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5085506&trip_sub3=D19127628"
+    },
+    {
+      "quote": "地理位置： 優勢：鄰近後塢集散點（步行約7-8分鐘），方便換乘景區接駁車上山；周邊竹林環繞，安靜避世。 服務態度： 老闆熱情，主動提供攻略。 早餐家常可口（粽子、土雞蛋、紅薯、筍乾鹹菜） 景觀視野：房間可以看到大山 周邊吃的東西也很多",
+      "author": "Guest User",
+      "date": "2025-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5085506&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5085506&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.3,
+    "count": 9,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:10:13.574Z",
+  "source": "trip"
+}

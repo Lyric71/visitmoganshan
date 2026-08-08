@@ -15,9 +15,21 @@
 interface Props {
   images: { src: string; alt: string; credit: string }[];
   name: string;
+  /**
+   * The /go/ path for this property. Given one, every frame becomes a link to
+   * it: these are the property's own listing images, and a reader who clicks
+   * one is asking to see the property.
+   */
+  href?: string;
 }
 
-const { images, name } = Astro.props;
+const { images, name, href } = Astro.props;
+
+// One wrapper element for both cases, so the markup below stays single-branch.
+const Frame = href ? 'a' : 'div';
+const frameProps = href
+  ? { href, rel: 'sponsored noopener', target: '_blank' }
+  : {};
 
 const [lead, ...rest] = images;
 
@@ -29,16 +41,21 @@ const credits = [...new Set(images.map((image) => image.credit))];
 
 <section class="gallery" aria-label={`Photographs of ${name}`}>
   <figure class="gallery__lead">
-    {/* Eager: this is the LCP element on a property page. */}
-    <img
-      src={lead.src}
-      alt={lead.alt}
-      width="1600"
-      height="1067"
-      loading="eager"
-      fetchpriority="high"
-      decoding="async"
-    />
+    <Frame
+      {...frameProps}
+      aria-label={href ? `Photographs and rates for ${name} on Trip.com, opens in a new tab` : undefined}
+    >
+      {/* Eager: this is the LCP element on a property page. */}
+      <img
+        src={lead.src}
+        alt={lead.alt}
+        width="1600"
+        height="1067"
+        loading="eager"
+        fetchpriority="high"
+        decoding="async"
+      />
+    </Frame>
   </figure>
 
   {
@@ -46,14 +63,21 @@ const credits = [...new Set(images.map((image) => image.credit))];
       <ul class="gallery__rest">
         {rest.map((image) => (
           <li>
-            <img
-              src={image.src}
-              alt={image.alt}
-              width="800"
-              height="533"
-              loading="lazy"
-              decoding="async"
-            />
+            <Frame
+              {...frameProps}
+              aria-label={
+                href ? `Photographs and rates for ${name} on Trip.com, opens in a new tab` : undefined
+              }
+            >
+              <img
+                src={image.src}
+                alt={image.alt}
+                width="800"
+                height="533"
+                loading="lazy"
+                decoding="async"
+              />
+            </Frame>
           </li>
         ))}
       </ul>
@@ -70,6 +94,12 @@ const credits = [...new Set(images.map((image) => image.credit))];
 
   .gallery__lead {
     margin: 0;
+  }
+
+  .gallery__lead a,
+  .gallery__rest a {
+    display: block;
+    text-decoration: none;
   }
 
   .gallery__lead img {
@@ -110,6 +140,15 @@ const credits = [...new Set(images.map((image) => image.credit))];
     aspect-ratio: 3 / 2;
     object-fit: cover;
     background: var(--color-mist);
+  }
+
+  .gallery a img {
+    transition: opacity 160ms ease;
+  }
+
+  .gallery a:hover img,
+  .gallery a:focus-visible img {
+    opacity: 0.88;
   }
 
   .gallery__credit {

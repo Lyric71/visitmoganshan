@@ -1,0 +1,70 @@
+{
+  "id": 112107464,
+  "name": "Bashan Shicui Ueno Light Luxury Wentang Designer Holiday Meisu (Moganshan Yucun Square)",
+  "seedName": "Bashan Shicui Ueno Light Luxury Wentang Designer Holiday Meisu (Moganshan Yucun Square)",
+  "city": "Huzhou",
+  "cityId": 86,
+  "goSlug": "moganshan-112107464",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=112107464&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-112107464&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Accommodation Comfort and Design:Rooms are described as spacious, well-designed, and comfortable, with modern furnishings, good soundproofing, and large windows offering scenic views. The quality of bedding and overall aesthetic appeal contribute to a pleasant stay experience.(based on 20 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Comfort and Design",
+        "text": "Rooms are described as spacious, well-designed, and comfortable, with modern furnishings, good soundproofing, and large windows offering scenic views. The quality of bedding and overall aesthetic appeal contribute to a pleasant stay experience.",
+        "count": 20
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 33, Tangzi, Fangshan Village, Daixi Town, Wuxing District, Huzhou, Zhejiang, China",
+  "priceRange": "From US$118",
+  "facilities": [
+    "Outdoor swimming pool"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/112107464/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3712000c2awt0h33C6.jpg"
+    },
+    {
+      "src": "/images/stays/112107464/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0586n12000sositnd0564.webp"
+    },
+    {
+      "src": "/images/stays/112107464/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5h12000c2bece7C4AB.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "This hotel caters to both kids and adults, allowing you to enjoy a wonderful vacation without even needing to step outside. I highly recommend everyone come and experience it!",
+      "author": "Guest User",
+      "date": "2026-07-26",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=112107464&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-112107464&trip_sub3=D19127628"
+    },
+    {
+      "quote": "This hotel caters to both kids and adults, allowing you to enjoy a wonderful vacation without even needing to step outside. I highly recommend everyone come and experience it!",
+      "author": "Guest User",
+      "date": "2026-07-26",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=112107464&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-112107464&trip_sub3=D19127628"
+    },
+    {
+      "quote": "客房非常乾淨，環境特別舒適，山景也很靜謐，很適合獨自出來放鬆散心，離莫干山鎮也很近，買東西還算方便，非常不錯的度假地！",
+      "author": "Guest User",
+      "date": "2026-07-30",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=112107464&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-112107464&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 43,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:29:05.059Z",
+  "source": "trip"
+}

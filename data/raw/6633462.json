@@ -1,0 +1,64 @@
+{
+  "id": 6633462,
+  "name": "Aimo Inn",
+  "seedName": "Aimo Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-6633462",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6633462&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6633462&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Aimo Inn?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Beside Provincial Road 09, Fatou New Area, Deqing, Zhejiang, China",
+  "priceRange": "From US$29",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/6633462/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD0c120009dqc8gy3EDA.jpg"
+    },
+    {
+      "src": "/images/stays/6633462/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200p0g000000882kj0BDD.webp"
+    },
+    {
+      "src": "/images/stays/6633462/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200d0h0000008pxc4F300.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Facilities: All basic facilities are available. There is a balcony where you can dry clothes. Close the balcony window at night, and then close the doors and windows of the room, which has a good sound insulation effect on roadside...",
+      "author": "Ziyoufeixiangderener",
+      "date": "2023-10-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6633462&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6633462&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Clean, convenient, good service",
+      "author": "Guest User",
+      "date": "2023-10-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6633462&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6633462&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The owner is very nice, but the environment is a bit lacking.",
+      "author": "24Egg",
+      "date": "2025-08-12",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6633462&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6633462&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 6.6,
+    "count": 5,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:13:47.889Z",
+  "source": "trip"
+}

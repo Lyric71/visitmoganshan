@@ -1,0 +1,87 @@
+{
+  "id": 71547792,
+  "name": "YUNXI Designer Hot Spring Homestay",
+  "seedName": "YUNXI Designer Hot Spring Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-71547792",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=71547792&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-71547792&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment and Location:The hotel is nestled in a picturesque setting, surrounded by bamboo forests and hills, providing a tranquil escape from city life. Guests enjoy the proximity to a creek and scenic views that include mountains and lush greenery.(based on 26 reviews) Service Quality:Guests consistently praise the warm hospitality of the owners, emphasizing their helpfulness and willingness to provide recommendations for local activities. The personalized attention and family-like atmosphere are highlights.(based on 75 reviews) Facilities:The hotel boasts spacious, clean rooms with large windows and private hot spring baths. It offers modern amenities such as floor heating and cozy balconies, creating a comfortable and relaxing environment.(based on 36 reviews) Food and Dining:Breakfasts are a standout feature, often described as sumptuous and homemade, with local ingredients. Guests appreciate the variety and quality of meals, including vegetarian options, and the owner's culinary skills receive high marks.(based on 50 reviews) Unique Features:A pet deer on the property adds a charming touch, allowing guests to interact with wildlife. The hotel al",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment and Location",
+        "text": "The hotel is nestled in a picturesque setting, surrounded by bamboo forests and hills, providing a tranquil escape from city life. Guests enjoy the proximity to a creek and scenic views that include mountains and lush greenery.",
+        "count": 26
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Guests consistently praise the warm hospitality of the owners, emphasizing their helpfulness and willingness to provide recommendations for local activities. The personalized attention and family-like atmosphere are highlights.",
+        "count": 75
+      },
+      {
+        "topic": "Facilities",
+        "text": "The hotel boasts spacious, clean rooms with large windows and private hot spring baths. It offers modern amenities such as floor heating and cozy balconies, creating a comfortable and relaxing environment.",
+        "count": 36
+      },
+      {
+        "topic": "Food and Dining",
+        "text": "Breakfasts are a standout feature, often described as sumptuous and homemade, with local ingredients. Guests appreciate the variety and quality of meals, including vegetarian options, and the owner's culinary skills receive high marks.",
+        "count": 50
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 1, Tangkeng, Sihe Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$127",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/71547792/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1312000eb4py1lC31A.jpg"
+    },
+    {
+      "src": "/images/stays/71547792/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0202b120008tcmr9r0940.webp"
+    },
+    {
+      "src": "/images/stays/71547792/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5a12000eb4tbqq3544.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The room was spacious and odor-free. The afternoon tea and fruit were very fresh, and the breakfast made by the owner was absolutely delicious! The environment is very quiet, perfect for city dwellers to relax and recharge.",
+      "author": "Guest User",
+      "date": "2026-05-22",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=71547792&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-71547792&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Loved the host family! The granny and husband would prep a heartwarming breakfast, let us pet the deer, th wife would give great recs on what we can do nearby that suit our taste!! Can envision myself coming back 😍",
+      "author": "Wei Ger Teo",
+      "date": "2026-03-16",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=71547792&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-71547792&trip_sub3=D19127628"
+    },
+    {
+      "quote": "We really enjoyed to the at Yunxi Designer Hot Spring Homestay. From Check-in, during our stay until the Check-Out they offered a great service and flexibility. Super nice owner who is willing to support for any matter. Highly recommended location.",
+      "author": "Guest User",
+      "date": "2026-06-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=71547792&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-71547792&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 173,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:20:55.246Z",
+  "source": "trip"
+}

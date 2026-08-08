@@ -1,0 +1,71 @@
+{
+  "id": 110358574,
+  "name": "YIQI onestay",
+  "seedName": "YIQI onestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-110358574",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=110358574&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-110358574&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness:The hotel is commended for its impeccable cleanliness, with rooms and common areas maintained to a high standard. Guests appreciate the attention to detail in housekeeping, ensuring a pristine environment throughout their stay.(based on 234 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness",
+        "text": "The hotel is commended for its impeccable cleanliness, with rooms and common areas maintained to a high standard. Guests appreciate the attention to detail in housekeeping, ensuring a pristine environment throughout their stay.",
+        "count": 234
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 61, Yu Village, Fatou Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$132",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/110358574/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4w12000bnhb3aj11AA.jpg"
+    },
+    {
+      "src": "/images/stays/110358574/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5v12000bndmc9s7FE6.webp"
+    },
+    {
+      "src": "/images/stays/110358574/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2y12000bndjq9tE1B5.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Now I know why this place gets almost all 5-star reviews! The proprietress, I'm guessing she's an INFJ, is incredibly organized, has great taste, and arranges everything so thoughtfully. She strikes the perfect balance of giving you space and privacy...",
+      "author": "Anonymous User",
+      "date": "2026-06-01",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=110358574&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-110358574&trip_sub3=D19127628"
+    },
+    {
+      "quote": "We brought my parents here who were visiting China for the first time. The hotel is wonderful- clean and modern. The owner is super accommodating. They allowed us an early check in because our room was available. The food was...",
+      "author": "Justen Roselle",
+      "date": "2025-03-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=110358574&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-110358574&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I really like this homestay. The rooms are big and clean, and the public areas are very comfortable. It's so relaxing to just sit on the swing/hammock at night! You can go river tracing right at your doorstep. It’s the...",
+      "author": "Guest User",
+      "date": "2025-05-11",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=110358574&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-110358574&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 527,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:20:55.467Z",
+  "source": "trip"
+}

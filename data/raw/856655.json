@@ -1,0 +1,50 @@
+{
+  "id": 856655,
+  "name": "Panjiayuan Inn",
+  "seedName": "Panjiayuan Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-856655",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=856655&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-856655&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Panjiayuan Inn?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Biwu Village, Moganshan Town, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$50",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/856655/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02061120009jx82jmB092.jpg"
+    },
+    {
+      "src": "/images/stays/856655/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4t12000m27tgbq17E6.webp"
+    },
+    {
+      "src": "/images/stays/856655/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1812000m2py8gj7EFB.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "民宿佈置的很温馨，像家裡一樣。主人家很好客。",
+      "author": "Guest User",
+      "date": "2025-10-30",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=856655&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-856655&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 1,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:16:50.466Z",
+  "source": "trip"
+}

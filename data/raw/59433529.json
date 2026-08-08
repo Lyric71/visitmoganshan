@@ -1,0 +1,87 @@
+{
+  "id": 59433529,
+  "name": "Harvestmoon Vinyl Record Villa",
+  "seedName": "Harvestmoon Vinyl Record Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-59433529",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=59433529&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-59433529&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:The accommodation has a beautiful environment with large courtyards and lush greenery surrounding it. There are also private courtyards and large lawns where pets can run freely.(based on 90 reviews) Service:The service is very thoughtful, providing afternoon tea, cocktails, and other services. Staff are enthusiastic and caring, and they also take good care of pets.(based on 348 reviews) Facilities:The facilities are complete, with floor heating, comfortable bedding, and pet-friendly supplies such as bowls and pet packages. The overall layout is warm and cozy.(based on 8 reviews) Dining:The dining experience is rich and delicious, with breakfast, afternoon tea, dinner featuring local specialties and various delicacies.(based on 65 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "The accommodation has a beautiful environment with large courtyards and lush greenery surrounding it. There are also private courtyards and large lawns where pets can run freely.",
+        "count": 90
+      },
+      {
+        "topic": "Service",
+        "text": "The service is very thoughtful, providing afternoon tea, cocktails, and other services. Staff are enthusiastic and caring, and they also take good care of pets.",
+        "count": 348
+      },
+      {
+        "topic": "Facilities",
+        "text": "The facilities are complete, with floor heating, comfortable bedding, and pet-friendly supplies such as bowls and pet packages. The overall layout is warm and cozy.",
+        "count": 8
+      },
+      {
+        "topic": "Dining",
+        "text": "The dining experience is rich and delicious, with breakfast, afternoon tea, dinner featuring local specialties and various delicacies.",
+        "count": 65
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 26, Fangcunwu, He Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$142",
+  "facilities": [
+    "Bar",
+    "Restaurant",
+    "Cafe"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/59433529/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3f12000cjnezl1540E.jpg"
+    },
+    {
+      "src": "/images/stays/59433529/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200w120008s791hnD586.webp"
+    },
+    {
+      "src": "/images/stays/59433529/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1r12000cjnezmpD587.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Like a cabin homestay on vacation in Chiang Mai. The vinyl record theme is perfect for vinyl lovers. The owner has collected hundreds of records, and there's a vinyl lounge. Each room also has a record player, so you can...",
+      "author": "Guest User",
+      "date": "2026-07-31",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=59433529&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-59433529&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Fantastic! The guesthouse service was incredibly warm and lovely. They offer afternoon tea, and the cocktails in the evening are really delicious. Plus, there are plenty of other charming countryside activities, like bonfire movie nights. The snowflake crisps served with...",
+      "author": "Guest User",
+      "date": "2026-05-26",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=59433529&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-59433529&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room was clean, the service was great, and there were even a lot of vinyl records to listen to!",
+      "author": "Guest User",
+      "date": "2026-05-26",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=59433529&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-59433529&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 627,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:20:31.250Z",
+  "source": "trip"
+}

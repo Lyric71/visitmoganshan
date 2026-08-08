@@ -1,0 +1,50 @@
+{
+  "id": 7834318,
+  "name": "Yunlu Villa",
+  "seedName": "Yunlu Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-7834318",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=7834318&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-7834318&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Yunlu Villa?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 7, Lijiatang, Gaofeng Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$85",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/7834318/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205m120008oayzvg1116.jpg"
+    },
+    {
+      "src": "/images/stays/7834318/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200i0i00000097g6sFAD4.webp"
+    },
+    {
+      "src": "/images/stays/7834318/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20040i00000097g10305F.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Not bad, the hotel I booked for the marathon",
+      "author": "Guest User",
+      "date": "2025-02-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=7834318&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-7834318&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 7.8,
+    "count": 1,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:17:48.342Z",
+  "source": "trip"
+}
