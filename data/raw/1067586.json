@@ -1,0 +1,90 @@
+{
+  "id": 1067586,
+  "name": "Shanli Xianju Hotel",
+  "seedName": "Shanli Xianju Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1067586",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1067586&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1067586&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness:Repeatedly praised for spotless rooms, bathrooms, and overall hygiene.(based on 6 reviews) Hospitality:Hosts are consistently described as warm, helpful, and attentive to guests’ needs .(based on 4 reviews) Family-friendly amenities:Includes a clean, spacious pool ideal for children, a terrace with mountain views, and recreational options like a small stream and a barbecue area.(based on 2 reviews) Culinary offerings:Locally sourced, home-cooked meals are highlighted as flavorful, affordable, and child-friendly.(based on 2 reviews) Location & ambiance:Situated near scenic spots , surrounded by nature, and offers a quiet, peaceful retreat with minimal noise. Facilities:Rooms are spacious, well-equipped with air conditioning, and some units feature private terraces or balconies.(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness",
+        "text": "Repeatedly praised for spotless rooms, bathrooms, and overall hygiene.",
+        "count": 6
+      },
+      {
+        "topic": "Hospitality",
+        "text": "Hosts are consistently described as warm, helpful, and attentive to guests’ needs .",
+        "count": 4
+      },
+      {
+        "topic": "Family-friendly amenities",
+        "text": "Includes a clean, spacious pool ideal for children, a terrace with mountain views, and recreational options like a small stream and a barbecue area.",
+        "count": 2
+      },
+      {
+        "topic": "Culinary offerings",
+        "text": "Locally sourced, home-cooked meals are highlighted as flavorful, affordable, and child-friendly.",
+        "count": 2
+      },
+      {
+        "topic": "Facilities",
+        "text": "Rooms are spacious, well-equipped with air conditioning, and some units feature private terraces or balconies.",
+        "count": 3
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 33 Langjia, Xiantan Village, Deqing, Zhejiang, 313204, China",
+  "priceRange": "From US$38",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1067586/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200q16000000z2aix2497.jpg"
+    },
+    {
+      "src": "/images/stays/1067586/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200q16000000z2aix2497.webp"
+    },
+    {
+      "src": "/images/stays/1067586/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0582x12000srlobnkA170.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "小溪玩了，小魚小蝦抓了，泳池遊了，螢火蟲看了，山路走了，農家菜吃了，星星看了，任務完成，回家！ 民宿乾淨衞生，温馨，老闆熱情，晚上週邊很安靜，愜意。 老闆家的飯菜既大份又可口，很多都是他們自家種的，價格實惠，性價比極高！",
+      "author": "Xiaoyantongxue001",
+      "date": "2023-08-13",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1067586&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1067586&trip_sub3=D19127628"
+    },
+    {
+      "quote": "看了很多家，選的這個，除了有個泳池還能玩玩，其他沒有優勢，附近也沒有小溪，老闆就讓看地圖選地方，也不推薦推薦，晚上孩子想玩晚一點，結果老闆讓我們十點就要睡覺了，説太吵了，我覺得花錢了，我想玩到幾點就幾點，飯菜質量也不太好，沒有太多食慾，沒有什麼值得推薦的地方",
+      "author": "Guest User",
+      "date": "2023-08-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1067586&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1067586&trip_sub3=D19127628"
+    },
+    {
+      "quote": "小溪玩了，小魚小蝦抓了，泳池遊了，螢火蟲看了，山路走了，農家菜吃了，星星看了，任務完成，回家！ 民宿乾淨衞生，温馨，老闆熱情，晚上週邊很安靜，愜意。 老闆家的飯菜既大份又可口，很多都是他們自家種的，價格實惠，性價比極高！",
+      "author": "Xiaoyantongxue001",
+      "date": "2023-08-13",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1067586&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1067586&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.6,
+    "count": 19,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:55:51.250Z",
+  "source": "trip"
+}

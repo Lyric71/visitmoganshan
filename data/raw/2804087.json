@@ -1,0 +1,53 @@
+{
+  "id": 2804087,
+  "name": "Xiangxie Lishe Hotel",
+  "seedName": "Xiangxie Lishe Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2804087",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2804087&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2804087&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Xiangxie Lishe Hotel?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Houwu Village, Deqing, Zhejiang, 313206, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Cardroom",
+    "Restaurant",
+    "Conference room",
+    "Multi-function room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/2804087/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0204y12000dukdwfe4714.jpg"
+    },
+    {
+      "src": "/images/stays/2804087/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/fd/hotel/g4/M01/4E/B9/CggYHlYGPAeAXxOsACmcrBsty8Y816.webp"
+    },
+    {
+      "src": "/images/stays/2804087/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1212000e8ydszz6AA7.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "太差了，房間很小，從村裡去民宿停車場的路很陡，沒有一次性拖鞋，床品也不太乾淨，住在四樓，沒有電梯，純靠爬樓梯，最可惡的是第二天六點就被幾個小孩吵醒，在樓道里麪大聲説話，敲東西，沒人管，本想躲進山裡睡個好覺的，別提有多氣了。",
+      "author": "Guest User",
+      "date": "2025-10-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2804087&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2804087&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9,
+    "count": 1,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:01:47.732Z",
+  "source": "trip"
+}

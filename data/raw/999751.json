@@ -1,0 +1,36 @@
+{
+  "id": 999751,
+  "name": "Chen's Villa",
+  "seedName": "Chen's Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-999751",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=999751&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-999751&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Chen's Villa?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Xiantan Village, Deqing, Zhejiang, 313200, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/999751/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02024120008qeib73342A.jpg"
+    },
+    {
+      "src": "/images/stays/999751/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200y120008qeiehw2073.webp"
+    },
+    {
+      "src": "/images/stays/999751/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3h12000em8gudu3318.webp"
+    }
+  ],
+  "comments": [],
+  "rating": null,
+  "sourcedAt": "2026-08-08T15:55:58.259Z",
+  "source": "trip"
+}

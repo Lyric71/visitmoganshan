@@ -1,0 +1,42 @@
+{
+  "id": 2917276,
+  "name": "Rongjia Shiyuan Villa",
+  "seedName": "Rongjia Shiyuan Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2917276",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2917276&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2917276&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Rongjia Shiyuan Villa?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Langjia Village, Deqing, Zhejiang, 313209, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/2917276/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0582x12000smzte84C6DA.jpg"
+    },
+    {
+      "src": "/images/stays/2917276/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0582x12000smzte84C6DA.webp"
+    },
+    {
+      "src": "/images/stays/2917276/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0581y12000sn9u6du62FB.webp"
+    }
+  ],
+  "comments": [],
+  "rating": {
+    "score": 6.8,
+    "count": 4,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:02:37.166Z",
+  "source": "trip"
+}

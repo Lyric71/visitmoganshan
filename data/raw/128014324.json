@@ -1,0 +1,78 @@
+{
+  "id": 128014324,
+  "name": "Moganshan QianShan Area Qingluji Homestay",
+  "seedName": "Moganshan QianShan Area Qingluji Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-128014324",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=128014324&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-128014324&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness & Maintenance:The property maintains exceptional cleanliness, with spotless rooms, bathrooms, and common areas. Bedding, towels, and toiletries are of high quality, and the swimming pool water is noted for its clarity. The entire space exudes meticulous upkeep, from the wooden furniture to the landscaped garden.(based on 17 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Maintenance",
+        "text": "The property maintains exceptional cleanliness, with spotless rooms, bathrooms, and common areas. Bedding, towels, and toiletries are of high quality, and the swimming pool water is noted for its clarity. The entire space exudes meticulous upkeep, from the wooden furniture to the landscaped garden.",
+        "count": 17
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "莫干山镇紫岭村中村26号, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Tea room",
+    "Cardroom",
+    "Restaurant",
+    "Karaoke",
+    "Conference room",
+    "Multi-function room",
+    "Playground",
+    "Kids' club"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/128014324/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201v12000jq6s4123DEF.jpg"
+    },
+    {
+      "src": "/images/stays/128014324/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4612000jzudaxzA26F.webp"
+    },
+    {
+      "src": "/images/stays/128014324/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1w12000jztmjkf1DB1.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "環境就不點評了，都是實拍圖，非常好，落地窗外面的山景跟一幅畫一樣，拍照也非常出片。 關鍵是，民宿還有泳池！準備好泳衣就行！ 再説説吃 ，老闆的媽媽做的南瓜絲餅與小鹹菜，成了我在莫干山的白月光！與老闆相約秋天再聚！就為了這口吃的🌹🌹🌹 水果也很新鮮，老闆聽到我想吃西瓜，直接送了半個給我啃！ 青綠集，秋天見！",
+      "author": "Aizuodaxiederenya",
+      "date": "2026-07-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=128014324&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-128014324&trip_sub3=D19127628"
+    },
+    {
+      "quote": "人果然還是泡在綠色裏最舒服啊，訂了兩個房間窗景都好棒，往外看美得有點不真實。在民宿預訂了晚飯，阿姨做飯很好吃哦。在山裡睡眠好好，倒頭睡到自然醒，起晚了老闆娘還給我留了早餐嘿嘿。在這過了很棒的假期，要不是得回來上班，還想再住幾天。",
+      "author": "Guest User",
+      "date": "2026-07-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=128014324&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-128014324&trip_sub3=D19127628"
+    },
+    {
+      "quote": "這家很滿意，乾淨而且風景好，門前超大一片山，有點世外桃源的意思 訂的房間大窗玻璃擦的曾光瓦亮，窗景太好看了。 距離庾村不遠開車十幾分鍾，吃飯逛街挺方便 早餐新鮮不是預製菜吃的很舒服，老闆娘很友好還給了山裡的桃子李子讓嚐嚐，等過了暑假再來多住幾天",
+      "author": "Guest User",
+      "date": "2026-06-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=128014324&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-128014324&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 69,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:53:50.582Z",
+  "source": "trip"
+}

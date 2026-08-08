@@ -1,0 +1,72 @@
+{
+  "id": 6650267,
+  "name": "Mogan Mountain Yunxi Jian Boutique Hostel",
+  "seedName": "Mogan Mountain Yunxi Jian Boutique Hostel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-6650267",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6650267&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6650267&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Boss's Hospitality and Introduction:The boss is enthusiastic, can introduce local customs and stories, and recommend interesting attractions. The cooking is excellent with sufficient portions and delicious taste. The stay is reassuring and the surrounding area is quiet at night. Facilities:There are free parking lots, swimming pools, billiards, and one can sing and watch the sunrise on the rooftop. The room is large with a swing, and it's pleasant to swim when it's hot.(based on 10 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Hospitality and Introduction",
+        "text": "The boss is enthusiastic, can introduce local customs and stories, and recommend interesting attractions. The cooking is excellent with sufficient portions and delicious taste. The stay is reassuring and the surrounding area is quiet at night. Facilities:There are free parking lots, swimming pools, billiards, and one can sing and watch the sunrise on the rooftop. The room is large with a swing, and it's pleasant to swim when it's hot.",
+        "count": 10
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Xiantan Village, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/6650267/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2012000lks68ky6122.jpg"
+    },
+    {
+      "src": "/images/stays/6650267/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206g12000a6v0nz8EEE4.webp"
+    },
+    {
+      "src": "/images/stays/6650267/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0p12000lkrv4u8BBE6.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "一次不錯的節假日出遊體驗，老闆招待熱情，詳細介紹了周邊遊玩景點，做菜非常好吃，值得推薦👍",
+      "author": "Guest User",
+      "date": "2026-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6650267&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6650267&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間乾淨整潔，露台有洗衣機可以晾曬衣服，夏天特別漂流後很需要，早餐油條和筍乾很好吃，需要什麼老闆都很熱情提供，推薦的遊玩景點也不錯，還幫忙預訂景點漂流門票省錢了，物美價廉，特別推薦的追光計劃確實很好👌🏻",
+      "author": "Shibeizideyueding",
+      "date": "2025-08-31",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6650267&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6650267&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿離景區很近，步行10分鐘，北野螢火蟲景區，多色螢火蟲宛如進入夢幻星空。15分鐘龍鱗壩，魚鱗壩溯溪玩水，人很多，沿街都是攤鋪，路邊私人停車點。30分鐘左右還有莫干山高山森林漂流和江南瑤塢景區，都超好玩，民宿老闆可以幫忙推薦景區，購票有折扣，老闆待人真誠，而且廚藝槓槓滴，菜分量很足，味道很好，入住很安心，晚上週邊很安靜可以睡個好覺。",
+      "author": "phil",
+      "date": "2025-08-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6650267&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6650267&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 31,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:43:55.177Z",
+  "source": "trip"
+}

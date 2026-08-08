@@ -1,0 +1,71 @@
+{
+  "id": 1345779,
+  "name": "Tingshuiju Hotel",
+  "seedName": "Tingshuiju Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1345779",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1345779&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1345779&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service Quality:The hosts are consistently praised for their warm, attentive, and helpful service. They provide personalized recommendations for local attractions, assist with meal planning, and ensure guests feel welcomed and comfortable throughout their stay.(based on 1 review)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service Quality",
+        "text": "The hosts are consistently praised for their warm, attentive, and helpful service. They provide personalized recommendations for local attractions, assist with meal planning, and ensure guests feel welcomed and comfortable throughout their stay.",
+        "count": 1
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No.2 Biwu, Biwu Village, Deqing, Zhejiang, 313202, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1345779/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205l12000dgu8wg7BE17.jpg"
+    },
+    {
+      "src": "/images/stays/1345779/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0581m12000spwfqr11089.webp"
+    },
+    {
+      "src": "/images/stays/1345779/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5v12000e5b6faa3ABA.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "老闆熱情，進村一會就到了，一個小橋過去，紅房子。附近漂流遊玩很方便。",
+      "author": "Guest User",
+      "date": "2025-08-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1345779&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1345779&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿地理位置便利，好找好停車。屋內衞生無可挑剔，空間寬敞，基礎設施完善。房東熱情周到，服務細緻。屋內佈置温馨，居住安靜不嘈雜。周邊吃喝選擇多，遊玩出行便捷。性價比在線，住得安心舒服，旅途增添不少幸福感，推薦入住！ 需要我調整成差評、或是適配海邊/山居民宿專屬版本嗎？",
+      "author": "Guest User",
+      "date": "2026-08-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1345779&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1345779&trip_sub3=D19127628"
+    },
+    {
+      "quote": "莫干山景區沒太大感覺，非常值得推薦的是民宿，周邊風景好，空氣好，老闆家位置特別好，房間前面一覽無餘的山景，雲霧繚繞，老闆夫妻特別和善，燒的農家菜也很棒，送的早餐很用心兩天不重複，還免費吃了西瓜摘了楊梅，走的時候甚至還拿了他們種的蔬菜，浙江人真的會做生意，情緒價值拉滿。房間衞生也好，期待下次來漂流避暑。",
+      "author": "Guest User",
+      "date": "2026-06-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1345779&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1345779&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 31,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:57:00.156Z",
+  "source": "trip"
+}

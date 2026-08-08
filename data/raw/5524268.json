@@ -1,0 +1,85 @@
+{
+  "id": 5524268,
+  "name": "Zixuan Shanju Hotel",
+  "seedName": "Zixuan Shanju Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5524268",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5524268&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5524268&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Room Area:Many users mention that the room is large, such as 'the room area is very large' and 'the room is very large'(based on 5 reviews) Service:The boss is enthusiastic and the service is thoughtful, such as 'the boss's enthusiasm' and 'the boss is enthusiastic and hospitable, and the service attitude is good'(based on 9 reviews) Facilities:There are parking lots, and some rooms have swimming pools, like 'there are enough parking lots' and 'there is a pool behind'(based on 5 reviews) Breakfast:The breakfast is good, with porridge, sweet potatoes, corn, self-grown corn, etc., like 'breakfast is porridge, sweet potatoes, corn, side dishes' and 'breakfast is all self-grown corn, and the fried pickles are very amazing'(based on 6 reviews) Pet-Friendly:Suitable for pet living, like 'suitable for pet living' Guest Suggestion:Some customers suggest improving room cleanliness, addressing dampness, and enhancing lighting for a more comfortable stay.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Room Area",
+        "text": "Many users mention that the room is large, such as 'the room area is very large' and 'the room is very large'",
+        "count": 5
+      },
+      {
+        "topic": "Service",
+        "text": "The boss is enthusiastic and the service is thoughtful, such as 'the boss's enthusiasm' and 'the boss is enthusiastic and hospitable, and the service attitude is good'",
+        "count": 9
+      },
+      {
+        "topic": "Facilities",
+        "text": "There are parking lots, and some rooms have swimming pools, like 'there are enough parking lots' and 'there is a pool behind'",
+        "count": 5
+      },
+      {
+        "topic": "Breakfast",
+        "text": "The breakfast is good, with porridge, sweet potatoes, corn, self-grown corn, etc., like 'breakfast is porridge, sweet potatoes, corn, side dishes' and 'breakfast is all self-grown corn, and the fried pickles are very amazing'",
+        "count": 6
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No.42, outer village, Ziling village, Moganshan town, Deqing, Zhejiang, 313200, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5524268/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201c120008lrsc1hAD55.jpg"
+    },
+    {
+      "src": "/images/stays/5524268/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200q1600000108c1rA6B1.webp"
+    },
+    {
+      "src": "/images/stays/5524268/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201c120008lrsc1hAD55.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "臨時訂的一間房，房間的面積很大，裏面的裝修比較簡潔，房間的隔音不怎麼好，早餐是稀飯、紅薯、玉米、小菜。",
+      "author": "Guest User",
+      "date": "2026-04-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5524268&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5524268&trip_sub3=D19127628"
+    },
+    {
+      "quote": "臨時訂的一間房，房間的面積很大，裏面的裝修比較簡潔，房間的隔音不怎麼好，早餐是稀飯、紅薯、玉米、小菜。",
+      "author": "Guest User",
+      "date": "2026-04-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5524268&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5524268&trip_sub3=D19127628"
+    },
+    {
+      "quote": "因為第二天要去義遠有機農場，網上看了很久，臨時深夜住到這家民宿，太多的驚喜！民宿很乾凈很清雅，還有泳池和足夠的停車場，因為在村裡山間，空氣特別新鮮😄第二天清晨老闆還親自給我們做早餐，口味超棒，特別點贊👍🏻從瑤塢景區出來到民宿很近，除了晚上打車不方便，建議自駕，同時從這家民宿出來到有機農場也很近，但是打不到車，老闆開着貨車親自送我們過去，太感動了😂謝謝老闆，下次再來～",
+      "author": "Feixiangdefengzi",
+      "date": "2025-08-31",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5524268&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5524268&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.3,
+    "count": 54,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:06:59.448Z",
+  "source": "trip"
+}

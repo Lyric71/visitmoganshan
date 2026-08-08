@@ -1,0 +1,87 @@
+{
+  "id": 19679219,
+  "name": "Mount Mogan Leyi Shanju Hotel",
+  "seedName": "Mount Mogan Leyi Shanju Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-19679219",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=19679219&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-19679219&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment Location:The environment is beautiful with fresh air, convenient parking, and a small pool in the backyard using mountain spring water, located in a great surrounding area with easy access to nearby attractions like Moganshan Square.(based on 5 reviews) Facilities:Facilities are high-end, spacious and comfortable, with complete facilities including a pool and a large balcony offering beautiful views of bamboo forests.(based on 9 reviews) Service Quality:Service is enthusiastic, thoughtful, and provides detailed guidance on surrounding attractions, with owners being very warm and hospitable.(based on 21 reviews) Hygiene:Rooms are clean, tidy, spacious, and free of unpleasant odors, ensuring a comfortable stay(based on 29 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment Location",
+        "text": "The environment is beautiful with fresh air, convenient parking, and a small pool in the backyard using mountain spring water, located in a great surrounding area with easy access to nearby attractions like Moganshan Square.",
+        "count": 5
+      },
+      {
+        "topic": "Facilities",
+        "text": "Facilities are high-end, spacious and comfortable, with complete facilities including a pool and a large balcony offering beautiful views of bamboo forests.",
+        "count": 9
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Service is enthusiastic, thoughtful, and provides detailed guidance on surrounding attractions, with owners being very warm and hospitable.",
+        "count": 21
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Rooms are clean, tidy, spacious, and free of unpleasant odors, ensuring a comfortable stay",
+        "count": 29
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No.45 Outer Village of Ziling Village, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/19679219/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200814000000w668i88A1.jpg"
+    },
+    {
+      "src": "/images/stays/19679219/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200714000000wmnxu7B3E.webp"
+    },
+    {
+      "src": "/images/stays/19679219/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200q14000000w79twB551.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "房間乾淨、舒適，老闆娘燒的菜好吃，買的西瓜和哈密瓜特別甜，下次還會入住。",
+      "author": "Guest User",
+      "date": "2026-05-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=19679219&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-19679219&trip_sub3=D19127628"
+    },
+    {
+      "quote": "朋友推薦，我們來到了樂憶山居小住，這是一家非常棒的民宿，周圍竹海環繞，靜坐小院看莫干山風景別有一番意境，小院內有木質鞦韆，可以坐在鞦韆上感受兒時的歡樂，還有室外游泳池可供小朋友嘻水。民宿內裝飾很温馨，一樓客廳有咖吧、茶吧、k歌等娛樂，人性化的佈置讓每一位在民宿休閑時有豐富多彩的活動。朋友相聚聊天，k歌，民宿內外漂亮環境到哪都是景（喜歡拍照都是美景喲）。主人非常熱情，客廳區準備了小點心、咖啡，我們有種賓至如歸的感覺。總之，樂憶山居之行，吃住都很舒心，阿姨燒的菜非常的好吃，睡的床也很舒服，來到莫干山真正感受到忙碌生活之外的休閑，感受大自然帶給我們的清新。",
+      "author": "Guest User",
+      "date": "2023-09-14",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=19679219&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-19679219&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房內設施高大上，寬敞舒適，乾淨整潔，窗外就是竹林，還有一個超大陽台，美麗風景盡收眼底。服務還特別貼心給力，特別是這家的菜品超級好吃，絕絕的滿足了我的味蕾，下次一定還會住這裏！",
+      "author": "Guest User",
+      "date": "2023-08-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=19679219&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-19679219&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 10,
+    "count": 47,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:46:45.568Z",
+  "source": "trip"
+}

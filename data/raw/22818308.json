@@ -1,0 +1,64 @@
+{
+  "id": 22818308,
+  "name": "Moganshan Yishanjing single-family villa",
+  "seedName": "Moganshan Yishanjing single-family villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-22818308",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=22818308&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-22818308&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Yishanjing single-family villa?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No.24 Xiawuli, Hecun Village, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Outdoor swimming pool"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/22818308/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0n12000h12ugyy7904.jpg"
+    },
+    {
+      "src": "/images/stays/22818308/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1re6m12000b87h4ih2D60.webp"
+    },
+    {
+      "src": "/images/stays/22818308/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3112000gtqpzb1E0BF.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "環境超美的小院兒，綠野仙蹤的感覺~主要是老闆姐姐人超級nice！熱情好客，做飯手藝也好，誇誇！",
+      "author": "Guest User",
+      "date": "2026-07-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=22818308&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-22818308&trip_sub3=D19127628"
+    },
+    {
+      "quote": "環境特別好，實在是太適合吸氧了，有泳池，還有很多植被，有團建桌子，非常適合幾十個人的團建，管家很給力，點贊",
+      "author": "Guest User",
+      "date": "2025-06-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=22818308&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-22818308&trip_sub3=D19127628"
+    },
+    {
+      "quote": "和朋友一起來莫干山旅遊，在攜程上看到了這家，感覺環境蠻不錯的就預訂了，到民宿以後，老闆娘很熱情，為我們準備了豐富的水果，還幫我們準備了圍爐煮茶（當天有點冷），但是感覺很温暖，民宿的院子還蠻大的，在院子的天幕底下圍爐煮茶，旁邊還有一個小池塘可以釣釣魚，感覺很不錯，是個非常適合度假的好地方，極力推薦！！！",
+      "author": "Guest User",
+      "date": "2024-12-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=22818308&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-22818308&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 10,
+    "count": 7,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:47:12.313Z",
+  "source": "trip"
+}

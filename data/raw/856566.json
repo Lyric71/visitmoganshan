@@ -1,0 +1,81 @@
+{
+  "id": 856566,
+  "name": "Mogan Mountain Zhuwanli Mountain Villa",
+  "seedName": "Mogan Mountain Zhuwanli Mountain Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-856566",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=856566&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-856566&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Close to Bihu Longtan scenic area, convenient parking, proximity to popular spots .(based on 2 reviews) Service:Hosts and staff are described as warm, attentive .(based on 6 reviews) Facilities:4th-floor balcony with panoramic views, clean rooms, and basic amenities. Cleanliness:Generally praised, with mention of thorough cleaning by hosts.(based on 1 review)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Close to Bihu Longtan scenic area, convenient parking, proximity to popular spots .",
+        "count": 2
+      },
+      {
+        "topic": "Service",
+        "text": "Hosts and staff are described as warm, attentive .",
+        "count": 6
+      },
+      {
+        "topic": "Facilities",
+        "text": "4th-floor balcony with panoramic views, clean rooms, and basic amenities. Cleanliness:Generally praised, with mention of thorough cleaning by hosts.",
+        "count": 1
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Biwu Village, Deqing, Zhejiang, 313207, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/856566/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20060400000004uwa494D.jpg"
+    },
+    {
+      "src": "/images/stays/856566/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200a0v000000jtf0y69BC.webp"
+    },
+    {
+      "src": "/images/stays/856566/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20060400000004uwa494D.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "還可以，先前訂的民宿被取消了，在最後一刻有了房間不至於返回市區。救命稻草一般，不奢求太高",
+      "author": "Guest User",
+      "date": "2025-09-13",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=856566&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-856566&trip_sub3=D19127628"
+    },
+    {
+      "quote": "挺好的民宿，中規中矩。衞生什麼的阿姨打掃的很乾凈。唯一不足的是，紗窗質量不咋的，特別是衞生間，一到傍晚屋內亮燈了，衞生間紗窗縫裡蚊子，蝴蝶，小蟲就會飛進來，希望能改善。阿姨人很好，待人很親切。還可以加10元讓阿姨給準備早餐。都是親手製作的，比較乾淨衞生。手藝也不錯。早餐沒吃完的，阿姨還給我們打包路上吃，太有愛了。推薦！",
+      "author": "Guest User",
+      "date": "2023-10-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=856566&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-856566&trip_sub3=D19127628"
+    },
+    {
+      "quote": "暑期檔莫干山民宿價格飛漲臨時找實在沒什麼性價比高的索性想找個便宜點的湊合一晚沒想到反倒覺得很不錯四樓的大露台晚上坐着吹風實在是太舒服的view也很棒地理位置很好走路就能到小溪邊玩耍有好幾個小水壩不比第二天去的網紅更魚鱗壩可玩性差雖小人少門口吃飯也很方便離看螢火蟲的營地也很近如願看到了螢火蟲老闆娘熱情周到早餐白粥很香還有雞蛋玉米包子和多種小菜整體很推薦經濟實惠首選",
+      "author": "Guest User",
+      "date": "2023-08-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=856566&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-856566&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 7.7,
+    "count": 11,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:54:15.224Z",
+  "source": "trip"
+}

@@ -1,0 +1,67 @@
+{
+  "id": 100342278,
+  "name": "LeeShine·QinLee Bamboo Hot Spring Hideaway（Moganshan）",
+  "seedName": "LeeShine·QinLee Bamboo Hot Spring Hideaway（Moganshan）",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-100342278",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=100342278&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-100342278&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at LeeShine·QinLee Bamboo Hot Spring Hideaway（Moganshan）?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "莫干山镇紫岭村里村47号, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Hot springs",
+    "Bar",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/100342278/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2i12000bzfvdqlF46B.jpg"
+    },
+    {
+      "src": "/images/stays/100342278/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205c12000a4nxx9iB453.webp"
+    },
+    {
+      "src": "/images/stays/100342278/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD0512000ayn376k1E1F.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The room was clean and fresh, with no unpleasant odors. The view was beautiful and the facilities were exquisite. The food was delicious and carefully prepared, and the plum wine was smooth and tasty! The soundproofing for the hallway during...",
+      "author": "Quedelaogaowangzhong",
+      "date": "2025-12-02",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=100342278&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-100342278&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room and the courtyard are very design-conscious. The owner is a gourmet. The Japanese hot pot ingredients we ordered are great. The owner takes us to climb the mountain every day. There are few people and beautiful scenery. We...",
+      "author": "Guest User",
+      "date": "2024-05-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=100342278&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-100342278&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The overall design style is online, and the location is convenient, and the photos are very good. Because there are not many restaurants to choose from in the surrounding area, we decisively chose to eat at the B&B on the...",
+      "author": "Guest User",
+      "date": "2024-04-25",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=100342278&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-100342278&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 142,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:52:57.726Z",
+  "source": "trip"
+}

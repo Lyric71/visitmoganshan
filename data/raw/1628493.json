@@ -1,0 +1,64 @@
+{
+  "id": 1628493,
+  "name": "Lvshe Farmhouse",
+  "seedName": "Lvshe Farmhouse",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1628493",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1628493&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1628493&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Lvshe Farmhouse?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No.19 Panjiayuan, Xiantan Village, Moganshan Town, Deqing, Zhejiang, 313200, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1628493/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200j0s000000hmyc59701.jpg"
+    },
+    {
+      "src": "/images/stays/1628493/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200v080000002yvhvF4F1.webp"
+    },
+    {
+      "src": "/images/stays/1628493/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0226112000azarr1lA263.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "衞生服務都很好，有個大的露天陽台，在上面吃飯聊天都很舒服，還有個蹦床和可以盪鞦韆的躺椅，小孩子特別喜歡。",
+      "author": "Guest User",
+      "date": "2025-05-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1628493&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1628493&trip_sub3=D19127628"
+    },
+    {
+      "quote": "衞生服務都很好，有個大的露天陽台，在上面吃飯聊天都很舒服，還有個蹦床和可以盪鞦韆的躺椅，小孩子特別喜歡。",
+      "author": "Guest User",
+      "date": "2025-05-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1628493&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1628493&trip_sub3=D19127628"
+    },
+    {
+      "quote": "地勢很高，有車庫，樓前有個陽台太讚了。 傍晚在陽台上喝杯茶，咀嚼幾粒花生，吹吹晚風太爽了。 即刻看日出又可看日落。 價格是那一地帶最優惠的，性價比老高了。",
+      "author": "Merryzhang98",
+      "date": "2024-08-11",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1628493&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1628493&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 8,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:57:37.882Z",
+  "source": "trip"
+}

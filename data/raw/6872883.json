@@ -1,0 +1,92 @@
+{
+  "id": 6872883,
+  "name": "Jiangyuan Hot Spring Resort",
+  "seedName": "Jiangyuan Hot Spring Resort",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-6872883",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6872883&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6872883&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Accommodation:Spacious rooms with large floor-to-ceiling windows, private pools, and artistic outdoor spaces .(based on 9 reviews) Location:Conveniently situated near Mogan Mountain attractions , with easy access to hiking trails and scenic views.(based on 4 reviews) Service:Warm, attentive hosts who provided timely assistance, recommendations, and free amenities .(based on 25 reviews) Facilities:Modern amenities , clean and well-organized interiors, and organic farm-to-table meals .(based on 19 reviews) Experience:Emphasis on tranquility, natural scenery , and immersive activities . Guest Suggestion: Some customers suggest improving cleanliness , upgrading outdated facilities, and enhancing service quality to better align with pricing expectations.(based on 1 review)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Accommodation",
+        "text": "Spacious rooms with large floor-to-ceiling windows, private pools, and artistic outdoor spaces .",
+        "count": 9
+      },
+      {
+        "topic": "Location",
+        "text": "Conveniently situated near Mogan Mountain attractions , with easy access to hiking trails and scenic views.",
+        "count": 4
+      },
+      {
+        "topic": "Service",
+        "text": "Warm, attentive hosts who provided timely assistance, recommendations, and free amenities .",
+        "count": 25
+      },
+      {
+        "topic": "Facilities",
+        "text": "Modern amenities , clean and well-organized interiors, and organic farm-to-table meals .",
+        "count": 19
+      },
+      {
+        "topic": "Experience",
+        "text": "Emphasis on tranquility, natural scenery , and immersive activities . Guest Suggestion: Some customers suggest improving cleanliness , upgrading outdated facilities, and enhancing service quality to better align with pricing expectations.",
+        "count": 1
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Near Ziling Tunnel (Laoling Village), Deqing, Zhejiang, 313200, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/6872883/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2o12000d939erb510C.jpg"
+    },
+    {
+      "src": "/images/stays/6872883/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5j12000d92wdv09920.webp"
+    },
+    {
+      "src": "/images/stays/6872883/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6r12000d92xiytFC10.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "I felt like I was at home when I came here with my family before. This time I came to the yard for a new upgrade! More comfortable! The current yard has a bit of an Instagram style, which is...",
+      "author": "Anonymous User",
+      "date": "2023-09-12",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6872883&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6872883&trip_sub3=D19127628"
+    },
+    {
+      "quote": "[Celebration] First of all, let’s talk about the accommodation. We booked a loft. There is a lot of space upstairs and downstairs. There is also a rocking chair, which is very suitable for babies to play, and a super large...",
+      "author": "Guest User",
+      "date": "2023-08-15",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6872883&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6872883&trip_sub3=D19127628"
+    },
+    {
+      "quote": "暫時躲開上海快節奏的忙碌工作，在這家民宿度過了超愜意的兩天。房東人特別熱情，自家做的農家菜味道一絕，在市區好久吃不到這麼地道的口味了。 小院環境特別舒服，院裏兩棵楊梅樹眼看着快要結果成熟，特別盼着楊梅熟透的時候再來一趟。 不用操心工作瑣事，安安靜靜躺在房間裏整個人都放鬆下來，是難得可以放空自己的小天地。",
+      "author": "Guest User",
+      "date": "2026-06-13",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6872883&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6872883&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 42,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:44:45.199Z",
+  "source": "trip"
+}

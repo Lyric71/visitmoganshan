@@ -1,0 +1,57 @@
+{
+  "id": 2580485,
+  "name": "Zixia Villa",
+  "seedName": "Zixia Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2580485",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2580485&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2580485&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Zixia Villa?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Moganshan Town, North Lake village watershed 2, Deqing, Zhejiang, 313200, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/2580485/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205m120006t9hnxk66BA.jpg"
+    },
+    {
+      "src": "/images/stays/2580485/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206d120006t8ffe475AD.webp"
+    },
+    {
+      "src": "/images/stays/2580485/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206q120006tnyqyoFFEE.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "房東夫妻二人自己打理的家庭民宿，庭院的綠化種植的很好，據介紹庭院裏有顆喬木是他們40年前結婚時栽種下的，幸福的一家子。關於吃的方面這邊酒店靠近筏頭鎮，如果想外出覓食，去筏頭鎮比去莫干山鎮方便的多，且不堵車",
+      "author": "Guest User",
+      "date": "2025-08-18",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2580485&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2580485&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房東夫妻二人自己打理的家庭民宿，庭院的綠化種植的很好，據介紹庭院裏有顆喬木是他們40年前結婚時栽種下的，幸福的一家子。關於吃的方面這邊酒店靠近筏頭鎮，如果想外出覓食，去筏頭鎮比去莫干山鎮方便的多，且不堵車",
+      "author": "Guest User",
+      "date": "2025-08-18",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2580485&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2580485&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9,
+    "count": 5,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:42:22.600Z",
+  "source": "trip"
+}

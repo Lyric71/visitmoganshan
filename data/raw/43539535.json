@@ -1,0 +1,93 @@
+{
+  "id": 43539535,
+  "name": "Muzili Shanju Guesthouse",
+  "seedName": "Muzili Shanju Guesthouse",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-43539535",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=43539535&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-43539535&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment and Location:The environment is quiet, close to natural landscapes like bamboo forests and streams, and the location is convenient, being near scenic spots and highway exits. (based on 9 reviews) Service Quality:The hostess is enthusiastic and thoughtful, offering warm and attentive service. (based on 29 reviews) Facilities:There are facilities such as a swimming pool, various activity areas, and charging piles. (based on 10 reviews) Hygiene:Rooms are clean and tidy. (based on 21 reviews) Breakfast:Breakfast is nutritious and delicious(based on 5 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment and Location",
+        "text": "The environment is quiet, close to natural landscapes like bamboo forests and streams, and the location is convenient, being near scenic spots and highway exits.",
+        "count": 9
+      },
+      {
+        "topic": "Service Quality",
+        "text": "The hostess is enthusiastic and thoughtful, offering warm and attentive service.",
+        "count": 29
+      },
+      {
+        "topic": "Facilities",
+        "text": "There are facilities such as a swimming pool, various activity areas, and charging piles.",
+        "count": 10
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Rooms are clean and tidy.",
+        "count": 21
+      },
+      {
+        "topic": "Breakfast",
+        "text": "Breakfast is nutritious and delicious",
+        "count": 5
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No.48 Mawuli, Miaoqian Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/43539535/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201z12000boahc47731F.jpg"
+    },
+    {
+      "src": "/images/stays/43539535/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1re6m12000b87h4ih2D60.webp"
+    },
+    {
+      "src": "/images/stays/43539535/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2h0o16000000z6w26F4A8.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "This time I went to Moganshan to celebrate my grandmother's 90th birthday. I booked a room at the boss's house. The boss was very considerate. Before we set off, she added WeChat to remind us to wear more clothes because...",
+      "author": "Mi Manchiེꦿ๑҉",
+      "date": "2024-04-22",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=43539535&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-43539535&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I have stayed here several times. Every time I come to Moganshan, I choose Muzili. The environment is very quiet and it is very suitable for a holiday. The room is clean and tidy. It is very comfortable and safe....",
+      "author": "Guest User",
+      "date": "2024-03-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=43539535&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-43539535&trip_sub3=D19127628"
+    },
+    {
+      "quote": "This time I traveled with my parents, and we all agreed on the choice of Moganshan Muzili B&B. First of all, parking is convenient, the view from all floor-to-ceiling windows in the room is very good, the room and bathroom...",
+      "author": "Guest User",
+      "date": "2024-04-11",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=43539535&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-43539535&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 44,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:49:13.435Z",
+  "source": "trip"
+}

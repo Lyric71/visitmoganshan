@@ -1,0 +1,77 @@
+{
+  "id": 1272691,
+  "name": "160 Foreign-style house · At the top of Mogan mountain",
+  "seedName": "160 Foreign-style house · At the top of Mogan mountain",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1272691",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1272691&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1272691&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service:Many users appreciate the friendly and helpful service, often mentioning the welcoming attitude of the staff, particularly the proprietress and the auntie.(based on 6 reviews) Cleanliness:The cleanliness of the rooms and the hotel overall is frequently highlighted, with guests describing them as clean, hygienic, and well-maintained.(based on 8 reviews) Atmosphere:The hotel is noted for its welcoming and homely atmosphere, making it suitable for a restful retreat.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service",
+        "text": "Many users appreciate the friendly and helpful service, often mentioning the welcoming attitude of the staff, particularly the proprietress and the auntie.",
+        "count": 6
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "The cleanliness of the rooms and the hotel overall is frequently highlighted, with guests describing them as clean, hygienic, and well-maintained.",
+        "count": 8
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 160, Moganshan, Deqing, Zhejiang, 313202, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1272691/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200z120008uvky3y2C9D.jpg"
+    },
+    {
+      "src": "/images/stays/1272691/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0202b120008dz96j83591.webp"
+    },
+    {
+      "src": "/images/stays/1272691/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0k12000b9n97kr524D.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "160別墅像我們夢想中的家，石頭建的房子坐落於山頂，院子裏大樹環繞，清涼靜謐。房間窗户向陽，傍晚可以見到霞光滿天。室內裝飾是五星級的石材，床品乾淨舒適，衞浴保養的嶄新。最出彩的是早歺和晚餐，早歺和我自己去吃自助餐拿的一樣多，各種小碟搭配營養美味，晚餐可以吃到院子裏種的蔬菜和新鮮的魚。房子的位置就在毛主席下榻的皇后飯店上面，風水寶地確實是療養聖地",
+      "author": "dianedeng",
+      "date": "2026-05-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1272691&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1272691&trip_sub3=D19127628"
+    },
+    {
+      "quote": "酒店在山頂車能直接開到酒店停車場注意要提前把車牌發給阿姨報備上山路上才會讓車上去。空氣好整個酒店一共8個房間非常安靜。阿姨還給我們提供遊覽路線非常方便。最後一定要在他家吃飯。叔叔親自掌廚美味吃一半才記得拍照。蔬菜都是自家地裏種的地裏到上桌不到半小時新鮮好吃。",
+      "author": "Guest User",
+      "date": "2025-07-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1272691&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1272691&trip_sub3=D19127628"
+    },
+    {
+      "quote": "特色：德式洋房別墅，設計古典優雅； 絕美落日觀景台； 景觀餐廳 愜意舒適； 管家服務貼心，睡到自然醒再吃早餐也沒怪我過了時間。 聽風、聽雨、￼聽蟲鳴的好位置。 位置：山頂 停車場到酒店走一百米樓梯就可以。苦的是我來的時候修路 走了很久，再過一個月就修好了。距離毛主席住過的地方很近。 早餐：每天的早餐都不一樣 簡單的小米粥搭配糕點、紅薯雞蛋 夠用。 房間：雙床房有點小，兩個女生東西太多了行李箱不太好放。浴室淋浴間很小 洗澡得拿着花灑（個子矮淋不到）",
+      "author": "Guest User",
+      "date": "2025-05-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1272691&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1272691&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 16,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:40:08.749Z",
+  "source": "trip"
+}

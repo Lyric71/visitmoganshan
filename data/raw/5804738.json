@@ -1,0 +1,91 @@
+{
+  "id": 5804738,
+  "name": "Xiaofan's Home Inn",
+  "seedName": "Xiaofan's Home Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5804738",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5804738&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5804738&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment Location:Located in a mountainous area, such as a small mountain village, with quiet environment, fresh air, and beautiful scenery. Close to attractions, and there are nearby streams for people to cool off and catch fish.(based on 4 reviews) Facilities:Rooms are distinctive, with complete facilities, public areas can meet needs, and there are facilities like table football and table tennis. Some rooms are large, with balconies, and some are 70-square-meter super large and ventilated.(based on 1 review) Hygiene:Rooms are clean, bedding is soft, and overall hygiene is very good.(based on 10 reviews) Service Quality:Boss and proprietress are enthusiastic, thoughtful and detailed in service, and actively help with things like upgrading rooms.(based on 20 reviews) Breakfast and Catering:Breakfast is rich, and the cooked meals are delicious, including local farmhouse dishes and home-cooked dishes(based on 11 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment Location",
+        "text": "Located in a mountainous area, such as a small mountain village, with quiet environment, fresh air, and beautiful scenery. Close to attractions, and there are nearby streams for people to cool off and catch fish.",
+        "count": 4
+      },
+      {
+        "topic": "Facilities",
+        "text": "Rooms are distinctive, with complete facilities, public areas can meet needs, and there are facilities like table football and table tennis. Some rooms are large, with balconies, and some are 70-square-meter super large and ventilated.",
+        "count": 1
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Rooms are clean, bedding is soft, and overall hygiene is very good.",
+        "count": 10
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Boss and proprietress are enthusiastic, thoughtful and detailed in service, and actively help with things like upgrading rooms.",
+        "count": 20
+      },
+      {
+        "topic": "Breakfast and Catering",
+        "text": "Breakfast is rich, and the cooked meals are delicious, including local farmhouse dishes and home-cooked dishes",
+        "count": 11
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Near No.304 Provincial Road (Tongjia Village), Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Outdoor swimming pool",
+    "2 Restaurants"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5804738/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1g12000bmnnat105A5.jpg"
+    },
+    {
+      "src": "/images/stays/5804738/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206w120009hbyy0g4129.webp"
+    },
+    {
+      "src": "/images/stays/5804738/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0586w12000sphy96qE43E.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "我太喜歡了！！！民宿在半山腰，環境很安靜，整個民宿的裝修也是我喜歡的那種老式風，裏面也有適合小月齡的娛樂設施，民宿的早餐賊豐富，然後晚餐可以自己點餐，點了幾個味道絕絕子！！！距離景點也都很近，民宿老闆老闆娘和爺爺也非常友好！！！是一次非常舒適的旅行嘻嘻",
+      "author": "Guest User",
+      "date": "2026-05-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5804738&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5804738&trip_sub3=D19127628"
+    },
+    {
+      "quote": "我太喜歡了！！！民宿在半山腰，環境很安靜，整個民宿的裝修也是我喜歡的那種老式風，裏面也有適合小月齡的娛樂設施，民宿的早餐賊豐富，然後晚餐可以自己點餐，點了幾個味道絕絕子！！！距離景點也都很近，民宿老闆老闆娘和爺爺也非常友好！！！是一次非常舒適的旅行嘻嘻",
+      "author": "Guest User",
+      "date": "2026-05-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5804738&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5804738&trip_sub3=D19127628"
+    },
+    {
+      "quote": "這家民宿無意間發現的，最寶藏的是老闆娘老闆啊，年輕有友善，服務很周到。清晨的山上霧氣濛濛，皮膚豆變更好了哈哈。早餐很豐富，老闆燒的飯菜都很好吃！房間很有特色、帶陽台、樓下可以玩桌上足球和乒乓。",
+      "author": "Guest User",
+      "date": "2025-10-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5804738&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5804738&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 10,
+    "count": 33,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:43:10.726Z",
+  "source": "trip"
+}

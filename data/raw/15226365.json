@@ -1,0 +1,89 @@
+{
+  "id": 15226365,
+  "name": "Moye Villa",
+  "seedName": "Moye Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-15226365",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=15226365&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-15226365&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Environment:The accommodation is situated in Moganshan, offering access to natural scenery, fresh air, and proximity to Yucun and the Moganshan scenic area.(based on 3 reviews) Cleanliness & Facilities:Rooms are consistently praised for being clean, well-maintained, and featuring large windows with good natural light. Amenities include a private courtyard, barbecue areas, a library, and a tea setup. Some units have elevators and bamboo beds.(based on 6 reviews) Service & Hospitality:Hosts are described as warm and attentive, often providing local recommendations and accommodating requests .(based on 3 reviews) Amenities for Guests:Features such as a mahjong table, books, and outdoor spaces are highlighted. The property is praised for its rustic, bookish ambiance and affordability.(based on 6 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "The accommodation is situated in Moganshan, offering access to natural scenery, fresh air, and proximity to Yucun and the Moganshan scenic area.",
+        "count": 3
+      },
+      {
+        "topic": "Facilities",
+        "text": "Rooms are consistently praised for being clean, well-maintained, and featuring large windows with good natural light. Amenities include a private courtyard, barbecue areas, a library, and a tea setup. Some units have elevators and bamboo beds.",
+        "count": 6
+      },
+      {
+        "topic": "Hospitality",
+        "text": "Hosts are described as warm and attentive, often providing local recommendations and accommodating requests .",
+        "count": 3
+      },
+      {
+        "topic": "Amenities for Guests",
+        "text": "Features such as a mahjong table, books, and outdoor spaces are highlighted. The property is praised for its rustic, bookish ambiance and affordability.",
+        "count": 6
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Laoling Village, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Bar",
+    "Restaurant",
+    "Cafe",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/15226365/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201112000clshq0jBD11.jpg"
+    },
+    {
+      "src": "/images/stays/15226365/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02032120009ppj25tBC4A.webp"
+    },
+    {
+      "src": "/images/stays/15226365/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0202u120009l23psj41DF.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The rooms are clean and tidy, the front desk staff are attentive and thoughtful, the breakfast is plentiful, and the guesthouse has an elevator that connects directly to the underground parking garage (not many guesthouses have their own elevators), making...",
+      "author": "Guest User",
+      "date": "2025-08-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=15226365&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-15226365&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Breakfast was poorly arranged; the number of people wasn't properly counted. When we went down at 8:45, we only had a small bowl of thin porridge (mostly water), a little bit of pickled vegetables, two small pieces of white bean...",
+      "author": "Guest User",
+      "date": "2025-07-25",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=15226365&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-15226365&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿坐落在莫干山半山腰，環境優美，翠竹環繞，溪水流淌，門前有大黃看家，庭院有露天泳池🏊，後院有青青綠草地，可以露營🏕️。驅車前往還有地下車庫。客廳有書櫃可以閲讀，可以打牌，可以小憩，房間寬敞明亮舒適，空調可以自己調節很方便。早餐健康美味山裡的食物原生態雞蛋米粥紅薯土豆🥔，晚餐可以去附近農家樂，柴火灶，土雞新鮮美味😋不錯的旅程。",
+      "author": "Gelunwoerdeyuanshao",
+      "date": "2024-08-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=15226365&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-15226365&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 10,
+    "count": 12,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:46:00.654Z",
+  "source": "trip"
+}

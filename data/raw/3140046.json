@@ -1,0 +1,93 @@
+{
+  "id": 3140046,
+  "name": "Qingyueli Hot-spring Resort Hotel Mogan Mountain",
+  "seedName": "Qingyueli Hot-spring Resort Hotel Mogan Mountain",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-3140046",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=3140046&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-3140046&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Accessibility:Situated near popular attractions, with convenient access to local sights and a quiet, scenic environment.(based on 1 review) Facilities:Features a clean swimming pool, a small stream, and rustic/european-style decor.(based on 1 review) Service Quality:Staff are described as friendly and accommodating, with some offering assistance with ticket bookings and personalized requests.(based on 1 review) Amenities:Includes breakfast options, though quality varies; some rooms have private amenities like swim pools.(based on 1 review) Atmosphere:Emphasized for its peaceful surroundings, fresh air, and nostalgic design elements. Guest Suggestion: Some customers suggest improving room amenities , enhancing staff service attitudes, and revising breakfast policies .(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Accessibility",
+        "text": "Situated near popular attractions, with convenient access to local sights and a quiet, scenic environment.",
+        "count": 1
+      },
+      {
+        "topic": "Facilities",
+        "text": "Features a clean swimming pool, a small stream, and rustic/european-style decor.",
+        "count": 1
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Staff are described as friendly and accommodating, with some offering assistance with ticket bookings and personalized requests.",
+        "count": 1
+      },
+      {
+        "topic": "Amenities",
+        "text": "Includes breakfast options, though quality varies; some rooms have private amenities like swim pools.",
+        "count": 1
+      },
+      {
+        "topic": "Atmosphere",
+        "text": "Emphasized for its peaceful surroundings, fresh air, and nostalgic design elements. Guest Suggestion: Some customers suggest improving room amenities , enhancing staff service attitudes, and revising breakfast policies .",
+        "count": 2
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No.1 Gexikou, Deqing, Zhejiang, 313206, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Bar",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/3140046/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205712000865krxi2CF3.jpg"
+    },
+    {
+      "src": "/images/stays/3140046/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0202l1200084yx2sdB731.webp"
+    },
+    {
+      "src": "/images/stays/3140046/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/020631200084yhrgtD392.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "周圍環境不錯，老闆人也很好，我們有小朋友老闆主動幫忙免費升級家庭房，國慶期間酒店普遍都貴，她家性價比挺高的",
+      "author": "Guest User",
+      "date": "2025-10-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=3140046&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-3140046&trip_sub3=D19127628"
+    },
+    {
+      "quote": "環境不錯，有庭院很別緻，還有山泉一樣的景觀，旁邊就是小溪流，可以帶娃玩水抓小魚小蝦，在鎮上吃喝都方便，民宿類型吧",
+      "author": "Anonymous User",
+      "date": "2025-08-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=3140046&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-3140046&trip_sub3=D19127628"
+    },
+    {
+      "quote": "很美式的裝修風格，有長廊，很適合放空。還有非常復古的壁爐，拍片也很出片。山下的寧靜，空氣真的很好，負離子超級足夠，吸氧，洗肺。",
+      "author": "Guest User",
+      "date": "2025-05-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=3140046&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-3140046&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.6,
+    "count": 7,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:42:40.407Z",
+  "source": "trip"
+}

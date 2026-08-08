@@ -1,0 +1,77 @@
+{
+  "id": 17481611,
+  "name": "Yimo Moganshan Hot Spring Parent-child Holiday Villa",
+  "seedName": "Yimo Moganshan Hot Spring Parent-child Holiday Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-17481611",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=17481611&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-17481611&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location and Environment:The property is situated in a serene, scenic area near streams, mountains, and cultural sites like Yuxuan Square. Its hillside location offers tranquility, while proximity to hiking trails and local attractions ensures convenience for explorers.(based on 17 reviews) Accessibility:Free parking is available at the entrance, and the property is reachable via self-driving. While taxis are affordable, guests are advised to request drop-offs at the front gate to avoid inconvenience due to the slight incline.(based on 17 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location and Environment",
+        "text": "The property is situated in a serene, scenic area near streams, mountains, and cultural sites like Yuxuan Square. Its hillside location offers tranquility, while proximity to hiking trails and local attractions ensures convenience for explorers.",
+        "count": 17
+      },
+      {
+        "topic": "Accessibility",
+        "text": "Free parking is available at the entrance, and the property is reachable via self-driving. While taxis are affordable, guests are advised to request drop-offs at the front gate to avoid inconvenience due to the slight incline.",
+        "count": 17
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Mogaowu, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Hot springs",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/17481611/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203y120009piao0hD3FB.jpg"
+    },
+    {
+      "src": "/images/stays/17481611/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6i12000d0pupm68449.webp"
+    },
+    {
+      "src": "/images/stays/17481611/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4012000d0ptnpn04CC.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "衞生乾淨，原本還擔心梅雨季節會不會潮，入住時還特意帶了除蟎儀，被子和床完全沒問題٩（•̤̀ᵕ•̤́๑）ᵒᵏᵎᵎᵎᵎ，房東阿姨很熱情，有求必應，考慮周到！位於庾村廣場步行10分鐘就能到！後面如果再來莫干山，一定是首選！",
+      "author": "Ailvyoudeluoluo",
+      "date": "2026-06-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=17481611&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-17481611&trip_sub3=D19127628"
+    },
+    {
+      "quote": "依山而建，環境優美。 老闆娘燒的柴火大鍋豆飯特別好吃。 門口有充電樁，有停車位。 到鎮上600米，可以慢慢走過去。 就是蚊蟲有點多，這也不可避免。",
+      "author": "difeiw",
+      "date": "2026-07-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=17481611&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-17481611&trip_sub3=D19127628"
+    },
+    {
+      "quote": "不錯的酒店。在山上，離庾村很近，走路可達。 房間夠大，有陽台，可以欣賞竹林風光。 門口就是一條小溪，溪水潺潺，可以踩水。 適合家庭出行，居住。",
+      "author": "Guest User",
+      "date": "2026-07-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=17481611&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-17481611&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 123,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:46:23.585Z",
+  "source": "trip"
+}

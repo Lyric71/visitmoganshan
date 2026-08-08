@@ -1,0 +1,64 @@
+{
+  "id": 1058240,
+  "name": "Qingtingle Farmhouse",
+  "seedName": "Qingtingle Farmhouse",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1058240",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1058240&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1058240&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Qingtingle Farmhouse?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 71, Langjia Village, Xiantan Village, Moganshan Town, Deqing, Zhejiang, 313207, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1058240/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205212000f1647zf282D.jpg"
+    },
+    {
+      "src": "/images/stays/1058240/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205y120008n4969v8A30.webp"
+    },
+    {
+      "src": "/images/stays/1058240/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0582o12000sk5metv8E0E.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "老闆娘非常熱情，前前後後送我出行都很積極。毛巾是一次性的，洗澡水也很舒服。晚上很安靜。家裡人一點也不吵鬧。早上還有親自做的葱油麪和土雞蛋。無敵。下次還訂這家。",
+      "author": "Tutuvivvi",
+      "date": "2026-05-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1058240&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1058240&trip_sub3=D19127628"
+    },
+    {
+      "quote": "公司出遊訂了8間，環境很好，位置好找，住了兩幢房子，就是住人家家裡，老闆服務很好很熱心，房間乾淨，做飯也好吃，早上起來山裡空氣特別好。性價比高，推薦！",
+      "author": "Anonymous User",
+      "date": "2023-11-16",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1058240&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1058240&trip_sub3=D19127628"
+    },
+    {
+      "quote": "老闆娘非常熱情，前前後後送我出行都很積極。毛巾是一次性的，洗澡水也很舒服。晚上很安靜。家裡人一點也不吵鬧。早上還有親自做的葱油麪和土雞蛋。無敵。下次還訂這家。",
+      "author": "Tutuvivvi",
+      "date": "2026-05-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1058240&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1058240&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 6,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:55:08.555Z",
+  "source": "trip"
+}

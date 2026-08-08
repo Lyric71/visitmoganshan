@@ -1,0 +1,96 @@
+{
+  "id": 62569333,
+  "name": "Qishanli Hotel",
+  "seedName": "Qishanli Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-62569333",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=62569333&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-62569333&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Accessibility:Proximity to attractions like the Firefly Forest , near farms, and scenic views of mountains/forests.(based on 9 reviews) Accommodation Quality:Spacious, clean rooms with modern facilities . Many rooms allow extra beds.(based on 52 reviews) Amenities:On-site swimming pools , BBQ equipment provided, and free access to farm activities .(based on 17 reviews) Catering:Complimentary breakfast with homemade dishes, farm-to-table meals , and flexible dining options.(based on 10 reviews) Service:Hosts are described as warm, helpful, and knowledgeable about local attractions. They provide travel recommendations, tickets , and childcare support.(based on 30 reviews) Value for Money:High praise for cost-effectiveness, with facilities comparable to higher-end accommodations.(based on 32 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Accessibility",
+        "text": "Proximity to attractions like the Firefly Forest , near farms, and scenic views of mountains/forests.",
+        "count": 9
+      },
+      {
+        "topic": "Accommodation Quality",
+        "text": "Spacious, clean rooms with modern facilities . Many rooms allow extra beds.",
+        "count": 52
+      },
+      {
+        "topic": "Amenities",
+        "text": "On-site swimming pools , BBQ equipment provided, and free access to farm activities .",
+        "count": 17
+      },
+      {
+        "topic": "Catering",
+        "text": "Complimentary breakfast with homemade dishes, farm-to-table meals , and flexible dining options.",
+        "count": 10
+      },
+      {
+        "topic": "Service",
+        "text": "Hosts are described as warm, helpful, and knowledgeable about local attractions. They provide travel recommendations, tickets , and childcare support.",
+        "count": 30
+      },
+      {
+        "topic": "Value for Money",
+        "text": "High praise for cost-effectiveness, with facilities comparable to higher-end accommodations.",
+        "count": 32
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 27 Shangxiazhuang, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/62569333/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200l1h000001hljpdC13B.jpg"
+    },
+    {
+      "src": "/images/stays/62569333/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20091h000001hnrhc9E80.webp"
+    },
+    {
+      "src": "/images/stays/62569333/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200j1h000001hkvfoFD12.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "酒店周邊山景很美，去裸心谷和莫干山其他景區很方便，酒店老闆很隨和客氣。房間很乾凈，空間大，有室外泳池，要是天熱過來還能玩水游泳，挺不錯的。去螢火蟲基地超級近。",
+      "author": "Ailvyoudedonk",
+      "date": "2026-07-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=62569333&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-62569333&trip_sub3=D19127628"
+    },
+    {
+      "quote": "設施：設施都很好 衞生：衞生乾淨 環境：山景房 服務：早餐豐盛，老闆有求必應，半夜還幫我們煮雞蛋，送布洛芬。",
+      "author": "Guest User",
+      "date": "2026-06-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=62569333&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-62569333&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間很寬敞明亮，是上下兩層的loft，很適合朋友一起出遊居住。房東姐姐服務態度很好，還有免費的早餐，推薦大家來住😊",
+      "author": "Guest User",
+      "date": "2026-04-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=62569333&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-62569333&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 64,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:49:59.892Z",
+  "source": "trip"
+}

@@ -1,0 +1,42 @@
+{
+  "id": 4889228,
+  "name": "Moganshan Xiaozhu Yankai Homestay",
+  "seedName": "Moganshan Xiaozhu Yankai Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-4889228",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4889228&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4889228&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Xiaozhu Yankai Homestay?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "莫干山镇仙潭村郎家村30号, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/4889228/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206k12000eep56xr12E6.jpg"
+    },
+    {
+      "src": "/images/stays/4889228/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD12120008w5cbun9D8F.webp"
+    },
+    {
+      "src": "/images/stays/4889228/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201t12000bco0x9d15C7.webp"
+    }
+  ],
+  "comments": [],
+  "rating": {
+    "score": 9.2,
+    "count": 1,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:04:38.667Z",
+  "source": "trip"
+}

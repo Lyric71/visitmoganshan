@@ -1,0 +1,82 @@
+{
+  "id": 81009108,
+  "name": "Lantau Coffee Garden Meisu (Yucun Square)",
+  "seedName": "Lantau Coffee Garden Meisu (Yucun Square)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-81009108",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=81009108&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-81009108&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness & Facilities:Rooms are consistently described as clean, spacious, and well-maintained with modern amenities . The property features a landscaped garden with fruit trees, a barbecue area, and a pet-friendly environment.(based on 35 reviews) Service:Hosts are praised for their warmth, helpfulness, and personalized recommendations . Breakfast is highlighted as homemade, varied, and included .(based on 68 reviews) Amenities:Family-friendly features and a relaxed, home-like atmosphere with rustic decor and thoughtful details . Guest Suggestion: Some customers suggest improving staff friendliness and enhancing breakfast quality for a better experience.(based on 1 review)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Facilities",
+        "text": "Rooms are consistently described as clean, spacious, and well-maintained with modern amenities . The property features a landscaped garden with fruit trees, a barbecue area, and a pet-friendly environment.",
+        "count": 35
+      },
+      {
+        "topic": "Service",
+        "text": "Hosts are praised for their warmth, helpfulness, and personalized recommendations . Breakfast is highlighted as homemade, varied, and included .",
+        "count": 68
+      },
+      {
+        "topic": "Amenities",
+        "text": "Family-friendly features and a relaxed, home-like atmosphere with rustic decor and thoughtful details . Guest Suggestion: Some customers suggest improving staff friendliness and enhancing breakfast quality for a better experience.",
+        "count": 1
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No.64 Houcun, Qiyuan Village, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/81009108/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02003120009i0kn1a52DE.jpg"
+    },
+    {
+      "src": "/images/stays/81009108/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200g120009hsfpriB0D0.webp"
+    },
+    {
+      "src": "/images/stays/81009108/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02069120009hsj6er8D9C.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "整體一般，老闆娘很好，衹是硬件差強人意，感覺因為不是暑假就沒有太投入 房間相對乾淨，衹在陽台發現有個煙頭 早餐的簡餐比較好吃，都可以再加，米粥和發糕小朋友很喜歡 咖啡和麻將桌都在地下室，但是都沒有開，大概因為沒到暑假旺季+最近梅雨季，地下室陰暗有味 本來定房間看好的室外泳池也沒體驗到，水池沒有打掃，很多落葉，水裡還有好幾衹蛤蟆 周圍環境是很好的，早上被鳥叫叫醒，隔壁的餐廳很好吃，我們連吃了兩天，走路到庾村廣場也可以接受不會太遠 店家自己還有一個充電樁，很難得，後院的停車位不適合太寬的電車，入口窄",
+      "author": "Maiamay",
+      "date": "2026-06-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=81009108&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-81009108&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿位置很好，隔壁和對面都是好吃的飯店，走到景區集散中心也近。老闆娘人特別好，很熱情，早飯也會換花樣，很不錯，很衞生。適合一家老小的旅行。",
+      "author": "Guest User",
+      "date": "2026-08-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=81009108&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-81009108&trip_sub3=D19127628"
+    },
+    {
+      "quote": "地理位置絕佳的民宿 離集散中心和庾村廣場都很近 房主阿姨親切耐心 由於我們是一早到 提前溝通了是否可以提前入住 阿姨很爽快説前一晚房間無人預訂 可隨時入住",
+      "author": "Guest User",
+      "date": "2026-05-11",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=81009108&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-81009108&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 145,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:52:06.016Z",
+  "source": "trip"
+}

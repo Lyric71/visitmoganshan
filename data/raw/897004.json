@@ -1,0 +1,57 @@
+{
+  "id": 897004,
+  "name": "Zhuyun Villa",
+  "seedName": "Zhuyun Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-897004",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=897004&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-897004&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Zhuyun Villa?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 19 Biwu Village, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/897004/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200e060000001amg34678.jpg"
+    },
+    {
+      "src": "/images/stays/897004/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20071900000179wds0190.webp"
+    },
+    {
+      "src": "/images/stays/897004/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200d060000001amfy2A9B.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "房間離碧塢龍潭真的是超級近，走過去5分鐘，早飯可以出錢讓阿姨幫準備，大鍋子裏面煮的粥真是香甜濃稠，還有鮮筍小菜，好吃好吃",
+      "author": "Yunduanmama",
+      "date": "2025-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=897004&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-897004&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間離碧塢龍潭真的是超級近，走過去5分鐘，早飯可以出錢讓阿姨幫準備，大鍋子裏面煮的粥真是香甜濃稠，還有鮮筍小菜，好吃好吃",
+      "author": "Yunduanmama",
+      "date": "2025-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=897004&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-897004&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 3,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:54:41.616Z",
+  "source": "trip"
+}

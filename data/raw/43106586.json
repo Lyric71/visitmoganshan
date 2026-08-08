@@ -1,0 +1,67 @@
+{
+  "id": 43106586,
+  "name": "Qisu Moganshan Family Holiday Villa",
+  "seedName": "Qisu Moganshan Family Holiday Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-43106586",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=43106586&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-43106586&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Qisu Moganshan Family Holiday Villa?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 20, fei jiayuan, xiantan village, moganshan town, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Water park",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/43106586/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0204b120009iyxwtu0C14.jpg"
+    },
+    {
+      "src": "/images/stays/43106586/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD20120009fh0bowE59A.webp"
+    },
+    {
+      "src": "/images/stays/43106586/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6k12000efnkmx5965C.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The hotel we stayed at during the Chinese New Year holiday was wonderfully warm and welcoming. The owner greeted us as soon as we parked our car. The shower had great water pressure and the water temperature was perfect, plus...",
+      "author": "Anonymous User",
+      "date": "2026-02-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=43106586&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-43106586&trip_sub3=D19127628"
+    },
+    {
+      "quote": "This is a very cost-effective guesthouse. The environment is nicely maintained, and I especially loved the large floor-to-ceiling windows! The Scorpio room has windows on two sides. It was quite chilly during the Spring Festival, and even with the air...",
+      "author": "Guest User",
+      "date": "2026-02-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=43106586&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-43106586&trip_sub3=D19127628"
+    },
+    {
+      "quote": "My friend and I decided on a whim to explore the surrounding area, and this guesthouse was perfect. It was nestled in the mountains with stunning scenery, surrounded by shops and a firefly campsite. The owner was incredibly kind and...",
+      "author": "Guest User",
+      "date": "2025-09-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=43106586&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-43106586&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.1,
+    "count": 41,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:48:50.711Z",
+  "source": "trip"
+}

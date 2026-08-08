@@ -1,0 +1,86 @@
+{
+  "id": 41155339,
+  "name": "Yueyi Shanju Hostel Mogan Mountain",
+  "seedName": "Yueyi Shanju Hostel Mogan Mountain",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-41155339",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=41155339&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-41155339&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment and location:The property is situated in a quiet, scenic area with access to natural landscapes . It is conveniently close to attractions like Yu Village and Yucun, with easy parking and proximity to town centers.(based on 4 reviews) Accommodation design:Rooms are cozy, well-designed, and feature large, open spaces or floor-to-ceiling windows. The spacious courtyard is ideal for children and includes greenery and flowers for photography.(based on 7 reviews) Service quality:Hosts are described as warm, attentive, and proactive in recommending local activities. Some reviews highlight personalized touches like homemade meals or assistance with transportation.(based on 11 reviews) Facilities and cleanliness:Rooms and common areas are consistently praised for being clean, well-maintained, and equipped with essential amenities. The property is described as family-friendly, with facilities suitable for parent-child activities.(based on 6 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment and location",
+        "text": "The property is situated in a quiet, scenic area with access to natural landscapes . It is conveniently close to attractions like Yu Village and Yucun, with easy parking and proximity to town centers.",
+        "count": 4
+      },
+      {
+        "topic": "Accommodation design",
+        "text": "Rooms are cozy, well-designed, and feature large, open spaces or floor-to-ceiling windows. The spacious courtyard is ideal for children and includes greenery and flowers for photography.",
+        "count": 7
+      },
+      {
+        "topic": "Service quality",
+        "text": "Hosts are described as warm, attentive, and proactive in recommending local activities. Some reviews highlight personalized touches like homemade meals or assistance with transportation.",
+        "count": 11
+      },
+      {
+        "topic": "Facilities and cleanliness",
+        "text": "Rooms and common areas are consistently praised for being clean, well-maintained, and equipped with essential amenities. The property is described as family-friendly, with facilities suitable for parent-child activities.",
+        "count": 6
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Huangshuiwu, Ganjia Village, Liaoyuan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/41155339/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4a12000cpz38oz16BE.jpg"
+    },
+    {
+      "src": "/images/stays/41155339/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206h120009dcafwqF8A5.webp"
+    },
+    {
+      "src": "/images/stays/41155339/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206d120009dcajg9BC55.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The room is cozy and you can watch the sunrise while lying on the bed. The hotel has a large yard where you can play with your children. The environment is quiet and suitable for relaxing. The owner is very...",
+      "author": "Guest User",
+      "date": "2024-05-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=41155339&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-41155339&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I stayed for three days and was generally satisfied. The air conditioning and hot water were adequate. The proprietress was very enthusiastic and would take the initiative to ask about needs and recommend places to visit. If you drive there,...",
+      "author": "Guest User",
+      "date": "2024-05-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=41155339&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-41155339&trip_sub3=D19127628"
+    },
+    {
+      "quote": "A piece of open space, a stand-alone homestay, less noisy. It is within walking distance of the tourist distribution center. It is quite convenient. The room is quite satisfactory. There is no TV in the room, it would be better...",
+      "author": "Guest User",
+      "date": "2024-03-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=41155339&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-41155339&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 7.5,
+    "count": 20,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:48:23.761Z",
+  "source": "trip"
+}

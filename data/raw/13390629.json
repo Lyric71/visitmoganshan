@@ -1,0 +1,59 @@
+{
+  "id": 13390629,
+  "name": "Qinquan Valley Qinchong Meisu (Moganshan International Tourism Resort)",
+  "seedName": "Qinquan Valley Qinchong Meisu (Moganshan International Tourism Resort)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-13390629",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=13390629&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-13390629&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Qinquan Valley Qinchong Meisu (Moganshan International Tourism Resort)?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Miaoqian Village, Fatou Township, Deqing, Zhejiang, China",
+  "priceRange": "From US$94",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/13390629/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4t12000t29xby60732.jpg"
+    },
+    {
+      "src": "/images/stays/13390629/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200114000000wiqy1F3DC.webp"
+    },
+    {
+      "src": "/images/stays/13390629/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3i12000t1etrxbE2F8.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The hotel provides hot spring, cafe,quad bikes, paintball , hiking and swimming.Staff very friendly and helpful.",
+      "author": "HeleenV",
+      "date": "2024-01-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=13390629&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-13390629&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The hotel provides hot spring, cafe,quad bikes, paintball , hiking and swimming.Staff very friendly and helpful.",
+      "author": "HeleenV",
+      "date": "2024-01-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=13390629&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-13390629&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 2,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:38:55.786Z",
+  "source": "trip"
+}

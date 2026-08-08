@@ -1,0 +1,84 @@
+{
+  "id": 11785448,
+  "name": "Moganmingtai Homestay",
+  "seedName": "Moganmingtai Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-11785448",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=11785448&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-11785448&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:The environment is very good, quiet, with small streams and bamboo forests, and it is very suitable for relaxation. It is close to tourist attractions such as Yuansheng Temple and Xiangshuiling Leisure Trail.(based on 2 reviews) Location:It is very convenient to go to scenic spots. It is on the mountain, suitable for friends who travel by car.(based on 2 reviews) Service:The service is very warm and thoughtful, and they help with umbrellas and luggage in rainy days(based on 5 reviews) Guest Suggestion:Some customers suggest improving breakfast quality (e.g., cold fried dough sticks) and clarifying breakfast inclusions in room rates to enhance guest experience.(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "The environment is very good, quiet, with small streams and bamboo forests, and it is very suitable for relaxation. It is close to tourist attractions such as Yuansheng Temple and Xiangshuiling Leisure Trail.",
+        "count": 2
+      },
+      {
+        "topic": "Location",
+        "text": "It is very convenient to go to scenic spots. It is on the mountain, suitable for friends who travel by car.",
+        "count": 2
+      },
+      {
+        "topic": "Service",
+        "text": "The service is very warm and thoughtful, and they help with umbrellas and luggage in rainy days",
+        "count": 5
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving breakfast quality (e.g., cold fried dough sticks) and clarifying breakfast inclusions in room rates to enhance guest experience.",
+      "count": 2
+    }
+  },
+  "address": "No. 65, Yu Village, Fatou Township, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$51",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/11785448/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205g12000dqt1i8k36FC.jpg"
+    },
+    {
+      "src": "/images/stays/11785448/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201u12000dqtjn0bAD59.webp"
+    },
+    {
+      "src": "/images/stays/11785448/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD5h120009f9goikA951.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "I booked a twin room on Ctrip. When I arrived at the B&B, I was taken to a double room. Then I asked him if this was the room I had booked. You brought me the wrong room, but he...",
+      "author": "Guest User",
+      "date": "2023-10-09",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=11785448&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-11785448&trip_sub3=D19127628"
+    },
+    {
+      "quote": "500多一晚的水準還是很差的，洗澡洗一半吹風頂掉了；被套雖然套着，但是被子裏明顯有個大黑斑，被套上一股子消毒液的腥位，然後上二樓的樓梯間全是黴味。。。, 第一次去莫干山非要住民宿要麼住庾村要麼直接住在山頂上，住在半山腰的民宿實在沒有必要。。。不然換乘還是要開車去山腳的庾村，不然就得找當地山上居民（拉車師傅）拉上去，單單從民宿拉到門票口，20分鐘不到的路程，來回費用就是150。。。真的要去，還是買庾村的大巴吧35一個人，真的沒必要被坑這個錢。。。體驗感真的很差了。他們的統一話術都是你坐大巴要等，這個車不用等，但是實地來看景區大巴很多很多，幾乎你到一個點就有大巴在那裡了，幾乎不需要等待。反正就是這個錢實在花的不值",
+      "author": "Guest User",
+      "date": "2026-05-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=11785448&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-11785448&trip_sub3=D19127628"
+    },
+    {
+      "quote": "是暑假和男朋友一起去玩漂流住的民宿，整體風格是滿滿的禪意氣息，而且住在山旁，很接近大自然 不錯哦",
+      "author": "Guest User",
+      "date": "2025-11-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=11785448&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-11785448&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 21,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:45:37.157Z",
+  "source": "trip"
+}

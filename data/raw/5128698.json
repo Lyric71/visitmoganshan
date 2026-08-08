@@ -1,0 +1,51 @@
+{
+  "id": 5128698,
+  "name": "Moganshan Luoshenghuo Chinese Inn",
+  "seedName": "Moganshan Luoshenghuo Chinese Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5128698",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5128698&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5128698&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Luoshenghuo Chinese Inn?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No.26 Yadanwu, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5128698/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200a0a0000005597b1305.jpg"
+    },
+    {
+      "src": "/images/stays/5128698/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200e0a0000005585a702C.webp"
+    },
+    {
+      "src": "/images/stays/5128698/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20030a000000558da30E3.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "環境差是指噪音大 就這個價位來説房間還可以 但有個致命的缺點 店家養了衹狗 養在對面的山上 一直叫 房門關着也像在耳邊叫 店家一家可能天天聽習慣了也不制止 但是作為出來旅遊散心的我來説 房間外有衹狗一直叫我可真受不了 這次民宿住得可真是花錢買罪受 所以住了幾個小時沒到晚上就提前走了 狗不懂事不怪狗 人好歹制止一下吧 狗一天到晚被拴在山上活動範圍沒有一米遠 真也挺可憐的 這樣養狗在我看來就是虐待狗 不愛狗可以不養的 養了就別這樣虐待",
+      "author": "Anonymous User",
+      "date": "2026-05-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5128698&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5128698&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 4.4,
+    "count": 1,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:04:42.917Z",
+  "source": "trip"
+}

@@ -1,0 +1,64 @@
+{
+  "id": 6086027,
+  "name": "Shandao Wanwan Boutique Hostel",
+  "seedName": "Shandao Wanwan Boutique Hostel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-6086027",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6086027&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6086027&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Shandao Wanwan Boutique Hostel?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 42, Qiaoshang, Dazaowu Village, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$64",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/6086027/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200h0f0000007lwnjB128.jpg"
+    },
+    {
+      "src": "/images/stays/6086027/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200h0i0000009nkrc7E2D.webp"
+    },
+    {
+      "src": "/images/stays/6086027/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200h0p000000fk4dc3372.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "It was a little strange getting phone calls before our arrival that they let us stay because they didn't speak English, which is never a problem in any place I've stayed in China so that was a bit of a...",
+      "author": "Guest User",
+      "date": "2023-08-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6086027&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6086027&trip_sub3=D19127628"
+    },
+    {
+      "quote": "設施：因為民宿2016年開的，比較古老，營造的是原生木質感覺，房間客廳用的都齊全木頭做的，住的很安心。還升級了房型，開心😊 衞生：總體還行，房間燈光有點昏暗，衞生間不太習慣是浴缸進入才能洗澡的 環境：很質樸，這個價格。臨時訂的去莫干山，因為我們去奇夢島玩，這個民宿算是比較近的，性價比很高 服務：叔叔阿姨很樸實，做的飯菜好吃，我們第一天回去很晚了，還擔心我們沒飯吃",
+      "author": "Aiwandehaimian",
+      "date": "2025-08-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6086027&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6086027&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房東一家超級熱情，房間很乾凈，和朋友一起出來放鬆心情，真的很安靜，環境很好；飯菜也好吃，值得推薦",
+      "author": "Guest User",
+      "date": "2025-09-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6086027&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6086027&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 4,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:37:15.500Z",
+  "source": "trip"
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1810333,
+  "name": "Moganshan Ziranhuanxi Hot Spring Homestay",
+  "seedName": "Moganshan Ziranhuanxi Hot Spring Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1810333",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1810333&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1810333&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Ziranhuanxi Hot Spring Homestay?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Near Zilin Tunnel (No. 50 Yadanwu), Deqing, Zhejiang, 313202, China",
+  "priceRange": "From US$176",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Hot springs",
+    "Bar",
+    "Restaurant",
+    "Conference room",
+    "Playground",
+    "Kids' club"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1810333/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201k1200095a0xca0359.jpg"
+    },
+    {
+      "src": "/images/stays/1810333/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3g12000bt8t4ssEDFA.webp"
+    },
+    {
+      "src": "/images/stays/1810333/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3l12000cyi9kyy848F.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The room has a rustic and warm atmosphere. The customer service housekeeper is very gentle and the service is attentive and attentive. The room has been upgraded to a tatami room, which is very suitable for sunbathing and reading in...",
+      "author": "Guest User",
+      "date": "2023-10-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1810333&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1810333&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The house is decorated in Chinese style and is very comfortable to live in. The housekeeper is very nice. He came to greet me when I checked in and introduced delicious and fun places in the surrounding area. Highly recommend...",
+      "author": "Guest User",
+      "date": "2023-08-31",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1810333&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1810333&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room was great, clean and tidy. The decoration style of the room is very good. It is very comfortable and warm to stay, just like at home. This stay is the most comfortable I have ever stayed. The most...",
+      "author": "fFMM0123456",
+      "date": "2023-08-31",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1810333&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1810333&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 7.6,
+    "count": 44,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:41:31.612Z",
+  "source": "trip"
+}

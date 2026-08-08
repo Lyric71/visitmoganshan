@@ -1,0 +1,81 @@
+{
+  "id": 5489868,
+  "name": "Mogan Mountain Lianfeng Inn",
+  "seedName": "Mogan Mountain Lianfeng Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5489868",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5489868&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5489868&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Facilities & Cleanliness:Rooms are described as clean, comfortable, and well-maintained, featuring amenities like balconies, functional facilities, and a peaceful setting. The property maintains high hygiene standards, with regular cleaning and attention to detail.(based on 10 reviews) Dining Experience:Meals, including breakfast and homemade dishes, are highlighted for their quality and taste. Locally grown ingredients and traditional cooking methods contribute to a memorable culinary experience.(based on 4 reviews) Additional Features:The presence of a friendly, well-behaved dog named 'Xiao Bai' adds to the charm, while the property’s affordability and value-for-money proposition are frequently noted by guests.(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms are described as clean, comfortable, and well-maintained, featuring amenities like balconies, functional facilities, and a peaceful setting. The property maintains high hygiene standards, with regular cleaning and attention to detail.",
+        "count": 10
+      },
+      {
+        "topic": "Dining Experience",
+        "text": "Meals, including breakfast and homemade dishes, are highlighted for their quality and taste. Locally grown ingredients and traditional cooking methods contribute to a memorable culinary experience.",
+        "count": 4
+      },
+      {
+        "topic": "Additional Features",
+        "text": "The presence of a friendly, well-behaved dog named 'Xiao Bai' adds to the charm, while the property’s affordability and value-for-money proposition are frequently noted by guests.",
+        "count": 2
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 25, Biwu Panjiayuan, Xiantan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5489868/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206i120008ku4zrwF38B.jpg"
+    },
+    {
+      "src": "/images/stays/5489868/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200d070000002rzof128B.webp"
+    },
+    {
+      "src": "/images/stays/5489868/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0220q12000ag4v5nn78BC.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "我們到店比較晚，老闆給我們免費升級了一下房型，有個小陽台，很和氣，把自己車挪開給我們停車，早上還有麪條可以吃，就是民宿可能都隔音不太好，大半夜有人回來還是會被吵到。再往下游去一點到村委會那塊，還能撈小蝦。",
+      "author": "Guest User",
+      "date": "2025-07-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5489868&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5489868&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間乾淨，沒有黴味，陽台上還有一個網紅鞦韆，孩子特別喜歡，老闆父母做飯好吃，早餐吃得很舒服，尤其是炒筍很嫩，推薦入住",
+      "author": "Guest User",
+      "date": "2025-08-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5489868&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5489868&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間很好.要特別誇一誇阿姨.燒飯好吃也對人很好.是這些年住過最好的民宿.走的時候還給我們拿好多好多自家種的菜.有機會會再去的.",
+      "author": "Guest User",
+      "date": "2025-07-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5489868&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5489868&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 22,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:06:26.019Z",
+  "source": "trip"
+}

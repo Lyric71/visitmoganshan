@@ -1,0 +1,92 @@
+{
+  "id": 46150647,
+  "name": "Moganshan Mu Xi Stone Color Homestay",
+  "seedName": "Moganshan Mu Xi Stone Color Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-46150647",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=46150647&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-46150647&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment and Location:The homestay is located in a peaceful village with convenient access, close to scenic spots such as Moganshan and Yucun core area, and offers a quiet environment. It is just a short drive to Moganshan Town and near scenic spots.(based on 4 reviews) Service Quality:Hosts and their family are enthusiastic and considerate, actively recommending travel routes and restaurants, and preparing air conditioners in advance and helping with luggage.(based on 9 reviews) Facilities:Facilities are complete, with entertainment facilities like mahjong tables, billiard tables and game machines, and there is a swimming pool. Some rooms have balconies.(based on 5 reviews) Hygiene:Rooms are tidy and clean, and the overall environment is hygienic.(based on 7 reviews) Breakfast:Breakfast is rich, with homemade side dishes and other delicious food(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment and Location",
+        "text": "The homestay is located in a peaceful village with convenient access, close to scenic spots such as Moganshan and Yucun core area, and offers a quiet environment. It is just a short drive to Moganshan Town and near scenic spots.",
+        "count": 4
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Hosts and their family are enthusiastic and considerate, actively recommending travel routes and restaurants, and preparing air conditioners in advance and helping with luggage.",
+        "count": 9
+      },
+      {
+        "topic": "Facilities",
+        "text": "Facilities are complete, with entertainment facilities like mahjong tables, billiard tables and game machines, and there is a swimming pool. Some rooms have balconies.",
+        "count": 5
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Rooms are tidy and clean, and the overall environment is hygienic.",
+        "count": 7
+      },
+      {
+        "topic": "Breakfast",
+        "text": "Breakfast is rich, with homemade side dishes and other delicious food",
+        "count": 3
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 32 Shijiaoling, Group 7, Gaofeng Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$129",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Bar",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/46150647/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200u120008faimpkAB1E.jpg"
+    },
+    {
+      "src": "/images/stays/46150647/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203n120008fab6woAB4E.webp"
+    },
+    {
+      "src": "/images/stays/46150647/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201p120008fae8obF268.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "全家十幾個人完全夠住，離景區也很近，晚上全家聚一起麻將打牌ktv街機，玩的開心，周圍環境很安靜，老闆熱情周到，帶了長者，老闆給推薦了遊玩路線推薦了餐廳，全家住的滿意吃的滿意",
+      "author": "Guest User",
+      "date": "2026-02-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=46150647&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-46150647&trip_sub3=D19127628"
+    },
+    {
+      "quote": "omg！第一次住民宿就有很好的體驗！因為我們在遊樂園玩到很晚 然後又去吃了晚飯 晚上九點多十點才去酒店入住！爺爺奶奶一直在等我們！好感動！還給我們提前開好了房間空調！環境衞生都沒話説 有種回家的感覺 而且晚上睡覺很安靜～第二天的早飯也很豐盛！炒的鹹菜真的超好吃！！！可惜沒吃到自己種的玉米（我最愛吃玉米了好可惜～",
+      "author": "Woaixiangcaii",
+      "date": "2025-10-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=46150647&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-46150647&trip_sub3=D19127628"
+    },
+    {
+      "quote": "老闆一家人都很和善，很熱心，幫了很多忙 民宿在村裡很安靜，適合發呆喝茶 早餐也很豐盛，房間很乾凈舒適",
+      "author": "Jiankang66",
+      "date": "2025-10-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=46150647&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-46150647&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 10,
+    "count": 51,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:49:16.345Z",
+  "source": "trip"
+}

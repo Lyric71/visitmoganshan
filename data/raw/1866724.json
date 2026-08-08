@@ -1,0 +1,50 @@
+{
+  "id": 1866724,
+  "name": "Deqing Lvzhu Hongfang Accommodation",
+  "seedName": "Deqing Lvzhu Hongfang Accommodation",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1866724",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1866724&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1866724&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Deqing Lvzhu Hongfang Accommodation?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "四合村塘坑老鼠山, 313200 Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1866724/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0j12000bnbgay3D5A9.jpg"
+    },
+    {
+      "src": "/images/stays/1866724/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200w1a00000191e4qF5BE.webp"
+    },
+    {
+      "src": "/images/stays/1866724/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0224n12000cm4ezm953C1.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "一家不錯的房子，6個房間都很整潔，尤其是泳池小孩子們玩的很開心，值得推薦！",
+      "author": "Guest User",
+      "date": "2023-08-16",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1866724&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1866724&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 1,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:58:26.211Z",
+  "source": "trip"
+}

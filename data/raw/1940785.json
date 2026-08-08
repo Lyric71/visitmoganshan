@@ -1,0 +1,71 @@
+{
+  "id": 1940785,
+  "name": "yang mo shan zhuang",
+  "seedName": "yang mo shan zhuang",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1940785",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1940785&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1940785&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness and Maintenance:Guests frequently highlight the cleanliness of rooms and shared spaces, with particular mention of the pool's hygiene and the absence of clutter or maintenance issues. The overall upkeep of the property ensures a pleasant stay.(based on 1 review) Culinary Experience:Meals prepared by the hosts are consistently described as flavorful and diverse, with fresh, locally sourced ingredients. Breakfast options are varied, and special dietary needs are accommodated, ensuring satisfaction across different tastes.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness and Maintenance",
+        "text": "Guests frequently highlight the cleanliness of rooms and shared spaces, with particular mention of the pool's hygiene and the absence of clutter or maintenance issues. The overall upkeep of the property ensures a pleasant stay.",
+        "count": 1
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No.19 Langjia Village, Deqing, Zhejiang, 313000, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1940785/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02056120008yyhwb57729.jpg"
+    },
+    {
+      "src": "/images/stays/1940785/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02056120008yyhwb57729.webp"
+    },
+    {
+      "src": "/images/stays/1940785/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1re6m12000b87h4ih2D60.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "民宿老闆熱情，房間乾淨，院子裏還有個泳池，挺棒的，下次還來。",
+      "author": "Anonymous User",
+      "date": "2023-09-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1940785&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1940785&trip_sub3=D19127628"
+    },
+    {
+      "quote": "很不錯的住宿體驗，整體乾淨整潔，3樓的淋浴水稍微小了點。包餐也比較實惠～最愛小土豆，泳池是循環水很棒了～ 就是進門的小路實在太小了&hellip;考驗車技",
+      "author": "Guest User",
+      "date": "2026-08-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1940785&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1940785&trip_sub3=D19127628"
+    },
+    {
+      "quote": "包的整棟別墅，一羣朋友們住，有獨立游泳池，小朋友基本上都泡在水裡，大人有麻將機，各自休閑度假。周邊有溯溪的地方，遠眺應該是莫干山山脈，確實很不錯，計劃春天以後可以採茶挖筍。房間空間較大，都是獨立的衞生間。老闆娘一家門很熱情，燒烤的時候幫忙點碳，準備餐具類的，早餐也很豐盛，農家綠色食物",
+      "author": "Guest User",
+      "date": "2025-08-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1940785&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1940785&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 17,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:58:28.727Z",
+  "source": "trip"
+}

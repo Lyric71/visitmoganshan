@@ -1,0 +1,48 @@
+{
+  "id": 1996887,
+  "name": "Wumingju Hotel",
+  "seedName": "Wumingju Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1996887",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1996887&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1996887&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Wumingju Hotel?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Entrance of Biwu Longtan Scenic Area, Deqing, Zhejiang, 313200, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/1996887/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200f070000002beg26C2C.jpg"
+    },
+    {
+      "src": "/images/stays/1996887/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1re6m12000b87h4ih2D60.webp"
+    },
+    {
+      "src": "/images/stays/1996887/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200f070000002beg26C2C.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "位置不錯，帶院子，房東母女熱情，真誠，要求不高的話，是可靠的居住地",
+      "author": "marcchou",
+      "date": "2025-05-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1996887&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1996887&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 5.9,
+    "count": 1,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:59:41.900Z",
+  "source": "trip"
+}

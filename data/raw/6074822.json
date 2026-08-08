@@ -1,0 +1,64 @@
+{
+  "id": 6074822,
+  "name": "Mogan Tea Garden Family Holiday Gresthouse",
+  "seedName": "Mogan Tea Garden Family Holiday Gresthouse",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-6074822",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6074822&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6074822&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Mogan Tea Garden Family Holiday Gresthouse?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Yaowu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/6074822/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2009080000003gv1s3120.jpg"
+    },
+    {
+      "src": "/images/stays/6074822/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205v120008mey5024986.webp"
+    },
+    {
+      "src": "/images/stays/6074822/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02034120008a2tqmc2DD2.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "房間還行，服務很好，我老公急性腸胃炎，幸虧老闆娘幫我弄到葯，我老公睡一覺好了😁 真是萬分感謝。還早上看到了請財神，我們一家人玩的很開心",
+      "author": "Fionaxilian",
+      "date": "2024-02-14",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6074822&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6074822&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間很大很好，帶狗狗也方便，孩子長者都覺得不錯，他家菜也燒的好吃，服務又好，因為五一節假日景點門票都買不到，全靠老闆解決難題，真的很感激，下次有機會還來。",
+      "author": "Guest User",
+      "date": "2024-05-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6074822&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6074822&trip_sub3=D19127628"
+    },
+    {
+      "quote": "酒店很好，整個入住過程愉快的且放心，房間的佈局很是簡約，適合親子入住，各類設施很齊，房東姐姐也很nice，滿意的一次入住體驗，推薦！！！",
+      "author": "Guest User",
+      "date": "2023-10-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6074822&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6074822&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.1,
+    "count": 16,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:43:38.910Z",
+  "source": "trip"
+}

@@ -1,0 +1,84 @@
+{
+  "id": 76433671,
+  "name": "Liangchen Meijing Weimei Villa",
+  "seedName": "Liangchen Meijing Weimei Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-76433671",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=76433671&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-76433671&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness and Maintenance:Rooms are consistently highlighted as clean, tidy, and well-maintained, with comfortable bedding and fresh linens. The overall hygiene standards are praised, including spotless bathrooms, clean swimming pools, and well-kept common areas.(based on 1 review) Activities and Experiences:Guests enjoy outdoor activities such as bamboo shoot digging, hiking, tea-picking, and bonfire gatherings. The property organizes special events like birthday meals, and the natural environment offers opportunities for relaxation and exploration. Dining Options:Breakfast is consistently praised for its variety and quality, featuring local specialties like preserved vegetable eel and mountain soup. The on-site cooking by the host, who is a skilled chef, adds a unique culinary experience.(based on 3 reviews) Design and Aesthetics:The property is noted for its stylish, well-thought-out decor, with thematic rooms, a serene ambiance enhanced by the scent of osmanthus, and inviting outdoor spaces such as terraces and barbecue setups.(based on 7 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness and Maintenance",
+        "text": "Rooms are consistently highlighted as clean, tidy, and well-maintained, with comfortable bedding and fresh linens. The overall hygiene standards are praised, including spotless bathrooms, clean swimming pools, and well-kept common areas.",
+        "count": 1
+      },
+      {
+        "topic": "Activities and Experiences",
+        "text": "Guests enjoy outdoor activities such as bamboo shoot digging, hiking, tea-picking, and bonfire gatherings. The property organizes special events like birthday meals, and the natural environment offers opportunities for relaxation and exploration. Dining Options:Breakfast is consistently praised for its variety and quality, featuring local specialties like preserved vegetable eel and mountain soup. The on-site cooking by the host, who is a skilled chef, adds a unique culinary experience.",
+        "count": 3
+      },
+      {
+        "topic": "Design and Aesthetics",
+        "text": "The property is noted for its stylish, well-thought-out decor, with thematic rooms, a serene ambiance enhanced by the scent of osmanthus, and inviting outdoor spaces such as terraces and barbecue setups.",
+        "count": 7
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No.47 Langjia Village, Xiantan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/76433671/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4c12000m475nuj18A4.jpg"
+    },
+    {
+      "src": "/images/stays/76433671/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203z12000a3wof5rCDAF.webp"
+    },
+    {
+      "src": "/images/stays/76433671/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4e12000sg15cx0C94B.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "三樓整層，正好三家人家三個房間，房間裏有棋牌桌，浴缸，房間很大，老闆和老闆娘熱情好客，開的飯店菜品新鮮又好吃，雖然遇到了帶風，但玩的依舊很開心，下次有機會再去！",
+      "author": "Anonymous User",
+      "date": "2026-07-13",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=76433671&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-76433671&trip_sub3=D19127628"
+    },
+    {
+      "quote": "二刷的寶藏民宿！ 良晨梅景名副其實，清晨被鳥鳴和山景喚醒。位置好，離景區近又安靜 。房間寬敞明亮，衞生一流 。老闆娘人超好，服務周到，早餐豐富可口，開的飯店味道很不錯 值得二刷 。公區設施齊全。性價比超高，夥伴們度假超滿意！",
+      "author": "Guest User",
+      "date": "2026-04-13",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=76433671&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-76433671&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間很乾凈，頂層晚上睡覺的時候挺安靜的，早上大平台可以看到日出還可以在上面曬太陽，真的很不錯，早餐的南瓜小饅頭也超好吃！！！",
+      "author": "Guest User",
+      "date": "2026-05-31",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=76433671&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-76433671&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 15,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:51:32.780Z",
+  "source": "trip"
+}

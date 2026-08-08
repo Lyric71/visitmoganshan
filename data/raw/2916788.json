@@ -1,0 +1,78 @@
+{
+  "id": 2916788,
+  "name": "Ji'an Hostel",
+  "seedName": "Ji'an Hostel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2916788",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2916788&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2916788&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness and Facilities:Rooms are consistently described as \"clean,\" \"tidy,\" and \"sanitary,\" with wooden structures noted for warmth and aesthetic appeal. Many mention large beds, balconies for relaxation, and access to natural surroundings.(based on 10 reviews) Hospitality:The host is repeatedly praised for being \"friendly,\" \"attentive,\" and helpful with travel advice, breakfast, and accommodations .(based on 2 reviews) Value for Money:Considered budget-friendly compared to neighboring accommodations .(based on 3 reviews) Ambiance and Experience:Natural settings with bird sounds and opportunities for outdoor activities like foraging.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness and Facilities",
+        "text": "Rooms are consistently described as \"clean,\" \"tidy,\" and \"sanitary,\" with wooden structures noted for warmth and aesthetic appeal. Many mention large beds, balconies for relaxation, and access to natural surroundings.",
+        "count": 10
+      },
+      {
+        "topic": "Hospitality",
+        "text": "The host is repeatedly praised for being \"friendly,\" \"attentive,\" and helpful with travel advice, breakfast, and accommodations .",
+        "count": 2
+      },
+      {
+        "topic": "Value for Money",
+        "text": "Considered budget-friendly compared to neighboring accommodations .",
+        "count": 3
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 27 Group 3, Lingkengli, Laoling Village, Moganshan Town, Deqing, Zhejiang, 313200, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/2916788/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200v0j000000aubfl4487.jpg"
+    },
+    {
+      "src": "/images/stays/2916788/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/fd/hotel/g3/M0A/D8/E1/CggYG1amgWeAeBPYAAMrZLqTZmM890.webp"
+    },
+    {
+      "src": "/images/stays/2916788/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200v0j000000aubfp17CC.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "房間古樸風，都是木質的，大陽台風景特別美，晚上可以看星星。睡眠不好的不建議睡木質房，如果碰到有小孩子上下樓梯會特別吵。老闆娘特別温柔，還有奶奶，每天早上做好早餐，溝通很親切。總體是可以讓人放鬆身心的地方！😃附上三張莫干山的圖！",
+      "author": "Anonymous User",
+      "date": "2025-10-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2916788&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2916788&trip_sub3=D19127628"
+    },
+    {
+      "quote": "老闆娘十分親切，給我們提供了很多的旅遊攻略￼，房間整潔乾淨，床十分舒服，屋頂是木頭的睡覺時能聽見鳥兒的叫聲￼ ￼ ￼￼",
+      "author": "Guest User",
+      "date": "2025-05-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2916788&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2916788&trip_sub3=D19127628"
+    },
+    {
+      "quote": "老闆娘人很熱情，服務好，乾淨整潔，性價比很高。兩張大床，適合家庭出遊。 位置在庾村附近，到庾村換乘中心挺方便的。木屋，隔音效果略差。其他都可以。",
+      "author": "Anonymous User",
+      "date": "2025-04-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2916788&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2916788&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 15,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:02:19.716Z",
+  "source": "trip"
+}

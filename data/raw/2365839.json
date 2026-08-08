@@ -1,0 +1,81 @@
+{
+  "id": 2365839,
+  "name": "Jianlu Villa",
+  "seedName": "Jianlu Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2365839",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2365839&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2365839&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment and Location:Located in the scenic area, close to attractions like Jianchi and Luhuadang Park, with a superior location. The villa is very close to Jianchi, and the hotel is inside the scenic area, making it convenient for playing and walking.(based on 13 reviews) Facilities:Rooms are well-maintained and well-lit, equipped with modern toilets, and have balconies or terraces. For example, 'The room is well-maintained and well-lit, with a modern toilet. There are chairs and a table on the balcony.'(based on 23 reviews) Service:Service is attentive and considerate, with staff demonstrating a high level of service awareness. The hospitality was excellent, and the staff were friendly and accommodating.(based on 25 reviews) Price:Affordable prices and good value for money. As mentioned, 'This hotel offers great value' and 'Good value with favorable price'.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment and Location",
+        "text": "Located in the scenic area, close to attractions like Jianchi and Luhuadang Park, with a superior location. The villa is very close to Jianchi, and the hotel is inside the scenic area, making it convenient for playing and walking.",
+        "count": 13
+      },
+      {
+        "topic": "Facilities",
+        "text": "Rooms are well-maintained and well-lit, equipped with modern toilets, and have balconies or terraces. For example, 'The room is well-maintained and well-lit, with a modern toilet. There are chairs and a table on the balcony.'",
+        "count": 23
+      },
+      {
+        "topic": "Service",
+        "text": "Service is attentive and considerate, with staff demonstrating a high level of service awareness. The hospitality was excellent, and the staff were friendly and accommodating.",
+        "count": 25
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 71, Moganshan Scenic Area, Wukang Town, Deqing, Zhejiang, 313200, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Bar",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/2365839/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5112000so8omdv80F1.jpg"
+    },
+    {
+      "src": "/images/stays/2365839/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3h12000shf9pgt26D7.webp"
+    },
+    {
+      "src": "/images/stays/2365839/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6o12000shf4i9bF68E.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "We brought our kids to Moganshan for a vacation, and choosing Hidden Bamboo was definitely a good decision. The surrounding bamboo forest offers an expansive environment with fresh air. The homestay is quiet and safe, the rooms are clean and...",
+      "author": "sdgjk",
+      "date": "2026-07-31",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2365839&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2365839&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room is clean and bright, with a smart toilet. There are chairs and a table on the balcony, perfect for drinking tea and chatting. It was snowing when I left, and I could see the snow scenery on the...",
+      "author": "Guest User",
+      "date": "2025-03-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2365839&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2365839&trip_sub3=D19127628"
+    },
+    {
+      "quote": "It's OK to bring children, the room environment is good, the room is clean and sanitary, you can see the mountain from the balcony, the view is very good, the price is affordable, I recommend everyone to consider this hotel!",
+      "author": "Guest User",
+      "date": "2025-03-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2365839&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2365839&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.3,
+    "count": 53,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:01:20.817Z",
+  "source": "trip"
+}

@@ -1,0 +1,94 @@
+{
+  "id": 2883345,
+  "name": "Moganshan Qishan Nanyuan Holiday House",
+  "seedName": "Moganshan Qishan Nanyuan Holiday House",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2883345",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2883345&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2883345&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Environment:Situated near Moran Mountain scenic area, surrounded by greenery and bamboo forests, with free parking and easy access to local attractions.(based on 1 review) Cleanliness & Facilities:Rooms are clean and well-maintained, featuring natural wood decor, mountain spring water, and amenities like a rooftop terrace, billiards, and karaoke.(based on 11 reviews) Service & Hospitality:Hosts are described as warm and attentive, offering homemade breakfast and personalized assistance .(based on 8 reviews) Family-Friendly Features:Includes play areas for children, outdoor seating, and a tranquil atmosphere for relaxation.(based on 2 reviews) Natural Experience:Emphasized fresh mountain air, scenic views of distant mountains, and opportunities for nature immersion.(based on 1 review) Guest Suggestion:Some customers suggest downstairs billiard noise loud, not stopped/reminded, floor insulation poor, causing night noise from upstairs disturbing sleep(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Situated near Moran Mountain scenic area, surrounded by greenery and bamboo forests, with free parking and easy access to local attractions.",
+        "count": 1
+      },
+      {
+        "topic": "Facilities",
+        "text": "Rooms are clean and well-maintained, featuring natural wood decor, mountain spring water, and amenities like a rooftop terrace, billiards, and karaoke.",
+        "count": 11
+      },
+      {
+        "topic": "Hospitality",
+        "text": "Hosts are described as warm and attentive, offering homemade breakfast and personalized assistance .",
+        "count": 8
+      },
+      {
+        "topic": "Family-Friendly Features",
+        "text": "Includes play areas for children, outdoor seating, and a tranquil atmosphere for relaxation.",
+        "count": 2
+      },
+      {
+        "topic": "Natural Experience",
+        "text": "Emphasized fresh mountain air, scenic views of distant mountains, and opportunities for nature immersion.",
+        "count": 1
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest downstairs billiard noise loud, not stopped/reminded, floor insulation poor, causing night noise from upstairs disturbing sleep",
+      "count": 2
+    }
+  },
+  "address": "Houwu Village (Xiwuli), Deqing, Zhejiang, 313200, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Cardroom"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/2883345/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0z12000bdt5mgd8D15.jpg"
+    },
+    {
+      "src": "/images/stays/2883345/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6012000b84lxvu482A.webp"
+    },
+    {
+      "src": "/images/stays/2883345/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3112000b84pe7j5C65.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "很多在介紹裏的東西沒有，孩子玩的充氣水池。 房間有點黴味，自來水很臟。 早餐的 筷子也發黴了。服務就靠兩個長者。",
+      "author": "Guest User",
+      "date": "2025-07-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2883345&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2883345&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間設施尚可，一次性拖鞋需要跟老闆要，門口可以停車，早飯是油條小饅頭稀飯雞蛋和鹹菜等小菜，吃的也還舒服",
+      "author": "Guest User",
+      "date": "2025-10-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2883345&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2883345&trip_sub3=D19127628"
+    },
+    {
+      "quote": "睡覺時間點，樓下公共區域桌球聲音很大，不加以制止與提醒。樓板隔音很差，樓上前半夜一直在吵，睡不好。體驗極差，基本不差評，但是還是要寫下自己的入住感受，以供參考。",
+      "author": "Guest User",
+      "date": "2025-04-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2883345&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2883345&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9,
+    "count": 38,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:01:56.142Z",
+  "source": "trip"
+}

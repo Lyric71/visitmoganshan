@@ -1,0 +1,75 @@
+{
+  "id": 8698626,
+  "name": "Scarecrow lnn",
+  "seedName": "Scarecrow lnn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-8698626",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8698626&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8698626&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Breakfast and Culinary Services:The breakfast is highly praised for its richness and quality, featuring organic vegetables grown on-site. The host's cooking skills are notable, offering unique local dishes that impress guests.(based on 2 reviews) Host's Service and Hospitality:The host is repeatedly highlighted for their warmth and attentiveness, providing personalized recommendations for local attractions and showing care for guests' well-being, such as offering medication when needed.(based on 4 reviews) Natural Scenery and Activities:The surrounding natural beauty, including the farm, fireflies, and the stream, adds to the recreational value. Guests can engage in activities that create memorable experiences for families.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Breakfast and Culinary Services",
+        "text": "The breakfast is highly praised for its richness and quality, featuring organic vegetables grown on-site. The host's cooking skills are notable, offering unique local dishes that impress guests.",
+        "count": 2
+      },
+      {
+        "topic": "Host's Service and Hospitality",
+        "text": "The host is repeatedly highlighted for their warmth and attentiveness, providing personalized recommendations for local attractions and showing care for guests' well-being, such as offering medication when needed.",
+        "count": 4
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 25, Fatao Fishing Village, Moganshan, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$63",
+  "facilities": [
+    "Cafe"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/8698626/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02036120005xt602h6D74.jpg"
+    },
+    {
+      "src": "/images/stays/8698626/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200m0i0000009g2qtD1A0.webp"
+    },
+    {
+      "src": "/images/stays/8698626/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200j0k000000b5coeD054.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "房間很乾凈很寬敞，門口有小院子能停車，房子前面有院子可以玩，泳池也很不錯，我們還玩了水，訂了老闆家的一桌菜，很好吃。總之非常滿意的一次出行，下次還會再來。團建什麼的整租也合適的",
+      "author": "Guest User",
+      "date": "2025-05-16",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8698626&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8698626&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間很乾凈很寬敞，門口有小院子能停車，房子前面有院子可以玩，泳池也很不錯，我們還玩了水，訂了老闆家的一桌菜，很好吃。總之非常滿意的一次出行，下次還會再來。團建什麼的整租也合適的",
+      "author": "Guest User",
+      "date": "2025-05-16",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8698626&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8698626&trip_sub3=D19127628"
+    },
+    {
+      "quote": "國慶出行，價格非常親民，我們是一家三口，房間大小足夠了，交通出行開車停車都方便。早上老闆親自做的早餐，很豐富根本吃不完。陽台可以喝茶看山景",
+      "author": "Molixiaojieliu",
+      "date": "2024-10-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8698626&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8698626&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.1,
+    "count": 14,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:45:12.662Z",
+  "source": "trip"
+}

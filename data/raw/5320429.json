@@ -1,0 +1,64 @@
+{
+  "id": 5320429,
+  "name": "Moganshan Jiuqu Bay Inn",
+  "seedName": "Moganshan Jiuqu Bay Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5320429",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5320429&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5320429&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Jiuqu Bay Inn?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No.43 Middle Village, Ziling Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5320429/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20020v000000jtx4bA878.jpg"
+    },
+    {
+      "src": "/images/stays/5320429/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0223k12000b0g2sj32B41.webp"
+    },
+    {
+      "src": "/images/stays/5320429/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200a050000000nim1670B.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "房間很乾凈了，比想象的乾淨很多，app上展示的照片太昏暗了，其實挺亮堂的。床也挺舒服的，停車還算方便，門口就是停車位。性價比很高",
+      "author": "Guest User",
+      "date": "2026-04-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5320429&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5320429&trip_sub3=D19127628"
+    },
+    {
+      "quote": "屋後竹林，窗外竹林、小菜園，很清凈。 庭前石徑小路很乾凈， 早餐豐富，老闆話不多，面善，很實在。 一同入住的還有其他幾房旅客，也不吵鬧，感覺不錯。 總體環境清幽。",
+      "author": "Guest User",
+      "date": "2025-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5320429&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5320429&trip_sub3=D19127628"
+    },
+    {
+      "quote": "空間很足，設施齊全，乾淨衞生，周邊很安靜，晚上睡得很舒服，老闆很好客，附近小店餐廳齊全，購物很方便。",
+      "author": "Guest User",
+      "date": "2024-10-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5320429&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5320429&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.2,
+    "count": 5,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:05:36.230Z",
+  "source": "trip"
+}

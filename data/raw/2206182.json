@@ -1,0 +1,64 @@
+{
+  "id": 2206182,
+  "name": "Mogan Mountain Shanshui Yard",
+  "seedName": "Mogan Mountain Shanshui Yard",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2206182",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2206182&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2206182&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Mogan Mountain Shanshui Yard?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No.48 Lujiaqiao, Group 9, Houwu Village, Fatou Township, Deqing, Zhejiang, 313200, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Cardroom"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/2206182/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3h12000t6p52e09E01.jpg"
+    },
+    {
+      "src": "/images/stays/2206182/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200q0s000000hq95332C6.webp"
+    },
+    {
+      "src": "/images/stays/2206182/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20050s000000hrhg4A8AF.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "民宿和圖片零差別，甚至比鏡頭裡更温馨。房間乾淨，老闆很熱情，還貼心分享了本地小眾美食和避坑攻略，性價比拉滿，下次來還住這兒！",
+      "author": "Guest User",
+      "date": "2025-12-12",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2206182&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2206182&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房子真的不錯，乾淨，老闆也很好，適合出來玩放空自己，帶孩子玩也不錯，老闆家裡游泳池還有滑滑梯，￼最讚的就是老闆煮的雪菜肉絲麪，超級贊，感謝老闆，好玩，下次還來🤗🤗🤗",
+      "author": "Xiaoxiaoxiaomilili",
+      "date": "2024-07-14",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2206182&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2206182&trip_sub3=D19127628"
+    },
+    {
+      "quote": "做的菜非常好吃，幹了兩大碗米飯。環境很優美，房間很乾凈，隔音非常好。老闆很熱情，離開時專門駕車送我們出門。",
+      "author": "Guest User",
+      "date": "2024-04-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2206182&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2206182&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 5,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:00:23.877Z",
+  "source": "trip"
+}

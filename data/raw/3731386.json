@@ -1,0 +1,58 @@
+{
+  "id": 3731386,
+  "name": "Moganshan Yincuiju",
+  "seedName": "Moganshan Yincuiju",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-3731386",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=3731386&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-3731386&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Yincuiju?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No.61 Xiwuli, Houwu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/3731386/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2004060000001kzofFBBA.jpg"
+    },
+    {
+      "src": "/images/stays/3731386/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2004060000001kzofFBBA.webp"
+    },
+    {
+      "src": "/images/stays/3731386/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200m080000002ujzcACC5.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "酒店老闆很熱情，服務周到，房間乾淨整潔，面積也大，一次不錯的住宿體驗，早餐也新鮮可口，下次有機會還會再來。",
+      "author": "Guest User",
+      "date": "2023-09-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=3731386&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-3731386&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間服務設施太差，因老闆忙於其他事業打理不善，電視不好用，宣傳圖畫裏的KTV也沒法使用，就住住而已，雖然人還是可以的，但是不用心經營，客户綜合體驗就是差。國慶假期就我們自己去住，網上查詢竟然還顯示有的房間訂出去了。不願意好好乾就別幹了。",
+      "author": "Guest User",
+      "date": "2023-10-12",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=3731386&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-3731386&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 5.9,
+    "count": 2,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:03:01.335Z",
+  "source": "trip"
+}

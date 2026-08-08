@@ -1,0 +1,36 @@
+{
+  "id": 135044783,
+  "name": "Moganshan Wenzhu Vacation Apartment (Miaoqian Village Scenic Area)",
+  "seedName": "Moganshan Wenzhu Vacation Apartment (Miaoqian Village Scenic Area)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-135044783",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=135044783&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-135044783&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Wenzhu Vacation Apartment (Miaoqian Village Scenic Area)?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 42, Ganmiaowu, Miaoqian Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/135044783/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5h12000t0dwow0F70A.jpg"
+    },
+    {
+      "src": "/images/stays/135044783/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3o12000t0dy8tjEF9B.webp"
+    },
+    {
+      "src": "/images/stays/135044783/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0583p12000t0i4dxg3030.webp"
+    }
+  ],
+  "comments": [],
+  "rating": null,
+  "sourcedAt": "2026-08-08T15:53:53.975Z",
+  "source": "trip"
+}

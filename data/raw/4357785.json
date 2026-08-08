@@ -1,0 +1,69 @@
+{
+  "id": 4357785,
+  "name": "Kaoshan Renjia Hotel",
+  "seedName": "Kaoshan Renjia Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-4357785",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4357785&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4357785&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Kaoshan Renjia Hotel?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Near Huangfu East Road (Yucun Village), Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Bar",
+    "Cardroom",
+    "Restaurant",
+    "Conference room",
+    "Multi-function room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/4357785/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200w0700000029nsp05C7.jpg"
+    },
+    {
+      "src": "/images/stays/4357785/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200b0d0000006rc9zDC23.webp"
+    },
+    {
+      "src": "/images/stays/4357785/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1re6m12000b87h4ih2D60.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "民宿的位置非常好，離庾村廣場很近，周邊便利店、小吃飯店都很齊全，是黃金位置 我是來參加越野比賽的，能訂到這個位置真的是太棒了 房間前後通透，還有個小陽台～坐在陽台上看風景非常愜意，整體門和傢俱都是木質結構，完美融入山野氛圍 店家在一樓還貼心準備了超多小零食，邊上還有一衹可愛的柴犬可以擼 而且店家人超好，因為比賽能回來的時間不確定，所以和店家商量能不能延遲退房，店家説如果後面沒人訂房可以延遲到兩點，可由於今天天氣太熱，實際下去兩點47才回來，本來是準備額外付款一定的房間費用，因為要回來洗個澡，但是阿姨錢都沒收，所以真心推薦這家民宿，地段好，店家人也好！",
+      "author": "114-Lethita",
+      "date": "2026-05-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4357785&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4357785&trip_sub3=D19127628"
+    },
+    {
+      "quote": "週日參加KOKA莫干山庾村越野賽，賽事提前到7點起跑，早餐時間也得提前至5點左右，酒店老闆娘聽到我的需求，提前幫助做好早餐，有雞蛋，玉米，非常感激。",
+      "author": "Zhuzhengyang",
+      "date": "2026-05-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4357785&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4357785&trip_sub3=D19127628"
+    },
+    {
+      "quote": "陽台寬敞舒適，房間整潔無異味，主要是老闆娘很熱情，住宿享受免費停車，並且還提供豐盛的早餐服務。",
+      "author": "Guest User",
+      "date": "2026-04-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4357785&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4357785&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 71,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:03:07.613Z",
+  "source": "trip"
+}

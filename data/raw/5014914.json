@@ -1,0 +1,90 @@
+{
+  "id": 5014914,
+  "name": "Moganshan clear herb garden",
+  "seedName": "Moganshan clear herb garden",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5014914",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5014914&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5014914&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness:The rooms are consistently described as clean, with dry bedding and well-maintained facilities. Guests highlight the overall hygiene standards, including the cleanliness of the courtyard and surrounding areas.(based on 8 reviews) Location and Accessibility:The property is conveniently located near attractions like Yuxu Village, Laoling Reservoir, and Laoling Ancient Trail. Proximity to unique dining spots like Jinghu Restaurant and ease of access to Fish Scale Dam (6km drive) are frequently noted.(based on 4 reviews) Service Quality:Hosts are repeatedly praised for their warm, attentive service, creating a welcoming atmosphere for guests.(based on 5 reviews) Environment and Facilities:The courtyard features thoughtfully maintained gardens, hanging plants, swings, and shaded seating areas, offering a tranquil retreat. The layout is praised for its peaceful, secluded ambiance.(based on 1 review) Family-Friendly Features:The spacious rooms and outdoor spaces are ideal for families, with mentions of child-friendly amenities and activities like swing access.(based on 1 review)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness",
+        "text": "The rooms are consistently described as clean, with dry bedding and well-maintained facilities. Guests highlight the overall hygiene standards, including the cleanliness of the courtyard and surrounding areas.",
+        "count": 8
+      },
+      {
+        "topic": "Location and Accessibility",
+        "text": "The property is conveniently located near attractions like Yuxu Village, Laoling Reservoir, and Laoling Ancient Trail. Proximity to unique dining spots like Jinghu Restaurant and ease of access to Fish Scale Dam (6km drive) are frequently noted.",
+        "count": 4
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Hosts are repeatedly praised for their warm, attentive service, creating a welcoming atmosphere for guests.",
+        "count": 5
+      },
+      {
+        "topic": "Environment and Facilities",
+        "text": "The courtyard features thoughtfully maintained gardens, hanging plants, swings, and shaded seating areas, offering a tranquil retreat. The layout is praised for its peaceful, secluded ambiance.",
+        "count": 1
+      },
+      {
+        "topic": "Family-Friendly Features",
+        "text": "The spacious rooms and outdoor spaces are ideal for families, with mentions of child-friendly amenities and activities like swing access.",
+        "count": 1
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No.8 Laoling Village, Moganshan Town, Deqing, Zhejiang, 313204, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5014914/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200o0m000000dxkon3AFE.jpg"
+    },
+    {
+      "src": "/images/stays/5014914/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205j12000cneni353292.webp"
+    },
+    {
+      "src": "/images/stays/5014914/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200j0y000000lj1w6EC91.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "民宿位置方便好找，停車方便。周邊餐廳選擇性多。勞嶺古道就在民宿後方步行不遠。驅車到庾村廣場衹有4分鐘到車程。 小花園裡被主人照理的特別好！在院子裏發發呆好愜意。 房間乾淨整潔，洗澡水大。 名宿主人們很熱情，早上一早還特意煮了雞蛋讓我去跑山。 祝贏的八方客，生得四季財！",
+      "author": "Guest User",
+      "date": "2025-10-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5014914&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5014914&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間乾淨，院子別出心裁，用心打理修剪，讓人耳目一新，欣然宜居，幽靜安逸，老闆很熱情，附近吃飯也很方便！真的超級棒棒噠，下次有機會還會去的，😄",
+      "author": "Guest User",
+      "date": "2025-05-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5014914&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5014914&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間很乾凈，被子很乾爽，地理住置也很好，離庾村很近，出門就是勞嶺水庫，後面就是勞嶺古道，適合清晨徒步，去魚鱗壩也就6公里車程。",
+      "author": "Guest User",
+      "date": "2025-08-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5014914&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5014914&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 10,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:04:13.963Z",
+  "source": "trip"
+}

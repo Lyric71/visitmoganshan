@@ -1,0 +1,64 @@
+{
+  "id": 2234838,
+  "name": "Bamboo Creek House",
+  "seedName": "Bamboo Creek House",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2234838",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2234838&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2234838&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Bamboo Creek House?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 37 Nanlu Group, Liaoyuan Village, Moganshan Town, Deqing, Zhejiang, 313200, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/2234838/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02047120003n9axkiDCF6.jpg"
+    },
+    {
+      "src": "/images/stays/2234838/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0202n120003r3ur9z1C2E.webp"
+    },
+    {
+      "src": "/images/stays/2234838/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1re6m12000b87h4ih2D60.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Great location, super friendly owner, and decent facilities!",
+      "author": "Guest User",
+      "date": "2026-05-05",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2234838&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2234838&trip_sub3=D19127628"
+    },
+    {
+      "quote": "藏在竹海溪澗裏的治癒山居 來莫干山住竹畔溪舍真的太值了！完全是理想中的山野民宿，安靜又治癒，住得超舒服～ 🏡 環境與位置 民宿藏在竹林深處，推門就是滿眼綠意，門前有小溪潺潺，空氣清新到不像話。離庾村廣場、鐘樓書房都很近，步行就能逛，鬧中取靜，出行超方便。 🛏️ 房間與設施 房間乾淨整潔，原木風裝修温馨又有質感，床品柔軟舒服，隔音很好，晚上能伴着溪水聲入睡。衞浴乾濕分離，熱水充足，細節做得很到位，住起來很安心。 🍵 服務與體驗 老闆熱情又貼心，入住會主動介紹周邊玩法，早餐清淡可口，都是家常味道。庭院能喝茶、發呆，傍晚看山間霧氣繚繞，氛圍感直接拉滿，完全放鬆身心。 整體體驗：性價比超高，環境清幽、服務暖心、出行便利，來莫干山想找安靜治癒的民宿，選這裏準沒錯！",
+      "author": "Guest User",
+      "date": "2026-03-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2234838&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2234838&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間真的太舒服了！到店老闆詢問了登記好説如果不介意可以幫我升級房型，因為是淡季才會有特價房，可以給我一個好看點的房間，一點不介意，房間真的挺好的，裝修風格簡約又高級，乾淨整潔無異味，空間寬敞通透，採光絕了🌿 被子柔軟，躺上去秒入睡，睡眠質量拉滿。窗邊榻榻米超加分，喝茶看景超愜意，氛圍感直接拉滿✨ 民宿位置安靜，被竹林環繞，空氣清新，離庾村景點很近，出行方便。老闆熱情貼心，服務周到，體驗感滿分！ 來莫干山度假，這家民宿閉眼沖，性價比超高，下次還來！",
+      "author": "Guest User",
+      "date": "2026-03-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2234838&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2234838&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 22,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:00:48.837Z",
+  "source": "trip"
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1901222,
+  "name": "Shi Hua Shan Zhuang",
+  "seedName": "Shi Hua Shan Zhuang",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1901222",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1901222&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1901222&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness and maintenance:Rooms are consistently described as clean, well-maintained, and tidy, with fresh bedding and hygiene standards. Hospitality:Hosts are praised for their warmth, responsiveness, and willingness to assist guests with requests .(based on 1 review) Location:Proximity to attractions , local restaurants, and convenient parking.(based on 1 review) Dining:Breakfast and meals are highlighted for quality . Suitability for groups:Spacious layouts with multiple rooms, private bathrooms, and communal areas make it ideal for families or teams.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness and maintenance",
+        "text": "Rooms are consistently described as clean, well-maintained, and tidy, with fresh bedding and hygiene standards. Hospitality:Hosts are praised for their warmth, responsiveness, and willingness to assist guests with requests .",
+        "count": 1
+      },
+      {
+        "topic": "Location",
+        "text": "Proximity to attractions , local restaurants, and convenient parking.",
+        "count": 1
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 6 Langjia Village, Xiantan Village, Moganshan Town, Deqing, Zhejiang, 313200, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/1901222/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200v090000003y6435255.jpg"
+    },
+    {
+      "src": "/images/stays/1901222/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200v1f000001gwb17307C.webp"
+    },
+    {
+      "src": "/images/stays/1901222/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200r1f000001gjoc6E1CA.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "民宿老闆和老闆娘很熱情，可以唱卡拉OK，可以游泳，可以搓麻將，早飯白粥玉米饅頭雞蛋油條和各類小菜，停車方便，離龍鱗壩很近。附近的田園餐廳性價比高，味道也不錯，推薦。",
+      "author": "Guest User",
+      "date": "2024-08-12",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1901222&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1901222&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿老闆和老闆娘很熱情，可以唱卡拉OK，可以游泳，可以搓麻將，早飯白粥玉米饅頭雞蛋油條和各類小菜，停車方便，離龍鱗壩很近。附近的田園餐廳性價比高，味道也不錯，推薦。",
+      "author": "Guest User",
+      "date": "2024-08-12",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1901222&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1901222&trip_sub3=D19127628"
+    },
+    {
+      "quote": "算是比較老的別墅了，勝在老闆熱情，服務周到，總體感覺還是可以的，建議老闆在淡季稍微粉刷裝修一下就好",
+      "author": "Guest User",
+      "date": "2025-02-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1901222&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1901222&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.3,
+    "count": 8,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:58:06.644Z",
+  "source": "trip"
+}

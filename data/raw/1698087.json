@@ -1,0 +1,75 @@
+{
+  "id": 1698087,
+  "name": "Moganshan Xiaomusen Hot Spring Holiday Home Stay",
+  "seedName": "Moganshan Xiaomusen Hot Spring Holiday Home Stay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1698087",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1698087&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1698087&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Scenery:Proximity to Yucun Village, surrounded by green bamboo forests, pine trees, and a reservoir. Staff & Atmosphere:Warm, friendly family-run environment with attentive service.(based on 5 reviews) Room Quality:Clean, quiet, and well-insulated rooms with unique decor.(based on 3 reviews) Nearby Activities:Access to local attractions and convenient transportation. Breakfast:Free or homemade meals with varied options.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Scenery",
+        "text": "Proximity to Yucun Village, surrounded by green bamboo forests, pine trees, and a reservoir. Staff & Atmosphere:Warm, friendly family-run environment with attentive service.",
+        "count": 5
+      },
+      {
+        "topic": "Room Quality",
+        "text": "Clean, quiet, and well-insulated rooms with unique decor.",
+        "count": 3
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 31, Lingkengli, Moganshan Town, Deqing, Zhejiang, 313207, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1698087/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2B0n0q000000g7t2a751B.jpg"
+    },
+    {
+      "src": "/images/stays/1698087/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/hotel/345000/344576/6f26cb89dd6349568790c6e61b11402d.jpg"
+    },
+    {
+      "src": "/images/stays/1698087/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3w12000hh35z7u5D8D.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "This was amazing. The personnel was really welcoming and helpful. They made me discover a lot of thing about the region. The room was beautiful, really warm and really clean. A lot of beautiful things to discover near this place...",
+      "author": "Guest User",
+      "date": "2025-03-11",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1698087&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1698087&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The stay was excellent; the landlady was warm, attentive, and genuinely kind. It was a very pleasant stay, and I highly recommend it when traveling to Moganshan.",
+      "author": "Guest User",
+      "date": "2025-04-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1698087&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1698087&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Quiet environment, attentive service, and a welcoming owner.",
+      "author": "Guest User",
+      "date": "2025-10-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1698087&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1698087&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 7,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:41:24.330Z",
+  "source": "trip"
+}

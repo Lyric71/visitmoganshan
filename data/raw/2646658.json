@@ -1,0 +1,39 @@
+{
+  "id": 2646658,
+  "name": "Shanyeju Inn",
+  "seedName": "Shanyeju Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2646658",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2646658&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2646658&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Shanyeju Inn?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Village Group 1, Xibei Village, Nanlu Village, Moganshan Town, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$61",
+  "facilities": [
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/2646658/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/fd/hotel/g4/M01/FD/0A/CggYHVXcSQ-ABAF8AAE0mYMov4A084.jpg"
+    },
+    {
+      "src": "/images/stays/2646658/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0584m12000smxpbe64DCD.webp"
+    },
+    {
+      "src": "/images/stays/2646658/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/fd/hotel/g3/M00/A9/51/CggYGVXS7TaAFii7ABWYBP11xR0858.webp"
+    }
+  ],
+  "comments": [],
+  "rating": null,
+  "sourcedAt": "2026-08-08T15:39:51.211Z",
+  "source": "trip"
+}

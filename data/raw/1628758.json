@@ -1,0 +1,83 @@
+{
+  "id": 1628758,
+  "name": "Tanglu Villa",
+  "seedName": "Tanglu Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1628758",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1628758&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1628758&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Most reviews highlight the proximity to scenic attractions .(based on 18 reviews) Natural Environment:Surrounded by bamboo forests, streams, and greenery, with some mentioning a small creek, ancient trees, and a tranquil atmosphere. Cleanliness:Rooms and facilities are described as tidy, with emphasis on hygiene .(based on 14 reviews) Service & Hospitality:Hosts are consistently praised for being friendly, helpful, and attentive .(based on 15 reviews) Food & Local Experience:Meals are highlighted as fresh and flavorful, featuring locally grown vegetables, free-range poultry, and traditional cooking . Value for Money:Considered affordable compared to nearby options, with some noting the price is \"reasonable\" or \"cost-effective\" for the quality and amenities.(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Most reviews highlight the proximity to scenic attractions .",
+        "count": 18
+      },
+      {
+        "topic": "Natural Environment",
+        "text": "Surrounded by bamboo forests, streams, and greenery, with some mentioning a small creek, ancient trees, and a tranquil atmosphere. Cleanliness:Rooms and facilities are described as tidy, with emphasis on hygiene .",
+        "count": 14
+      },
+      {
+        "topic": "Hospitality",
+        "text": "Hosts are consistently praised for being friendly, helpful, and attentive .",
+        "count": 15
+      },
+      {
+        "topic": "Local Experience",
+        "text": "Meals are highlighted as fresh and flavorful, featuring locally grown vegetables, free-range poultry, and traditional cooking . Value for Money:Considered affordable compared to nearby options, with some noting the price is \"reasonable\" or \"cost-effective\" for the quality and amenities.",
+        "count": 3
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No.32 Group 11, Xiantan Village, Moganshan Town, Deqing, Zhejiang, 313200, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/1628758/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200v070000002qq9bB4D7.jpg"
+    },
+    {
+      "src": "/images/stays/1628758/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20061a0000018zc5r6923.webp"
+    },
+    {
+      "src": "/images/stays/1628758/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200o12000bw87fv58E12.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "房間挺好的，衞生設施都挺好的，老闆娘很熱情，樓下還有老闆娘自己開的飯館，菜燒的很好吃，食材新鮮，旁邊就是碧組龍潭景區，很方便",
+      "author": "Guest User",
+      "date": "2026-07-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1628758&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1628758&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿離碧塢龍潭景點很近，走過去5分鐘內到達，周邊環境優美，山清水秀，竹林成片，房間乾淨整潔，阿姨老闆娘待客熱情，樓上住宿樓下餐廳，性價比比預期超出很多，很不錯，望生意興隆，越辦越好，有緣再見。",
+      "author": "Guest User",
+      "date": "2026-04-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1628758&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1628758&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間挺好的，衞生設施都挺好的，老闆娘很熱情，樓下還有老闆娘自己開的飯館，菜燒的很好吃，食材新鮮，旁邊就是碧組龍潭景區，很方便",
+      "author": "Guest User",
+      "date": "2026-07-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1628758&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1628758&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.7,
+    "count": 45,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:57:44.186Z",
+  "source": "trip"
+}

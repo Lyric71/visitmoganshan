@@ -1,0 +1,66 @@
+{
+  "id": 2008848,
+  "name": "Jiushu Hostel",
+  "seedName": "Jiushu Hostel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2008848",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2008848&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2008848&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Jiushu Hostel?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 18 at the Foot of Houwu Cunling, Deqing, Zhejiang, 313200, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Bar",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/2008848/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02047120008qg1pf9E6F2.jpg"
+    },
+    {
+      "src": "/images/stays/2008848/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205o120008qg0f552E05.webp"
+    },
+    {
+      "src": "/images/stays/2008848/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02044120008qg0iumB044.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "I have to praise the boss for being so welcoming. The chicken soup was so delicious and the quantity was so large. If we couldn't finish it, the boss said he would make noodles for us the next morning♥️ The...",
+      "author": "Guest User",
+      "date": "2024-05-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2008848&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2008848&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Once you've been there, it becomes your only choice for regular stays. The transportation and parking are convenient. The cooking skills of the boss and his wife are excellent. The supporting facilities are complete and high-quality. What is it like...",
+      "author": "Guest User",
+      "date": "2024-05-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2008848&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2008848&trip_sub3=D19127628"
+    },
+    {
+      "quote": "推薦推薦老闆娘人超級好，熱情又周到，臨時加了一天行程，寶寶尿不濕不夠了，老闆娘幫忙去村裡超市買了送過來早餐準備的也很豐盛",
+      "author": "Guest User",
+      "date": "2025-10-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2008848&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2008848&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.4,
+    "count": 9,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:41:51.355Z",
+  "source": "trip"
+}

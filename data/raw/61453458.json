@@ -1,0 +1,59 @@
+{
+  "id": 61453458,
+  "name": "Aiquye Homestay",
+  "seedName": "Aiquye Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-61453458",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=61453458&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-61453458&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Aiquye Homestay?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 29, Phase II, Jiangjiazhuang Community, Fatou Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$84",
+  "facilities": [
+    "Cardroom",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/61453458/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02051120009mzsql2DC18.jpg"
+    },
+    {
+      "src": "/images/stays/61453458/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203312000lun2k9112A2.webp"
+    },
+    {
+      "src": "/images/stays/61453458/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206c120009mzst3u6596.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "民宿衞生裏裡外外都很乾凈，這點必須點贊👍環境很安靜，民宿裏有茶室和一些運動器材可以用，很不錯。早餐豐富，老闆娘安排的摘茶葉行程非常驚喜！親子游不錯的選擇。",
+      "author": "Guest User",
+      "date": "2024-04-22",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=61453458&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-61453458&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿衞生裏裡外外都很乾凈，這點必須點贊👍環境很安靜，民宿裏有茶室和一些運動器材可以用，很不錯。早餐豐富，老闆娘安排的摘茶葉行程非常驚喜！親子游不錯的選擇。",
+      "author": "Guest User",
+      "date": "2024-04-22",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=61453458&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-61453458&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 2,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:39:03.215Z",
+  "source": "trip"
+}

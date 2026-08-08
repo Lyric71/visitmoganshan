@@ -1,0 +1,74 @@
+{
+  "id": 1628659,
+  "name": "Haolaiwu Farmhouse",
+  "seedName": "Haolaiwu Farmhouse",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1628659",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1628659&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1628659&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service:Will recommend reasonable travel routes, and the service attitude is good, such as helping to recommend play routes and arranging reasonable routes.(based on 20 reviews) Guest Suggestion:Some customers suggest issues such as high dining prices, damp and stuffy rooms with air conditioner noise, and average environment(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service",
+        "text": "Will recommend reasonable travel routes, and the service attitude is good, such as helping to recommend play routes and arranging reasonable routes.",
+        "count": 20
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest issues such as high dining prices, damp and stuffy rooms with air conditioner noise, and average environment",
+      "count": 3
+    }
+  },
+  "address": "No. 26 Lingjiaoxia, Houwu Village, Moganshan Town, Deqing, Zhejiang, 310320, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1628659/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0584c12000sp4vssy98CE.jpg"
+    },
+    {
+      "src": "/images/stays/1628659/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2B0s0z000000noa40BCFC.webp"
+    },
+    {
+      "src": "/images/stays/1628659/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200j0900000045uun7FEE.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Ctrip review: The boss was very hospitable and friendly, and helped with the luggage. Because there are elderly people at home, I chose to walk around the area on the first day. The air was very good, and the sweet-scented...",
+      "author": "Guest User",
+      "date": "2023-10-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1628659&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1628659&trip_sub3=D19127628"
+    },
+    {
+      "quote": "We went there before the National Day holiday, avoiding the peak season. There were fewer people in the scenic area, so we didn't have to squeeze in with the crowds! The B&B is located in a mountain village, surrounded by...",
+      "author": "Guest User",
+      "date": "2023-09-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1628659&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1628659&trip_sub3=D19127628"
+    },
+    {
+      "quote": "It was a very nice trip. The boss was very friendly and patiently introduced the tourist information of Moganshan. The farm dishes were also very good. The local chicken soup is highly recommended.",
+      "author": "Xiaoaiailaichuang",
+      "date": "2023-10-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1628659&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1628659&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.1,
+    "count": 41,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:57:22.538Z",
+  "source": "trip"
+}

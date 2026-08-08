@@ -1,0 +1,43 @@
+{
+  "id": 5154378,
+  "name": "Moganshan Quiet Country House",
+  "seedName": "Moganshan Quiet Country House",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5154378",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5154378&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5154378&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Quiet Country House?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 35 Hengdu, Sihe Village, South Road, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$34",
+  "facilities": [
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5154378/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0584912000sncqd4y47B4.jpg"
+    },
+    {
+      "src": "/images/stays/5154378/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200u080000003fm9d2B38.webp"
+    },
+    {
+      "src": "/images/stays/5154378/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0584912000sncqd4y47B4.webp"
+    }
+  ],
+  "comments": [],
+  "rating": {
+    "score": 7.8,
+    "count": 1,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:39:28.593Z",
+  "source": "trip"
+}

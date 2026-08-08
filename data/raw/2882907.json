@@ -1,0 +1,84 @@
+{
+  "id": 2882907,
+  "name": "Nantangwu Meisu",
+  "seedName": "Nantangwu Meisu",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2882907",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2882907&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2882907&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness & Facilities:Rooms described as \"clean,\" \"tidy,\" and \"well-maintained,\" with functional amenities .(based on 16 reviews) Swimming Pool:Praise for the clean, refreshing pool and its convenience for families.(based on 6 reviews) Host Attitude:Hosts were consistently described as \"friendly,\" \"helpful,\" and \"warm,\" offering guidance on local attractions and accommodating requests .(based on 9 reviews) Guest Suggestion:Some customers suggest that the service attitude of the hotel staff, especially the proprietress, is poor, and also mention that the accommodation experience is not satisfactory and not recommended(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Facilities",
+        "text": "Rooms described as \"clean,\" \"tidy,\" and \"well-maintained,\" with functional amenities .",
+        "count": 16
+      },
+      {
+        "topic": "Swimming Pool",
+        "text": "Praise for the clean, refreshing pool and its convenience for families.",
+        "count": 6
+      },
+      {
+        "topic": "Host Attitude",
+        "text": "Hosts were consistently described as \"friendly,\" \"helpful,\" and \"warm,\" offering guidance on local attractions and accommodating requests .",
+        "count": 9
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest that the service attitude of the hotel staff, especially the proprietress, is poor, and also mention that the accommodation experience is not satisfactory and not recommended",
+      "count": 2
+    }
+  },
+  "address": "No. 146 Dongshan, Sihe Village, Deqing, Zhejiang, 313209, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/2882907/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200o190000017fa3nC63C.jpg"
+    },
+    {
+      "src": "/images/stays/2882907/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5u12000dwld9kx7BC2.webp"
+    },
+    {
+      "src": "/images/stays/2882907/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2008190000017g18vD4B1.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "這家民宿距離魚鱗壩比較近，進村的路很窄，對於車技不行的寶子比較挑戰。説到民宿本身，是民房改造的，房間比較黑暗，設施很少，就是🛏️，牀頭櫃，一個小電視。衞生間有味道，整體不是很乾凈。性價比一般。",
+      "author": "Anonymous User",
+      "date": "2026-08-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2882907&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2882907&trip_sub3=D19127628"
+    },
+    {
+      "quote": "地方還找，院子裏有大停車場，老闆熱情，離景點很近。 院子裏有個大泳池，兩種深度的水深，水非常乾淨，比酒店的水乾淨，值得推薦。",
+      "author": "Guest User",
+      "date": "2025-07-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2882907&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2882907&trip_sub3=D19127628"
+    },
+    {
+      "quote": "很好的一家。 傍晚時分，農家樂為我們準備了燒烤。炭火慢慢燃起，肉串滋滋作響，香氣四溢。沒有精緻的擺盤，沒有複雜的調料，但圍坐在一起的歡聲笑語，星空下的暢談，構成了最美好的記憶。臨別時，老闆娘還送了我們一些自家種的蔬菜和手工製作的醬菜，那份樸實的情意讓人感動。 或許這裏沒有豪華的裝修，沒有米其林大廚，但它提供了城市中最稀缺的東西——真實的生活氣息、純粹的食物本味和人與人之間温暖的聯結。在這裏，我們不僅滿足了味蕾，更找回了久違的寧靜與簡單。這或許就是農家樂最珍貴的價值——它不僅僅是一頓飯，更是一次心靈的迴歸與治癒。",
+      "author": "@wujiuwugushi",
+      "date": "2025-06-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2882907&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2882907&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.2,
+    "count": 41,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:02:11.732Z",
+  "source": "trip"
+}

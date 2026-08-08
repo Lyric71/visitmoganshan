@@ -1,0 +1,62 @@
+{
+  "id": 2271130,
+  "name": "Moganshan maple elegant villa",
+  "seedName": "Moganshan maple elegant villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2271130",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2271130&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2271130&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan maple elegant villa?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No.62 Kanshang, Houwu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/2271130/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200w070000002emqrACA3.jpg"
+    },
+    {
+      "src": "/images/stays/2271130/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0586m12000smxwn5lC145.webp"
+    },
+    {
+      "src": "/images/stays/2271130/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200u1a0000018kuop421B.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "乾淨衞生，一般的家庭簡裝，睡覺沒問題的 老闆提供的早飯很可口，有雞蛋，玉米，大米粥，本地的竹筍鹹菜很好吃的，非常喜歡，孩子也吃的開心的。附近有螢火蟲可以看，還是很不錯的。",
+      "author": "Guest User",
+      "date": "2025-08-18",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2271130&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2271130&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間很大，乾淨衞生整潔，老闆人很熱情，陽台上休息可以看山景，很是愜意。老闆家院子裏還種了很多花花草草，非常好看😄",
+      "author": "Guest User",
+      "date": "2024-05-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2271130&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2271130&trip_sub3=D19127628"
+    },
+    {
+      "quote": "乾淨衞生，一般的家庭簡裝，睡覺沒問題的 老闆提供的早飯很可口，有雞蛋，玉米，大米粥，本地的竹筍鹹菜很好吃的，非常喜歡，孩子也吃的開心的。附近有螢火蟲可以看，還是很不錯的。",
+      "author": "Guest User",
+      "date": "2025-08-18",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2271130&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2271130&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.9,
+    "count": 5,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:00:58.168Z",
+  "source": "trip"
+}

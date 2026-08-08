@@ -1,0 +1,57 @@
+{
+  "id": 5514190,
+  "name": "Moganshan Lifestyle Harajuku",
+  "seedName": "Moganshan Lifestyle Harajuku",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5514190",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5514190&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5514190&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Lifestyle Harajuku?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No.40 Jimiaowu, Houwu Village, Moganshan Town, Deqing, Zhejiang, 313206, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5514190/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0584n12000sn1viynACCF.jpg"
+    },
+    {
+      "src": "/images/stays/5514190/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200a0h00000092yev4717.webp"
+    },
+    {
+      "src": "/images/stays/5514190/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200n0h00000093295D1F2.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "房間味道太大了，裝修的味道，太難聞了，路邊修路，灰塵超級大，隔音也是無敵了，簡直跟沒關門一樣。",
+      "author": "Guest User",
+      "date": "2026-08-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5514190&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5514190&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間很乾凈，老闆很熱情，老闆阿姨燒的菜美味又便宜，真心推薦～老公説下次去玩還要去阿姨家吃飯#衞生#位置交通位置蠻好找的，省道下來右轉再右轉就到了",
+      "author": "Guest User",
+      "date": "2023-08-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5514190&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5514190&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 2,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:06:17.999Z",
+  "source": "trip"
+}

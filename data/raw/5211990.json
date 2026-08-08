@@ -1,0 +1,91 @@
+{
+  "id": 5211990,
+  "name": "Yunanju",
+  "seedName": "Yunanju",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5211990",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5211990&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5211990&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Environment:Proximity to Mount Moganshan , scenic surroundings with mountains and water, and a tranquil atmosphere.(based on 1 review) Facilities:Comprehensive amenities for all ages, including a slide pool, KTV, table tennis, billiards, outdoor activities , and a barbecue area.(based on 2 reviews) Service:Hosts and their family are described as warm, attentive, and accommodating, with a focus on creating a home-like experience.(based on 3 reviews) Dining:Generous and flavorful meals, including breakfast, homemade dishes, and evening barbecues.(based on 1 review) Cleanliness:Rooms are consistently praised for being clean and well-maintained.(based on 5 reviews) Activities:Family-friendly options like foraging, strawberry picking, mountain climbing, and casual outdoor games.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Proximity to Mount Moganshan , scenic surroundings with mountains and water, and a tranquil atmosphere.",
+        "count": 1
+      },
+      {
+        "topic": "Facilities",
+        "text": "Comprehensive amenities for all ages, including a slide pool, KTV, table tennis, billiards, outdoor activities , and a barbecue area.",
+        "count": 2
+      },
+      {
+        "topic": "Service",
+        "text": "Hosts and their family are described as warm, attentive, and accommodating, with a focus on creating a home-like experience.",
+        "count": 3
+      },
+      {
+        "topic": "Dining",
+        "text": "Generous and flavorful meals, including breakfast, homemade dishes, and evening barbecues.",
+        "count": 1
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms are consistently praised for being clean and well-maintained.",
+        "count": 5
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Group 10, Chishan, Sanqiao Village, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5211990/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0202c12000b21f9m1F714.jpg"
+    },
+    {
+      "src": "/images/stays/5211990/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02043120008ti0h0o64F8.webp"
+    },
+    {
+      "src": "/images/stays/5211990/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205r120008ti2s15E7D7.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "很不錯，特別是小白boss，友情推薦的餐廳絕美，環境，味道，價格都很好，毫不踩坑。帶我們茶山一圈，揀栗子🌰的快樂飛起。別墅唱K，嗨翻了",
+      "author": "Guest User",
+      "date": "2025-10-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5211990&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5211990&trip_sub3=D19127628"
+    },
+    {
+      "quote": "環境優美，喝茶聊天，打麻將，很適合朋友親子活動，游泳池很漂亮，泳池的滑滑梯，孩子玩得不亦樂乎，老闆的菜燒得也很好，衞生間的稍暗了點。",
+      "author": "Nongfuxiaoshe",
+      "date": "2025-08-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5211990&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5211990&trip_sub3=D19127628"
+    },
+    {
+      "quote": "這次全家一起過來玩的，住了副樓，體驗不錯哦。 老闆態度熱情，阿姨和叔叔人也很好，煮的鹹菜湯麪還有餃子都好好吃。我們還吃了晚飯，雞湯，楊梅酒都非常不錯。 民宿的設施也基本都維護的比較好，房間乾淨。滿意滿意！牆裂推薦哦！",
+      "author": "Guest User",
+      "date": "2024-06-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5211990&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5211990&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 10,
+    "count": 11,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:43:05.195Z",
+  "source": "trip"
+}

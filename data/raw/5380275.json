@@ -1,0 +1,55 @@
+{
+  "id": 5380275,
+  "name": "After the deqing high old village",
+  "seedName": "After the deqing high old village",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5380275",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5380275&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5380275&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at After the deqing high old village?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No.89 Group 12, Houwu Village, Fatou Township, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/5380275/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0204z120009gzno5m6D36.webp"
+    },
+    {
+      "src": "/images/stays/5380275/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203a120009gzn4weC70F.webp"
+    },
+    {
+      "src": "/images/stays/5380275/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6q12000ey4814aDA61.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "房間衞生乾淨，還有陽台，早上起來還聽到小鳥的聲音，好好聽，環境優美，也可以曬曬太陽，空氣特別新鮮，值得來一趟，",
+      "author": "Guest User",
+      "date": "2025-12-15",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5380275&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5380275&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間衞生乾淨，還有陽台，早上起來還聽到小鳥的聲音，好好聽，環境優美，也可以曬曬太陽，空氣特別新鮮，值得來一趟，",
+      "author": "Guest User",
+      "date": "2025-12-15",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5380275&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5380275&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 6,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:06:03.159Z",
+  "source": "trip"
+}

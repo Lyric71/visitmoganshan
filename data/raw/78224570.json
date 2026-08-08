@@ -1,0 +1,67 @@
+{
+  "id": 78224570,
+  "name": "Moganshan Park Heart · Mu Ye hot spring villa",
+  "seedName": "Moganshan Park Heart · Mu Ye hot spring villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-78224570",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=78224570&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-78224570&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Park Heart · Mu Ye hot spring villa?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No.41 Yatanwu, Shiyi Temple, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Billiards room",
+    "Restaurant",
+    "Water park"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/78224570/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4l12000mhjrt5xDB64.jpg"
+    },
+    {
+      "src": "/images/stays/78224570/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206a120008ts8tyc7FD5.webp"
+    },
+    {
+      "src": "/images/stays/78224570/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0204a120008tryaz0105B.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "民宿房間乾淨衞生，很香，房間數量充足，很適合公司團建，還有營地可以開會篝火，拓展活動，這次安排到這裏，領導非常滿意，性價比超高，吃住玩行，都安排的很成熟，非常滿意，下次還來！",
+      "author": "Guest User",
+      "date": "2024-04-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=78224570&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-78224570&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿真的很好，環境也很好，躺床上看着外面的山真的很治癒，老闆也有自己的營地，有小孩子玩的，也可以團建，風景也是很不錯呢！",
+      "author": "Guest User",
+      "date": "2023-09-12",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=78224570&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-78224570&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間蠻大的，住的很舒心睡得都很舒服，熱水非常大，洗澡超級舒服。衞生打掃的很乾凈，洗漱用品也很好。 泳池水也很乾凈，共區很大玩一天都不無聊，老闆很熱情。",
+      "author": "Guest User",
+      "date": "2023-08-16",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=78224570&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-78224570&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 5,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:51:42.142Z",
+  "source": "trip"
+}

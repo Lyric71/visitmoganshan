@@ -1,0 +1,82 @@
+{
+  "id": 89868764,
+  "name": "One Family Resorts (Moganshan MXH Branch)",
+  "seedName": "One Family Resorts (Moganshan MXH Branch)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-89868764",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=89868764&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-89868764&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location and Environment:Located in scenic or quiet areas, near attractions, with beautiful surroundings like lakes and mountains. Facilities are rich, including various entertainment equipment. Service is good with housekeepers responding promptly and preparing in advance.(based on 36 reviews) Facilities:Entertainment facilities such as billiards, switch, small KTV, mahjong tables are available. Breakfast is freshly cooked with multiple types.(based on 21 reviews) Service:Housekeepers are responsive, and prepare in advance like opening air conditioners before arrival(based on 28 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location and Environment",
+        "text": "Located in scenic or quiet areas, near attractions, with beautiful surroundings like lakes and mountains. Facilities are rich, including various entertainment equipment. Service is good with housekeepers responding promptly and preparing in advance.",
+        "count": 36
+      },
+      {
+        "topic": "Facilities",
+        "text": "Entertainment facilities such as billiards, switch, small KTV, mahjong tables are available. Breakfast is freshly cooked with multiple types.",
+        "count": 21
+      },
+      {
+        "topic": "Service",
+        "text": "Housekeepers are responsive, and prepare in advance like opening air conditioners before arrival",
+        "count": 28
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "莫干山镇五四村梦溪湖山庄别墅区1幢1号, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Cardroom",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/89868764/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5s12000aunvdqrAD72.jpg"
+    },
+    {
+      "src": "/images/stays/89868764/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4912000b4sg0ppA443.webp"
+    },
+    {
+      "src": "/images/stays/89868764/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3r12000b4sh7na003E.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "獨棟別墅空間大，裏面娛樂設施很多 周邊環境安靜，管家回覆消息處理問題也很及時～門口就是漂流樂園，很適合一家人或者團建來玩！",
+      "author": "Woaihekeleii",
+      "date": "2026-07-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=89868764&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-89868764&trip_sub3=D19127628"
+    },
+    {
+      "quote": "別墅裝修的很不錯，那個房間都很大很乾凈舒服，第二次選擇壹家墅了，品質很讓人放心，主要是時間有點短了，這種別墅要是能連住3天，那出行將會更有意義更舒服～100分好評給到管家，服務很周到事必鉅細～下次還來多住幾天",
+      "author": "Guest User",
+      "date": "2026-05-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=89868764&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-89868764&trip_sub3=D19127628"
+    },
+    {
+      "quote": "獨棟別墅空間大，裏面娛樂設施很多 周邊環境安靜，管家回覆消息處理問題也很及時～門口就是漂流樂園，很適合一家人或者團建來玩！",
+      "author": "Woaihekeleii",
+      "date": "2026-07-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=89868764&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-89868764&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 75,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:52:21.840Z",
+  "source": "trip"
+}

@@ -1,0 +1,52 @@
+{
+  "id": 1857281,
+  "name": "Moganshan Fangfang Farmhouse",
+  "seedName": "Moganshan Fangfang Farmhouse",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1857281",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1857281&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1857281&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Fangfang Farmhouse?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 12, Yatanwu, Laoling Village, Moganshan Town, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$38",
+  "facilities": [
+    "Cardroom",
+    "Restaurant",
+    "Multi-function room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1857281/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20010k000000b9ny6D02E.jpg"
+    },
+    {
+      "src": "/images/stays/1857281/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0581m12000sk2m76dE2DC.webp"
+    },
+    {
+      "src": "/images/stays/1857281/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0582b12000sqibgup66CF.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "房間挺大的，位置偏了點。老闆服務熱情，路不太好走",
+      "author": "Guest User",
+      "date": "2025-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1857281&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1857281&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.3,
+    "count": 3,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:38:35.988Z",
+  "source": "trip"
+}

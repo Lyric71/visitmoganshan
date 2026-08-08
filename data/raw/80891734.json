@@ -1,0 +1,88 @@
+{
+  "id": 80891734,
+  "name": "nature with you Guesthouse",
+  "seedName": "nature with you Guesthouse",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-80891734",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=80891734&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-80891734&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:Environment is beautiful, backed by mountains with pleasant natural scenery, quiet and secluded(based on 4 reviews) Service:The boss is friendly and helps with finding lost items(based on 11 reviews) Breakfast:Breakfast is rich(based on 5 reviews) Guest Suggestion:Some customers suggest improving hot water availability and ensuring room conditions match online listings for better guest satisfaction.(based on 1 review)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Environment is beautiful, backed by mountains with pleasant natural scenery, quiet and secluded",
+        "count": 4
+      },
+      {
+        "topic": "Service",
+        "text": "The boss is friendly and helps with finding lost items",
+        "count": 11
+      },
+      {
+        "topic": "Breakfast",
+        "text": "Breakfast is rich",
+        "count": 5
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving hot water availability and ensuring room conditions match online listings for better guest satisfaction.",
+      "count": 1
+    }
+  },
+  "address": "武康街道对河口村东风五组, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Gym",
+    "Restaurant",
+    "Playground",
+    "Kids' club"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/80891734/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206u1200090wpiaw7ADC.jpg"
+    },
+    {
+      "src": "/images/stays/80891734/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0204y1200090u4wkt901D.webp"
+    },
+    {
+      "src": "/images/stays/80891734/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0207012000916b1kn534D.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "还可以。。。。。。。。。。。。。。。。。。。zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz",
+      "author": "Guest User",
+      "date": "2024-07-25",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=80891734&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-80891734&trip_sub3=D19127628"
+    },
+    {
+      "quote": "寶藏民宿 強推 真的很好 老闆人也超級nice 説實話一開始定的時候，想着莫干山這個價格又是民宿 抱着不會很好的心態 還自己準備了拖鞋 浴巾 各種用品，結果一樣沒用到，我們的房間是三樓面朝山的，房間整體面積蠻大的 進去就很乾凈，沒有異味，還有除濕機，窗簾馬桶都是電動的，床品才是我很滿意的，床墊枕頭都很乾凈很舒服，毛巾浴巾也都是特別柔軟的，因為是山裡老闆還給房間配了蚊香液，所以地上可能會有死掉的蚊子也能理解，門口有顆超級大的楊梅樹，後面還有泳池，整體環境真的讓人感覺很chill，是超級chill，身心都很放鬆，好玩愛玩下次還來，純自發好評",
+      "author": "Guest User",
+      "date": "2026-06-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=80891734&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-80891734&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房子非常棒！！乾淨整潔，好停車去鎮上也近。老闆人非常好！我們走的時候不小心把超級貴重的物品忘記在房間了，老闆房間裏找了一天幫忙找到寄過來了！太感謝老闆了！房子依山傍水，還有游泳池！強烈推薦！",
+      "author": "Guest User",
+      "date": "2026-04-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=80891734&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-80891734&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 40,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:51:56.535Z",
+  "source": "trip"
+}

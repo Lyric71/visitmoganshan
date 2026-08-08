@@ -1,0 +1,84 @@
+{
+  "id": 5073508,
+  "name": "July Bamboo Qinxiantan Boutique Hostel",
+  "seedName": "July Bamboo Qinxiantan Boutique Hostel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5073508",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5073508&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5073508&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness & Facilities:Rooms and common areas are consistently described as clean, well-maintained, and equipped with modern amenities such as geothermal heating, floor heating, and separate dry/wet bathrooms. The property includes a swimming pool, children’s play areas, and spacious gardens, enhancing guest comfort.(based on 32 reviews) Service Quality:Staff and owners are frequently praised for their friendly, attentive service, including personalized recommendations, assistance with transportation, and accommodating requests like free parking, bike rentals, and pet-friendly policies.(based on 77 reviews) Accommodation Features:Rooms are highlighted for their spacious layouts, comfortable beds, and thoughtful designs (e.g., lofts, terraces, balconies with mountain views). Many rooms feature one-time-use linens, and some include additional perks like pool tables and geothermal heating.(based on 144 reviews) Dining Experience:Breakfast is consistently noted as rich, diverse, and well-prepared, with local specialties and homemade dishes. Some properties offer on-site dining or easy access to nearby restaurants and barbecue facilities.(based on 101 revi",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Facilities",
+        "text": "Rooms and common areas are consistently described as clean, well-maintained, and equipped with modern amenities such as geothermal heating, floor heating, and separate dry/wet bathrooms. The property includes a swimming pool, children’s play areas, and spacious gardens, enhancing guest comfort.",
+        "count": 32
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Staff and owners are frequently praised for their friendly, attentive service, including personalized recommendations, assistance with transportation, and accommodating requests like free parking, bike rentals, and pet-friendly policies.",
+        "count": 77
+      },
+      {
+        "topic": "Accommodation Features",
+        "text": "Rooms are highlighted for their spacious layouts, comfortable beds, and thoughtful designs (e.g., lofts, terraces, balconies with mountain views). Many rooms feature one-time-use linens, and some include additional perks like pool tables and geothermal heating.",
+        "count": 144
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 22, Shenjialing, Village Group 3, Xiantan Village, Moganshan Town, Deqing, Zhejiang, 313200, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Billiards room",
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5073508/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02068120008p7no1nEA66.jpg"
+    },
+    {
+      "src": "/images/stays/5073508/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0584q12000spwx2ot998A.webp"
+    },
+    {
+      "src": "/images/stays/5073508/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0580312000srg9dr0CD38.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Coming to Moganshan with kids to escape the summer heat was the right choice! The guesthouse offers free bicycle rentals, and it's just a few minutes' ride along country lanes to a crystal-clear stream. Taking photos and playing in the...",
+      "author": "Guest User",
+      "date": "2026-06-25",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5073508&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5073508&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I chose the perfect spot for a relaxing getaway to Moganshan. This guesthouse is tucked away right by a bamboo forest, so you step out into a huge expanse of bamboo. The air is so fresh and cool, just sitting...",
+      "author": "Guest User",
+      "date": "2026-06-25",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5073508&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5073508&trip_sub3=D19127628"
+    },
+    {
+      "quote": "We had a very nice stay. The rooms were very nice, and the ayi at the reception very sweet. 100% recommend.",
+      "author": "Guest User",
+      "date": "2025-07-16",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5073508&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5073508&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.1,
+    "count": 287,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:42:46.342Z",
+  "source": "trip"
+}

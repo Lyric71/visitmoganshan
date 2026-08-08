@@ -1,0 +1,68 @@
+{
+  "id": 1015181,
+  "name": "Moganjiuduhuayuanminsu",
+  "seedName": "Moganjiuduhuayuanminsu",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1015181",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1015181&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1015181&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganjiuduhuayuanminsu?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No.57 Lingjiaoxia, Houwu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Cardroom",
+    "Restaurant",
+    "Conference room",
+    "Playground",
+    "Kids' club"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1015181/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3112000smspt6v6732.jpg"
+    },
+    {
+      "src": "/images/stays/1015181/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1212000smrxece5078.webp"
+    },
+    {
+      "src": "/images/stays/1015181/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6512000sms0qgl5804.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "風景好，環境好，老闆姐姐也很好，小黑貓也很乖，隨便摸，房間除了水茶葉還有飲料和零食。度過了非常愉快的一天。院子裏還有游泳池，可惜沒有準備衣服。要去度假的寶寶們可以選擇這裏哦~",
+      "author": "Guest User",
+      "date": "2025-08-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1015181&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1015181&trip_sub3=D19127628"
+    },
+    {
+      "quote": "帶着🐶來度週末。民宿部分公共設施是新翻修的還不錯。在民宿吃了兩頓，老闆廚藝不錯，鹹蹄紅燒肉好吃。愉快的週末！",
+      "author": "maggiezhang",
+      "date": "2025-08-11",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1015181&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1015181&trip_sub3=D19127628"
+    },
+    {
+      "quote": "整體蠻好，新裝修的，應該算是後塢村的中心地段了，還有游泳池，老闆娘很熱情，做的飯菜也沒得説，而且量也很多，紅燒肉更是好吃到停不下來，第二天早飯也管夠",
+      "author": "Anonymous User",
+      "date": "2025-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1015181&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1015181&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.7,
+    "count": 10,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:55:36.706Z",
+  "source": "trip"
+}

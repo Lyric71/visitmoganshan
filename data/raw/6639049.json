@@ -1,0 +1,66 @@
+{
+  "id": 6639049,
+  "name": "Heart & Spirit in Mogan",
+  "seedName": "Heart & Spirit in Mogan",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-6639049",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6639049&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6639049&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Heart & Spirit in Mogan?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Sihe Village, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Bar",
+    "Restaurant",
+    "Water park"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/6639049/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200c15000000xtgidEEC5.jpg"
+    },
+    {
+      "src": "/images/stays/6639049/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200r0d0000006rma800FB.webp"
+    },
+    {
+      "src": "/images/stays/6639049/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200915000000xt7ul4F75.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "一家人住，挺滿意的！老闆家的早餐挺nice，阿姨一早採摘的玉米🌽！想吃飽管夠！來魚鱗壩遊玩的人挺多的！山路進來，單車道，會車比較堵，大家注意錯峯進來，提前導航一下！",
+      "author": "MintLi",
+      "date": "2024-08-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6639049&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6639049&trip_sub3=D19127628"
+    },
+    {
+      "quote": "衞生房間床鋪很乾凈整潔。😁民宿在魚鱗壩附近，走過去很近，玩水小朋友很開心。民宿老闆一家人非常熱情友好，親自做了豐盛的晚餐。好樸實的一家人。非常感謝。後面去了碧塢龍潭，離民宿也很近。強烈推薦呀！以後有機會還會過來噠！",
+      "author": "Guest User",
+      "date": "2023-08-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6639049&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6639049&trip_sub3=D19127628"
+    },
+    {
+      "quote": "離龍鱗壩很近走過去2-3分鐘、帶娃過來玩非常合適，如果不想出去吃飯，酒店附近2-3分鐘路也有土菜館、價格實惠也好吃！總體來説，老闆熱情，一次非常滿意的體驗",
+      "author": "/█\\xiaoshitou/█\\",
+      "date": "2023-08-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6639049&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6639049&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.7,
+    "count": 15,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:44:19.565Z",
+  "source": "trip"
+}

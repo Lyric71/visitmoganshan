@@ -1,0 +1,78 @@
+{
+  "id": 7768212,
+  "name": "Moganshan Dongye Resort Guesthouse",
+  "seedName": "Moganshan Dongye Resort Guesthouse",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-7768212",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=7768212&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-7768212&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness and Comfort:Rooms are highlighted as spotless, with clean bedding, modern amenities, and good insulation. The overall cleanliness of the premises, including common areas and outdoor spaces, is frequently noted as exceptional.(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness and Comfort",
+        "text": "Rooms are highlighted as spotless, with clean bedding, modern amenities, and good insulation. The overall cleanliness of the premises, including common areas and outdoor spaces, is frequently noted as exceptional.",
+        "count": 2
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No.10 Shangdongwu, Duihekou Village, Wukang Sub-district, Deqing, Zhejiang, 313200, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Gym",
+    "Table tennis room",
+    "Cardroom",
+    "Restaurant",
+    "Cafe",
+    "Conference room",
+    "Playground",
+    "Kids' club"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/7768212/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02056120009ua4z0o4F89.jpg"
+    },
+    {
+      "src": "/images/stays/7768212/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1c12000f5a1fy333AF.webp"
+    },
+    {
+      "src": "/images/stays/7768212/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0z12000eg193bf0761.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "一次完美的民宿體驗，老闆很熱情，服務一流，小院子設計別有風味！坐着很愜意 有桌球房，麻將桌，泳池，大朋友小朋友都可以滿足 建議老闆安排早餐，搞點當地特色農家小食，可以算在房費內，畢竟自己吃要開車出去才能有早餐 窗簾的遮光不是特別好，可以換個窗簾，早上天亮就有光線進來了",
+      "author": "Anonymous User",
+      "date": "2025-10-09",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=7768212&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-7768212&trip_sub3=D19127628"
+    },
+    {
+      "quote": "很開心的一次體驗，莫干山下，周圍都是竹林風景很好，非常安靜，是個療養內心的好去處，下次還來。 衞生：乾淨 服務：很好",
+      "author": "Guest User",
+      "date": "2025-11-16",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=7768212&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-7768212&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿環境挺好的，老闆也很熱情，早早地在大門口迎接着，幫忙拿行李。院子很不錯，很漂亮，很喜歡，停車場很大，有個自然山體，很壯觀，有泳池，還有可以吃燒烤的用餐區。室內室外綠植很多，營造的民宿很有氛圍。房間乾淨，可以打麻將，打桌球。總之非常不錯的一次入住體驗。",
+      "author": "Guest User",
+      "date": "2025-09-16",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=7768212&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-7768212&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 62,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:44:50.599Z",
+  "source": "trip"
+}

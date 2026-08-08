@@ -1,0 +1,43 @@
+{
+  "id": 1013440,
+  "name": "Moganshan Mogantianhao Tianhao Homestay",
+  "seedName": "Moganshan Mogantianhao Tianhao Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1013440",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1013440&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1013440&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Mogantianhao Tianhao Homestay?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Lingjiaoxia, Houwu Village, Fatou, Deqing, Zhejiang, 313223, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1013440/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5512000s6v5ukv907A.jpg"
+    },
+    {
+      "src": "/images/stays/1013440/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5r12000s6vdyya30A9.webp"
+    },
+    {
+      "src": "/images/stays/1013440/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD38120009dy00itA0B6.webp"
+    }
+  ],
+  "comments": [],
+  "rating": {
+    "score": 9.2,
+    "count": 1,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:55:29.503Z",
+  "source": "trip"
+}

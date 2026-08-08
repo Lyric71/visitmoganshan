@@ -1,0 +1,76 @@
+{
+  "id": 98553868,
+  "name": "Moganshan Fengxi Mountain Residence",
+  "seedName": "Moganshan Fengxi Mountain Residence",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-98553868",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=98553868&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-98553868&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness and Facilities:Rooms are consistently described as \"clean, tidy, and well-maintained,\" with modern facilities, ample space, and functional amenities .(based on 31 reviews) Service Quality:Hosts are praised for being friendly, helpful, and attentive, providing local recommendations, guiding guests, and offering personalized services .(based on 26 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness and Facilities",
+        "text": "Rooms are consistently described as \"clean, tidy, and well-maintained,\" with modern facilities, ample space, and functional amenities .",
+        "count": 31
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Hosts are praised for being friendly, helpful, and attentive, providing local recommendations, guiding guests, and offering personalized services .",
+        "count": 26
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "莫干山镇燎原村中村5号, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/98553868/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201b120009x6fcmv6AC3.jpg"
+    },
+    {
+      "src": "/images/stays/98553868/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4z12000jf8go635A0D.webp"
+    },
+    {
+      "src": "/images/stays/98553868/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1y12000jf7n8r2099B.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "民宿位置非常方便，環境超好。帶長者孩子一起來的都非常喜歡，民宿有泳池，門口是小溪，老闆做的早飯味道很贊👍孩子説下次來莫干山還要住這裏，非常推薦",
+      "author": "Xiaoxixi",
+      "date": "2026-08-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=98553868&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-98553868&trip_sub3=D19127628"
+    },
+    {
+      "quote": "地理位置絕佳，莫干山三天最愛的就是這個民宿，周圍環境超級chill，鬧中取靜。門口是條小溪和草坪，過了小溪就是庾街，離金魚媽媽，子研麪館各種網紅店很近。距離莫干山集散中心步行10分鐘，很方便。房間很大很乾凈，看上去很新，早餐種類豐富，也很方便停車。老闆人也超熱心，推薦大家來住哦。",
+      "author": "Elaine1&1",
+      "date": "2026-05-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=98553868&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-98553868&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間乾淨，獨棟小別墅，老闆親切熱情，還給升級了更適合家人需要的房間。位置也不錯，步行十分鐘就能到庾村廣場，下次來還住這家",
+      "author": "Guest User",
+      "date": "2025-12-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=98553868&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-98553868&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 58,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:52:31.793Z",
+  "source": "trip"
+}

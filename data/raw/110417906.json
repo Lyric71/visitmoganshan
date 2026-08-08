@@ -1,0 +1,72 @@
+{
+  "id": 110417906,
+  "name": "Moganshan Banshandu Starry Sky Meisu",
+  "seedName": "Moganshan Banshandu Starry Sky Meisu",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-110417906",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=110417906&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-110417906&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Breakfast:A complimentary breakfast is highlighted as a key advantage, featuring local specialties like steamed buns, porridge, and seasonal dishes. While some note it may be insufficient for children, the quality and variety are generally well-received.(based on 28 reviews) Guest Suggestion:Some customers suggest rooms with disposable towels, lack fridges/phones; location hard to find; breakfast simple with cold buns, no drinks/fruits(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Breakfast",
+        "text": "A complimentary breakfast is highlighted as a key advantage, featuring local specialties like steamed buns, porridge, and seasonal dishes. While some note it may be insufficient for children, the quality and variety are generally well-received.",
+        "count": 28
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest rooms with disposable towels, lack fridges/phones; location hard to find; breakfast simple with cold buns, no drinks/fruits",
+      "count": 3
+    }
+  },
+  "address": "Panjiayuan, Xiantan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/110417906/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3i12000boca5zi97AD.jpg"
+    },
+    {
+      "src": "/images/stays/110417906/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6i12000bocfwst2792.webp"
+    },
+    {
+      "src": "/images/stays/110417906/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3i12000boca5zi97AD.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "莫干山一直想去的地方，結果這次體驗感很差。選了這家名宿一去就很後悔了，地理位置不好，沒游泳池等設施，關鍵還選了一間西曬的房間，下午熱的不行（還有其他插曲）。這樣的地理位置和環境，價位偏高。唯一滿意的衹有老闆娘的服務態度還是，其他體驗感都不好。 看",
+      "author": "Guest User",
+      "date": "2026-08-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=110417906&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-110417906&trip_sub3=D19127628"
+    },
+    {
+      "quote": "定的親子房，有驚喜哦，可以直接在陽台上眺望遠處的景觀，早餐雖簡單但是很合口味！民宿小姐姐服務很到位，基本有問必答，有什麼都能溝通。1樓休息區還帶着小朋友玩了很久桌遊，是放鬆的好地方哦ps還有可愛小動物",
+      "author": "pin33",
+      "date": "2026-07-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=110417906&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-110417906&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿在仙潭鎮內,離吃飯的地方比較近,離江南碧塢200多米,房間視野很棒,有大客廳,佈置的很用心,民宿還養了貓咪和兔子,很親人,女管家很貼心很熱情,開車比較累膝蓋痛,管家貼心送我兩片葯膏,隱形眼鏡護理液沒帶,也是找管家要的,感覺像個哆啦A夢什麼都有,還提醒我喝中葯,感動ing,民宿的早飯是中式的,兩個人絕對夠了,可惜第二天要上班,不然我真的想多住住,像家一樣的民宿",
+      "author": "Feixiangdeshaomai",
+      "date": "2026-06-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=110417906&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-110417906&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.3,
+    "count": 122,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:54:15.172Z",
+  "source": "trip"
+}

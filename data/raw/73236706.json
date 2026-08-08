@@ -1,0 +1,73 @@
+{
+  "id": 73236706,
+  "name": "Mogan mountain Fanli Mountain Residence",
+  "seedName": "Mogan mountain Fanli Mountain Residence",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-73236706",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=73236706&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-73236706&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness and Environment:Multiple reviews emphasize the cleanliness of rooms, bathrooms, and shared areas. The environment is characterized as quiet, comfortable, and well-maintained, with some mentioning the aesthetic appeal of the property and its natural surroundings.(based on 73 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness and Environment",
+        "text": "Multiple reviews emphasize the cleanliness of rooms, bathrooms, and shared areas. The environment is characterized as quiet, comfortable, and well-maintained, with some mentioning the aesthetic appeal of the property and its natural surroundings.",
+        "count": 73
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No3ganjia village liaoyuan village mogan town, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/73236706/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206n120009k20i690651.jpg"
+    },
+    {
+      "src": "/images/stays/73236706/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2012000awk5vppD413.webp"
+    },
+    {
+      "src": "/images/stays/73236706/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0m12000ariuz78AC76.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "老闆一家超級友好，早飯很有地方特色，味道很棒，房間也很敞亮整潔，出門拐個彎即是庾村，晚上可以逛逛庾村，吃喝玩都能滿足，民宿斜對面就是莫干山遊客中心，直接買聯票直接可以接駁到山上，非常方便！也體驗到了山路飛車（有點小刺激）",
+      "author": "Guest User",
+      "date": "2026-07-15",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=73236706&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-73236706&trip_sub3=D19127628"
+    },
+    {
+      "quote": "地理位置挺方便，對面就是旅遊集散中心，離庾村廣場很近，老闆很熱情，臨走還幫我們行李箱送到門口，老闆娘也很好，推薦了當地好玩和好吃的地方，有機會還會再來的。",
+      "author": "Guest User",
+      "date": "2026-06-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=73236706&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-73236706&trip_sub3=D19127628"
+    },
+    {
+      "quote": "老闆非常熱情 早餐也不錯 地理位置也不錯 但可惜在房間的空調了 一到晚上就哄哄的響 稍微有點影響睡眠了 希望能早點修好。將來還會來玩的",
+      "author": "Guest User",
+      "date": "2026-08-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=73236706&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-73236706&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 181,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:50:53.387Z",
+  "source": "trip"
+}

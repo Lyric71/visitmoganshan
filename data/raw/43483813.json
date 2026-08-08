@@ -1,0 +1,69 @@
+{
+  "id": 43483813,
+  "name": "Romantic Time",
+  "seedName": "Romantic Time",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-43483813",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=43483813&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-43483813&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Romantic Time?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "莫干山镇瑶坞村34号, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Billiards room",
+    "Cardroom",
+    "Restaurant",
+    "Conference room",
+    "Multi-function room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/43483813/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1612000omdoxbaCB29.jpg"
+    },
+    {
+      "src": "/images/stays/43483813/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2l12000omdc1pj8A85.webp"
+    },
+    {
+      "src": "/images/stays/43483813/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3512000omcox6i6069.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Very good, the B&B owner was very nice.",
+      "author": "Hekesemuxiaotong",
+      "date": "2026-08-03",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=43483813&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-43483813&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房子乾淨整潔，老闆娘熱情好客，主動跟我們説哪條路最近，離瑤塢很近，穿個馬路就可以到，離莫干山也大概十來分鐘左右車程，小院不大，環境挺好的",
+      "author": "Guest User",
+      "date": "2026-04-22",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=43483813&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-43483813&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿就在江南瑤塢對面，走過去距離很近。店家超熱情、幫我們直接帶到可以過馬路的路口。菜燒的口味也蠻合適的，聽説廚師之前是在部隊燒的，可以要求鹹淡、點了兩頓鱸魚，是水庫的、巨好吃。ps，他們家的小朋友性格也很好、我家寶寶和她玩得很開心🥳",
+      "author": "shirley11",
+      "date": "2026-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=43483813&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-43483813&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 73,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:48:52.977Z",
+  "source": "trip"
+}

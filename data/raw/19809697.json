@@ -1,0 +1,77 @@
+{
+  "id": 19809697,
+  "name": "Moganshan Xuandi Sports Wine Club Homestay",
+  "seedName": "Moganshan Xuandi Sports Wine Club Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-19809697",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=19809697&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-19809697&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Hygiene:Rooms and bathrooms are consistently described as clean, bright, and well-maintained, with modern industrial minimalist decor. The hotel emphasizes cleanliness standards, ensuring guests enjoy a sanitary environment during their stay.(based on 8 reviews) Guest Suggestion:Some customers suggest improving facility maintenance (unreliable Wi-Fi, outdated locks, poor curtain shading) and enhancing service quality (basic breakfast, insufficient staff).(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Hygiene",
+        "text": "Rooms and bathrooms are consistently described as clean, bright, and well-maintained, with modern industrial minimalist decor. The hotel emphasizes cleanliness standards, ensuring guests enjoy a sanitary environment during their stay.",
+        "count": 8
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving facility maintenance (unreliable Wi-Fi, outdated locks, poor curtain shading) and enhancing service quality (basic breakfast, insufficient staff).",
+      "count": 3
+    }
+  },
+  "address": "No. 29, Yucun Village Old Vegetable Market, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/19809697/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201v120009wy506jCD9D.jpg"
+    },
+    {
+      "src": "/images/stays/19809697/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5012000b7otrwa11D5.webp"
+    },
+    {
+      "src": "/images/stays/19809697/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1812000b7plrqw88A6.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "設施：有游泳池，孩子們玩的很開心，離景區也特別近，步行即可 衞生：不錯，游泳池也比較乾淨 環境：不錯，周邊就是繁華街區 服務：不錯",
+      "author": "Guest User",
+      "date": "2025-10-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=19809697&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-19809697&trip_sub3=D19127628"
+    },
+    {
+      "quote": "位置很好，出門很多吃的，對面還有星巴克，停車位有點少，房間佈局不錯，就是衞生細節不到位，泳池水稍微渾了一點，老闆人還不錯",
+      "author": "Naxienianwomenyiqiquguodedifang",
+      "date": "2025-08-22",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=19809697&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-19809697&trip_sub3=D19127628"
+    },
+    {
+      "quote": "這次是去參加越野跑比賽的，早早就預訂了離起點700多米的酒店，為了出行方便，酒店日常維護一般，看起來很舊的樣子，進房間撲面而來一陣潮濕的黴味，在底樓，沒有窗户，通風不好，很多大蚊子嗡嗡響，點了三個液體蚊香還不行，後來加了一個圓盤蚊香，人也差點被薰倒，本想早點休息第二天要比賽，奈何隔音太差，腳步聲，講話聲，洗澡水聲，甚至沖馬桶的水聲，聲聲入耳，擾得無法安睡，第一次寫點評，真的想吐槽一下我的入住感受！",
+      "author": "Guest User",
+      "date": "2025-10-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=19809697&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-19809697&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.9,
+    "count": 24,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:46:47.284Z",
+  "source": "trip"
+}

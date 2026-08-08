@@ -1,0 +1,81 @@
+{
+  "id": 2021799,
+  "name": "Shangguanju lnn",
+  "seedName": "Shangguanju lnn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2021799",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2021799&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2021799&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Facilities:The public areas of some homestays are large, with facilities like K-song and mahjong in the living room. Some also have swimming pools.(based on 2 reviews) Service:The staff provide abundant breakfast, local characteristic dinners, help make travel guides, and for business trips, arrange work meals and deliver them to the activity site.(based on 1 review) Hygiene:The rooms are clean, with beddings and towels changed one guest at a time, and no unpleasant odors(based on 7 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Facilities",
+        "text": "The public areas of some homestays are large, with facilities like K-song and mahjong in the living room. Some also have swimming pools.",
+        "count": 2
+      },
+      {
+        "topic": "Service",
+        "text": "The staff provide abundant breakfast, local characteristic dinners, help make travel guides, and for business trips, arrange work meals and deliver them to the activity site.",
+        "count": 1
+      },
+      {
+        "topic": "Hygiene",
+        "text": "The rooms are clean, with beddings and towels changed one guest at a time, and no unpleasant odors",
+        "count": 7
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 35 Shangguan, Xiantan Village, Moganshan Town, Deqing, Zhejiang, 313202, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant",
+    "Laundry room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/2021799/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2B0s0t000000ijwtjF45E.jpg"
+    },
+    {
+      "src": "/images/stays/2021799/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200d0t000000ic80lB650.webp"
+    },
+    {
+      "src": "/images/stays/2021799/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20060t000000iebopFB57.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "想去碧塢龍潭玩，就定了仙潭村的民宿，朋友們都説定對了，環境很棒，大家都很羨慕能一直住在這裏。民宿視野超好，房間就能看到山。衞生搞得很乾凈，房間很大，佈置的好，院子裏還有游泳池，這次天氣不是太好就沒讓小朋友下水，夏天可以在泳池玩太開心了。下次來還定這裏！",
+      "author": "Guest User",
+      "date": "2025-10-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2021799&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2021799&trip_sub3=D19127628"
+    },
+    {
+      "quote": "非常好，環境好，房子對面就是大山，附近還有小溪河流，家人們玩的很開心，老闆服務也特別好，準備的早餐很豐盛，晚餐也很有當地特色，量也很足，還幫我們制定附近遊玩攻略，下次一定還帶着家人再來，一次完美的假期旅行",
+      "author": "Guest User",
+      "date": "2025-10-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2021799&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2021799&trip_sub3=D19127628"
+    },
+    {
+      "quote": "和朋友來莫干山團建，訂了上官居整棟的7間房，大家都誇我會選！民宿的公共區域很大，客廳有K歌和麻將，晚上我們一起玩特別熱鬧。院子裏可以燒烤，我們定了一個烤全羊和一些燒烤邊烤邊聊，氛圍超棒。看到泳池小朋友一定要下水，這個天氣有點涼啊，玩的很開心，村裡小溪邊散步，空氣裏都是青草的味道，這種慢生活真的太愜意了，已經約好下次再來！",
+      "author": "Guest User",
+      "date": "2025-09-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2021799&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2021799&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 12,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:59:18.595Z",
+  "source": "trip"
+}

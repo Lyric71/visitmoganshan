@@ -1,0 +1,36 @@
+{
+  "id": 5560526,
+  "name": "Old Times Inn",
+  "seedName": "Old Times Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5560526",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5560526&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5560526&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Old Times Inn?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Near No. 09 Provincial Road (Tongjia Village), Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/5560526/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200v0j0000009yyp372F1.jpg"
+    },
+    {
+      "src": "/images/stays/5560526/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200a1b000001bh4sm309C.webp"
+    },
+    {
+      "src": "/images/stays/5560526/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200h07000000211s57CB1.webp"
+    }
+  ],
+  "comments": [],
+  "rating": null,
+  "sourcedAt": "2026-08-08T16:06:38.571Z",
+  "source": "trip"
+}

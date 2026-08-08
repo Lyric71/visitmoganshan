@@ -1,0 +1,50 @@
+{
+  "id": 5032311,
+  "name": "Leaves Farmhouse",
+  "seedName": "Leaves Farmhouse",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5032311",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5032311&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5032311&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Leaves Farmhouse?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 3 Langjiakeng, Xiantan Village, Moganshan Town, Deqing, Zhejiang, 313204, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5032311/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200s0f0000007mixh4FD9.jpg"
+    },
+    {
+      "src": "/images/stays/5032311/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/020021200085amjig83A1.webp"
+    },
+    {
+      "src": "/images/stays/5032311/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02020120008ksn5fhDF88.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "環境很乾凈，老闆娘人非常熱情，有一種回家的感覺",
+      "author": "Guest User",
+      "date": "2025-08-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5032311&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5032311&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 1,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:05:11.411Z",
+  "source": "trip"
+}

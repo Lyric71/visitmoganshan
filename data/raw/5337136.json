@@ -1,0 +1,77 @@
+{
+  "id": 5337136,
+  "name": "Moganshan xiufeng hu house",
+  "seedName": "Moganshan xiufeng hu house",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5337136",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5337136&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5337136&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Hygiene and Facilities:The rooms are clean and tidy, and disposable slippers need to be changed when entering. The rooms in Yuan Ge are well-equipped, and the bed is very soft. The sunroom for breakfast has a rich variety of food.(based on 2 reviews) Service and Hospitality:The owners are very enthusiastic and hospitable, can provide good suggestions for scenic spots, and the proprietress's cooking is delicious. There is a small pavilion on the second floor of the restaurant, which is perfect for watching the sunrise(based on 1 review)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Hygiene and Facilities",
+        "text": "The rooms are clean and tidy, and disposable slippers need to be changed when entering. The rooms in Yuan Ge are well-equipped, and the bed is very soft. The sunroom for breakfast has a rich variety of food.",
+        "count": 2
+      },
+      {
+        "topic": "Service and Hospitality",
+        "text": "The owners are very enthusiastic and hospitable, can provide good suggestions for scenic spots, and the proprietress's cooking is delicious. There is a small pavilion on the second floor of the restaurant, which is perfect for watching the sunrise",
+        "count": 1
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No.5 Doujiangwu, Nanlu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Cardroom",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5337136/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205u12000dr322zaB12A.jpg"
+    },
+    {
+      "src": "/images/stays/5337136/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0583112000sq317epC884.webp"
+    },
+    {
+      "src": "/images/stays/5337136/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0584r12000sp1j6m745DC.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "名宿位置不算特別明顯，門口的招牌特別顯眼，免費停車，有遮陽網，很涼快，房間特別乾淨，庭院非常優美，餐廳二樓有個小涼亭，早上看日出非常完美。",
+      "author": "Guest User",
+      "date": "2023-08-13",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5337136&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5337136&trip_sub3=D19127628"
+    },
+    {
+      "quote": "老闆和老闆娘特別熱情，進去需要換鞋，有一種家的親切感，早飯是老闆娘親自做的，鹹菜筍乾特別好吃，早餐搭配也很精緻健康！",
+      "author": "Doudingmiaoqi",
+      "date": "2023-08-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5337136&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5337136&trip_sub3=D19127628"
+    },
+    {
+      "quote": "名宿位置不算特別明顯，門口的招牌特別顯眼，免費停車，有遮陽網，很涼快，房間特別乾淨，庭院非常優美，餐廳二樓有個小涼亭，早上看日出非常完美。",
+      "author": "Guest User",
+      "date": "2023-08-13",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5337136&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5337136&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.2,
+    "count": 10,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:05:51.071Z",
+  "source": "trip"
+}

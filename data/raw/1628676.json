@@ -1,0 +1,38 @@
+{
+  "id": 1628676,
+  "name": "Xia Village No. 78 Farmhouse",
+  "seedName": "Xia Village No. 78 Farmhouse",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1628676",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1628676&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1628676&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Xia Village No. 78 Farmhouse?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 78, Xia Village, Houwu Village, Fatou Township, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$41",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1628676/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0585t12000sqhbgzlC85D.jpg"
+    },
+    {
+      "src": "/images/stays/1628676/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/t1/hotel/996000/995107/fb00b8450a78452597bd49262cd6ac04.webp"
+    },
+    {
+      "src": "/images/stays/1628676/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0585t12000sqhbgzlC85D.webp"
+    }
+  ],
+  "comments": [],
+  "rating": null,
+  "sourcedAt": "2026-08-08T15:39:44.415Z",
+  "source": "trip"
+}

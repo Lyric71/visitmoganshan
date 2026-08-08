@@ -1,0 +1,85 @@
+{
+  "id": 40872560,
+  "name": "Moganshan Qingzhuo Shanju Homestay (Yucun)",
+  "seedName": "Moganshan Qingzhuo Shanju Homestay (Yucun)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-40872560",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=40872560&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-40872560&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment Location:Located in bustling areas, close to scenic spots, transfer centers, with various restaurants, cafes around, and beautiful lawns in front(based on 37 reviews) Hygiene:Rooms are clean and tidy, overall hygiene is satisfactory(based on 48 reviews) Facilities:Facilities are complete, with free parking lots, some rooms have facilities for viewing sunrises(based on 19 reviews) Service Quality:Service staff such as the proprietress are enthusiastic and thoughtful, can provide travel suggestions(based on 40 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment Location",
+        "text": "Located in bustling areas, close to scenic spots, transfer centers, with various restaurants, cafes around, and beautiful lawns in front",
+        "count": 37
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Rooms are clean and tidy, overall hygiene is satisfactory",
+        "count": 48
+      },
+      {
+        "topic": "Facilities",
+        "text": "Facilities are complete, with free parking lots, some rooms have facilities for viewing sunrises",
+        "count": 19
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Service staff such as the proprietress are enthusiastic and thoughtful, can provide travel suggestions",
+        "count": 40
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "燎原村席家山, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurante"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/40872560/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205j12000legfus28EBE.jpg"
+    },
+    {
+      "src": "/images/stays/40872560/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1j12000ej2cygo05CD.webp"
+    },
+    {
+      "src": "/images/stays/40872560/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3j12000kw1uo2r8545.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "A wonderful experience during stay at this hotel,whihc features a perfect blend of comfort and convenience.it take only 20 minutes from bus station to Mogan mountain station, other than that, this hotel is located at bustling Yucun county,a variety of...",
+      "author": "Guest User",
+      "date": "2025-05-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=40872560&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-40872560&trip_sub3=D19127628"
+    },
+    {
+      "quote": "住在這家民宿裏，相當於住在了風景裏了真是，民宿位置很便利，衞生乾淨整潔，老闆娘服務真的很熱情呀，民宿還有免費的停車場，早餐也很美味，設施很齊全，推薦哦。",
+      "author": "Guest User",
+      "date": "2026-07-22",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=40872560&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-40872560&trip_sub3=D19127628"
+    },
+    {
+      "quote": "這家民宿乾淨又大氣，推開門遠處的山景一覽無遺，吃飯逛街都很方便，早餐也很豐富，各方面都遠超預期，值得再次入住。",
+      "author": "Guest User",
+      "date": "2026-07-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=40872560&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-40872560&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 85,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:48:23.514Z",
+  "source": "trip"
+}

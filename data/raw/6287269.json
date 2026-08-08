@@ -1,0 +1,40 @@
+{
+  "id": 6287269,
+  "name": "Xiangcunqingshe",
+  "seedName": "Xiangcunqingshe",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-6287269",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6287269&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6287269&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Xiangcunqingshe?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 18, Shangxiazhuang, Lanshukeng Village, Moganshan Town (near Luoxingu), Deqing, Zhejiang, China",
+  "priceRange": "From US$31",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/6287269/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02267120008a554fkF078.jpg"
+    },
+    {
+      "src": "/images/stays/6287269/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0221b120008a16mtpF232.webp"
+    },
+    {
+      "src": "/images/stays/6287269/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0224f120008a2nbcc79AA.webp"
+    }
+  ],
+  "comments": [],
+  "rating": {
+    "score": 9.3,
+    "count": 3,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:38:30.470Z",
+  "source": "trip"
+}

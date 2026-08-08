@@ -1,0 +1,94 @@
+{
+  "id": 36469561,
+  "name": "Minglin Art Hostel",
+  "seedName": "Minglin Art Hostel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-36469561",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=36469561&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-36469561&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Environment:Nestled in a mountainous area surrounded by bamboo forests, offering serene, private views of nature. Proximity to attractions like Longtan and Xiantan scenic areas .(based on 14 reviews) Accommodation:Clean, well-maintained rooms with large windows, some featuring private courtyards. Rooms are described as quiet, with natural elements like fresh air and ambient sounds .(based on 6 reviews) Service:Hosts are consistently praised for hospitality, attentiveness, and willingness to meet guest needs .(based on 37 reviews) Cuisine:Highlighted for delicious, locally sourced meals, particularly Sichuan-style hot pot and breakfast options.(based on 9 reviews) Amenities:Basic facilities are functional, with some noting room upgrades .(based on 20 reviews) Guest Suggestion:Some customers suggest improving the property's value for money and enhancing staff friendliness, as some found the service lacking warmth and the pricing not justified by the experience.(based on 5 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Nestled in a mountainous area surrounded by bamboo forests, offering serene, private views of nature. Proximity to attractions like Longtan and Xiantan scenic areas .",
+        "count": 14
+      },
+      {
+        "topic": "Accommodation",
+        "text": "Clean, well-maintained rooms with large windows, some featuring private courtyards. Rooms are described as quiet, with natural elements like fresh air and ambient sounds .",
+        "count": 6
+      },
+      {
+        "topic": "Service",
+        "text": "Hosts are consistently praised for hospitality, attentiveness, and willingness to meet guest needs .",
+        "count": 37
+      },
+      {
+        "topic": "Cuisine",
+        "text": "Highlighted for delicious, locally sourced meals, particularly Sichuan-style hot pot and breakfast options.",
+        "count": 9
+      },
+      {
+        "topic": "Amenities",
+        "text": "Basic facilities are functional, with some noting room upgrades .",
+        "count": 20
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving the property's value for money and enhancing staff friendliness, as some found the service lacking warmth and the pricing not justified by the experience.",
+      "count": 5
+    }
+  },
+  "address": "No.59 Group 13, Xiantan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/36469561/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6312000axy5xae774F.jpg"
+    },
+    {
+      "src": "/images/stays/36469561/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5t12000bl789n84DF4.webp"
+    },
+    {
+      "src": "/images/stays/36469561/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3c12000m3d3ngn8F93.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "和朋友一起帶着孩子來住的，來前和店家溝通了很多，都很有耐心認真解答，來了很慶幸選對地方了，窗外山景很美，賞心悦目，附近有咖啡店、山頂看落日小孩都超開心。早餐手工麪很好吃，晚上還能看到螢火蟲特別有意思，老闆娘熱情貼心，親子游首選！",
+      "author": "Lvyoudazijidehanwo",
+      "date": "2026-07-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=36469561&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-36469561&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿的環境非常好，在山腰，滿滿的山居氛圍感，拍照很出片，穿白色或淺色的衣服會更好看！天氣好的時候院子和步行道的色彩很鮮明。房間的床上用品嶄新乾淨，感覺很整潔。餐飲推薦土雞煲，味道鮮美。從入住到退房體驗感都很好。",
+      "author": "Zxiansheng1988",
+      "date": "2026-06-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=36469561&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-36469561&trip_sub3=D19127628"
+    },
+    {
+      "quote": "露台的小水池加分，開窗就是整片竹海，環境視野都很棒。老闆很熱情，菜特別清口，，出行會幫忙接送。房間很舒服，比照片大很多，傍晚散步小路還偶遇螢火蟲，旁邊就是龍潭景區，散步方便，有機會還會再來。",
+      "author": "Guest User",
+      "date": "2026-07-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=36469561&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-36469561&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.2,
+    "count": 68,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:48:01.860Z",
+  "source": "trip"
+}

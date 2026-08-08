@@ -1,0 +1,64 @@
+{
+  "id": 4547247,
+  "name": "Moganshan St story homestay",
+  "seedName": "Moganshan St story homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-4547247",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4547247&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4547247&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan St story homestay?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No.55 Langjia Village, Xiantan Village, Moganshan Town, Deqing, Zhejiang, 313200, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/4547247/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200b13000000vdnze9C3C.jpg"
+    },
+    {
+      "src": "/images/stays/4547247/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200x1200082ih3j23EDD.webp"
+    },
+    {
+      "src": "/images/stays/4547247/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0202p1200082igobyC877.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "帶着金毛，店家對寵物很友好，衞生也不錯，我們是一家三口，總的很不錯。第二天另外兩家小夥伴我也推薦他們來了。",
+      "author": "Guest User",
+      "date": "2026-04-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4547247&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4547247&trip_sub3=D19127628"
+    },
+    {
+      "quote": "挺不錯的，就在村裡，周邊吃飯比較方便，有兩三家以上店家，住宿點在大路後排，注意指示牌來走。早餐是店家自己準備的，挺豐富的，味道很好，粥熬的挺好。房間挺不錯，佈置的挺温馨。旁邊就是公交站點，交通方便。",
+      "author": "Guest User",
+      "date": "2024-07-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4547247&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4547247&trip_sub3=D19127628"
+    },
+    {
+      "quote": "一次很不錯的民宿體驗，給房東的廚藝點個贊，服務挺熱情周到的，有什麼需要美麗的老闆娘第一時間都安排的妥妥的，真心推薦",
+      "author": "Guest User",
+      "date": "2024-08-18",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4547247&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4547247&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.8,
+    "count": 5,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:03:54.456Z",
+  "source": "trip"
+}

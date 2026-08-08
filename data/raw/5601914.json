@@ -1,0 +1,90 @@
+{
+  "id": 5601914,
+  "name": "Modong Moqiu Boutique Hostel",
+  "seedName": "Modong Moqiu Boutique Hostel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5601914",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5601914&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5601914&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Breakfast:Consistently praised for being homemade, diverse , and flavorful, with some guests noting it as a highlight.(based on 8 reviews) Cleanliness:Rooms described as \"clean,\" \"tidy,\" and \"sanitary,\" with wooden floors and well-maintained facilities.(based on 19 reviews) Service:Hosts were repeatedly noted as \"friendly,\" \"attentive,\" and helpful in providing local recommendations or arranging meals.(based on 14 reviews) Location:Proximity to Moganshan attractions and convenient parking.(based on 4 reviews) Ambiance:Natural surroundings and rustic design enhanced the stay. Accessibility:Free parking, easy access to nearby restaurants, and availability of basic amenities .(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Breakfast",
+        "text": "Consistently praised for being homemade, diverse , and flavorful, with some guests noting it as a highlight.",
+        "count": 8
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms described as \"clean,\" \"tidy,\" and \"sanitary,\" with wooden floors and well-maintained facilities.",
+        "count": 19
+      },
+      {
+        "topic": "Service",
+        "text": "Hosts were repeatedly noted as \"friendly,\" \"attentive,\" and helpful in providing local recommendations or arranging meals.",
+        "count": 14
+      },
+      {
+        "topic": "Location",
+        "text": "Proximity to Moganshan attractions and convenient parking.",
+        "count": 4
+      },
+      {
+        "topic": "Ambiance",
+        "text": "Natural surroundings and rustic design enhanced the stay. Accessibility:Free parking, easy access to nearby restaurants, and availability of basic amenities .",
+        "count": 3
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No.29 Waicun, Ziling Village, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5601914/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200j0i00000097pk7AE08.jpg"
+    },
+    {
+      "src": "/images/stays/5601914/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200r0h0000008ot959F75.webp"
+    },
+    {
+      "src": "/images/stays/5601914/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200c060000001pqdm4BC8.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "和朋友一起來湖州玩，第三站莫干山訂的是民宿，這家裝修風格我太喜歡了，一眼相中，火速下單。房間蠻大的，有個大陽台，可以喝個茶聊聊天，很愜意。榻榻米睡得很舒服，房間也乾淨。民宿帶個小花園，很小清新。老闆和老闆很熱情，還包含早飯，農家早餐，符合我的口味。玩了3天，定了3個住的地方，這家最滿意。莫干山的民宿出名的😄",
+      "author": "Doubing、",
+      "date": "2025-10-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5601914&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5601914&trip_sub3=D19127628"
+    },
+    {
+      "quote": "全木質風格，樓下換鞋，整體衞生不錯。房間是閣樓，房東考慮到天氣比較熱，空調還貼心地提前幫我們開好了。早上打開閣樓天窗看了下週邊風景，身處大自然環抱中，一片靜謐綠色。要説缺點的話，衞生間沒有門，衹有簾子，上大號會影響整個空間。",
+      "author": "Kaka",
+      "date": "2025-08-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5601914&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5601914&trip_sub3=D19127628"
+    },
+    {
+      "quote": "主打一個喜歡，慢生活模式，房間質樸温馨，乾淨整潔，沒有嘗阿姨的手藝有點遺憾，下次來補😀",
+      "author": "Guest User",
+      "date": "2025-09-16",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5601914&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5601914&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 40,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:06:48.882Z",
+  "source": "trip"
+}

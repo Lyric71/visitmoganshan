@@ -1,0 +1,85 @@
+{
+  "id": 8031192,
+  "name": "Tuju Hotel",
+  "seedName": "Tuju Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-8031192",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8031192&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8031192&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Highly praised for its convenient access to Mogan Mountain, proximity to natural attractions, and ease of exploring the surrounding countryside.(based on 1 review) Service & Atmosphere:Warm and welcoming hosts, with positive interactions noted in multiple reviews .(based on 5 reviews) Cleanliness & Facilities:Rooms described as clean, tidy, and well-maintained, with basic amenities and some recreational activities .(based on 3 reviews) Local Experiences:Opportunities to engage with rural activities and enjoy scenic walks in the nearby mountains. Dining:Complimentary or reasonably priced meals, with positive feedback on breakfast quality and portion size.(based on 1 review)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Highly praised for its convenient access to Mogan Mountain, proximity to natural attractions, and ease of exploring the surrounding countryside.",
+        "count": 1
+      },
+      {
+        "topic": "Atmosphere",
+        "text": "Warm and welcoming hosts, with positive interactions noted in multiple reviews .",
+        "count": 5
+      },
+      {
+        "topic": "Facilities",
+        "text": "Rooms described as clean, tidy, and well-maintained, with basic amenities and some recreational activities .",
+        "count": 3
+      },
+      {
+        "topic": "Local Experiences",
+        "text": "Opportunities to engage with rural activities and enjoy scenic walks in the nearby mountains. Dining:Complimentary or reasonably priced meals, with positive feedback on breakfast quality and portion size.",
+        "count": 1
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 21 Hecun Village, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/8031192/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0585g12000spuwyqeE2A2.jpg"
+    },
+    {
+      "src": "/images/stays/8031192/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2001190000016nzddD615.webp"
+    },
+    {
+      "src": "/images/stays/8031192/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2006190000016bonjA103.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Good location in Moganshan. With old style room . Need some improvements .",
+      "author": "A.M.K",
+      "date": "2023-10-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8031192&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8031192&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Not a very satisfactory stay. We arrived at the B&B around 7 o'clock. The receptionist was a little girl (the owner's daughter) and a drunken male owner. We were supposed to stay in Room 203 Qiushi (a family room of...",
+      "author": "Guest User",
+      "date": "2024-05-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8031192&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8031192&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The boss was very welcoming, the room was clean and comfortable, and I had a wonderful three-day vacation.",
+      "author": "Guest User",
+      "date": "2024-02-15",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8031192&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8031192&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.3,
+    "count": 11,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:45:08.523Z",
+  "source": "trip"
+}

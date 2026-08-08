@@ -1,0 +1,97 @@
+{
+  "id": 5911914,
+  "name": "Chum Lure",
+  "seedName": "Chum Lure",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5911914",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5911914&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5911914&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Environment:Nestled near a lake or reservoir, surrounded by mountains and forests, offering serene landscapes, lake views, and autumn or winter scenery. Close to Yu Village and nearby attractions such as coffee shops, forests, and cafes.(based on 5 reviews) Service:Friendly, attentive staff . Clear communication pre-arrival .(based on 14 reviews) Amenities & Facilities:Clean, well-designed interiors with minimalist, high-end aesthetics; comfortable bedding; spacious rooms with lake views; public areas .(based on 17 reviews) Cleanliness:Consistently praised for cleanliness, including rooms, bathrooms, and public spaces.(based on 14 reviews) Experiences:Lakeside tea/afternoon tea, sunrise views, local farm-to-table breakfast , and opportunities for relaxation in natural settings.(based on 3 reviews) Guest Suggestion:Some customers suggest the outdoor pool water quality could be improved (discolored and with small insects) and housekeeping services may need more attention to cleanliness standards.(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Nestled near a lake or reservoir, surrounded by mountains and forests, offering serene landscapes, lake views, and autumn or winter scenery. Close to Yu Village and nearby attractions such as coffee shops, forests, and cafes.",
+        "count": 5
+      },
+      {
+        "topic": "Service",
+        "text": "Friendly, attentive staff . Clear communication pre-arrival .",
+        "count": 14
+      },
+      {
+        "topic": "Facilities",
+        "text": "Clean, well-designed interiors with minimalist, high-end aesthetics; comfortable bedding; spacious rooms with lake views; public areas .",
+        "count": 17
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Consistently praised for cleanliness, including rooms, bathrooms, and public spaces.",
+        "count": 14
+      },
+      {
+        "topic": "Experiences",
+        "text": "Lakeside tea/afternoon tea, sunrise views, local farm-to-table breakfast , and opportunities for relaxation in natural settings.",
+        "count": 3
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest the outdoor pool water quality could be improved (discolored and with small insects) and housekeeping services may need more attention to cleanliness standards.",
+      "count": 3
+    }
+  },
+  "address": "Building 3, Mengxihu Villa, Qingdiaowu, Wusi Village, Deqing, Zhejiang, China",
+  "priceRange": "From US$81",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Cafe",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5911914/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02029120008fzqo6v9B09.jpg"
+    },
+    {
+      "src": "/images/stays/5911914/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0x12000o62qnx65B5A.webp"
+    },
+    {
+      "src": "/images/stays/5911914/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4y12000t2uq0ldD5A3.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Great location, you can walk directly to the rafting site. The room was clean and tidy.",
+      "author": "Guest User",
+      "date": "2026-07-23",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5911914&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5911914&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Facilities: There is a problem with the hot water pipe in the master bedroom. The master bedroom cannot produce hot water. It is difficult to take a shower at night and in the morning. I can't wash in the morning....",
+      "author": "Guest User",
+      "date": "2023-11-09",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5911914&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5911914&trip_sub3=D19127628"
+    },
+    {
+      "quote": "住宿，最重要就是乾淨衞生，這家就具備了, 定的榻榻米，但是床拼起來之後空間也很大了, 睡的蠻舒服的, 老闆是有品位的人，民宿處處裝修的很有格調, 房間也到處香香的, 啊！早飯也很好吃！分量足夠啦, 入住前，老闆還會聯繫，提前幫忙打開空調, 因為定的房型，沒有電視，老闆還借了一個投影, 總之很愉快的入住體驗, 莫干山這邊就適合啥也不幹來放空",
+      "author": "Guest User",
+      "date": "2026-07-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5911914&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5911914&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 46,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:43:29.791Z",
+  "source": "trip"
+}

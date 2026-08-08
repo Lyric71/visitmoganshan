@@ -1,0 +1,64 @@
+{
+  "id": 914685,
+  "name": "Shimen Mountain Villa",
+  "seedName": "Shimen Mountain Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-914685",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=914685&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-914685&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Shimen Mountain Villa?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 14 Yangwukeng, Xiantan Village, Deqing, Zhejiang, China",
+  "priceRange": "From US$42",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/914685/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0581412000spgue0p97EA.jpg"
+    },
+    {
+      "src": "/images/stays/914685/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201s1200088ldzuw1202.webp"
+    },
+    {
+      "src": "/images/stays/914685/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD5p120009fgfa2s6677.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "老闆娘不錯，我們這裏距離碧烏龍潭特別近，10分鐘車程不到。如果要訂碧烏龍潭的票，可以找老闆娘拿優惠價格。距離莫干山庾村集散點大概20~30分鐘車程，也是適中的。綜合一下，性價比高。老闆娘還免費提供了早飯，棒棒的。",
+      "author": "Guest User",
+      "date": "2025-10-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=914685&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-914685&trip_sub3=D19127628"
+    },
+    {
+      "quote": "這個房間有個小陽台，可以看遠處的山景，很不錯呢~院子裏有個很大的游泳池，兒子第一天到了就立馬下去玩了，池子水是山泉水，很乾凈，老闆娘很nice很賢惠，燒得菜很合我們口味，因為有長者和孩子，不能吃辣，很貼心的都燒了不辣的，價格也實惠~住宿包了第二天的早飯~晚上往山裡走一點點就可以看銀河和星星了，特別贊~往下去是仙譚，可以玩小溪~住得很舒服，價格也實惠~有機會再來~",
+      "author": "Guest User",
+      "date": "2025-08-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=914685&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-914685&trip_sub3=D19127628"
+    },
+    {
+      "quote": "這家民宿在莫干山性價比算很高了，還帶着超大游泳池，兒子玩得很開心，老闆娘特別客氣，很健談，燒得一手好菜，味道很好~包第二天早飯，都是自己做的，很健康，這次訂得晚了，沒有訂到樓上的景觀房，下次有機會再來玩，很開心~",
+      "author": "Guest User",
+      "date": "2025-08-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=914685&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-914685&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 4,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:37:13.738Z",
+  "source": "trip"
+}

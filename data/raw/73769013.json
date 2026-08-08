@@ -1,0 +1,96 @@
+{
+  "id": 73769013,
+  "name": "Mogan Mountain Linyuqingshe Homestay",
+  "seedName": "Mogan Mountain Linyuqingshe Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-73769013",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=73769013&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-73769013&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment and Location:Situated near Moganshan, with convenient access to surrounding scenic spots by car. The environment is beautiful, surrounded by bamboo forests and the garden is well-arranged.(based on 36 reviews) Hygiene:Rooms, pools and other areas are very clean, with no water marks on bathroom glass and very white towels(based on 75 reviews) Facilities:Equipped with complete facilities like swimming pools, entertainment facilities such as billiards, KTV, arcade machines(based on 31 reviews) Service:Hosts are enthusiastic, recommend surrounding attractions and provide travel guides, staff are friendly(based on 44 reviews) Breakfast:Rich and delicious, with homemade eggs and side dishes(based on 28 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment and Location",
+        "text": "Situated near Moganshan, with convenient access to surrounding scenic spots by car. The environment is beautiful, surrounded by bamboo forests and the garden is well-arranged.",
+        "count": 36
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Rooms, pools and other areas are very clean, with no water marks on bathroom glass and very white towels",
+        "count": 75
+      },
+      {
+        "topic": "Facilities",
+        "text": "Equipped with complete facilities like swimming pools, entertainment facilities such as billiards, KTV, arcade machines",
+        "count": 31
+      },
+      {
+        "topic": "Service",
+        "text": "Hosts are enthusiastic, recommend surrounding attractions and provide travel guides, staff are friendly",
+        "count": 44
+      },
+      {
+        "topic": "Breakfast",
+        "text": "Rich and delicious, with homemade eggs and side dishes",
+        "count": 28
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No.44, Hecun Village, Hecun, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant",
+    "Conference room",
+    "Multi-function room",
+    "Playground",
+    "Kids' club"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/73769013/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4a12000dlevagi62C9.jpg"
+    },
+    {
+      "src": "/images/stays/73769013/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD56120009fdaxyqB640.webp"
+    },
+    {
+      "src": "/images/stays/73769013/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02066120008qkujh49E25.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "很推薦大家來這家民宿，整體衞生弄的很乾凈，主理人給我們推薦了附近的溯溪。離莫干山約五公里左右。上午在庾村廣場，下午在附近溯溪。晚飯是在民宿吃的，一定要提前和老闆他們預約好晚餐，特別誇一下老闆媽媽做的雞湯，超級好吃！！！！",
+      "author": "Guest User",
+      "date": "2026-07-30",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=73769013&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-73769013&trip_sub3=D19127628"
+    },
+    {
+      "quote": "這次莫干山之行選擇民宿，十分滿意。院子裏配有泳池，閑暇時分可以玩水放鬆。房間很新，衞生到位，民宿早餐味道在線，店家待人熱情。附近到溯溪、漂流的地方都很近。好玩。下次再來莫干山會考慮再次入住！",
+      "author": "Guest User",
+      "date": "2026-08-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=73769013&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-73769013&trip_sub3=D19127628"
+    },
+    {
+      "quote": "泳池很贊，小朋友玩的很開心，房間乾淨衞生，民宿老闆都非常熱情，推薦的洞穴咖啡，裏面非常涼快。洞穴瀑布咖啡｜莫干山漢代古銅礦洞改造 📍位置：德清莫干山鎮何村。民宿晚上還可以在地下一層玩桌球、還有ktv，非常適合一家人或和朋友一起來玩",
+      "author": "Guest User",
+      "date": "2026-07-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=73769013&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-73769013&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 163,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:51:15.626Z",
+  "source": "trip"
+}

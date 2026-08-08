@@ -1,0 +1,88 @@
+{
+  "id": 2598424,
+  "name": "Mogan Mountain Yang Wu Keng Manor",
+  "seedName": "Mogan Mountain Yang Wu Keng Manor",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2598424",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2598424&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2598424&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Environment:Situated in Xiantan Village near Mogan Mountain, offering panoramic mountain views, ancient trees , and serene rural surroundings with fireflies and quiet nights.(based on 3 reviews) Service:Hosts are described as warm, knowledgeable, and helpful, providing guidance to hiking trails, local recommendations, and safety reminders .(based on 11 reviews) Cleanliness:Rooms, common areas, and facilities are consistently praised for being tidy, with daily maintenance and fresh bedding.(based on 12 reviews) Food:Breakfast is highlighted as affordable and rich in local specialties . Meals feature fresh, locally sourced ingredients with balanced flavors.(based on 2 reviews) Accessibility:Proximity to Mogan Mountain’s scenic trails allows cost-effective entry via back routes, avoiding main gate fees.(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Situated in Xiantan Village near Mogan Mountain, offering panoramic mountain views, ancient trees , and serene rural surroundings with fireflies and quiet nights.",
+        "count": 3
+      },
+      {
+        "topic": "Service",
+        "text": "Hosts are described as warm, knowledgeable, and helpful, providing guidance to hiking trails, local recommendations, and safety reminders .",
+        "count": 11
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms, common areas, and facilities are consistently praised for being tidy, with daily maintenance and fresh bedding.",
+        "count": 12
+      },
+      {
+        "topic": "Food",
+        "text": "Breakfast is highlighted as affordable and rich in local specialties . Meals feature fresh, locally sourced ingredients with balanced flavors.",
+        "count": 2
+      },
+      {
+        "topic": "Accessibility",
+        "text": "Proximity to Mogan Mountain’s scenic trails allows cost-effective entry via back routes, avoiding main gate fees.",
+        "count": 3
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No.18 Yangwukeng, Xiantan Village, Moganshan Town, Deqing, Zhejiang, 313207, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/2598424/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/fd/hotel/g1/M08/F3/01/CghzfVW90H2AJcWFAALOyp_Ft6I326.jpg"
+    },
+    {
+      "src": "/images/stays/2598424/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/fd/hotel/g1/M01/F4/2D/CghzfFW91aCAG9phAA9WsNJx9WY897.webp"
+    },
+    {
+      "src": "/images/stays/2598424/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/fd/hotel/g1/M0A/F3/2A/CghzfVW91Y2AcICvAA7J4_KIgC4347.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "這個山裡的民宿太好了，位置佳很幽靜，早晨可以在房間裏看日出，房子環繞在一圈竹林裏，景色極美，女主人做的飯特別好吃，很推薦。可以在此度假多住幾天，能體會到不一樣的山居樂趣。",
+      "author": "Guest User",
+      "date": "2025-06-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2598424&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2598424&trip_sub3=D19127628"
+    },
+    {
+      "quote": "老闆熱心人，￼介紹了相關的周邊旅遊，￼民宿的標準還是挺乾淨衞生，￼有一個院子可以停車，￼我們到的比較晚，老闆下來親自接了一下。",
+      "author": "shi999999",
+      "date": "2025-07-22",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2598424&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2598424&trip_sub3=D19127628"
+    },
+    {
+      "quote": "第二次來了，這次整個村子也大變樣了，多了很多現代化的民宿 但是老闆和老闆娘的淳樸還是這個民宿的最大亮點，老闆還是不辭辛勞帶着每個住店遊客去後山，老闆娘也很誠實的説，好吃的雞蛋都是買來的，自家的土雞蛋產量有限，都要留給孫子，這份真誠才是如今最難的的",
+      "author": "Dapingjikechuxian",
+      "date": "2025-05-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2598424&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2598424&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 23,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:01:32.142Z",
+  "source": "trip"
+}

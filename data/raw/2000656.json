@@ -1,0 +1,38 @@
+{
+  "id": 2000656,
+  "name": "Chenjia Dayuan Hotel",
+  "seedName": "Chenjia Dayuan Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2000656",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2000656&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2000656&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Chenjia Dayuan Hotel?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Dayangshan, Xiantan Village, Deqing, Zhejiang, 313202, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/2000656/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/fd/hotel/g1/M0A/48/7F/CghzfVU4UD6AU-dWABRat-2DQNY924.jpg"
+    },
+    {
+      "src": "/images/stays/2000656/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/fd/hotel/g1/M07/48/67/CghzfVU4TrOASff0ABGrUzQvFc4416.webp"
+    },
+    {
+      "src": "/images/stays/2000656/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200t0j000000a9c6u4C6A.webp"
+    }
+  ],
+  "comments": [],
+  "rating": null,
+  "sourcedAt": "2026-08-08T15:59:10.799Z",
+  "source": "trip"
+}

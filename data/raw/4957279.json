@@ -1,0 +1,65 @@
+{
+  "id": 4957279,
+  "name": "Shancheng Xiaozhan B&B",
+  "seedName": "Shancheng Xiaozhan B&B",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-4957279",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4957279&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4957279&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Shancheng Xiaozhan B&B?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 1, Jinjiwan, Fatoumiaoqian Village, Moganshan Town, Deqing, Zhejiang, 313206, China",
+  "priceRange": "From US$79",
+  "facilities": [
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/4957279/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5712000g5q21958AF8.jpg"
+    },
+    {
+      "src": "/images/stays/4957279/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200v15000000y7pj3891B.webp"
+    },
+    {
+      "src": "/images/stays/4957279/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203412000f0xkrgiD53F.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "不建議預訂 設施： 1.沒有電視 2.主燈非常暗 房間本身就黑乎乎的原木風格 加上燈光很弱 除非是一入住就睡覺 不然挺難受的。 3.沒有一次性拖鞋 4.wifi第二天早上就搜不到連不上了 5.空調遙控器不好用 打電話來給換了一個 又發現沒有洗髮水 又打電話給拿來 環境：比較靠山裡的位置 稍微偏僻一些 去庾村那邊吃飯比較遠 建議還是定庾村附近的酒店民宿方便點",
+      "author": "Wanuatuyasa",
+      "date": "2024-08-16",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4957279&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4957279&trip_sub3=D19127628"
+    },
+    {
+      "quote": "臨時決定去莫干山 週五很多民宿都訂滿了 在攜程看到這家店環境還不錯 到的當天晚上下了暴雨 下車鞋子都濕掉了… 還好第二天天氣很好 才發現民宿附近風景很好 有一條小溪 對面有個步行道 早起可以去逛一逛 很暇意 酒店的早飯挺豐富的 旁邊有一個停車的地方 但衹能停三輛 店裡人員態度都蠻好的 但是感覺房間有點小 還有就是離景區雖然不遠 但是下山的路不是很好開 其他都還好",
+      "author": "Yuzijiangmmm",
+      "date": "2023-08-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4957279&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4957279&trip_sub3=D19127628"
+    },
+    {
+      "quote": "都挺好的，有一個小缺點就是熱水器在房間邊上，一有人用熱水就嗚嗚嗚的響，很響，很難入睡，除非真的玩的很累的倒頭就睡",
+      "author": "Guest User",
+      "date": "2023-08-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4957279&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4957279&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 4.3,
+    "count": 3,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:39:22.933Z",
+  "source": "trip"
+}

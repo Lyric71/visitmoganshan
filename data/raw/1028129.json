@@ -1,0 +1,70 @@
+{
+  "id": 1028129,
+  "name": "Langwei Qiaomu Hostel",
+  "seedName": "Langwei Qiaomu Hostel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1028129",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1028129&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1028129&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Facilities and Cleanliness:Rooms are noted for their cleanliness and basic comfort, with some units featuring additional amenities like karaoke facilities. The property maintains hygiene standards, and the on-site parking is a practical feature for guests.(based on 1 review) Atmosphere and Ambiance:The setting is described as serene and tranquil, with natural elements like rainfall enhancing the experience. The presence of friendly pets adds to the sense of security and charm, creating a relaxed environment for guests.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Facilities and Cleanliness",
+        "text": "Rooms are noted for their cleanliness and basic comfort, with some units featuring additional amenities like karaoke facilities. The property maintains hygiene standards, and the on-site parking is a practical feature for guests.",
+        "count": 1
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 75 Biwu Village, Moganshan Town, Deqing, Zhejiang, 313202, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1028129/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201s120009m2valnA184.jpg"
+    },
+    {
+      "src": "/images/stays/1028129/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02007120009m2vgkaA5B5.webp"
+    },
+    {
+      "src": "/images/stays/1028129/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02026120009m34rchD1C2.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "民宿在景區邊上的小山坡上，環境非常安靜，四周全是鬱鬱葱葱的竹林。住着感覺呼吸都順暢了。民宿老闆人很好，退房的時候還送了自家採摘的竹筍。老闆家的狗子也很熱情。總體來説不虛此行",
+      "author": "Guest User",
+      "date": "2026-05-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1028129&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1028129&trip_sub3=D19127628"
+    },
+    {
+      "quote": "走過千萬裏，看過無數景，願你對故土更加熱忱。旅行裏的酸甜苦辣，都是老去後最美好的紀念。對新鮮事物保持距離，對不確定的事物降低期望。",
+      "author": "^_^xiaoniu",
+      "date": "2026-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1028129&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1028129&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿位於碧塢龍潭的檢票口，檢票口左邊有民宿私人停車場，對於酷暑想要出來玩，又想涼快少走的孕婦來講，已經很不錯了，龍潭走進去一二十米就有一個很涼快的涼亭，孕婦就坐那休息乘涼，家裡人可以繼續往上走一個多小時就能玩好下來。民宿自帶的餐飲很滿意，這也是孕婦友好的一大原因，好吃，綠色，健康，衞生。",
+      "author": "Guest User",
+      "date": "2025-08-11",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1028129&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1028129&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 22,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:40:39.896Z",
+  "source": "trip"
+}

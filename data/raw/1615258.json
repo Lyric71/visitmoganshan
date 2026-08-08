@@ -1,0 +1,66 @@
+{
+  "id": 1615258,
+  "name": "Mogan Mountain Happy Home Farmhouse",
+  "seedName": "Mogan Mountain Happy Home Farmhouse",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1615258",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1615258&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1615258&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Mogan Mountain Happy Home Farmhouse?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Near No.09 Provincial Road (Biwu Village), Deqing, Zhejiang, 313200, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Cardroom",
+    "Restaurant",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1615258/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02021120008pspjsgF57F.jpg"
+    },
+    {
+      "src": "/images/stays/1615258/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200e090000004bywhE0A5.webp"
+    },
+    {
+      "src": "/images/stays/1615258/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD0n120009ez1lms90F8.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "這家酒店應該是騙子酒店，我們是2025年11月22日晚定的房，開車去了，沒有燈牌，酒店電話也不接，到了第二天，多次打電話也未接通，壞境差，晚上外面又沒有燈，感覺很怕，很害怕。",
+      "author": "Guest User",
+      "date": "2025-11-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1615258&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1615258&trip_sub3=D19127628"
+    },
+    {
+      "quote": "這家酒店應該是騙子酒店，我們是2025年11月22日晚定的房，開車去了，沒有燈牌，酒店電話也不接，到了第二天，多次打電話也未接通，壞境差，晚上外面又沒有燈，感覺很怕，很害怕。",
+      "author": "Guest User",
+      "date": "2025-11-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1615258&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1615258&trip_sub3=D19127628"
+    },
+    {
+      "quote": "空調吵得和拖拉機一樣還冷的要死，洗澡熱水忽冷忽燙，馬桶下水是不順的。定的幾個房間都一個樣",
+      "author": "Tangcudoufunao",
+      "date": "2023-12-13",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1615258&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1615258&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.5,
+    "count": 7,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:57:12.388Z",
+  "source": "trip"
+}

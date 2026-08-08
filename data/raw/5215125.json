@@ -1,0 +1,38 @@
+{
+  "id": 5215125,
+  "name": "Yipozhu Villa",
+  "seedName": "Yipozhu Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5215125",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5215125&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5215125&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Yipozhu Villa?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Near No.09 Provincial Road (Miaoqian Village), Deqing, Zhejiang, 313200, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5215125/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200r0800000036nd383EB.jpg"
+    },
+    {
+      "src": "/images/stays/5215125/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200i0800000036nb7DB9A.webp"
+    },
+    {
+      "src": "/images/stays/5215125/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20060800000036nc3CE95.webp"
+    }
+  ],
+  "comments": [],
+  "rating": null,
+  "sourcedAt": "2026-08-08T16:04:17.052Z",
+  "source": "trip"
+}

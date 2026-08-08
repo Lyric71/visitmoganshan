@@ -1,0 +1,51 @@
+{
+  "id": 2217406,
+  "name": "Hujia Bieyuan Hotel",
+  "seedName": "Hujia Bieyuan Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2217406",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2217406&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2217406&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Hujia Bieyuan Hotel?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No.20 Jimiaowu, Deqing, Zhejiang, 313206, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/2217406/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20021h000001hwtk9876C.jpg"
+    },
+    {
+      "src": "/images/stays/2217406/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200s1h000001hwmce5CAF.webp"
+    },
+    {
+      "src": "/images/stays/2217406/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20031h000001hrgw682ED.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "#positive #I was happy with the Convenience of transport, Room layout, Nearby shops, Mosquito control measures, Location, Room size",
+      "author": "Xingzoudelaochen",
+      "date": "2023-08-13",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2217406&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2217406&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 1,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:00:34.725Z",
+  "source": "trip"
+}

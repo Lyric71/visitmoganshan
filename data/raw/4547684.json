@@ -1,0 +1,83 @@
+{
+  "id": 4547684,
+  "name": "Moganshanzhuanjiaoyunxiangjingpinminsu",
+  "seedName": "Moganshanzhuanjiaoyunxiangjingpinminsu",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-4547684",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4547684&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4547684&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Close to Mount Moganshan, Fish Scale Dam, Yuchun Square, and scenic spots like bamboo forests and streams, with easy access by car.(based on 1 review) Facilities:Features a large clean pool, KTV, table tennis, board games, karaoke machines, outdoor sunrooms, and a spacious courtyard with a trampoline.(based on 3 reviews) Service:Hosts are consistently described as warm and helpful, offering local travel tips, fresh homegrown fruits, and accommodating requests .(based on 2 reviews) Culinary Experience:The hostess prepares delicious, generous meals , praised for its quality and affordability. Cleanliness:Rooms are tidy with clean bedding and disposable toiletries; the courtyard includes well-maintained gardens and waste sorting.(based on 4 reviews) Family-Friendly:Suitable for large groups , with child-friendly activities and pet-friendly policies.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Close to Mount Moganshan, Fish Scale Dam, Yuchun Square, and scenic spots like bamboo forests and streams, with easy access by car.",
+        "count": 1
+      },
+      {
+        "topic": "Facilities",
+        "text": "Features a large clean pool, KTV, table tennis, board games, karaoke machines, outdoor sunrooms, and a spacious courtyard with a trampoline.",
+        "count": 3
+      },
+      {
+        "topic": "Service",
+        "text": "Hosts are consistently described as warm and helpful, offering local travel tips, fresh homegrown fruits, and accommodating requests .",
+        "count": 2
+      },
+      {
+        "topic": "Culinary Experience",
+        "text": "The hostess prepares delicious, generous meals , praised for its quality and affordability. Cleanliness:Rooms are tidy with clean bedding and disposable toiletries; the courtyard includes well-maintained gardens and waste sorting.",
+        "count": 4
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Xiantan Village, Deqing, Zhejiang, 313200, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/4547684/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0583o12000soq9mj3EAE3.jpg"
+    },
+    {
+      "src": "/images/stays/4547684/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4a12000kikz41303D8.webp"
+    },
+    {
+      "src": "/images/stays/4547684/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5u12000kil0vx2A079.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "定的家庭房，陽台景色很不錯，帶孩子出來衹是想玩玩水，前面就有小溪，玩水的時候還意外抓到了小螃蟹（最後放生了）民宿還有泳池，孩子玩的很開心，還想再住一天，但是由於大人工作原因，衹能等下次再來啦。老闆也很熱情，早餐量很足。整體都很好",
+      "author": "Guest User",
+      "date": "2025-08-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4547684&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4547684&trip_sub3=D19127628"
+    },
+    {
+      "quote": "非常推薦的一家名宿，院子很漂亮還有一個很大的游泳池水很乾凈，客廳還有遊戲機麻將機唱歌的都有，孩子和朋友們都玩的很開心！",
+      "author": "Guest User",
+      "date": "2025-05-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4547684&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4547684&trip_sub3=D19127628"
+    },
+    {
+      "quote": "定的家庭房，陽台景色很不錯，帶孩子出來衹是想玩玩水，前面就有小溪，玩水的時候還意外抓到了小螃蟹（最後放生了）民宿還有泳池，孩子玩的很開心，還想再住一天，但是由於大人工作原因，衹能等下次再來啦。老闆也很熱情，早餐量很足。整體都很好",
+      "author": "Guest User",
+      "date": "2025-08-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4547684&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4547684&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 10,
+    "count": 91,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:03:51.716Z",
+  "source": "trip"
+}

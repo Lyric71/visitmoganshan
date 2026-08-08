@@ -1,0 +1,79 @@
+{
+  "id": 4495959,
+  "name": "Moganshan Xinyue Inn",
+  "seedName": "Moganshan Xinyue Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-4495959",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4495959&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4495959&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Facilities:Some rooms have unique designs, offering good views and relatively complete facilities. The environment is beautiful, and the design is distinctive, providing a pleasant experience for enjoying the scenery.(based on 2 reviews) Cost-effectiveness:Super cost-effective, with affordable prices. It is a satisfactory accommodation option in the area.(based on 10 reviews) Guest Suggestion:Some customers suggest improving noise control , addressing hygiene issues , and enhancing service responsiveness.(based on 9 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Facilities",
+        "text": "Some rooms have unique designs, offering good views and relatively complete facilities. The environment is beautiful, and the design is distinctive, providing a pleasant experience for enjoying the scenery.",
+        "count": 2
+      },
+      {
+        "topic": "Cost-effectiveness",
+        "text": "Super cost-effective, with affordable prices. It is a satisfactory accommodation option in the area.",
+        "count": 10
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving noise control , addressing hygiene issues , and enhancing service responsiveness.",
+      "count": 9
+    }
+  },
+  "address": "No. 20-26 North Street, Yuxin, Deqing, Zhejiang, 313204, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/4495959/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0581w12000sqd207mAEF2.jpg"
+    },
+    {
+      "src": "/images/stays/4495959/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0581012000sq85z675DEB.webp"
+    },
+    {
+      "src": "/images/stays/4495959/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0581w12000sqd207mAEF2.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "在熱鬧的庾村上，位置不錯，離車庾村廣場和庾集散中心，走走就行，房間大，還比較整潔乾淨，交通出行比較方便，底層就是飯店，住店餐費打折，住一晚還算安靜、舒適。",
+      "author": "Biaobiao",
+      "date": "2026-05-15",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4495959&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4495959&trip_sub3=D19127628"
+    },
+    {
+      "quote": "地理位置挺好的，一站路的地，可以到旅遊集散中心坐車去山上，往另外一個方向是文化廣場，感受人文氣息，現代文化村。",
+      "author": "Guest User",
+      "date": "2026-04-30",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4495959&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4495959&trip_sub3=D19127628"
+    },
+    {
+      "quote": "床單被罩和枕頭上都有黑色的黴點。洗澡的地方沒置物架放洗髮水沐浴露。沒有椅子，有一個很老舊的藍子不能坐，會塌。毛巾什麼的都挺臟的。衹是洗漱，最後是在車上睡的。雖然知道便宜，但我認為環境差自家房屋改造這些都能接受，臟真的不能忍。",
+      "author": "aryant",
+      "date": "2026-06-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4495959&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4495959&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8,
+    "count": 69,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:03:29.086Z",
+  "source": "trip"
+}

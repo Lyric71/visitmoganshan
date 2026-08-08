@@ -1,0 +1,62 @@
+{
+  "id": 6049830,
+  "name": "Fusheng Hostel",
+  "seedName": "Fusheng Hostel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-6049830",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6049830&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6049830&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Fusheng Hostel?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 36, Wai Village, Ziling Village, Moganshan Town, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$282",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/6049830/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2B0q0i0000009e6dk7554.jpg"
+    },
+    {
+      "src": "/images/stays/6049830/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200k0i0000009bh56964A.webp"
+    },
+    {
+      "src": "/images/stays/6049830/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0583512000sna6hbu86AA.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "[進入房間第一眼]房子層高很高，古色古香，廁所乾濕分離 [對於房東，我想説]老闆早早就等候在門口，怕我們找不到房子的具體位置所以一直在關心我們到哪了 [對於周邊的便利度，我要説]周邊有許多飯店，價格實惠也好吃",
+      "author": "Guest User",
+      "date": "2024-08-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6049830&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6049830&trip_sub3=D19127628"
+    },
+    {
+      "quote": "[進入房間第一眼]房子層高很高，古色古香，廁所乾濕分離 [對於房東，我想説]老闆早早就等候在門口，怕我們找不到房子的具體位置所以一直在關心我們到哪了 [對於周邊的便利度，我要説]周邊有許多飯店，價格實惠也好吃",
+      "author": "Guest User",
+      "date": "2024-08-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6049830&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6049830&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間很乾凈，環境清幽，我們一行9人，4個房間非常寬敞得住下了，再多幾個估計都沒問題。院子收拾的很整齊，還有個蹦床，帶娃的可以讓娃去玩，院門關上就是封閉環境，我們帶了一衹小狗也不用擔心跑丟。 老闆母親早上會準備早飯，大家都吃得很香。 我們住了2晚，第一晚在民宿不遠的大茶餐廳吃的晚餐，不咋推薦吃，菜量偏小；第二晚在民宿附近的竹留香餐廳吃的，便宜了400塊還有吃不下的可以打包，供參考。 對面小賣部可以買到簡單的東西，出門右轉，走幾步往上300米左右有個小賣部更全一點，零食酒水基本都能買到。",
+      "author": "Guest User",
+      "date": "2024-05-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6049830&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6049830&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.2,
+    "count": 5,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:36:48.222Z",
+  "source": "trip"
+}

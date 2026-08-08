@@ -1,0 +1,96 @@
+{
+  "id": 2324733,
+  "name": "Youjian Chuiyan Inn",
+  "seedName": "Youjian Chuiyan Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2324733",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2324733&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2324733&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Centrally situated near popular attractions , with easy access to hiking trails and local restaurants.(based on 4 reviews) Amenities:Spacious courtyard with a large pool, playground , outdoor seating , and barbecue facilities.(based on 4 reviews) Cleanliness:Rooms and bathrooms were consistently described as clean, with well-stocked toiletries and fresh bedding.(based on 12 reviews) Service:Hosts were praised for their warmth, hospitality, and willingness to assist with travel arrangements .(based on 6 reviews) Facilities:Multi-story buildings with ample rooms, private balconies, and family-friendly features .(based on 5 reviews) Value:Competitive pricing for the included amenities , with some reviews noting affordability despite large group accommodations.(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Centrally situated near popular attractions , with easy access to hiking trails and local restaurants.",
+        "count": 4
+      },
+      {
+        "topic": "Amenities",
+        "text": "Spacious courtyard with a large pool, playground , outdoor seating , and barbecue facilities.",
+        "count": 4
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms and bathrooms were consistently described as clean, with well-stocked toiletries and fresh bedding.",
+        "count": 12
+      },
+      {
+        "topic": "Service",
+        "text": "Hosts were praised for their warmth, hospitality, and willingness to assist with travel arrangements .",
+        "count": 6
+      },
+      {
+        "topic": "Facilities",
+        "text": "Multi-story buildings with ample rooms, private balconies, and family-friendly features .",
+        "count": 5
+      },
+      {
+        "topic": "Value",
+        "text": "Competitive pricing for the included amenities , with some reviews noting affordability despite large group accommodations.",
+        "count": 3
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Xiantan Village, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$23",
+  "facilities": [
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/2324733/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206012000bdinspmBC20.jpg"
+    },
+    {
+      "src": "/images/stays/2324733/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0202a12000bdihwsp2891.webp"
+    },
+    {
+      "src": "/images/stays/2324733/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0223q12000brhey9f9E86.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "大床房的面積更大一些，住的更舒服。小院環境非常好，面積很大，山水田園，詩情畫意，如痴如醉，房間設施略顯簡陋，但乾淨整潔。民宿離碧塢龍潭景區很近，步行15分鐘左右，開車5分鐘就到了。周圍還有仙潭村景區和魚鱗壩景區，非常方便，期待下次再來！",
+      "author": "Jinlinghuaisong",
+      "date": "2024-07-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2324733&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2324733&trip_sub3=D19127628"
+    },
+    {
+      "quote": "太喜歡這家民宿了。雖然周邊一路上都是各種民宿 ，但是還是最愛這家。性價比超高 ，有一個夢中的小院子，停車很方便，院子裏面有滑滑梯 大泳池 天幕 ，還有楊梅樹，桃樹，都結了果子，等到暑假真的還想再來一次，多住幾天，還有早餐吃，老闆娘人也很熱情，很淳樸，房間很乾凈，陽光充足。非常開心的入住，可惜衹住了短暫的一天",
+      "author": "Guest User",
+      "date": "2024-05-16",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2324733&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2324733&trip_sub3=D19127628"
+    },
+    {
+      "quote": "大床房的面積更大一些，住的更舒服。小院環境非常好，面積很大，山水田園，詩情畫意，如痴如醉，房間設施略顯簡陋，但乾淨整潔。民宿離碧塢龍潭景區很近，步行15分鐘左右，開車5分鐘就到了。周圍還有仙潭村景區和魚鱗壩景區，非常方便，期待下次再來！",
+      "author": "Jinlinghuaisong",
+      "date": "2024-07-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2324733&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2324733&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 37,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:01:10.373Z",
+  "source": "trip"
+}

@@ -1,0 +1,65 @@
+{
+  "id": 134315206,
+  "name": "ONE FAMILY RESORT (MGS HSD VILLA)",
+  "seedName": "ONE FAMILY RESORT (MGS HSD VILLA)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-134315206",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=134315206&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-134315206&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at ONE FAMILY RESORT (MGS HSD VILLA)?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Building 60, Huashengda Villa, No. 205 Huangfu East Road, Deqing, Zhejiang, China",
+  "priceRange": "From US$314",
+  "facilities": [
+    "Hiking",
+    "Billiards room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/134315206/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6w12000sauzquoCF47.jpg"
+    },
+    {
+      "src": "/images/stays/134315206/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3y12000savj6922C9F.webp"
+    },
+    {
+      "src": "/images/stays/134315206/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3p12000sb78sqh1814.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "別墅場地非常大，院子草坪桌球桌麻將桌娛樂室一應俱全，每個房間各有特點，床品環境乾淨整潔，居住體驗一級棒👍除此之外出門就是輿村，附近可逛可吃的非常多，別墅門口可以停下兩輛車，還解決了景區裏停車問題省錢省時間，下次來還會選壹家的。",
+      "author": "Guest User",
+      "date": "2026-05-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=134315206&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-134315206&trip_sub3=D19127628"
+    },
+    {
+      "quote": "去莫干山騎車和朋友們一起住的，適合人多大家一起出來玩，山裡蟲子多了點但是房子很大設備也很齊全下次有機會還回來。",
+      "author": "Kongkongpiantoutongkk",
+      "date": "2026-05-31",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=134315206&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-134315206&trip_sub3=D19127628"
+    },
+    {
+      "quote": "非常好，環境很漂亮，空氣清新，很喜歡這個小院子，房間裏面非常乾淨，衞生間乾濕分離，服務周到",
+      "author": "Guest User",
+      "date": "2026-04-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=134315206&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-134315206&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 5,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:36:47.268Z",
+  "source": "trip"
+}

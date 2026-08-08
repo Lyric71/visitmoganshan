@@ -1,0 +1,93 @@
+{
+  "id": 72891615,
+  "name": "YIJIASHU Resort (Moganshan Yucun Branch)",
+  "seedName": "YIJIASHU Resort (Moganshan Yucun Branch)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-72891615",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=72891615&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-72891615&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:Located in the mountain villa area, with beautiful mountain views, fresh air, quiet villa area, and excellent scenery outside the window, full of greenery is extremely healing(based on 59 reviews) Facilities:Rooms are spacious, kitchen utensils are complete, equipment such as Switch, mahjong machine, etc. are complete, bathrooms are independent, and room decoration is carefully arranged(based on 134 reviews) Transportation Service:There are special cars for pick-up and drop-off, drivers like Master Hu are enthusiastic, punctual, drive steadily on mountain roads, and are thoughtful in preparing items(based on 328 reviews) Housekeeper Service:Respond to needs in time, be on call, and be thoughtful(based on 328 reviews) Suitable for Travel:Suitable for family and friends gatherings, large space, comfortable living atmosphere, close to scenic spots, convenient for travel(based on 293 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Located in the mountain villa area, with beautiful mountain views, fresh air, quiet villa area, and excellent scenery outside the window, full of greenery is extremely healing",
+        "count": 59
+      },
+      {
+        "topic": "Facilities",
+        "text": "Rooms are spacious, kitchen utensils are complete, equipment such as Switch, mahjong machine, etc. are complete, bathrooms are independent, and room decoration is carefully arranged",
+        "count": 134
+      },
+      {
+        "topic": "Transportation Service",
+        "text": "There are special cars for pick-up and drop-off, drivers like Master Hu are enthusiastic, punctual, drive steadily on mountain roads, and are thoughtful in preparing items",
+        "count": 328
+      },
+      {
+        "topic": "Housekeeper Service",
+        "text": "Respond to needs in time, be on call, and be thoughtful",
+        "count": 328
+      },
+      {
+        "topic": "Suitable for Travel",
+        "text": "Suitable for family and friends gatherings, large space, comfortable living atmosphere, close to scenic spots, convenient for travel",
+        "count": 293
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "莫干山镇郡安里别墅区7幢, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Tea room",
+    "Cardroom",
+    "Restaurant",
+    "Cafe"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/72891615/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4m12000hyjyj8x460C.jpg"
+    },
+    {
+      "src": "/images/stays/72891615/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0d12000ch7gdtsC448.webp"
+    },
+    {
+      "src": "/images/stays/72891615/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc7112000rffiponD4C9.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "在壹家墅的這三天，像住進了一幅會呼吸的山景畫裏。晨起推開陽台門，雲霧在腳下流淌，暮色時分，整座山谷被染成金紅色——光是坐在露台上發呆，都覺得時間慢得奢侈，這三天晚上睡得特別安靜，舒適。 最驚喜的是廚房設施一應俱全，去山下菜場買了新鮮菜，自己動手做早飯，煙火氣裏竟有了幾分“家”的味道。管家把細節打點得妥帖，有求必應卻又安靜得恰到好處。 必須誇誇司機胡師傅——我們每晚玩到很晚才返程，他永遠笑呵呵地等我們，山路開得穩當又温柔，還貼心備了多床被子，非常和藹，不愧是一名優秀退伍老兵。 臨走時竟有些捨不得，這三天不衹是度假，更像被山水和人情味好好款待了一場。若你也想尋一處清靜卻不冷清的山居時光，來壹家墅吧，這裏值得住進心裏。",
+      "author": "Guest User",
+      "date": "2026-08-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=72891615&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-72891615&trip_sub3=D19127628"
+    },
+    {
+      "quote": "這次的選擇絕對超預期。 硬軟件設施和周圍環境不亞於裸心谷，但性價比超好。更有貼心的一對一管家服務（細緻周到，及時回覆），七座商務接駁車（胡師傅不管多忙都耐心熱情、滿臉笑意，還應我們的要求推薦他蒐集住客反饋的各類美食餐廳），每天屋內阿姨們的徹底打掃…暖暖的很貼心",
+      "author": "Guest User",
+      "date": "2026-07-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=72891615&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-72891615&trip_sub3=D19127628"
+    },
+    {
+      "quote": "帶孩子來休息一天，房間很乾凈，從停車場到住的地方師傅接送也非常方便沿路風景也很好，陽台看出去的風景也很美。司機胡師傅很熱情，管家Leo很周到，下次再來😆😆",
+      "author": "Guest User",
+      "date": "2026-07-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=72891615&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-72891615&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 566,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:50:46.489Z",
+  "source": "trip"
+}

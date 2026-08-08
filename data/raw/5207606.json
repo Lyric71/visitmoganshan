@@ -1,0 +1,51 @@
+{
+  "id": 5207606,
+  "name": "Fuxian Shanju Hotel",
+  "seedName": "Fuxian Shanju Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5207606",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5207606&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5207606&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Fuxian Shanju Hotel?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 2, Tongjia Village, Miaoqian Village, Fatou Township, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$91",
+  "facilities": [
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5207606/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200h0f0000007i3j442A1.jpg"
+    },
+    {
+      "src": "/images/stays/5207606/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0582612000sqjtuqb24B5.webp"
+    },
+    {
+      "src": "/images/stays/5207606/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200g15000000ymgj6B6C6.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "設施：新 衞生：好 環境：好 服務：非常好",
+      "author": "Guest User",
+      "date": "2023-08-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5207606&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5207606&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 3,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:37:39.633Z",
+  "source": "trip"
+}

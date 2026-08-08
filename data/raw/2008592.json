@@ -1,0 +1,36 @@
+{
+  "id": 2008592,
+  "name": "Bailong Villa",
+  "seedName": "Bailong Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2008592",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2008592&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2008592&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Bailong Villa?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Jiangnan Biwu Scenic Area, Deqing, Zhejiang, 313202, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/2008592/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206u120008qdcwat4AA7.jpg"
+    },
+    {
+      "src": "/images/stays/2008592/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02041120008qdfbaz6DF2.webp"
+    },
+    {
+      "src": "/images/stays/2008592/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4k12000aknw3pz2747.webp"
+    }
+  ],
+  "comments": [],
+  "rating": null,
+  "sourcedAt": "2026-08-08T15:58:53.085Z",
+  "source": "trip"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 67576043,
+  "name": "Yanduo Shanju",
+  "seedName": "Yanduo Shanju",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-67576043",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=67576043&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-67576043&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Family-Friendly Features:The accommodation is suitable for families, with activities and facilities that cater to children. The host’s recommendations and the availability of home-style meals make it a comfortable choice for family vacations.",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 29 Yaowu Village, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/67576043/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200x12000837ehhk0546.jpg"
+    },
+    {
+      "src": "/images/stays/67576043/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206912000837cphg5C52.webp"
+    },
+    {
+      "src": "/images/stays/67576043/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200x12000837dmh91755.webp"
+    }
+  ],
+  "comments": [],
+  "rating": null,
+  "sourcedAt": "2026-08-08T15:50:04.192Z",
+  "source": "trip"
+}

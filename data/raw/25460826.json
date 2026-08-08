@@ -1,0 +1,81 @@
+{
+  "id": 25460826,
+  "name": "Moganshan JinShe Chinese Inn (Yucun Scenic Area)",
+  "seedName": "Moganshan JinShe Chinese Inn (Yucun Scenic Area)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-25460826",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=25460826&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-25460826&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Accommodation & Facilities:Spacious rooms with modern amenities, including large terraces with mountain views, private balconies, and clean, well-maintained interiors.(based on 8 reviews) Breakfast:Abundant and locally sourced, featuring dishes like bamboo shoots, steamed buns, and porridge, with options for children.(based on 11 reviews) Hosts:Warm and attentive service, with hosts described as friendly, helpful, and accommodating . Ambiance:Quiet, scenic surroundings with bamboo forests and mountain vistas; some rooms feature traditional wooden décor. Guest Suggestion:Some customers suggest issues regarding service attitude, such as unfriendly staff and improper communication during check-in/out, and problems with finding the location and poor environment(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Facilities",
+        "text": "Spacious rooms with modern amenities, including large terraces with mountain views, private balconies, and clean, well-maintained interiors.",
+        "count": 8
+      },
+      {
+        "topic": "Breakfast",
+        "text": "Abundant and locally sourced, featuring dishes like bamboo shoots, steamed buns, and porridge, with options for children.",
+        "count": 11
+      },
+      {
+        "topic": "Hosts",
+        "text": "Warm and attentive service, with hosts described as friendly, helpful, and accommodating . Ambiance:Quiet, scenic surroundings with bamboo forests and mountain vistas; some rooms feature traditional wooden décor. Guest Suggestion:Some customers suggest issues regarding service attitude, such as unfriendly staff and improper communication during check-in/out, and problems with finding the location and poor environment",
+        "count": 2
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Hunagfu West Road, Liaoyuan village, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/25460826/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20081a00000192q7c7675.jpg"
+    },
+    {
+      "src": "/images/stays/25460826/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200p13000000ue6z6F27A.webp"
+    },
+    {
+      "src": "/images/stays/25460826/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD1u120009f542z9EE4C.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "這可能是庾村廣場性價比最高的民宿了，距離庾村廣場非常近，房間也很乾凈整潔，早飯也很豐盛，下次來還會選擇這裏😊",
+      "author": "Guest User",
+      "date": "2026-06-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=25460826&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-25460826&trip_sub3=D19127628"
+    },
+    {
+      "quote": "這可能是庾村廣場性價比最高的民宿了，距離庾村廣場非常近，房間也很乾凈整潔，早飯也很豐盛，下次來還會選擇這裏😊",
+      "author": "Guest User",
+      "date": "2026-06-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=25460826&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-25460826&trip_sub3=D19127628"
+    },
+    {
+      "quote": "入住體驗總體感覺温馨舒適。裝修佈置很用心，採光好、視野超棒，房間有個觀景台正對山景。房間一塵不染，衞生間乾濕分離且乾淨。地理位置是在庾村，靠近廣場，交通便利，很好打車，雖在鬧市但很安靜。房東一家熱情好客，早餐也很豐富。",
+      "author": "Guest User",
+      "date": "2025-09-14",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=25460826&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-25460826&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 40,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:47:34.108Z",
+  "source": "trip"
+}

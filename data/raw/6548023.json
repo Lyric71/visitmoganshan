@@ -1,0 +1,87 @@
+{
+  "id": 6548023,
+  "name": "Moganshan Moling Villa",
+  "seedName": "Moganshan Moling Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-6548023",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6548023&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6548023&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Accessibility:Proximity to key attractions within 1–2 km, suitable for activities like hiking or relaxation.(based on 2 reviews) Hospitality:Hosts are consistently described as warm, attentive, and accommodating .(based on 9 reviews) Accommodation Quality:Rooms are clean, well-equipped , and feature scenic views .(based on 5 reviews) Amenities:Complimentary breakfast , quiet environment for rest, and outdoor spaces .(based on 1 review)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Accessibility",
+        "text": "Proximity to key attractions within 1–2 km, suitable for activities like hiking or relaxation.",
+        "count": 2
+      },
+      {
+        "topic": "Hospitality",
+        "text": "Hosts are consistently described as warm, attentive, and accommodating .",
+        "count": 9
+      },
+      {
+        "topic": "Accommodation Quality",
+        "text": "Rooms are clean, well-equipped , and feature scenic views .",
+        "count": 5
+      },
+      {
+        "topic": "Amenities",
+        "text": "Complimentary breakfast , quiet environment for rest, and outdoor spaces .",
+        "count": 1
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 3 Shiyi New Village, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Cardroom",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/6548023/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0586712000sowqlcl80DA.jpg"
+    },
+    {
+      "src": "/images/stays/6548023/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3h12000diu4pl554F8.webp"
+    },
+    {
+      "src": "/images/stays/6548023/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1q12000diu1fum6282.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "超温馨的住宿體驗～房東姐姐人超好，超體貼！準備了豐盛的中式早餐，飽到爬山到下午都不餓～房間很好，很乾凈，插座很多，淋浴的時候熱水很足，很舒服！中式庭院裏還有2棵長得超好的楊梅樹，窗外的風景很贊，住起來很舒心～臨走的時候，房東姐姐給了我們很好吃的土特產，還要送我們去村裡，真滴超暖心噠，下次有機會來玩會再來住～",
+      "author": "Guest User",
+      "date": "2024-04-14",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6548023&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6548023&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿環境很棒，老闆很熱情。老闆娘做的菜很好吃，手藝很棒👍🏻。離庾村非常近就1-2公里左右，周邊環境很好，房間陽台對面就是茶山",
+      "author": "Guest User",
+      "date": "2024-05-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6548023&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6548023&trip_sub3=D19127628"
+    },
+    {
+      "quote": "超温馨的住宿體驗～房東姐姐人超好，超體貼！準備了豐盛的中式早餐，飽到爬山到下午都不餓～房間很好，很乾凈，插座很多，淋浴的時候熱水很足，很舒服！中式庭院裏還有2棵長得超好的楊梅樹，窗外的風景很贊，住起來很舒心～臨走的時候，房東姐姐給了我們很好吃的土特產，還要送我們去村裡，真滴超暖心噠，下次有機會來玩會再來住～",
+      "author": "Guest User",
+      "date": "2024-04-14",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6548023&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6548023&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 12,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:44:02.733Z",
+  "source": "trip"
+}

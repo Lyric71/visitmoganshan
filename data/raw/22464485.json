@@ -1,0 +1,84 @@
+{
+  "id": 22464485,
+  "name": "Mogan Mountain · Suzhou Style Garden Hostel",
+  "seedName": "Mogan Mountain · Suzhou Style Garden Hostel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-22464485",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=22464485&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-22464485&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service and Hospitality:The staff were generally described as warm, attentive, and helpful, with some specifically highlighting personalized services such as travel guidance and breakfast customization. Guests also valued the proactive communication before arrival.(based on 8 reviews) Room Comfort and Cleanliness:Many reviews mentioned spacious and comfortable rooms with clean interiors. Beds and room layouts were highlighted as providing a relaxing stay for families and large groups.(based on 10 reviews) Breakfast and Dining:Breakfast offerings were often described as diverse, delicious, and reflective of local flavors. Some guests also enjoyed the farm-to-table dining experience with dishes that showcased regional specialties.(based on 3 reviews) Guest Suggestion: Some customers suggest improving cleanliness, especially in bathrooms and common areas, and enhancing service quality, including staff responsiveness and clear information about amenities.(based on 5 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service and Hospitality",
+        "text": "The staff were generally described as warm, attentive, and helpful, with some specifically highlighting personalized services such as travel guidance and breakfast customization. Guests also valued the proactive communication before arrival.",
+        "count": 8
+      },
+      {
+        "topic": "Room Comfort and Cleanliness",
+        "text": "Many reviews mentioned spacious and comfortable rooms with clean interiors. Beds and room layouts were highlighted as providing a relaxing stay for families and large groups.",
+        "count": 10
+      },
+      {
+        "topic": "Breakfast and Dining",
+        "text": "Breakfast offerings were often described as diverse, delicious, and reflective of local flavors. Some guests also enjoyed the farm-to-table dining experience with dishes that showcased regional specialties.",
+        "count": 3
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving cleanliness, especially in bathrooms and common areas, and enhancing service quality, including staff responsiveness and clear information about amenities.",
+      "count": 5
+    }
+  },
+  "address": "No. 32, Tianqingwu, Gaofeng Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$95",
+  "facilities": [
+    "Outdoor swimming pool"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/22464485/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203u12000q52bnrr604C.jpg"
+    },
+    {
+      "src": "/images/stays/22464485/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0202y12000q52gd5p059A.webp"
+    },
+    {
+      "src": "/images/stays/22464485/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200716000001129vkF548.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "I can only say that it is average. There is no service. Even the cleaning lady ignored me and asked where breakfast was. There was no sign telling me that the swimming pool was being cleaned. I only found out...",
+      "author": "Guest User",
+      "date": "2023-08-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=22464485&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-22464485&trip_sub3=D19127628"
+    },
+    {
+      "quote": "貨不對板，很失望。 看酒店介紹奔着泳池 陽台視野 浴缸等優美的元素去的。但實際酒店雜草叢生，浴缸和泳池如荒廢一般，陽台上的破舊陳設也沒有讓人欣賞風景的慾望。 蘇式園林主題或設施可以老舊但簡而不陋，具有歷史底藴。實際酒店環境和設施給人陳舊荒涼的感覺，如此情況和酒店定價不匹配。",
+      "author": "Nuanyuerenjian",
+      "date": "2025-08-31",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=22464485&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-22464485&trip_sub3=D19127628"
+    },
+    {
+      "quote": "自帶園林（凈園）的民宿，房間與照片相符，景色很美，老闆娘也很熱情，有什麼問題都能細心解答。停車方便馬路是柏油馬路，兩個車道，也不像評論裏説的很窄，可以輕鬆會車，想要安靜度假的朋友可以選擇，挺不錯的。衹不過這次出遊碰上台風，時不時下一場暴雨，有點美中不足。",
+      "author": "Moyingyue",
+      "date": "2025-07-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=22464485&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-22464485&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.6,
+    "count": 33,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:40:16.366Z",
+  "source": "trip"
+}

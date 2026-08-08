@@ -1,0 +1,38 @@
+{
+  "id": 8969239,
+  "name": "Yuxi Holiday Hostel",
+  "seedName": "Yuxi Holiday Hostel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-8969239",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8969239&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8969239&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Facilities and Cleanliness:Rooms feature large balconies with good views, spacious layouts, and complete facilities. Bedding is clean, and bathrooms are hygienic. The property is described as tidy and well-maintained, with a quiet environment for undisturbed sleep. Service Quality:The proprietress is noted for being hospitable and attentive. Guests appreciate the overall positive experience, with the owner described as enthusiastic and helpful during their stay.",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 31 Liaoyuan Village, Moganshan Town, Deqing, Zhejiang, 313000, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/8969239/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200e0j0000009vjkp2EC2.jpg"
+    },
+    {
+      "src": "/images/stays/8969239/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200c0j0000009wdr7BF7E.webp"
+    },
+    {
+      "src": "/images/stays/8969239/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/020021200094zofw501A3.webp"
+    }
+  ],
+  "comments": [],
+  "rating": null,
+  "sourcedAt": "2026-08-08T15:45:32.963Z",
+  "source": "trip"
+}

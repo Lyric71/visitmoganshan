@@ -1,0 +1,86 @@
+{
+  "id": 100805435,
+  "name": "Deep vacation in the bamboo forest of Moganshan",
+  "seedName": "Deep vacation in the bamboo forest of Moganshan",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-100805435",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=100805435&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-100805435&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:Many users mention that the environment is beautiful, such as being surrounded by bamboo forests, quiet and comfortable, and some are located in villages with a natural atmosphere.(based on 7 reviews) Service:The bosses and shopkeepers are very enthusiastic, such as picking up from the high-speed rail station, providing travel itineraries, and being friendly to guests.(based on 29 reviews) Facilities:Facilities are relatively complete, including loft-style rooms, complete electrical appliances, and some have activities like billiards and darts.(based on 12 reviews) Guest Suggestion:Some customers believe gravel paths and outdated surroundings may discourage guests, rooms are not soundproof leading to noise issues, and pricing is unsuitable for the property's condition.(based on 1 review)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Many users mention that the environment is beautiful, such as being surrounded by bamboo forests, quiet and comfortable, and some are located in villages with a natural atmosphere.",
+        "count": 7
+      },
+      {
+        "topic": "Service",
+        "text": "The bosses and shopkeepers are very enthusiastic, such as picking up from the high-speed rail station, providing travel itineraries, and being friendly to guests.",
+        "count": 29
+      },
+      {
+        "topic": "Facilities",
+        "text": "Facilities are relatively complete, including loft-style rooms, complete electrical appliances, and some have activities like billiards and darts.",
+        "count": 12
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers believe gravel paths and outdated surroundings may discourage guests, rooms are not soundproof leading to noise issues, and pricing is unsuitable for the property's condition.",
+      "count": 1
+    }
+  },
+  "address": "No.31 Shangguan, Xiantan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/100805435/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200b12000a3bv3myD14B.jpg"
+    },
+    {
+      "src": "/images/stays/100805435/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0584712000soxs3xcD51F.webp"
+    },
+    {
+      "src": "/images/stays/100805435/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1112000c0s1a761455.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "民宿的婆婆特別好，早飯燒的特別好吃，還加了野筍！野筍味道很贊，上午還帶我們去採茶和挖筍！玩的特別開心。房間環境也乾淨温馨！",
+      "author": "Guest User",
+      "date": "2026-04-13",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=100805435&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-100805435&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間很整潔 服務態度超級好 如果順路老闆還會接送 老闆還會放煙花給我們看 老闆媽媽煮的早飯也超級好吃 設施齊全",
+      "author": "Guest User",
+      "date": "2026-02-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=100805435&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-100805435&trip_sub3=D19127628"
+    },
+    {
+      "quote": "説走就走的莫干山沒有攻略，快到目的地的時候因為名字選擇了這家民宿，不負期待，我們是冬季出行，其實沒有要求那麼高，結果很滿意👍房間温馨舒適整潔，被子特別乾淨，2.2米超大床躺着很nice。房間熱水供應穩定，淋浴絲滑。民宿老闆還提供了莫干山地圖，停車場位置和爬山攻略都講的很細緻，人很好👍相信如果夏季來的話，晚上在孩子在泳池嬉戲，朋友們在院子裏燒烤、看星星，絕對很愜意。 公共休息區有很多書籍，還有麻將桌和桌球桌，閑暇時可以和其他客人一起玩耍交流，結交新朋友。早餐老闆親自做的煎蛋🍳，煮的肉絲雪菜豆乾麪，食材新鮮，味道鮮美，整體體驗滿分，給五星！ 推薦更多初次來莫干山的朋友找老闆！",
+      "author": "Guest User",
+      "date": "2025-12-11",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=100805435&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-100805435&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 64,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:53:07.808Z",
+  "source": "trip"
+}

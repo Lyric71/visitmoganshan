@@ -1,0 +1,82 @@
+{
+  "id": 2398617,
+  "name": "Moganshan Mangrove Bay Idyllic Shiyuan Homestay",
+  "seedName": "Moganshan Mangrove Bay Idyllic Shiyuan Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2398617",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2398617&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2398617&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Accommodation Facilities:Rooms are spacious with wooden decor, private balconies, and some feature views of bamboo forests. The property includes a clean swimming pool, essential amenities, and well-maintained facilities such as hot water systems and functional bathrooms.(based on 2 reviews) Service Quality:Staff are consistently described as friendly, attentive, and accommodating, with hosts providing personalized assistance, including guidance for early arrivals, recommendations for local activities, and thoughtful arrangements for families with children.(based on 12 reviews) Atmosphere and Decor:The design incorporates rustic elements like wood and natural textures, creating a cozy and stylish ambiance. Many guests appreciated the unique aesthetic, quiet surroundings, and the presence of a small cat that adds to the charm. Guest Suggestion:Some customers suggest the room has a strong musty odor, facilities need maintenance (toilet and shower issues), and there may be discrepancies in room type descriptions.(based on 4 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Accommodation Facilities",
+        "text": "Rooms are spacious with wooden decor, private balconies, and some feature views of bamboo forests. The property includes a clean swimming pool, essential amenities, and well-maintained facilities such as hot water systems and functional bathrooms.",
+        "count": 2
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Staff are consistently described as friendly, attentive, and accommodating, with hosts providing personalized assistance, including guidance for early arrivals, recommendations for local activities, and thoughtful arrangements for families with children.",
+        "count": 12
+      },
+      {
+        "topic": "Atmosphere and Decor",
+        "text": "The design incorporates rustic elements like wood and natural textures, creating a cozy and stylish ambiance. Many guests appreciated the unique aesthetic, quiet surroundings, and the presence of a small cat that adds to the charm. Guest Suggestion:Some customers suggest the room has a strong musty odor, facilities need maintenance (toilet and shower issues), and there may be discrepancies in room type descriptions.",
+        "count": 4
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Ziling Village, Deqing, Zhejiang, 313200, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/2398617/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203f120000bedn772566.jpg"
+    },
+    {
+      "src": "/images/stays/2398617/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0585x12000snnfgl49C9A.webp"
+    },
+    {
+      "src": "/images/stays/2398617/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/020061200009f569gB3E8.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "一樓的房間有黴味，洗手池沒熱水，隔音可以説是隔不了一點，樓上用水樓下水泵聲非常響，房間裏聽的一清二楚，天花板是木頭的，樓上走路就有嘎吱嘎吱的聲音，窗簾遮不了一點光，花錢找罪受來了😜",
+      "author": "Guest User",
+      "date": "2025-12-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2398617&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2398617&trip_sub3=D19127628"
+    },
+    {
+      "quote": "強烈推薦這家民宿！老闆熱情好客、為人實在，全程貼心關照超省心。民宿環境整潔清爽，設施齊全，整體氛圍舒適自在，入住體驗感滿分，下次來還選這兒～",
+      "author": "🌻xiaoyangtuo🦙",
+      "date": "2025-12-30",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2398617&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2398617&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間是在山林裡邊 很涼快到了晚上 一樓大廳很大很大 可以買點吃的回來一起和朋友吃 很舒服的感覺 離庾村也很近 還有一衹超小很可愛的小貓咪",
+      "author": "Yizhiqiuqiumao",
+      "date": "2025-08-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2398617&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2398617&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9,
+    "count": 38,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:42:16.318Z",
+  "source": "trip"
+}

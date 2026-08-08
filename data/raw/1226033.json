@@ -1,0 +1,50 @@
+{
+  "id": 1226033,
+  "name": "Wangxingju Hotel",
+  "seedName": "Wangxingju Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1226033",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1226033&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1226033&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Wangxingju Hotel?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No.19 Jiangnan Biwu, Deqing, Zhejiang, 313207, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1226033/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200i0h0000008pleg360F.jpg"
+    },
+    {
+      "src": "/images/stays/1226033/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200s070000002m3wy6344.webp"
+    },
+    {
+      "src": "/images/stays/1226033/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6r12000dl1pk904398.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "房間乾淨整潔老闆娘很熱情儘量滿足顧客的需求，位置也很好找就在路邊。設施一般。",
+      "author": "Anonymous User",
+      "date": "2026-07-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1226033&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1226033&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8,
+    "count": 1,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:56:37.955Z",
+  "source": "trip"
+}

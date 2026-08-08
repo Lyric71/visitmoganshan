@@ -1,0 +1,55 @@
+{
+  "id": 4435535,
+  "name": "Shiduju Villa",
+  "seedName": "Shiduju Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-4435535",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4435535&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4435535&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Shiduju Villa?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No.16 Dashuxia, Xiantan Village, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/4435535/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200v15000000xt3gvBF67.jpg"
+    },
+    {
+      "src": "/images/stays/4435535/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200f1f000001gl6fd4715.webp"
+    },
+    {
+      "src": "/images/stays/4435535/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200b0i0000009i296A95A.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "旅館的小院子種了很多花，好看。房間很乾凈。老闆很熱情，很能幹，燒的家常菜也很吃。早飯很豐盛！",
+      "author": "Guest User",
+      "date": "2026-06-14",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4435535&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4435535&trip_sub3=D19127628"
+    },
+    {
+      "quote": "旅館的小院子種了很多花，好看。房間很乾凈。老闆很熱情，很能幹，燒的家常菜也很吃。早飯很豐盛！",
+      "author": "Guest User",
+      "date": "2026-06-14",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4435535&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4435535&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.9,
+    "count": 2,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:03:27.392Z",
+  "source": "trip"
+}

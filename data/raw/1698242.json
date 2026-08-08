@@ -1,0 +1,72 @@
+{
+  "id": 1698242,
+  "name": "Fenghua Homestay (Moganshan International Tourism Resort)",
+  "seedName": "Fenghua Homestay (Moganshan International Tourism Resort)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1698242",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1698242&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1698242&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Privacy & Environment:The hotel offers private, quiet rooms with good sound insulation, ensuring a restful stay. The natural surroundings, including mountain views, small bridges, and flowing water, contribute to a peaceful and immersive experience.(based on 16 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "The hotel offers private, quiet rooms with good sound insulation, ensuring a restful stay. The natural surroundings, including mountain views, small bridges, and flowing water, contribute to a peaceful and immersive experience.",
+        "count": 16
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No.18 Group 1, Lingkengli, Laoling Village, Deqing, Zhejiang, 313200, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1698242/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200414000000w3rwlC83C.jpg"
+    },
+    {
+      "src": "/images/stays/1698242/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200f1800000150wh28469.webp"
+    },
+    {
+      "src": "/images/stays/1698242/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200e1b000001binqm2AF1.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "這家民宿的老闆非常好👍但是房間設施有待改進，水非常冷，噴灑的接口是壞的，房間沒有小冰箱，蚊子比較多，民宿第一就怕設施不夠，枕頭非常硬，床被感覺有點潮。但是老闆很好，這個價格還是很有性價比的！",
+      "author": "Gracdjjfdf",
+      "date": "2025-08-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1698242&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1698242&trip_sub3=D19127628"
+    },
+    {
+      "quote": "比較破的一個民宿，房間裏的插頭幾乎全壞了，晚上睡覺充電才發現衹有一個能用。進門看到大金龜子在地上，在山裡也正常吧。淋浴噴頭也是壞的。本來以為有游泳池孩子能玩，結果根本沒什麼水，按老闆意思就是要好幾天才能滿。民宿可能是要翻新了，到處破敗景象，希望老闆淡季整改。地上雜草花叢什麼可以弄起來了。不過早餐算是豐盛的，老闆自己現做，這個得贊。",
+      "author": "Guest User",
+      "date": "2025-08-11",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1698242&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1698242&trip_sub3=D19127628"
+    },
+    {
+      "quote": "老闆夫妻倆人很好，很有經營理念，希望你們生意越來越好，這次的房間臨時定的，所以環境一般，主要空調外機聲音太吵，喜歡安靜的要定前排的房間，希望以後有機會入住改造後的新房子，加油！",
+      "author": "Guest User",
+      "date": "2025-08-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1698242&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1698242&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.9,
+    "count": 35,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:41:03.846Z",
+  "source": "trip"
+}

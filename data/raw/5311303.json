@@ -1,0 +1,62 @@
+{
+  "id": 5311303,
+  "name": "Moganshan Mountain Inn",
+  "seedName": "Moganshan Mountain Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5311303",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5311303&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5311303&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Mountain Inn?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 128 Dongshan, Sihe Village, Moganshan Town, Deqing, Zhejiang, 313209, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/5311303/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20040u000000jaz344756.jpg"
+    },
+    {
+      "src": "/images/stays/5311303/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200b1h000001hr05aA850.webp"
+    },
+    {
+      "src": "/images/stays/5311303/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD6a120009fkl0jx8109.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "老闆一家很熱情 出門就是小河也方便戲水 老闆家的小奶狗也很可愛萌萌噠 衞生是自然的陽光味道 浴巾毛巾都是一次性的用品安全放心 紙抽捲紙都是新開封的安全放心",
+      "author": "Guest User",
+      "date": "2025-05-25",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5311303&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5311303&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間很大，也很乾凈。老闆娘很熱情。庭院裏有秋千、躺椅。門口就有玩水、游泳的地方，離魚鱗壩也很近，步行8分鐘左右。適合家庭出遊。",
+      "author": "Bushibianjie",
+      "date": "2024-08-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5311303&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5311303&trip_sub3=D19127628"
+    },
+    {
+      "quote": "老闆一家很熱情 出門就是小河也方便戲水 老闆家的小奶狗也很可愛萌萌噠 衞生是自然的陽光味道 浴巾毛巾都是一次性的用品安全放心 紙抽捲紙都是新開封的安全放心",
+      "author": "Guest User",
+      "date": "2025-05-25",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5311303&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5311303&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.3,
+    "count": 5,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:05:29.303Z",
+  "source": "trip"
+}

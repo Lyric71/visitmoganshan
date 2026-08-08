@@ -1,0 +1,57 @@
+{
+  "id": 5128998,
+  "name": "Hillside Cottage Hostel",
+  "seedName": "Hillside Cottage Hostel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5128998",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5128998&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5128998&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Hillside Cottage Hostel?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 48 Shangguan, Xiantan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5128998/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2B0a160000010cs5cC294.jpg"
+    },
+    {
+      "src": "/images/stays/5128998/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20041g000001hfyn55720.webp"
+    },
+    {
+      "src": "/images/stays/5128998/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2B0j160000010az3i5B3B.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "房間設施齊全，有暖氣，房東很熱情，在附近玩來不及回去退房，給我們延後了退房。非常感謝，下次還會再來！！！",
+      "author": "Guest User",
+      "date": "2026-01-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5128998&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5128998&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間設施齊全，有暖氣，房東很熱情，在附近玩來不及回去退房，給我們延後了退房。非常感謝，下次還會再來！！！",
+      "author": "Guest User",
+      "date": "2026-01-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5128998&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5128998&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 2,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:05:03.609Z",
+  "source": "trip"
+}

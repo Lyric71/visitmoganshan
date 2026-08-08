@@ -1,0 +1,38 @@
+{
+  "id": 2012964,
+  "name": "Gufeng Manor",
+  "seedName": "Gufeng Manor",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2012964",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2012964&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2012964&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Gufeng Manor?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Houwu Village, Moganshan Town, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$31",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/2012964/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200m0k000000bzyiu14E4.jpg"
+    },
+    {
+      "src": "/images/stays/2012964/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200p080000002ztz9609D.webp"
+    },
+    {
+      "src": "/images/stays/2012964/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1q12000dnpgir3C8A1.webp"
+    }
+  ],
+  "comments": [],
+  "rating": null,
+  "sourcedAt": "2026-08-08T15:58:48.046Z",
+  "source": "trip"
+}

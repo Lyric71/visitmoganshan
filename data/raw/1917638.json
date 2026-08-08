@@ -1,0 +1,85 @@
+{
+  "id": 1917638,
+  "name": "Liujia Xiaoyuan Inn",
+  "seedName": "Liujia Xiaoyuan Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1917638",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1917638&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1917638&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service Quality:Hosts are consistently described as \"friendly,\" \"warm-hearted,\" and \"attentive.\"(based on 5 reviews) Cleanliness:Rooms are repeatedly noted as \"clean,\" \"tidy,\" and \"well-maintained.\"(based on 3 reviews) Location & Accessibility:The property is praised for being \"super convenient\" near a bustling area, with proximity to a \"stream\" and \"local amenities.\"(based on 1 review) Amenities:Breakfast is highlighted as \"abundant,\" \"delicious,\" and \"thoughtful\" .(based on 1 review) Ambiance:The property offers a \"cozy,\" \"homely\" atmosphere with a \"rural charm\" and \"local flavor.\"",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service Quality",
+        "text": "Hosts are consistently described as \"friendly,\" \"warm-hearted,\" and \"attentive.\"",
+        "count": 5
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms are repeatedly noted as \"clean,\" \"tidy,\" and \"well-maintained.\"",
+        "count": 3
+      },
+      {
+        "topic": "Accessibility",
+        "text": "The property is praised for being \"super convenient\" near a bustling area, with proximity to a \"stream\" and \"local amenities.\"",
+        "count": 1
+      },
+      {
+        "topic": "Amenities",
+        "text": "Breakfast is highlighted as \"abundant,\" \"delicious,\" and \"thoughtful\" .",
+        "count": 1
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 84, Lower Village, Houwu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1917638/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0204y12000ayo8n3z38EC.jpg"
+    },
+    {
+      "src": "/images/stays/1917638/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203612000fvtiowz87AD.webp"
+    },
+    {
+      "src": "/images/stays/1917638/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2l12000du6zmri0184.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "老闆娘人很好，服務很細緻，讓人感覺入住的很舒適。洗浴的時候打壞一個花灑，老闆娘都沒有讓賠償！很讚的一次入住體驗！#性價比",
+      "author": "Guest User",
+      "date": "2025-08-18",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1917638&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1917638&trip_sub3=D19127628"
+    },
+    {
+      "quote": "老闆娘人很好，服務很細緻，讓人感覺入住的很舒適。洗浴的時候打壞一個花灑，老闆娘都沒有讓賠償！很讚的一次入住體驗！#性價比",
+      "author": "Guest User",
+      "date": "2025-08-18",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1917638&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1917638&trip_sub3=D19127628"
+    },
+    {
+      "quote": "常規農家院，裝修設施環境都沒有名宿的感覺，沒用景觀，因為是十一假期，380一晚的價格上也沒有性價比",
+      "author": "Guest User",
+      "date": "2024-10-15",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1917638&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1917638&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.2,
+    "count": 7,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:58:01.222Z",
+  "source": "trip"
+}

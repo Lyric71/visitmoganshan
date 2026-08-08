@@ -1,0 +1,91 @@
+{
+  "id": 33619921,
+  "name": "Chenqi Moganshan Green Parent-child Holiday Villa",
+  "seedName": "Chenqi Moganshan Green Parent-child Holiday Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-33619921",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=33619921&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-33619921&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Environment:Situated in a mountainous area with surrounding bamboo forests, bamboo groves, and streams, offering serene, natural views .(based on 9 reviews) Cleanliness:Rooms, bathrooms, and common areas are consistently described as extremely clean, with attention to detail .(based on 49 reviews) Accommodation Features:Spacious, well-designed rooms , wooden structures, and modern facilities .(based on 16 reviews) Service & Hospitality:Hosts are universally praised for their warmth, attentiveness, and willingness to assist with travel planning, local recommendations, and activities .(based on 49 reviews) Culinary Experience:Meals, particularly breakfast and locally sourced dishes , are highlighted as fresh, flavorful, and part of the stay.(based on 10 reviews) Suitability:Ideal for families, seniors, and nature lovers, with child-friendly amenities .",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Situated in a mountainous area with surrounding bamboo forests, bamboo groves, and streams, offering serene, natural views .",
+        "count": 9
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms, bathrooms, and common areas are consistently described as extremely clean, with attention to detail .",
+        "count": 49
+      },
+      {
+        "topic": "Accommodation Features",
+        "text": "Spacious, well-designed rooms , wooden structures, and modern facilities .",
+        "count": 16
+      },
+      {
+        "topic": "Hospitality",
+        "text": "Hosts are universally praised for their warmth, attentiveness, and willingness to assist with travel planning, local recommendations, and activities .",
+        "count": 49
+      },
+      {
+        "topic": "Culinary Experience",
+        "text": "Meals, particularly breakfast and locally sourced dishes , are highlighted as fresh, flavorful, and part of the stay.",
+        "count": 10
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "莫干山镇佛堂村朝东坞十二组, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/33619921/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0202b120009ufkm6tF35D.jpg"
+    },
+    {
+      "src": "/images/stays/33619921/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2h0c12000000sy3f8CA80.webp"
+    },
+    {
+      "src": "/images/stays/33619921/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200l12000000t34c1651E.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "地理位置有點偏，但是環境很清幽，整個民宿佈置都不錯，看得出老闆很用心在經營，每一處細節都做得很到位，不輸酒店。民宿內部環境很乾凈，老闆娘很健談，情緒價值給得很足！老闆做菜很好吃，炒肚絲特別好吃，魚蒸得恰到好處。",
+      "author": "Guest User",
+      "date": "2025-10-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=33619921&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-33619921&trip_sub3=D19127628"
+    },
+    {
+      "quote": "一家裝修很講究的民宿，入住當天趕上下雨，更有意境了！民宿小哥哥和阿姨人也非常熱情，不僅幫我們避坑一些性價比不高的店，而且在我們外出遊玩晚歸沒飯吃的情況下幫我們煮麪吃😂有幸進了後廚，衞生也非常乾淨。總之，入住體驗感非常好，推薦推薦！祝店家生意興隆！",
+      "author": "Kele🌈xing",
+      "date": "2025-08-14",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=33619921&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-33619921&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房主特別熱情，為我們介紹了值得去的景點，老闆燒了一手的好菜，炒肚子超下飯，吃多了外面飯店油膩的菜品，吃老闆的菜清爽美味。房間整潔乾淨，推窗看見一片綠油油，門前有一天溯溪小河流。帶父母孩子來玩很解壓。",
+      "author": "Guest User",
+      "date": "2025-08-12",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=33619921&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-33619921&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 86,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:47:35.936Z",
+  "source": "trip"
+}

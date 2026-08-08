@@ -1,0 +1,69 @@
+{
+  "id": 15047029,
+  "name": "Beautiful villa planted in Mogan mountain",
+  "seedName": "Beautiful villa planted in Mogan mountain",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-15047029",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=15047029&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-15047029&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Beautiful villa planted in Mogan mountain?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Tsui Yu Road - 28 Road, Deqing, Zhejiang, 313000, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Billiards room",
+    "Cardroom",
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/15047029/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200a120008fwxr7y6104.jpg"
+    },
+    {
+      "src": "/images/stays/15047029/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201t120007ofdlvnE7D0.webp"
+    },
+    {
+      "src": "/images/stays/15047029/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5312000c4un7wwEE38.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "This was my parents' first trip to Moganshan. The guesthouse courtyard was beautiful, the rooms were clean, and the owners were very welcoming. It's within walking distance of the Yucun Scenic Area in Moganshan, offering a quiet retreat amidst the...",
+      "author": "Guest User",
+      "date": "2026-05-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=15047029&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-15047029&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The guesthouse had a nice environment and the service was excellent! The only slight drawback was that the room in January lacked a window!",
+      "author": "Guest User",
+      "date": "2026-05-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=15047029&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-15047029&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The yard is spacious and open, so the kids can run around freely without any problem. Inside, there are game consoles and a pool table, so adults and children alike can have a great time. In the evening, you can...",
+      "author": "Jingang5018",
+      "date": "2026-02-14",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=15047029&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-15047029&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 117,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:45:58.197Z",
+  "source": "trip"
+}

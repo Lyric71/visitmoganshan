@@ -1,0 +1,75 @@
+{
+  "id": 1050610,
+  "name": "Floral Hotel Yue'er Xiaozhu Villa",
+  "seedName": "Floral Hotel Yue'er Xiaozhu Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1050610",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1050610&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1050610&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Facilities & Cleanliness:Rooms are consistently described as clean, odor-free, and well-ventilated, even during rainy weather. The presence of mosquito nets and the absence of mold or dampness are highlighted, ensuring a comfortable stay.(based on 1 review) Amenities & Activities:Free breakfast with home-style dishes is a standout feature, complemented by additional services like barbecue equipment and recommendations for local activities. The host’s hospitality, such as preparing special meals, adds to the experience.(based on 4 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms are consistently described as clean, odor-free, and well-ventilated, even during rainy weather. The presence of mosquito nets and the absence of mold or dampness are highlighted, ensuring a comfortable stay.",
+        "count": 1
+      },
+      {
+        "topic": "Activities",
+        "text": "Free breakfast with home-style dishes is a standout feature, complemented by additional services like barbecue equipment and recommendations for local activities. The host’s hospitality, such as preparing special meals, adds to the experience.",
+        "count": 4
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No.76 Kanshang, Houwu Village, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1050610/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0584a12000skdkd8h7D1F.jpg"
+    },
+    {
+      "src": "/images/stays/1050610/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200c1a0000018nt6eA9F4.webp"
+    },
+    {
+      "src": "/images/stays/1050610/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20091a0000018nkh0B866.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "住了兩晚，非常舒服，特別放鬆。老闆做的飯真的很好吃，而且價格真的很划算，比旁邊的飯店優惠好多，也省去了自己還想着晚上吃什麼。民宿的小露台是我和老婆的最愛，連着在露台喝酒聊天兩晚，微風吹過，好不愜意。最重要的還可以挖春筍，後山就可以挖，非常方便！",
+      "author": "Guest User",
+      "date": "2026-04-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1050610&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1050610&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間乾淨舒適，安靜好睡，整體佈置很用心。早餐雖然簡單但味道很好，吃得舒服。 最加分的是老闆，特別熱情實在，從入住到離開都照顧得很周到，還主動幫忙規劃路線，這種有人情味的住宿，下次一定再來！",
+      "author": "Guest User",
+      "date": "2026-04-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1050610&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1050610&trip_sub3=D19127628"
+    },
+    {
+      "quote": "環境還可以，環境適合愛打麻將的小夥伴！莫干山適合徒步愛好者，空氣新鮮！這家民宿包含早餐，睡得晚了，還可以讓老闆幫忙保留一下！",
+      "author": "Guest User",
+      "date": "2026-05-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1050610&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1050610&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.2,
+    "count": 13,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:56:11.643Z",
+  "source": "trip"
+}

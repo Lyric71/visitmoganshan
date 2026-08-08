@@ -1,0 +1,79 @@
+{
+  "id": 6657438,
+  "name": "Yungu Moganshan Hot Spring Holiday Hostel",
+  "seedName": "Yungu Moganshan Hot Spring Holiday Hostel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-6657438",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6657438&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6657438&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service and Hospitality:Staff and hosts are noted for their friendly and attentive service, offering assistance with travel planning, local recommendations, and special arrangements like late checkouts or extended hot spring access, enhancing guest satisfaction.(based on 3 reviews) Guest Suggestion:Some customers suggest improving water heating reliability, enhancing room cleanliness (e.g., musty bedding, odorous hot water kettle), and ensuring staff availability for timely issue resolution.(based on 10 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service and Hospitality",
+        "text": "Staff and hosts are noted for their friendly and attentive service, offering assistance with travel planning, local recommendations, and special arrangements like late checkouts or extended hot spring access, enhancing guest satisfaction.",
+        "count": 3
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving water heating reliability, enhancing room cleanliness (e.g., musty bedding, odorous hot water kettle), and ensuring staff availability for timely issue resolution.",
+      "count": 10
+    }
+  },
+  "address": "Near No.09 Provincial Road (Houwu Village), Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Hot springs",
+    "Restaurant",
+    "Conference room",
+    "Multi-function room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/6657438/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200f14000000wzuttE8E9.jpg"
+    },
+    {
+      "src": "/images/stays/6657438/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200c15000000xc1xh9B12.webp"
+    },
+    {
+      "src": "/images/stays/6657438/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200714000000xgi7o7734.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "房間比較有特色，配備游泳池和停車位，距離換乘站比較近，上山方便。 但是房間隔音不行，設施有點老舊，浴室和衞生間玻璃門完全透明，建議磨砂！",
+      "author": "Guest User",
+      "date": "2025-10-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6657438&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6657438&trip_sub3=D19127628"
+    },
+    {
+      "quote": "一，沒有熱水。晚上管家電話回覆説空氣能熱水器電源被保潔阿姨拔了，要重新加熱六七個小時才能用。 晚上能給我的解決方案是重新找一家民宿入駐，全款退給我。或者反饋給平台退我半價。 爬了一下午山，又冷又累，所以我選湊合一晚等早晨的熱水。 我還在微信裏跟朋友打賭，他説肯定沒熱水，我説熱水器都在怎麼可能沒熱水？果然沒有。 二，屋裡空調温度打不上去，在出風口衹有風，不熱。實在太冷，晚上我穿着馬甲，疊着被子睡的。 三，工作人員不在崗，晚上都是電話聯繫，態度挺好，就是什麼問題都沒解決，除了要到wifi密碼。 四，晚上回到民宿，整幢樓沒有人在，電話諮詢晚上是不是我一個人入住，我要不要把樓門也關了。回覆是很多房房間都有人。我想知道到底多少人會來投訴，是不是衹有我一人入住，所以想糊弄？ 五，房間的熱水壺加熱的水有股油穢味，好像被人煮過肉的味兒。 我早起沒等到熱水，果斷就直接奔下一站酒店去了，走的時候就有點打噴嚏流涕，到了下家酒店洗完澡之後還是渾身疼，出去兜了一圈，頭疼腰疼渾身疼流鼻涕，現在這個狀態肯定沒辦法去爬天台山了。我請平台客服幫我取消行程了。現在賓館喝着感冒沖劑，準備明天提前回家。 四天四個城市的行程就這麼結束了，我很不開心，想罵人，但是現在沒力氣。",
+      "author": "Guest User",
+      "date": "2024-12-22",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6657438&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6657438&trip_sub3=D19127628"
+    },
+    {
+      "quote": "環境一般，隔音差，説是温泉民宿，温泉也沒見着，小童遊樂設施經久不用，也是臟，晚上八九到，想吃一碗當地的家常麪，結果煮了一碗20塊的榨菜肉絲麪，拜託煮不出來就別煮了。國慶期間七八百一晚，早飯是速凍饅頭之類的，早飯還收費15一個人",
+      "author": "Guest User",
+      "date": "2024-10-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6657438&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6657438&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.4,
+    "count": 78,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:44:25.853Z",
+  "source": "trip"
+}

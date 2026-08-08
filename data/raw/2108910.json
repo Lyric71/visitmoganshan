@@ -1,0 +1,65 @@
+{
+  "id": 2108910,
+  "name": "Zhimengjia Hotel",
+  "seedName": "Zhimengjia Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2108910",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2108910&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2108910&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Zhimengjia Hotel?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 34 Yangwukeng, Xiantan Village, Deqing, Zhejiang, 313202, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/2108910/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02064120006w1m26hE3DD.jpg"
+    },
+    {
+      "src": "/images/stays/2108910/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4m12000hfd327z5255.webp"
+    },
+    {
+      "src": "/images/stays/2108910/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0202y120006negohr92DE.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "民宿特別驚艷！驚艷的部分有三點 第一：民宿首先整體佔地很大 廳堂大 泳池大 就餐區域也很大 特別適合團隊團建轟趴。一樓廳堂房型很正，是個大正方形，每個區域分佈合理，空間非常舒服。泳池大到10個人5V5水戰都足夠足夠，非常能玩得開！户外就餐區以及室內餐廳都足以裝下將近20號人，而且還不擠。 第二：房東服務非常好，基本是有求必應，會貼心的為我們準備各種物資。吃的水果會幫我們切好，喝的酒也會幫我們提前冰箱鎮好，製冷設備風扇什麼的也會幫我們擺好，屋內的空調也會幫我們提前開好，從外面剛進屋就是涼爽的温度，根本不會熱。 第三：民宿門口停車場很大，能停二位數數量的車，而且還有充電樁，這非常方便以及匹配現在的新能源車出行的要求，因為像山裡的民宿有這麼方便的停車場地真的是很難得。 房東也是很淳樸的一家人，我説這麼好的條件怎麼看評論不是很多，房東也是不太好意思讓房客幫忙寫好評，我覺得這麼好的民宿環境不應該不被大家知道，真的是寶藏中的寶藏民宿！！ 推薦大家來莫干山一定要來織夢家體驗一下！",
+      "author": "Guest User",
+      "date": "2024-07-22",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2108910&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2108910&trip_sub3=D19127628"
+    },
+    {
+      "quote": "老闆娘人特別好！按我們的要求時間做晚餐，第二天還把我帶到爬莫干山的入口告訴我從哪裡爬！人一看就是特別好的！ 民宿離莫干山、碧塢龍潭、仙譚田園樂園都很近！我們最後選擇了莫干山！ 床品也很乾凈，去之前房東就把空調打開了！我們6個家庭都很滿意！暑假的時候會再來！ 就是晚餐能多幾個辣菜就完美了！",
+      "author": "Guest User",
+      "date": "2024-01-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2108910&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2108910&trip_sub3=D19127628"
+    },
+    {
+      "quote": "小院裏麪可以停4～5輛車，門口還有個停車場，停車很方便，小院挺大的，二三十人聚會很舒服，房間很大很舒服，安靜，乾淨衞生，洗澡出熱水很快，娛樂設施很多，桌球、遊戲機、麻將、泳池、唱歌機什麼都有。老闆很熱情，有求必應，老闆娘做的菜味道很地道，還推薦我們附近有什麼好玩的好吃的！",
+      "author": "Guest User",
+      "date": "2023-08-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2108910&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2108910&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 4,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:00:08.264Z",
+  "source": "trip"
+}

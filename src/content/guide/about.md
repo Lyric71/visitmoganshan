@@ -46,7 +46,7 @@ There are two revenue lines, and both are visible on the page they run on.
 
 The first is affiliate commission. Some booking links go to Trip.com carrying an identifier that tells them the booking came from us, you pay what you would have paid anyway, and the links are marked as commercial in the page source. [How this site is funded](/plan/disclosure/) has the detail.
 
-The second is advertising. Businesses on and around the mountain can buy a listing, a labelled placement or a sponsored feature, and [advertise with us](/advertise/) sets out the terms in public rather than in an email. Paid items say they are paid, above the copy rather than under it.
+The second is advertising. Businesses on and around the mountain can buy space here, and [advertise with us](/advertise/) sets out how that works: there is no rate card, every arrangement is quoted in writing, and paid items say they are paid above the copy rather than under it.
 
 Whether BeyondBorder Group Ltd or anyone connected to it holds an ownership interest in a property named here stays unconfirmed until it is documented. We will not describe a holding we cannot document.
 

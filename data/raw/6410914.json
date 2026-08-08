@@ -1,0 +1,72 @@
+{
+  "id": 6410914,
+  "name": "The Nights·Moganshan Minguo Town Homestay",
+  "seedName": "The Nights·Moganshan Minguo Town Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-6410914",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6410914&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6410914&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Proximity to event starting points , nearby dining streets, and access to attractions like the Republican-style street and Moganshan Gathering Center. Service:Positive feedback on the host's hospitality, including helpful recommendations for local attractions and flexible access .(based on 1 review) Guest Suggestion:Some customers suggest improving room hygiene , upgrading basic facilities , and aligning pricing with service quality.(based on 7 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Proximity to event starting points , nearby dining streets, and access to attractions like the Republican-style street and Moganshan Gathering Center. Service:Positive feedback on the host's hospitality, including helpful recommendations for local attractions and flexible access .",
+        "count": 1
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving room hygiene , upgrading basic facilities , and aligning pricing with service quality.",
+      "count": 7
+    }
+  },
+  "address": "No. 105-109 Yuxin North Street, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$38",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/6410914/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0585912000srm841k959B.jpg"
+    },
+    {
+      "src": "/images/stays/6410914/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0585912000srm841k959B.webp"
+    },
+    {
+      "src": "/images/stays/6410914/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0582z12000srm7lg6F4DC.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "剛剛入住的時候準備進去洗澡明顯看到大毛巾和小毛巾是後面疊好的上面還留有上一位客人的毛髮很難想象如果有皮膚病的會不會傳染店家再省也不應該在這個地方節省床上的四件套更加不可能是換過的。將就一晚上吧低分真的有原因",
+      "author": "Guest User",
+      "date": "2024-11-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6410914&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6410914&trip_sub3=D19127628"
+    },
+    {
+      "quote": "提前與店家溝通會晚到，可是到了之後，被一個稱其工作人員帶去很遠的一個普通人家居住，進去巷子有犬叫，凌晨三點旁邊有公雞打鳴，一個晚上都沒睡幾個小時，一開始説我定的房間雙大床沒有了，衹有另外一個有，過去了之後空調開一晚上暖風不進來，床被子感覺潮濕，床單罩子也有明顯之前住客睡過臟兮兮的灰塵，因為第二天一大早開賽，也不想去計較，但是真的真的不滿意，這個價格住在莫干山確實不滿意。",
+      "author": "Juanjuanqianxiaoxun",
+      "date": "2024-11-11",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6410914&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6410914&trip_sub3=D19127628"
+    },
+    {
+      "quote": "剛剛入住的時候準備進去洗澡明顯看到大毛巾和小毛巾是後面疊好的上面還留有上一位客人的毛髮很難想象如果有皮膚病的會不會傳染店家再省也不應該在這個地方節省床上的四件套更加不可能是換過的。將就一晚上吧低分真的有原因",
+      "author": "Guest User",
+      "date": "2024-11-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6410914&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6410914&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 4.1,
+    "count": 10,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:37:35.878Z",
+  "source": "trip"
+}

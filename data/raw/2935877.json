@@ -1,0 +1,86 @@
+{
+  "id": 2935877,
+  "name": "Moganshan Qishuiwan Homestay",
+  "seedName": "Moganshan Qishuiwan Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2935877",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2935877&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2935877&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment and Location:The area is quiet and near attractions such as Yucun, Gaoshan Forest Rafting, and Moganshan Scenic Area Tourist Distribution Center. There are parking spaces at the entrance. The location is convenient, and the window view is enjoyable. Facilities:There are facilities like swimming pool, mahjong, billiards, KTV. Rooms are clean and tidy, bedding is comfortable.(based on 4 reviews) Service:Owners are friendly and kind, housekeepers are thoughtful and responsive, can meet needs.(based on 5 reviews) Hygiene:Rooms and sanitation are clean.(based on 4 reviews) Breakfast:Breakfast is fresh, delicious, authentic and exquisite(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment and Location",
+        "text": "The area is quiet and near attractions such as Yucun, Gaoshan Forest Rafting, and Moganshan Scenic Area Tourist Distribution Center. There are parking spaces at the entrance. The location is convenient, and the window view is enjoyable. Facilities:There are facilities like swimming pool, mahjong, billiards, KTV. Rooms are clean and tidy, bedding is comfortable.",
+        "count": 4
+      },
+      {
+        "topic": "Service",
+        "text": "Owners are friendly and kind, housekeepers are thoughtful and responsive, can meet needs.",
+        "count": 5
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Rooms and sanitation are clean.",
+        "count": 4
+      },
+      {
+        "topic": "Breakfast",
+        "text": "Breakfast is fresh, delicious, authentic and exquisite",
+        "count": 2
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 47 Nongmin Street, Deqing, Zhejiang, China",
+  "priceRange": "From US$67",
+  "facilities": [
+    "Restaurant",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/2935877/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6312000jmk2gse9BE1.jpg"
+    },
+    {
+      "src": "/images/stays/2935877/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200b12000r6agxt977D5.webp"
+    },
+    {
+      "src": "/images/stays/2935877/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201512000r6aqggg7665.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "很好的環境，院子裏的泳池也很棒，老闆很熱心，下大雨打不到車，親子開車來接，必須點贊",
+      "author": "Guest User",
+      "date": "2026-04-11",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2935877&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2935877&trip_sub3=D19127628"
+    },
+    {
+      "quote": "來參加小童斯巴達的比賽 比賽場地開車不方便 老闆開車接送 特別感動 老闆娘早飯也是現燒的早飯 新鮮味道也好 服務和體驗也特別好 靠着湖邊 還有泳池 明年夏天如果有機會還會再來",
+      "author": "Guest User",
+      "date": "2025-11-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2935877&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2935877&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間乾淨整潔，老闆老闆娘很親切，老闆娘手藝不錯菜味道可以哦，泳池，涼亭，桌球，ktv 麻將 ，約上三五好友 休閑好去處。",
+      "author": "Guest User",
+      "date": "2024-09-18",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2935877&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2935877&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 10,
+    "count": 22,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:02:44.747Z",
+  "source": "trip"
+}

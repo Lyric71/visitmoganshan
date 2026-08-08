@@ -1,0 +1,87 @@
+{
+  "id": 20059080,
+  "name": "Mount Mogan Xitian Shanyu Xiangxu Hostel",
+  "seedName": "Mount Mogan Xitian Shanyu Xiangxu Hostel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-20059080",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=20059080&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-20059080&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service:Consistently praised for friendly, attentive staff , with proactive assistance .(based on 6 reviews) Facilities:Spacious rooms , quiet environment, and a courtyard with a relaxed atmosphere.(based on 1 review) Amenities:Comfortable accommodations, smart interior design, and a welcoming ambiance suitable for relaxation.(based on 4 reviews) Accessibility:Easy access to local attractions, with a peaceful setting ideal for weekend getaways.(based on 2 reviews) Guest Suggestion: Some customers suggest addressing pest issues, improving water pressure, and enhancing air conditioning performance.(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service",
+        "text": "Consistently praised for friendly, attentive staff , with proactive assistance .",
+        "count": 6
+      },
+      {
+        "topic": "Facilities",
+        "text": "Spacious rooms , quiet environment, and a courtyard with a relaxed atmosphere.",
+        "count": 1
+      },
+      {
+        "topic": "Amenities",
+        "text": "Comfortable accommodations, smart interior design, and a welcoming ambiance suitable for relaxation.",
+        "count": 4
+      },
+      {
+        "topic": "Accessibility",
+        "text": "Easy access to local attractions, with a peaceful setting ideal for weekend getaways.",
+        "count": 2
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest addressing pest issues, improving water pressure, and enhancing air conditioning performance.",
+      "count": 3
+    }
+  },
+  "address": "1932 Wenchuang Park, No. 40 Huangfu West Road, Liaoyuan Village, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/20059080/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0202q120008ehz2554CC6.jpg"
+    },
+    {
+      "src": "/images/stays/20059080/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02033120008ehpkh1B350.webp"
+    },
+    {
+      "src": "/images/stays/20059080/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD2p120009f7wkb51A38.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "參加莫干山utmb的比賽，這家離起點非常非常近，停車也方便，環境也還不錯，價格也很實惠，完美的旅行",
+      "author": "Leon",
+      "date": "2026-06-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=20059080&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-20059080&trip_sub3=D19127628"
+    },
+    {
+      "quote": "訂的白露，給的冬至！説50平方有露台，結果也沒有，感覺就30平最多了。挺安靜也挺安靜的。提前一天離店，工作人員也願意！總體都蠻好還便宜",
+      "author": "ALiaa",
+      "date": "2026-06-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=20059080&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-20059080&trip_sub3=D19127628"
+    },
+    {
+      "quote": "非常不滿意的住宿。第一淋浴間非常臟，照片可以看到。第二淋浴下水完全堵住。第三手持花灑掛不上去，一掛就倒，衹能手持着洗。第四淋浴間地上居然有個釘子。第五水壓很小，花灑接口漏水，出水量很小。第六房間裏有蟲，一晚上覺得身體癢，醒了很多次，早晨發現有蟲在臉上爬，我還拍了照片。第七一些問題反應給前台小姑娘，得不到任何反饋，連個道歉也沒有。民宿也就這樣擺爛，讓你住的再差你也沒轍。",
+      "author": "Anonymous User",
+      "date": "2024-06-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=20059080&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-20059080&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.8,
+    "count": 15,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:47:08.912Z",
+  "source": "trip"
+}
