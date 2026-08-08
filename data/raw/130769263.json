@@ -1,0 +1,87 @@
+{
+  "id": 130769263,
+  "name": "Moganshan Youguangde Difang Homestay",
+  "seedName": "Moganshan Youguangde Difang Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-130769263",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=130769263&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-130769263&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment Location:Located in a quiet small village or by a reservoir, with beautiful and peaceful surroundings like bamboo forests and reservoirs, suitable for relaxation and getting away from it all(based on 7 reviews) Facilities and Services:Rooms are new and clean, with floor heating, support self-check-in which is convenient, and breakfast is delicious, also having characteristic activities like making tea and playing Tai Chi(based on 8 reviews) Experience Feeling:There are novel experiences such as digging early garden bamboo shoots, with a good atmosphere that can bring a refreshing feeling, suitable for a slow life and self-cultivation Guest Suggestion:Some customers suggest hygiene issues, room temp problems, and service/facility issues(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment Location",
+        "text": "Located in a quiet small village or by a reservoir, with beautiful and peaceful surroundings like bamboo forests and reservoirs, suitable for relaxation and getting away from it all",
+        "count": 7
+      },
+      {
+        "topic": "Facilities and Services",
+        "text": "Rooms are new and clean, with floor heating, support self-check-in which is convenient, and breakfast is delicious, also having characteristic activities like making tea and playing Tai Chi",
+        "count": 8
+      },
+      {
+        "topic": "Experience Feeling",
+        "text": "There are novel experiences such as digging early garden bamboo shoots, with a good atmosphere that can bring a refreshing feeling, suitable for a slow life and self-cultivation Guest Suggestion:Some customers suggest hygiene issues, room temp problems, and service/facility issues",
+        "count": 3
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "莫干山镇何村于烂线联众公司五号楼东北方向35米, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Gym"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/130769263/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3a12000mk10x0pB993.jpg"
+    },
+    {
+      "src": "/images/stays/130769263/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc7412000mk1nei77CEF.webp"
+    },
+    {
+      "src": "/images/stays/130769263/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3d12000mk0ygc90038.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "靜心感受 磁場乾淨 美好週末 謝謝老闆的茶 在公共區域聊的很開心 到處都香香的 這裏離庾村很近打車很方便 推薦的農家飯館很好吃 民宿提供的小電驢像 vespa 好漂亮 騎着車在村裡溜了一圈看風景 好愜意 完全驚喜 下次還來～",
+      "author": "Shannai sn",
+      "date": "2026-08-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=130769263&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-130769263&trip_sub3=D19127628"
+    },
+    {
+      "quote": "靜心感受 磁場乾淨 美好週末 謝謝老闆的茶 在公共區域聊的很開心 到處都香香的 這裏離庾村很近打車很方便 推薦的農家飯館很好吃 民宿提供的小電驢像 vespa 好漂亮 騎着車在村裡溜了一圈看風景 好愜意 完全驚喜 下次還來～",
+      "author": "Shannai sn",
+      "date": "2026-08-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=130769263&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-130769263&trip_sub3=D19127628"
+    },
+    {
+      "quote": "非常滿意，自助入住，當天會聯繫發密碼，第二天早餐送到房間裏。除了位置偏僻以外不好打車，其他都還好。距離莫干山比較近，同時附近有個義遠有機農場，適合親子出行。房間裏有地暖，床也是會加熱的，冬天對於北方人來説非常友好，怕南方的濕冷天氣。",
+      "author": "Yueyuexiannvtiantianda",
+      "date": "2026-02-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=130769263&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-130769263&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 34,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:27:45.175Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

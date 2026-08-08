@@ -1,0 +1,43 @@
+{
+  "id": 879432,
+  "name": "Gushu Mountain Villa",
+  "seedName": "Gushu Mountain Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-879432",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=879432&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-879432&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Gushu Mountain Villa?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 40 Kanshang, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/879432/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200i0s000000hvx689E8B.jpg"
+    },
+    {
+      "src": "/images/stays/879432/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0584d12000sng4azg633C.webp"
+    },
+    {
+      "src": "/images/stays/879432/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0580l12000spmoz8tEB24.webp"
+    }
+  ],
+  "comments": [],
+  "rating": null,
+  "sourcedAt": "2026-08-08T16:22:14.548Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

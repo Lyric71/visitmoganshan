@@ -1,0 +1,82 @@
+{
+  "id": 28521388,
+  "name": "Shuchao Shanju Homestay",
+  "seedName": "Shuchao Shanju Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-28521388",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=28521388&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-28521388&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Dining Experience:The on-site meals are highlighted for their quality and variety, with complimentary breakfasts and locally sourced dishes. The host's cooking skills and the availability of diverse dining options near the accommodation add to the appeal.(based on 1 review) Family-Friendly Features:The property is ideal for families, with child-friendly rooms, activities like treehouse exploration, and opportunities for outdoor play. The layout and amenities cater well to guests with children.(based on 5 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Dining Experience",
+        "text": "The on-site meals are highlighted for their quality and variety, with complimentary breakfasts and locally sourced dishes. The host's cooking skills and the availability of diverse dining options near the accommodation add to the appeal.",
+        "count": 1
+      },
+      {
+        "topic": "Family-Friendly Features",
+        "text": "The property is ideal for families, with child-friendly rooms, activities like treehouse exploration, and opportunities for outdoor play. The layout and amenities cater well to guests with children.",
+        "count": 5
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "筏头乡筏头村五组15号, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/28521388/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2B05180000013jy8gE734.jpg"
+    },
+    {
+      "src": "/images/stays/28521388/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4g12000c9tjrnkDAE0.webp"
+    },
+    {
+      "src": "/images/stays/28521388/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6r12000d1qbdqzD066.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "非常有特色的民宿，老闆人也非常好，交通便利，道路寬敞，去哪都很方便，不會被堵車！老闆還幫我們購買遊樂園的優惠門票，房間費都省出來了，謝謝！ 設施：今天過來剛好老闆給泳池換水，沒有玩水，但一起看了一場泳池露天電影！",
+      "author": "Anonymous User",
+      "date": "2025-10-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=28521388&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-28521388&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間體驗特別好，老闆人特別熱心，樹屋非常特別，小孩子不要太喜歡，室內環境整潔，老闆還非常熱心的幫忙聯繫周邊漂流，指點周邊玩水，非常棒的週末兩日遊",
+      "author": "Guest User",
+      "date": "2025-07-14",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=28521388&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-28521388&trip_sub3=D19127628"
+    },
+    {
+      "quote": "我們從杭州出發一行10人來到這個莫干山樹巢民宿，高速下來很快就到了，民宿外部景觀優美，環境優雅舒適，空氣清新，房間寬敞乾淨，老闆娘服務很棒，特別熱情，老闆燒一手好菜，個個都説好美食太豐盛太好吃了！天氣熱一點會更舒服，可以去周邊玩玩，到竹園挖筍玩耍更有樂趣！下次聚會還會再去哪裡玩哦",
+      "author": "Guest User",
+      "date": "2024-02-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=28521388&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-28521388&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 10,
+    "count": 16,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:14:39.876Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

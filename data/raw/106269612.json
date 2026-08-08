@@ -1,0 +1,71 @@
+{
+  "id": 106269612,
+  "name": "Moganshan Jiangyuan Wenquan Homestay (Ziling Tunnel No.1)",
+  "seedName": "Moganshan Jiangyuan Wenquan Homestay (Ziling Tunnel No.1)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-106269612",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=106269612&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-106269612&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Jiangyuan Wenquan Homestay (Ziling Tunnel No.1)?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "紫岭隧道湖州蒋园精品民宿, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/106269612/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0580p12000nwdti3e734C.jpg"
+    },
+    {
+      "src": "/images/stays/106269612/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0583q12000ofhkyg397CF.webp"
+    },
+    {
+      "src": "/images/stays/106269612/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0582j12000oczaers8E07.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "這家民宿真的超出預期！先説老闆娘，人熱情又貼心，晚上給我們做了拿手小龍蝦，還有紅燒魚、清炒生菜，味道完全不輸外面的館子，吃的就是家的味道！早餐也很用心，白粥配小菜、包子雞蛋，吃起來舒服又暖胃。 民宿環境也絕了，白房子+大泳池，院子乾淨又出片，房間寬敞明亮，窗外就是山景，住起來特別舒服。不管是朋友出遊還是家庭出行都超合適，下次來還住這兒！",
+      "author": "Guest User",
+      "date": "2026-04-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=106269612&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-106269612&trip_sub3=D19127628"
+    },
+    {
+      "quote": "非常滿意的一個民宿： 1.室內室外環境都很雅緻，舒適，室外有秋千、泳池、一些桌椅，室內房間漂亮，浴缸躺起來也很舒服，陽台望出去很安靜 2.老闆娘很親切，還推薦了我們一個非常好吃的餐廳，食材新鮮，比莫干山鎮的好吃多了，就是山裡的味道 住完會有還想再次來的想法",
+      "author": "Guest User",
+      "date": "2026-04-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=106269612&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-106269612&trip_sub3=D19127628"
+    },
+    {
+      "quote": "超級喜歡這家民宿，院子裏有個大泳池，花園打理得很美，打開窗就看見一片片綠山環繞，老闆娘和老闆很熱情，由於我們沒有車，老闆還親自開車接接送送了好幾次，真是很不好意思，還有他們家那衹小狗狗，簡直是招財狗，一見有客人到來就第一時間迎上來撒嬌翻肚皮，太太可愛了😍！老闆還推薦了很好的徒步路線，臨走時還送了好幾瓶礦泉水，如果你來莫干山旅遊，真心推薦這裏哦！",
+      "author": "Guest User",
+      "date": "2025-08-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=106269612&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-106269612&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 6,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:25:21.579Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": 78397459,
+  "name": "Moganshan Shangxia Zhuang Homestay",
+  "seedName": "Moganshan Shangxia Zhuang Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-78397459",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=78397459&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-78397459&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Shangxia Zhuang Homestay?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "莫干山镇北湖村上下庄15号, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/78397459/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0204v120008upl6pdA8FA.jpg"
+    },
+    {
+      "src": "/images/stays/78397459/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0204v120008upl6pdA8FA.webp"
+    },
+    {
+      "src": "/images/stays/78397459/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201p12000n1ubu0390C9.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "阿姨自己的房子，很乾凈，菜也很健康，還帶我們去挖竹筍，風景很美，很好玩",
+      "author": "Guest User",
+      "date": "2026-04-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=78397459&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-78397459&trip_sub3=D19127628"
+    },
+    {
+      "quote": "當時感覺定的挺便宜的以為房子會很差。住民宿，就怕隔音差，沒想到房子挺好隔音還乾淨，老闆娘挺不錯的，不管幾點起來都給準備早餐。還是挺愉快的",
+      "author": "Guest User",
+      "date": "2025-10-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=78397459&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-78397459&trip_sub3=D19127628"
+    },
+    {
+      "quote": "剛到民宿，姐就來幫忙拎行李箱了，超級好。進屋看到落地窗的時候一整個享受住了，小陽台上呆著很舒服，氧氣很足，適合喜歡在山裡呆著的。民宿還兼有飯店，一樓就是，都是姐自己現做的，食材都很新鮮，螺螄都是現剪的尾巴，太愛了！圖一是免費的早飯，這個筍超級嫩，番薯甜甜。性價比很高，下次來還住這",
+      "author": "Guest User",
+      "date": "2025-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=78397459&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-78397459&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.9,
+    "count": 9,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:17:35.080Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

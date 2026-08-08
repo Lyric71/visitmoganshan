@@ -100,7 +100,7 @@ Not one we can confirm for visitors. The Y1 shuttle connects Deqing station with
 
 ![A hand holding a plain paper ticket stub against a blurred green background](/images/guide/plan-faq-3.webp 'Most visitors never buy one, because the villages and guesthouses sit outside the ticketed core.')
 
-Sources disagree, and we are not going to pick one for you. One set of figures gives RMB 120 online and RMB 130 at the gate. Another gives RMB 50 off-season and RMB 80 in peak season. Winter tickets are half price. Check the current price when you book rather than trusting any published number, including this one.
+Sources disagree. One set of figures gives RMB 120 online and RMB 130 at the gate. Another gives RMB 50 off-season and RMB 80 in peak season. Winter tickets are half price. Check the current price when you book rather than trusting any published number, including this one.
 
 ## How long to stay, and the day-trip question
 

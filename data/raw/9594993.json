@@ -1,0 +1,45 @@
+{
+  "id": 9594993,
+  "name": "Moganshan Yunqi Inn",
+  "seedName": "Moganshan Yunqi Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-9594993",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=9594993&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-9594993&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Yunqi Inn?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No.22 Kanshang, Houwu Village, Mogan Town, Deqing, Zhejiang, 313200, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/9594993/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200v1200099lzizf226D.jpg"
+    },
+    {
+      "src": "/images/stays/9594993/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02021120008qzhx6z7B62.webp"
+    },
+    {
+      "src": "/images/stays/9594993/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02045120008qzh0mwB302.webp"
+    }
+  ],
+  "comments": [],
+  "rating": null,
+  "sourcedAt": "2026-08-08T16:11:48.162Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

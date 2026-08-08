@@ -1,0 +1,92 @@
+{
+  "id": 5903060,
+  "name": "Lanting Hotel",
+  "seedName": "Lanting Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5903060",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5903060&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5903060&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:Located by mountains and near water, with beautiful and comfortable surroundings, featuring a clear stream outside and fresh natural scenery inside(based on 3 reviews) Facilities:Equipped with various activities like Contra, board games, KTV, movie screens, and complete supplies such as fruits, drinks, tea, wine, disposable towels, etc., and rooms are spacious(based on 3 reviews) Hygiene:Clean and tidy, with hygiene level comparable to five-star hotels(based on 8 reviews) Service:Owners and staff are enthusiastic and thoughtful, providing comprehensive services from booking to check-in(based on 6 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Located by mountains and near water, with beautiful and comfortable surroundings, featuring a clear stream outside and fresh natural scenery inside",
+        "count": 3
+      },
+      {
+        "topic": "Facilities",
+        "text": "Equipped with various activities like Contra, board games, KTV, movie screens, and complete supplies such as fruits, drinks, tea, wine, disposable towels, etc., and rooms are spacious",
+        "count": 3
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Clean and tidy, with hygiene level comparable to five-star hotels",
+        "count": 8
+      },
+      {
+        "topic": "Service",
+        "text": "Owners and staff are enthusiastic and thoughtful, providing comprehensive services from booking to check-in",
+        "count": 6
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 22 Yaowu Village, Deqing, Zhejiang, 313200, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5903060/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02054120008qi67qm4B20.jpg"
+    },
+    {
+      "src": "/images/stays/5903060/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203d120008qi7g67D7FA.webp"
+    },
+    {
+      "src": "/images/stays/5903060/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1re6m12000b87h4ih2D60.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "房間很大，打掃很乾凈。一樓還有秋千，桌球桌，復古遊戲機可以供小朋友簡單玩耍。就是早飯有些簡單，能增加一點肉就更好了。",
+      "author": "Sharonyishoushidedashijie",
+      "date": "2025-08-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5903060&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5903060&trip_sub3=D19127628"
+    },
+    {
+      "quote": "這家民宿真的強烈推薦！！！ 是那種去了一次還想在去的地方～一種家的感覺！ 設施：桌球桌 魂鬥羅 桌遊 ktv 影幕…多種多樣，大人小朋友都有想玩的，可謂是愛不釋手 衞生：乾淨 整潔 説是民宿，衞生程度不比五星級酒店差，絕對的五星好評 環境：外部：開門見山 依山傍水 小溪潺潺…內部：麻雀雖小 五臟俱全 服務：水果飲料茶酒…一次性毛巾 浴巾…防曬噴霧 花露水…溯溪的桌椅 晚上的煙花仙女棒…一應俱全，可謂是要啥有啥了",
+      "author": "Liuliudashunma",
+      "date": "2024-09-16",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5903060&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5903060&trip_sub3=D19127628"
+    },
+    {
+      "quote": "非常滿意，乾乾淨淨，舒舒服服，老闆和管家人都不錯，早飯豐盛，午餐晚餐做的也是很合胃口，下次再來，房間配一次性馬桶墊，一次性浴巾洗臉巾的，點贊",
+      "author": "Guest User",
+      "date": "2023-12-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5903060&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5903060&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 87,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:07:46.480Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

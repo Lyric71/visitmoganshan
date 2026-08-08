@@ -1,0 +1,43 @@
+{
+  "id": 102137674,
+  "name": "Dewang Mountain Residence Villa (Ziling Tunnel)",
+  "seedName": "Dewang Mountain Residence Villa (Ziling Tunnel)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-102137674",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=102137674&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-102137674&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Dewang Mountain Residence Villa (Ziling Tunnel)?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "紫岭隧道徳旺山居莫干山紫岭村德旺山居, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/102137674/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0580i12000t0d3ylp08C4.jpg"
+    },
+    {
+      "src": "/images/stays/102137674/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0580i12000t0d3ylp08C4.webp"
+    },
+    {
+      "src": "/images/stays/102137674/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2p12000ej2o6du4601.webp"
+    }
+  ],
+  "comments": [],
+  "rating": null,
+  "sourcedAt": "2026-08-08T16:24:12.468Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

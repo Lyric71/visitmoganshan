@@ -1,0 +1,77 @@
+{
+  "id": 5962343,
+  "name": "Deqing wujiazhai Guesthouse",
+  "seedName": "Deqing wujiazhai Guesthouse",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5962343",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5962343&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5962343&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Facilities and Convenience:The property offers free parking, which is a notable convenience for guests. The rooms are spacious and well-equipped, with some reviews highlighting the availability of essential amenities and the overall comfort of the living space.(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Facilities and Convenience",
+        "text": "The property offers free parking, which is a notable convenience for guests. The rooms are spacious and well-equipped, with some reviews highlighting the availability of essential amenities and the overall comfort of the living space.",
+        "count": 2
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 28, huanwu village, sihe village, moganshan town, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Cardroom"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5962343/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3412000dtch8udE33A.jpg"
+    },
+    {
+      "src": "/images/stays/5962343/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4k12000bwt5t8yFC40.webp"
+    },
+    {
+      "src": "/images/stays/5962343/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0202c12000bgcp6rm8EC3.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "週末帶娃玩個水，上海自駕3小時，下午1點多到了之後，直接辦了入住，房間敞亮很乾凈，提前和老闆娘預訂的晚餐，老闆娘親自下廚的，廚藝也很棒，蔬菜都是自己家種的有機蔬菜，忘了拍照了，就一張老闆娘在炒菜過程中發我的紅燒土豬肉照片，都光盤了～暑期人多，這裏離魚鱗壩很近，但考慮到那邊人太多，就直接去了離民宿幾百米的小溪帶孩子玩了水，老闆娘直接提供了小朋友水抄網救生圈之類的玩水工具，孩子玩的很開心～以後有機會還會去",
+      "author": "Guest User",
+      "date": "2025-08-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5962343&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5962343&trip_sub3=D19127628"
+    },
+    {
+      "quote": "吃飯在客廳小桌子被看着吃，而且太吵了完全沒吃飯的感覺有蒼蠅到處飛，吃了10分鐘就不想吃了。88一份的小雜魚也是頭一次見，民宿體驗中算比較一般了",
+      "author": "Guest User",
+      "date": "2025-08-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5962343&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5962343&trip_sub3=D19127628"
+    },
+    {
+      "quote": "玩的非常開心，老闆娘和老闆十分熱情，住宿環境也乾淨，民宿裏雞湯太美味了，晚上的燒烤看着也不錯，已經推薦朋友來住了，有機會再來還會預訂！雙胞胎滿意極了😛",
+      "author": "Guest User",
+      "date": "2025-08-11",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5962343&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5962343&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 32,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:08:08.465Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

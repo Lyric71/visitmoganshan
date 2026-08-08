@@ -1,0 +1,69 @@
+{
+  "id": 109238270,
+  "name": "Moganshan Town Yanshang Shenshan Chinese Inn (Xiaoyuxian Line No.1 Branch)",
+  "seedName": "Moganshan Town Yanshang Shenshan Chinese Inn (Xiaoyuxian Line No.1 Branch)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-109238270",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=109238270&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-109238270&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service:The owners are enthusiastic and thoughtful. They provide various help and ensure a pleasant experience. Hygiene:The rooms are clean. Many reviews mention 'The environment is fresh and elegant, the room is spotless'; 'The room is very clean, and it is also cleaned very clean.' Characteristic:The house has a sense of history. It is very antique, with unique features that reflect its past.",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "晓于线莫干山镇檐上深山客栈仙潭村村民委员会前100米, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/109238270/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0222h12000b0xfxetE790.jpg"
+    },
+    {
+      "src": "/images/stays/109238270/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0222h12000b0xfxetE790.webp"
+    },
+    {
+      "src": "/images/stays/109238270/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5o12000lyczt9c5A9E.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "環境清新雅緻，房間一塵不染。設施考究有品味，床品舒適。房東熱情周到，服務如沐春風，細節處盡顯用心，令人流連忘返。",
+      "author": "Guest User",
+      "date": "2026-02-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=109238270&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-109238270&trip_sub3=D19127628"
+    },
+    {
+      "quote": "我們全家老小11人入住，每個房間都乾淨整潔，有麻將機，卡拉OK，桌球，泳池，大家玩的非常開心！民宿離景區也很方便，周圍農家菜餐廳很好吃，一定會推薦朋友同學過來的。",
+      "author": "Guest User",
+      "date": "2026-08-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=109238270&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-109238270&trip_sub3=D19127628"
+    },
+    {
+      "quote": "這套房子是房主老錢爺爺在48年初建的，非常古色古香，牆上還留着當初抗美援朝的宣傳標語。 房間裏面經過了現代化改造，床很多，有三個房間，住七八個人我覺得是完全沒問題的。該有的娛樂設定也都有，比如投影儀、麻將桌、游泳池、鞦韆、蹦床。 早飯是房東奶奶準備的，有粥和麪選擇，我們選的麪，超級香！分量很足！除了麪，還有奶奶爺爺剛摘的小玉米，超級好吃，非常糯甜。 最後，房東老錢爺爺奶奶非常熱情友善！人特別特別好！讓我們有一種回老家走親戚的感覺哈哈哈哈。 是一次非常開心的體驗！",
+      "author": "Guest User",
+      "date": "2025-10-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=109238270&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-109238270&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 39,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:26:25.874Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

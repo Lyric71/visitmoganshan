@@ -1,0 +1,69 @@
+{
+  "id": 111708284,
+  "name": "Moganshan Residence Chinese Inn (Huangfu East Road)",
+  "seedName": "Moganshan Residence Chinese Inn (Huangfu East Road)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-111708284",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=111708284&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-111708284&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness:Consistently praised for exceptional cleanliness, including thorough disinfection, fresh bedding, and spotless facilities. Host Hospitality:Hosts were described as warm, attentive, and helpful, offering personalized recommendations for local attractions and activities. Convenient Location:Proximity to key areas like the \"Moganshan Scenic Area Ticket Center\" and \"Scatter Center,\" with walking access to shops, restaurants, and tourist spots. Facilities & Layout:Rooms were well-equipped with modern amenities, multiple rooms suitable for families, and a spacious, garden-like environment with greenery and quiet surroundings. Ambiance:The property featured a traditional Chinese garden-style design, including pavilions, small bridges, and a serene atmosphere, enhancing the overall experience.",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "黄郛东路庾村别院, Deqing, Zhejiang, China",
+  "priceRange": "From US$281",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/111708284/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0221s12000bdkx9enD5B6.jpg"
+    },
+    {
+      "src": "/images/stays/111708284/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0221s12000bdkx9enD5B6.webp"
+    },
+    {
+      "src": "/images/stays/111708284/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5o12000lyczt9c5A9E.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "位置很好，地庫好停車，到莫干山和庾村步行很方便；房間非常乾淨，用品也很齊全，房東超級nice，推薦了一些景點和吃飯的地方，不踩雷，下次還會來！",
+      "author": "Guest User",
+      "date": "2026-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=111708284&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-111708284&trip_sub3=D19127628"
+    },
+    {
+      "quote": "環境很好 房間非常乾淨 床單被套都有淡淡的香皂味 老闆人也很好會推薦景點 很適合家人一起住 外面的風景宜人 早晨有陽光灑進來",
+      "author": "Guest User",
+      "date": "2026-02-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=111708284&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-111708284&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿非常乾淨 乾淨程度不輸酒店 房東是個講究人 配備的物品很乾凈 消毒到位 佈局就很舒服 每個窗户都可以遠眺山景 很舒服",
+      "author": "Guest User",
+      "date": "2025-06-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=111708284&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-111708284&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 19,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:26:47.545Z",
+  "source": "trip",
+  "price": {
+    "amount": 281,
+    "currency": "USD",
+    "checkIn": null,
+    "checkOut": null,
+    "pricedAt": "2026-08-08"
+  }
+}

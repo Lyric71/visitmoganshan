@@ -1,0 +1,87 @@
+{
+  "id": 8685019,
+  "name": "Don't dry ju",
+  "seedName": "Don't dry ju",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-8685019",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8685019&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8685019&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Proximity to natural attractions .(based on 1 review) Food Quality:Chef-owned operation with fresh, locally sourced meals . Cleanliness & Facilities:Rooms described as tidy, well-maintained with wooden decor, and spacious balconies for scenic views.(based on 2 reviews) Service Attitude:Hosts emphasized warmth and helpfulness .(based on 2 reviews) Family-Friendly Features:Accommodated children with pet-friendly environment , accessible trails, and flexible meal options.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Proximity to natural attractions .",
+        "count": 1
+      },
+      {
+        "topic": "Food Quality",
+        "text": "Chef-owned operation with fresh, locally sourced meals . Cleanliness & Facilities:Rooms described as tidy, well-maintained with wooden decor, and spacious balconies for scenic views.",
+        "count": 2
+      },
+      {
+        "topic": "Service Attitude",
+        "text": "Hosts emphasized warmth and helpfulness .",
+        "count": 2
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 23, xiantan village, Deqing, Zhejiang, 313200, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/8685019/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20020l000000dessq7C38.jpg"
+    },
+    {
+      "src": "/images/stays/8685019/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3712000rewk6d251B5.webp"
+    },
+    {
+      "src": "/images/stays/8685019/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200h0l000000d94wx12F8.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "之前入住體驗很好，又來玩～老闆服務態度很好，點菜吃也好吃。燒烤自帶食材，老闆會幫忙生火。 預訂了三個房間，一個依舊很好。 這間和另外一個空調噪音大，影響睡眠。 老闆很積極主動的，大晚上確認……但沒調整好……也提議不行退錢幫忙預訂別的店，但春節期間確實周邊都滿房了…… 也不好大晚上再收拾東西換地方。 老闆處理問題的態度還是很積極，所以還是很滿意。",
+      "author": "Yaoyan",
+      "date": "2026-05-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8685019&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8685019&trip_sub3=D19127628"
+    },
+    {
+      "quote": "沒有提供一次性拖鞋，沒有安裝紗門，晚上開門有透氣有蚊子。其他都還不錯，吃的晚飯味道也可以，就是花蛤感覺有點變味 。院子裏有秋千蹦床，養了一衹小狗，都挺好的。",
+      "author": "Dalianmao🐱520",
+      "date": "2025-10-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8685019&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8685019&trip_sub3=D19127628"
+    },
+    {
+      "quote": "挺好的民宿，位置很好，離魚鱗壩10分鐘車程，門口就有小溪可以玩水，民宿旁邊就有燒烤營地，非常方便～老闆人超級好，早上想喝咖啡老闆就幫忙點了送到民宿，還幫忙留好車位，還有民宿的小狗哈哈，非常乖的狗狗，孩子們都超級喜歡它，總之體驗很好！",
+      "author": "Anonymous User",
+      "date": "2024-07-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8685019&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8685019&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.9,
+    "count": 15,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:11:23.080Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

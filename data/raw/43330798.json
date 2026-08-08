@@ -1,0 +1,71 @@
+{
+  "id": 43330798,
+  "name": "Shencangsheng Villa (Xiaoyuxian Branch)",
+  "seedName": "Shencangsheng Villa (Xiaoyuxian Branch)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-43330798",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=43330798&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-43330798&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment Location:Located near scenic spots like Moganshan Resort, with convenient location, nearby restaurants and attractions, and good air Service Quality:Hosts are enthusiastic, help recommend attractions, prepare breakfast, and provide various assistance Facilities:Rooms have private bathrooms, some have mahjong machines, KTV, and barbecue facilities Hygiene:Rooms are clean and tidy, with good hygiene conditions Activities:Rich activities such as snail picking, barbecue, and mahjong playing are available.",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "晓于线莫干山恋山小屋莫干山镇仙潭村郎家村75号, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Cardroom"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/43330798/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0224p120009zb2vkz3486.jpg"
+    },
+    {
+      "src": "/images/stays/43330798/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1re6m12000b87h4ih2D60.webp"
+    },
+    {
+      "src": "/images/stays/43330798/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0224p120009zb2vkz3486.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "莫干山這家民宿，推窗見青山，出門有小溪。老闆像自家人，一早煮好自家地裏掰的玉米，甜糯得連芯都想啃乾淨。來這兒不是客人，是回家。🌽",
+      "author": "Guest User",
+      "date": "2026-08-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=43330798&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-43330798&trip_sub3=D19127628"
+    },
+    {
+      "quote": "此次遊莫干山，恰逢雨季，每日清晨呼吸着山間清新的空氣，品嚐老闆母親做的當地特色早餐，午後在老闆家的客廳裏，喝一杯當地自產的綠茶，和熱情好客又健談的老闆父母閑話家常，晚餐後同行的好友紛紛一展歌喉自娛自樂，入夜伴隨着屋後竹林間微不可聞的雨聲（房間隔音很好）一夜好眠 戀山小屋清靜舒適自在 煙雨濛濛山水重 離塵隱世閑雲中 酒香不怕巷子深 花香自有蝶飛來",
+      "author": "Guest User",
+      "date": "2026-04-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=43330798&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-43330798&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿的位置十分方便，到哪裡開車都比較近！路況也是不錯的！房子很大，很寬敞！房主非常熱情，第一天就給我們準備了水果，礦泉水！給我們主動介紹周邊的情況，晚上可以唱卡拉OK，也可以打牌打麻將！早飯的饅頭特別好吃，都是老闆娘親自做的！總體住宿還是很滿意的！",
+      "author": "Guest User",
+      "date": "2026-06-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=43330798&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-43330798&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 43,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:22:35.650Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

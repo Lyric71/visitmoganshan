@@ -1,0 +1,69 @@
+{
+  "id": 107847585,
+  "name": "Moganshan Xiaozhu Yankai Homestay (Xiaoyuxian Branch)",
+  "seedName": "Moganshan Xiaozhu Yankai Homestay (Xiaoyuxian Branch)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-107847585",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=107847585&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-107847585&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment Location:Located near Moganshan, convenient for self-driving, with surrounding scenic spots Facilities:Rooms are numerous and large, with private bathrooms, some can be used as parent-child rooms, and there are swimming pools, lawns, swing chairs, and a fully equipped kitchen Service:The owner is enthusiastic, provides breakfast, and dinner can be processed Breakfast:Provides porridge, eggs, sliced steamed buns, sweet potatoes, pickles and other side dishes",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "晓于线莫干山笑竹颜开返璞民宿莫干山镇仙潭村, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/107847585/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0582l12000szncxtoB4C3.jpg"
+    },
+    {
+      "src": "/images/stays/107847585/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0582l12000szncxtoB4C3.webp"
+    },
+    {
+      "src": "/images/stays/107847585/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0220p12000bcl6pao80CA.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "藏在莫干山竹林裏的寶藏小院，完全是想象中山居生活的樣子。車子沿着小路開進來，兩旁都是翠竹，推開院門瞬間就安靜下來了。房間收拾得乾淨清爽，窗户對着山景，早上被鳥鳴叫醒，推開窗就是滿目的綠，連空氣裏都帶着竹子的清香。 老闆夫妻倆特別實在，三餐都是地道的農家菜，筍乾燉雞鮮得連喝兩碗，自家種的青菜清甜爽口，完全是城裡吃不到的味道。閑暇時在院子裏喝茶發呆，或者和朋友打牌唱K，日子慢得剛剛好。性價比很高， 週末來放空兩天再合適不過，下次來莫干山還會選這裏。",
+      "author": "Guest User",
+      "date": "2026-06-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=107847585&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-107847585&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房東很熱情，還讓我們借用廚房燒飯，泳池很乾凈比網上看到的更大。周圍交通也很方便非常適合轟趴聚會，裏面還有麻將機和KTV非常好玩，裏面的電視房東還升級了VIP，非常細節！",
+      "author": "Guest User",
+      "date": "2026-07-22",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=107847585&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-107847585&trip_sub3=D19127628"
+    },
+    {
+      "quote": "[進入房間第一眼] [對於房東，我想説] [民宿給我的小驚喜] [對於周邊的便利度，我要説] [房屋設施我一定要提] [入住期間我去過的景點有]",
+      "author": "Guest User",
+      "date": "2025-08-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=107847585&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-107847585&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 10,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:26:04.541Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

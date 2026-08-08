@@ -1,0 +1,50 @@
+{
+  "id": 6653678,
+  "name": "Moganshan cloud valley homestay",
+  "seedName": "Moganshan cloud valley homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-6653678",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6653678&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6653678&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan cloud valley homestay?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No.49 Langjia Village, Xiantan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/6653678/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD60120009ezvd3yB6A0.jpg"
+    },
+    {
+      "src": "/images/stays/6653678/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0581i12000spke8tm339E.webp"
+    },
+    {
+      "src": "/images/stays/6653678/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0582k12000spe4all9262.webp"
+    }
+  ],
+  "comments": [],
+  "rating": {
+    "score": 9.6,
+    "count": 1,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:08:59.796Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

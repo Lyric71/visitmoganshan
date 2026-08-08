@@ -1,0 +1,69 @@
+{
+  "id": 98062303,
+  "name": "Tachengta Villa (Zhuyuan Road)",
+  "seedName": "Tachengta Villa (Zhuyuan Road)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-98062303",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=98062303&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-98062303&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness & Maintenance:The rooms and common areas are described as clean and well-maintained, with no significant issues reported. The bathrooms are functional, and the overall upkeep of the property is satisfactory, ensuring a comfortable and hygienic stay for guests.",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "竹源路莫干山郡安里度假区, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/98062303/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02217120009urjdan4FA9.jpg"
+    },
+    {
+      "src": "/images/stays/98062303/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02217120009urjdan4FA9.webp"
+    },
+    {
+      "src": "/images/stays/98062303/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5o12000lyczt9c5A9E.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "週末度假是真不錯，植被覆蓋率120%，房子很温馨，三個家庭正好，景區裏走走很治癒，長者小孩都能找舒適區",
+      "author": "Guest User",
+      "date": "2026-06-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=98062303&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-98062303&trip_sub3=D19127628"
+    },
+    {
+      "quote": "週末度假是真不錯，植被覆蓋率120%，房子很温馨，三個家庭正好，景區裏走走很治癒，長者小孩都能找舒適區",
+      "author": "Guest User",
+      "date": "2026-06-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=98062303&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-98062303&trip_sub3=D19127628"
+    },
+    {
+      "quote": "首先是小區環境住在別墅區，有接駁車接送，服務很好，自己的車可以停在室內停車場夏天來一點也不會把車子曬的很燙，到了民宿簡直太大了，房間很多衞生間就有4個，孩子們很開心，房東夫妻人也很好，尤其是清晨到陽台上傾聽大自然的聲音，太美了！",
+      "author": "Guest User",
+      "date": "2025-07-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=98062303&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-98062303&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.3,
+    "count": 48,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:23:23.604Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

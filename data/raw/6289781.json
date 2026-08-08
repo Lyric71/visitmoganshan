@@ -1,0 +1,71 @@
+{
+  "id": 6289781,
+  "name": "Moganshan Houwu Mountain Homestay",
+  "seedName": "Moganshan Houwu Mountain Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-6289781",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6289781&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6289781&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Houwu Mountain Homestay?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No.63 Xiwuli, Houwu Village, Fatou Township, Deqing, Zhejiang, 313200, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/6289781/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD03120009filfzz4799.jpg"
+    },
+    {
+      "src": "/images/stays/6289781/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0580q12000sh610ovD944.webp"
+    },
+    {
+      "src": "/images/stays/6289781/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0581512000sjsp2me464D.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "我們選了這家民宿的家庭房，很有特點，一張小床特意以閣樓方式呈現，增添了同住夥伴或家庭成員的空間和樂趣。二位姐妹一邊工作一邊照顧民宿，週末或旺季來幫忙，其餘時間是父母照看，母親還會做家常菜，我們吃了二頓，味道不錯。洗澡的熱水也可以，需要先開一會放掉冷水。我們現在去還沒到季節，春菜品種還不多。",
+      "author": "Ledongxijing",
+      "date": "2025-03-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6289781&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6289781&trip_sub3=D19127628"
+    },
+    {
+      "quote": "我們選了這家民宿的家庭房，很有特點，一張小床特意以閣樓方式呈現，增添了同住夥伴或家庭成員的空間和樂趣。二位姐妹一邊工作一邊照顧民宿，週末或旺季來幫忙，其餘時間是父母照看，母親還會做家常菜，我們吃了二頓，味道不錯。洗澡的熱水也可以，需要先開一會放掉冷水。我們現在去還沒到季節，春菜品種還不多。",
+      "author": "Ledongxijing",
+      "date": "2025-03-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6289781&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6289781&trip_sub3=D19127628"
+    },
+    {
+      "quote": "#衞生挺乾淨的呢，本地人開的，平時衹有長者在，放假女兒們才來幫忙#房間設施設施有些年頭了，所以定的人不多，好處就是很安靜;另外房間很大，有陽台，小朋友玩得開;停車就是路邊找地方，老闆家女兒會幫忙看的，可以電話搖她，哈哈！早餐好吃，稀飯，饅頭，酸菜小竹筍，蘿蔔乾，花生米！一家人都超滿意！",
+      "author": "Guest User",
+      "date": "2024-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6289781&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6289781&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 5,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:08:35.291Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": 12126861,
+  "name": "Moganshan yonglian mountain inn",
+  "seedName": "Moganshan yonglian mountain inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-12126861",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=12126861&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-12126861&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Accessibility:Proximity to cultural sites and convenient access to commercial areas.(based on 3 reviews) Cleanliness & Facilities:Rooms described as \"clean, spacious, and well-maintained,\" with some mentioning a courtyard for parking.(based on 4 reviews) Hospitality:Hosts were consistently praised for being \"friendly, helpful,\" and offering personalized services .(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Accessibility",
+        "text": "Proximity to cultural sites and convenient access to commercial areas.",
+        "count": 3
+      },
+      {
+        "topic": "Facilities",
+        "text": "Rooms described as \"clean, spacious, and well-maintained,\" with some mentioning a courtyard for parking.",
+        "count": 4
+      },
+      {
+        "topic": "Hospitality",
+        "text": "Hosts were consistently praised for being \"friendly, helpful,\" and offering personalized services .",
+        "count": 2
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No.23 middle village, liaoyuan village, moganshan town, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/12126861/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0582512000spz3uybB0A6.jpg"
+    },
+    {
+      "src": "/images/stays/12126861/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5012000ily8wj10BFC.webp"
+    },
+    {
+      "src": "/images/stays/12126861/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200n0l000000d85pj1786.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "去跑越野賽的，晚上9點半才發槍，老闆讓我安靜睡到下午5點半，我要續半天，老闆也説不用。離起點近，屋子乾淨星級酒店的衞生標準。早餐很有味道！下次去跑賽還會選擇",
+      "author": "Guest User",
+      "date": "2026-04-12",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=12126861&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-12126861&trip_sub3=D19127628"
+    },
+    {
+      "quote": "去跑越野賽的，晚上9點半才發槍，老闆讓我安靜睡到下午5點半，我要續半天，老闆也説不用。離起點近，屋子乾淨星級酒店的衞生標準。早餐很有味道！下次去跑賽還會選擇",
+      "author": "Guest User",
+      "date": "2026-04-12",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=12126861&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-12126861&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿挺乾淨，院子裏可以停車。房間wifi壞了，衹能用隔壁的。距離莫干山鎮挺近，5分鐘就到。鎮上挺熱鬧，有一些商業設施，不過物價挺高。早飯想吃啥直接跟老闆娘説。",
+      "author": "Guest User",
+      "date": "2024-05-30",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=12126861&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-12126861&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 6,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:13:02.318Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

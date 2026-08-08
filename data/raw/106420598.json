@@ -1,0 +1,80 @@
+{
+  "id": 106420598,
+  "name": "Moganshan Miyushan Jumeisu",
+  "seedName": "Moganshan Miyushan Jumeisu",
+  "city": "Huzhou",
+  "cityId": 86,
+  "goSlug": "moganshan-106420598",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=106420598&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-106420598&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Hygiene & Cleanliness:Rooms and bathrooms are highlighted as exceptionally clean, with regular maintenance and fresh amenities. The property’s new construction and attention to detail contribute to a spotless environment.(based on 6 reviews) Accommodation Comfort:Rooms are spacious, suitable for families, with adequate heating systems and thoughtful layouts. Many units include private bathrooms, ample storage, and modern furnishings.(based on 4 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms and bathrooms are highlighted as exceptionally clean, with regular maintenance and fresh amenities. The property’s new construction and attention to detail contribute to a spotless environment.",
+        "count": 6
+      },
+      {
+        "topic": "Accommodation Comfort",
+        "text": "Rooms are spacious, suitable for families, with adequate heating systems and thoughtful layouts. Many units include private bathrooms, ample storage, and modern furnishings.",
+        "count": 4
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No.78 Fangshan Village, Quxi Town, Wuxing District, Huzhou, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/106420598/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5h12000b2wr0rh3659.jpg"
+    },
+    {
+      "src": "/images/stays/106420598/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0225t12000b6vc6t7F090.webp"
+    },
+    {
+      "src": "/images/stays/106420598/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2e12000b2wrcti6744.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "房間的淋浴設施是壞的，出的是涼水，但是有在積極解決。裏面有一個泳池，當天住户人很少，水很乾凈",
+      "author": "Guest User",
+      "date": "2025-08-18",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=106420598&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-106420598&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間的淋浴設施是壞的，出的是涼水，但是有在積極解決。裏面有一個泳池，當天住户人很少，水很乾凈",
+      "author": "Guest User",
+      "date": "2025-08-18",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=106420598&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-106420598&trip_sub3=D19127628"
+    },
+    {
+      "quote": "非常好，環境清靜，門口有個魚塘，周圍是大山，可以坐旁邊吹吹風，老夫妻很熱情，阿婆煮的早餐很好吃，還幫我買了些筍乾。設施挺好，有ktv，泳池，大廳還有遊戲毯。主人還給我們準備了水果和礦泉水。我家孩子入住過程中身體不適，老爺爺還提供了體温計和一些常用葯。周邊玩的地方也不遠，我們是高鐵站租了車的，所以到哪都方便，很適合家庭遊。",
+      "author": "Guest User",
+      "date": "2024-08-22",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=106420598&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-106420598&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 12,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:29:16.910Z",
+  "source": "trip",
+  "price": {
+    "amount": 52,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

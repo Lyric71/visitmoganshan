@@ -1,0 +1,57 @@
+{
+  "id": 35002818,
+  "name": "Yao Zhiyi Hostel",
+  "seedName": "Yao Zhiyi Hostel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-35002818",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=35002818&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-35002818&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Yao Zhiyi Hostel?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 54, group 2, yaowu village, moganshan town, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/35002818/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD5v120009fgrq8o7D0B.jpg"
+    },
+    {
+      "src": "/images/stays/35002818/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2B0r13000000u5x89F81F.webp"
+    },
+    {
+      "src": "/images/stays/35002818/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200u16000000zvon8AB37.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "老闆娘人很好，環境也是不錯的，還是比較滿意的。",
+      "author": "Qiyunsange",
+      "date": "2025-08-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=35002818&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-35002818&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 3,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:14:45.680Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

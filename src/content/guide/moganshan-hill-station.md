@@ -33,7 +33,7 @@ The mountain ended up on the traditional list of China's four great summer resor
 
 An American Northern Baptist missionary named E. N. Fletcher is credited with identifying Moganshan as a summer retreat. Sources date that anywhere from 1891 to 1894, and none of them agree.
 
-The first Western villas went up between 1896 and 1898. Who put up the first one is genuinely unsettled. One account names George A. Hudson, an American Presbyterian, in 1898. Another names an American called W. W. White. A third credits an English merchant in 1896. We are not going to pick a winner where the record does not support one.
+The first Western villas went up between 1896 and 1898. Who put up the first one is genuinely unsettled. One account names George A. Hudson, an American Presbyterian, in 1898. Another names an American called W. W. White. A third credits an English merchant in 1896. The range is the honest answer, and no name settles it.
 
 The pattern is clear enough. Missionary networks found the site, and merchants and consular staff followed them up the hill.
 

@@ -1,0 +1,93 @@
+{
+  "id": 109469120,
+  "name": "Lushi Holiday Meishu (Moganshan International Tourism Resort)",
+  "seedName": "Lushi Holiday Meishu (Moganshan International Tourism Resort)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-109469120",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=109469120&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-109469120&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Environment:Situated near mountains, bamboo forests, and within the Moganshan scenic area, offering easy access to nature, fresh air, and a tranquil atmosphere.(based on 1 review) Service & Hospitality:Hosts are praised for their warmth, attentiveness, and willingness to provide local travel tips or assistance .(based on 18 reviews) Amenities for Families:Child-friendly features like a pool, game equipment, and locally sourced breakfast are highlighted.(based on 20 reviews) Accessibility & Convenience:Parking is available, and the property is easy to locate. Some reviews mention free breakfast and proximity to nearby restaurants.(based on 12 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Situated near mountains, bamboo forests, and within the Moganshan scenic area, offering easy access to nature, fresh air, and a tranquil atmosphere.",
+        "count": 1
+      },
+      {
+        "topic": "Hospitality",
+        "text": "Hosts are praised for their warmth, attentiveness, and willingness to provide local travel tips or assistance .",
+        "count": 18
+      },
+      {
+        "topic": "Amenities for Families",
+        "text": "Child-friendly features like a pool, game equipment, and locally sourced breakfast are highlighted.",
+        "count": 20
+      },
+      {
+        "topic": "Convenience",
+        "text": "Parking is available, and the property is easy to locate. Some reviews mention free breakfast and proximity to nearby restaurants.",
+        "count": 12
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No.72 Laoling Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/109469120/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3912000bg9fxv6484E.jpg"
+    },
+    {
+      "src": "/images/stays/109469120/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3312000bg9f8un1ADC.webp"
+    },
+    {
+      "src": "/images/stays/109469120/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5412000c0ozftoD336.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "房間還算比較乾淨，早上有很純樸的粥配榨菜，毛巾比較臟，我看有黃色斑點。電車充電樁壞了，充了一晚上，結果跳閘沒充上，讓我去附近充電，我的初衷就是在酒店充電且離景點近啊。哎，開電車的小夥伴慎重考慮。",
+      "author": "StephenRoche",
+      "date": "2026-04-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=109469120&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-109469120&trip_sub3=D19127628"
+    },
+    {
+      "quote": "位置很好，十月一號來下雨在這裏待了大半天，小孩特別喜歡，都不要出去玩了，就想在這待着，提供的早飯也特別好，下次要還來莫干山的話還定你家。",
+      "author": "Guest User",
+      "date": "2024-10-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=109469120&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-109469120&trip_sub3=D19127628"
+    },
+    {
+      "quote": "名宿衞生做得特別到位，裏面的設施齊全，外面的佈局也特別好，有泳池，有涼亭，從院子裏可以直接去竹林，老闆一家也特別熱情，第二天的早餐很豐盛。",
+      "author": "Guest User",
+      "date": "2024-08-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=109469120&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-109469120&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.4,
+    "count": 52,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:19:16.614Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

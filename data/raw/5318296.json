@@ -36,5 +36,12 @@
   "comments": [],
   "rating": null,
   "sourcedAt": "2026-08-08T15:23:03.269Z",
-  "source": "trip"
+  "source": "trip",
+  "price": {
+    "amount": 608,
+    "currency": "USD",
+    "checkIn": null,
+    "checkOut": null,
+    "pricedAt": "2026-08-08"
+  }
 }

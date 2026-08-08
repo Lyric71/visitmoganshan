@@ -1,0 +1,58 @@
+{
+  "id": 8591637,
+  "name": "Moganshan Yin Feng Boutique Homestay",
+  "seedName": "Moganshan Yin Feng Boutique Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-8591637",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8591637&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8591637&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Yin Feng Boutique Homestay?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No.9 Xiwuli, Houwu Village, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/8591637/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02013120008sy5jfyABF0.jpg"
+    },
+    {
+      "src": "/images/stays/8591637/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0204w120008sy1mv5BFF9.webp"
+    },
+    {
+      "src": "/images/stays/8591637/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0712000rqea2viBF83.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "老闆態度超好，早餐很豐盛，住那邊很安靜，老闆推薦幾個吃的很棒，家庭旅行很適合，對面竹林很漂亮",
+      "author": "Manxin",
+      "date": "2023-10-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8591637&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8591637&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 3,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:10:55.112Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

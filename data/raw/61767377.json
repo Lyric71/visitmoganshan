@@ -1,0 +1,60 @@
+{
+  "id": 61767377,
+  "name": "Qingyan Xinyu Mountain Jingxipan Camping Holiday Villa (Moganshan Scenic Area Branch)",
+  "seedName": "Qingyan Xinyu Mountain Jingxipan Camping Holiday Villa (Moganshan Scenic Area Branch)",
+  "city": "Huzhou",
+  "cityId": 86,
+  "goSlug": "moganshan-61767377",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=61767377&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-61767377&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Qingyan Xinyu Mountain Jingxipan Camping Holiday Villa (Moganshan Scenic Area Branch)?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 81, Fangshan Village, Daixi Town, Wuxing District, Huzhou, Zhejiang, China",
+  "priceRange": "From US$940",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant",
+    "Multi-function room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/61767377/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206v120009zw309m5BF7.jpg"
+    },
+    {
+      "src": "/images/stays/61767377/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02069120009zw4ryvFD73.webp"
+    },
+    {
+      "src": "/images/stays/61767377/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/020011200081bom385EC6.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "超級棒的一次體驗 帶着一大家子人來莫干山聚會 精挑細選選擇了這家民宿 特別看中他們家大客廳 我們在這裏舉辦了生日party 提前老闆娘還幫我佈置了一下 很棒棒很温馨 房間很多我們家二十多個人包括四個小朋友 包了整棟 房間綽綽有餘最喜歡三樓大床房環境最好沒想到裏面還帶一個客廳別有洞天，四樓的閣樓房間也很好看，有幾張床很大都是2米左右感覺都可以睡三四個人 各方面設施都很齊全基本上能想到的他們家都有 ktv 桌球 遊戲機 投影 圍爐煮茶 小滑梯等等，温泉可以加錢開，烤全羊也能幫忙訂。就是可惜我們是冬天去的 要是夏天去還能游泳 外面的泳池超美！老闆還幫忙聯繫了購買景區團體票，真的很到位￼就是有個房間有小蟲子 不過老闆娘很迅速的幫我們抓掉了 ￼￼￼ 老闆娘很熱情 我們需要的東西都能儘量提供 一家人都很好忙前忙後的 他們自己家做的農家菜也很好吃！小問題也都能快速解決 總體來説就是很推薦啦！",
+      "author": "X_xyu",
+      "date": "2024-01-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=61767377&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-61767377&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 1,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:28:42.233Z",
+  "source": "trip",
+  "price": {
+    "amount": 940,
+    "currency": "USD",
+    "checkIn": null,
+    "checkOut": null,
+    "pricedAt": "2026-08-08"
+  }
+}

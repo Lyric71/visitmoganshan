@@ -1,5 +1,7 @@
 ---
 import StayCard from './StayCard.astro';
+import StayFilters from './StayFilters.astro';
+import { CAPTURES, priceBand } from '../lib/captures';
 import { TYPE_LABEL, staysOfType, type StayType } from '../lib/stays';
 
 /**
@@ -28,6 +30,8 @@ interface Props {
 const { type, writtenUp } = Astro.props;
 
 const rows = staysOfType(type);
+
+const unpriced = rows.filter((row) => priceBand(CAPTURES.get(row.id)) === 'unknown').length;
 ---
 
 <section class="listing">
@@ -35,6 +39,8 @@ const rows = staysOfType(type);
     <h1>{TYPE_LABEL[type]} around Moganshan</h1>
     <p class="listing__count">{rows.length.toLocaleString('en-GB')} bookable</p>
   </header>
+
+  <StayFilters total={rows.length} unpriced={unpriced} />
 
   <div class="cards">
     {rows.map((row) => <StayCard row={row} href={writtenUp.get(row.id)} />)}

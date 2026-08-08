@@ -1,0 +1,90 @@
+{
+  "id": 11957684,
+  "name": "Deqing Mufeng Mountain Residence Homestay (Yucun Square)",
+  "seedName": "Deqing Mufeng Mountain Residence Homestay (Yucun Square)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-11957684",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=11957684&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-11957684&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Proximity to \"Minguo Style Street,\" \"Yuyuan Square,\" and \"Moganshan Dispersal Center\" with easy access on foot.(based on 5 reviews) Cleanliness:Rooms and bedding were consistently described as \"clean,\" \"tidy,\" and \"hygienic.\"(based on 7 reviews) Service:Hosts were praised for being \"friendly,\" \"attentive,\" and providing thoughtful amenities .(based on 8 reviews) Breakfast:Homemade dishes were highlighted as \"delicious\" and \"unique.\"(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Proximity to \"Minguo Style Street,\" \"Yuyuan Square,\" and \"Moganshan Dispersal Center\" with easy access on foot.",
+        "count": 5
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms and bedding were consistently described as \"clean,\" \"tidy,\" and \"hygienic.\"",
+        "count": 7
+      },
+      {
+        "topic": "Service",
+        "text": "Hosts were praised for being \"friendly,\" \"attentive,\" and providing thoughtful amenities .",
+        "count": 8
+      },
+      {
+        "topic": "Breakfast",
+        "text": "Homemade dishes were highlighted as \"delicious\" and \"unique.\"",
+        "count": 2
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "莫干山镇燎原村民国风情老街45号, 313000 Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/11957684/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2B0n0k000000c7pet9DA3.jpg"
+    },
+    {
+      "src": "/images/stays/11957684/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0412000b2vojkf9446.webp"
+    },
+    {
+      "src": "/images/stays/11957684/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6q12000b2vpxhiC6D4.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "家藏在景區裏的民宿真的超有煙火氣、特別有故事！ 位置絕了，就在景區內，出行逛玩去哪都特別方便。 老闆人超實在，親手做早餐，乾淨衞生，味道還特別好吃。 我本來要早起爬山，跟老闆娘説簡單兩碗粥加雞蛋就行，沒想到老闆娘特意貼心現炒了兩個小菜招待我們，待人特別熱心真誠。 旅途最美的風景不止山水，還有温暖的遇見，太治癒了，一次超舒心又難忘的旅行，強烈推薦！",
+      "author": "Guest User",
+      "date": "2026-05-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=11957684&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-11957684&trip_sub3=D19127628"
+    },
+    {
+      "quote": "兩間房間，一間衞生間，大小容得下四個大人，位置就在庾村廣場旁邊，緊靠着星巴克、7eleven等，花園裡能停車，照理説應該打5星好評，然而拖鞋不是一次性的，梳子是沒有的，四人的房間衹給兩瓶水，多要一瓶居然要看臉色……",
+      "author": "Panghuaichanggeyeaixizao",
+      "date": "2026-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=11957684&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-11957684&trip_sub3=D19127628"
+    },
+    {
+      "quote": "參加莫干山越野訂到的，是民宿風格，一樓就是老闆家人自住。, 位置在庾村廣場跟前不到200m,周圍吃飯遊覽都很方便。環境優美，乾淨整潔，夜晚也很安靜。, 因為自己的組別直接夜晚起跑，所以抵達當天沒入住，老闆人非常好的讓我在大廳沙發先休息，我收拾整理裝備後，把行李寄存前台，第二天跑完再來入住。",
+      "author": "Guest User",
+      "date": "2026-04-18",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=11957684&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-11957684&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 7,
+    "count": 16,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:12:40.569Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

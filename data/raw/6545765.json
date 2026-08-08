@@ -1,0 +1,75 @@
+{
+  "id": 6545765,
+  "name": "Fallen Flowers Homestay",
+  "seedName": "Fallen Flowers Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-6545765",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6545765&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6545765&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Fallen Flowers Homestay?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No.5 Lingjiaoxia, Houwu Village, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Gym",
+    "Bar",
+    "Restaurant",
+    "Cafe",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/6545765/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200q1h000001hqv5dE02C.jpg"
+    },
+    {
+      "src": "/images/stays/6545765/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3f12000k031cjkCAE0.webp"
+    },
+    {
+      "src": "/images/stays/6545765/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200f1h000001hpldo071A.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The village scenery is quite nice, and the guesthouse is decent too.",
+      "author": "Guest User",
+      "date": "2026-05-05",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6545765&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6545765&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The rooms were a bit rustic, but the owner was super nice. They arranged adjoining rooms for me and my friend and even provided free breakfast. It's only about 1km from the village center, so finding places to eat was...",
+      "author": "Guest User",
+      "date": "2026-05-05",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6545765&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6545765&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The boss is very nice and the environment is quiet",
+      "author": "Guest User",
+      "date": "2024-05-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6545765&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6545765&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.9,
+    "count": 5,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:08:48.029Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

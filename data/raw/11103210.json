@@ -1,0 +1,55 @@
+{
+  "id": 11103210,
+  "name": "Moganshan Xiaoxi Chinese Inn",
+  "seedName": "Moganshan Xiaoxi Chinese Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-11103210",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=11103210&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-11103210&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Xiaoxi Chinese Inn?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "零九省道庙前村小溪客栈, 313000 Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/11103210/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200j10000000odjfvBBFF.jpg"
+    },
+    {
+      "src": "/images/stays/11103210/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200i10000000ocuejC328.webp"
+    },
+    {
+      "src": "/images/stays/11103210/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200h120008sbc7qf8AE6.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "老闆服務非常好，環境也不錯門口就有小溪，早上的白粥很好喝，很不錯的體驗。",
+      "author": "Guest User",
+      "date": "2025-05-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=11103210&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-11103210&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 2,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:12:15.146Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": 131797717,
+  "name": "Moganshan Riverside Stone House Stream Tracing Swimming Pool Family Villa",
+  "seedName": "Moganshan Riverside Stone House Stream Tracing Swimming Pool Family Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-131797717",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=131797717&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-131797717&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Riverside Stone House Stream Tracing Swimming Pool Family Villa?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "莫干山镇紫岭村梅皋坞42号, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/131797717/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6012000sryv3qr14D4.jpg"
+    },
+    {
+      "src": "/images/stays/131797717/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1a12000o3aimr12710.webp"
+    },
+    {
+      "src": "/images/stays/131797717/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2j12000o3aih2yB017.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "過來跑莫干山跑山賽，住在這個民宿，離起點15分鐘車程，房間很大，設施很新，還有一個超大泳池，天氣熱適合家庭入住，老闆人也非常的不錯，早飯也很好，推薦入住",
+      "author": "lianhuashou",
+      "date": "2025-10-25",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=131797717&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-131797717&trip_sub3=D19127628"
+    },
+    {
+      "quote": "過來跑莫干山跑山賽，住在這個民宿，離起點15分鐘車程，房間很大，設施很新，還有一個超大泳池，天氣熱適合家庭入住，老闆人也非常的不錯，早飯也很好，推薦入住",
+      "author": "lianhuashou",
+      "date": "2025-10-25",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=131797717&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-131797717&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 4,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:20:57.018Z",
+  "source": "trip",
+  "price": {
+    "amount": 61,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

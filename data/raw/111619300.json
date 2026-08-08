@@ -1,0 +1,55 @@
+{
+  "id": 111619300,
+  "name": "Moganshan Yonglian Shanju Yucun Chinese Inn (Shiyi Road 1hao)",
+  "seedName": "Moganshan Yonglian Shanju Yucun Chinese Inn (Shiyi Road 1hao)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-111619300",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=111619300&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-111619300&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Yonglian Shanju Yucun Chinese Inn (Shiyi Road 1hao)?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "石颐路德清县莫干山镇永连山居于烂线, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/111619300/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0225h12000br76owrBC40.jpg"
+    },
+    {
+      "src": "/images/stays/111619300/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0225h12000br76owrBC40.webp"
+    },
+    {
+      "src": "/images/stays/111619300/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2p12000ej2o6du4601.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "非常推薦的一家民宿，民宿實際比圖片好很多，有小院子，卧室全落地窗，床很大很軟，也很乾凈整潔，房東叔叔阿姨都非常好，非常熱情，還陪着我們一起打麻將，給我們嘗當地特產，早上做的麪條也特別好吃，總之非常推薦！",
+      "author": "Guest User",
+      "date": "2023-11-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=111619300&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-111619300&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 1,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:26:34.789Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

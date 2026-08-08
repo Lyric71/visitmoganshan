@@ -1,0 +1,93 @@
+{
+  "id": 119452719,
+  "name": "Mogan · Hidden Shanchuan Lakeside Resort Leisure",
+  "seedName": "Mogan · Hidden Shanchuan Lakeside Resort Leisure",
+  "city": "Huzhou",
+  "cityId": 86,
+  "goSlug": "moganshan-119452719",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=119452719&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-119452719&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:Lakeside or mountainous settings with serene natural scenery, foggy mountain views, and proximity to reservoirs.(based on 1 review) Facilities:KTV, recreational areas, and rooms are newly decorated with modern amenities.(based on 7 reviews) Cleanliness:Rooms and bathrooms are consistently described as spotless, with no reported pest issues in the majority of reviews.(based on 10 reviews) Guest Suggestion:Some customers suggest improving hygiene standards , enhancing facility safety , and addressing location accessibility .(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Lakeside or mountainous settings with serene natural scenery, foggy mountain views, and proximity to reservoirs.",
+        "count": 1
+      },
+      {
+        "topic": "Facilities",
+        "text": "KTV, recreational areas, and rooms are newly decorated with modern amenities.",
+        "count": 7
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms and bathrooms are consistently described as spotless, with no reported pest issues in the majority of reviews.",
+        "count": 10
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving hygiene standards , enhancing facility safety , and addressing location accessibility .",
+      "count": 3
+    }
+  },
+  "address": "埭溪镇芳山村1号, Wuxing District, Huzhou, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Cardroom",
+    "Multi-function room",
+    "Kids' club"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/119452719/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5u12000e5bolujFD39.jpg"
+    },
+    {
+      "src": "/images/stays/119452719/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc7412000e5bc0m43850.webp"
+    },
+    {
+      "src": "/images/stays/119452719/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0v12000e5bmazkC126.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "避雷吧，玻璃房子，夜裡冷，白天熱的要死，睡到早上趕緊關空調。就是一個在床上漂浮的破房子，體驗感極差，也沒有擱音。房間小的要死，沙發也臟。一點不講究。旁邊還有廢棄房子看着很一樣。無語死了。在攜程住的體驗感最差的酒店。老闆我説句良心話，你不想用心做名宿就別做了，你自己進去住一晚上感受一下，你自己先試試",
+      "author": "Guest User",
+      "date": "2026-02-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=119452719&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-119452719&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿在一片水庫的旁邊，風景優美，店家提供皮筏艇和槳可以去水上玩，也可以釣魚（要自帶釣具），背山面水，非常安靜，很適合休息。離瘐村也近，開車10分鐘內。住宿體驗不錯",
+      "author": "Zhangruoyu^_^",
+      "date": "2025-11-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=119452719&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-119452719&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間和圖片一致，各種設施佈置精美，衞生very乾淨，入住放心，民宿周邊交通出行方便。空調涼爽，一整晚都睡的很安穩，划船，棋牌，KTV，釣魚，一應俱全，管家服務周到。下次還會選擇這家民宿。",
+      "author": "Guest User",
+      "date": "2025-06-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=119452719&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-119452719&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 7.9,
+    "count": 43,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:29:33.986Z",
+  "source": "trip",
+  "price": {
+    "amount": 52,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

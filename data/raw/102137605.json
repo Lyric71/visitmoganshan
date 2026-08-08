@@ -1,0 +1,62 @@
+{
+  "id": 102137605,
+  "name": "Dewang Mountain Residence Chinese Inn (Ziling Tunnel No.1)",
+  "seedName": "Dewang Mountain Residence Chinese Inn (Ziling Tunnel No.1)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-102137605",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=102137605&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-102137605&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Dewang Mountain Residence Chinese Inn (Ziling Tunnel No.1)?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "紫岭隧道莫干山紫岭村德旺山居, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/102137605/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0225k120009ofh5wi9080.jpg"
+    },
+    {
+      "src": "/images/stays/102137605/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0221i120009tgass94F8D.webp"
+    },
+    {
+      "src": "/images/stays/102137605/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0225k120009ofh5wi9080.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "老闆人熱情，隨和。房間直接升級親子間，寬敞舒適，乾淨整潔。莫干山整體交通比較缺乏，尤其是有活動的時候。",
+      "author": "Xiaotuhuihui",
+      "date": "2024-10-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=102137605&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-102137605&trip_sub3=D19127628"
+    },
+    {
+      "quote": "老闆人熱情，隨和。房間直接升級親子間，寬敞舒適，乾淨整潔。莫干山整體交通比較缺乏，尤其是有活動的時候。",
+      "author": "Xiaotuhuihui",
+      "date": "2024-10-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=102137605&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-102137605&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.7,
+    "count": 3,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:24:12.835Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

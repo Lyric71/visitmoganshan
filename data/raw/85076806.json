@@ -1,0 +1,69 @@
+{
+  "id": 85076806,
+  "name": "Deqing Moganshan Huangjinshu Hotel",
+  "seedName": "Deqing Moganshan Huangjinshu Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-85076806",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=85076806&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-85076806&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Deqing Moganshan Huangjinshu Hotel?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "莫干山镇劳岭村鸭潭坞50号, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/85076806/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1q12000okb1ndg66DA.jpg"
+    },
+    {
+      "src": "/images/stays/85076806/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6t12000okav9e7DA30.webp"
+    },
+    {
+      "src": "/images/stays/85076806/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1h12000okay5v635BE.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "民宿超讚！房間乾淨無異味，床品柔軟好睡，房東熱情給旅行攻略，位置便利，性價比拉滿交通方便近景點，房間靜謐不吵鬧，服務貼心響應快，衞生無可挑剔，必須五星好評！",
+      "author": "Guest User",
+      "date": "2026-01-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=85076806&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-85076806&trip_sub3=D19127628"
+    },
+    {
+      "quote": "強烈推薦這家民宿！整體是温馨的實木風，細節超用心，洗漱用品都是品質款，連毛巾都軟軟的。採光特別好，早上陽光照進來特別舒服。房東人超好，提前幫我們預留了停車位，還推薦了本地人常去的好吃的餐館，味道絕了。住得舒心又省心，必須給滿分！",
+      "author": "Guest User",
+      "date": "2025-10-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=85076806&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-85076806&trip_sub3=D19127628"
+    },
+    {
+      "quote": "離莫干山越野比賽出發六公里多，性價比高，出行需打車。風景不錯，門口有一棵大桂花樹，香氣撲鼻。老闆很熱情，老闆的車可以送你去要去的地方，挺不錯的。",
+      "author": "Anonymous User",
+      "date": "2025-10-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=85076806&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-85076806&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 7.6,
+    "count": 8,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:18:02.541Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

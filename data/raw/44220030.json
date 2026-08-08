@@ -1,0 +1,43 @@
+{
+  "id": 44220030,
+  "name": "Moganshan Chilongtan Villa Resort (Houqiao Line)",
+  "seedName": "Moganshan Chilongtan Villa Resort (Houqiao Line)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-44220030",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=44220030&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-44220030&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Chilongtan Villa Resort (Houqiao Line)?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "后乔线莫干山赤龙潭山庄湖州莫干山镇四合村湖加埭莫干山赤龙潭山庄, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/44220030/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0225712000awitndn5798.jpg"
+    },
+    {
+      "src": "/images/stays/44220030/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0225712000awitndn5798.webp"
+    },
+    {
+      "src": "/images/stays/44220030/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5o12000lyczt9c5A9E.webp"
+    }
+  ],
+  "comments": [],
+  "rating": null,
+  "sourcedAt": "2026-08-08T16:15:08.327Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

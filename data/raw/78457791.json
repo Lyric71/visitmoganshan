@@ -1,0 +1,71 @@
+{
+  "id": 78457791,
+  "name": "Youya Mountain Retreat Featured Homestay (Xiaoyu Line Branch)",
+  "seedName": "Youya Mountain Retreat Featured Homestay (Xiaoyu Line Branch)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-78457791",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=78457791&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-78457791&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment Location:The location is satisfactory with a large courtyard. There are attractions around like Longtan Trail and scenic fields. It's relatively quiet. The environment is beautiful and suitable for family stays. Service:Hosts are enthusiastic, responsive. Can arrange meals according to guests' time. Offers activities like picking tea and bamboo shoots. Activities:Has KTV, chess and card rooms. Can barbecue in the courtyard, have tea on the terrace, and view stars at night",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "晓于线仙潭村村委会, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Cardroom"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/78457791/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0226j12000axf4kim3E4C.jpg"
+    },
+    {
+      "src": "/images/stays/78457791/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0225x12000axh2vp6E17D.webp"
+    },
+    {
+      "src": "/images/stays/78457791/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0225512000axf4kpbB94F.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "雖然不是在莫干山景區裏，但是位置和獨享確實很滿意。庭院足夠大，三樓的露台打牌喝茶都是很完美，老闆很熱情，還親自帶我們去爬山挖筍摘茶，都沒收費。給老闆建議了再加個桌球桌和乒乓球枱孩子活動的項目更多了，暑假有機會再去。",
+      "author": "Guest User",
+      "date": "2026-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=78457791&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-78457791&trip_sub3=D19127628"
+    },
+    {
+      "quote": "整潔乾淨 每間屋子都帶衞生間可以單獨洗漱 小院環境很好 不出去玩就在院子裏歇着也不錯 屋外出去就是龍潭步道 這個季節隨便走兩步就是油菜花田 很舒服 老闆説還可以帶着採茶挖筍 可以提前訂餐或燒烤 燒烤是自己烤 早餐稍微樸素一些 但基本也都有 適合一家子老老小小包棟住宿",
+      "author": "Guest User",
+      "date": "2026-04-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=78457791&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-78457791&trip_sub3=D19127628"
+    },
+    {
+      "quote": "除夕當天入住三天兩晚，6個房間不同的房型，每個房間都有獨立的衞生間，空調效果也不錯。老闆一家很熱情，早飯晚飯都按照我們的時間安排，ktv棋牌室很方便，院子不大收拾得很雅緻，二樓露台敞亮視野不錯適合喝茶休憩。民宿位置去莫干山景區龍潭景區都很近，相對民宿集聚區這裏更清凈些，值得推薦。",
+      "author": "Guest User",
+      "date": "2026-02-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=78457791&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-78457791&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.1,
+    "count": 18,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:23:01.687Z",
+  "source": "trip",
+  "price": {
+    "amount": 61,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

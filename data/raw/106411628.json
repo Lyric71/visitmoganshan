@@ -1,0 +1,72 @@
+{
+  "id": 106411628,
+  "name": "Moganshan Azeroth Vacation Apartment Huahua Daren (Laoling Tunnel)",
+  "seedName": "Moganshan Azeroth Vacation Apartment Huahua Daren (Laoling Tunnel)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-106411628",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=106411628&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-106411628&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:The environment is beautiful, surrounded by mountains and rivers, with bamboo forests and other natural landscapes Facilities:Entertainment facilities are complete, including basketball courts, swimming pools, table tennis, billiards and other projects. The facilities are perfect, the room space is spacious, and the outdoor space is open Dining:The boss's mother is good at cooking, and the meals are delicious and sufficient",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "劳岭隧道浙江湖州德清县莫干山镇艾泽拉斯度假酒店, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/106411628/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0224d12000spyqlxz9D86.jpg"
+    },
+    {
+      "src": "/images/stays/106411628/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0224d12000spyqlxz9D86.webp"
+    },
+    {
+      "src": "/images/stays/106411628/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0222o12000cpvcdkw4DE7.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "親子游，團建首選這家民宿！環境靜謐舒適，全屋衞生打理到位，大廳還有獨立冰櫃可以使用。泳池乾淨清爽。運動娛樂設施一應俱全，籃球、羽毛球、乒乓球、桌球、桌面足球輪番玩，大廳有電視，會議室有投影，小朋友看動畫，大人看球賽兩不誤。後廚阿姨手藝超讚，飯菜可口分量足，退房那天中午還吃了午餐再回去，吃住娛樂一站式，聚會體驗感滿分，已經收藏下次再來！",
+      "author": "Guest User",
+      "date": "2026-07-16",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=106411628&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-106411628&trip_sub3=D19127628"
+    },
+    {
+      "quote": "超預期！絕對超預期！看圖片覺得一般般，但是奈何老公和朋友們想打籃球就定了～房間很乾凈～老闆娘和老闆都很熱情～定了個烤全羊超好吃～一點羶味沒有～還送了豌豆飯（好吃！！！）還定了一天媽媽飯～是老闆娘的婆婆燒的～好吃！！！重點！泳池巨乾淨～引的山泉水下來的活水～可惜我們去的時候天不好～但也泡了下（有點冷），周邊出去吃也很方便～10分鐘到鎮上，板娘推薦的初次見面好吃！下次挑個好天～還來！值得二刷～",
+      "author": "Guest User",
+      "date": "2026-06-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=106411628&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-106411628&trip_sub3=D19127628"
+    },
+    {
+      "quote": "這次是公司團建，定了這家民宿，入住體驗感很好。首先我們有10個車，民宿的停車場妥妥的，還是在自己的院子，非常方便。到了之後我們就開始會議，中午在民宿吃的媽媽菜，特別好吃，紅燒肉不愧是招牌，超級推薦。吃完後，我們散步發現了真正的土雞，哈哈，老闆家自己散養的，據説這個土雞要提前一天預訂才可以吃到。下午又是會議，晚餐我們吃了烤全羊和媽媽菜，同事都很滿意。晚飯後我們籃球，羽毛球，乒乓球，玩的很嗨皮。不得不説，山裡的空氣真好，老闆家的獼猴桃真好，羨慕了，哈哈，下次有機會帶家裡人來玩。",
+      "author": "Guest User",
+      "date": "2026-05-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=106411628&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-106411628&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 42,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:25:42.844Z",
+  "source": "trip",
+  "price": {
+    "amount": 61,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

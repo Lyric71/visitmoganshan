@@ -90,7 +90,7 @@ For half a century Moganshan was a Chinese place with a Chinese function. The vi
 
 Two events from these decades come up constantly on the mountain, and one of them needs care.
 
-**Mao Zedong stayed in 1954**, in the villa built in 1934 by the banker Jiang Yizhe, the building later known as the Empress Hotel. 1954 was also the year the first constitution of the People's Republic was adopted. Local sources on the mountain often tie the two together. The drafting, however, is documented as having taken place in Hangzhou. So: he stayed here in 1954, in the year the constitution was adopted. We are not going to tell you he wrote it or confirmed it in this room, because the sources do not support that.
+**Mao Zedong stayed in 1954**, in the villa built in 1934 by the banker Jiang Yizhe, the building later known as the Empress Hotel. 1954 was also the year the first constitution of the People's Republic was adopted. Local sources on the mountain often tie the two together. The drafting, however, is documented as having taken place in Hangzhou. So: he stayed here in 1954, in the year the constitution was adopted. If a guide tells you it was written in that room, treat it as mountain storytelling.
 
 **The Moganshan Conference of 1984** is the other one, and it is the more consequential. A landmark gathering of young reform economists met in the mountain's assembly hall. If you are interested in how China's economic reforms were argued out, that hall is the address.
 

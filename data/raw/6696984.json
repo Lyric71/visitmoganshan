@@ -1,0 +1,87 @@
+{
+  "id": 6696984,
+  "name": "Moganshan Jian'ai Chinese Inn",
+  "seedName": "Moganshan Jian'ai Chinese Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-6696984",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6696984&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6696984&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Hygiene:Rooms are clean and tidy, both inside and outside the villa, with no peculiar smell, and corners are meticulously cleaned.(based on 26 reviews) Service:Hosts are warm and thoughtful, provide route information in advance, recommend local food and play, and are friendly to guests with pets, etc.(based on 22 reviews) Environment:The villa community has a quiet environment, with birds singing in the mountains during the day and peaceful sleep at night, and there is a sunroom, etc. Facilities:Facilities are relatively complete, though some mention fewer tables, but overall functional(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Hygiene",
+        "text": "Rooms are clean and tidy, both inside and outside the villa, with no peculiar smell, and corners are meticulously cleaned.",
+        "count": 26
+      },
+      {
+        "topic": "Service",
+        "text": "Hosts are warm and thoughtful, provide route information in advance, recommend local food and play, and are friendly to guests with pets, etc.",
+        "count": 22
+      },
+      {
+        "topic": "Environment",
+        "text": "The villa community has a quiet environment, with birds singing in the mountains during the day and peaceful sleep at night, and there is a sunroom, etc. Facilities:Facilities are relatively complete, though some mention fewer tables, but overall functional",
+        "count": 3
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No.22 Huashengda Villa, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Cardroom"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/6696984/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200k190000017uqkv1F3E.jpg"
+    },
+    {
+      "src": "/images/stays/6696984/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206n12000de7rslp0770.webp"
+    },
+    {
+      "src": "/images/stays/6696984/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205h12000de7sz3x5284.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "三人間，房間大，床大，衞生間更大，乾淨，寬敞。主人熱情，都小區門口接車，有疑問電話、微信回覆及時。別墅小區中的家庭民宿，出門到莫干山遊客中心，打卡虞村鐘樓都很方便，周邊餐飲選擇多，莫干山美術館近在咫尺。",
+      "author": "Guest User",
+      "date": "2026-07-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6696984&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6696984&trip_sub3=D19127628"
+    },
+    {
+      "quote": "版這次旅行選這家民宿特別滿意，房間和圖片完全一致，乾淨清爽無異味，角落收拾得一絲不苟，床品柔軟舒服，晚上安靜睡得安穩。裝修簡約雅緻氛圍感很好，設施齊全好用。房東待人温和貼心，提前告知路線，還細心推薦周邊遊玩美食，待人親切不客套，有家一般的暖意，出行住宿首選，下次再來還會再來",
+      "author": "Guest User",
+      "date": "2026-06-22",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6696984&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6696984&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿是一棟單獨別墅，出門就是庾村最繁華的庾街。有各種當地特色飯店，小吃也有很多可以選擇，民宿衞生也是很乾凈，白天在房間還可以聽到山間的小鳥叫聲，晚上睡覺也很安靜，睡的很香。",
+      "author": "Guest User",
+      "date": "2026-06-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6696984&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6696984&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 41,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:09:24.289Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": 109636430,
+  "name": "Seek Moganshan Mifanghua · Family Stream Tracing Luxury Villa",
+  "seedName": "Seek Moganshan Mifanghua · Family Stream Tracing Luxury Villa",
+  "city": "Huzhou",
+  "cityId": 86,
+  "goSlug": "moganshan-109636430",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=109636430&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-109636430&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness:Consistently praised for spotless rooms, bathrooms, and outdoor areas.(based on 13 reviews) Amenities:Features include a large pool, sandpit, trampoline, playground, bamboo forest, and garden with a view of mountains.(based on 8 reviews) Hospitality:Warm and attentive service from hosts, with personalized recommendations for local attractions.(based on 15 reviews) Environment:Quiet, scenic courtyard with mountain vistas, suitable for families and relaxation.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness",
+        "text": "Consistently praised for spotless rooms, bathrooms, and outdoor areas.",
+        "count": 13
+      },
+      {
+        "topic": "Amenities",
+        "text": "Features include a large pool, sandpit, trampoline, playground, bamboo forest, and garden with a view of mountains.",
+        "count": 8
+      },
+      {
+        "topic": "Hospitality",
+        "text": "Warm and attentive service from hosts, with personalized recommendations for local attractions.",
+        "count": 15
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "埭溪镇芳山村黄泥山46号, Wuxing District, Huzhou, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Cardroom",
+    "Restaurant",
+    "Conference room",
+    "Multi-function room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/109636430/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0l12000e166t7jB8C9.jpg"
+    },
+    {
+      "src": "/images/stays/109636430/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5712000bn029km4D67.webp"
+    },
+    {
+      "src": "/images/stays/109636430/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5012000e15z4h7ADC9.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "房東人很好，房間看出去景色很不錯，適合度假慢生活，房東還給我們燒了豌豆飯，很好吃。就是沒吃到房東養的走地雞😂",
+      "author": "Guest User",
+      "date": "2026-05-11",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=109636430&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-109636430&trip_sub3=D19127628"
+    },
+    {
+      "quote": "很好的環境，這次定了一層來莫干山爬山。推開門就是藍天白雲。老闆很好早餐自己做的饅頭和粥。還送了我們挖筍。",
+      "author": "Guest User",
+      "date": "2026-04-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=109636430&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-109636430&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房東人很好，房間看出去景色很不錯，適合度假慢生活，房東還給我們燒了豌豆飯，很好吃。就是沒吃到房東養的走地雞😂",
+      "author": "Guest User",
+      "date": "2026-05-11",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=109636430&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-109636430&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.2,
+    "count": 27,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:29:58.843Z",
+  "source": "trip",
+  "price": {
+    "amount": 52,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

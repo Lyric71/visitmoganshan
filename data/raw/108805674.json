@@ -1,0 +1,69 @@
+{
+  "id": 108805674,
+  "name": "Moganshan Yunxi Bieyuan",
+  "seedName": "Moganshan Yunxi Bieyuan",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-108805674",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=108805674&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-108805674&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Yunxi Bieyuan?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "莫干山镇庾村云溪别院5幢2单元404室, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/108805674/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0204o12000bdkytudE278.jpg"
+    },
+    {
+      "src": "/images/stays/108805674/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6g12000bdl2pln134A.webp"
+    },
+    {
+      "src": "/images/stays/108805674/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5o12000lyczt9c5A9E.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "房間舒適，廚衞用起來也很方便，陽台上的花花草草打理的很好，和朋友一起出來住像家一樣的感覺，下次有機會還要來！",
+      "author": "Guest User",
+      "date": "2026-04-12",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=108805674&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-108805674&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間舒適，廚衞用起來也很方便，陽台上的花花草草打理的很好，和朋友一起出來住像家一樣的感覺，下次有機會還要來！",
+      "author": "Guest User",
+      "date": "2026-04-12",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=108805674&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-108805674&trip_sub3=D19127628"
+    },
+    {
+      "quote": "#位置交通非常方便#房間設施設施齊全，電器配置很高哦#衞生清爽整潔總體來説，這次的選擇非常正確……房東也超級好，很細心。下次來還住這兒",
+      "author": "Guest User",
+      "date": "2024-08-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=108805674&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-108805674&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 5,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:19:00.464Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

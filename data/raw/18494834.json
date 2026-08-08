@@ -1,0 +1,71 @@
+{
+  "id": 18494834,
+  "name": "Residence for residents of Dewang mountain, Mogan mountain",
+  "seedName": "Residence for residents of Dewang mountain, Mogan mountain",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-18494834",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=18494834&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-18494834&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Residence for residents of Dewang mountain, Mogan mountain?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Moganshan town purple ridge village committee east 50 meters, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/18494834/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200v1a0000018vqr372FB.jpg"
+    },
+    {
+      "src": "/images/stays/18494834/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200v1a0000018vqr372FB.webp"
+    },
+    {
+      "src": "/images/stays/18494834/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD5d120009f4yeyw1CFE.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "雨天地滑，房屋的隔音效果不好，嚴重影響睡眠質量；排水系統也有問題，存在一定的安全隱患。建議老闆進行改良。",
+      "author": "🌸🌸huahuababa",
+      "date": "2025-07-31",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=18494834&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-18494834&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間很大，很不錯 設施：齊全 衞生：水感覺有雜質 環境：環境不錯在路邊 服務：服務很好，前台妹妹很熱情",
+      "author": "Guest User",
+      "date": "2024-04-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=18494834&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-18494834&trip_sub3=D19127628"
+    },
+    {
+      "quote": "雨天地滑，房屋的隔音效果不好，嚴重影響睡眠質量；排水系統也有問題，存在一定的安全隱患。建議老闆進行改良。",
+      "author": "🌸🌸huahuababa",
+      "date": "2025-07-31",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=18494834&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-18494834&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 5.9,
+    "count": 8,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:13:29.973Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

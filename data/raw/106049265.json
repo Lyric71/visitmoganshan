@@ -1,0 +1,69 @@
+{
+  "id": 106049265,
+  "name": "VivianJack Chinese Inn (Xiaoyuxian 1hao Branch)",
+  "seedName": "VivianJack Chinese Inn (Xiaoyuxian 1hao Branch)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-106049265",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=106049265&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-106049265&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment and Location:The courtyard is large, adjacent to the main peak of Moganshan, backed by small hills, with a quiet natural environment. There are flowers and plants all over the courtyard, and it has a rural style, giving a pleasant feeling. Good Service Quality:The boss helps to purchase ingredients, prepare barbecues and hot pots, start fires, etc., and is always on call, doing his best to meet needs.",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "晓于线山边小屋莫干山镇仙潭村, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/106049265/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0226m120009zax2khE582.jpg"
+    },
+    {
+      "src": "/images/stays/106049265/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0226m120009zax2khE582.webp"
+    },
+    {
+      "src": "/images/stays/106049265/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5o12000lyczt9c5A9E.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "老闆真的超好的，也很耐心，有什麼問題都會急事給我們解決，房子裝修的很復古，可以燒烤，可以火鍋，可以桌遊，可以桌球，可以唱歌，可以麻將（我女兒還給人麻將弄丟了幾個真的很不好意思，老闆人超好 也沒怪我們 我都自責的不行）有種想幹嘛就可以幹嘛的感覺，簡直就是我對養老院子的完美詮釋，大概這就是浪費時間的最好時光，有種班味去除的感覺，下次有機會必須得再去一次！",
+      "author": "Guest User",
+      "date": "2026-01-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=106049265&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-106049265&trip_sub3=D19127628"
+    },
+    {
+      "quote": "五一四個家庭六點五晚，房東一站式管家服務，幫忙採購食材，幫忙準備燒烤火鍋，省心省力。小朋友在門口可以玩水撈魚撈蝦，離庾村和江南瑤塢都很近，附近還有漂流，打車也方便，美好的五一，贊！",
+      "author": "Guest User",
+      "date": "2026-05-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=106049265&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-106049265&trip_sub3=D19127628"
+    },
+    {
+      "quote": "超級好啊！院子特別大，適合帶狗子帶娃！整體風格是美式鄉村風，二樓房間都帶超大露台。吧枱、桌球，麻將，唱k、游泳等娛樂設施俱全！特別要誇讚的是烹飪服務！！jack老闆提前幫我們買了材料醃製等，晚上幫忙生火，節省了我們不少力氣。還有柴火灶，燒的雞湯和紅燒肉太美味了，廚房也可以隨意使用！老闆人特別好，話不多但是一直在幹活，隨叫隨到，大家一致好評！！有機會再來！！",
+      "author": "Guest User",
+      "date": "2025-10-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=106049265&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-106049265&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 15,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:25:01.351Z",
+  "source": "trip",
+  "price": {
+    "amount": 61,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

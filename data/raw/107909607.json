@@ -1,0 +1,72 @@
+{
+  "id": 107909607,
+  "name": "Moganshan Yangquan Shanju Villa (Xiaoyuxian Branch)",
+  "seedName": "Moganshan Yangquan Shanju Villa (Xiaoyuxian Branch)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-107909607",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=107909607&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-107909607&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Accessibility:Proximity to natural attractions like \"Biyu Longtan,\" \"Aishen Valley,\" \"Daxiong Outdoor Adventure Base,\" and hiking trails. Easy access to a small river for water activities. Host Hospitality:Hosts are described as warm, helpful, and proactive . Facilities & Cleanliness:Rooms are spacious, clean, and well-maintained . Outdoor areas include a large courtyard and a view of bamboo forests. Amenities:Free access to barbecue equipment, music systems, and basic toiletries. Hosts offer cooking services and recommend local dining options.",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "晓于线莫干山氧泉山居莫干山氧泉山居客栈, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/107909607/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0226512000ax0n6j53EA6.jpg"
+    },
+    {
+      "src": "/images/stays/107909607/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0583112000t0885g5F306.webp"
+    },
+    {
+      "src": "/images/stays/107909607/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0582512000t09hsed8420.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "✨[進入房間第一眼]整體到位 🙋[對於房東，我想説]服務超絕，服務到位，推薦的地方也特別的出片，最後去山上玩車拋錨，跟房東説了立馬過來給我們救援，真的是超級給力。 🛏[房屋設施我一定要提]配套完善 📍[對於周邊的便利度，我要説]菜市場和超市都有",
+      "author": "Guest User",
+      "date": "2025-06-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=107909607&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-107909607&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿總體還是不錯的，這次端午假期三天兩晚吃的住的性價比都很高。預訂後我先聯繫房東瞭解了一下週邊的景點和房子具體位置。房東發了定位，推薦了附近的碧塢龍潭，愛神谷，星空探險樂園，大熊户外運動基地這幾個景點。我們年輕人多，考慮帶了4個孩子，選了附近愛神谷和大熊户外運動基地，大家白天爬山，騎了越野摩託車，玩水，挺過癮的，晚上打牌麻將唱歌也很舒服。用餐是在房東這裏訂的，按照推薦的套餐訂了兩個晚餐和一個燒烤，總體感覺比中午飯在莫干山鎮上飯店吃的那些實惠，主要是菜新鮮，都是現做的比較好吃，房東大哥做飯可以的。另外由於行李帶了很多，我們4個車都直接停在大門口，房東大哥很熱情，怕我們不熟悉一次次幫忙倒車停車，服務熱心周到。房子裏有塑料拖鞋可以穿出去到小河那裡玩水。房東給我們用的被子毛巾也是乾淨的，注意到衞生間每天晚上都倒垃圾了，很乾凈。",
+      "author": "Guest User",
+      "date": "2024-06-11",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=107909607&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-107909607&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房東人很好，老闆菜做的味道很不錯，還幫我們找車送到高鐵站，我們在附近玩打不到車還親自接我們。房間非常乾淨",
+      "author": "Guest User",
+      "date": "2025-05-18",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=107909607&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-107909607&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 16,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:25:45.861Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

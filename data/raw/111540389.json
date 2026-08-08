@@ -1,0 +1,72 @@
+{
+  "id": 111540389,
+  "name": "Moganshan Ginkgo Suxia Homestay",
+  "seedName": "Moganshan Ginkgo Suxia Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-111540389",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=111540389&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-111540389&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment and Location:Located near attractions like Jiangnan Yaowu, with convenient access to various scenic spots. For example, it's a few minutes' drive from Jiangnan Yaowu and situated between Moganshan and Anji, facilitating visits to both. Facilities:Facilities are complete and new. Some rooms have smart toilets, and the overall facilities meet different needs. Hygiene:Rooms are extremely clean and tidy. Thoroughly cleaned, with no dirt, ensuring a clean living environment. Service:Hostess and owner are very enthusiastic and thoughtful. Provide travel suggestions, help with ticket booking, and offer warm non-pressured service. Breakfast:Breakfast is rich and diverse, with different options daily, highly praised by guests. Public Area:The first-floor public area is good, with games, dining, chess and cards available.",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "莫干山镇大瑶村将军堂41号, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/111540389/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1y12000cot51zn865A.jpg"
+    },
+    {
+      "src": "/images/stays/111540389/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3912000cot2wkzCA2A.webp"
+    },
+    {
+      "src": "/images/stays/111540389/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3n12000cot2m9sF4C5.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "莫干山寶藏民宿！環境清幽，羣山環繞房間乾淨整潔，山景視野絕佳。老闆服務貼心周到，農家早餐、家常菜味道正宗。小院氛圍感十足，喝茶觀景十分愜意，遠離城市喧囂特別解壓，設施齊全住着舒服，出行停車便利，度假首選，老闆娘人特別好，民宿很乾凈！推薦大家來！",
+      "author": "Guest User",
+      "date": "2026-06-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=111540389&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-111540389&trip_sub3=D19127628"
+    },
+    {
+      "quote": "這次定的民宿超滿意，首先是衞生很乾凈，我有點潔癖，臟的房間睡不着。這家民宿衞生搞得又乾淨又及時。老闆娘小姐姐人超nice，服務也很貼心。阿姨做的早餐好好吃，晚餐也讓民宿幫忙做了，比外面飯店的乾淨多了，關鍵還很對胃口。臨走前還送了當地特產作為伴手禮，筍乾超好吃，全家都喜歡。下次暑假還有機會的話還要來住。",
+      "author": "Guest User",
+      "date": "2026-05-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=111540389&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-111540389&trip_sub3=D19127628"
+    },
+    {
+      "quote": "老闆娘人超級好，住的很舒服，名宿也是寵物友好的，我們住在3樓，一看名宿就是用心打理的，房間裏也特別整潔乾淨。地理位置離江南瑤塢很近，老闆可以幫忙訂票比攜程上自己買划算很多。早飯也超級豐盛，很喜歡這裏，下次還會再來！",
+      "author": "Guest User",
+      "date": "2026-03-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=111540389&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-111540389&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 67,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:19:40.024Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

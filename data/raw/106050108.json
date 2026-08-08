@@ -1,0 +1,69 @@
+{
+  "id": 106050108,
+  "name": "Moganshan Shanli Xianju Villa (Sanmoxian Branch)",
+  "seedName": "Moganshan Shanli Xianju Villa (Sanmoxian Branch)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-106050108",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=106050108&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-106050108&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location and Accessibility:The accommodation is located in Xiantan Village, near Mount Moganshan and popular attractions like Yulin Dam and Biwu Longtan, offering convenient access to scenic spots and a quiet, scenic environment with mountain views and fresh air. Recreational Amenities:The property includes a swimming pool, a small river for children's activities, and a spacious courtyard with a friendly dog named Ahua. Outdoor spaces like terraces and private balconies allow guests to enjoy scenic views and relaxation.",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "三莫线莫干·山的那边湖州莫干山山里仙居农家乐, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/106050108/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0582u12000t0bz5vk1138.jpg"
+    },
+    {
+      "src": "/images/stays/106050108/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0582u12000t0bz5vk1138.webp"
+    },
+    {
+      "src": "/images/stays/106050108/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0223w120009zaprut4063.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "民宿在仙潭村裡，房間很大很乾凈，老闆娘一家人很熱情，燒的菜味道也不錯，早飯也很豐盛，離各個景點也不遠。",
+      "author": "Guest User",
+      "date": "2025-06-12",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=106050108&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-106050108&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房子性價比還可以，早餐挺好吃，是農家自製。給三星是因為洗澡水一直冷着，每次都要等好久才熱。而且老闆一開始説是獨享KTV，實際到民宿後突然又説臨時有其他住客住樓下，又是小孩又是長者，晚上沒唱成歌，早上小孩還把我們吵醒了。",
+      "author": "Guest User",
+      "date": "2026-06-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=106050108&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-106050108&trip_sub3=D19127628"
+    },
+    {
+      "quote": "夏天帶家人來避暑，包了三樓的兩間房，房間整潔，每間房都帶一個大陽台，陽台正對青翠的莫干山，院子裏還帶一個游泳池，適合孩子玩耍。老闆娘很熱情，會指導你周圍好玩的去處。很滿意的一次住宿體驗。",
+      "author": "Guest User",
+      "date": "2025-08-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=106050108&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-106050108&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.3,
+    "count": 69,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:24:56.858Z",
+  "source": "trip",
+  "price": {
+    "amount": 61,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

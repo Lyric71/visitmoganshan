@@ -1,0 +1,78 @@
+{
+  "id": 125761042,
+  "name": "Xiangyeshe Resort Mountain Lodge (Moganshan)",
+  "seedName": "Xiangyeshe Resort Mountain Lodge (Moganshan)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-125761042",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=125761042&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-125761042&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Natural Environment:The natural environment is excellent, with rich birds and suitable for taking children who like nature. There are pine forests, and the scenery is beautiful whether during the day or at night, like a fairy tale house. Room Design:Each building has a special design, such as forest wood houses and mountain top cabins, with a full sense of atmosphere. Activities:There are hiking and archery activities, which are fun. Service Attitude:The service attitude is very good, with enthusiastic managers and housekeepers.(based on 14 reviews) Future Planning:The boss is introducing the planning of phase II, phase III and other phases, and the future is more promising",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Natural Environment",
+        "text": "The natural environment is excellent, with rich birds and suitable for taking children who like nature. There are pine forests, and the scenery is beautiful whether during the day or at night, like a fairy tale house. Room Design:Each building has a special design, such as forest wood houses and mountain top cabins, with a full sense of atmosphere. Activities:There are hiking and archery activities, which are fun. Service Attitude:The service attitude is very good, with enthusiastic managers and housekeepers.",
+        "count": 14
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "莫干山镇路南村福水林场大白浪区1号, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant",
+    "Cafe"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/125761042/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2p12000tbh4emo64FB.jpg"
+    },
+    {
+      "src": "/images/stays/125761042/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5k12000tbhj7we58C5.webp"
+    },
+    {
+      "src": "/images/stays/125761042/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1812000tbh6m0g7A89.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "藏在森林裏，送的晚餐意料之外，非常棒！就是服務還有待加強，沒有加服務微信，衹能打電話。沒主動告知WIFI密碼，也沒告知第二天早餐用餐地點和時間，想到的時候已經是晚上，考慮到挺晚了，就沒打電話，所以一直用的自己的手機流量。",
+      "author": "Guest User",
+      "date": "2026-06-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=125761042&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-125761042&trip_sub3=D19127628"
+    },
+    {
+      "quote": "藏在森林裏，送的晚餐意料之外，非常棒！就是服務還有待加強，沒有加服務微信，衹能打電話。沒主動告知WIFI密碼，也沒告知第二天早餐用餐地點和時間，想到的時候已經是晚上，考慮到挺晚了，就沒打電話，所以一直用的自己的手機流量。",
+      "author": "Guest User",
+      "date": "2026-06-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=125761042&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-125761042&trip_sub3=D19127628"
+    },
+    {
+      "quote": "懷着無比期待的心情來的, 在莫干山大樂之野的邊上山道上去約開7-8公里的盤山路，開到山頂的那一刻還是比較愜意的人煙稀少嘛, 民宿裏有家環境不錯的咖啡＋簡餐吧, 另説, 咱考慮防潮問題選了鐵皮屋子, 在更上的小山頭上路不好石子路得步行或者民宿私家車接送建議自己走吧接送時間等待很長, 進屋，門窗都是壞的，蟲子的屍體躺了很多在玻璃邊上地板上衞生間裏，本人搞了一個多小時衞生，我是來體驗生活的, 信號來説移動還行如果你是聯通那你就準備失聯吧, 其實挺好一地方, 設施沒跟上, 衞生跟不上, 屋內環境有點兒照騙, 玻璃很臟都沒人擦的如圖捲簾都不全, 會有陌生人在你屋外看着像被人蔘觀的猴兒, 繼續加油吧, 一點都不性價比我五一價格1400不到…很不值啊, 還有早餐就是那種很普通的超市麪包胚加了冷掉的肉餅做的漢堡………………………～～～～很硬還掉渣",
+      "author": "Guest User",
+      "date": "2026-05-14",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=125761042&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-125761042&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 25,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:20:28.587Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": 89851793,
+  "name": "Moganshan Wangshishan Residence",
+  "seedName": "Moganshan Wangshishan Residence",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-89851793",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=89851793&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-89851793&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:The property is situated opposite a tourist transportation hub, offering convenient access to public transit, nearby commercial streets, and a short walk to attractions.(based on 7 reviews) Cleanliness and Facilities:Rooms are consistently described as clean, well-equipped, and include amenities like balconies and swimming pools.(based on 2 reviews) Service:Hosts are praised for their hospitality, willingness to assist with parking coordination, and providing travel recommendations.(based on 12 reviews) Accessibility:Proximity to dining options and quiet nighttime environments enhance the stay.(based on 7 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "The property is situated opposite a tourist transportation hub, offering convenient access to public transit, nearby commercial streets, and a short walk to attractions.",
+        "count": 7
+      },
+      {
+        "topic": "Cleanliness and Facilities",
+        "text": "Rooms are consistently described as clean, well-equipped, and include amenities like balconies and swimming pools.",
+        "count": 2
+      },
+      {
+        "topic": "Service",
+        "text": "Hosts are praised for their hospitality, willingness to assist with parking coordination, and providing travel recommendations.",
+        "count": 12
+      },
+      {
+        "topic": "Accessibility",
+        "text": "Proximity to dining options and quiet nighttime environments enhance the stay.",
+        "count": 7
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "武康街道莫干山镇燎原村后村76号, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/89851793/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3912000fj5jds245AE.jpg"
+    },
+    {
+      "src": "/images/stays/89851793/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02032120009u6bhagF7DB.webp"
+    },
+    {
+      "src": "/images/stays/89851793/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1n12000b1cuz533114.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "民宿位置絕佳，出門即莫干山換乘中心，走路十分鐘就能到庾村市集，院內停車方便。房間乾淨整潔，設施齊全，房東熱情周到，還帶我們去挖了春筍。清晨陽光灑滿小屋，體驗超棒，強烈推薦！",
+      "author": "Xinxinaipeipei",
+      "date": "2026-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=89851793&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-89851793&trip_sub3=D19127628"
+    },
+    {
+      "quote": "老闆一家三口特別熱情，民宿就在莫干山集散中心門口，步行3分鐘，特別方便，好停車。本來棋牌室是收費的，我們十個人5個房間也是屬於大客户了，老闆同意我們免費打牌，早餐還給我們特意留一下包間，早餐也挺好吃的。推薦來莫干山的朋友住在望獅山居，絕對不會失望的，讓你有賓客如歸的感覺！",
+      "author": "Guest User",
+      "date": "2025-10-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=89851793&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-89851793&trip_sub3=D19127628"
+    },
+    {
+      "quote": "來莫干山參加100公里跑山賽，在這裏住得很舒服，老闆人也很熱情。在1000人蔘加的百公里組比賽也拿到了40幾名的好名次。",
+      "author": "WANG-LILI",
+      "date": "2025-11-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=89851793&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-89851793&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 27,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:18:12.700Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

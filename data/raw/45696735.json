@@ -1,0 +1,90 @@
+{
+  "id": 45696735,
+  "name": "Qinglan Mountain Villa (Xiaoyuxian Branch)",
+  "seedName": "Qinglan Mountain Villa (Xiaoyuxian Branch)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-45696735",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=45696735&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-45696735&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment and Location:Surrounded by beautiful scenic spots like Tianquan Mountain, Xiantan Budo and waterfalls, with a view of rolling mountains from the room, and the village environment is clean(based on 7 reviews) Service Quality:The owners are very enthusiastic, providing free coffee, fruits and tea, and giving travel suggestions(based on 9 reviews) Hygiene:Rooms are very clean and spotless(based on 7 reviews) Facilities:There is a large platform on the roof suitable for chatting and drinking tea, and there is KTV(based on 4 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment and Location",
+        "text": "Surrounded by beautiful scenic spots like Tianquan Mountain, Xiantan Budo and waterfalls, with a view of rolling mountains from the room, and the village environment is clean",
+        "count": 7
+      },
+      {
+        "topic": "Service Quality",
+        "text": "The owners are very enthusiastic, providing free coffee, fruits and tea, and giving travel suggestions",
+        "count": 9
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Rooms are very clean and spotless",
+        "count": 7
+      },
+      {
+        "topic": "Facilities",
+        "text": "There is a large platform on the roof suitable for chatting and drinking tea, and there is KTV",
+        "count": 4
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "晓于线浙江省湖州市德清县江南碧坞景区内, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/45696735/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0581912000nwpiv6yA240.jpg"
+    },
+    {
+      "src": "/images/stays/45696735/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0582l12000t2c15ho1DF1.webp"
+    },
+    {
+      "src": "/images/stays/45696735/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1re6m12000b87h4ih2D60.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "房間乾淨整潔，山裡空氣非常好，讓人很放鬆。老闆非常熱情好客，招待的也很好。是夏天出遊打卡的好去處，整體性價比也非常高，帶長者小孩出來修養一下是不錯的去處。",
+      "author": "Guest User",
+      "date": "2025-08-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=45696735&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-45696735&trip_sub3=D19127628"
+    },
+    {
+      "quote": "第一次帶爸媽嘗試住民宿 爸爸媽媽有效潔癖 沒想到 入住後對老闆老闆娘的衞生是無可挑剔 一塵不染 我們住頂樓 老闆 老闆娘泡了自己親自採摘的茶葉 味道很新鮮 清香 老闆和老闆娘都超級熱情 也很健談 旁邊的天泉山更是美不勝收 晚上的房間露台的星空 更是一絕 總之 還會再來 最後我要誇讚下 廚娘的廚藝 有種回家的感覺",
+      "author": "Guest User",
+      "date": "2024-09-30",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=45696735&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-45696735&trip_sub3=D19127628"
+    },
+    {
+      "quote": "老闆老闆娘超級熱情，有免費的咖啡水果，還可以喝到老闆家自己的茶。飯菜也很合胃口。入住的頂樓陽台風景也很好。非常值得。",
+      "author": "Xuebihekele",
+      "date": "2024-11-25",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=45696735&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-45696735&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 10,
+    "count": 99,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:15:28.342Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

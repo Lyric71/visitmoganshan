@@ -1,5 +1,5 @@
 ---
-import { CAPTURES, cardDescription, cardNote } from '../lib/captures';
+import { CAPTURES, cardDescription, cardNote, cardPrice, priceBand } from '../lib/captures';
 import { goPath, type SeedRecord } from '../lib/stays';
 
 /**
@@ -32,12 +32,22 @@ const blocks = capture ? cardDescription(capture) : [];
 const note = capture ? cardNote(capture) : null;
 const comment = capture?.comments[0];
 const rating = capture?.rating;
+const price = cardPrice(capture);
+
+// The filter bar above the list reads these off the card and hides the ones
+// that do not match. They are written even when the value is missing, because
+// "unknown" is a state the filter has to be able to see rather than a gap.
+const filterData = {
+  'data-price-band': priceBand(capture),
+  'data-reviews': rating?.count ?? 0,
+  'data-note': note ? 'yes' : 'no',
+};
 
 const formatDate = (iso: string) =>
   new Date(iso).toLocaleDateString('en-GB', { month: 'short', year: 'numeric' });
 ---
 
-<article class="card" data-media={images.length > 0 ? 'yes' : 'no'}>
+<article class="card" data-media={images.length > 0 ? 'yes' : 'no'} {...filterData}>
   {
     images.length > 0 && (
       /* The photographs are the link too. They are the property's own listing
@@ -83,6 +93,10 @@ const formatDate = (iso: string) =>
         )}
         {href && <span class="card__flag">Written up</span>}
       </p>
+      {/* Trip.com's cheapest nightly rate at capture, not a quote. Rates move
+          daily and this one is a snapshot of a single search, which is why the
+          word is "from" and why the number is never presented as ours. */}
+      {price && <p class="card__price">{price} <span class="card__price-unit">a night on Trip.com</span></p>}
     </header>
 
     {
@@ -144,6 +158,13 @@ const formatDate = (iso: string) =>
 </article>
 
 <style>
+  /* The filter bar hides a card with the hidden attribute. Without this the
+     display:grid below wins over the user agent's [hidden] rule and a filtered
+     out card stays on the page. */
+  .card[hidden] {
+    display: none;
+  }
+
   .card {
     display: grid;
     grid-template-columns: minmax(0, 1fr);
@@ -248,6 +269,20 @@ const formatDate = (iso: string) =>
   .card__meta strong {
     color: var(--color-ink);
     font-variant-numeric: tabular-nums;
+  }
+
+  .card__price {
+    margin: 0.4rem 0 0;
+    font-size: 0.9375rem;
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
+    color: var(--color-ink);
+  }
+
+  .card__price-unit {
+    font-weight: 400;
+    font-size: 0.8125rem;
+    color: var(--color-muted);
   }
 
   .card__flag {

@@ -1,0 +1,55 @@
+{
+  "id": 134346294,
+  "name": "青梧棠驿青年旅社",
+  "seedName": "青梧棠驿青年旅社",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-134346294",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=134346294&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-134346294&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at 青梧棠驿青年旅社?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 19 Huangfu West Road, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/134346294/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0o12000sazeiy194ED.jpg"
+    },
+    {
+      "src": "/images/stays/134346294/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0o12000sazeiy194ED.webp"
+    },
+    {
+      "src": "/images/stays/134346294/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6r12000sazf69v6D3C.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "酒店老闆真是個大聰明。服務員都非常貼心周到，尤其是那個在門口賣糯米餈的小哥。這個青旅是大酒店2樓和3樓改造，位置非常，就在漁村廣場的附近100米，去哪裡都很方便，適合青旅住一個晚上，然後爬莫干山，漁村廣場也有各種節目。酒店為了高端而做的感應非常不好用，而且nm都給我鎖在那個裡麪出不來，如果沒帶手機，簡直在裏面都快被悶死，幽閉恐懼症都出來了。被子質量很差，像那種棉花胎一樣，浴室的花灑也是壞的，水龍頭一開全是那種不明液體",
+      "author": "Guest User",
+      "date": "2026-05-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=134346294&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-134346294&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 7.6,
+    "count": 1,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:21:46.267Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": 118461447,
+  "name": "Humble Garden Homestay, Moganshan Town",
+  "seedName": "Humble Garden Homestay, Moganshan Town",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-118461447",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=118461447&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-118461447&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:Surrounded by mountains, with elegant and comfortable environment, fresh air. The yard has lawns, canopies, etc. Service:The owner is very enthusiastic and thoughtful, providing good travel suggestions(based on 17 reviews) Facilities:Rich entertainment facilities like KTV, mahjong, billiards, etc., with swimming pool and charging equipment(based on 8 reviews) Hygiene:Rooms are clean and tidy.(based on 19 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Surrounded by mountains, with elegant and comfortable environment, fresh air. The yard has lawns, canopies, etc. Service:The owner is very enthusiastic and thoughtful, providing good travel suggestions",
+        "count": 17
+      },
+      {
+        "topic": "Facilities",
+        "text": "Rich entertainment facilities like KTV, mahjong, billiards, etc., with swimming pool and charging equipment",
+        "count": 8
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Rooms are clean and tidy.",
+        "count": 19
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "莫干山镇仙潭村郎家村93号, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Cardroom",
+    "Playground",
+    "Water park",
+    "Kids' club"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/118461447/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4t12000m475tio3349.jpg"
+    },
+    {
+      "src": "/images/stays/118461447/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3d12000dl66v8p4146.webp"
+    },
+    {
+      "src": "/images/stays/118461447/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5v12000dl60d6n0F0E.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The lady boss was very welcoming and provided butler service during our stay. She even helped to buy KFC milk tea and other things on rainy days. We had a very comfortable stay. The homestay is generally clean and new,...",
+      "author": "Guest User",
+      "date": "2024-10-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=118461447&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-118461447&trip_sub3=D19127628"
+    },
+    {
+      "quote": "It’s great to open the curtains in the morning, look at Mogan Mountain in the sun opposite, and breathe the super negative oxygen ion air! The boss lady's arrangement is very thoughtful, I must go again",
+      "author": "Guest User",
+      "date": "2024-10-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=118461447&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-118461447&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間很大，很乾凈，而且沒有異味房東很熱情，有任何需要回應的也非常及時，還從鎮上幫我們代購了奶茶，很貼心",
+      "author": "Guest User",
+      "date": "2026-05-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=118461447&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-118461447&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 10,
+    "count": 32,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:20:16.584Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

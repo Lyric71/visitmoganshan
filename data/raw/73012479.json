@@ -1,0 +1,65 @@
+{
+  "id": 73012479,
+  "name": "Mogan Junshu (Moganshan Xiantan)",
+  "seedName": "Mogan Junshu (Moganshan Xiantan)",
+  "city": "Huzhou",
+  "cityId": 86,
+  "goSlug": "moganshan-73012479",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=73012479&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-73012479&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Mogan Junshu (Moganshan Xiantan)?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "埭溪镇芳山村谢字圩54号, Wuxing District, Huzhou, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/73012479/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02028120009ep04cy0138.jpg"
+    },
+    {
+      "src": "/images/stays/73012479/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02028120009ep04e5274C.webp"
+    },
+    {
+      "src": "/images/stays/73012479/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02071120008innjweF501.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "非常滿意的民宿，環境很好也很衞生，交通開車也很方便。民宿可以提供很棒的晚餐，也可以提供場地和食材燒烤。老闆服務非常周到暖心，已經推薦給身邊的朋友，下次還會來。",
+      "author": "Guest User",
+      "date": "2025-06-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=73012479&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-73012479&trip_sub3=D19127628"
+    },
+    {
+      "quote": "這家民宿體驗感很好，離莫干山腳下衹有5分鐘左右車程，環境不錯，很安靜休息得很好，整體非常乾淨，老闆娘熱情好客，吃的都是自家養的土雞，還有菜園，竹林，茶園，可以推薦！",
+      "author": "Guest User",
+      "date": "2024-04-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=73012479&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-73012479&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 2,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:28:53.626Z",
+  "source": "trip",
+  "price": {
+    "amount": 52,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

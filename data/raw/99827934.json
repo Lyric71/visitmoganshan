@@ -1,0 +1,69 @@
+{
+  "id": 99827934,
+  "name": "Biyunju Villa (Xiaoyu Line No.1)",
+  "seedName": "Biyunju Villa (Xiaoyu Line No.1)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-99827934",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=99827934&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-99827934&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Biyunju Villa (Xiaoyu Line No.1)?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "晓于线莫干山仙潭村, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/99827934/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0224f120009yjgro0276E.jpg"
+    },
+    {
+      "src": "/images/stays/99827934/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0224f120009yjgro0276E.webp"
+    },
+    {
+      "src": "/images/stays/99827934/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5o12000lyczt9c5A9E.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "民宿的地理位置特別棒，門口就是一條小溪，可以直接下去溯溪。老闆娘非常熱情，老闆做的飯菜也特別好吃，我們住了兩天，吃了兩頓飯，每頓菜式都不重樣，味道特別好。老闆娘還給我們推薦了挖筍的地方，我們挖好筍回來後，她和我們一起處理，最後還幫忙焯了水。就是玩的忘記拍照了😂",
+      "author": "Guest User",
+      "date": "2026-05-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=99827934&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-99827934&trip_sub3=D19127628"
+    },
+    {
+      "quote": "超級滿意，今年的意外驚喜，跟朋友兩大家子9口人，想包一個別墅，有老有小，能做到每個人都滿意，太開心了。 而且老闆居然以前是名廚，做過鱷魚和稀有食材的，真的是太太太賺了，就連小小的冬筍鹹菜我們都覺得好吃的不得了，臨走打包了一大盒。 想找又安靜，又乾淨，吃的好，交通方便的民宿鎖定這家就夠了",
+      "author": "Guest User",
+      "date": "2026-02-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=99827934&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-99827934&trip_sub3=D19127628"
+    },
+    {
+      "quote": "有山有水，適合帶小朋友 跟寵物、野果竹筍 到處是，山水頂還有露營地 老闆也都挺好 ，熱心 熱情👍",
+      "author": "Guest User",
+      "date": "2026-05-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=99827934&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-99827934&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 6,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:23:46.703Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

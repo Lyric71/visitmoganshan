@@ -1,0 +1,71 @@
+{
+  "id": 131827034,
+  "name": "Mogan Qinshanju Family Stream Tracing Leisure Homestay",
+  "seedName": "Mogan Qinshanju Family Stream Tracing Leisure Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-131827034",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=131827034&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-131827034&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Mogan Qinshanju Family Stream Tracing Leisure Homestay?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "莫干山镇南路后斗路斗蒋坞26号, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/131827034/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5y12000oarhady219E.jpg"
+    },
+    {
+      "src": "/images/stays/131827034/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6x12000oarcitt447E.webp"
+    },
+    {
+      "src": "/images/stays/131827034/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc7312000oar0ri6B5C1.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "房間乾淨整潔，設施很新，剛剛裝修不久，床非常大很舒服，阿姨很熱情，會關注我們的需要，及時提供。麻將機，ktv一應俱全，後面就可以爬山，去附近景點開車也很方便，下次還來！",
+      "author": "Guest User",
+      "date": "2026-06-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=131827034&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-131827034&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿是新開的，設施很新，也很乾凈，一樓活動室有麻將桌，負一樓可以打乒乓球，在小院子坐着，吃吃零食、聊聊天很舒服，民宿老闆也很熱情，還給我們做板栗吃，早餐很豐盛。民宿離龍鱗壩開車大概10分鐘。",
+      "author": "Guest User",
+      "date": "2025-10-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=131827034&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-131827034&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿房間乾淨整潔，床墊舒適。在山裡房子後面有登山步道可爬山看風景，院子裏種了很多花，客廳裏的蘭花特別香，正好是吃板栗的季節還體驗了剝板栗，阿姨燒的菜味道很好，土雞是自己家養的，老闆熱情待客，好評！",
+      "author": "Guest User",
+      "date": "2025-09-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=131827034&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-131827034&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 10,
+    "count": 10,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:21:20.467Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

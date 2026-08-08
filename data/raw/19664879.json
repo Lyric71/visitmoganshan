@@ -1,0 +1,64 @@
+{
+  "id": 19664879,
+  "name": "Cui Ge Lin Hotel",
+  "seedName": "Cui Ge Lin Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-19664879",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=19664879&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-19664879&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Cui Ge Lin Hotel?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Near Dadouwu Reservoir, Fotang Village, Deqing, Zhejiang, China",
+  "priceRange": "From US$82",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/19664879/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2h070t000000iqu3h4A58.jpg"
+    },
+    {
+      "src": "/images/stays/19664879/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2h070t000000iqu3h4A58.webp"
+    },
+    {
+      "src": "/images/stays/19664879/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2h070t000000iqu2x5937.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "1、在葛嶺步道旁邊，推開陽台門，入木就是後山竹林，特別喜歡。 2、來莫干山還是自駕吧，打車沒有那麼方便，去哪都有點距離，開車十分鐘-半小時。 3、我們四個很佛系，衹想躺平，所以叫老闆娘推薦了釣魚摘果子的地方，都很不錯👍 4、有個麻將房，我們正好四個人，每天六七點就回民宿搓麻將了哈哈哈哈，天天搓到十一二點，爽！ 5、最重要的是價格很便宜，在國慶假期真的很難找到3個晚上衹要800/人的民宿了 6、但可能是在山裡，房間很潮，被褥有點潮潮的味道，但老闆娘很及時地幫我們解決了，薅光了民宿剩下的枕頭和被子哈哈哈哈哈",
+      "author": "Guest User",
+      "date": "2023-10-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=19664879&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-19664879&trip_sub3=D19127628"
+    },
+    {
+      "quote": "1、在葛嶺步道旁邊，推開陽台門，入木就是後山竹林，特別喜歡。 2、來莫干山還是自駕吧，打車沒有那麼方便，去哪都有點距離，開車十分鐘-半小時。 3、我們四個很佛系，衹想躺平，所以叫老闆娘推薦了釣魚摘果子的地方，都很不錯👍 4、有個麻將房，我們正好四個人，每天六七點就回民宿搓麻將了哈哈哈哈，天天搓到十一二點，爽！ 5、最重要的是價格很便宜，在國慶假期真的很難找到3個晚上衹要800/人的民宿了 6、但可能是在山裡，房間很潮，被褥有點潮潮的味道，但老闆娘很及時地幫我們解決了，薅光了民宿剩下的枕頭和被子哈哈哈哈哈",
+      "author": "Guest User",
+      "date": "2023-10-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=19664879&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-19664879&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 2,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:13:55.092Z",
+  "source": "trip",
+  "price": {
+    "amount": 82,
+    "currency": "USD",
+    "checkIn": null,
+    "checkOut": null,
+    "pricedAt": "2026-08-08"
+  }
+}

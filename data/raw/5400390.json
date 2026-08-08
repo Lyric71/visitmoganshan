@@ -1,0 +1,64 @@
+{
+  "id": 5400390,
+  "name": "Deqing Joe master farm lodge",
+  "seedName": "Deqing Joe master farm lodge",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5400390",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5400390&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5400390&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Deqing Joe master farm lodge?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 21, shangxiazhuang, lanshukeng village, raftou township, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5400390/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201112000cacaypp318B.jpg"
+    },
+    {
+      "src": "/images/stays/5400390/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205l12000cac877a7C6A.webp"
+    },
+    {
+      "src": "/images/stays/5400390/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200q12000cac7yzxB1B0.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "這裏空氣是真的比城市裡好，沒有污染，天空是一望無際的藍，很美，晚上還能看到星星，來這裏遊玩的人也確實很多，還挺喜歡這裏的生活的，有人間煙火氣.偶爾來旅遊一次還是不錯的.",
+      "author": "Guest User",
+      "date": "2024-04-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5400390&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5400390&trip_sub3=D19127628"
+    },
+    {
+      "quote": "這裏空氣是真的比城市裡好，沒有污染，天空是一望無際的藍，很美，晚上還能看到星星，來這裏遊玩的人也確實很多，還挺喜歡這裏的生活的，有人間煙火氣.偶爾來旅遊一次還是不錯的.",
+      "author": "Guest User",
+      "date": "2024-04-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5400390&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5400390&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 7.5,
+    "count": 2,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:22:39.267Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": 99804100,
+  "name": "Moganshan Fengyin Mountain Residence",
+  "seedName": "Moganshan Fengyin Mountain Residence",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-99804100",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=99804100&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-99804100&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness:Multiple reviews highlight the exceptional cleanliness of rooms and common areas, with meticulous attention to hygiene standards, ensuring a comfortable and sanitary stay.(based on 5 reviews) Service Quality:Staff are described as friendly and attentive, with hosts and caretakers providing warm hospitality. Services include meal preparation options and assistance with local recommendations, enhancing the guest experience.(based on 6 reviews) Free Services:Guests appreciate complimentary breakfast options and flexible check-out policies, though availability may vary based on specific requests and timing.(based on 1 review) Guest Suggestion:Some customers suggest that the check-out time indication is not clear, there are early check-out urgings, and there are issues like not seeing the boss and no breakfast provided(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness",
+        "text": "Multiple reviews highlight the exceptional cleanliness of rooms and common areas, with meticulous attention to hygiene standards, ensuring a comfortable and sanitary stay.",
+        "count": 5
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Staff are described as friendly and attentive, with hosts and caretakers providing warm hospitality. Services include meal preparation options and assistance with local recommendations, enhancing the guest experience.",
+        "count": 6
+      },
+      {
+        "topic": "Free Services",
+        "text": "Guests appreciate complimentary breakfast options and flexible check-out policies, though availability may vary based on specific requests and timing.",
+        "count": 1
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest that the check-out time indication is not clear, there are early check-out urgings, and there are issues like not seeing the boss and no breakfast provided",
+      "count": 2
+    }
+  },
+  "address": "莫干山镇仙潭村碧坞潘家园29号, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/99804100/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200z12000m0811cj4A44.jpg"
+    },
+    {
+      "src": "/images/stays/99804100/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0202512000iu1c3x19DEB.webp"
+    },
+    {
+      "src": "/images/stays/99804100/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5d12000j4xc8mn8F4D.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "特別適合去放鬆，感受真正的慢生活，就像是自己家的房子，住着很舒適安靜，房間打掃的乾乾淨淨，早飯是阿姨自己做的農家飯，很地道，周邊還有日落可以看",
+      "author": "Guest User",
+      "date": "2025-08-30",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=99804100&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-99804100&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間很乾凈舒適，環境超好，阿姨的早餐特好吃，服務態度好，不管是獨居還是親子旅遊，或是團建都是首選，值得推薦",
+      "author": "Guest User",
+      "date": "2025-09-11",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=99804100&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-99804100&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間定得太晚了，房東一直幫忙幫聯繫怎麼開房間怎麼走進房間￼，下雨天路又黑，非常感謝，下次還會住，房間比較大，舒服 我幫人刷了二十年牆壁了，上次在幫一個業主的家刷，突然在刷牆的時候姐姐過來不小心踢倒了我的紫色油漆桶，於是我大喊“我的漆紫！我的漆紫！我的漆紫！”😭😭😭你也許沒有若隱若現的酒窩，但你的微笑一定是月閉花羞，魚沉雁落。在風吹乾你的散發時，我簡直着魔了：在閃閃發光的披肩柔發中，在淡淡入鬢的蛾眉問，在碧水漓漓的眼睛裏……你竟是如此美麗可人！同樣是美女，這個女孩給人最深刻的印象是她眉宇之間有種超越了她年齡的驚人的美麗，淡淡的柳眉分明仔細的修飾過，長長的睫毛忽閃忽閃的象兩把小刷子，亮得讓人覺得刺目的一雙漂亮到心悸的大眼睛，異常的靈動有神。",
+      "author": "Guest User",
+      "date": "2025-06-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=99804100&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-99804100&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 7.3,
+    "count": 14,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:18:53.923Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

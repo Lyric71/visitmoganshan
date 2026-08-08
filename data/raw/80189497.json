@@ -1,0 +1,71 @@
+{
+  "id": 80189497,
+  "name": "Moganshan Yishan Residential Residence",
+  "seedName": "Moganshan Yishan Residential Residence",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-80189497",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=80189497&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-80189497&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Hospitality:Hosts are consistently praised for their warmth, helpfulness, and willingness to assist with requests . Location & Environment:The property is situated in a scenic area with natural beauty , and proximity to local amenities . Cleanliness & Maintenance:Multiple reviews note clean rooms and bathrooms, with some mentioning \"tidy\" or \"neat\" conditions. Facilities:Some reviews highlight the availability of private bathrooms in each room, and a karaoke area in the lobby. Additional Services:Hosts occasionally provide complimentary breakfast items and seasonal treats .",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "莫干山镇仙潭村郎家20号, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Cafe"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/80189497/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2h12000j272fopA725.jpg"
+    },
+    {
+      "src": "/images/stays/80189497/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02018120009rjh8bf25C0.webp"
+    },
+    {
+      "src": "/images/stays/80189497/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD4512000au2fog0413F.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "包了整棟房子，房子有3層，一層是大堂，可以K歌，打麻將。2層有4個房間，其中有2個大套間裝修不錯。3層有2個房間。門口有停車位，充電樁。門口還有一條小溪，可以自帶裝備，露營朔溪。還有泳池，不用出門就能玩水。整體硬件還是不錯的，3層露台還能曬衣服，但是細節方面還有待加強。民宿有餐食提供，老闆娘親自燒的，味道不錯。早飯有自家包的的小包子，粥，雞蛋，小菜提供。老闆娘很客氣，有求必應。景點門票可以讓老闆娘買，更優惠。房價再優惠一點就更好了。",
+      "author": "Guest User",
+      "date": "2025-08-18",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=80189497&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-80189497&trip_sub3=D19127628"
+    },
+    {
+      "quote": "一家老老小小十幾口人包了一整棟下來，小孩子從進門游泳一直在泳池玩到第二天離店，老闆娘人很好，別墅內有麻將機，唱歌，投影，非常適合一家人度假放鬆！！",
+      "author": "Guest User",
+      "date": "2025-08-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=80189497&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-80189497&trip_sub3=D19127628"
+    },
+    {
+      "quote": "一路上風景很美，山清水秀。老闆也很熱情，幫忙安排了烤羊，非常棒。能做飯，挖筍，附近可以釣魚，帶孩子來體驗非常棒。",
+      "author": "Guest User",
+      "date": "2026-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=80189497&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-80189497&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.1,
+    "count": 10,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:17:48.408Z",
+  "source": "trip",
+  "price": {
+    "amount": 61,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

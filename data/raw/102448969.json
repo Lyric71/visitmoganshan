@@ -1,0 +1,71 @@
+{
+  "id": 102448969,
+  "name": "Moganshan Liyoujianfangzi Villa (Sanmo Line)",
+  "seedName": "Moganshan Liyoujianfangzi Villa (Sanmo Line)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-102448969",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=102448969&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-102448969&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment and Location:The homestay is near attractions like the thousand-year-old ginkgo and Bidu Longtan, with a pleasant environment suitable for playing and taking photos. It's only a 5-minute walk from Longtan Scenic Area. Facilities:Facilities are complete, including KTV, TV, game consoles, and a swimming pool. The rooms are well-equipped and the space is large. Service Quality:The owner is very nice, responds promptly to inquiries, and makes comprehensive arrangements. They prepare welcome fruits and snacks and take good care of guests. Dining:The owner's cooking is excellent with fresh ingredients, and meals are arranged at the homestay, satisfying guests' dining needs",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "三莫线莫干山·有间房子精品民宿, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/102448969/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0226i12000arixs9b8525.jpg"
+    },
+    {
+      "src": "/images/stays/102448969/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0222b120009oagzf2C648.webp"
+    },
+    {
+      "src": "/images/stays/102448969/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0223i12000arixso44B11.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "性價比超高的一家民宿，裝修有格調，衞生做得很到位，房東熱情好客，菜做的也不錯，體驗感滿分，適合商務應酬及家庭聚會，值得入住！",
+      "author": "Guest User",
+      "date": "2026-04-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=102448969&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-102448969&trip_sub3=D19127628"
+    },
+    {
+      "quote": "此次民宿真是最大的驚喜，乾乾淨淨，地理位置不錯 老闆人好，有廚師👨🏻&zwj;🍳特級證，所以我們兩晚都在民宿吃的，關鍵價格也非常nice",
+      "author": "Guest User",
+      "date": "2026-07-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=102448969&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-102448969&trip_sub3=D19127628"
+    },
+    {
+      "quote": "玩了兩天，公司全員都一致好評，老闆養了不少花花草草，還有兩衹散養的貓，偶爾會過來溜達。房間空間挺大，佈置温馨，打掃的很乾凈。老闆很熱情，手藝真的沒話説，食材新鮮味道也好，吃了一頓之後的用餐都是在民宿安排的。這裏設施也很全面，KTV，電視機，遊戲機都有，有同事本來帶了筆記本準備打遊戲筆記本都沒用上，玩遊戲機去了。這邊離碧塢龍潭景區很近走過去幾分鐘的路程，周圍也有一些餐廳。總體來説非常愉快的一次出遊體驗。",
+      "author": "Guest User",
+      "date": "2025-09-22",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=102448969&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-102448969&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 22,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:27:52.278Z",
+  "source": "trip",
+  "price": {
+    "amount": 61,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": 28362722,
+  "name": "Mogan Mountain Liushe Mountain Guesthouse",
+  "seedName": "Mogan Mountain Liushe Mountain Guesthouse",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-28362722",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=28362722&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-28362722&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Mogan Mountain Liushe Mountain Guesthouse?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Moganshan town houwu village temple dock, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/28362722/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2B0413000000trf3g437E.jpg"
+    },
+    {
+      "src": "/images/stays/28362722/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0581012000sp3ei250124.webp"
+    },
+    {
+      "src": "/images/stays/28362722/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200314000000vpaf3DE11.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "我們十幾個人整租的，環境很好，後面就是一大片竹林，我們還去挖了竹筍，非常開心！房間非常乾淨，老闆人非常好，老闆娘燒菜也很好吃。我們自帶的燒烤食材，老闆很熱心的幫我們準備的燒烤工具👍🏻",
+      "author": "Guest User",
+      "date": "2024-05-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=28362722&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-28362722&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間佈置的很漂亮，風格簡約，非常乾淨，入住體驗不錯；民宿的位置去景區方便，性價比很高； 老闆娘做飯味道好，色香味俱全，大家一致評價非常滿意，老闆幫安排的燒烤也很好，還特意地把材料醃製好，一次不錯的體驗； 值得推薦，下次有機會必須還是這一家",
+      "author": "Guest User",
+      "date": "2023-08-30",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=28362722&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-28362722&trip_sub3=D19127628"
+    },
+    {
+      "quote": "我們一行人入住體驗感很好，民宿乾淨衞生，老闆熱情，老闆娘做飯手藝也不錯，食材也很新鮮，臨走時還買了老闆娘推薦的竹筍乾，太棒了^O^",
+      "author": "Guest User",
+      "date": "2023-08-14",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=28362722&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-28362722&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 3,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:14:21.674Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

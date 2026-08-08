@@ -1,0 +1,85 @@
+{
+  "id": 5007739,
+  "name": "Mogan Mountain Bamboo House Yard",
+  "seedName": "Mogan Mountain Bamboo House Yard",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5007739",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5007739&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5007739&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service:The owners are enthusiastic and hospitable, providing travel suggestions and assistance(based on 71 reviews) Facilities:Rich facilities include swimming pool, billiards table, arcade machine, etc.(based on 16 reviews) Hygiene:Rooms are clean and tidy, and the overall environment is warm and distinctive(based on 49 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service",
+        "text": "The owners are enthusiastic and hospitable, providing travel suggestions and assistance",
+        "count": 71
+      },
+      {
+        "topic": "Facilities",
+        "text": "Rich facilities include swimming pool, billiards table, arcade machine, etc.",
+        "count": 16
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Rooms are clean and tidy, and the overall environment is warm and distinctive",
+        "count": 49
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Houcun Village Group, Liaoyuan Village, Moganshan Town, Deqing, Zhejiang, 311400, China",
+  "priceRange": "From US$45",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/5007739/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200z12000s3gfyss307F.jpg"
+    },
+    {
+      "src": "/images/stays/5007739/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc7212000r0x8qzlE3AD.webp"
+    },
+    {
+      "src": "/images/stays/5007739/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205s12000qsj004pDA3B.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The younger boss lady has big intention to do well hotel. Thanks with go fighting.",
+      "author": "Guest User",
+      "date": "2025-10-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5007739&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5007739&trip_sub3=D19127628"
+    },
+    {
+      "quote": "A lovely place. Tranquil, comfortable and pretty, with a distinctive traditional character. The owner is very helpful and friendly, and speaks English very well. Conveniently located for the town and its restaurants too.",
+      "author": "Buyuanyisiyideyigezi",
+      "date": "2024-05-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5007739&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5007739&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I stayed at Zhushe Yard with my kids during the May Day holiday. The stay was great. The room was very clean. The proprietress and the boss were very kind and treated the guests like family. The breakfast was also...",
+      "author": "Anonymous User",
+      "date": "2024-05-15",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5007739&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5007739&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 173,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:22:13.837Z",
+  "source": "trip",
+  "price": {
+    "amount": 45,
+    "currency": "USD",
+    "checkIn": null,
+    "checkOut": null,
+    "pricedAt": "2026-08-08"
+  }
+}

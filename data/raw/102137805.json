@@ -1,0 +1,62 @@
+{
+  "id": 102137805,
+  "name": "Dewang Mountain Residence Chinese Inn (Ziling Tunnel No. 2)",
+  "seedName": "Dewang Mountain Residence Chinese Inn (Ziling Tunnel No. 2)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-102137805",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=102137805&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-102137805&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Dewang Mountain Residence Chinese Inn (Ziling Tunnel No. 2)?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "紫岭隧道德清县莫干山镇紫岭村村委会莫干山紫岭村东50米德旺山居, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/102137805/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0583b12000t0bshd3D150.jpg"
+    },
+    {
+      "src": "/images/stays/102137805/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0583b12000t0bshd3D150.webp"
+    },
+    {
+      "src": "/images/stays/102137805/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2p12000ej2o6du4601.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "非常差的一次住宿體驗，訂了兩晚，第一晚我們入住了，衞生間漏水，洗浴物品放在花灑下面掉下了砸到人，房屋衞生差，和店家説第二天不住，店家説要和平台説，和平台溝通，平台説店家不肯，來回踢皮球，可惡！",
+      "author": "Guest User",
+      "date": "2026-04-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=102137805&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-102137805&trip_sub3=D19127628"
+    },
+    {
+      "quote": "非常差的一次住宿體驗，訂了兩晚，第一晚我們入住了，衞生間漏水，洗浴物品放在花灑下面掉下了砸到人，房屋衞生差，和店家説第二天不住，店家説要和平台説，和平台溝通，平台説店家不肯，來回踢皮球，可惡！",
+      "author": "Guest User",
+      "date": "2026-04-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=102137805&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-102137805&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 5.8,
+    "count": 3,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:23:50.149Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

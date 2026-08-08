@@ -1,0 +1,71 @@
+{
+  "id": 133621672,
+  "name": "梦马MOMA·野到家民宿(莫干山集散中心店)",
+  "seedName": "梦马MOMA·野到家民宿(莫干山集散中心店)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-133621672",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=133621672&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-133621672&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at 梦马MOMA·野到家民宿(莫干山集散中心店)?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Room 104, Building 38, Yunxi Courtyard, Sanmo Route, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Laundry room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/133621672/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4x12000s8tomd26BC8.jpg"
+    },
+    {
+      "src": "/images/stays/133621672/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0r12000s8tvydpE415.webp"
+    },
+    {
+      "src": "/images/stays/133621672/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc7312000s8tt98774C0.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The room is quite spacious.",
+      "author": "Guest User",
+      "date": "2026-08-03",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=133621672&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-133621672&trip_sub3=D19127628"
+    },
+    {
+      "quote": "暑假帶娃來莫干山我覺得可以選擇住這家，房間空間超大，榻榻米設計小朋友直接玩嗨了，賴在上面不肯下來。客廳還有投影，晚上窩着看電影氛圍感拉滿。老闆服務真的沒得挑，提前就發了超詳細的入住指引，我們到停車場還特意過來接應，幫忙搬行李，特別貼心。娃突然想喝牛奶，老闆二話不説幫忙出去買，周邊好吃好玩的都給我們安排得明明白白，連遊玩門票都幫忙搞定，全程不用自己操心。一家人住得舒心又自在！",
+      "author": "Guest User",
+      "date": "2026-08-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=133621672&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-133621672&trip_sub3=D19127628"
+    },
+    {
+      "quote": "我們剛從莫干山上下來，在旅遊集散中心找了這家最近的民宿，停車方便，累了一天就想就近休息，本來沒抱太高期待，結果體驗感滿滿的！房間打掃得乾乾淨淨，床品軟乎乎的，躺上去特別舒服，爬山的疲憊一下子就緩過來了。店家細節做得很用心，木頭鑰匙拿在手裡很有質感，小巧又有意思。傍晚坐在露台上吹着山風，居然剛好撞見超美的莫干山晚霞，慢悠悠坐着放空，整個人都放鬆下來了！",
+      "author": "Guest User",
+      "date": "2026-08-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=133621672&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-133621672&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 6.8,
+    "count": 11,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:21:50.495Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

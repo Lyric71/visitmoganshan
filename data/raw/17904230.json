@@ -1,0 +1,72 @@
+{
+  "id": 17904230,
+  "name": "Hanlu Inn",
+  "seedName": "Hanlu Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-17904230",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=17904230&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-17904230&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Hanlu Inn?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Liaoyuan village center village, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/17904230/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2h0v0r000000hi0tyEFA3.jpg"
+    },
+    {
+      "src": "/images/stays/17904230/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2h090r000000h9w27F62D.webp"
+    },
+    {
+      "src": "/images/stays/17904230/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0584p12000sqbwcjdBF94.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "環境氛圍感很棒，服務貼心，老闆娘特別和善，有需求都會及時幫忙解決，性價比很高，下次還會入住這裏，值得推薦。",
+      "author": "Guest User",
+      "date": "2026-08-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=17904230&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-17904230&trip_sub3=D19127628"
+    },
+    {
+      "quote": "位置很好，距離凱樂石莫干山起跑點很近，老闆大哥特別熱情，因為住的都是參加越野賽的人，有的人100公里，有的70有的35，起跑時間不一樣，老闆特別用心給每一位參賽人員準備營養早餐。離店打車，老闆還幫忙把行李放車後備箱。值得推薦！",
+      "author": "Guest User",
+      "date": "2025-10-25",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=17904230&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-17904230&trip_sub3=D19127628"
+    },
+    {
+      "quote": "環境氛圍感很棒，服務貼心，老闆娘特別和善，有需求都會及時幫忙解決，性價比很高，下次還會入住這裏，值得推薦。",
+      "author": "Guest User",
+      "date": "2026-08-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=17904230&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-17904230&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 10,
+    "count": 9,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:13:27.727Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

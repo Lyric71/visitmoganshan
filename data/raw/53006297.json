@@ -1,0 +1,89 @@
+{
+  "id": 53006297,
+  "name": "Moganshan Jiansu Shanju",
+  "seedName": "Moganshan Jiansu Shanju",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-53006297",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=53006297&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-53006297&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service Quality:The hospitality and warmth of the hosts, particularly the hostess, are frequently praised for being attentive and helpful. Guests highlight the personalized travel recommendations and the effort to make their stay comfortable and enjoyable.(based on 29 reviews) Cleanliness:Rooms are consistently described as clean and tidy, with high-quality toiletries provided. The cleanliness of the accommodations contributes significantly to guests' satisfaction.(based on 20 reviews) Facilities:Although not equipped with high-tech features, the facilities are deemed adequate and comfortable. Amenities such as DIY kitchens, entertainment rooms, and outdoor swings enhance the leisure experience.(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service Quality",
+        "text": "The hospitality and warmth of the hosts, particularly the hostess, are frequently praised for being attentive and helpful. Guests highlight the personalized travel recommendations and the effort to make their stay comfortable and enjoyable.",
+        "count": 29
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms are consistently described as clean and tidy, with high-quality toiletries provided. The cleanliness of the accommodations contributes significantly to guests' satisfaction.",
+        "count": 20
+      },
+      {
+        "topic": "Facilities",
+        "text": "Although not equipped with high-tech features, the facilities are deemed adequate and comfortable. Amenities such as DIY kitchens, entertainment rooms, and outdoor swings enhance the leisure experience.",
+        "count": 2
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 13, Kanshang, Houwu Village, Deqing, Zhejiang, China",
+  "priceRange": "From US$59",
+  "facilities": [
+    "Billiards room",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/53006297/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200i1a00000197p3206AA.jpg"
+    },
+    {
+      "src": "/images/stays/53006297/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200i1a00000197p3206AA.webp"
+    },
+    {
+      "src": "/images/stays/53006297/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200i120008p2bbjrEDD7.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "後塢村的民宿體驗中，老闆的細緻與熱情令人印象深刻。從入住諮詢到離店，她始終保持專業且親和的態度，提供莫干山徒步路線攻略，經驗豐富，為行程規劃省去諸多周折。客房佈置簡約乾淨，傢俱與自然採光營造出舒適的山居氛圍。雖未參與徒步活動，但能感受到她對在地資源的熟稔與分享意願 ，這份恰到好處的周到，讓民宿成為探索莫干山的温馨落腳點。 貓很可愛",
+      "author": "Guest User",
+      "date": "2025-06-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=53006297&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-53006297&trip_sub3=D19127628"
+    },
+    {
+      "quote": "沒做攻略，就想找個民宿放鬆一下，看了評論選了這家，真的是超超預期！！一杯茶，曬太陽，聊聊天可以過一下午，手機都不會想摸一下，老闆娘還會帶着我們在村裡轉轉，有空還可以領着去山上，無腦跟，完全不用攻略！ 老闆娘看我們帶小朋友給升級了雙床房，房間整體説中規中矩，乾淨衞生，沒有什麼智能設施，但是我們晚上睡的很好，帶着小朋友晚上九點一直睡到早上七點多，很安靜！！ 總之在這裏吃的美玩的好睡得香！我們過了一個特別放鬆自在的週末，等明年暑假再去，可以帶小朋友玩水！！",
+      "author": "Guest User",
+      "date": "2025-01-12",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=53006297&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-53006297&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間乾淨整潔，洗髮水沐浴露質量好，老闆娘熱情好客，還送了多肉植物，周邊環境適合休閑度假，這次選擇了簡宿山居沒讓我們失望，下次還預訂這裏",
+      "author": "Guest User",
+      "date": "2024-11-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=53006297&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-53006297&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 42,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:16:17.658Z",
+  "source": "trip",
+  "price": {
+    "amount": 59,
+    "currency": "USD",
+    "checkIn": null,
+    "checkOut": null,
+    "pricedAt": "2026-08-08"
+  }
+}

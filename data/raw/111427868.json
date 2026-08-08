@@ -1,0 +1,69 @@
+{
+  "id": 111427868,
+  "name": "Moganshan Qingfeng Xulai Homestay (Laoling Village)",
+  "seedName": "Moganshan Qingfeng Xulai Homestay (Laoling Village)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-111427868",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=111427868&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-111427868&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Qingfeng Xulai Homestay (Laoling Village)?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "莫干山镇劳岭村鸭潭坞39号, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/111427868/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0202a12000bvzusnl2E3C.jpg"
+    },
+    {
+      "src": "/images/stays/111427868/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1m12000bwa5khbAC25.webp"
+    },
+    {
+      "src": "/images/stays/111427868/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0j12000sx7d8vb5EB0.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "這民宿值得推薦，衞生乾淨整潔，現在剛好是挖筍，民宿後面就直接可以上山去挖，很好的體驗，到網紅打卡地方也很方便，很出片的哦！帶上家人一起非常不錯的選擇👍",
+      "author": "Anonymous User",
+      "date": "2026-04-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=111427868&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-111427868&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿很不錯，採光很好，都是全景落地窗，而且院子也是生機勃勃，有泳池，我們定了私湯房，老闆娘很熱情，做的早餐都是現做的新鮮食材，很好吃！ 還去了周邊庾村廣場，莫干山風景區玩，都很不錯，喜歡看看風景休閑的可以來玩～",
+      "author": "Xinerxiner",
+      "date": "2026-01-14",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=111427868&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-111427868&trip_sub3=D19127628"
+    },
+    {
+      "quote": "本來不想點評的，主要確實出乎我的意料了！ 首先地址位置很好！距離周邊遊玩景點都很近！民宿房間不多6間，比較適合包棟！早餐也很好吃！關鍵是還有泳池，圍爐煮茶，私湯房間！ 下次還會再來，最後附上它家周邊遊玩景點和咖啡店圖",
+      "author": "Zezezeze...",
+      "date": "2026-01-11",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=111427868&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-111427868&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 18,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:19:26.780Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

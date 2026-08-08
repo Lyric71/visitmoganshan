@@ -1,0 +1,87 @@
+{
+  "id": 114007992,
+  "name": "Yier · Rainbow Courtyard",
+  "seedName": "Yier · Rainbow Courtyard",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-114007992",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=114007992&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-114007992&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Food Quality:Consistently praised for homemade, fresh breakfast and evening meals .(based on 2 reviews) Environment & Facilities:Rooms feature smart bathrooms, new air systems, and spacious private balconies with panoramic views. Outdoor amenities include a swimming pool, garden, small animals, and a stream for water activities.(based on 3 reviews) Service Attitude:Hosts are described as warm, attentive, and proactive .(based on 8 reviews) Location & Atmosphere:Quiet, secluded setting with natural elements and easy access to nearby attractions.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Food Quality",
+        "text": "Consistently praised for homemade, fresh breakfast and evening meals .",
+        "count": 2
+      },
+      {
+        "topic": "Facilities",
+        "text": "Rooms feature smart bathrooms, new air systems, and spacious private balconies with panoramic views. Outdoor amenities include a swimming pool, garden, small animals, and a stream for water activities.",
+        "count": 3
+      },
+      {
+        "topic": "Service Attitude",
+        "text": "Hosts are described as warm, attentive, and proactive .",
+        "count": 8
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "莫干山镇仙潭村郎家村4号, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/114007992/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200412000eg0cqao760B.jpg"
+    },
+    {
+      "src": "/images/stays/114007992/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4g12000cftthlnF270.webp"
+    },
+    {
+      "src": "/images/stays/114007992/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3p12000cfttqex1D8A.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "老闆家燒的菜好好吃，雞湯美味😋，特別熱情的招待我們，小朋友在這裏住的很開心，小院子維護的很好在這裏休息很愜意，小院前面還有小溪可以玩水，有機會再來",
+      "author": "Guest User",
+      "date": "2025-05-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=114007992&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-114007992&trip_sub3=D19127628"
+    },
+    {
+      "quote": "老闆家燒的菜好好吃，雞湯美味😋，特別熱情的招待我們，小朋友在這裏住的很開心，小院子維護的很好在這裏休息很愜意，小院前面還有小溪可以玩水，有機會再來",
+      "author": "Guest User",
+      "date": "2025-05-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=114007992&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-114007992&trip_sub3=D19127628"
+    },
+    {
+      "quote": "環境很好，有桌球，唱歌，麻將桌，游泳池，還有一些小動物，門口還有一顆超大的拐棗樹 老闆娘的早餐很豐富，今天早餐還吃到了親手現包的薺菜餛燉和自製的辣椒醬，以及自己家種植的糯玉米。饅頭也是自己做的。就喜歡這種健康的食物。每天都有粥和小菜，雞蛋。吃的飽飽的。 小朋友要游泳，老闆娘超級熱情，幫忙游泳圈吹氣，撈泳池的漂浮物，開水循環，哎呀，忙前忙後的，都不好意思了 兩口子開的民宿，是在認認真真的做民宿",
+      "author": "Guest User",
+      "date": "2024-10-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=114007992&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-114007992&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 10,
+    "count": 19,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:20:03.161Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": 6616580,
+  "name": "Moganshan yi xin xuan inn",
+  "seedName": "Moganshan yi xin xuan inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-6616580",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6616580&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6616580&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan yi xin xuan inn?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No.38 Yujia, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Cardroom"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/6616580/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD0s120009f5tx4j0410.jpg"
+    },
+    {
+      "src": "/images/stays/6616580/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20090g00000086edsB712.webp"
+    },
+    {
+      "src": "/images/stays/6616580/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD0c120009f5rur9332E.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "房間超大，乾淨整潔，還安靜。地理位置優越，離鎮中心庾村廣場步行不到5分鐘。老闆娘人非常nice",
+      "author": "Ziyousheshouzuo",
+      "date": "2026-04-12",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6616580&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6616580&trip_sub3=D19127628"
+    },
+    {
+      "quote": "實際房間比圖片看着好很多，老闆人很好，下次去還住這裏，也會推薦給身邊朋友。 希望衞生服務更上一層樓，越來越好",
+      "author": "Guest User",
+      "date": "2025-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6616580&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6616580&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間超大，乾淨整潔，還安靜。地理位置優越，離鎮中心庾村廣場步行不到5分鐘。老闆娘人非常nice",
+      "author": "Ziyousheshouzuo",
+      "date": "2026-04-12",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6616580&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6616580&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 6,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:09:15.123Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

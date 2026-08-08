@@ -1,0 +1,57 @@
+{
+  "id": 111584973,
+  "name": "XiaMuxia Villa (Daifang Line No. 1)",
+  "seedName": "XiaMuxia Villa (Daifang Line No. 1)",
+  "city": "Huzhou",
+  "cityId": 86,
+  "goSlug": "moganshan-111584973",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=111584973&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-111584973&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at XiaMuxia Villa (Daifang Line No. 1)?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "埭芳线木叶夏 (洋家乐), Wuxing District, Huzhou, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/111584973/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0221b12000bqhzxne60A1.jpg"
+    },
+    {
+      "src": "/images/stays/111584973/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0221b12000bqhzxne60A1.webp"
+    },
+    {
+      "src": "/images/stays/111584973/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0585i12000t08f63sDD7C.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "民宿很棒，服務也不錯，很適合團隊聚會和建設 [民宿給我的小驚喜]你需要的他們都可以提供哦 有求必應。",
+      "author": "Guest User",
+      "date": "2024-09-18",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=111584973&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-111584973&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 1,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:30:08.552Z",
+  "source": "trip",
+  "price": {
+    "amount": 52,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

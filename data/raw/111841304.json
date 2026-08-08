@@ -1,0 +1,43 @@
+{
+  "id": 111841304,
+  "name": "Shalong Gem Home Villa (Huangfu East Road No. 2)",
+  "seedName": "Shalong Gem Home Villa (Huangfu East Road No. 2)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-111841304",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=111841304&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-111841304&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Shalong Gem Home Villa (Huangfu East Road No. 2)?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "黄郛东路黄郛东路205, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/111841304/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0226s12000azqmgnjC2E3.jpg"
+    },
+    {
+      "src": "/images/stays/111841304/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0226s12000azqmgnjC2E3.webp"
+    },
+    {
+      "src": "/images/stays/111841304/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5o12000lyczt9c5A9E.webp"
+    }
+  ],
+  "comments": [],
+  "rating": null,
+  "sourcedAt": "2026-08-08T16:27:07.081Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

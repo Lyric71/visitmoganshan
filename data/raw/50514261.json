@@ -1,0 +1,82 @@
+{
+  "id": 50514261,
+  "name": "Moganshan Qingchenli Homestay",
+  "seedName": "Moganshan Qingchenli Homestay",
+  "city": "Huzhou",
+  "cityId": 86,
+  "goSlug": "moganshan-50514261",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=50514261&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-50514261&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Environment:Situated near scenic spots, surrounded by bamboo forests, streams, and tranquil landscapes. The property features a large courtyard and Mediterranean-style exterior with minimalist Nordic interiors.(based on 1 review) Service Quality:Hosts are consistently praised for their warm, attentive service, including personalized recommendations .(based on 4 reviews) Aesthetic Appeal:Ins-style decor, photogenic spaces, and natural elements enhance the overall ambiance. Family-Friendly Features:Suitable for families, with spacious layouts, kid-friendly activities, and abundant breakfast options.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Situated near scenic spots, surrounded by bamboo forests, streams, and tranquil landscapes. The property features a large courtyard and Mediterranean-style exterior with minimalist Nordic interiors.",
+        "count": 1
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Hosts are consistently praised for their warm, attentive service, including personalized recommendations .",
+        "count": 4
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "埭溪镇芳山村黄泥山52号, Wuxing District, Huzhou, Zhejiang, China",
+  "priceRange": "From US$148",
+  "facilities": [
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/50514261/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0204l120009sldvrb89CB.jpg"
+    },
+    {
+      "src": "/images/stays/50514261/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0204e120008f58f0l77BC.webp"
+    },
+    {
+      "src": "/images/stays/50514261/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201v120008f58hxt7478.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "6號入住簡直包場體驗 民宿老闆娘人也超級好 雖然就我一個人還是貼心的準備早餐 連我臨出發的午餐都塞給我一個麪包 感動 下次有機會要推薦給更多朋友 酒店整體景觀也超級棒 還幫我升級了房型",
+      "author": "Guest User",
+      "date": "2023-10-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=50514261&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-50514261&trip_sub3=D19127628"
+    },
+    {
+      "quote": "非常好的體驗哦，老闆娘很熱心，ins風給人感覺非常浪漫，房間蠻乾淨的，特別是三層工業風那個落地窗好大，老婆睡到中午沒吃早飯臨走時老闆娘還特地拿了兩盒牛奶給她，門口有停車還有個充電樁，很方便",
+      "author": "🤩yirongweiyao²⁰¹⁷",
+      "date": "2023-09-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=50514261&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-50514261&trip_sub3=D19127628"
+    },
+    {
+      "quote": "6號入住簡直包場體驗 民宿老闆娘人也超級好 雖然就我一個人還是貼心的準備早餐 連我臨出發的午餐都塞給我一個麪包 感動 下次有機會要推薦給更多朋友 酒店整體景觀也超級棒 還幫我升級了房型",
+      "author": "Guest User",
+      "date": "2023-10-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=50514261&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-50514261&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 10,
+    "count": 8,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:28:29.019Z",
+  "source": "trip",
+  "price": {
+    "amount": 148,
+    "currency": "USD",
+    "checkIn": null,
+    "checkOut": null,
+    "pricedAt": "2026-08-08"
+  }
+}

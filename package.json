@@ -20,6 +20,7 @@
     "icons": "node scripts/build-icons.mjs",
     "hooks:install": "node scripts/install-hooks.mjs",
     "stays:collect": "node scripts/collect-stays.mjs",
+    "stays:prices": "node scripts/collect-prices.mjs",
     "stays:build": "node scripts/build-stays.mjs",
     "stays:validate": "node scripts/validate-stays.mjs",
     "stays:img": "node scripts/optimize-stay-images.mjs",

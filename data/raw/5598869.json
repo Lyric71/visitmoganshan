@@ -1,0 +1,92 @@
+{
+  "id": 5598869,
+  "name": "Pingyueju Inn",
+  "seedName": "Pingyueju Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5598869",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5598869&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5598869&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness:Rooms, sheets, and bathrooms were consistently described as clean and well-maintained.(based on 9 reviews) Host Friendliness:Hosts were repeatedly praised for their warmth, helpfulness, and willingness to accommodate dietary needs . Breakfast Quality:Meals were highlighted as abundant, flavorful, and featuring local specialties .(based on 7 reviews) Location & Environment:Situated in a peaceful, nature-oriented area , with easy access to shops and restaurants.(based on 4 reviews) Accessibility:Proximity to transportation hubs and assistance with local logistics .(based on 4 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms, sheets, and bathrooms were consistently described as clean and well-maintained.",
+        "count": 9
+      },
+      {
+        "topic": "Host Friendliness",
+        "text": "Hosts were repeatedly praised for their warmth, helpfulness, and willingness to accommodate dietary needs . Breakfast Quality:Meals were highlighted as abundant, flavorful, and featuring local specialties .",
+        "count": 7
+      },
+      {
+        "topic": "Environment",
+        "text": "Situated in a peaceful, nature-oriented area , with easy access to shops and restaurants.",
+        "count": 4
+      },
+      {
+        "topic": "Accessibility",
+        "text": "Proximity to transportation hubs and assistance with local logistics .",
+        "count": 4
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Houwu Village, Deqing, Zhejiang, China",
+  "priceRange": "From US$36",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5598869/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0583a12000sqk967p5AB4.jpg"
+    },
+    {
+      "src": "/images/stays/5598869/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200j060000001pqs2C8F9.webp"
+    },
+    {
+      "src": "/images/stays/5598869/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD3a120009f56pqj8BC5.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The place is clean and spacious. I got a room with a great view on the mountain. The owners are polite and helpful, they even exchanged helped me with se coins for the bus, since my alipay card wouldn't work...",
+      "author": "Guest User",
+      "date": "2023-10-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5598869&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5598869&trip_sub3=D19127628"
+    },
+    {
+      "quote": "This was a very honest place. Homestay in the heart of the village, close to shops and restaurants. Room was located at the back of the property. You have to go past the kitchen to access it. Room is small...",
+      "author": "SoloWonders",
+      "date": "2023-08-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5598869&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5598869&trip_sub3=D19127628"
+    },
+    {
+      "quote": "環境可以 離我們要去的景區很近 停車也方便 遇到節假日出來車有點多 晚上就在民宿吃的 兩個人三個菜剛好 口味也很不錯 老闆推薦的魚 但吃不下了 説是第二天有早餐 我們8:00起來出門 也沒看到有 無傷大雅 正好這兩天下雨 房間也不算特別潮濕 因為附近都滿房了 衹能定這邊 晚上夜景也很好看",
+      "author": "Fengkuangdexiaoyu",
+      "date": "2026-06-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5598869&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5598869&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 26,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:07:11.565Z",
+  "source": "trip",
+  "price": {
+    "amount": 36,
+    "currency": "USD",
+    "checkIn": null,
+    "checkOut": null,
+    "pricedAt": "2026-08-08"
+  }
+}

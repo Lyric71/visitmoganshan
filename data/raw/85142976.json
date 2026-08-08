@@ -1,0 +1,69 @@
+{
+  "id": 85142976,
+  "name": "Fangdong Lingge Villa (Zhuyuan Road No.1)",
+  "seedName": "Fangdong Lingge Villa (Zhuyuan Road No.1)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-85142976",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=85142976&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-85142976&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Transportation:Located within the resort, with shuttle buses to various locations, convenient for travel, suitable for family trips and easy access to scenic spots like Moganshan Scenic Area, etc. Facilities:Facilities are complete, such as fully equipped kitchens, large living rooms with mahjong tables, complete bathroom facilities, etc. Each room has heating, and there are various entertainment facilities like billiards and mahjong tables Hygiene & Environment:Houses are clean and tidy, spacious and bright, with fresh mountain air, quiet at night, and good living environment Living Experience:Rooms are well-designed, with good room types, each room has heating, comfortable to live in, and the host provides many living supplies, with thoughtful housekeeping services",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "竹源路莫干山郡安里君澜度假酒店莫干山郡安里度假酒店, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/85142976/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0221i12000asaj3keAAD6.jpg"
+    },
+    {
+      "src": "/images/stays/85142976/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1re6m12000b87h4ih2D60.webp"
+    },
+    {
+      "src": "/images/stays/85142976/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0221i12000asaj3keAAD6.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "車停在去停車場，需要叫接駁車從停車場送到別墅，房間很寬敞，電視劇可以投票，衞生也可以的。泳池沒水，房間的水壓真的是一個大問題，一個廁所用勉強可以，三個廁所同時完全用不了，圖片是有一個人在洗澡的時候另一個廁所水池的水壓。吹風機1200w，典型的聲音大燙頭皮還吹不乾的老吹風機，長髮女生建議自備吹風機。二樓房間wifi信號不穩定。",
+      "author": "Guest User",
+      "date": "2026-04-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=85142976&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-85142976&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿位於酒店內，有接駁車接送到酒店各個位置，性價比相對酒店有明顯優勢，三個套間互不幹擾，很適合全家老小一起出遊",
+      "author": "Guest User",
+      "date": "2025-11-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=85142976&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-85142976&trip_sub3=D19127628"
+    },
+    {
+      "quote": "舉家莫干山過新年，這次的入住體驗超級棒，房型很好，每個房間都有地暖，完全不冷。廚房的設備很齊全，衹要帶好食材就可以了。客廳很大，還有麻將桌，休閑時來一把很開心。衞生間設備齊全，每個衞生間都有吹風機。管家服務也很全面，超級貼心。",
+      "author": "Guest User",
+      "date": "2026-02-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=85142976&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-85142976&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 71,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:23:22.904Z",
+  "source": "trip",
+  "price": {
+    "amount": 61,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

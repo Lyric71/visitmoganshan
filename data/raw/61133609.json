@@ -1,0 +1,45 @@
+{
+  "id": 61133609,
+  "name": "Xiwan Shanju Hotel",
+  "seedName": "Xiwan Shanju Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-61133609",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=61133609&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-61133609&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness and Facilities:Rooms are consistently described as clean, tidy, and well-maintained, with a home-like atmosphere. The breakfast options are diverse and flavorful, featuring locally appreciated dishes that add to the comfort of the stay. Service and Atmosphere:The hosts are noted for their attentiveness and friendliness, contributing to a welcoming environment. The overall ambiance is peaceful, with fresh air and quiet surroundings that promote relaxation and a sense of tranquility.",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Taihe New Village, Nanlu Village, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/61133609/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0204g120008if3mgf5EC7.jpg"
+    },
+    {
+      "src": "/images/stays/61133609/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02042120008if433o2518.webp"
+    },
+    {
+      "src": "/images/stays/61133609/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200t120008if3yy3E138.webp"
+    }
+  ],
+  "comments": [],
+  "rating": null,
+  "sourcedAt": "2026-08-08T16:16:23.625Z",
+  "source": "trip",
+  "price": {
+    "amount": 61,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

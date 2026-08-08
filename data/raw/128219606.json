@@ -75,5 +75,12 @@
     "scale": 10
   },
   "sourcedAt": "2026-08-08T15:27:59.945Z",
-  "source": "trip"
+  "source": "trip",
+  "price": {
+    "amount": 59,
+    "currency": "USD",
+    "checkIn": null,
+    "checkOut": null,
+    "pricedAt": "2026-08-08"
+  }
 }

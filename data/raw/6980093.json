@@ -1,0 +1,55 @@
+{
+  "id": 6980093,
+  "name": "Moganshan yue to inn",
+  "seedName": "Moganshan yue to inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-6980093",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6980093&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6980093&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan yue to inn?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Xiantan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/6980093/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200j0h00000092gj079C4.jpg"
+    },
+    {
+      "src": "/images/stays/6980093/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200q0h00000091sum59FC.webp"
+    },
+    {
+      "src": "/images/stays/6980093/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200j0h00000092gj079C4.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "衞生：乾淨整潔 環境：離碧塢景區很近，旁邊🈶小溪，很美",
+      "author": "Guest User",
+      "date": "2024-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6980093&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6980093&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.6,
+    "count": 2,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:09:47.893Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

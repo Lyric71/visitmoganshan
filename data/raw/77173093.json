@@ -1,0 +1,45 @@
+{
+  "id": 77173093,
+  "name": "Moganshan Shilu·Jia Homestay",
+  "seedName": "Moganshan Shilu·Jia Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-77173093",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=77173093&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-77173093&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Shilu·Jia Homestay?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "莫干山镇瑶坞村32号, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Cardroom"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/77173093/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02043120009m7w9k3D7F6.jpg"
+    },
+    {
+      "src": "/images/stays/77173093/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206l120009wwp5reFA61.webp"
+    },
+    {
+      "src": "/images/stays/77173093/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0582012000spfevw89ED5.webp"
+    }
+  ],
+  "comments": [],
+  "rating": null,
+  "sourcedAt": "2026-08-08T16:17:01.535Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

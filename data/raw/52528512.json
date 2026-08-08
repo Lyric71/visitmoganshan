@@ -1,0 +1,69 @@
+{
+  "id": 52528512,
+  "name": "Moganshan Yufengshan Residence",
+  "seedName": "Moganshan Yufengshan Residence",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-52528512",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=52528512&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-52528512&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Yufengshan Residence?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "莫干山镇仙潭村碧坞58号, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/52528512/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6u12000baotrhkEDFC.jpg"
+    },
+    {
+      "src": "/images/stays/52528512/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4k12000baot5hxDBBD.webp"
+    },
+    {
+      "src": "/images/stays/52528512/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1512000baojr2s749E.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "來參加越野賽，這家民宿在活動旁邊，就預訂了這家。下大雨比預計的晚到，地鐵上很吵，就在網上與店家溝通晚上等我入住，回覆的很快。第二天早上推開門很美，房間有個小露台。老闆娘非常熱情友善，告訴我怎麼坐車，還拿了水果給我吃，謝謝～",
+      "author": "Guest User",
+      "date": "2026-05-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=52528512&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-52528512&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間乾淨整潔，物品齊全，周圍環境還不錯，有山有水，吃飯的店也多。老闆娘也很熱情，介紹了很多情況。",
+      "author": "Guest User",
+      "date": "2025-09-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=52528512&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-52528512&trip_sub3=D19127628"
+    },
+    {
+      "quote": "來參加越野賽，這家民宿在活動旁邊，就預訂了這家。下大雨比預計的晚到，地鐵上很吵，就在網上與店家溝通晚上等我入住，回覆的很快。第二天早上推開門很美，房間有個小露台。老闆娘非常熱情友善，告訴我怎麼坐車，還拿了水果給我吃，謝謝～",
+      "author": "Guest User",
+      "date": "2026-05-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=52528512&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-52528512&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 3,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:15:59.572Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

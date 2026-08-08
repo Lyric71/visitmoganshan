@@ -1,0 +1,55 @@
+{
+  "id": 105497723,
+  "name": "Fangu Homestay (Gaonanxian 2hao)",
+  "seedName": "Fangu Homestay (Gaonanxian 2hao)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-105497723",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=105497723&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-105497723&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Fangu Homestay (Gaonanxian 2hao)?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "高南线梵谷民宿, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/105497723/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0220x12000a33q5tcD1DD.jpg"
+    },
+    {
+      "src": "/images/stays/105497723/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0226212000bvy770j0A87.webp"
+    },
+    {
+      "src": "/images/stays/105497723/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0223k12000bvy5x6v8D9E.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "春節三天，住在莫干山的山裡。 清晨是霧，午後是光，夜裡是滿山的靜。 白天在山裡走走，傍晚泡一池温泉，霧氣升起，人也慢了下來。 酒店不喧嘩，卻很有分寸：房間有温度，服務不打擾，細節都在。 真正讓人驚艷的，是節日裏還能過上這樣的慢日子。 人回城，心還在山裡。",
+      "author": "Jinzhanglaoye",
+      "date": "2026-02-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=105497723&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-105497723&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 1,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:24:39.552Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

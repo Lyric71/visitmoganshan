@@ -1,0 +1,58 @@
+{
+  "id": 6995129,
+  "name": "Mogan Jijingling Boutique Hotel",
+  "seedName": "Mogan Jijingling Boutique Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-6995129",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6995129&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6995129&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Mogan Jijingling Boutique Hotel?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Laoling Village (Lingkengli), Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/6995129/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0580c12000sgvoyqsED44.jpg"
+    },
+    {
+      "src": "/images/stays/6995129/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20010d0000006yjl85273.webp"
+    },
+    {
+      "src": "/images/stays/6995129/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0585312000sqjvf3h836E.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "酒店不錯，裝修風格有特點，提供的早餐也很豐富。",
+      "author": "Guest User",
+      "date": "2025-08-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6995129&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6995129&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 1,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:10:14.081Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

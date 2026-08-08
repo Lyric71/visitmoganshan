@@ -1,0 +1,45 @@
+{
+  "id": 102590728,
+  "name": "Salon Baoshi Zhijia Villa (Zhuyuan Road No. 1)",
+  "seedName": "Salon Baoshi Zhijia Villa (Zhuyuan Road No. 1)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-102590728",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=102590728&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-102590728&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Salon Baoshi Zhijia Villa (Zhuyuan Road No. 1)?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "竹源路莫干山郡安里度假区莫干山郡安里度假酒店, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/102590728/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0225q120009ti0cum4506.jpg"
+    },
+    {
+      "src": "/images/stays/102590728/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0225q120009ti0cum4506.webp"
+    },
+    {
+      "src": "/images/stays/102590728/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02226120009rg3n2t018E.webp"
+    }
+  ],
+  "comments": [],
+  "rating": null,
+  "sourcedAt": "2026-08-08T16:24:33.370Z",
+  "source": "trip",
+  "price": {
+    "amount": 61,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

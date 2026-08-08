@@ -1,0 +1,62 @@
+{
+  "id": 6748144,
+  "name": "Lingshang Jiuyin Manor",
+  "seedName": "Lingshang Jiuyin Manor",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-6748144",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6748144&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6748144&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Lingshang Jiuyin Manor?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No.81 Hujiabang, Sihe Village, Moganshan Town, Deqing, Zhejiang, 313200, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/6748144/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200915000000yocemA240.jpg"
+    },
+    {
+      "src": "/images/stays/6748144/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200b15000000yobv16BA4.webp"
+    },
+    {
+      "src": "/images/stays/6748144/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0585712000sqf0din023E.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "房間都很大，環境也很好，幾個景點也很近！蠻不錯的，房東人很熱情，盡心盡責。我們晚上的燒烤也很好！",
+      "author": "Guest User",
+      "date": "2025-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6748144&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6748144&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間都很大，環境也很好，幾個景點也很近！蠻不錯的，房東人很熱情，盡心盡責。我們晚上的燒烤也很好！",
+      "author": "Guest User",
+      "date": "2025-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6748144&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6748144&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 2,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:09:41.484Z",
+  "source": "trip",
+  "price": {
+    "amount": 61,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

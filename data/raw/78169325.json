@@ -1,0 +1,47 @@
+{
+  "id": 78169325,
+  "name": "Moganshan Weiping Inn",
+  "seedName": "Moganshan Weiping Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-78169325",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=78169325&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-78169325&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Weiping Inn?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "筏头乡后坞村陆家桥23号, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/78169325/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD0b120009fi24529FDF.jpg"
+    },
+    {
+      "src": "/images/stays/78169325/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0204t120009ci459d4115.webp"
+    },
+    {
+      "src": "/images/stays/78169325/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD0b120009fi24529FDF.webp"
+    }
+  ],
+  "comments": [],
+  "rating": {
+    "score": 7.6,
+    "count": 1,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:17:26.661Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

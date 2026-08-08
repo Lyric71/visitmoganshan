@@ -1,0 +1,65 @@
+{
+  "id": 104581757,
+  "name": "Guiyunju 8-Fang Mountain Lodge",
+  "seedName": "Guiyunju 8-Fang Mountain Lodge",
+  "city": "Huzhou",
+  "cityId": 86,
+  "goSlug": "moganshan-104581757",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=104581757&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-104581757&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Guiyunju 8-Fang Mountain Lodge?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Fangshancun Xie Ziyu No. 56, Wuxing District, Huzhou, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/104581757/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5j12000bakyx4j8935.jpg"
+    },
+    {
+      "src": "/images/stays/104581757/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4j12000apmku5v2CEC.webp"
+    },
+    {
+      "src": "/images/stays/104581757/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2l12000aiy98oj9794.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "滿分，很滿意，各方面都很好，老闆人很好，居住環境很乾凈，應該是新裝修的，很新，房間有投影儀，可以手機投屏看電影，停車也方便（直接停在院子裏，很寬敞），房間裏三張床，一家人住特別好，早上有早餐，阿姨做好我們就去吃了，位置離庾村廣場也不算遠，開車幾分鐘就到了，整體好評，下次再去玩還訂",
+      "author": "Guest User",
+      "date": "2025-04-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=104581757&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-104581757&trip_sub3=D19127628"
+    },
+    {
+      "quote": "入住前聯繫老闆，服務很好告訴行程的天氣，也發了定位。房間打掃的很乾凈，有游泳池，孩子玩的很開心，晚上睡覺也不吵，離小鎮也很近。",
+      "author": "Putaobuchixiangcai",
+      "date": "2023-08-30",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=104581757&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-104581757&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.6,
+    "count": 9,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:29:08.883Z",
+  "source": "trip",
+  "price": {
+    "amount": 52,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

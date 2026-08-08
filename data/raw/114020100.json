@@ -1,0 +1,71 @@
+{
+  "id": 114020100,
+  "name": "Qitan Boutique Stay Chinese Inn (Xiaoyuxian Branch)",
+  "seedName": "Qitan Boutique Stay Chinese Inn (Xiaoyuxian Branch)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-114020100",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=114020100&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-114020100&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Qitan Boutique Stay Chinese Inn (Xiaoyuxian Branch)?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "晓于线栖潭美宿, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/114020100/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0223612000ldw4tve6E79.jpg"
+    },
+    {
+      "src": "/images/stays/114020100/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0223612000ldw4tve6E79.webp"
+    },
+    {
+      "src": "/images/stays/114020100/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0224f12000ldw4vm6FF1E.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "在莫干山過了一個很悠閑很滿意的週末，民宿門口停車方便，房間也很乾凈。下午在院子裏燒烤，氣温涼爽，一點也沒有夏天的感覺。晚上睡覺都沒開空調，太舒服了！門口還有小溪可以釣小魚，很有意思。",
+      "author": "Guest User",
+      "date": "2026-06-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=114020100&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-114020100&trip_sub3=D19127628"
+    },
+    {
+      "quote": "一次不錯的體驗，房東態度很好，服務也很到位，有問題會及時給我們解決。房間內的衞生搞得還是挺乾淨的，設施也比較齊全，望出去就是山景，很清新的感覺。",
+      "author": "Guest User",
+      "date": "2025-04-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=114020100&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-114020100&trip_sub3=D19127628"
+    },
+    {
+      "quote": "很好，我們這次包的整棟，自己帶了很多東西，老闆提供的烤爐，有需要也儘可能滿足，很愉快的入住經歷，下次再來",
+      "author": "Guest User",
+      "date": "2026-01-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=114020100&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-114020100&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 7,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:27:21.744Z",
+  "source": "trip",
+  "price": {
+    "amount": 61,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

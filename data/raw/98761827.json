@@ -1,0 +1,87 @@
+{
+  "id": 98761827,
+  "name": "Moganshan Zhuyunyupo Mountain Residue",
+  "seedName": "Moganshan Zhuyunyupo Mountain Residue",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-98761827",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=98761827&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-98761827&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment and Location:The environment is beautiful with fresh air, surrounded by bamboo forests and tea gardens. It has a pleasant view from the windows, suitable for relaxing and family trips. There are activities like digging bamboo shoots and picking tea. (based on 11 reviews) Service Quality:The owners are very enthusiastic and thoughtful, actively greeting guests and providing assistance. (based on 11 reviews) Facilities and Hygiene:Rooms are clean and tidy, some are large with balconies. Breakfast is rich in variety. (based on 25 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment and Location",
+        "text": "The environment is beautiful with fresh air, surrounded by bamboo forests and tea gardens. It has a pleasant view from the windows, suitable for relaxing and family trips. There are activities like digging bamboo shoots and picking tea.",
+        "count": 11
+      },
+      {
+        "topic": "Service Quality",
+        "text": "The owners are very enthusiastic and thoughtful, actively greeting guests and providing assistance.",
+        "count": 11
+      },
+      {
+        "topic": "Facilities and Hygiene",
+        "text": "Rooms are clean and tidy, some are large with balconies. Breakfast is rich in variety.",
+        "count": 25
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "紫岭村夏家湾梅皋坞中村22号, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/98761827/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0y12000laj325oA989.jpg"
+    },
+    {
+      "src": "/images/stays/98761827/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02036120009vl7enb96C6.webp"
+    },
+    {
+      "src": "/images/stays/98761827/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0y12000laj325oA989.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The room was clean and tidy, with a lovely view of a bamboo forest outside the window. It's very quiet here as there aren't many other guesthouses around. Free breakfast is provided in the morning with a good variety of...",
+      "author": "Guest User",
+      "date": "2026-07-26",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=98761827&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-98761827&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間非常乾淨整潔，就像自己家一樣。, 地理位置很優越，房間望出去風景心曠神怡，都是竹林和茶園，老闆娘弄得非常乾淨舒服，早飯也是她自己做的。",
+      "author": "Guest User",
+      "date": "2026-05-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=98761827&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-98761827&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿很不錯，建議直接在高德搜尋，不要用攜程的導航，我們3輛車全部走錯。 老闆和老闆娘很友好，民宿整體環境也很不錯（唯一缺點就是6點有人開始砍竹子，睡眠淺的還是會有影響）。 房間設備也都很好，上樓都要換拖鞋，老闆都維護得很好，很建議這樣做，晚飯也超級好吃，我們12個人是吃的精光，菜都很實在，食材很新鮮，毛贊。 老闆還準備了兩種楊梅，孩子們可喜歡了，味道很鮮美",
+      "author": "christyqiu",
+      "date": "2026-06-15",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=98761827&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-98761827&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 35,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:18:30.203Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

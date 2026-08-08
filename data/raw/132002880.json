@@ -1,0 +1,75 @@
+{
+  "id": 132002880,
+  "name": "Zaiyuanfang Villa (Moganshan Yucun Scenic Area)",
+  "seedName": "Zaiyuanfang Villa (Moganshan Yucun Scenic Area)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-132002880",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=132002880&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-132002880&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service:Contact in advance to arrange the itinerary, help carry luggage, the housekeeper and the shuttle brother are available at any time and reply to messages immediately, thoughtful and meticulous(based on 1 review)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service",
+        "text": "Contact in advance to arrange the itinerary, help carry luggage, the housekeeper and the shuttle brother are available at any time and reply to messages immediately, thoughtful and meticulous",
+        "count": 1
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "晓于线莫干山郡安里3幢103号, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/132002880/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0585b12000sol2z84E78D.jpg"
+    },
+    {
+      "src": "/images/stays/132002880/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0586f12000sokquc3417D.webp"
+    },
+    {
+      "src": "/images/stays/132002880/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3312000sg3kxmpB141.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The rooms are very comfortable and well-equipped, perfect for friends or families traveling together. The view from the window is fantastic and really relaxing. The location is super convenient, close to the water activities and Yau Village. The concierge is...",
+      "author": "Anonymous User",
+      "date": "2026-07-26",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=132002880&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-132002880&trip_sub3=D19127628"
+    },
+    {
+      "quote": "A hidden gem of a B&B in Moganshan's bamboo forest! Open the window and you're surrounded by green mountains and bamboo. The air is so fresh, and it's spotlessly clean. We even saw the sunrise – absolutely perfect! The owner...",
+      "author": "Guest User",
+      "date": "2026-07-26",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=132002880&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-132002880&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The environment here is exceptional, and the butler service is incredibly attentive. They're always available when you need them and even provided a welcome gift. The service was absolutely top-notch!",
+      "author": "Guest User",
+      "date": "2026-07-26",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=132002880&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-132002880&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.2,
+    "count": 19,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:21:19.848Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

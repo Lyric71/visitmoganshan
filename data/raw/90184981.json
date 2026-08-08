@@ -1,0 +1,81 @@
+{
+  "id": 90184981,
+  "name": "Yigui Villa",
+  "seedName": "Yigui Villa",
+  "city": "Huzhou",
+  "cityId": 86,
+  "goSlug": "moganshan-90184981",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=90184981&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-90184981&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Accessibility:Proximity to Moganshan scenic area, convenient parking, and easy access to local markets, restaurants, and attractions like Yuchun. Facilities:Comprehensive amenities including KTV rooms, table tennis, pool tables, street machines, a clean swimming pool, playgrounds , and a large garden. Rooms featured dry-wet separation, projectors, air conditioning, and essential toiletries. Service Quality:Host was consistently praised for warm hospitality, personalized arrangements , and attentive support.(based on 2 reviews) Cleanliness:Rooms and public areas were described as spacious, tidy, and well-maintained, with clean swimming pools and kitchens. Family-Friendly Features:Catered to diverse age groups with child-friendly activities, flexible meal options , and thoughtful amenities .",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Accessibility",
+        "text": "Proximity to Moganshan scenic area, convenient parking, and easy access to local markets, restaurants, and attractions like Yuchun. Facilities:Comprehensive amenities including KTV rooms, table tennis, pool tables, street machines, a clean swimming pool, playgrounds , and a large garden. Rooms featured dry-wet separation, projectors, air conditioning, and essential toiletries. Service Quality:Host was consistently praised for warm hospitality, personalized arrangements , and attentive support.",
+        "count": 2
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "芳山村黄泥山58号, Wuxing District, Huzhou, Zhejiang, China",
+  "priceRange": "From US$341",
+  "facilities": [
+    "Billiards room",
+    "Table tennis room",
+    "Conference room",
+    "Multi-function room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/90184981/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6h12000j0lan46E1AA.jpg"
+    },
+    {
+      "src": "/images/stays/90184981/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0581e12000soj1rmn5D2D.webp"
+    },
+    {
+      "src": "/images/stays/90184981/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3q12000j0mplt27433.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "房間非常好，老闆忠哥非常熱情我們還沒到就提前給我們準備了冰鎮水果🍉！下次出遊還會繼續選擇這家名宿",
+      "author": "KISS-baobei",
+      "date": "2025-08-11",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=90184981&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-90184981&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間非常好，老闆忠哥非常熱情我們還沒到就提前給我們準備了冰鎮水果🍉！下次出遊還會繼續選擇這家名宿",
+      "author": "KISS-baobei",
+      "date": "2025-08-11",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=90184981&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-90184981&trip_sub3=D19127628"
+    },
+    {
+      "quote": "非常幸運盲選了這家民宿，和朋友幾家人端午假期過得很開心！包了一棟，正好適合大大小小 14 個人～房間寬敞，乾淨，舒適～公區也很敞亮，游泳池水很乾凈，最重要的是老闆非常熱情好客，幫我們忙裡忙外，早上為我們還手沖espresso ，美味貼心！晚上這頓幫我們買了 4 斤小龍蝦，吃得很落胃！雖然這兩天一直下雨沒出門逛逛，但在民宿聚餐喝茶打牌也很不錯～下次有機會還會來的！",
+      "author": "Guest User",
+      "date": "2025-06-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=90184981&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-90184981&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 13,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:29:42.571Z",
+  "source": "trip",
+  "price": {
+    "amount": 341,
+    "currency": "USD",
+    "checkIn": null,
+    "checkOut": null,
+    "pricedAt": "2026-08-08"
+  }
+}

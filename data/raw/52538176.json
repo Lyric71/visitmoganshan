@@ -1,0 +1,62 @@
+{
+  "id": 52538176,
+  "name": "Xia Mengchang Villa (Shiyi Road)",
+  "seedName": "Xia Mengchang Villa (Shiyi Road)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-52538176",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=52538176&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-52538176&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Xia Mengchang Villa (Shiyi Road)?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "石颐路于烂线, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/52538176/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0224w120009z4joji943C.jpg"
+    },
+    {
+      "src": "/images/stays/52538176/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0224w120009z4joji943C.webp"
+    },
+    {
+      "src": "/images/stays/52538176/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5o12000lyczt9c5A9E.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "房間還不錯有4間都是朝南的，陽光很好，就是衞生間的衞生有待加強。早上還有早飯吃。服務很好，有問必答，幫我們解決問題。",
+      "author": "Guest User",
+      "date": "2026-02-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=52538176&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-52538176&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間還不錯有4間都是朝南的，陽光很好，就是衞生間的衞生有待加強。早上還有早飯吃。服務很好，有問必答，幫我們解決問題。",
+      "author": "Guest User",
+      "date": "2026-02-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=52538176&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-52538176&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.4,
+    "count": 3,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:23:00.784Z",
+  "source": "trip",
+  "price": {
+    "amount": 61,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": 107886319,
+  "name": "Moganshan Xiaoxi Homestay (Yangwan Tunnel No. 2 Branch)",
+  "seedName": "Moganshan Xiaoxi Homestay (Yangwan Tunnel No. 2 Branch)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-107886319",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=107886319&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-107886319&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Xiaoxi Homestay (Yangwan Tunnel No. 2 Branch)?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "杨湾隧道莫干山镇S09德清莫干山小溪客栈坐落在风景优美的莫干山脚下, 绿化率达到百分之九十, 有休闲步道, 花海, 乐园, 是休闲娱乐的好去处, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/107886319/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0586412000jpls2odA788.jpg"
+    },
+    {
+      "src": "/images/stays/107886319/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0586412000jpls2odA788.webp"
+    },
+    {
+      "src": "/images/stays/107886319/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0221s12000ax3w1sr3630.webp"
+    }
+  ],
+  "comments": [],
+  "rating": null,
+  "sourcedAt": "2026-08-08T16:26:09.313Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

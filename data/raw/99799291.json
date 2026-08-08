@@ -1,0 +1,89 @@
+{
+  "id": 99799291,
+  "name": "Mogan No3.Hospital",
+  "seedName": "Mogan No3.Hospital",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-99799291",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=99799291&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-99799291&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness and Maintenance:Rooms are consistently described as clean and well-maintained, with high-quality bedding and modern furnishings. The overall environment is kept tidy, and attention to cleanliness is emphasized in multiple reviews.(based on 12 reviews) Service and Hospitality:Staff are noted for their friendly and attentive service, with personalized touches such as tailored breakfast options and local travel recommendations. The management ensures a welcoming atmosphere, enhancing the guest experience.(based on 10 reviews) Ambiance and Natural Surroundings:The setting offers a peaceful retreat with natural scenery, including mountain views, bamboo forests, and a nearby stream. The tranquil atmosphere is ideal for relaxation and family activities like water play. Dining Experience:Breakfast is highlighted as a key strength, with diverse, freshly prepared meals and attention to dietary preferences. On-site culinary services, including homemade dishes and local specialties, are frequently praised.(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness and Maintenance",
+        "text": "Rooms are consistently described as clean and well-maintained, with high-quality bedding and modern furnishings. The overall environment is kept tidy, and attention to cleanliness is emphasized in multiple reviews.",
+        "count": 12
+      },
+      {
+        "topic": "Service and Hospitality",
+        "text": "Staff are noted for their friendly and attentive service, with personalized touches such as tailored breakfast options and local travel recommendations. The management ensures a welcoming atmosphere, enhancing the guest experience.",
+        "count": 10
+      },
+      {
+        "topic": "Natural Surroundings",
+        "text": "The setting offers a peaceful retreat with natural scenery, including mountain views, bamboo forests, and a nearby stream. The tranquil atmosphere is ideal for relaxation and family activities like water play. Dining Experience:Breakfast is highlighted as a key strength, with diverse, freshly prepared meals and attention to dietary preferences. On-site culinary services, including homemade dishes and local specialties, are frequently praised.",
+        "count": 3
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 51 Futou Street, Futou village, Moganshan town, Deqing County, Zhejiang, Huzhou Province, Zhejiang province, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant",
+    "Multi-function room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/99799291/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206z120009zd5eut9523.jpg"
+    },
+    {
+      "src": "/images/stays/99799291/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02055120009zixtezF597.webp"
+    },
+    {
+      "src": "/images/stays/99799291/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200s120009zd1ygt7018.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "鬧中取靜的好去處，民宿設計簡約又有温度，住進來特別放鬆，出行很方便！房間乾淨整潔，每人一份的早餐，品種豐富，營養搭配！老闆娘熱情好客，細心周到，有問必答，還主動幫我們解決各種小問題。下午還帶我們上山體驗挖筍，收穫滿滿，竹林吸氧，放鬆又治癒，民宿性價比超高，一次愉快的旅行！",
+      "author": "Guest User",
+      "date": "2026-04-14",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=99799291&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-99799291&trip_sub3=D19127628"
+    },
+    {
+      "quote": "montane via的莫干山越野 選了一個性價比很高的民宿 老闆非常好 早餐很豐盛 還有水果 房間遮光和隔音都很好 晚上很安靜 讓我睡的很棒 環境也非常好 還有泳池和很大的公共空間 電車充電樁也有自己的院子 還可以唱卡拉ok和打國粹 準備五一再來放鬆幾天",
+      "author": "Guest User",
+      "date": "2026-04-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=99799291&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-99799291&trip_sub3=D19127628"
+    },
+    {
+      "quote": "非常不錯 地理位置很方便 房間也很乾凈衞生 和圖片一樣沒有差異 很真實 老闆人也超好 很細心 還有早飯 還是老闆根據你的出行時間定製的 非常好",
+      "author": "Guest User",
+      "date": "2026-04-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=99799291&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-99799291&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 10,
+    "count": 15,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:18:35.833Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

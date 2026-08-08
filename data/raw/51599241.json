@@ -1,0 +1,72 @@
+{
+  "id": 51599241,
+  "name": "Moganshan Xinle Farmhouse",
+  "seedName": "Moganshan Xinle Farmhouse",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-51599241",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=51599241&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-51599241&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Xinle Farmhouse?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "莫干山镇北湖村上下庄23号, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/51599241/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3z12000b6sagxoE1CD.jpg"
+    },
+    {
+      "src": "/images/stays/51599241/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6w12000b6safw975C0.webp"
+    },
+    {
+      "src": "/images/stays/51599241/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1y12000dtifv1w7842.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Not a bad experience. Moganshan is located in an area of ​​beautiful natural scenery, surrounded by mountains and forests. Many farmhouse reviews praise the setting, praising its tranquility and beauty.",
+      "author": "Doubaoxiaoliufu",
+      "date": "2023-09-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=51599241&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-51599241&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The environment is very good and the breakfast is delicious",
+      "author": "Guest User",
+      "date": "2023-12-09",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=51599241&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-51599241&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Two rooms and one bathroom, not a good experience!",
+      "author": "Guest User",
+      "date": "2023-10-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=51599241&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-51599241&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 7.7,
+    "count": 8,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:15:54.971Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

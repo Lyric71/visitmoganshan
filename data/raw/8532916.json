@@ -1,0 +1,87 @@
+{
+  "id": 8532916,
+  "name": "Moganshan houwu memory villa",
+  "seedName": "Moganshan houwu memory villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-8532916",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8532916&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8532916&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment & Location:The property is situated near bamboo forests and streams, offering scenic views from balconies. It is located in a quiet, cool area , ideal for relaxation.(based on 1 review) Service Quality:The host is consistently described as warm, helpful, and attentive to guests’ needs.(based on 5 reviews) Cuisine:Home-style meals are highly praised for their taste and quality. Facilities & Cleanliness:The accommodation is clean, well-maintained, and family-friendly, with spaces for relaxation . Atmosphere:The decor and ambiance are described as cozy, home-like, and calming, contributing to a \"healing\" experience. Suitability:Recommended for family trips due to its spaciousness, safety, and comfort.(based on 4 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "The property is situated near bamboo forests and streams, offering scenic views from balconies. It is located in a quiet, cool area , ideal for relaxation.",
+        "count": 1
+      },
+      {
+        "topic": "Service Quality",
+        "text": "The host is consistently described as warm, helpful, and attentive to guests’ needs.",
+        "count": 5
+      },
+      {
+        "topic": "Cuisine",
+        "text": "Home-style meals are highly praised for their taste and quality. Facilities & Cleanliness:The accommodation is clean, well-maintained, and family-friendly, with spaces for relaxation . Atmosphere:The decor and ambiance are described as cozy, home-like, and calming, contributing to a \"healing\" experience. Suitability:Recommended for family trips due to its spaciousness, safety, and comfort.",
+        "count": 4
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No.86 Xiwuli, Houwu Village, Mogan Mountain, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/8532916/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD6w12000avmsl836C5C.jpg"
+    },
+    {
+      "src": "/images/stays/8532916/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200i15000000xo3in8891.webp"
+    },
+    {
+      "src": "/images/stays/8532916/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD5x120009fnnldz37BA.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "今天入住，莫干山後塢記民宿，民宿乾淨整潔，停車方便，老闆熱情周到，典型的家庭民宿，適合家庭入住，民宿對面就是竹林和小溪，小溪水質清澈見底，適合帶娃遊玩，民宿有餐飲，但需提前預訂，菜品美味，經濟實惠，特推薦給大家。",
+      "author": "Zailvxinglushangdexiaojin",
+      "date": "2025-07-25",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8532916&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8532916&trip_sub3=D19127628"
+    },
+    {
+      "quote": "優點 衞生乾淨，被子和床單看起來還可以，不過還是套了一次性四件套。 跟着導航走錯了，老闆指路才找到，還幫忙解決了停車問題。 老闆很熱情，服務很不錯，入住前還幫忙開了空調。 不足 民宿沒有早飯，在附近找個吃早飯的地方也不方便，衹看到一個買油條和一個買麪條和餛飩的地方，慢走來回45分鐘吧。 熱水啟動慢，大概是熱水管太長了，要放水很久，讓我開始一度以為沒熱水。 整體費用不高，衹是住一晚，性價比不錯。",
+      "author": "TianTlan",
+      "date": "2025-08-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8532916&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8532916&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間木製吊頂挺有山村氣息，有陽台，對面就是竹林和溪水，景觀挺好。 主人非常熱情，家常菜味道很不錯！值得再去",
+      "author": "Guest User",
+      "date": "2025-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8532916&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8532916&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.9,
+    "count": 12,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:10:59.261Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

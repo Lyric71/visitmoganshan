@@ -1,0 +1,85 @@
+{
+  "id": 8340871,
+  "name": "Stay at the corner of moganshan",
+  "seedName": "Stay at the corner of moganshan",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-8340871",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8340871&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8340871&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:The environment is clean and tidy, with exquisite decoration(based on 25 reviews) Hygiene:Rooms and other places are very clean(based on 25 reviews) Service:The owner is enthusiastic and thoughtful, responsive to needs(based on 24 reviews) Parking:There is an indoor parking lot to solve the parking problem",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "The environment is clean and tidy, with exquisite decoration",
+        "count": 25
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Rooms and other places are very clean",
+        "count": 25
+      },
+      {
+        "topic": "Service",
+        "text": "The owner is enthusiastic and thoughtful, responsive to needs",
+        "count": 24
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No.68 Zhuyuan Road, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/8340871/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200f12000tb6czmaD44E.jpg"
+    },
+    {
+      "src": "/images/stays/8340871/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200514000000vplu49BC9.webp"
+    },
+    {
+      "src": "/images/stays/8340871/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0585u12000sn8dwuh1C61.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "參加莫干山byUTMB越野賽定了這家民宿 位置在庾信北街和郡安裏度假酒店中間 距離賽事起點和終點都很近 自駕可免費一樓車庫停車 二樓大廳進門換鞋 屋內乾淨整潔 廳內就餐區、休閑區位置很大 接待一個越野賽小團隊不在話下 房間很大 定的房間在頂樓 設施齊全 兩張大床 很舒適 房間很寬敞 還帶一個露台 窗外就是竹林 離店後漏掉了一件T恤 老闆娘當天就給郵寄了過來 很舒心的一次旅程",
+      "author": "Pangzijialidun",
+      "date": "2026-04-14",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8340871&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8340871&trip_sub3=D19127628"
+    },
+    {
+      "quote": "參加莫干山byUTMB越野賽定了這家民宿 位置在庾信北街和郡安裏度假酒店中間 距離賽事起點和終點都很近 自駕可免費一樓車庫停車 二樓大廳進門換鞋 屋內乾淨整潔 廳內就餐區、休閑區位置很大 接待一個越野賽小團隊不在話下 房間很大 定的房間在頂樓 設施齊全 兩張大床 很舒適 房間很寬敞 還帶一個露台 窗外就是竹林 離店後漏掉了一件T恤 老闆娘當天就給郵寄了過來 很舒心的一次旅程",
+      "author": "Pangzijialidun",
+      "date": "2026-04-14",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8340871&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8340871&trip_sub3=D19127628"
+    },
+    {
+      "quote": "酒店地址就在庾村廣場附近，打車來回特別方便。 房間裏面衞生乾淨，暖氣很足，老闆也很親切，下次來還會選擇這裏！",
+      "author": "Ziyouaoxiangdeangel",
+      "date": "2026-02-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8340871&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8340871&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 10,
+    "count": 41,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:10:37.312Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

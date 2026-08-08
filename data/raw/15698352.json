@@ -1,0 +1,94 @@
+{
+  "id": 15698352,
+  "name": "Meet Moganshan Parent-child Holiday Meishu",
+  "seedName": "Meet Moganshan Parent-child Holiday Meishu",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-15698352",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=15698352&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-15698352&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Close to Mogan Mountain and Longtan Scenic Area, offering scenic views from balconies and access to natural attractions like streams with small fish.(based on 1 review) Environment:Quiet, well-maintained surroundings with clean facilities . Service:Hosts are described as warm, helpful, and attentive, often assisting with directions or accommodations.(based on 3 reviews) Facilities:Includes child-friendly amenities , functional bathrooms, and accessible hot water.(based on 3 reviews) Amenities:Breakfast features local specialties and is praised for its uniqueness.(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Close to Mogan Mountain and Longtan Scenic Area, offering scenic views from balconies and access to natural attractions like streams with small fish.",
+        "count": 1
+      },
+      {
+        "topic": "Environment",
+        "text": "Quiet, well-maintained surroundings with clean facilities . Service:Hosts are described as warm, helpful, and attentive, often assisting with directions or accommodations.",
+        "count": 3
+      },
+      {
+        "topic": "Facilities",
+        "text": "Includes child-friendly amenities , functional bathrooms, and accessible hot water.",
+        "count": 3
+      },
+      {
+        "topic": "Amenities",
+        "text": "Breakfast features local specialties and is praised for its uniqueness.",
+        "count": 3
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 10, Dashu, Langjia Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Cardroom",
+    "Restaurant",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/15698352/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0581c12000sqdh8y4B7D5.jpg"
+    },
+    {
+      "src": "/images/stays/15698352/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201b120009unclh497B8.webp"
+    },
+    {
+      "src": "/images/stays/15698352/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02045120009rko1bwFBBA.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "房間設施齊全完善，乾淨整潔。老闆娘服務周到熱情，農家菜燒的非常好吃，房間安靜舒適，周邊有步道小溪。離魚鱗壩，龍鱗壩多非常近。非常滿意。",
+      "author": "Gugongqin",
+      "date": "2025-07-12",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=15698352&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-15698352&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間設施齊全完善，乾淨整潔。老闆娘服務周到熱情，農家菜燒的非常好吃，房間安靜舒適，周邊有步道小溪。離魚鱗壩，龍鱗壩多非常近。非常滿意。",
+      "author": "Gugongqin",
+      "date": "2025-07-12",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=15698352&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-15698352&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間很漂亮，風景很好，環境優雅，值得來，附近可以玩小溪流，裏面有小魚小蝦，小朋友可以在裏面抓蝦抓小魚，很開心",
+      "author": "Guest User",
+      "date": "2023-08-16",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=15698352&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-15698352&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9,
+    "count": 10,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:13:01.693Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

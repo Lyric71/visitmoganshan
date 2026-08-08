@@ -1,0 +1,71 @@
+{
+  "id": 106383967,
+  "name": "Jiaoluo Shiguang Homestay (Xiaoyuxian Branch)",
+  "seedName": "Jiaoluo Shiguang Homestay (Xiaoyuxian Branch)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-106383967",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=106383967&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-106383967&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness and Facilities:Rooms and swimming pools were consistently praised for being exceptionally clean, spacious, and well-maintained. Host Hospitality:The host was repeatedly described as warm, attentive, and accommodating, with notable efforts in cooking meals and organizing activities. Culinary Experience:Meals prepared by the host were highlighted as flavorful and well-received by guests, particularly by large groups. Value for Money:Multiple reviews emphasized the high cost-effectiveness of the accommodation, especially considering the quality of facilities and services. Family-Friendly Atmosphere:The environment was described as welcoming for families, with facilities and services tailored to group needs.",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "晓于线德清县莫干山仙潭村, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/106383967/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0585s12000t0fg4n0EC67.jpg"
+    },
+    {
+      "src": "/images/stays/106383967/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0585s12000t0fg4n0EC67.webp"
+    },
+    {
+      "src": "/images/stays/106383967/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0225412000bvuhc0p1B46.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "民宿非常乾淨温馨，很適合一大家人入住，還能K歌，老闆娘很熱情，燒的菜也很好吃，還提前準備了燒烤爐，下次入住還選這裏，強烈推薦！！！",
+      "author": "Guest User",
+      "date": "2025-08-11",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=106383967&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-106383967&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間床很大，很不錯，老闆娘人很好，很熱情，菜也很好吃。下次有機會還會再去。門口的風景很不錯，門口就能玩水。",
+      "author": "Guest User",
+      "date": "2025-08-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=106383967&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-106383967&trip_sub3=D19127628"
+    },
+    {
+      "quote": "老闆娘人超好，我們網上買的燒烤食材寄過去，老闆還幫我們去取然後放冰箱，提前幫我們點好燒烤爐，房間也很乾凈，強烈推薦！！",
+      "author": "Guest User",
+      "date": "2025-05-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=106383967&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-106383967&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 14,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:25:24.813Z",
+  "source": "trip",
+  "price": {
+    "amount": 61,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

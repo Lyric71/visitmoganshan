@@ -1,0 +1,83 @@
+{
+  "id": 50501101,
+  "name": "MXSJ",
+  "seedName": "MXSJ",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-50501101",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=50501101&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-50501101&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Facilities and Ambience:The property includes a private swimming pool, a shaded courtyard with tea sets and swings, and scenic views of mountains and rivers. Evening strolls along the riverside and access to night markets enhance the relaxing atmosphere.(based on 21 reviews) Culinary Experience:Dining options feature locally sourced, home-style dishes with exceptional flavors, such as braised pork with bamboo shoots and stew. Breakfasts are abundant and include homemade pickles, dried mushrooms, and fresh vegetables.(based on 9 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Facilities and Ambience",
+        "text": "The property includes a private swimming pool, a shaded courtyard with tea sets and swings, and scenic views of mountains and rivers. Evening strolls along the riverside and access to night markets enhance the relaxing atmosphere.",
+        "count": 21
+      },
+      {
+        "topic": "Culinary Experience",
+        "text": "Dining options feature locally sourced, home-style dishes with exceptional flavors, such as braised pork with bamboo shoots and stew. Breakfasts are abundant and include homemade pickles, dried mushrooms, and fresh vegetables.",
+        "count": 9
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "莫干山镇瑶坞村外瑶坞6号, Deqing, Zhejiang, China",
+  "priceRange": "From US$68",
+  "facilities": [
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/50501101/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5j12000mmf4p4x6FDA.jpg"
+    },
+    {
+      "src": "/images/stays/50501101/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1re6m12000b87h4ih2D60.webp"
+    },
+    {
+      "src": "/images/stays/50501101/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0221l12000b9zvb1r3E99.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "不吹不黑，這次有點驚喜。當天從上海説走就走，到莫干山比較晚了，想第二天去江南瑤塢，其他家都沒了，臨時定了這家民宿 1.首先是硬件，浴室噴頭水量特足，然後房間竟然出奇的安靜，這是這段時間以來感覺為數不多隔音好的地方，晚上衹有空調聲音，不過早晨有雞叫 2.距離，就在江南瑤塢大門對面，非常方便，過馬路就是江南瑤塢 3.早晨是可以稱為建議的Omakase哈哈，老闆從後廚一點點拿出來，不夠的可以再要，玉米汁和西瓜好評，老闆端上來的我全吃了 4.老闆很熱情，怎麼玩全給你講明白了",
+      "author": "Guest User",
+      "date": "2026-08-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=50501101&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-50501101&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間乾淨整潔，屋內配有兩張床，可以拼接在一起，一家四口入住剛剛好。民宿地理位置絕佳，出門就是江南瑤塢景區，走近道僅5分鐘就能抵達檢票口。老闆十分貼心，專程把我們送到景區門口，待人熱情，服務體驗滿分，強烈推薦！",
+      "author": "Guest User",
+      "date": "2026-07-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=50501101&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-50501101&trip_sub3=D19127628"
+    },
+    {
+      "quote": "地理位置非常方便！就在瑤塢景區正大門對面，上兩趟山也不擔心晚上回酒店不方便。房間收拾得很乾凈，看得出老闆的用心。第一天晚上結束已近9點，老闆還能幫準備豐盛的晚餐，每盤都幹光，都沒來得及拍照，還有老闆自釀的黃精土燒酒，一點不上頭。走的時候兒子想帶一截竹子回家，老闆二話不説拿起刀就上山，現砍現磨，情緒價值拉滿，熱情周到，非常滿意的一次民宿體驗",
+      "author": "Guest User",
+      "date": "2026-05-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=50501101&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-50501101&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 42,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:15:30.973Z",
+  "source": "trip",
+  "price": {
+    "amount": 68,
+    "currency": "USD",
+    "checkIn": null,
+    "checkOut": null,
+    "pricedAt": "2026-08-08"
+  }
+}

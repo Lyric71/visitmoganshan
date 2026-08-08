@@ -1,0 +1,92 @@
+{
+  "id": 42745134,
+  "name": "Thatched cottage Homestay",
+  "seedName": "Thatched cottage Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-42745134",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=42745134&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-42745134&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:The accommodation is conveniently located near attractions like the Firefly Base, Moganshan, and Nake Farm, with walking or short driving distances. It is suitable for self-driving, offering parking spaces and electric vehicle charging facilities.(based on 22 reviews) Environment:Nestled in a mountainous area, the property offers fresh air, natural scenery, and a quiet atmosphere. Guests appreciate the absence of mosquitoes and the peaceful ambiance for a rural experience.(based on 5 reviews) Hygiene:Rooms are consistently described as clean, with comfortable bedding, and some mention of ample, clean disposable amenities. Regular cleaning is noted, though not all guests received daily services.(based on 27 reviews) Facilities:Features include an outdoor swimming pool (with mountain spring water), lawns for relaxation, barbecue areas, and charging stations. The property is praised for its comprehensive amenities and spacious rooms.(based on 12 reviews) Service:Staff, particularly the hosts, are noted for their warmth and willingness to assist. They provide local travel recommendations, making it ideal for family trips and ensuring a welcoming at",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "The accommodation is conveniently located near attractions like the Firefly Base, Moganshan, and Nake Farm, with walking or short driving distances. It is suitable for self-driving, offering parking spaces and electric vehicle charging facilities.",
+        "count": 22
+      },
+      {
+        "topic": "Environment",
+        "text": "Nestled in a mountainous area, the property offers fresh air, natural scenery, and a quiet atmosphere. Guests appreciate the absence of mosquitoes and the peaceful ambiance for a rural experience.",
+        "count": 5
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Rooms are consistently described as clean, with comfortable bedding, and some mention of ample, clean disposable amenities. Regular cleaning is noted, though not all guests received daily services.",
+        "count": 27
+      },
+      {
+        "topic": "Facilities",
+        "text": "Features include an outdoor swimming pool (with mountain spring water), lawns for relaxation, barbecue areas, and charging stations. The property is praised for its comprehensive amenities and spacious rooms.",
+        "count": 12
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 20, Shangxiazhuang, Lanshukeng Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/42745134/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0b12000edm2f2tECDD.jpg"
+    },
+    {
+      "src": "/images/stays/42745134/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2i12000edmfapt8FC1.webp"
+    },
+    {
+      "src": "/images/stays/42745134/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1a12000edmfe5s0117.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "離螢火蟲基地很近，步行五分鐘就到。房間很乾凈，在山野間的民宿晚上也沒有蚊蟲，吃飯附近沒有的，要開車出去，叫外賣也不方便。而且隔音不好，陽台隔得太近，隔壁一早在陽台刷視頻聲音一清二楚。還有房間裏傢俱木質的味道有點重",
+      "author": "Guest User",
+      "date": "2025-08-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=42745134&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-42745134&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間舒適 衞生：床鋪很舒服，店主介紹是個五星級酒店床品一樣。 服務：店主熱情 這家室外泳池是亮點，太適宜了。 這裏距離裸心農場100米，帶着小朋友轉悠老開心啦！",
+      "author": "Guest User",
+      "date": "2025-08-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=42745134&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-42745134&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿位置挺好的，離莫干山很近，環境空氣超級好。房間乾淨整潔，設施齊全。住得非常舒心，下次來莫干山玩準備繼續住這裏。",
+      "author": "Guest User",
+      "date": "2025-06-30",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=42745134&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-42745134&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.1,
+    "count": 48,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:15:04.453Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

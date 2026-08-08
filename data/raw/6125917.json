@@ -1,0 +1,97 @@
+{
+  "id": 6125917,
+  "name": "Waian Five Hotel",
+  "seedName": "Waian Five Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-6125917",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6125917&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6125917&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Hospitality:The host is consistently praised for being warm, friendly, and attentive to guest needs .(based on 30 reviews) Environment:Surrounded by natural scenery , with a tranquil and aesthetically pleasing setting. Facilities:Clean, well-maintained rooms with modern amenities , a swimming pool for children, and a spacious layout.(based on 6 reviews) Location:Strategically situated near tourist attractions , with convenient access to transportation .(based on 6 reviews) Family-Friendly Features:Includes recreational facilities and meals tailored to children’s preferences.(based on 13 reviews) Guest Suggestion: Some customers suggest improving room humidity control and addressing the musty odor, as these issues were frequently mentioned in reviews.(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Hospitality",
+        "text": "The host is consistently praised for being warm, friendly, and attentive to guest needs .",
+        "count": 30
+      },
+      {
+        "topic": "Environment",
+        "text": "Surrounded by natural scenery , with a tranquil and aesthetically pleasing setting. Facilities:Clean, well-maintained rooms with modern amenities , a swimming pool for children, and a spacious layout.",
+        "count": 6
+      },
+      {
+        "topic": "Location",
+        "text": "Strategically situated near tourist attractions , with convenient access to transportation .",
+        "count": 6
+      },
+      {
+        "topic": "Family-Friendly Features",
+        "text": "Includes recreational facilities and meals tailored to children’s preferences.",
+        "count": 13
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving room humidity control and addressing the musty odor, as these issues were frequently mentioned in reviews.",
+      "count": 2
+    }
+  },
+  "address": "No. 5 Wai'an, Wusi Village, Deqing, Zhejiang, China",
+  "priceRange": "From US$44",
+  "facilities": [
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/6125917/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2B0c0h0000008si1wB19A.jpg"
+    },
+    {
+      "src": "/images/stays/6125917/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200l0a00000055xcx952D.webp"
+    },
+    {
+      "src": "/images/stays/6125917/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20020a00000055y6t856C.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The boss was very considerate and considerately allowed us to check out late so we could take a shower before setting off on the road. It's a very humane hotel.",
+      "author": "Guest User",
+      "date": "2023-09-25",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6125917&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6125917&trip_sub3=D19127628"
+    },
+    {
+      "quote": "這次莫干山入住體驗直接封神，是我住過最合心意的民宿。環境清幽舒服，房間面積很大，設施齊全。老闆一家人待人格外熱忱周到，恰逢連日下雨，來回景點都貼心接送；臨走不慎落下CCD相機，老闆主動幫忙郵寄寄回，實在暖心。下次再來莫干山，一定把這家推薦給身邊朋友！！",
+      "author": "Guest User",
+      "date": "2026-06-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6125917&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6125917&trip_sub3=D19127628"
+    },
+    {
+      "quote": "這次和女兒一起來德清旅遊，住的這家民宿， 胡老闆熱情周到，幫我升級到2樓露台房， 另外還在老闆這裏吃了三頓飯，美味又實惠。米粥和新鮮的蔬菜，還有土雞湯鮮美極了。而且這家店離格里恩咖啡衹有1點5公里。 我們去庾村還是老闆主動開車送我們去，太周到了。 下次一定再來住這家。",
+      "author": "Suqiqiqi",
+      "date": "2026-03-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6125917&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6125917&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 59,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:08:19.832Z",
+  "source": "trip",
+  "price": {
+    "amount": 44,
+    "currency": "USD",
+    "checkIn": null,
+    "checkOut": null,
+    "pricedAt": "2026-08-08"
+  }
+}

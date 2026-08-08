@@ -1,0 +1,241 @@
+---
+import { PRICE_BANDS } from '../lib/captures';
+
+/**
+ * The filter bar above a listing.
+ *
+ * Three axes, because three is what the captured data can actually support:
+ * the nightly rate Trip.com showed, how many reviews are behind the score, and
+ * whether the summary carries a caveat from the guests who complained. Anything
+ * else on these cards is prose, and a filter over prose is a search box
+ * pretending to be a control.
+ *
+ * It runs in the browser over the cards already in the page. Nothing is fetched
+ * and nothing re-renders: with three hundred homestays in one list, hiding rows
+ * is instant and rebuilding them is not. Without JavaScript the bar never
+ * appears and every card stays visible, which is the correct fallback for a
+ * control whose only job is to remove things.
+ *
+ * The count line is the honest part. A reader who filters to nothing should be
+ * told so in words, and a reader who filters on price should know that a
+ * hundred-odd properties had no rate on the day the capture ran and are not in
+ * the answer.
+ */
+interface Props {
+  /** How many cards the list holds, before any filtering. */
+  total: number;
+  /** How many of them have no captured rate, so the price filter cannot place them. */
+  unpriced: number;
+}
+
+const { total, unpriced } = Astro.props;
+
+const REVIEW_TIERS = [
+  { id: '50', label: '50 or more' },
+  { id: '200', label: '200 or more' },
+  { id: '1000', label: '1,000 or more' },
+];
+---
+
+<form class="filters" data-stay-filters hidden aria-label="Filter these properties">
+  <div class="filters__row">
+    <div class="filters__group">
+      <label class="filters__label" for="filter-price">Nightly rate</label>
+      <select class="filters__select" id="filter-price" name="price">
+        <option value="">Any rate</option>
+        {PRICE_BANDS.map((band) => <option value={band.id}>{band.label}</option>)}
+        <option value="unknown">No rate shown</option>
+      </select>
+    </div>
+
+    <div class="filters__group">
+      <label class="filters__label" for="filter-reviews">Reviews</label>
+      <select class="filters__select" id="filter-reviews" name="reviews">
+        <option value="">Any number</option>
+        {REVIEW_TIERS.map((tier) => <option value={tier.id}>{tier.label}</option>)}
+      </select>
+    </div>
+
+    <div class="filters__group">
+      <label class="filters__label" for="filter-note">What guests raise</label>
+      <select class="filters__select" id="filter-note" name="note">
+        <option value="">Either way</option>
+        <option value="yes">Has a caveat</option>
+        <option value="no">None recorded</option>
+      </select>
+    </div>
+
+    <button class="filters__reset" type="button" data-filter-reset hidden>Clear</button>
+  </div>
+
+  <p class="filters__count" role="status" aria-live="polite" data-filter-count>
+    Showing all {total.toLocaleString('en-GB')}.
+  </p>
+</form>
+
+<script is:inline define:vars={{ total, unpriced }}>
+  const start = () => {
+    const form = document.querySelector('[data-stay-filters]');
+    if (!form) return;
+    const cards = Array.from(document.querySelectorAll('.card'));
+    if (!cards.length) return;
+
+    const count = form.querySelector('[data-filter-count]');
+    const reset = form.querySelector('[data-filter-reset]');
+    const list = document.querySelector('.cards');
+
+    // The bar is hidden in the markup and revealed here, so a reader without
+    // JavaScript never meets a control that does nothing.
+    form.hidden = false;
+
+    // Read once. Three hundred cards times three attribute lookups per
+    // keystroke is work that does not need doing twice.
+    const rows = cards.map((el) => ({
+      el,
+      band: el.getAttribute('data-price-band') || 'unknown',
+      reviews: Number(el.getAttribute('data-reviews') || 0),
+      note: el.getAttribute('data-note') || 'no',
+    }));
+
+    const plural = (n) => (n === 1 ? 'property' : 'properties');
+
+    const apply = () => {
+      const price = form.elements.price.value;
+      const reviews = Number(form.elements.reviews.value || 0);
+      const note = form.elements.note.value;
+      const active = Boolean(price || reviews || note);
+
+      let shown = 0;
+      for (const row of rows) {
+        const ok =
+          (!price || row.band === price) &&
+          (!reviews || row.reviews >= reviews) &&
+          (!note || row.note === note);
+        // hidden rather than display:none in a class, so the attribute is the
+        // single source of truth and nothing has to fight the card's own
+        // grid display rule.
+        row.el.hidden = !ok;
+        if (ok) shown += 1;
+      }
+
+      if (list) list.setAttribute('data-filtered', active ? 'yes' : 'no');
+      reset.hidden = !active;
+
+      if (!active) {
+        count.textContent = `Showing all ${total.toLocaleString('en-GB')}.`;
+      } else if (shown === 0) {
+        count.textContent = 'Nothing matches all three. Widen one of them.';
+      } else {
+        const parts = [`Showing ${shown.toLocaleString('en-GB')} of ${total.toLocaleString('en-GB')} ${plural(total)}`];
+        // Only worth saying when the price filter is the thing doing the
+        // excluding: on the other two axes an unpriced row is still eligible.
+        if (price && price !== 'unknown' && unpriced > 0) {
+          parts.push(
+            `${unpriced.toLocaleString('en-GB')} showed no rate when the listings were captured and are not counted`,
+          );
+        }
+        count.textContent = `${parts.join('. ')}.`;
+      }
+    };
+
+    form.addEventListener('change', apply);
+    form.addEventListener('submit', (event) => event.preventDefault());
+    reset.addEventListener('click', () => {
+      form.reset();
+      apply();
+    });
+  };
+
+  // The bar renders above the list, so at the point this runs inline there are
+  // no cards in the document yet. Wait for the parse to finish rather than
+  // moving the script below the cards, where it would be several hundred
+  // elements further down the response for no reason.
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', start, { once: true });
+  } else {
+    start();
+  }
+</script>
+
+<style>
+  .filters {
+    margin-top: clamp(1.25rem, 2.5vw, 1.75rem);
+    padding: 1rem 1.25rem;
+    background: var(--color-mist-50);
+    border: 1px solid var(--color-line);
+  }
+
+  .filters__row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    gap: 0.75rem 1.25rem;
+  }
+
+  .filters__group {
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+    /* Grow on a phone so the three controls stack full width, hold their own
+       measure from tablet up rather than stretching across a wide screen. */
+    flex: 1 1 12rem;
+    min-width: 0;
+  }
+
+  /* Full width on a phone, where three stacked controls that stop short of the
+     right edge read as broken. Capped from tablet up, where letting a select
+     stretch to a third of a wide screen would be worse. */
+  @media (min-width: 720px) {
+    .filters__group {
+      max-width: 16rem;
+    }
+  }
+
+  .filters__label {
+    font-size: 0.6875rem;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--color-muted);
+  }
+
+  .filters__select {
+    /* 44px, the tap target floor the buttons on this site already keep to. */
+    min-height: 44px;
+    width: 100%;
+    padding: 0 0.75rem;
+    border: 1px solid var(--color-line);
+    border-radius: 0;
+    background: var(--color-paper);
+    font: inherit;
+    font-size: 0.9375rem;
+    color: var(--color-ink);
+  }
+
+  .filters__select:focus-visible {
+    outline: 2px solid var(--color-bamboo);
+    outline-offset: 1px;
+  }
+
+  .filters__reset {
+    min-height: 44px;
+    padding: 0 1rem;
+    border: 0;
+    background: none;
+    font: inherit;
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: var(--color-bamboo);
+    cursor: pointer;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+
+  .filters__count {
+    margin: 0.85rem 0 0;
+    font-size: 0.8125rem;
+    line-height: 1.5;
+    font-variant-numeric: tabular-nums;
+    color: var(--color-muted);
+  }
+</style>

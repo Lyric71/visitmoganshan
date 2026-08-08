@@ -1,0 +1,85 @@
+{
+  "id": 5758384,
+  "name": "Wangshanju Inn",
+  "seedName": "Wangshanju Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5758384",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5758384&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5758384&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness:Rooms are consistently described as clean, with tidy beds and well-maintained facilities. Guests highlight the absence of clutter and the overall freshness of the environment, though some note dust on bathroom blinds.(based on 2 reviews) Service:Staff, particularly the hosts, are praised for their friendliness and helpfulness, offering travel recommendations and ensuring guests feel welcomed. Their attentiveness to guest needs, such as assisting elderly visitors, is frequently mentioned.(based on 3 reviews) Breakfast:Breakfast options are varied and generous, including local specialties like stir-fried bamboo shoots, porridge, and traditional items such as steamed buns and eggs, ensuring guests are well-fed.(based on 1 review)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms are consistently described as clean, with tidy beds and well-maintained facilities. Guests highlight the absence of clutter and the overall freshness of the environment, though some note dust on bathroom blinds.",
+        "count": 2
+      },
+      {
+        "topic": "Service",
+        "text": "Staff, particularly the hosts, are praised for their friendliness and helpfulness, offering travel recommendations and ensuring guests feel welcomed. Their attentiveness to guest needs, such as assisting elderly visitors, is frequently mentioned.",
+        "count": 3
+      },
+      {
+        "topic": "Breakfast",
+        "text": "Breakfast options are varied and generous, including local specialties like stir-fried bamboo shoots, porridge, and traditional items such as steamed buns and eggs, ensuring guests are well-fed.",
+        "count": 1
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No.12 Zhuyuan Road, Deqing, Zhejiang, 313201, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/5758384/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200d0j000000aih15B8F5.jpg"
+    },
+    {
+      "src": "/images/stays/5758384/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200f0q000000gmcts1A2C.webp"
+    },
+    {
+      "src": "/images/stays/5758384/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200c0q000000g9jv57B88.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "位置非常的好，右轉離庾村廣場走5分鐘，左轉網紅餐廳3分鐘！老闆娘很客氣，自家種的玉米很甜！可以停車！",
+      "author": "Guest User",
+      "date": "2026-07-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5758384&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5758384&trip_sub3=D19127628"
+    },
+    {
+      "quote": "位置非常的好，右轉離庾村廣場走5分鐘，左轉網紅餐廳3分鐘！老闆娘很客氣，自家種的玉米很甜！可以停車！",
+      "author": "Guest User",
+      "date": "2026-07-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5758384&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5758384&trip_sub3=D19127628"
+    },
+    {
+      "quote": "位置離庾村很近，那裡的民國風情街值得轉一轉，很多小店很有特色，步行幾分鐘就可以到達。民宿不是特別高檔但是衞生乾淨，環境舒適視野景觀不錯，老闆人特別好，給了我們很多遊玩建議，早餐也很可口。圖片是從三樓房間看出去的景色。",
+      "author": "Guest User",
+      "date": "2023-08-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5758384&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5758384&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 8,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:07:33.993Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

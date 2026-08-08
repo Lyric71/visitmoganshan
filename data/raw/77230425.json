@@ -1,0 +1,72 @@
+{
+  "id": 77230425,
+  "name": "Moganshan Yuanmoshanju (Moganshan International Tourism Resort)",
+  "seedName": "Moganshan Yuanmoshanju (Moganshan International Tourism Resort)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-77230425",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=77230425&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-77230425&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Yuanmoshanju (Moganshan International Tourism Resort)?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "莫干山镇劳岭村岭坑里14号, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/77230425/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0204l120008qhceo21D34.jpg"
+    },
+    {
+      "src": "/images/stays/77230425/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02038120008r7rcyg18E4.webp"
+    },
+    {
+      "src": "/images/stays/77230425/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203o120008r7r0ggD8D1.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "這次旅行很開心 名宿很棒 很乾凈 老闆也很熱情 環境超級舒服 讓人很放鬆 棒棒棒！！下次還來！！",
+      "author": "Guest User",
+      "date": "2024-04-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=77230425&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-77230425&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間很乾凈，大落地玻璃非常明亮，床墊睡得很舒服。衞生間是三區分離的，有棋牌房和K唱區，JBL的音箱音質不錯，下次帶朋友一起來轟趴。😎😎😎",
+      "author": "Guest User",
+      "date": "2024-01-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=77230425&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-77230425&trip_sub3=D19127628"
+    },
+    {
+      "quote": "這次旅行很開心 名宿很棒 很乾凈 老闆也很熱情 環境超級舒服 讓人很放鬆 棒棒棒！！下次還來！！",
+      "author": "Guest User",
+      "date": "2024-04-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=77230425&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-77230425&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 5,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:17:07.073Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

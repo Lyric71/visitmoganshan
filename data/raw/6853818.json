@@ -1,0 +1,45 @@
+{
+  "id": 6853818,
+  "name": "Tongling Shanju Hotel",
+  "seedName": "Tongling Shanju Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-6853818",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6853818&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6853818&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Tongling Shanju Hotel?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "By Tongling Reservoir, Yaowu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/6853818/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200i1a0000018jgn22225.jpg"
+    },
+    {
+      "src": "/images/stays/6853818/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200t0j000000aiqmuB60D.webp"
+    },
+    {
+      "src": "/images/stays/6853818/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20090i0000009ccug22C8.webp"
+    }
+  ],
+  "comments": [],
+  "rating": null,
+  "sourcedAt": "2026-08-08T16:10:05.546Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}

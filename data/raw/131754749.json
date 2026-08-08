@@ -1,0 +1,66 @@
+{
+  "id": 131754749,
+  "name": "Moganshan Mange Homestay",
+  "seedName": "Moganshan Mange Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-131754749",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=131754749&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-131754749&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Mange Homestay?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "莫干山镇三莫线高峰村孙凉坞中心村77号, Deqing, Zhejiang, China",
+  "priceRange": "Unbeatable daily deals - quickly find great rates for your ideal stay. And if it's cheaper elsewhere, we'll refund the difference.",
+  "facilities": [
+    "Bar",
+    "Restaurant",
+    "Multi-function room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/131754749/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4012000nw41bkaE2C7.jpg"
+    },
+    {
+      "src": "/images/stays/131754749/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3212000nw5cxxo97E9.webp"
+    },
+    {
+      "src": "/images/stays/131754749/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4012000nw41bkaE2C7.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "這次國慶我們一家三口在莫干山漫戈民宿住了三天兩晚，找到了“家”的感覺。從入住到離開，老闆全家都像家人一樣親切，熱情。在我們到達前就提前把空調打開，幫我們一起將行李送到房間，還熱情介紹周圍的景點。每天的早餐都是一大亮點，不是半成品，大都是老闆父母起早親手做的，雞蛋，粥點小菜、肉包，油條，尤其是粥，熬得特別濃稠，她家的早餐既豐盛又可口，就像在家一樣有煙火氣。民宿裝修得很有品味，設施都很新，很乾凈。我們帶着小鳥一起來，在這裏牠們也能自由自在地玩耍，完全被接納。不得不説這是一次完美的旅行！",
+      "author": "Guest User",
+      "date": "2025-10-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=131754749&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-131754749&trip_sub3=D19127628"
+    },
+    {
+      "quote": "環境：好 設施設備：完善 服務：好，24小時管家服務 莫干山漫戈民宿在莫干山腳下，地理位置得天獨厚，到各個景點都非常方便。民宿距離各個景區近在咫尺，交通極為便捷、民宿採用獨棟別墅的佈局，不僅擁有開闊的活動空間，更營造出私密的專屬氛圍。 民宿裏有娛樂設施：包括KTV、麻將室、游泳池、手工DIY區，雖然我們衹定了一間房，但是這些設施我們都可以享受，而且是免費的。 熱心的管家，還跟我們介紹了莫干山周邊景點。 整一個入住旅程很開心，很舒適，下次還會選擇漫戈民宿，也會介紹給身邊朋友。",
+      "author": "Guest User",
+      "date": "2025-09-13",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=131754749&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-131754749&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 2,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T16:20:49.539Z",
+  "source": "trip",
+  "price": {
+    "amount": 31,
+    "currency": "USD",
+    "checkIn": "2026-09-07",
+    "checkOut": "2026-09-09",
+    "pricedAt": "2026-08-08"
+  }
+}
