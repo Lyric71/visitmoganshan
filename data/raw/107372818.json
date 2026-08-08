@@ -1,0 +1,73 @@
+{
+  "id": 107372818,
+  "name": "Moganshan Jiye Homestay",
+  "seedName": "Moganshan Jiye Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-107372818",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=107372818&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-107372818&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment Location:The location is excellent, close to attractions like Jiangnan Yaowu and Tianquan Mountain. The geographical position is convenient for visiting attractions and finding food.(based on 95 reviews) Decoration Style:The B&B has a unique and stylish decoration style, such as wabi-sabi style, simple yet elegant, which is in line with many users' aesthetic tastes. Facilities:Facilities are complete, with high-quality amenities like Appelles bath products, and there is a parking lot at the door.(based on 245 reviews) Service:The owner and his family are friendly and attentive, actively recommending attractions and providing detailed check-in guides and travel tips.(based on 366 reviews) Hygiene:The room is clean and tidy, and the overall hygiene is good, with no dust and a pleasant aroma.(based on 220 reviews) Breakfast:Breakfast is diverse, combining Chinese and Western styles, and is rich and delicious(based on 143 reviews)",
+  "address": "No. 23, Yaowu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$90",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/107372818/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6p12000b3kzudo782D.jpg"
+    },
+    {
+      "src": "/images/stays/107372818/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6m12000b3ktua087B6.webp"
+    },
+    {
+      "src": "/images/stays/107372818/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6n12000b3kis11A1CC.webp"
+    },
+    {
+      "src": "/images/stays/107372818/4.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1f12000b3kdarnE210.webp"
+    },
+    {
+      "src": "/images/stays/107372818/5.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2e12000b3kh9urEF49.webp"
+    },
+    {
+      "src": "/images/stays/107372818/6.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1712000b3kknjyF924.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The hotel is located at the foot of Mountain of Mo gan, with a simple and luxury style, suitable for young people to live in🦋So I highly recommend hotel of JIYEE，I hope to stay here next time🐳🐳",
+      "author": "Liang.XxxX",
+      "date": "2024-07-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=107372818&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-107372818&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Highly recommended! The hotel boasts a clean and simple environment with impeccable hygiene. The rooms were odor-free, and the facilities were complete and functional. The owner was kind, attentive, and responsive. The public areas were quiet and peaceful, ensuring a...",
+      "author": "Guest User",
+      "date": "2026-05-15",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=107372818&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-107372818&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The overall style of the guesthouse was exactly my kind of serene and tranquil atmosphere. The owner was very kind and recommended nearby attractions. Following his directions, we went to Tianquan Mountain, which was truly wonderful. However, due to my...",
+      "author": "Xuezhisha",
+      "date": "2026-02-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=107372818&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-107372818&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 665,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:09:27.157Z",
+  "source": "trip"
+}

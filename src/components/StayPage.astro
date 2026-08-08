@@ -1,0 +1,378 @@
+---
+import Layout from '../layouts/Layout.astro';
+import SiteHeader from './SiteHeader.astro';
+import SiteFooter from './SiteFooter.astro';
+import Breadcrumbs from './Breadcrumbs.astro';
+import StayGallery from './StayGallery.astro';
+import StayComments from './StayComments.astro';
+import { factChips, goPath, siblingStays, stayJsonLd, stayPath, type StayEntry } from '../lib/stays';
+
+/**
+ * One property page.
+ *
+ * The order is fixed and it is an argument: what it looks like, what it is,
+ * what is wrong with it, what other people said, and only then the button. A
+ * page that leads with the button is an ad. The honest note sits above the
+ * reviews rather than below them because it is the thing a reader is least
+ * likely to find anywhere else, and it is the reason to trust the rest.
+ *
+ * Every outbound commercial link is rel="sponsored noopener" and routes through
+ * /go/, which is disallowed in robots.txt. The disclosure sits directly under
+ * the button, not in the footer: a disclosure a reader has to go looking for is
+ * not a disclosure.
+ */
+interface Props {
+  entry: StayEntry;
+  all: StayEntry[];
+}
+
+const { entry, all } = Astro.props;
+const { data } = entry;
+
+const path = stayPath(data.slug);
+const chips = factChips(data);
+const siblings = siblingStays(entry, all);
+const go = goPath(data.affiliate.goSlug);
+
+// Drafts render only under STAYS_PREVIEW, and when they do they must not be
+// indexable: an unfinished property page is exactly the thin page this whole
+// build is arranged to avoid shipping.
+const isDraft = data.status !== 'published';
+
+const allFromListing = data.images.every((image) => /listing/i.test(image.credit));
+
+const crumbs = [
+  { label: 'Home', href: '/' },
+  { label: 'Where to stay', href: '/where-to-stay' },
+  { label: data.name, href: path },
+];
+
+const jsonLd = [
+  stayJsonLd(data),
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: crumbs.map((crumb, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      name: crumb.label,
+      item: new URL(crumb.href, Astro.site).href.replace(/(?<!\/)\/$/, ''),
+    })),
+  },
+]
+  .map((block) => `<script type="application/ld+json">${JSON.stringify(block)}</script>`)
+  .join('\n');
+---
+
+<Layout
+  title={data.seo.title}
+  description={data.seo.metaDescription}
+  noindex={isDraft}
+  ogImage={data.images[0].src}
+>
+  <Fragment slot="head">
+    {!isDraft && <meta name="robots" content="index, follow, max-image-preview:large" />}
+    <Fragment set:html={jsonLd} />
+  </Fragment>
+
+  <SiteHeader />
+  <Breadcrumbs crumbs={crumbs} />
+
+  <main id="main">
+    <div class="vm-container">
+      <header class="head">
+        <p class="vm-kicker">Where to stay, {data.city}</p>
+        <h1>{data.name}</h1>
+        {
+          chips.length > 0 && (
+            <ul class="chips">
+              {chips.map((chip) => (
+                <li>{chip}</li>
+              ))}
+            </ul>
+          )
+        }
+        {
+          isDraft && (
+            <p class="draft">
+              Draft. This page is visible because the build ran with STAYS_PREVIEW set. It is
+              noindexed and it is not in the sitemap.
+            </p>
+          )
+        }
+      </header>
+
+      <StayGallery images={data.images} name={data.name} />
+
+      <section class="what" aria-labelledby="what-title">
+        <h2 id="what-title">What it is</h2>
+        <p>{data.description}</p>
+      </section>
+
+      <aside class="note" aria-labelledby="note-title">
+        <p class="vm-kicker" id="note-title">The honest note</p>
+        <p>{data.note}</p>
+      </aside>
+
+      <StayComments
+        comments={data.comments}
+        rating={data.rating}
+        reviewsUrl={data.comments[0].sourceUrl}
+      />
+
+      <section class="cta" aria-labelledby="cta-title">
+        <h2 id="cta-title">Book it</h2>
+        <p class="cta__line">
+          Rates and availability change daily and we do not hold either. This link opens the
+          property on Trip.com.
+        </p>
+        <a class="vm-btn" href={go} rel="sponsored noopener" target="_blank">
+          Check dates on Trip.com
+          <span class="vm-sr-only"> (opens in a new tab)</span>
+        </a>
+        <p class="cta__disclosure">
+          We may earn a commission if you book through this link, at no cost to you.{' '}
+          <a href="/plan/disclosure">How this site is funded</a>.
+        </p>
+        {/* The site-wide note covers two cases, and offering both on a page
+            where only one applies tells the reader nothing. A property page
+            whose every credit points at the listing says exactly that; a page
+            carrying any generated frame falls back to the standing wording. */}
+        <p class="cta__illustration">
+          {
+            allFromListing
+              ? 'Photographs here are the property’s own listing images, supplied through Trip.com. We have not stayed here and did not take them, and rooms and grounds change.'
+              : 'Photographs on this site are representative illustrations or supplied listing images, not documentary images of the specific room or service described.'
+          }
+        </p>
+      </section>
+
+      <section class="related" aria-labelledby="related-title">
+        <h2 id="related-title">Nearby, and next</h2>
+        <ul class="related__list">
+          {
+            siblings.map((sibling) => (
+              <li>
+                <a href={stayPath(sibling.data.slug)}>
+                  <span class="related__title">{sibling.data.name}</span>
+                  <span class="related__sub">
+                    {[sibling.data.type, sibling.data.village].filter(Boolean).join(' · ')}
+                  </span>
+                </a>
+              </li>
+            ))
+          }
+          {
+            data.village && (
+              <li>
+                <a href="/moganshan/villages">
+                  <span class="related__title">The villages</span>
+                  <span class="related__sub">
+                    Where {data.village} sits, and what is walkable from it
+                  </span>
+                </a>
+              </li>
+            )
+          }
+          <li>
+            <a href="/itineraries/weekend-from-shanghai">
+              <span class="related__title">A weekend from Shanghai</span>
+              <span class="related__sub">Friday train, Sunday afternoon back</span>
+            </a>
+          </li>
+          <li>
+            <a href="/where-to-stay">
+              <span class="related__title">Where to stay in Moganshan</span>
+              <span class="related__sub">The whole picture, by area and by kind of place</span>
+            </a>
+          </li>
+        </ul>
+      </section>
+    </div>
+  </main>
+
+  <SiteFooter />
+</Layout>
+
+<style>
+  /* Head ------------------------------------------------------------------ */
+
+  .head {
+    padding-block: clamp(2rem, 4vw, 3rem);
+    border-bottom: 1px solid var(--color-line);
+  }
+
+  .head h1 {
+    max-width: 22ch;
+    text-wrap: balance;
+  }
+
+  .chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem 0.5rem;
+    margin: 1.25rem 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .chips li {
+    padding: 0.3rem 0.7rem;
+    background: var(--color-mist);
+    font-size: 0.8125rem;
+    line-height: 1.4;
+    color: var(--color-ink);
+  }
+
+  .draft {
+    max-width: 58ch;
+    margin-top: 1.25rem;
+    padding: 0.75rem 1rem;
+    border-left: 2px solid var(--color-amber);
+    background: var(--color-mist-50);
+    font-size: 0.875rem;
+    line-height: 1.6;
+    color: var(--color-muted);
+  }
+
+  /* What it is ------------------------------------------------------------ */
+
+  .what {
+    padding-block: clamp(2.5rem, 5vw, 4rem);
+  }
+
+  .what h2 {
+    font-size: clamp(1.25rem, 2vw, 1.5rem);
+  }
+
+  .what p {
+    max-width: 68ch;
+    margin-top: 0.75rem;
+    font-size: 1.0625rem;
+    line-height: 1.7;
+    text-wrap: pretty;
+  }
+
+  /* The honest note -------------------------------------------------------- */
+
+  /* Same treatment as the FAQ pointer on a guide page: a leaf rule and a mist
+     ground. It is a distinct block because it is the one paragraph on the page
+     arguing against the button below it, and that has to be visible to somebody
+     scanning. */
+  .note {
+    padding: 1.25rem 1.5rem;
+    border-left: 2px solid var(--color-leaf);
+    background: var(--color-mist-50);
+  }
+
+  .note p {
+    max-width: 62ch;
+    margin: 0;
+    font-size: 1rem;
+    line-height: 1.65;
+  }
+
+  /* Call to action --------------------------------------------------------- */
+
+  .cta {
+    padding-block: clamp(2.5rem, 5vw, 4rem);
+    border-top: 1px solid var(--color-line);
+  }
+
+  .cta h2 {
+    font-size: clamp(1.25rem, 2vw, 1.5rem);
+  }
+
+  .cta__line {
+    max-width: 58ch;
+    margin: 0.75rem 0 1.25rem;
+    font-size: 0.9375rem;
+    line-height: 1.6;
+    color: var(--color-muted);
+  }
+
+  .cta__disclosure {
+    max-width: 58ch;
+    margin-top: 1rem;
+    font-size: 0.8125rem;
+    line-height: 1.6;
+    color: var(--color-muted);
+  }
+
+  .cta__disclosure a {
+    color: var(--color-bamboo);
+  }
+
+  .cta__illustration {
+    max-width: 58ch;
+    margin-top: 1rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--color-line);
+    font-size: 0.8125rem;
+    line-height: 1.6;
+    color: var(--color-muted);
+  }
+
+  /* Related ---------------------------------------------------------------- */
+
+  .related {
+    padding-block: clamp(2.5rem, 5vw, 4rem);
+    border-top: 1px solid var(--color-line);
+  }
+
+  .related h2 {
+    font-size: clamp(1.25rem, 2vw, 1.5rem);
+    margin-bottom: 1.5rem;
+  }
+
+  .related__list {
+    display: grid;
+    gap: 1px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    background: var(--color-line);
+    border-block: 1px solid var(--color-line);
+  }
+
+  @media (min-width: 768px) {
+    .related__list {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    /* The count varies with how many siblings a property has, so an odd
+       number is the normal case rather than the exception. Without this the
+       last row shows one card and one grey hole where the rule colour behind
+       the grid shows through. */
+    .related__list li:last-child:nth-child(odd) {
+      grid-column: 1 / -1;
+    }
+  }
+
+  .related__list li a {
+    display: block;
+    height: 100%;
+    padding: 1.125rem 1.25rem;
+    background: var(--color-paper);
+    text-decoration: none;
+  }
+
+  .related__list li a:hover {
+    background: var(--color-mist-50);
+  }
+
+  .related__title {
+    display: block;
+    font-family: var(--font-display);
+    font-size: 1.0625rem;
+    color: var(--color-bamboo);
+  }
+
+  .related__sub {
+    display: block;
+    margin-top: 0.3rem;
+    font-size: 0.875rem;
+    line-height: 1.5;
+    color: var(--color-muted);
+  }
+</style>

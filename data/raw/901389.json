@@ -1,0 +1,77 @@
+{
+  "id": 901389,
+  "name": "naked Stables Resort",
+  "seedName": "naked Stables Resort",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-901389",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=901389&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-901389&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Pet-friendly:The resort is notably pet-friendly, providing amenities such as pet beds, toys, and pee pads in rooms, along with pet-specific meals. This attention to detail ensures a comfortable and enjoyable stay for guests traveling with pets.(based on 767 reviews) Facilities:The facilities are well-maintained, with cozy and modern accommodations, including rammed earth cottages and treehouses. The resort offers convenient shuttle services, clean swimming pools, and diverse dining options catering to different tastes.(based on 183 reviews) Guest Suggestion:Some customers suggest improving the outdated facilities, enhancing room cleanliness, and addressing service inefficiencies, such as long wait times and inadequate staff responsiveness.(based on 37 reviews)",
+  "address": "No. 37, Shangxiazhuang, Lanshukeng Village, Moganshan Town, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$339",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Spa",
+    "3 Restaurants",
+    "Conference room",
+    "Playground",
+    "Kids' club"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/901389/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/hotel/669000/668111/9ed61a9af6d74c4aa89d560a7dd4c65e.jpg"
+    },
+    {
+      "src": "/images/stays/901389/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/hotel/669000/668111/100284c2efef4a46a312fccc361c553d.webp"
+    },
+    {
+      "src": "/images/stays/901389/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4e12000cnq9dk326DF.webp"
+    },
+    {
+      "src": "/images/stays/901389/4.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02068120008sx8n7kB230.webp"
+    },
+    {
+      "src": "/images/stays/901389/5.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20080p000000foupp1548.webp"
+    },
+    {
+      "src": "/images/stays/901389/6.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02056120008t8dn6w4B8E.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Our family's first summer trip – Naked Stables. Our little one rushed to Moganshan right after school, still in her uniform! Even though it was the rainy season, it had its own unique charm. Environment: Secluded and tranquil, with various...",
+      "author": "Lanmeimei_ZJ",
+      "date": "2026-08-02",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=901389&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-901389&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Definitely the most worthwhile stay I've had in Moganshan! The service quality is top-notch, responses are quick, and the room amenities are incredibly high-quality. It's a natural oxygen bar, and I'll choose this place again next time I bring my...",
+      "author": "Guest User",
+      "date": "2026-08-05",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=901389&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-901389&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Our group of nine stayed at Naked Stables for two nights, and the overall service quality was excellent, with Joan assisting us throughout. Upon check-in, a group chat was created, allowing us to communicate any questions and receive prompt replies....",
+      "author": "Guest User",
+      "date": "2026-08-04",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=901389&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-901389&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 2493,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:10:12.456Z",
+  "source": "trip"
+}

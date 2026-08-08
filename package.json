@@ -18,7 +18,11 @@
     "img:audit": "node scripts/audit-images.mjs",
     "figures": "node scripts/build-figures.mjs",
     "icons": "node scripts/build-icons.mjs",
-    "hooks:install": "node scripts/install-hooks.mjs"
+    "hooks:install": "node scripts/install-hooks.mjs",
+    "stays:collect": "node scripts/collect-stays.mjs",
+    "stays:build": "node scripts/build-stays.mjs",
+    "stays:validate": "node scripts/validate-stays.mjs",
+    "stays:preview": "STAYS_PREVIEW=1 astro dev --host 127.0.0.1"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.9",
@@ -34,6 +38,7 @@
     "playwright": "^1.62.0",
     "prettier": "^3.9.6",
     "prettier-plugin-astro": "^0.14.1",
-    "sharp": "^0.35.3"
+    "sharp": "^0.35.3",
+    "yaml": "^2.8.1"
   }
 }

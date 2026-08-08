@@ -61,7 +61,7 @@ That logic still runs the calendar. July and August are the core season because 
 
 Spring is also the food season. Moganshan is over 92 percent forest, almost all of it moso bamboo grown and cut as a commercial crop, and spring is when the shoots come up and go onto local menus. Guesthouse kitchens make a point of it. The [bamboo forest](/moganshan/bamboo-forest/) also photographs better now than under summer haze.
 
-Late March and April sit at off-season rates, roughly RMB 300 to 500 for a mid-range room, which is the best value on the calendar outside winter. Spring suits walkers and anyone who came for the food, and it makes a good first visit.
+Late March and April sit at off-season rates, roughly RMB 300 to 500 for a mid-range room, which is the best value on the calendar outside winter. Spring suits walkers and anyone who came for the food, and it makes a good first visit. [Spring in Moganshan](/seasons/spring/) takes the three months one at a time, and names the week that undoes them.
 
 ## Summer, June to August
 
@@ -71,7 +71,7 @@ Late March and April sit at off-season rates, roughly RMB 300 to 500 for a mid-r
 - **July and August are the core domestic season.** Guesthouses sell out months ahead and mid-range rooms clear RMB 1,000.
 - **The weekend spike lands on an already full week.** Mondays are the quiet exception.
 
-Summer works for families tied to Chinese school terms. With open dates, it is the wrong choice.
+Summer works for families tied to Chinese school terms. With open dates, it is the wrong choice. [Summer in Moganshan](/seasons/summer/) has the heat, the mist and the sold-out weeks in full.
 
 ## Autumn, September to November
 
@@ -81,7 +81,7 @@ September cools off week by week, and October is mild and often clear. November 
 
 Autumn earns the recommendation on visibility. Summer mist and spring rain both cost you the ridge view, and late autumn is when the air clears. Operators promote it as a shoulder season, which tells you they know summer is oversubscribed.
 
-The crowd shape is lopsided. The first week of October is National Day, the hardest week on the calendar. After it the numbers fall away, and by November a weekday walk can run an hour without meeting anybody. Prices slide back toward the off-season band. For an international trip, this is the season.
+The crowd shape is lopsided. The first week of October is National Day, the hardest week on the calendar. After it the numbers fall away, and by November a weekday walk can run an hour without meeting anybody. Prices slide back toward the off-season band. For an international trip, this is the season. [Autumn in Moganshan](/seasons/autumn/) makes the case at length.
 
 ## Winter, December to February
 
@@ -99,7 +99,7 @@ The trade is still a good one.
 | Short hours and some closures | Rooms at the bottom of their range |
 | Short daylight against an 18:00 transfer | Paths to yourself |
 
-Come in winter if you want quiet more than comfort. Do not come expecting a village that is still awake at nine.
+Come in winter if you want quiet more than comfort. Do not come expecting a village that is still awake at nine. [Winter in Moganshan](/seasons/winter/) covers the closures, the half-price ticket and the light.
 
 ## The two Golden Weeks
 

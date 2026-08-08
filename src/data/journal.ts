@@ -1,10 +1,10 @@
 /**
  * Journal teasers.
  *
- * The brief supplies no story copy, so titles and dates stay TODO rather than
- * being invented. `date` is an ISO string and is rendered visibly: several of
- * the pages currently ranking first for these queries were published in 2011
- * and 2014 and say so nowhere, which is exactly the gap a dated journal closes.
+ * These are the three published long reads, newest first. `date` is an ISO
+ * string and is rendered visibly: several of the pages currently ranking first
+ * for these queries were published in 2011 and 2014 and say so nowhere, which
+ * is exactly the gap a dated journal closes.
  *
  * This module ends in a link. No newsletter, no email capture, no exit modal.
  */
@@ -20,27 +20,27 @@ export type JournalPost = {
 
 export const JOURNAL: JournalPost[] = [
   {
-    slug: 'todo-1',
-    title: 'TODO',
-    date: null,
-    href: '/journal',
-    image: '/images/journal-1.webp',
-    alt: 'Afternoon light through the shutters of an old stone villa at Moganshan',
+    slug: 'the-second-opening',
+    title: 'The second opening',
+    date: '2026-08-07',
+    href: '/journal/the-second-opening',
+    image: '/images/guide/journal-second-opening.webp',
+    alt: 'Village guesthouses below the bamboo slopes of Moganshan',
   },
   {
-    slug: 'todo-2',
-    title: 'TODO',
-    date: null,
-    href: '/journal',
-    image: '/images/journal-2.webp',
-    alt: 'A farmer carrying cut bamboo poles along a mountain track at Moganshan',
+    slug: '118-then-78',
+    title: '118, then 78',
+    date: '2026-08-07',
+    href: '/journal/118-then-78',
+    image: '/images/guide/journal-118-then-78.webp',
+    alt: 'Old stone villas on a Moganshan ridge, houses that changed hands in the 1920s',
   },
   {
-    slug: 'todo-3',
-    title: 'TODO',
-    date: null,
-    href: '/journal',
-    image: '/images/journal-3.webp',
-    alt: 'A pot of Moganshan yellow bud tea on a wooden table beside an open window',
+    slug: 'the-founding-and-the-committee',
+    title: 'The founding, and the committee',
+    date: '2026-08-07',
+    href: '/journal/the-founding-and-the-committee',
+    image: '/images/guide/journal-founding.webp',
+    alt: 'Stone villas on a bamboo ridge at Moganshan, the settlement founded in the 1890s',
   },
 ];

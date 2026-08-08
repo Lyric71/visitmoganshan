@@ -1,0 +1,121 @@
+---
+/**
+ * The property gallery: a lead frame and a strip of the rest.
+ *
+ * Not a carousel. A carousel here would need JavaScript, a focus trap, live
+ * region announcements and its own keyboard model, and it would hide two of the
+ * three images this page is required to show behind a control most readers
+ * never touch. A grid shows all of them, needs none of that, and cannot break.
+ *
+ * Every file is served from this site. Trip.com's image CDN is referrer
+ * checked, expires URLs, and is unreliable from inside China, which is where a
+ * large share of this audience reads; a hotlinked gallery is a page that is
+ * blank for them.
+ */
+interface Props {
+  images: { src: string; alt: string; credit: string }[];
+  name: string;
+}
+
+const { images, name } = Astro.props;
+
+const [lead, ...rest] = images;
+
+// One credit line under the whole gallery when every file came from the same
+// place, which is the normal case. Per image credits only when they differ,
+// because three identical lines under three images is noise.
+const credits = [...new Set(images.map((image) => image.credit))];
+---
+
+<section class="gallery" aria-label={`Photographs of ${name}`}>
+  <figure class="gallery__lead">
+    {/* Eager: this is the LCP element on a property page. */}
+    <img
+      src={lead.src}
+      alt={lead.alt}
+      width="1600"
+      height="1067"
+      loading="eager"
+      fetchpriority="high"
+      decoding="async"
+    />
+  </figure>
+
+  {
+    rest.length > 0 && (
+      <ul class="gallery__rest">
+        {rest.map((image) => (
+          <li>
+            <img
+              src={image.src}
+              alt={image.alt}
+              width="800"
+              height="533"
+              loading="lazy"
+              decoding="async"
+            />
+          </li>
+        ))}
+      </ul>
+    )
+  }
+
+  <p class="gallery__credit">{credits.join('. ')}</p>
+</section>
+
+<style>
+  .gallery {
+    margin-top: clamp(2rem, 4vw, 3rem);
+  }
+
+  .gallery__lead {
+    margin: 0;
+  }
+
+  .gallery__lead img {
+    display: block;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 3 / 2;
+    object-fit: cover;
+    background: var(--color-mist);
+  }
+
+  /* One column on a phone, then one track per image. Fixed tracks left a grey
+     hole whenever a property shipped the minimum three files, because the lead
+     takes one and only two are left for a three column row. Auto columns size
+     to what is actually there. */
+  .gallery__rest {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1px;
+    margin: 1px 0 0;
+    padding: 0;
+    list-style: none;
+    background: var(--color-line);
+  }
+
+  @media (min-width: 640px) {
+    .gallery__rest {
+      grid-auto-flow: column;
+      grid-auto-columns: minmax(0, 1fr);
+      grid-template-columns: none;
+    }
+  }
+
+  .gallery__rest img {
+    display: block;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 3 / 2;
+    object-fit: cover;
+    background: var(--color-mist);
+  }
+
+  .gallery__credit {
+    margin-top: 0.75rem;
+    font-size: 0.75rem;
+    line-height: 1.5;
+    color: var(--color-muted);
+  }
+</style>

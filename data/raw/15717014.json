@@ -1,0 +1,75 @@
+{
+  "id": 15717014,
+  "name": "Xizhu Yunjian Hot Spring Villa",
+  "seedName": "Xizhu Yunjian Hot Spring Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-15717014",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=15717014&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-15717014&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location and Environment:Nestled in the lush mountains, the hotel offers breathtaking views and a serene environment. The unique setting, with its surrounding bamboo forests, provides a peaceful retreat, perfect for relaxation and connecting with nature.(based on 153 reviews) Facilities:The hotel offers a variety of amenities that enhance the guest experience, including a private onsen, KTV room, and a pool. These facilities are well-maintained and provide additional options for relaxation and entertainment during the stay.(based on 161 reviews) Cleanliness and Comfort:The hotel is noted for its cleanliness and well-maintained rooms. The bedding is comfortable, and the overall atmosphere of the rooms is described as cozy and inviting, contributing to a restful stay.(based on 350 reviews) Guest Suggestion:Some customers suggest improving room hygiene and pest control, as well as enhancing the quality and comfort of mattresses, to better match the pricing expectations.(based on 2 reviews)",
+  "address": "No. 6, Ganmiaowu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$188",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Hot springs",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/15717014/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4v12000d0aivnw5D43.jpg"
+    },
+    {
+      "src": "/images/stays/15717014/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200e13000000uzxxuD68F.webp"
+    },
+    {
+      "src": "/images/stays/15717014/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0585y12000smz98077143.webp"
+    },
+    {
+      "src": "/images/stays/15717014/4.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200p0p000000fusviE076.webp"
+    },
+    {
+      "src": "/images/stays/15717014/5.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20080o000000ffdw968B5.webp"
+    },
+    {
+      "src": "/images/stays/15717014/6.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200h0p000000fxmadCCA3.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "An excellent B&B! The environment is beautiful and comfortable, and the lobby staff were very attentive. I'll definitely come back next time!",
+      "author": "Guest User",
+      "date": "2026-08-02",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=15717014&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-15717014&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room was clean and tidy, with a beautiful view outside the window. The dinner was delicious, especially the chicken soup and braised fish, and the vegetables were fresh and tasty. I even saw a rainbow after the rain 🌈",
+      "author": "Anonymous User",
+      "date": "2026-07-22",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=15717014&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-15717014&trip_sub3=D19127628"
+    },
+    {
+      "quote": "We went on a Thursday afternoon, and a butler contacted us in advance to discuss our route and itinerary. The hotel includes dinner, which can be customized, and it was absolutely delicious – highly recommend! The hotel faces lush, verdant...",
+      "author": "Kafeitiaolouji",
+      "date": "2026-05-31",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=15717014&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-15717014&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 786,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:09:06.283Z",
+  "source": "trip"
+}

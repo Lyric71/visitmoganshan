@@ -2,23 +2,34 @@
 /**
  * 6.2 Hero.
  *
- * 78vh desktop, 60vh mobile. Sixty is deliberate: the top of the hill station
- * band has to be visible without scrolling, or leading with culture buys
- * nothing.
+ * Near full height: `100svh` minus the sticky header on desktop, 88svh on
+ * phones. The small viewport unit rather than `vh` so the mobile browser
+ * chrome cannot push the buttons under the fold on first paint. The band below
+ * announces itself with the bottom gradient landing on bamboo, which is the
+ * hill station band's own background, so the fold reads as a seam rather than
+ * as the end of the page.
  *
  * No search box, no carousel. Nobody arrives at a small destination site
  * knowing what to search for, and a rotating hero is a way of admitting no
- * single picture was good enough.
+ * single picture was good enough. What the picture gets instead is time: a very
+ * slow push in, so the frame is never quite still while a reader is deciding
+ * whether to stay.
  *
- * The locator line under the tagline is not decoration. Three different things
+ * The locator line above the title is not decoration. Three different things
  * share this name in the index, and Moganshan Road (the M50 art district in
  * Shanghai) has already broken into the top ten for "what to do in moganshan".
  * The destination has to be pinned to Deqing County inside the first hundred
- * words of visible copy or the page competes with the wrong entity.
+ * words of visible copy or the page competes with the wrong entity. Above the
+ * h1 rather than below it because a kicker is read first and the title is the
+ * ambiguous word.
  *
- * The live conditions line sits with the locator for the same reason: weather
- * on a hill an hour from the sea is the first practical question a reader has,
- * and it doubles as proof the page is about a real place with an altitude.
+ * The live conditions panel sits opposite for the same reason: weather on a
+ * hill an hour from the sea is the first practical question a reader has, and
+ * it doubles as proof the page is about a real place with an altitude.
+ *
+ * Every moving part here is decoration over a legible still frame. Under
+ * `prefers-reduced-motion` the push in, the entrance stagger and the scroll cue
+ * all stop and the hero renders at its final state.
  */
 import HeroWeather from './HeroWeather.astro';
 ---
@@ -38,12 +49,13 @@ import HeroWeather from './HeroWeather.astro';
 
   <div class="vm-container hero__inner">
     <div class="hero__copy">
+      <p class="hero__eyebrow">
+        <span class="hero__eyebrow-rule" aria-hidden="true"></span>
+        Deqing County, Huzhou · Zhejiang, China · north of Hangzhou
+      </p>
       <h1 id="hero-title" class="hero__title">Moganshan</h1>
       <p class="hero__tagline">
         A mountain that Shanghai built a second life on, and then forgot.
-      </p>
-      <p class="hero__locator">
-        Deqing County, Huzhou · Zhejiang, China · north of Hangzhou
       </p>
       <div class="hero__actions">
         <a class="vm-btn" href="/moganshan/hill-station">Read the story</a>
@@ -52,15 +64,21 @@ import HeroWeather from './HeroWeather.astro';
     </div>
     <HeroWeather />
   </div>
+
+  <span class="hero__cue" aria-hidden="true">
+    <span class="hero__cue-label">Scroll</span>
+    <span class="hero__cue-line"></span>
+  </span>
 </section>
 
 <style>
   .hero {
     position: relative;
     display: flex;
-    align-items: flex-end;
-    min-height: 60vh;
-    padding-block: clamp(2.5rem, 6vw, 4rem);
+    flex-direction: column;
+    justify-content: flex-end;
+    min-height: 88svh;
+    padding-block: clamp(3rem, 8vw, 5rem) clamp(4.5rem, 9vw, 7rem);
     background: var(--color-bamboo);
     overflow: hidden;
     isolation: isolate;
@@ -69,7 +87,7 @@ import HeroWeather from './HeroWeather.astro';
   .hero__media {
     position: absolute;
     inset: 0;
-    z-index: -2;
+    z-index: -3;
   }
 
   .hero__media img {
@@ -77,38 +95,62 @@ import HeroWeather from './HeroWeather.astro';
     height: 100%;
     object-fit: cover;
     object-position: 55% 50%;
+    /* Held slightly over full size at rest so the animated push in never
+       exposes an edge, and so the still frame under reduced motion is the same
+       crop as the moving one. */
+    transform: scale(1.06);
+    transform-origin: 58% 45%;
+    animation: hero-push 34s cubic-bezier(0.33, 0, 0.25, 1) infinite alternate;
+    will-change: transform;
   }
 
-  /* Scrim from the bottom so the type clears 4.5:1 against whatever the
-     photograph does at that point. Weighted low and hard rather than flooding
-     the whole frame, which would flatten the picture. */
+  @keyframes hero-push {
+    from {
+      transform: scale(1.06) translate3d(0, 0, 0);
+    }
+    to {
+      transform: scale(1.17) translate3d(-1.2%, -0.8%, 0);
+    }
+  }
+
+  /* Two layers rather than one. The lower gradient carries the type contrast
+     and lands on bamboo so the hero dissolves into the band beneath it instead
+     of stopping at a hard edge. The vignette pulls the corners down, which is
+     what makes a photograph read as a frame rather than as a background. */
+  .hero::before,
   .hero::after {
     content: '';
     position: absolute;
     inset: 0;
+    pointer-events: none;
+  }
+
+  .hero::before {
+    z-index: -2;
+    background:
+      radial-gradient(
+        130% 95% at 62% 34%,
+        transparent 34%,
+        color-mix(in srgb, var(--color-ink) 55%, transparent) 100%
+      ),
+      linear-gradient(
+        to right,
+        color-mix(in srgb, var(--color-ink) 60%, transparent) 0%,
+        color-mix(in srgb, var(--color-ink) 22%, transparent) 42%,
+        transparent 70%
+      );
+  }
+
+  .hero::after {
     z-index: -1;
     background: linear-gradient(
       to top,
-      color-mix(in srgb, var(--color-ink) 88%, transparent) 0%,
-      color-mix(in srgb, var(--color-ink) 62%, transparent) 32%,
-      color-mix(in srgb, var(--color-ink) 18%, transparent) 62%,
-      transparent 88%
+      var(--color-bamboo) 0%,
+      color-mix(in srgb, var(--color-ink) 84%, transparent) 12%,
+      color-mix(in srgb, var(--color-ink) 58%, transparent) 34%,
+      color-mix(in srgb, var(--color-ink) 16%, transparent) 62%,
+      transparent 86%
     );
-  }
-
-  /* On phones the copy plus the weather panel fill most of the frame, so the
-     title sits far higher than the scrim above was tuned for. Carry the dark
-     further up rather than shrinking the type. */
-  @media (max-width: 767px) {
-    .hero::after {
-      background: linear-gradient(
-        to top,
-        color-mix(in srgb, var(--color-ink) 88%, transparent) 0%,
-        color-mix(in srgb, var(--color-ink) 70%, transparent) 45%,
-        color-mix(in srgb, var(--color-ink) 45%, transparent) 78%,
-        color-mix(in srgb, var(--color-ink) 22%, transparent) 100%
-      );
-    }
   }
 
   .hero__inner {
@@ -120,43 +162,191 @@ import HeroWeather from './HeroWeather.astro';
     max-width: 46ch;
   }
 
+  .hero__eyebrow {
+    display: flex;
+    align-items: center;
+    gap: 0.85rem;
+    margin-bottom: clamp(0.9rem, 2vw, 1.35rem);
+    font-size: 0.75rem;
+    font-weight: 500;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--color-mist-muted);
+  }
+
+  .hero__eyebrow-rule {
+    display: block;
+    flex: none;
+    width: clamp(1.75rem, 5vw, 3rem);
+    height: 1px;
+    background: var(--color-amber);
+  }
+
   .hero__title {
-    /* Larger than the global h1 scale: this is the one display moment on the
-       page and the word is short enough to carry it. */
-    font-size: clamp(2.5rem, 9vw, 4.25rem);
-    line-height: 1.05;
-    letter-spacing: -0.015em;
+    /* Far past the global h1 scale. This is the one display moment on the site
+       and the word is short enough to carry it at any width. */
+    font-size: clamp(3.25rem, 13vw, 8.5rem);
+    font-weight: 500;
+    line-height: 0.92;
+    letter-spacing: -0.03em;
     color: var(--color-mist);
+    /* A soft drop under the type rather than a heavier scrim over the picture:
+       it buys the contrast without flattening the bamboo behind it. */
+    text-shadow: 0 2px 28px color-mix(in srgb, var(--color-ink) 55%, transparent);
   }
 
   .hero__tagline {
-    max-width: 34ch;
-    margin-top: 0.9rem;
+    max-width: 32ch;
+    margin-top: clamp(1rem, 2.4vw, 1.5rem);
     font-family: var(--font-display);
-    font-size: clamp(1.0625rem, 2.2vw, 1.375rem);
+    font-size: clamp(1.125rem, 2.8vw, 1.75rem);
     font-style: italic;
-    line-height: 1.4;
+    line-height: 1.35;
     color: var(--color-mist);
+    text-shadow: 0 1px 18px color-mix(in srgb, var(--color-ink) 55%, transparent);
     text-wrap: pretty;
-  }
-
-  .hero__locator {
-    margin-top: 1rem;
-    font-size: 0.8125rem;
-    letter-spacing: 0.02em;
-    color: var(--color-mist-muted);
   }
 
   .hero__actions {
     display: flex;
     flex-wrap: wrap;
     gap: 0.75rem;
-    margin-top: clamp(1.75rem, 3vw, 2.25rem);
+    margin-top: clamp(1.75rem, 3.5vw, 2.5rem);
+  }
+
+  /* --- Scroll cue --- */
+
+  .hero__cue {
+    position: absolute;
+    left: 50%;
+    bottom: clamp(1.1rem, 2.5vw, 1.9rem);
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.6rem;
+    translate: -50% 0;
+    font-size: 0.625rem;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--color-mist-muted);
+  }
+
+  .hero__cue-line {
+    position: relative;
+    display: block;
+    width: 1px;
+    height: 3rem;
+    overflow: hidden;
+    background: color-mix(in srgb, var(--color-mist) 22%, transparent);
+  }
+
+  /* A short bright segment falling down the hairline, rather than a bouncing
+     chevron. It reads at the edge of vision and never asks to be looked at. */
+  .hero__cue-line::after {
+    content: '';
+    position: absolute;
+    inset-inline: 0;
+    top: -60%;
+    height: 60%;
+    background: linear-gradient(to bottom, transparent, var(--color-amber));
+    animation: hero-cue 2.6s cubic-bezier(0.5, 0, 0.5, 1) infinite;
+  }
+
+  @keyframes hero-cue {
+    0% {
+      transform: translateY(0);
+      opacity: 0;
+    }
+    25% {
+      opacity: 1;
+    }
+    100% {
+      transform: translateY(270%);
+      opacity: 0;
+    }
+  }
+
+  /* --- Entrance --- */
+
+  /* Staggered, and the title carries a little blur and open tracking on the way
+     in so it resolves rather than slides. Everything settles inside a second. */
+  .hero__eyebrow,
+  .hero__title,
+  .hero__tagline,
+  .hero__actions,
+  .hero__cue {
+    animation: hero-rise 900ms cubic-bezier(0.16, 1, 0.3, 1) backwards;
+  }
+
+  .hero__eyebrow {
+    animation-delay: 80ms;
+  }
+
+  .hero__title {
+    animation-name: hero-resolve;
+    animation-duration: 1200ms;
+    animation-delay: 160ms;
+  }
+
+  .hero__tagline {
+    animation-delay: 380ms;
+  }
+
+  .hero__actions {
+    animation-delay: 540ms;
+  }
+
+  .hero__cue {
+    animation-delay: 900ms;
+  }
+
+  @keyframes hero-rise {
+    from {
+      opacity: 0;
+      transform: translateY(1.25rem);
+    }
+    to {
+      opacity: 1;
+      transform: none;
+    }
+  }
+
+  @keyframes hero-resolve {
+    from {
+      opacity: 0;
+      letter-spacing: 0.06em;
+      filter: blur(14px);
+      transform: translateY(1.75rem);
+    }
+    to {
+      opacity: 1;
+      letter-spacing: -0.03em;
+      filter: blur(0);
+      transform: none;
+    }
+  }
+
+  /* On phones the copy plus the weather panel fill most of the frame, so the
+     title sits far higher than the gradients above were tuned for. Carry the
+     dark further up rather than shrinking the type. */
+  @media (max-width: 767px) {
+    .hero::after {
+      background: linear-gradient(
+        to top,
+        var(--color-bamboo) 0%,
+        color-mix(in srgb, var(--color-ink) 86%, transparent) 10%,
+        color-mix(in srgb, var(--color-ink) 68%, transparent) 45%,
+        color-mix(in srgb, var(--color-ink) 44%, transparent) 78%,
+        color-mix(in srgb, var(--color-ink) 22%, transparent) 100%
+      );
+    }
   }
 
   @media (min-width: 768px) {
     .hero {
-      min-height: 78vh;
+      /* Full viewport under the sticky 68px header, so the picture owns the
+         first screen and the band below starts exactly at the fold. */
+      min-height: calc(100svh - 68px);
     }
 
     /* The weather panel sits opposite the copy and settles on the same bottom
@@ -168,6 +358,22 @@ import HeroWeather from './HeroWeather.astro';
       align-items: flex-end;
       justify-content: space-between;
       gap: 2rem;
+    }
+
+    .hero__cue {
+      display: flex;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .hero__media img,
+    .hero__eyebrow,
+    .hero__title,
+    .hero__tagline,
+    .hero__actions,
+    .hero__cue,
+    .hero__cue-line::after {
+      animation: none;
     }
   }
 </style>

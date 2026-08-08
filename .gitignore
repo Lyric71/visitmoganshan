@@ -28,3 +28,8 @@ generated-*.png
 # ~3 MB PNGs each and only exist to be re-encoded by scripts/optimize-image.mjs
 # into public/images/. Living outside public/ keeps them out of the build.
 assets/raw/
+
+# Work in progress property entries. A draft becomes a collection file under
+# src/content/stays only once it is finished; until then it is one person's
+# desk, not the repository's.
+data/drafts/

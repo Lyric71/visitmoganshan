@@ -1,0 +1,117 @@
+---
+import LegalPage from '../../layouts/LegalPage.astro';
+
+/**
+ * /plan/disclosure
+ *
+ * The page every affiliate link on the site points at. It has to answer three
+ * questions a reader can reasonably ask: who pays for this, does it change what
+ * gets written, and what happens if I click.
+ *
+ * Written as a policy page rather than a guide article on purpose. It carries no
+ * photographs, and CLAUDE.md excludes the legal and utility set from the imagery
+ * rule for exactly this reason: an illustrated commission disclosure is
+ * decoration pretending to be content.
+ *
+ * Everything asserted here has to stay true of the actual build. If a paid
+ * placement, a sponsored listing or a second partner ever ships, this page
+ * changes in the same commit.
+ */
+const SECTIONS = [
+  { id: 'short-version', label: 'The short version' },
+  { id: 'who-we-work-with', label: 'Who we work with' },
+  { id: 'what-a-link-does', label: 'What a link does' },
+  { id: 'what-it-does-not-buy', label: 'What it does not buy' },
+  { id: 'photographs-and-reviews', label: 'Photographs and reviews' },
+  { id: 'ratings', label: 'Ratings and scores' },
+  { id: 'telling-us', label: 'Telling us we are wrong' },
+];
+---
+
+<LegalPage
+  title="How this site is funded"
+  seoTitle="Affiliate disclosure · Visit Moganshan"
+  description="Visit Moganshan earns commission on some Trip.com bookings. What that pays for, what it does not buy, and how property pages are put together."
+  standfirst="Some links on this site earn us a commission when a booking is made. This page says which ones, what they pay for, and what they do not buy."
+  updated="2026-08-08"
+  sections={SECTIONS}
+>
+  <h2 id="short-version">The short version</h2>
+  <p>
+    Visit Moganshan makes money in one way: commission on bookings made through links to Trip.com.
+    You pay the same price you would pay going to Trip.com directly. Nobody pays us to appear on
+    this site, nobody pays us to rank higher on it, and no property has ever been given copy
+    approval over a page about itself.
+  </p>
+
+  <h2 id="who-we-work-with">Who we work with</h2>
+  <p>
+    One booking partner, Trip.com. We are in their affiliate programme, which means a link from
+    here carries an identifier that tells them the booking came from us. There is no second
+    partner, no hotel that books through us directly, and no commercial arrangement with any
+    property on the mountain.
+  </p>
+  <p>
+    Where a property has no bookable listing with that partner, we say so and send you to the
+    property instead. A page here is not a shop window, and a place we rate is not left out because
+    it pays nobody.
+  </p>
+
+  <h2 id="what-a-link-does">What a link does</h2>
+  <p>
+    Every commercial link on this site goes through a path beginning <code>/go/</code>, which
+    redirects to the partner. The redirect exists so that a link can be counted, corrected or
+    removed in one place instead of across a hundred pages. It sets no cookie of ours and it
+    records nothing about you; what the partner does after that is covered by their own privacy
+    policy, and by ours on the <a href="/privacy">privacy page</a>.
+  </p>
+  <p>
+    Those links are marked <code>rel="sponsored"</code> in the page source, which is how you tell a
+    search engine that a link is commercial. Marking them costs us search value and we mark them
+    anyway, because the alternative is lying to a crawler about the same thing we are being honest
+    with you about.
+  </p>
+
+  <h2 id="what-it-does-not-buy">What it does not buy</h2>
+  <p>
+    It does not buy a place on the site, an order in a list, a better description, or the removal
+    of a criticism. Every property page carries one caveat, deliberately, and that caveat is
+    written before the booking link is added rather than after. If we cannot think of an honest
+    caveat for a place, we do not know it well enough to write about it yet.
+  </p>
+  <p>
+    We have not stayed at most of the properties bookable around this mountain, and we say so on
+    each page rather than implying a visit we did not make.
+  </p>
+
+  <h2 id="photographs-and-reviews">Photographs and reviews</h2>
+  <p>
+    Photographs on property pages come from the property, from the partner's listing, or are
+    representative illustrations produced for this site. Each image carries a credit saying which.
+    We host every file ourselves rather than pulling it from someone else's server, which is partly
+    a licensing matter and partly a practical one: hotlinked images fail from inside China, where a
+    large share of readers are.
+  </p>
+  <p>
+    Guest comments are short excerpts, quoted as written, with the reviewer's handle as the source
+    shows it, the date, and a link back to the review. They are not our words, we do not edit them
+    for tone, and we do not pick only the flattering ones. Descriptions are written here from what
+    we can verify, never pasted from a listing.
+  </p>
+
+  <h2 id="ratings">Ratings and scores</h2>
+  <p>
+    Where a page shows a review score, that score belongs to the platform it came from and is
+    labelled as such. We do not publish a star rating of our own for a place we have not stayed at,
+    and we do not republish someone else's aggregate score as structured data for search engines to
+    treat as ours.
+  </p>
+
+  <h2 id="telling-us">Telling us we are wrong</h2>
+  <p>
+    If a fact on a property page is out of date, if a caveat is unfair, or if you own a property and
+    something here misrepresents it, write to us through the <a href="/contact">contact page</a>.
+    Corrections are free and do not require a commercial relationship. So is the right to have a
+    page about your property say what is actually true of it.
+  </p>
+</LegalPage>

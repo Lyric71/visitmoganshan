@@ -1,0 +1,192 @@
+---
+/**
+ * What guests say: three short attributed excerpts, each linked back to the
+ * source.
+ *
+ * These are excerpts, not reviews. Reproducing another platform's user reviews
+ * in full on a commercial page is an IP and a duplicate content problem at
+ * once, so each quote is capped at roughly forty words by the pipeline, carries
+ * the handle exactly as the source shows it, and links back to the reviews it
+ * came from. The site never presents them as its own words, and never
+ * paraphrases one into something the guest did not say.
+ *
+ * The aggregate score is shown the same way: attributed to the platform, linked
+ * to it, and not emitted as our own structured data.
+ */
+interface Props {
+  comments: {
+    quote: string;
+    author: string;
+    date: string;
+    rating?: number;
+    translated: boolean;
+    sourceUrl: string;
+  }[];
+  rating?: { score: number; count: number; scale: number };
+  reviewsUrl: string;
+}
+
+const { comments, rating, reviewsUrl } = Astro.props;
+
+const formatDate = (iso: string) =>
+  new Date(iso).toLocaleDateString('en-GB', { month: 'long', year: 'numeric' });
+
+const scale = rating?.scale ?? 10;
+const anyTranslated = comments.some((comment) => comment.translated);
+---
+
+<section class="comments" aria-labelledby="comments-title">
+  <h2 id="comments-title">What guests say</h2>
+
+  {
+    rating && (
+      <p class="comments__aggregate">
+        <strong>
+          {rating.score.toFixed(1)} out of {scale}
+        </strong>{' '}
+        from{' '}
+        {rating.count.toLocaleString('en-GB')} guest reviews on{' '}
+        <a href={reviewsUrl} rel="sponsored noopener" target="_blank">
+          Trip.com
+        </a>
+        . That score is Trip.com's, not ours.
+      </p>
+    )
+  }
+
+  <ul class="comments__list">
+    {
+      comments.map((comment) => (
+        <li>
+          <figure>
+            <blockquote cite={comment.sourceUrl}>
+              <p>{comment.quote}</p>
+            </blockquote>
+            <figcaption>
+              <span class="comments__author">{comment.author}</span>
+              <span class="comments__meta">
+                {formatDate(comment.date)}
+                {comment.rating != null && ` · ${comment.rating.toFixed(1)} out of ${scale}`}
+                {comment.translated && ' · translated'}
+              </span>
+              <a href={comment.sourceUrl} rel="sponsored noopener" target="_blank">
+                via Trip.com
+                <span class="vm-sr-only"> (opens in a new tab)</span>
+              </a>
+            </figcaption>
+          </figure>
+        </li>
+      ))
+    }
+  </ul>
+
+  <p class="comments__note">
+    Excerpts, quoted as written and linked back to the review they came from. We have not edited
+    them for tone and we have not chosen only the good ones.
+    {
+      anyTranslated &&
+        ' Reviews marked translated were written in Chinese; what you are reading is Trip.com’s machine translation, not the guest’s own English.'
+    }
+  </p>
+</section>
+
+<style>
+  .comments {
+    padding-block: clamp(2.5rem, 5vw, 4rem);
+    border-top: 1px solid var(--color-line);
+  }
+
+  .comments h2 {
+    font-size: clamp(1.25rem, 2vw, 1.5rem);
+  }
+
+  .comments__aggregate {
+    max-width: 58ch;
+    margin-top: 0.75rem;
+    font-size: 0.9375rem;
+    line-height: 1.6;
+    color: var(--color-muted);
+  }
+
+  .comments__aggregate strong {
+    color: var(--color-ink);
+  }
+
+  .comments__list {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1px;
+    margin: 1.5rem 0 0;
+    padding: 0;
+    list-style: none;
+    background: var(--color-line);
+    border-block: 1px solid var(--color-line);
+  }
+
+  @media (min-width: 768px) {
+    .comments__list {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+  }
+
+  .comments__list li {
+    background: var(--color-paper);
+  }
+
+  .comments figure {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    height: 100%;
+    margin: 0;
+    padding: 1.25rem;
+  }
+
+  .comments blockquote {
+    margin: 0;
+    /* Playfair at this size reads as a pull quote rather than as body copy,
+       which is what these are: somebody else's voice inside our page. */
+    font-family: var(--font-display);
+    font-size: 1.0625rem;
+    line-height: 1.5;
+    color: var(--color-ink);
+  }
+
+  .comments blockquote p {
+    margin: 0;
+  }
+
+  .comments figcaption {
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+    margin-top: auto;
+    font-size: 0.8125rem;
+    line-height: 1.5;
+    color: var(--color-muted);
+  }
+
+  .comments__author {
+    font-weight: 600;
+    color: var(--color-ink);
+  }
+
+  .comments figcaption a {
+    color: var(--color-bamboo);
+    text-decoration: none;
+  }
+
+  .comments figcaption a:hover,
+  .comments figcaption a:focus-visible {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+
+  .comments__note {
+    max-width: 58ch;
+    margin-top: 1rem;
+    font-size: 0.8125rem;
+    line-height: 1.6;
+    color: var(--color-muted);
+  }
+</style>

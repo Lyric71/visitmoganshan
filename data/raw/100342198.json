@@ -1,0 +1,76 @@
+{
+  "id": 100342198,
+  "name": "Moganshan Kaiyuan Life Resort Hotel",
+  "seedName": "Moganshan Kaiyuan Life Resort Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-100342198",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=100342198&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-100342198&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Amenities and Activities:The hotel offers a variety of amenities, including a mini-train, archery, children's playground, and interactions with various animals like ducks and peacocks. These activities cater to both families and individuals seeking leisure.(based on 202 reviews) Room Quality:Rooms are described as spacious, clean, and well-equipped with modern facilities. Many guests appreciate the comfortable bedding and the scenic views from their balconies or windows, enhancing the overall stay experience.(based on 835 reviews) Pet-Friendly Policies:The hotel is notably pet-friendly, allowing guests to bring their pets without additional charges, and providing ample green spaces for pets to enjoy. Service Quality:Guests consistently praised the friendly and helpful staff, highlighting their willingness to assist and the warm welcome received upon arrival. The team at the front desk is noted for their professionalism and attentiveness.(based on 1,005 reviews) Guest Suggestion:Some customers suggest improving breakfast quality, hygiene, addressing maintenance issues, and enhancing service training.(based on 27 reviews)",
+  "address": "No. 9 Gaonan Road, Moganshan, Deqing, Zhejiang, China",
+  "priceRange": "From US$109",
+  "facilities": [
+    "Gym",
+    "Cardroom",
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/100342198/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5d12000qxwf55qC730.jpg"
+    },
+    {
+      "src": "/images/stays/100342198/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201912000a2c7bkq5792.webp"
+    },
+    {
+      "src": "/images/stays/100342198/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0202e12000a2c7eeeC4A1.webp"
+    },
+    {
+      "src": "/images/stays/100342198/4.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200212000a2c4uk8DF81.webp"
+    },
+    {
+      "src": "/images/stays/100342198/5.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0582512000sp6hqkj4E5D.webp"
+    },
+    {
+      "src": "/images/stays/100342198/6.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0q12000t4pqvhyBDA6.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Absolutely fantastic! The view was incredible. This is a truly excellent hotel! I'll definitely stay here again on my next visit and recommend it to friends. Next time, I'll try out the mini-train or something similar.",
+      "author": "Guest User",
+      "date": "2026-05-01",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=100342198&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-100342198&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The environment at Xinlingdi Resort Hotel is fantastic, featuring a rose garden, flower fields, an eco-orchard, a mini-train, archery, and even a free-range chicken park. The most delightful part of our day was feeding the beautiful koi in the emerald...",
+      "author": "Guest User",
+      "date": "2026-05-01",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=100342198&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-100342198&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The hotel is beautiful, the rooms were very clean and comfortable, the staff was polite and friendly Li Zhen guided us with all the information every time she could and Ian in the restaurant was very friendly and helpful he...",
+      "author": "L.Ardila",
+      "date": "2025-04-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=100342198&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-100342198&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 1805,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:10:34.995Z",
+  "source": "trip"
+}

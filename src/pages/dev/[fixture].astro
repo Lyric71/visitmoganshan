@@ -1,0 +1,86 @@
+---
+import StayPage from '../../components/StayPage.astro';
+import type { StayEntry } from '../../lib/stays';
+
+/**
+ * A rendering fixture for the property template. Never a page on the live site.
+ *
+ * Everything below is invented, and it says so on the page. It exists so the
+ * layout, the gallery, the callout, the comment block, the button and the
+ * disclosure can be looked at and measured before any real property is
+ * captured, without inventing content for a real, named hotel. The hotel here
+ * does not exist; the id is not in the seed; the quotes are written for this
+ * file and attributed to nobody.
+ *
+ * getStaticPaths returns nothing unless STAYS_PREVIEW is set, so a production
+ * build emits no route at all. Delete this file once a real Tier A entry has
+ * been through the template.
+ */
+export function getStaticPaths() {
+  if (!process.env.STAYS_PREVIEW) return [];
+
+  const images = [1, 2, 3].map((n) => ({
+    src: '/images/part-villas.webp',
+    alt: `Placeholder frame ${n} for the template fixture, not a photograph of any property`,
+    credit: 'Site illustration, used here only to size the gallery',
+  }));
+
+  const fixture = {
+    id: 0,
+    collection: 'stays',
+    data: {
+      id: 0,
+      name: 'Template Fixture Lodge',
+      slug: 'template-fixture-lodge-0',
+      city: 'Deqing',
+      cityId: 1367,
+      tier: 'B',
+      village: 'Yucun',
+      type: 'Lodge',
+      images,
+      description:
+        'This paragraph exists to occupy the space a real description will occupy, at roughly the length the schema allows. A finished one says what kind of place this is, where on the mountain it sits, how long the last leg from the road takes, what the rooms are actually like, and who the place suits. It is written here from sourced facts and never pasted from a listing, because pasted copy is an intellectual property problem and a duplicate content penalty in the same sentence. Nothing in this fixture describes a real property.',
+      note: 'Invented caveat, for layout only. A real one names a trade-off a reader can act on: the last kilometre of road, the walk in the dark, the kitchen that closes at eight.',
+      comments: [
+        {
+          quote: 'Invented quote written for this fixture. A real excerpt is quoted as written and capped at about forty words.',
+          author: 'Fixture',
+          date: '2026-01-01',
+          rating: 4.5,
+          sourceUrl: 'https://www.trip.com/',
+        },
+        {
+          quote: 'Second invented quote. Real ones keep the handle exactly as the source shows it and link back to the review.',
+          author: 'Fixture',
+          date: '2026-02-01',
+          rating: 4,
+          sourceUrl: 'https://www.trip.com/',
+        },
+        {
+          quote: 'Third invented quote. There are always exactly three, and the schema refuses an entry that carries any other number.',
+          author: 'Fixture',
+          date: '2026-03-01',
+          sourceUrl: 'https://www.trip.com/',
+        },
+      ],
+      rating: { score: 4.4, count: 128 },
+      affiliate: {
+        goSlug: 'moganshan-0',
+        url: 'https://www.trip.com/hotels/detail/?hotelId=0',
+      },
+      seo: {
+        title: 'Template fixture',
+        metaDescription: 'Rendering fixture for the property template. Not a real property.',
+      },
+      status: 'draft',
+      sourcedAt: '2026-08-08T00:00:00.000Z',
+    },
+  } as unknown as StayEntry;
+
+  return [{ params: { fixture: 'stay-template' }, props: { entry: fixture, all: [fixture] } }];
+}
+
+const { entry, all } = Astro.props;
+---
+
+<StayPage entry={entry} all={all} />

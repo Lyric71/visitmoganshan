@@ -1,0 +1,73 @@
+{
+  "id": 12092521,
+  "name": "Moganshan Zan Designer Boutique Homestay",
+  "seedName": "Moganshan Zan Designer Boutique Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-12092521",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=12092521&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-12092521&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:Nestled in bamboo forests or near streams, offering fresh air, stunning views, and a relaxing atmosphere. Surrounded by natural scenery like mountains and bamboo, providing a tranquil environment.(based on 88 reviews) Service Quality:Owners/Staff are warm, attentive, and friendly, offering helpful recommendations and meeting various needs.(based on 164 reviews) Facilities:Rooms and lobbies have fantastic designs, some with unique mountain or natural element features, and common areas are pleasant for relaxation.(based on 124 reviews) Pet-Friendly:Provided with dog treats, food, and pet-friendly spaces, suitable for traveling with pets",
+  "address": "Ganmiaowu, Miaoqian Village, Fatou Township, Deqing, Zhejiang, China",
+  "priceRange": "From US$97",
+  "facilities": [
+    "Bar",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/12092521/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203h12000tctdmqh4840.jpg"
+    },
+    {
+      "src": "/images/stays/12092521/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201z120008sc95ehA099.webp"
+    },
+    {
+      "src": "/images/stays/12092521/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02060120008rs2bkkF6D7.webp"
+    },
+    {
+      "src": "/images/stays/12092521/4.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD5c120009f2y47204AD.webp"
+    },
+    {
+      "src": "/images/stays/12092521/5.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206a120008ii8dyd6AC4.webp"
+    },
+    {
+      "src": "/images/stays/12092521/6.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203m120008rs2lnc3E49.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "✨Moganshan ZAN | The ideal pet-friendly mountain retreat It's a convenient drive from Shanghai. The B&B is nestled halfway up the mountain, surrounded by bamboo forests. Waking up to the sound of birdsong, far from the city's hustle and bustle,...",
+      "author": "Guest User",
+      "date": "2026-08-03",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=12092521&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-12092521&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Service: The owners were really chatty and made our two-day stay very comfortable. They even lent us fishing rods, haha (though we didn't catch anything!). Environment: Excellent! Superb. I'd love to come back for another vacation. The surrounding area is...",
+      "author": "Guest User",
+      "date": "2026-05-06",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=12092521&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-12092521&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room had a great view, the owner was very welcoming, and it's pet-friendly. The herbal chicken stew and the BBQ were both delicious. Highly recommend!",
+      "author": "Guest User",
+      "date": "2026-05-04",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=12092521&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-12092521&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 329,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:09:31.730Z",
+  "source": "trip"
+}

@@ -5,19 +5,19 @@ seo_title: "Getting Around Moganshan: Shuttles and Transfers"
 meta_description: Private cars cannot drive inside the Moganshan scenic area. You change at Yucun, Fatou or Houwu, 08:00 to 18:00. Shuttles, taxis, walking, luggage.
 excerpt: Private vehicles cannot enter the scenic area. You transfer at Yucun, Fatou or Houwu. Here is how to move between villages, plus the luggage problem.
 primary_keyword: moganshan shuttle
-secondary_keywords: [moganshan bus, moganshan taxi, moganshan transfer centre]
+secondary_keywords: [moganshan bus, moganshan taxi, moganshan transfer center]
 schema: HowTo
 image: /images/guide/getting-here-getting-around.webp
 image_alt: A small green shuttle bus rounding a bend on a road through dense bamboo forest
-word_count: 1280
+word_count: 1263
 last_updated: 2026-08-05
 ---
 
 # Getting around Moganshan
 
-Moganshan is a mountain in Deqing County, in Huzhou prefecture, Zhejiang Province, about 60 km north of Hangzhou. The core scenic area covers about 20 km². The main peak, Tashan, stands 719 to 720 meters high.
+Here is the rule that catches nearly every visitor. Private vehicles cannot drive inside the scenic area. Your taxi, your rental car or your friend's car stops at a transfer center, and you carry on from there on scenic-area transport.
 
-Now the rule that catches nearly every visitor. Private vehicles cannot drive inside the scenic area. Your taxi, your rental car or your friend's car stops at a transfer center, and you carry on from there on scenic-area transport.
+The area in question is the core of Moganshan, about 20 km² of it, on a mountain in Deqing County, in Huzhou prefecture, Zhejiang Province, roughly 60 km north of Hangzhou. The main peak, Tashan, stands 719 to 720 meters high.
 
 There are three of them: Yucun, Fatou and Houwu. All three run 08:00 to 18:00.
 
@@ -36,6 +36,8 @@ Almost no English-language page mentions this. Most people learn it at the barri
 > Scenic-area vehicle restriction and transfer center hours, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
 Two things follow from those hours. Arrive after 18:00 and the system has shut for the day. Set off before 08:00 and it has not started.
+
+If you do land after 18:00, what happens next depends on where you are sleeping. A guesthouse outside the boundary can still be reached by taxi. A guesthouse inside it cannot, so message the property before you board your train, and be ready to spend the night in Wukang, the county seat about 20 km away, and go up in the morning.
 
 The restriction covers the core scenic area. Guesthouse villages sit at various points around the slopes, and some are outside the line altogether. So the question worth asking is not where the transfer center is. It is which side of the boundary your bed is on. Ask the property. They field that question every week.
 
@@ -105,17 +107,19 @@ Message the property before you book your train. Give them your arrival time and
 
 ## Cycling
 
-Laoling, on the south side, has a reservoir, kayaking and cycling, and it was one of the earliest farmstay clusters. Riding here is something people come to do, not a way to move luggage between villages. The [cycling guide](/things-to-do/cycling/) covers it properly.
+Laoling, on the south side, has a reservoir, kayaking and cycling, and it was one of the earliest farmstay clusters. Riding here is something people come to do, not a way to move luggage between villages. We have not ridden the routes ourselves, so we are not going to tell you which climbs are worth it or where to hire a bike.
+
+TODO: verify cycling routes, rental points and the road surface between villages. This needs a field visit before we write it up.
 
 ## Luggage, honestly
 
 For an international visitor arriving with suitcases, this is the single biggest friction point on the whole trip.
 
-![A suitcase at the bottom of a long flight of uneven stone steps climbing into bamboo](/images/guide/getting-here-getting-around-4.webp 'The last hundred metres to a guesthouse is often steps. Pack for carrying, not for wheeling.')
+![A suitcase at the bottom of a long flight of uneven stone steps climbing into bamboo](/images/guide/getting-here-getting-around-4.webp 'The last hundred meters to a guesthouse is often steps. Pack for carrying, not for wheeling.')
 
 Picture the chain. Pudong to Hongqiao. Hongqiao to Deqing, 63 to 80 minutes. Deqing to Moganshan town, another 30 to 40. Then a transfer center, where the bags come off one vehicle and go onto another. Then the last stretch to the property, which may involve steps.
 
-That is four handling points with two cases, and at least one of them is outdoors.
+That is four handling points with two cases, and at least one of them is outdoors. Your bags move with you the whole way. There is no left-luggage arrangement at the transfer centers that we can confirm, so plan to carry everything you bring.
 
 A few things genuinely help:
 

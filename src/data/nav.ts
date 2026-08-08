@@ -112,10 +112,10 @@ export const NAV: NavGroup[] = [
       {
         title: 'Most people do',
         links: [
-          { label: 'The villa walking route', href: '/things-to-do/villa-walking-route' },
-          { label: 'Walking the bamboo forest', href: '/things-to-do/bamboo-forest-walks' },
+          { label: 'The villa walking route', href: '/moganshan/hill-station/walking-tour' },
+          { label: 'Walking the bamboo forest', href: '/moganshan/bamboo-forest' },
           { label: 'Sword Pond', href: '/things-to-do/sword-pond' },
-          { label: 'The hot springs', href: '/things-to-do/hot-springs' },
+          { label: 'The hot springs', href: '/moganshan/hot-springs' },
         ],
       },
       {
@@ -129,7 +129,7 @@ export const NAV: NavGroup[] = [
       },
     ],
     feature: {
-      href: '/things-to-do/yellow-bud-tea',
+      href: '/moganshan/tea',
       image: '/images/part-tea.webp',
       alt: 'Terraced tea rows on a Moganshan slope',
       kicker: 'Local',
@@ -187,6 +187,7 @@ export const NAV: NavGroup[] = [
           { label: 'How to get to Moganshan', href: '/getting-here' },
           { label: 'From Shanghai', href: '/getting-here/from-shanghai' },
           { label: 'From Hangzhou', href: '/getting-here/from-hangzhou' },
+          { label: 'From the airports', href: '/getting-here/from-the-airports' },
           { label: 'Getting around once here', href: '/getting-here/getting-around' },
         ],
       },
@@ -194,8 +195,10 @@ export const NAV: NavGroup[] = [
         title: 'Where to stay',
         links: [
           { label: 'All places to stay', href: '/where-to-stay' },
+          { label: 'Properties, one page each', href: '/where-to-stay/directory' },
           { label: 'What a minsu is', href: '/where-to-stay/minsu-explained' },
           { label: 'Seasons, month by month', href: '/seasons' },
+          { label: 'Spring in Moganshan', href: '/seasons/spring' },
           { label: 'Is Moganshan worth visiting?', href: '/plan/is-moganshan-worth-visiting' },
         ],
       },

@@ -1,0 +1,72 @@
+{
+  "id": 68074847,
+  "name": "Moganshan Yiyou Mountain Lodge",
+  "seedName": "Moganshan Yiyou Mountain Lodge",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-68074847",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=68074847&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-68074847&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness and comfort:Rooms were consistently described as clean, tidy, and well-maintained, with modern amenities like large windows offering mountain views and functional layouts.(based on 13 reviews) Hospitality:The hosts were repeatedly praised for their warmth, attentiveness, and willingness to assist guests .(based on 13 reviews) Location and ambiance:The property was noted for its peaceful, quiet setting in a scenic area , with convenient access to nearby attractions.(based on 4 reviews) Dining experience:Guests highlighted the quality and variety of breakfast, often prepared by the hosts, and praised the hosts’ cooking skills, with dishes tailored to local tastes.(based on 8 reviews) Facilities:The property included essential amenities like parking, dining areas, and modern conveniences .(based on 3 reviews)",
+  "address": "Village Group 6, Beihu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$47",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/68074847/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/020571200084nj4pd00D7.jpg"
+    },
+    {
+      "src": "/images/stays/68074847/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203q1200084nj5skB5F2.webp"
+    },
+    {
+      "src": "/images/stays/68074847/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206y1200084njbvt3252.webp"
+    },
+    {
+      "src": "/images/stays/68074847/4.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/020121200084nj22f4B77.webp"
+    },
+    {
+      "src": "/images/stays/68074847/5.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0202v1200084njen32251.webp"
+    },
+    {
+      "src": "/images/stays/68074847/6.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/020571200084nj4pd00D7.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The boss is very nice, the accommodation is very clean, the surrounding environment is so beautiful, and the children are very happy",
+      "author": "Guest User",
+      "date": "2025-05-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=68074847&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-68074847&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The dishes cooked by the boss himself are very nice, with the right amount of saltiness, which suits the taste of us Shanghainese people. Unfortunately, there are only two of us and we can't eat too much. The poached chicken...",
+      "author": "Guest User",
+      "date": "2024-08-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=68074847&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-68074847&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The boss is very welcoming, the environment is clean and nice",
+      "author": "Guest User",
+      "date": "2024-07-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=68074847&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-68074847&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.3,
+    "count": 27,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:10:41.368Z",
+  "source": "trip"
+}

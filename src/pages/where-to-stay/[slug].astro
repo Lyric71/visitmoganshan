@@ -1,0 +1,32 @@
+---
+import StayPage from '../../components/StayPage.astro';
+import { getRoutableStays } from '../../lib/stays';
+
+/**
+ * /where-to-stay/{slug}, one page per published property.
+ *
+ * Paths come from the stays collection, never from the 809 row seed. A seed row
+ * on its own is a name and a tracked link; turning that into a page would be
+ * the doorway page this build exists to avoid. A property gets a URL when it has
+ * three images, a description written here, an honest note and three attributed
+ * excerpts, and not before.
+ *
+ * No collision with the editorial pages under the same prefix. Those are guide
+ * entries routed by src/pages/[...slug].astro from their frontmatter url
+ * (/where-to-stay/luxury, /where-to-stay/hotels/naked-stables and so on), and
+ * every stay slug ends in -{hotelId}, so the two sets cannot produce the same
+ * path.
+ */
+export async function getStaticPaths() {
+  const all = await getRoutableStays();
+
+  return all.map((entry) => ({
+    params: { slug: entry.data.slug },
+    props: { entry, all },
+  }));
+}
+
+const { entry, all } = Astro.props;
+---
+
+<StayPage entry={entry} all={all} />

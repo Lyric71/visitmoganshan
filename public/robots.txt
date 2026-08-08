@@ -1,4 +1,8 @@
 User-agent: *
 Allow: /
 
+# Affiliate redirects, not pages. Every /go/ path 302s straight out to a
+# booking partner, so there is nothing here to crawl and nothing to index.
+Disallow: /go/
+
 Sitemap: https://www.visitmoganshan.com/sitemap-index.xml
