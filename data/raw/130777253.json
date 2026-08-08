@@ -1,0 +1,62 @@
+{
+  "id": 130777253,
+  "name": "Song Yue Li Homestay",
+  "seedName": "Song Yue Li Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-130777253",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=130777253&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-130777253&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Song Yue Li Homestay?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Building 75, Moganshan Scenic Area, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$65",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/130777253/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3n12000sn4zzyk40A6.jpg"
+    },
+    {
+      "src": "/images/stays/130777253/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0612000sn5mtpm0A22.webp"
+    },
+    {
+      "src": "/images/stays/130777253/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1i12000sn5m4mg3384.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Breakfast at Luhua Dang Restaurant was plentiful. The landlady was very patient, reminding us early in the morning and sending us messages to let us know. The room was large and the facilities were new.",
+      "author": "Guest User",
+      "date": "2025-08-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=130777253&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-130777253&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I rarely leave reviews, but the owner of this place was so incredibly welcoming that I felt I had to write something. I went on a business trip to Zhejiang on the 19th. At dawn on the 20th, I saw...",
+      "author": "Guest User",
+      "date": "2025-08-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=130777253&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-130777253&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Complete facilities, clean and hygienic environment, and thoughtful service",
+      "author": "Guest User",
+      "date": "2025-08-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=130777253&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-130777253&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 19,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:01:14.475Z",
+  "source": "trip"
+}

@@ -1,0 +1,87 @@
+{
+  "id": 78102750,
+  "name": "Moganshan Flower Homestay",
+  "seedName": "Moganshan Flower Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-78102750",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=78102750&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-78102750&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:The B&B is ideally situated, just a short walk from Yucun Square, providing easy access to local attractions while maintaining a peaceful retreat atmosphere. Its proximity to well-known areas like Moganshan adds to its appeal.(based on 32 reviews) Service Quality:The hosts are consistently praised for their warmth and attentiveness, ensuring guests feel welcomed and cared for throughout their stay. They are helpful with local information and go the extra mile to accommodate special requests.(based on 58 reviews) Facilities:The guesthouse offers excellent facilities, including clean and modern rooms with panoramic views, a swimming pool, and a charming courtyard featuring sika deer, lambs, and rabbits which are adored by guests, particularly families with children.(based on 8 reviews) Breakfast:Breakfast is frequently described as delicious and generous, with homemade wontons and other local specialties being highlighted. Guests appreciate the fresh, home-grown ingredients used in meals.(based on 19 reviews) Design and Aesthetics:The B&B boasts a stylish design that harmonizes with its natural surroundings, creating a photogenic and relaxing env",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "The B&B is ideally situated, just a short walk from Yucun Square, providing easy access to local attractions while maintaining a peaceful retreat atmosphere. Its proximity to well-known areas like Moganshan adds to its appeal.",
+        "count": 32
+      },
+      {
+        "topic": "Service Quality",
+        "text": "The hosts are consistently praised for their warmth and attentiveness, ensuring guests feel welcomed and cared for throughout their stay. They are helpful with local information and go the extra mile to accommodate special requests.",
+        "count": 58
+      },
+      {
+        "topic": "Facilities",
+        "text": "The guesthouse offers excellent facilities, including clean and modern rooms with panoramic views, a swimming pool, and a charming courtyard featuring sika deer, lambs, and rabbits which are adored by guests, particularly families with children.",
+        "count": 8
+      },
+      {
+        "topic": "Breakfast",
+        "text": "Breakfast is frequently described as delicious and generous, with homemade wontons and other local specialties being highlighted. Guests appreciate the fresh, home-grown ingredients used in meals.",
+        "count": 19
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 04, Yujia, Liaoyuan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$126",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/78102750/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203e120009fr7kui4BEF.jpg"
+    },
+    {
+      "src": "/images/stays/78102750/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02051120008xd4jsx5322.webp"
+    },
+    {
+      "src": "/images/stays/78102750/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0202a120008xd3j87672E.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Clean and comfortable. The complimentary fruit was fresh and delicious. The indoor fragrance was so soothing. The little animals were incredibly cute, well-cared for with no unpleasant smells, and very interactive – they weren't afraid of people at all. The...",
+      "author": "alskdjfhg",
+      "date": "2025-08-30",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=78102750&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-78102750&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The staff were friendly, but the hygiene was seriously lacking. For a B&B costing over 1200, we were shocked by the amount of visible dirt, dust, and even mold in various spots. Its only redeeming quality is probably the location.",
+      "author": "Guest User",
+      "date": "2025-08-22",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=78102750&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-78102750&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The B&B was fantastic! The sika deer were so well-behaved and adorable, and there were even sheep. Our kids absolutely loved it. The owner was incredibly friendly, and breakfast was delicious too. The guesthouse even has its own orchard, with...",
+      "author": "Guest User",
+      "date": "2025-08-21",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=78102750&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-78102750&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 123,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:06:13.472Z",
+  "source": "trip"
+}

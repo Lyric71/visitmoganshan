@@ -1,0 +1,84 @@
+{
+  "id": 5007437,
+  "name": "Floral Hotel Hongfangzi",
+  "seedName": "Floral Hotel Hongfangzi",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5007437",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5007437&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5007437&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment Location:Located near Moganshan, with pleasant surrounding scenery, the small village is quiet, surrounded by mountains on all sides, fresh air, and close to attractions like Moganshan, Yulinba, etc.(based on 14 reviews) Accommodation Experience:Comfortable bedding, clean rooms, affordable price, high cost-effectiveness, and can make people feel the warmth of home(based on 57 reviews) Guest Suggestion:Some customers suggest the rooms have a mold odor, low value for money, and discrepancies between photos and actual conditions.(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment Location",
+        "text": "Located near Moganshan, with pleasant surrounding scenery, the small village is quiet, surrounded by mountains on all sides, fresh air, and close to attractions like Moganshan, Yulinba, etc.",
+        "count": 14
+      },
+      {
+        "topic": "Accommodation Experience",
+        "text": "Comfortable bedding, clean rooms, affordable price, high cost-effectiveness, and can make people feel the warmth of home",
+        "count": 57
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest the rooms have a mold odor, low value for money, and discrepancies between photos and actual conditions.",
+      "count": 2
+    }
+  },
+  "address": "No. 13, Biwu Village, Xiantan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$47",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Bar",
+    "Restaurant",
+    "Conference room",
+    "Multi-function room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5007437/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201a120000hy9n1b938F.jpg"
+    },
+    {
+      "src": "/images/stays/5007437/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206w120000anra0uB927.webp"
+    },
+    {
+      "src": "/images/stays/5007437/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02059120000fbooko0681.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The small village is very quiet, and the owner kindly upgraded our room. We had amazing views of the mountains from both our room and outside. It was lovely to just sit on the balcony, gaze at the mountains, and...",
+      "author": "Guest User",
+      "date": "2026-07-02",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5007437&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5007437&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The owner was very friendly and welcoming. When we checked in, it wasn't busy, so they even gave us a free room upgrade! Both the dining and accommodation environments were excellent, and the price was really good value. We'll definitely...",
+      "author": "Guest User",
+      "date": "2026-07-02",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5007437&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5007437&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Nice room with a mountain view.",
+      "author": "Guest User",
+      "date": "2026-01-01",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5007437&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5007437&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.8,
+    "count": 98,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:32:17.435Z",
+  "source": "trip"
+}

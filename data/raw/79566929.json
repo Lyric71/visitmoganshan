@@ -1,0 +1,79 @@
+{
+  "id": 79566929,
+  "name": "Guiren Jushang Moganshan Music Theme Homestay",
+  "seedName": "Guiren Jushang Moganshan Music Theme Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-79566929",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=79566929&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-79566929&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Breakfast:The hotel offers a homemade breakfast that guests have found delightful, featuring local delicacies such as sour pickled bamboo shoots. The meals are reminiscent of home-cooked food, adding to the cozy and inviting atmosphere of the stay.(based on 11 reviews) Guest Suggestion:Some customers suggest improving cleanliness, addressing bugs, enhancing soundproofing, and providing more amenities.(based on 1 review)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Breakfast",
+        "text": "The hotel offers a homemade breakfast that guests have found delightful, featuring local delicacies such as sour pickled bamboo shoots. The meals are reminiscent of home-cooked food, adding to the cozy and inviting atmosphere of the stay.",
+        "count": 11
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving cleanliness, addressing bugs, enhancing soundproofing, and providing more amenities.",
+      "count": 1
+    }
+  },
+  "address": "No. 51, Yujia, Liaoyuan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$85",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Gym",
+    "Cardroom",
+    "Restaurant",
+    "Karaoke",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/79566929/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1012000fm67looD996.jpg"
+    },
+    {
+      "src": "/images/stays/79566929/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5n12000sgg1upvC8BA.webp"
+    },
+    {
+      "src": "/images/stays/79566929/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0w12000bos40ab0361.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Really it was very kindly and very good owner boutique hotel , very clean and good location , thanks for your welcome and see you next time .",
+      "author": "Guest User",
+      "date": "2024-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=79566929&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-79566929&trip_sub3=D19127628"
+    },
+    {
+      "quote": "It was a great travel and accommodation experience. It was a great coincidence that the sisters were all from Guizhou, our hometown. It really felt very friendly. The homestay is a very stylish and simple design. Every place inside is...",
+      "author": "Guest User",
+      "date": "2024-05-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=79566929&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-79566929&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Wudingdian's B&B has a very sincere and lovely lady boss, very clean rooms, and breakfast is made by the owners themselves. You can also play table tennis, sing K, and play billiards on the first floor. It's only 5 minutes...",
+      "author": "Guest User",
+      "date": "2024-05-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=79566929&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-79566929&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.9,
+    "count": 68,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:30:04.203Z",
+  "source": "trip"
+}

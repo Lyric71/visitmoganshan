@@ -1,0 +1,70 @@
+{
+  "id": 1486646,
+  "name": "Yiyuan Hotel",
+  "seedName": "Yiyuan Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1486646",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1486646&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1486646&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service:The hostess and aunts are enthusiastic, responsive, and help carry luggage after check-out.(based on 24 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service",
+        "text": "The hostess and aunts are enthusiastic, responsive, and help carry luggage after check-out.",
+        "count": 24
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Yi Garden, No. 92, Moganshan Scenic Area, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$125",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1486646/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200l11000000rg5g80989.webp"
+    },
+    {
+      "src": "/images/stays/1486646/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20031a0000019a1ii2DC1.webp"
+    },
+    {
+      "src": "/images/stays/1486646/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200u0t000000ib976A789.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Extremely satisfied! First of all, the hostess upgraded us to a suite, which was very spacious, simply furnished, and impeccably clean. The parking lot was large, though there was a short walk to the hotel, and the shortcut was a...",
+      "author": "Shaojunde",
+      "date": "2026-03-26",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1486646&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1486646&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I really liked the hotel, the hostess was pleasant, and the location was excellent. It was a beautiful place. I recommend it.",
+      "author": "Svetlana_China",
+      "date": "2026-02-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1486646&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1486646&trip_sub3=D19127628"
+    },
+    {
+      "quote": "It's been many years since I came to Yiyuan again. The rooms have been renovated and are more comfortable. The dishes are still delicious, and the scallion pancakes for breakfast are still so delicious. Although the maple leaves this year...",
+      "author": "Guest User",
+      "date": "2024-11-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1486646&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1486646&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 70,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:56:44.504Z",
+  "source": "trip"
+}

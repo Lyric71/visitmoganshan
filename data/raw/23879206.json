@@ -1,0 +1,91 @@
+{
+  "id": 23879206,
+  "name": "MOBAI",
+  "seedName": "MOBAI",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-23879206",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=23879206&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-23879206&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Located near Yucun Square, convenient for dining, shopping and walking, many users mention it's very central. It's within walking distance of Yucun Square.(based on 61 reviews) Room:Rooms are spacious, some with dry-wet separated bathrooms, some have large balconies or projectors. Like \"the room is very large and spacious, the bathroom is dry-wet separated very well\" and \"there is a large projection screen\". Breakfast:Some users mention breakfast is made to order, such as \"breakfast is made to order, like it\". (based on 18 reviews) Service:Staff are friendly and helpful, the owner is very nice, providing assistance like guiding to parking and carrying luggage. (based on 36 reviews) Facilities:Facilities are relatively complete, with features like billiard rooms, etc., as \"there are billiard rooms in the bottom floor of the homestay\"(based on 27 reviews) Guest Suggestion:Some customers suggest improving room allocation consistency and enhancing cleanliness standards, as some were assigned to lower-quality accommodations with hygiene concerns.(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Located near Yucun Square, convenient for dining, shopping and walking, many users mention it's very central. It's within walking distance of Yucun Square.",
+        "count": 61
+      },
+      {
+        "topic": "Room",
+        "text": "Rooms are spacious, some with dry-wet separated bathrooms, some have large balconies or projectors. Like \"the room is very large and spacious, the bathroom is dry-wet separated very well\" and \"there is a large projection screen\". Breakfast:Some users mention breakfast is made to order, such as \"breakfast is made to order, like it\".",
+        "count": 18
+      },
+      {
+        "topic": "Service",
+        "text": "Staff are friendly and helpful, the owner is very nice, providing assistance like guiding to parking and carrying luggage.",
+        "count": 36
+      },
+      {
+        "topic": "Facilities",
+        "text": "Facilities are relatively complete, with features like billiard rooms, etc., as \"there are billiard rooms in the bottom floor of the homestay\"",
+        "count": 27
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving room allocation consistency and enhancing cleanliness standards, as some were assigned to lower-quality accommodations with hygiene concerns.",
+      "count": 3
+    }
+  },
+  "address": "No. 103 Huangfu West Road, Yu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$72",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/23879206/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20050y000000m8labEE87.jpg"
+    },
+    {
+      "src": "/images/stays/23879206/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02046120008osqfuzFE80.webp"
+    },
+    {
+      "src": "/images/stays/23879206/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5412000cpk95u63F47.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Location is very good room is excellent just at if you have luggage you can request for the lower floor",
+      "author": "Guest User",
+      "date": "2026-03-30",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=23879206&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-23879206&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Loved the friendly and helpful staff at this place. Location so great, very central to main square and walking distance to all shops and river.",
+      "author": "Miss Alex",
+      "date": "2025-11-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=23879206&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-23879206&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Clean and very friendly staff very comfortable and spacious",
+      "author": "Guest User",
+      "date": "2026-06-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=23879206&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-23879206&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.2,
+    "count": 146,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:22:59.940Z",
+  "source": "trip"
+}

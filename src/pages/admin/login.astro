@@ -1,0 +1,160 @@
+---
+import AdminPage from '../../layouts/AdminPage.astro';
+import { isConfigured, isSignedIn } from '../../lib/admin-auth';
+
+/**
+ * /admin/login
+ *
+ * One form, posting to /api/admin/login. No client JavaScript: the browser
+ * submits it, the server answers with a redirect, and the cookie the response
+ * sets is HttpOnly so nothing in the page can read it.
+ *
+ * Somebody already signed in is sent on rather than shown a form they do not
+ * need.
+ */
+export const prerender = false;
+
+if (isSignedIn(Astro.cookies)) return Astro.redirect('/admin');
+
+const params = Astro.url.searchParams;
+const failed = params.has('error');
+const unconfigured = params.get('error') === 'unconfigured' || !isConfigured();
+const signedOut = params.has('signed-out');
+---
+
+<AdminPage title="Sign in" showNav={false}>
+  {
+    signedOut && (
+      <p class="msg msg--quiet" role="status">
+        Signed out.
+      </p>
+    )
+  }
+
+  {
+    unconfigured ? (
+      <div class="msg msg--warn" role="alert">
+        <p>
+          <strong>The admin is not configured on this deployment.</strong>
+        </p>
+        <p>
+          It needs <code>ADMIN_EMAIL</code>, <code>ADMIN_PASSWORD_HASH</code> and{' '}
+          <code>ADMIN_SECRET</code> in the environment. Generate the last two with{' '}
+          <code>npm run admin:hash -- 'your password'</code> and put them in{' '}
+          <code>.env.local</code> for local work and in the Vercel project settings for the
+          deployed site. Until all three are set, every sign in is refused.
+        </p>
+      </div>
+    ) : (
+      <>
+        {failed && (
+          <p class="msg msg--error" role="alert">
+            Those details are not right.
+          </p>
+        )}
+
+        <form class="form" method="post" action="/api/admin/login">
+          <p class="field">
+            <label for="email">Email</label>
+            <input
+              id="email"
+              name="email"
+              type="email"
+              autocomplete="username"
+              required
+              autofocus
+            />
+          </p>
+
+          <p class="field">
+            <label for="password">Password</label>
+            <input
+              id="password"
+              name="password"
+              type="password"
+              autocomplete="current-password"
+              required
+            />
+          </p>
+
+          <p>
+            <button class="vm-btn" type="submit">
+              Sign in
+            </button>
+          </p>
+        </form>
+      </>
+    )
+  }
+</AdminPage>
+
+<style>
+  .form {
+    max-width: 24rem;
+    padding: clamp(1.25rem, 3vw, 1.75rem);
+    background: var(--color-paper);
+    border: 1px solid var(--color-line);
+  }
+
+  .field {
+    margin: 0 0 1rem;
+  }
+
+  .field label {
+    display: block;
+    margin-bottom: 0.35rem;
+    font-size: 0.8125rem;
+    font-weight: 600;
+  }
+
+  .field input {
+    width: 100%;
+    min-height: 44px;
+    padding: 0 0.75rem;
+    border: 1px solid var(--color-line);
+    border-radius: 4px;
+    background: var(--color-surface);
+    font: inherit;
+    font-size: 0.9375rem;
+  }
+
+  .field input:focus-visible {
+    border-color: var(--color-bamboo);
+  }
+
+  .msg {
+    max-width: 42rem;
+    margin: 0 0 1.25rem;
+    padding: 0.75rem 1rem;
+    font-size: 0.9375rem;
+    line-height: 1.6;
+  }
+
+  .msg p {
+    margin: 0;
+  }
+
+  .msg p + p {
+    margin-top: 0.6rem;
+  }
+
+  .msg--error {
+    border-left: 2px solid #a03232;
+    background: var(--color-paper);
+  }
+
+  .msg--warn {
+    border-left: 2px solid var(--color-amber);
+    background: var(--color-paper);
+  }
+
+  .msg--quiet {
+    color: var(--color-muted);
+  }
+
+  code {
+    font-size: 0.875em;
+    background: var(--color-mist);
+    padding: 0.1em 0.3em;
+  }
+</style>

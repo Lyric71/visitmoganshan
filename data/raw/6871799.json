@@ -1,0 +1,92 @@
+{
+  "id": 6871799,
+  "name": "Nuannuan Inn",
+  "seedName": "Nuannuan Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-6871799",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6871799&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6871799&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment and Location:Located near popular spots like Yucun Center and relevant streets, with beautiful surroundings. Many reviews mention the hotel is close to attractions and has a nice environment.(based on 56 reviews) Hygiene:Rooms are consistently described as very clean, with attention to detail in cleanliness.(based on 85 reviews) Service Quality:Staff are friendly and helpful, providing assistance such as giving local tips and helping with luggage.(based on 114 reviews) Facilities:Equipped with amenities like hot springs, pools, restaurants, etc., offering a comfortable stay(based on 28 reviews) Breakfast:Breakfast is abundant and delicious, with various options like fresh noodles and homemade dishes(based on 53 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment and Location",
+        "text": "Located near popular spots like Yucun Center and relevant streets, with beautiful surroundings. Many reviews mention the hotel is close to attractions and has a nice environment.",
+        "count": 56
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Rooms are consistently described as very clean, with attention to detail in cleanliness.",
+        "count": 85
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Staff are friendly and helpful, providing assistance such as giving local tips and helping with luggage.",
+        "count": 114
+      },
+      {
+        "topic": "Facilities",
+        "text": "Equipped with amenities like hot springs, pools, restaurants, etc., offering a comfortable stay",
+        "count": 28
+      },
+      {
+        "topic": "Breakfast",
+        "text": "Breakfast is abundant and delicious, with various options like fresh noodles and homemade dishes",
+        "count": 53
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 4, Wangjia, Liaoyuan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$69",
+  "facilities": [
+    "Bar",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/6871799/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4o12000bot3h9v2D30.jpg"
+    },
+    {
+      "src": "/images/stays/6871799/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4w12000bo70aqv8658.webp"
+    },
+    {
+      "src": "/images/stays/6871799/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0s12000bo6rhdqC4BE.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "This is a clean, well placed hotel in Moganshan town. The staff were friendly and helpful, agreeing to make breakfast earlier than usual as I had to leave early morning. The room was the attic, sloping ceilings and a window...",
+      "author": "Dawnie",
+      "date": "2026-03-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6871799&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6871799&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room was spotless, and the environment was really nice. The owner was incredibly welcoming and even gave us tips on local attractions and things to look out for. Plus, there's a pretty famous square right next door with amazing...",
+      "author": "Guest User",
+      "date": "2026-01-20",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6871799&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6871799&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Excellent stay! Great value for money. The room was very clean and had a stylish design. The hot springs were incredibly relaxing. Definitely bookmarking this place. This was our last trip before getting a divorce.",
+      "author": "Tiantianheguixianvshi",
+      "date": "2026-03-26",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6871799&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6871799&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 241,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:02:03.304Z",
+  "source": "trip"
+}

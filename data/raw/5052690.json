@@ -1,0 +1,65 @@
+{
+  "id": 5052690,
+  "name": "Moganshan Mountain Farmhouse",
+  "seedName": "Moganshan Mountain Farmhouse",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5052690",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5052690&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5052690&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Mountain Farmhouse?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Shitali, Xiantan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$58",
+  "facilities": [
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5052690/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0202512000a1q08v7186B.jpg"
+    },
+    {
+      "src": "/images/stays/5052690/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD08120009fc77yi61E5.webp"
+    },
+    {
+      "src": "/images/stays/5052690/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD6q120009fc776t58C6.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "帶兩個孩子出來度假，選對民宿太重要了！民宿自帶泳池，孩子一到就迫不及待換上泳衣鑽進了水裡嬉戲。民宿出門100米就是小溪，溪水清淺安全，孩子玩水撈蝦，玩得不亦樂乎。民宿房間乾淨清爽，設施齊全，兩大兩小入住空間充裕。老闆一家待人真誠熱情，早餐雖然簡單但非常可口，老闆生怕吃不飽，準備了好多。晚餐可以提前預訂，都是地道農家口味。入住第一天還看到了雙彩虹哦，幸運加倍！！是會反覆回訪的民宿，真心推薦給親子家庭。",
+      "author": "Guest User",
+      "date": "2026-08-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5052690&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5052690&trip_sub3=D19127628"
+    },
+    {
+      "quote": "非常適合家庭出行的民宿，房間雖然不是特別新的酒店式房間，但是乾淨整潔，老闆還提前開好空調，細節滿分～還可以提前跟老闆點菜，到民宿就能吃上香噴噴飯菜。民宿還帶了小遊泳池，每天早上換的水也乾淨，小朋友游泳很開心。地理位置也很不錯，離碧塢龍潭，北野螢火蟲都是幾分鐘車程，到莫干山遊客集散中心大概20分鐘車程，民宿邊上走個三五分鐘可以溯溪玩水。",
+      "author": "Guest User",
+      "date": "2026-07-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5052690&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5052690&trip_sub3=D19127628"
+    },
+    {
+      "quote": "臨時起意訂到山野農舍，這座位於莫干山北麓的民宿性價比很高，雖然在山裡房間被褥一點都不潮，睡的很舒服，民宿燒的飯菜非常可口，食材新鮮臨走時老闆娘還送了筍，下次有機會還去住你家。",
+      "author": "Guest User",
+      "date": "2026-05-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5052690&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5052690&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 64,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:57:31.349Z",
+  "source": "trip"
+}

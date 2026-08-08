@@ -1,0 +1,77 @@
+{
+  "id": 4440286,
+  "name": "Shanzhong Laixin Congqianman Hostel",
+  "seedName": "Shanzhong Laixin Congqianman Hostel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-4440286",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4440286&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4440286&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Dining Experience:Breakfast is universally acclaimed for its variety, healthiness, and quality, often featuring local specialties. Some properties offer on-site dining with scenic views, and meals can be arranged or delivered to guests' rooms.(based on 20 reviews) Ambiance & Design:The decor is described as warm, natural, and aesthetically pleasing, blending rustic elements with modern comforts. Courtyards, libraries, and artistic touches create a calming, immersive atmosphere conducive to relaxation and photography. Guest Suggestion: Some customers suggest the overall guest experience could be improved, noting issues with service quality and potential hidden problems . However, due to limited data, these points require further validation.(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Dining Experience",
+        "text": "Breakfast is universally acclaimed for its variety, healthiness, and quality, often featuring local specialties. Some properties offer on-site dining with scenic views, and meals can be arranged or delivered to guests' rooms.",
+        "count": 20
+      },
+      {
+        "topic": "Design",
+        "text": "The decor is described as warm, natural, and aesthetically pleasing, blending rustic elements with modern comforts. Courtyards, libraries, and artistic touches create a calming, immersive atmosphere conducive to relaxation and photography. Guest Suggestion: Some customers suggest the overall guest experience could be improved, noting issues with service quality and potential hidden problems . However, due to limited data, these points require further validation.",
+        "count": 3
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 236, Qingcaodang, Moganshan Scenic Area, Deqing, Zhejiang, China",
+  "priceRange": "From US$88",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Cafe"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/4440286/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203s120009fx9vr0BC08.jpg"
+    },
+    {
+      "src": "/images/stays/4440286/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200h120008b5269198E4.webp"
+    },
+    {
+      "src": "/images/stays/4440286/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200d1g000001h6m5iAB32.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Kind administrator,clean room,beautiful view, but finding delicious food was problem",
+      "author": "Guest User",
+      "date": "2026-07-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4440286&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4440286&trip_sub3=D19127628"
+    },
+    {
+      "quote": "This guesthouse boasts an absolutely stunning environment. Located at the end of the road, it feels completely isolated from the constant hustle and bustle of people and cars in the center of Moganshan Scenic Area, like two different worlds. We...",
+      "author": "Guest User",
+      "date": "2026-05-16",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4440286&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4440286&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Great view! Clean room, friendly host, well behaved dog, hearty breakfast and good vibes!",
+      "author": "Guest User",
+      "date": "2024-05-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4440286&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4440286&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 176,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:04:59.257Z",
+  "source": "trip"
+}

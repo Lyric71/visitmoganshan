@@ -1,0 +1,82 @@
+{
+  "id": 446841,
+  "name": "Baiyun Hotel",
+  "seedName": "Baiyun Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-446841",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=446841&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-446841&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Facilities:Some users mention that facilities are complete and perfect, although some users mention that facilities are old, but overall some users feel that facilities are acceptable(based on 8 reviews) Service:There are services like guiding to arrive at the hotel in advance, turning on room heating in advance, preparing fruits, actively contacting to order a car, taking to see sunrise and sunset locations(based on 140 reviews) Guest Suggestion:Some customers suggest that the hotel has old facilities, poor hygiene conditions, and breakfast options are not satisfactory(based on 9 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Facilities",
+        "text": "Some users mention that facilities are complete and perfect, although some users mention that facilities are old, but overall some users feel that facilities are acceptable",
+        "count": 8
+      },
+      {
+        "topic": "Service",
+        "text": "There are services like guiding to arrive at the hotel in advance, turning on room heating in advance, preparing fruits, actively contacting to order a car, taking to see sunrise and sunset locations",
+        "count": 140
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest that the hotel has old facilities, poor hygiene conditions, and breakfast options are not satisfactory",
+      "count": 9
+    }
+  },
+  "address": "No. 502 Moganshan, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$66",
+  "facilities": [
+    "Restaurant",
+    "Conference room",
+    "Multi-function room",
+    "Children's pool"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/446841/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4112000lx6rq6p7924.jpg"
+    },
+    {
+      "src": "/images/stays/446841/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200v0b0000005rkis5B3B.webp"
+    },
+    {
+      "src": "/images/stays/446841/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20020b0000005rjuwD2DF.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "This hotel has a lovely Republic of China era style, very comfortable to stay in, with a great surrounding environment and fresh air. The only downside was a strong diesel smell in building #3, which meant we couldn't open the...",
+      "author": "Zhaoxingchun",
+      "date": "2026-05-04",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=446841&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-446841&trip_sub3=D19127628"
+    },
+    {
+      "quote": "A very unique stay! This must be the highest point in Moganshan. In the morning, walking around nearby, there was hardly anyone else. To experience such tranquility during the May Day holiday is truly rare and precious. It's a travel...",
+      "author": "Guest User",
+      "date": "2026-05-04",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=446841&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-446841&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The Baiyun Hotel is located within the Moganshan scenic area, offering a beautiful environment. The rooms are clean and tidy.",
+      "author": "Jidaocuntianqihuangdi",
+      "date": "2026-04-18",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=446841&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-446841&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.2,
+    "count": 367,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:25:13.491Z",
+  "source": "trip"
+}

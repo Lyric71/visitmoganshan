@@ -1,0 +1,87 @@
+{
+  "id": 9236691,
+  "name": "Moganshan Yijing Homestay",
+  "seedName": "Moganshan Yijing Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-9236691",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=9236691&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-9236691&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Proximity to Moganshan International Scenic Area and nearby lake, with shuttle access to Mount Mogan.(based on 3 reviews) Accommodation:Spacious rooms, good hygiene, and a child-friendly swimming pool.(based on 3 reviews) Service:Friendly and helpful hosts, with personalized recommendations for local attractions and activities .(based on 4 reviews) Amenities:Includes breakfast , on-site restaurant with local specialties, and convenient EV charging stations.(based on 5 reviews) Environment:Peaceful, green surroundings with a tranquil atmosphere, suitable for relaxation and outdoor activities.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Proximity to Moganshan International Scenic Area and nearby lake, with shuttle access to Mount Mogan.",
+        "count": 3
+      },
+      {
+        "topic": "Accommodation",
+        "text": "Spacious rooms, good hygiene, and a child-friendly swimming pool.",
+        "count": 3
+      },
+      {
+        "topic": "Service",
+        "text": "Friendly and helpful hosts, with personalized recommendations for local attractions and activities .",
+        "count": 4
+      },
+      {
+        "topic": "Amenities",
+        "text": "Includes breakfast , on-site restaurant with local specialties, and convenient EV charging stations.",
+        "count": 5
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 46, Lujiaqiao, Houwu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$53",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/9236691/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2001170000011fozp8300.jpg"
+    },
+    {
+      "src": "/images/stays/9236691/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200i1700000111x6a7DA8.webp"
+    },
+    {
+      "src": "/images/stays/9236691/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200n170000011267vCBED.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Very friendly owner. Comfortable room. We had a nice hike to Moganshan international Scenic Area. HouWu village is only 7 minutes DiDi away from the guesthouse, with good selection of restaurants and other places of interest. Breakfast is Chinese, but...",
+      "author": "Misha Shayter",
+      "date": "2024-10-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=9236691&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-9236691&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The loft room is simply amazing. The children are very happy. The swimming pool is their favorite. The overall hygiene is good, but the bathroom and sink are a bit too small.",
+      "author": "Guest User",
+      "date": "2023-08-16",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=9236691&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-9236691&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Нам все понравилось. Было 5 человек. Номер в 2 этажа. На первом 2 комнаты и туалет и на втором одна большая комната, трасса и туалет! Завтрак в национальной традиции. Нам понравились булочки. На рецепшене вкусное пиво!)",
+      "author": "Мария Велик",
+      "date": "2026-05-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=9236691&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-9236691&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 25,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:54:49.646Z",
+  "source": "trip"
+}

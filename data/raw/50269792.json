@@ -1,0 +1,71 @@
+{
+  "id": 50269792,
+  "name": "Moganshan Qingyu Yunsu Homestay (Yucun Square)",
+  "seedName": "Moganshan Qingyu Yunsu Homestay (Yucun Square)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-50269792",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=50269792&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-50269792&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness & Maintenance:Rooms are frequently praised for their cleanliness, with regular housekeeping services and attention to hygiene standards. Guests note the absence of noticeable odors and the availability of basic amenities like coffee and tea.(based on 29 reviews) Ambiance & Design:The property blends modern comforts with a homely atmosphere, featuring minimalist or 'small-chic' decor, and some units include unique elements like pet companions or scenic terraces for relaxation.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Maintenance",
+        "text": "Rooms are frequently praised for their cleanliness, with regular housekeeping services and attention to hygiene standards. Guests note the absence of noticeable odors and the availability of basic amenities like coffee and tea.",
+        "count": 29
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 72-74, Yuxin North Street, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$67",
+  "facilities": [
+    "Restaurant",
+    "Cafe"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/50269792/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200d1h000001hpk0rF275.jpg"
+    },
+    {
+      "src": "/images/stays/50269792/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0223g120008jluuy19519.webp"
+    },
+    {
+      "src": "/images/stays/50269792/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20081h000001hr8jxEA38.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The owner was really welcoming. As a coffee lover, having coffee every day was a huge plus for me! The owner even upgraded my room. The guesthouse's location is also fantastic – super convenient for food, drinks, and entertainment. I'll...",
+      "author": "Qiesitekanglituotuo",
+      "date": "2026-04-06",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=50269792&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-50269792&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The owner was really welcoming. As a coffee lover, having coffee every day was a huge plus for me! The owner even upgraded my room. The guesthouse's location is also fantastic – super convenient for food, drinks, and entertainment. I'll...",
+      "author": "Qiesitekanglituotuo",
+      "date": "2026-04-06",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=50269792&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-50269792&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Great location, within walking distance of scenic area. Very helpful staff, happy to communicate and overcome language barriers by using WeChat. Nearby cafes and restaurants.",
+      "author": "Guest User",
+      "date": "2023-08-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=50269792&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-50269792&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 117,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:17:27.217Z",
+  "source": "trip"
+}

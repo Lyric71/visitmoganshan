@@ -1,0 +1,73 @@
+{
+  "id": 8616082,
+  "name": "Jiangfu Hotel",
+  "seedName": "Jiangfu Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-8616082",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8616082&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8616082&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Scenic Views:Rooms offer panoramic views of mountains and greenery, with large windows allowing natural light and unobstructed vistas. The integration of the property with its surroundings ensures a visually pleasing and tranquil environment for guests.(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Scenic Views",
+        "text": "Rooms offer panoramic views of mountains and greenery, with large windows allowing natural light and unobstructed vistas. The integration of the property with its surroundings ensures a visually pleasing and tranquil environment for guests.",
+        "count": 2
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Village Group 6, Houwu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$85",
+  "facilities": [
+    "Cardroom",
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/8616082/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1o12000k45h6z15182.jpg"
+    },
+    {
+      "src": "/images/stays/8616082/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4d12000k44vsrs34E3.webp"
+    },
+    {
+      "src": "/images/stays/8616082/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1312000k450t9e9B6D.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "This stay was a great experience. The homestay is warm and elegantly decorated, making you feel the warmth of home as soon as you enter. It far exceeded our expectations. The room was very clean, the host was very friendly...",
+      "author": "Tingjiexiaoniu",
+      "date": "2025-05-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8616082&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8616082&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Facilities: Brand new Cleanliness: Very clean and quiet Environment: Nice surroundings, definitely a great getaway Service: The owner was very welcoming and helpful, and recommended many useful things. I didn't miss a single thing. It was a perfect vacation. Thanks...",
+      "author": "Guest User",
+      "date": "2025-05-11",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8616082&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8616082&trip_sub3=D19127628"
+    },
+    {
+      "quote": "單獨一棟小樓，兩邊沒有遮擋，景色一覽無餘。, 介紹圖片都是實圖，院子很大，全家出行兩個娃跑的很暢快。, 坐在露台看看星星看看景，很愜意。, 還有在維修的泳池，和團建房，小朋友還去玩了桌球。, 老闆家的小孩哥特別懂事，帶着我們兩個娃玩，非常和氣、温暖、熱情、可愛、堅持説自己八歲了的小孩哥😄, 三個房間都很滿意，竹林景觀安靜雅緻、山景開闊。, 有電梯，看得出老闆很用心在經營，非常推薦！",
+      "author": "Guest User",
+      "date": "2026-05-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8616082&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8616082&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 19,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:01:00.028Z",
+  "source": "trip"
+}

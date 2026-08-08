@@ -1,0 +1,85 @@
+{
+  "id": 107525956,
+  "name": "Moganshan Chujianshanye Hot Spring Light Luxury Beauty Hotel",
+  "seedName": "Moganshan Chujianshanye Hot Spring Light Luxury Beauty Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-107525956",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=107525956&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-107525956&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Facilities:Rooftop swimming pool, smart home systems, KTV, billiards, games, and elevators for accessibility.(based on 3 reviews) Hygiene:Cleanliness praised as \"very clean\" with no unpleasant odors.(based on 6 reviews) Environment:Scenic views, tranquil surroundings, and proximity to natural landscapes. Service:Warm and attentive service from staff, described as \"like family\" and \"enthusiastic.\"(based on 5 reviews) Family-Friendly Features:Comfortable layouts for families, entertainment options for all ages, and accessibility for elderly guests. Guest Suggestion: Some customers suggest the price is not commensurate with the quality, particularly the underwhelming breakfast experience and the lack of value for the high cost.(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Facilities",
+        "text": "Rooftop swimming pool, smart home systems, KTV, billiards, games, and elevators for accessibility.",
+        "count": 3
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Cleanliness praised as \"very clean\" with no unpleasant odors.",
+        "count": 6
+      },
+      {
+        "topic": "Environment",
+        "text": "Scenic views, tranquil surroundings, and proximity to natural landscapes. Service:Warm and attentive service from staff, described as \"like family\" and \"enthusiastic.\"",
+        "count": 5
+      },
+      {
+        "topic": "Family-Friendly Features",
+        "text": "Comfortable layouts for families, entertainment options for all ages, and accessibility for elderly guests. Guest Suggestion: Some customers suggest the price is not commensurate with the quality, particularly the underwhelming breakfast experience and the lack of value for the high cost.",
+        "count": 2
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 13, Baijia, Ziling Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$111",
+  "facilities": [
+    "Outdoor swimming pool"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/107525956/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5f12000b8l1bj132D0.jpg"
+    },
+    {
+      "src": "/images/stays/107525956/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5d12000fgusayg7648.webp"
+    },
+    {
+      "src": "/images/stays/107525956/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4g12000b8kgpzaA018.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The baby likes the small tent and the big bear so much. There is a swimming pool on the top floor, which is very comfortable and the whole family can enjoy it! The boss is also very nice and the...",
+      "author": "Damengzi(^_^)🌸🌺💕",
+      "date": "2023-09-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=107525956&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-107525956&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The landlady is very enthusiastic and introduces the surrounding entertainment well. She also upgraded to a large bed for free. However, she lacks a desk and no place to put computers and luggage. I hope it will be available in...",
+      "author": "Guest User",
+      "date": "2023-08-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=107525956&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-107525956&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Not worth the price at all. More than 1300 per night. Not as good as a 3 star hotel. Especially the breakfast",
+      "author": "Anonymous User",
+      "date": "2023-08-30",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=107525956&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-107525956&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 26,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:55:01.843Z",
+  "source": "trip"
+}

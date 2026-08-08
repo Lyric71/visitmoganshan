@@ -8,6 +8,40 @@
   "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=46092617&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-46092617&trip_sub3=D19127628",
   "sourceDescription": "",
   "aiSummary": "Review summary Powered by AI Environment Location:Surrounded by natural landscapes like bamboo forests and mountain views, close to scenic spots, with quiet and comfortable areas and streams for walking(based on 22 reviews) Facilities:Well-decorated with a pool, spacious rooms, balconies, and a sense of atmosphere in public areas(based on 12 reviews) Service Quality:Warm and thoughtful service, front desk or housekeepers recommend surrounding places and provide travel suggestions(based on 163 reviews) Hygiene:Rooms are clean and tidy with good sanitation(based on 117 reviews) Breakfast:Rich breakfast with Chinese specialties and various types(based on 83 reviews) Guest Suggestion:Some customers suggest improving soundproofing and upgrading pillow comfort, as multiple guests reported issues with noise disturbances and uncomfortable bedding.(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment Location",
+        "text": "Surrounded by natural landscapes like bamboo forests and mountain views, close to scenic spots, with quiet and comfortable areas and streams for walking",
+        "count": 22
+      },
+      {
+        "topic": "Facilities",
+        "text": "Well-decorated with a pool, spacious rooms, balconies, and a sense of atmosphere in public areas",
+        "count": 12
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Warm and thoughtful service, front desk or housekeepers recommend surrounding places and provide travel suggestions",
+        "count": 163
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Rooms are clean and tidy with good sanitation",
+        "count": 117
+      },
+      {
+        "topic": "Breakfast",
+        "text": "Rich breakfast with Chinese specialties and various types",
+        "count": 83
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving soundproofing and upgrading pillow comfort, as multiple guests reported issues with noise disturbances and uncomfortable bedding.",
+      "count": 2
+    }
+  },
   "address": "No. 10, Jimiaowu, Houwu Village, Moganshan Town, Deqing, Zhejiang, China",
   "priceRange": "From US$77",
   "facilities": [
@@ -26,18 +60,6 @@
     {
       "src": "/images/stays/46092617/3.webp",
       "sourceUrl": "https://ak-d.tripcdn.com/images/200h1700000131n7oDE26.webp"
-    },
-    {
-      "src": "/images/stays/46092617/4.webp",
-      "sourceUrl": "https://ak-d.tripcdn.com/images/2h01170000012afnq801D.webp"
-    },
-    {
-      "src": "/images/stays/46092617/5.webp",
-      "sourceUrl": "https://ak-d.tripcdn.com/images/20051700000132i10798B.webp"
-    },
-    {
-      "src": "/images/stays/46092617/6.webp",
-      "sourceUrl": "https://ak-d.tripcdn.com/images/2h0r170000011vzfx258F.webp"
     }
   ],
   "comments": [
@@ -68,6 +90,6 @@
     "count": 274,
     "scale": 10
   },
-  "sourcedAt": "2026-08-08T13:09:54.217Z",
+  "sourcedAt": "2026-08-08T13:47:32.031Z",
   "source": "trip"
 }

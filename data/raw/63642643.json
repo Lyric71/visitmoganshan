@@ -1,0 +1,71 @@
+{
+  "id": 63642643,
+  "name": "Moyan Moganshan Villa Huanshan Suxi Meisu (Yucun Square)",
+  "seedName": "Moyan Moganshan Villa Huanshan Suxi Meisu (Yucun Square)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-63642643",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=63642643&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-63642643&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Hygiene and Environment:Rooms are consistently clean and well-maintained, with timely cleaning services. The environment is praised for its tranquility, natural beauty (e.g., camphor trees, streams), and safety, with branded toiletries ensuring guest comfort.(based on 25 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Hygiene and Environment",
+        "text": "Rooms are consistently clean and well-maintained, with timely cleaning services. The environment is praised for its tranquility, natural beauty (e.g., camphor trees, streams), and safety, with branded toiletries ensuring guest comfort.",
+        "count": 25
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 36 Mogaowu, Liaoyuan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$84",
+  "facilities": [
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/63642643/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201d120009nffygf8149.jpg"
+    },
+    {
+      "src": "/images/stays/63642643/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02061120008qri35pF9A0.webp"
+    },
+    {
+      "src": "/images/stays/63642643/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02026120009z5t7gd3F48.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "We recently enjoyed a 4-night stay at Mo Yan Homestay (莫颜·莫干山Villa环山溯溪美宿（庾村广场店)) with our two children. The location of this hotel is absolutely fantastic, situated incredibly close to the hiking trails of Moganshan. The amenities are equally impressive, featuring a large...",
+      "author": "Jasur Mavlyanov",
+      "date": "2023-10-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=63642643&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-63642643&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Friends who are going to travel to Moganshan, be sure to bookmark this store for me! ! ! 📍The location is very good. The homestay is located halfway up the mountain. Going up is the Moshangan Scenic Area ~ Going...",
+      "author": "Fenfangshiweinierlai",
+      "date": "2024-04-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=63642643&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-63642643&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The service is very warm ❤️, the room is clean and sanitary, the breakfast is very rich, all made by the boss himself, and the boss's wife also gave us free-range eggs and bamboo shoots when we left. The boss's...",
+      "author": "Guest User",
+      "date": "2024-04-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=63642643&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-63642643&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 78,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:55:56.304Z",
+  "source": "trip"
+}

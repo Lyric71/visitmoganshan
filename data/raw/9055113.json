@@ -1,0 +1,77 @@
+{
+  "id": 9055113,
+  "name": "Yimo·Mgs Resort Hotel",
+  "seedName": "Yimo·Mgs Resort Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-9055113",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=9055113&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-9055113&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Facilities:Rooms are spacious, floor-to-ceiling windows are transparent, there is mountain spring water. Some have swimming pools, exquisitely decorated, and facilities like bathrooms are of high quality(based on 32 reviews) Cuisine:The cooking skills of the owner's family are good, farmhouse dishes are delicious, and ingredients are fresh Service:The owner's family is enthusiastic, will adjust breakfast time according to needs, and provide useful travel information(based on 39 reviews) Guest Suggestion:Some customers suggest the property could improve by addressing the outdated facilities and enhancing soundproofing to ensure a more comfortable stay.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Facilities",
+        "text": "Rooms are spacious, floor-to-ceiling windows are transparent, there is mountain spring water. Some have swimming pools, exquisitely decorated, and facilities like bathrooms are of high quality",
+        "count": 32
+      },
+      {
+        "topic": "Cuisine",
+        "text": "The cooking skills of the owner's family are good, farmhouse dishes are delicious, and ingredients are fresh Service:The owner's family is enthusiastic, will adjust breakfast time according to needs, and provide useful travel information",
+        "count": 39
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Wangjia, Village Group 8, Feijiayuanlongli, Xiantan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$128",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/9055113/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4312000e3x9q1dF026.jpg"
+    },
+    {
+      "src": "/images/stays/9055113/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5m12000edws4b0BDD2.webp"
+    },
+    {
+      "src": "/images/stays/9055113/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0812000e3x9lig3AED.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "After much deliberation, I finally booked this place. We went on May 2nd. The drive was excellent. The environment was tranquil. The guesthouse is right next to a large bamboo forest, with a path leading up to it. The kids...",
+      "author": "Guest User",
+      "date": "2026-05-14",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=9055113&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-9055113&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Among so many guesthouses in Moganshan, this one stands out. The rooms are clean and spacious, with expansive views and beautiful scenery. Dinner and lunch were also enjoyed at the guesthouse – delicious home-style cooking! The guesthouse family provided warm...",
+      "author": "toddlht",
+      "date": "2025-08-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=9055113&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-9055113&trip_sub3=D19127628"
+    },
+    {
+      "quote": "This is a very picturesque guesthouse with complete facilities, a beautiful environment, and is very clean. The rooms are spacious, and the floor-to-ceiling windows are sparkling clean. The room amenities and appliances are all new and stylish. The swimming pool...",
+      "author": "Guest User",
+      "date": "2025-08-16",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=9055113&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-9055113&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 91,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:08:33.388Z",
+  "source": "trip"
+}

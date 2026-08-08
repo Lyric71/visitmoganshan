@@ -1,0 +1,91 @@
+{
+  "id": 60597318,
+  "name": "Meet Guesthouse",
+  "seedName": "Meet Guesthouse",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-60597318",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=60597318&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-60597318&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:The hotel is ideally located near Yu Village Square, making it very convenient for accessing Moganshan and surrounding attractions. Guests frequently mentioned its proximity to popular spots, with many attractions within walking distance.(based on 24 reviews) Breakfast:The breakfast at the hotel is highly praised for its delicious, homemade style. Guests particularly enjoyed the locally inspired dishes, such as liver noodles and pickled edamame, which were often prepared by the owner's family.(based on 14 reviews) Service:Guests appreciated the friendly and attentive service provided by the hotel staff, often likening it to being at home. The staff was noted for their helpfulness in recommending local attractions and offering personalized guidance.(based on 35 reviews) Atmosphere:The hotel offers a peaceful and elegant atmosphere, combining modern minimalist design with natural elements from Moganshan. The environment is described as tranquil and comfortable, contributing to a pleasant stay.(based on 12 reviews) Facilities:The hotel is well-equipped with amenities, including a swimming pool and rooms with bathtubs. Guests noted the convenience ",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "The hotel is ideally located near Yu Village Square, making it very convenient for accessing Moganshan and surrounding attractions. Guests frequently mentioned its proximity to popular spots, with many attractions within walking distance.",
+        "count": 24
+      },
+      {
+        "topic": "Breakfast",
+        "text": "The breakfast at the hotel is highly praised for its delicious, homemade style. Guests particularly enjoyed the locally inspired dishes, such as liver noodles and pickled edamame, which were often prepared by the owner's family.",
+        "count": 14
+      },
+      {
+        "topic": "Service",
+        "text": "Guests appreciated the friendly and attentive service provided by the hotel staff, often likening it to being at home. The staff was noted for their helpfulness in recommending local attractions and offering personalized guidance.",
+        "count": 35
+      },
+      {
+        "topic": "Atmosphere",
+        "text": "The hotel offers a peaceful and elegant atmosphere, combining modern minimalist design with natural elements from Moganshan. The environment is described as tranquil and comfortable, contributing to a pleasant stay.",
+        "count": 12
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 61, Zhong Village, Liaoyuan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$102",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Bar",
+    "Cardroom",
+    "Restaurant",
+    "Conference room",
+    "Playground",
+    "Kids' club"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/60597318/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200e1g000001hn7x74DE8.jpg"
+    },
+    {
+      "src": "/images/stays/60597318/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20031g000001hm7bk5441.webp"
+    },
+    {
+      "src": "/images/stays/60597318/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200h1g000001hm1o634F5.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "This B&B is fantastic! The environment is very elegant, and the courtyard is super cozy. It's also really close to Yucun Plaza. The owner is very welcoming, and the place is clean too. I'll definitely visit again if I get...",
+      "author": "Guest User",
+      "date": "2026-05-17",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=60597318&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-60597318&trip_sub3=D19127628"
+    },
+    {
+      "quote": "This B&B is fantastic! The environment is very elegant, and the courtyard is super cozy. It's also really close to Yucun Plaza. The owner is very welcoming, and the place is clean too. I'll definitely visit again if I get...",
+      "author": "Guest User",
+      "date": "2026-05-17",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=60597318&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-60597318&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間乾淨整潔，環境舒適安靜，房東熱情貼心，入住體驗很棒，推薦入住。 位置便利，設施齊全，衞生做得到位，住着舒心，性價比很高。 民宿氛圍温馨，居住體驗滿意，出行方便，下次還會再來。 整體超出預期，乾淨舒服，服務貼心，旅途住宿首選。",
+      "author": "Guest User",
+      "date": "2026-05-25",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=60597318&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-60597318&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 72,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:19:48.465Z",
+  "source": "trip"
+}

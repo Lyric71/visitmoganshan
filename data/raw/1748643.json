@@ -1,0 +1,87 @@
+{
+  "id": 1748643,
+  "name": "J.LALLI VALLEY",
+  "seedName": "J.LALLI VALLEY",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1748643",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1748643&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1748643&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Facilities:Rooms are generally described as spacious with comfortable bedding, and some guests appreciated specific amenities like large balconies with panoramic views. The overall design of the hotel is appealing to those who enjoy being close to nature.(based on 459 reviews) Location:Located conveniently for exploring the surrounding area, the hotel offers easy access to local attractions. The proximity to nature and the ability to enjoy quiet, scenic walks are frequently praised.(based on 184 reviews) Service:While there are mixed reviews on service, some guests reported helpful and friendly staff who provided assistance during their stay. Instances of room upgrades and responsive service during emergencies were appreciated by guests.(based on 1,370 reviews) Guest Suggestion:Some customers suggest improving service efficiency and addressing hygiene issues.(based on 70 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Facilities",
+        "text": "Rooms are generally described as spacious with comfortable bedding, and some guests appreciated specific amenities like large balconies with panoramic views. The overall design of the hotel is appealing to those who enjoy being close to nature.",
+        "count": 459
+      },
+      {
+        "topic": "Location",
+        "text": "Located conveniently for exploring the surrounding area, the hotel offers easy access to local attractions. The proximity to nature and the ability to enjoy quiet, scenic walks are frequently praised.",
+        "count": 184
+      },
+      {
+        "topic": "Service",
+        "text": "While there are mixed reviews on service, some guests reported helpful and friendly staff who provided assistance during their stay. Instances of room upgrades and responsive service during emergencies were appreciated by guests.",
+        "count": 1370
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving service efficiency and addressing hygiene issues.",
+      "count": 70
+    }
+  },
+  "address": "No. 117 Zhuyuan Road, Moganshan Town, Deqing, Zhejiang, 313202, China",
+  "priceRange": "From US$194",
+  "facilities": [
+    "Outdoor swimming pool",
+    "3 Restaurants",
+    "Conference room",
+    "Multi-function room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1748643/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3a12000j2e8kcq1E56.jpg"
+    },
+    {
+      "src": "/images/stays/1748643/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0m12000lwg6z8z2349.webp"
+    },
+    {
+      "src": "/images/stays/1748643/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200m190000018b3jy125A.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "First time here and I was pleasantly surprised by everything – the room, the service, and the view were all amazing! I really hope I can get the same room next year!",
+      "author": "Guest User",
+      "date": "2026-06-09",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1748643&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1748643&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room was fantastic! We got a free upgrade, and the breakfast was excellent too! I accidentally dropped my car keys on the hotel road one evening, and the next day, Mr. Shi, the shuttle bus team leader, along with...",
+      "author": "Guest User",
+      "date": "2026-06-07",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1748643&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1748643&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Facilities: The resort has a ton of recreational facilities, great for kids, and there are even hiking trails for adults. Environment: The natural scenery is absolutely stunning; I could easily spend a whole week here. This was my second visit,...",
+      "author": "✨life＊",
+      "date": "2026-06-02",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1748643&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1748643&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9,
+    "count": 2471,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:32:19.661Z",
+  "source": "trip"
+}

@@ -1,0 +1,86 @@
+{
+  "id": 21149392,
+  "name": "Translation: Tingjian · Moganshan | Forest Oxygen Private Hot Spring Resort Homestay",
+  "seedName": "Translation: Tingjian · Moganshan | Forest Oxygen Private Hot Spring Resort Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-21149392",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=21149392&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-21149392&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service:Guests praise the attentive and friendly service, with responsive hosts and helpful pre-arrival communication enhancing the experience.(based on 96 reviews) Accommodation:Rooms are spacious and comfortable, with large windows offering stunning views, and the decor creates a cozy ambiance.(based on 27 reviews) Guest Suggestion:Some customers suggest improving the cost-effectiveness of the B&B, as the high prices do not match the value offered, and addressing issues such as remote location and limited nearby amenities.(based on 4 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service",
+        "text": "Guests praise the attentive and friendly service, with responsive hosts and helpful pre-arrival communication enhancing the experience.",
+        "count": 96
+      },
+      {
+        "topic": "Accommodation",
+        "text": "Rooms are spacious and comfortable, with large windows offering stunning views, and the decor creates a cozy ambiance.",
+        "count": 27
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving the cost-effectiveness of the B&B, as the high prices do not match the value offered, and addressing issues such as remote location and limited nearby amenities.",
+      "count": 4
+    }
+  },
+  "address": "Yangwan, Fotang Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$95",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Bar",
+    "Billiards room",
+    "Cardroom",
+    "Restaurant",
+    "Water park",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/21149392/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0u12000hatdcoz04D5.jpg"
+    },
+    {
+      "src": "/images/stays/21149392/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201p120008ota64d1D80.webp"
+    },
+    {
+      "src": "/images/stays/21149392/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD4212000azc6dtg3BF5.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The service is warm and friendly, and the environment is great. Highly recommended.",
+      "author": "Anonymous User",
+      "date": "2026-04-26",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=21149392&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-21149392&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Had a fantastic one-night stay at Tingjian! Stepping outside, you're immediately greeted by mountains, forests, and a creek, with lush greenery everywhere – so incredibly healing. The room was spotless and I slept soundly and comfortably. The butler was warm...",
+      "author": "Guest User",
+      "date": "2026-07-26",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=21149392&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-21149392&trip_sub3=D19127628"
+    },
+    {
+      "quote": "This Hostel is not worth the price they carge of over 1 k RMB. The name Luxury design hosel is a deception. For a Luxury hostel the conditions was lousy. A Bathroom with dirty facilities are definately not Luxury. The...",
+      "author": "Helmut Struck",
+      "date": "2024-09-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=21149392&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-21149392&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 182,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:15:54.312Z",
+  "source": "trip"
+}

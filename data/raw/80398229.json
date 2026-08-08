@@ -1,0 +1,86 @@
+{
+  "id": 80398229,
+  "name": "Mipan Moganshan MiPan Light Luxury Beauty Hotel",
+  "seedName": "Mipan Moganshan MiPan Light Luxury Beauty Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-80398229",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=80398229&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-80398229&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:The accommodation is near places like Yucun Square and Yucun Commercial Street, easily reachable on foot with a short walking distance to many destinations.(based on 15 reviews) Facilities:Equipped with various facilities like KTV, chess and card rooms, billiards, etc. Facilities are new and rooms are spacious.(based on 11 reviews) Service:Owners are enthusiastic and provide good service, such as preparing breakfast for guests(based on 28 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "The accommodation is near places like Yucun Square and Yucun Commercial Street, easily reachable on foot with a short walking distance to many destinations.",
+        "count": 15
+      },
+      {
+        "topic": "Facilities",
+        "text": "Equipped with various facilities like KTV, chess and card rooms, billiards, etc. Facilities are new and rooms are spacious.",
+        "count": 11
+      },
+      {
+        "topic": "Service",
+        "text": "Owners are enthusiastic and provide good service, such as preparing breakfast for guests",
+        "count": 28
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 55, Yujia, Liaoyuan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$81",
+  "facilities": [
+    "Indoor swimming pool",
+    "Cardroom",
+    "Restaurant",
+    "Conference room",
+    "Multi-function room",
+    "Children's pool",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/80398229/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2g12000rrgvok58674.jpg"
+    },
+    {
+      "src": "/images/stays/80398229/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0221112000b86l0sq5BF2.webp"
+    },
+    {
+      "src": "/images/stays/80398229/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0m12000b7e52vvD6E3.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Location is near restaurant. Quiet area. Staff are helpful. Swimming pool looks not so okay but over all stay is good",
+      "author": "Anonymous User",
+      "date": "2026-06-25",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=80398229&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-80398229&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The owner and their family were very nice and accommodating. Breakfast was good. The owners were very helpful to personally walk us to a restaurant location and take us to the hiking trail!! The room was very clean and modern.",
+      "author": "Anonymous User",
+      "date": "2024-03-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=80398229&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-80398229&trip_sub3=D19127628"
+    },
+    {
+      "quote": "A very happy two-day trip~ The living environment is good, and the ecological environment in Yucun is also good. It’s very convenient to go anywhere. The boss is also very considerate~ he prepares breakfast for us every day and also...",
+      "author": "Guest User",
+      "date": "2023-11-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=80398229&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-80398229&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 52,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:21:11.126Z",
+  "source": "trip"
+}

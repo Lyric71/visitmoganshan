@@ -8,6 +8,30 @@
   "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=15717014&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-15717014&trip_sub3=D19127628",
   "sourceDescription": "",
   "aiSummary": "Review summary Powered by AI Location and Environment:Nestled in the lush mountains, the hotel offers breathtaking views and a serene environment. The unique setting, with its surrounding bamboo forests, provides a peaceful retreat, perfect for relaxation and connecting with nature.(based on 153 reviews) Facilities:The hotel offers a variety of amenities that enhance the guest experience, including a private onsen, KTV room, and a pool. These facilities are well-maintained and provide additional options for relaxation and entertainment during the stay.(based on 161 reviews) Cleanliness and Comfort:The hotel is noted for its cleanliness and well-maintained rooms. The bedding is comfortable, and the overall atmosphere of the rooms is described as cozy and inviting, contributing to a restful stay.(based on 350 reviews) Guest Suggestion:Some customers suggest improving room hygiene and pest control, as well as enhancing the quality and comfort of mattresses, to better match the pricing expectations.(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location and Environment",
+        "text": "Nestled in the lush mountains, the hotel offers breathtaking views and a serene environment. The unique setting, with its surrounding bamboo forests, provides a peaceful retreat, perfect for relaxation and connecting with nature.",
+        "count": 153
+      },
+      {
+        "topic": "Facilities",
+        "text": "The hotel offers a variety of amenities that enhance the guest experience, including a private onsen, KTV room, and a pool. These facilities are well-maintained and provide additional options for relaxation and entertainment during the stay.",
+        "count": 161
+      },
+      {
+        "topic": "Cleanliness and Comfort",
+        "text": "The hotel is noted for its cleanliness and well-maintained rooms. The bedding is comfortable, and the overall atmosphere of the rooms is described as cozy and inviting, contributing to a restful stay.",
+        "count": 350
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving room hygiene and pest control, as well as enhancing the quality and comfort of mattresses, to better match the pricing expectations.",
+      "count": 2
+    }
+  },
   "address": "No. 6, Ganmiaowu Village, Moganshan Town, Deqing, Zhejiang, China",
   "priceRange": "From US$188",
   "facilities": [
@@ -28,18 +52,6 @@
     {
       "src": "/images/stays/15717014/3.webp",
       "sourceUrl": "https://ak-d.tripcdn.com/images/0585y12000smz98077143.webp"
-    },
-    {
-      "src": "/images/stays/15717014/4.webp",
-      "sourceUrl": "https://ak-d.tripcdn.com/images/200p0p000000fusviE076.webp"
-    },
-    {
-      "src": "/images/stays/15717014/5.webp",
-      "sourceUrl": "https://ak-d.tripcdn.com/images/20080o000000ffdw968B5.webp"
-    },
-    {
-      "src": "/images/stays/15717014/6.webp",
-      "sourceUrl": "https://ak-d.tripcdn.com/images/200h0p000000fxmadCCA3.webp"
     }
   ],
   "comments": [
@@ -70,6 +82,6 @@
     "count": 786,
     "scale": 10
   },
-  "sourcedAt": "2026-08-08T13:09:06.283Z",
+  "sourcedAt": "2026-08-08T13:46:28.793Z",
   "source": "trip"
 }

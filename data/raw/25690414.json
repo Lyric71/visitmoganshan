@@ -1,0 +1,78 @@
+{
+  "id": 25690414,
+  "name": "Yingwuxin Boutique Hostel Mount Mogan",
+  "seedName": "Yingwuxin Boutique Hostel Mount Mogan",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-25690414",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=25690414&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-25690414&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service Quality:The service is highly praised for being attentive and responsive. Staff are described as caring and considerate, providing a personal touch. Guests appreciate quick response times and the willingness to accommodate special requests.(based on 15 reviews) Location:Conveniently located near attractions, the hotel allows easy access to nearby sites like Xiantan Pastoral Paradise. The surroundings include a farm restaurant and beautiful walking paths, providing a rural escape.(based on 5 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service Quality",
+        "text": "The service is highly praised for being attentive and responsive. Staff are described as caring and considerate, providing a personal touch. Guests appreciate quick response times and the willingness to accommodate special requests.",
+        "count": 15
+      },
+      {
+        "topic": "Location",
+        "text": "Conveniently located near attractions, the hotel allows easy access to nearby sites like Xiantan Pastoral Paradise. The surroundings include a farm restaurant and beautiful walking paths, providing a rural escape.",
+        "count": 5
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Village Group 2, Xiantan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$93",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/25690414/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5d12000b9wpugs90E7.jpg"
+    },
+    {
+      "src": "/images/stays/25690414/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6812000b9wr7nh88B9.webp"
+    },
+    {
+      "src": "/images/stays/25690414/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5d12000b9wpugs90E7.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The hotel is of great quality with a lovely Chinese-style decor, and it's very clean. I especially loved their bathtub, from which you can see a bamboo forest. The transportation is also very convenient. Breakfast is served as individual portions...",
+      "author": "Nuoyaya",
+      "date": "2026-03-11",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=25690414&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-25690414&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Incredibly kind and considerate staff. Was willing to answer all questions and concerns. If your looking for some time away in the mountains and some peace and quiet would definitely recommend!",
+      "author": "Guest User",
+      "date": "2026-07-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=25690414&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-25690414&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Great little Boutique Hotel . The breakfast with homemade delicacies was excellent. The room very nicely designed. A very quiet and remote getaway",
+      "author": "Guest User",
+      "date": "2025-06-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=25690414&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-25690414&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 46,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:35:48.532Z",
+  "source": "trip"
+}

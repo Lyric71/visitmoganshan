@@ -8,6 +8,31 @@
   "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=130417838&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-130417838&trip_sub3=D19127628",
   "sourceDescription": "",
   "aiSummary": "Review summary Powered by AI Location:Located near Moganshan Scenic Area, convenient for travel. It is situated in Houwu Village of Moganshan Town, close to the scenic area, and easy to reach attractions.(based on 19 reviews) Environment:Beautiful environment with new decoration, green mountains and bamboo forests outside the window, pleasant scenery. The lighting at night creates a full atmosphere, suitable for taking photos. Hygiene:Super clean and tidy, from the room to the bathroom, all are clean and tidy, with high-quality supplies.(based on 113 reviews) Service:Hosts are enthusiastic and thoughtful, responding promptly to problems, and providing warm and intimate service from check-in to check-out.(based on 126 reviews) Facilities:Facilities are complete, with complete equipment such as swimming pools, billiards rooms, and reading rooms, and the rooms are equipped with high-quality products like Kohler sanitary ware and Laifen hair dryers.(based on 31 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Located near Moganshan Scenic Area, convenient for travel. It is situated in Houwu Village of Moganshan Town, close to the scenic area, and easy to reach attractions.",
+        "count": 19
+      },
+      {
+        "topic": "Environment",
+        "text": "Beautiful environment with new decoration, green mountains and bamboo forests outside the window, pleasant scenery. The lighting at night creates a full atmosphere, suitable for taking photos. Hygiene:Super clean and tidy, from the room to the bathroom, all are clean and tidy, with high-quality supplies.",
+        "count": 113
+      },
+      {
+        "topic": "Service",
+        "text": "Hosts are enthusiastic and thoughtful, responding promptly to problems, and providing warm and intimate service from check-in to check-out.",
+        "count": 126
+      },
+      {
+        "topic": "Facilities",
+        "text": "Facilities are complete, with complete equipment such as swimming pools, billiards rooms, and reading rooms, and the rooms are equipped with high-quality products like Kohler sanitary ware and Laifen hair dryers.",
+        "count": 31
+      }
+    ],
+    "suggestion": null
+  },
   "address": "No. 10, Lingjiaoxia, Houwu Village, Deqing, Zhejiang, China",
   "priceRange": "From US$91",
   "facilities": [
@@ -31,18 +56,6 @@
     {
       "src": "/images/stays/130417838/3.webp",
       "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3b12000mcml93k2B07.webp"
-    },
-    {
-      "src": "/images/stays/130417838/4.webp",
-      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4z12000mdpss3p2AA5.webp"
-    },
-    {
-      "src": "/images/stays/130417838/5.webp",
-      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1l12000mcpnk0jE62B.webp"
-    },
-    {
-      "src": "/images/stays/130417838/6.webp",
-      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0n12000mcou4983157.webp"
     }
   ],
   "comments": [
@@ -73,6 +86,6 @@
     "count": 229,
     "scale": 10
   },
-  "sourcedAt": "2026-08-08T13:09:10.692Z",
+  "sourcedAt": "2026-08-08T13:46:28.712Z",
   "source": "trip"
 }

@@ -1,0 +1,90 @@
+{
+  "id": 4999393,
+  "name": "Cloud Mirror Holiday Hostel",
+  "seedName": "Cloud Mirror Holiday Hostel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-4999393",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4999393&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4999393&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment and Location:The surrounding environment is good, with fresh air. It is near Moganshan, and there are many places to visit around. It is far from the busy city and surrounded by mountains. The courtyard scenery is extremely beautiful.(based on 9 reviews) Facilities:Rooms are well-decorated, with complete facilities. It has a wooden house style, large rooms, and bamboo forests outside the windows.(based on 3 reviews) Service:Staff are friendly, responsive to requests, handle problems in a timely manner, and are well-managed with timely cleaning.(based on 12 reviews) Guest Suggestion:Some customers suggest the homestay's food is poor, the smoke alarm in the room keeps ringing, and the owner is stingy when providing bamboo shoots(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment and Location",
+        "text": "The surrounding environment is good, with fresh air. It is near Moganshan, and there are many places to visit around. It is far from the busy city and surrounded by mountains. The courtyard scenery is extremely beautiful.",
+        "count": 9
+      },
+      {
+        "topic": "Facilities",
+        "text": "Rooms are well-decorated, with complete facilities. It has a wooden house style, large rooms, and bamboo forests outside the windows.",
+        "count": 3
+      },
+      {
+        "topic": "Service",
+        "text": "Staff are friendly, responsive to requests, handle problems in a timely manner, and are well-managed with timely cleaning.",
+        "count": 12
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest the homestay's food is poor, the smoke alarm in the room keeps ringing, and the owner is stingy when providing bamboo shoots",
+      "count": 2
+    }
+  },
+  "address": "No. 1, Miaoqian Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$64",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Bar",
+    "Restaurant",
+    "Cafe",
+    "Conference room",
+    "Multi-function room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/4999393/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0202p12000822dr0nE552.jpg"
+    },
+    {
+      "src": "/images/stays/4999393/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20051b000001asqudD5FF.webp"
+    },
+    {
+      "src": "/images/stays/4999393/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203l12000822c2axC928.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The owners are really nice. It was quite cold during our stay, and the owner's wife, worried we'd be cold, went to our room in advance to turn on the electric blankets and air conditioning. The place was also very...",
+      "author": "Anonymous User",
+      "date": "2026-01-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4999393&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4999393&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The guesthouse was quite nice; the owner even upgraded our room for free. The air in the mountains was fresh and cool.",
+      "author": "Guest User",
+      "date": "2025-10-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4999393&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4999393&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I made a last-minute reservation, but the space was cleaner and more comfortable than I expected. The location is near Mt. Mogan, so there are many places to visit nearby. Despite being in the mountains, the room was neat and...",
+      "author": "Guest User",
+      "date": "2025-10-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4999393&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4999393&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.3,
+    "count": 42,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:41:45.422Z",
+  "source": "trip"
+}

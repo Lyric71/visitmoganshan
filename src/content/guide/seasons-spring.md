@@ -60,7 +60,7 @@ Guesthouse kitchens buy locally and have shoots on the menu within hours of the 
 
 Shoots are one of two things the season is promoted on locally. The other is meadows, and there we run out. We hold the word and nothing else.
 
-TODO: verify what the spring meadows are and where they are.
+Not confirmed: what the spring meadows are and where they are.
 
 > Forest cover, species and commercial land use, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
@@ -82,7 +82,7 @@ There is no turnstile count here, so the crowd lines are inferred. The measured 
 
 The other spring crop here is picked rather than dug. Moganshan's tea is huangya, a yellow bud tea. Bud teas are a spring crop wherever they are made, because the pick is unopened buds rather than mature leaf, and the bud is only there early. Chinese practice measures that window against Qingming, the tomb-sweeping festival around 4 to 5 April.
 
-TODO: verify the Moganshan picking window. No local dates are confirmed, and the window moves with the weather in any case.
+Not confirmed: the Moganshan picking window. No local dates are confirmed, and the window moves with the weather in any case.
 
 So April is almost certainly the month, and we cannot hand you the fortnight. No garden here is confirmed to take visitors either. [Moganshan yellow bud tea](/moganshan/tea/) has the grades and the full list of what nobody has stood in a field to check.
 
@@ -140,5 +140,5 @@ Autumn takes the view, spring takes most of the rest, and [the best time to visi
 
 [The seasons guide](/seasons/) sets all four against each other. We recommend spring on a harvest, a rate card and a crowd pattern, not on a temperature. Publish a spring mean and this page gets the number, with nothing above it deleted.
 
-*Temperature means, occupancy figures, room rates and the May Day numbers last checked 7 August 2026. Ticket prices conflict between sources and change with the season, so confirm yours at booking. Every line marked TODO is unverified on purpose.*
+*Temperature means, occupancy figures, room rates and the May Day numbers last checked 7 August 2026. Ticket prices conflict between sources and change with the season, so confirm yours at booking. Every line flagged as unconfirmed is unverified on purpose.*
 

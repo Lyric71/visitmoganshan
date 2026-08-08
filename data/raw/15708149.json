@@ -1,0 +1,73 @@
+{
+  "id": 15708149,
+  "name": "moganshanyugang",
+  "seedName": "moganshanyugang",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-15708149",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=15708149&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-15708149&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Design and Aesthetics:The property’s unique, photogenic design blends rustic charm with functional layouts. Rooms and public spaces are praised for their aesthetic appeal, with attention to detail in decor and lighting. Activities and Accessibility:Proximity to outdoor activities like rafting, hiking, and horseback riding is emphasized. The on-site stream allows easy water play, and the location offers convenient access to nearby attractions and farms.(based on 16 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Design and Aesthetics",
+        "text": "The property’s unique, photogenic design blends rustic charm with functional layouts. Rooms and public spaces are praised for their aesthetic appeal, with attention to detail in decor and lighting. Activities and Accessibility:Proximity to outdoor activities like rafting, hiking, and horseback riding is emphasized. The on-site stream allows easy water play, and the location offers convenient access to nearby attractions and farms.",
+        "count": 16
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 1 Xibei Jiashui, Nanlu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$90",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Bar",
+    "Restaurant",
+    "Multi-function room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/15708149/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5d12000es03t9tEA2C.jpg"
+    },
+    {
+      "src": "/images/stays/15708149/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4612000es0cjti2082.webp"
+    },
+    {
+      "src": "/images/stays/15708149/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1y12000erqcdbc7A29.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Having previously enjoyed playing by the stream right outside during the May Day holiday, we opted for the closest guesthouse this time. The guesthouse itself is very stylish, with a unique and spacious layout. It boasts a pool, a large...",
+      "author": "Guest User",
+      "date": "2025-08-28",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=15708149&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-15708149&trip_sub3=D19127628"
+    },
+    {
+      "quote": "This B&B offers incredible value for money. The host was absolutely fantastic, incredibly responsive and accommodating to all our needs. They even thoughtfully set up a canopy for us when they saw how hot it was, which was a brilliant...",
+      "author": "Guest User",
+      "date": "2025-08-16",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=15708149&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-15708149&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The owner of the B&B was fantastic. They arranged a delightful stream-side afternoon tea for us. Our room was also incredibly comfortable and even came with its own charming little courtyard. The breakfast on the second day was a beautiful...",
+      "author": "Guest User",
+      "date": "2025-08-09",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=15708149&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-15708149&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.3,
+    "count": 49,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:34:18.279Z",
+  "source": "trip"
+}

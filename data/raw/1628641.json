@@ -1,0 +1,86 @@
+{
+  "id": 1628641,
+  "name": "Moganshan Yuansheng Homestay",
+  "seedName": "Moganshan Yuansheng Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1628641",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1628641&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1628641&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Hygiene:Very clean, both in the lobby and rooms, with thorough cleaning by the hostess. Multiple comments highlight the clean and tidy condition of the accommodation.(based on 55 reviews) Service Quality:Hosts are warm and hospitable, responsive to inquiries, and provide various help such as route planning.(based on 56 reviews) Facilities:Newly renovated with complete and advanced facilities, including smart toilets, projectors, floor-to-ceiling windows, etc.(based on 14 reviews) Breakfast:Made with local ingredients, featuring mountain-style flavors like dried bamboo shoots and pickled vegetables, with delicious porridge(based on 10 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Hygiene",
+        "text": "Very clean, both in the lobby and rooms, with thorough cleaning by the hostess. Multiple comments highlight the clean and tidy condition of the accommodation.",
+        "count": 55
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Hosts are warm and hospitable, responsive to inquiries, and provide various help such as route planning.",
+        "count": 56
+      },
+      {
+        "topic": "Facilities",
+        "text": "Newly renovated with complete and advanced facilities, including smart toilets, projectors, floor-to-ceiling windows, etc.",
+        "count": 14
+      },
+      {
+        "topic": "Breakfast",
+        "text": "Made with local ingredients, featuring mountain-style flavors like dried bamboo shoots and pickled vegetables, with delicious porridge",
+        "count": 10
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 70, Kanshang, Houwu Village, Moganshan Town, Deqing, Zhejiang, 313260, China",
+  "priceRange": "From US$54",
+  "facilities": [
+    "Bar",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1628641/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5712000dhwtj5e063B.jpg"
+    },
+    {
+      "src": "/images/stays/1628641/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4o12000dhyx6830F8A.webp"
+    },
+    {
+      "src": "/images/stays/1628641/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0912000dhzco8eCA2F.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Even though I'm Japanese, I was treated with incredible kindness. The room and common areas were beautiful and spotless. The staff even recommended local attractions and restaurants, which made my trip so much more fulfilling and enjoyable. I was so...",
+      "author": "Guest User",
+      "date": "2026-07-26",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1628641&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1628641&trip_sub3=D19127628"
+    },
+    {
+      "quote": "This guesthouse experience was absolutely fantastic! The courtyard was filled with flowers and greenery, creating a wonderfully comfortable atmosphere. Opening the window revealed beautiful mountain views, a welcome escape from the hustle and bustle of the city – a truly...",
+      "author": "Anonymous User",
+      "date": "2026-03-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1628641&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1628641&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I've booked hotels on Ctrip many times, but this is the only one I felt compelled to write a review for. The drive there was lined with restaurants, supermarkets, and picturesque streams. When I arrived at the guesthouse, I was...",
+      "author": "Guest User",
+      "date": "2025-10-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1628641&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1628641&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 104,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:07:00.668Z",
+  "source": "trip"
+}

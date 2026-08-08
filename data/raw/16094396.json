@@ -1,0 +1,86 @@
+{
+  "id": 16094396,
+  "name": "Manlv Times Boutique Hostel Mogan Mountain",
+  "seedName": "Manlv Times Boutique Hostel Mogan Mountain",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-16094396",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=16094396&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-16094396&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:Surrounded by beautiful natural scenery with clear streams, the building integrates historical and modern designs, and the park has art spaces. In Shanghai, the hotel is surrounded by century-old plane trees, creating a cozy atmosphere.(based on 10 reviews) Service:Owners and staff are warm and friendly, check-in is efficient, and services are thoughtful.(based on 12 reviews) Facilities:Rooms are spacious with comfortable bedding, complete bathroom facilities including Dyson hairdryers and smart toilets, free daily mini-bar refills, and a 24-hour gym.(based on 8 reviews) Hygiene:Rooms are clean and tidy.(based on 13 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Surrounded by beautiful natural scenery with clear streams, the building integrates historical and modern designs, and the park has art spaces. In Shanghai, the hotel is surrounded by century-old plane trees, creating a cozy atmosphere.",
+        "count": 10
+      },
+      {
+        "topic": "Service",
+        "text": "Owners and staff are warm and friendly, check-in is efficient, and services are thoughtful.",
+        "count": 12
+      },
+      {
+        "topic": "Facilities",
+        "text": "Rooms are spacious with comfortable bedding, complete bathroom facilities including Dyson hairdryers and smart toilets, free daily mini-bar refills, and a 24-hour gym.",
+        "count": 8
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Rooms are clean and tidy.",
+        "count": 13
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 6, First Row, Jiangjiazhuang, Fatou Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$58",
+  "facilities": [
+    "Cardroom",
+    "Children's pool"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/16094396/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20070r000000hfhf6C947.jpg"
+    },
+    {
+      "src": "/images/stays/16094396/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20070r000000hfhf6C947.webp"
+    },
+    {
+      "src": "/images/stays/16094396/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200e0q000000gdnl13EEC.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The room was very quiet, and the owner personally prepared delicious snacks and side dishes every morning. The guesthouse has a great location; it's within a half-hour drive to the reservoir, Xiantan Village, Moganshan Scenic Area, and Yintai City shopping...",
+      "author": "Bonnybo",
+      "date": "2026-05-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=16094396&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-16094396&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Located on the opposite side of the mountain, the environment is beautiful, with a clear stream nearby where you can bring your children to catch fish and play in the water. The breakfast is plentiful and delicious; it's a great...",
+      "author": "Guest User",
+      "date": "2026-04-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=16094396&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-16094396&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I really liked it! The owner and her family were very welcoming, and I loved the stream next to it! Even the restaurant I randomly picked was delicious! I'll definitely come again!",
+      "author": "Abaodaren",
+      "date": "2025-08-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=16094396&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-16094396&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 28,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:50:39.975Z",
+  "source": "trip"
+}

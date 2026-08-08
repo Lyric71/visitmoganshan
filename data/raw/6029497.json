@@ -1,0 +1,84 @@
+{
+  "id": 6029497,
+  "name": "Mogan Mountain Jingya Inn",
+  "seedName": "Mogan Mountain Jingya Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-6029497",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6029497&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6029497&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment Location:Located in a natural setting with a peaceful and quiet environment, near streams, bamboo forests and scenic spots like Moganshan, and parking is convenient(based on 6 reviews) Service Quality:Staff and owners are friendly and helpful, providing guidance and breakfast(based on 5 reviews) Facilities:Rooms are distinctive, some have balconies, and there are facilities like chess, cards, karaoke, with toiletries and breakfast available(based on 3 reviews) Guest Suggestion:Some customers suggest improving breakfast quality and adjusting pricing to better match service value.(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment Location",
+        "text": "Located in a natural setting with a peaceful and quiet environment, near streams, bamboo forests and scenic spots like Moganshan, and parking is convenient",
+        "count": 6
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Staff and owners are friendly and helpful, providing guidance and breakfast",
+        "count": 5
+      },
+      {
+        "topic": "Facilities",
+        "text": "Rooms are distinctive, some have balconies, and there are facilities like chess, cards, karaoke, with toiletries and breakfast available",
+        "count": 3
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving breakfast quality and adjusting pricing to better match service value.",
+      "count": 3
+    }
+  },
+  "address": "No. 1, Dashuxia, Xiantan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$25",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/6029497/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200d0s000000i2l5gDF31.jpg"
+    },
+    {
+      "src": "/images/stays/6029497/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200i0s000000hls3e6EFA.webp"
+    },
+    {
+      "src": "/images/stays/6029497/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20070s000000hw0w7F194.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "I stayed in this hotel. The staff are very kind and friendly .. The places nearby are breathtaking .. I had sunch an amazing get away from the city",
+      "author": "Guest User",
+      "date": "2026-06-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6029497&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6029497&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I stayed here for three nights while competing in the UTMB race, and I cannot thank the owner enough. The beds were incredibly comfortable, the rooms were spotless, and the staff was both friendly and genuinely helpful. The location is...",
+      "author": "Guest User",
+      "date": "2026-04-13",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6029497&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6029497&trip_sub3=D19127628"
+    },
+    {
+      "quote": "If you're going for rustic and old country hse, this is def the place. Nice balcony. Affordable price, but not fancy. Front desk staff is helpful tho!",
+      "author": "Guest User",
+      "date": "2025-10-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6029497&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6029497&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.1,
+    "count": 73,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:26:32.969Z",
+  "source": "trip"
+}

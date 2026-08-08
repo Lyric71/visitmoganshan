@@ -1,0 +1,89 @@
+{
+  "id": 80664009,
+  "name": "A Millet Resort Hotel Moganshan Scenic",
+  "seedName": "A Millet Resort Hotel Moganshan Scenic",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-80664009",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=80664009&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-80664009&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:The hotel is ideally located within the Mogan Mountain scenic area, making access to key attractions and activities highly convenient. It is near the interchange center and various scenic spots, enhancing the travel experience for guests.(based on 135 reviews) Room and Facilities:Rooms are noted for their modern, minimalist design and cleanliness, with high-quality amenities like Dyson hairdryers and Le Labo toiletries. The spacious rooms often feature large windows or terraces offering stunning mountain views.(based on 99 reviews) Environment and Aesthetics:Nestled in a lush, mountainous setting, the hotel offers a tranquil atmosphere with breathtaking natural views. The design harmonizes with the environment, providing a serene and relaxing retreat for guests.(based on 107 reviews) Breakfast:The breakfast is highly regarded for its variety and quality, offering both Western and Chinese options. The set meals are particularly noted for their richness and balance, catering to different dietary preferences.(based on 95 reviews) Guest Suggestion: Some customers suggest the price is disproportionately high for the service and environment, and the ",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "The hotel is ideally located within the Mogan Mountain scenic area, making access to key attractions and activities highly convenient. It is near the interchange center and various scenic spots, enhancing the travel experience for guests.",
+        "count": 135
+      },
+      {
+        "topic": "Room and Facilities",
+        "text": "Rooms are noted for their modern, minimalist design and cleanliness, with high-quality amenities like Dyson hairdryers and Le Labo toiletries. The spacious rooms often feature large windows or terraces offering stunning mountain views.",
+        "count": 99
+      },
+      {
+        "topic": "Environment and Aesthetics",
+        "text": "Nestled in a lush, mountainous setting, the hotel offers a tranquil atmosphere with breathtaking natural views. The design harmonizes with the environment, providing a serene and relaxing retreat for guests.",
+        "count": 107
+      },
+      {
+        "topic": "Breakfast",
+        "text": "The breakfast is highly regarded for its variety and quality, offering both Western and Chinese options. The set meals are particularly noted for their richness and balance, catering to different dietary preferences.",
+        "count": 95
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 317 Yinshan Street, Moganshan Scenic Area, Deqing, Zhejiang, China",
+  "priceRange": "From US$222",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Bar",
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/80664009/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206d1200091mk6epD94A.jpg"
+    },
+    {
+      "src": "/images/stays/80664009/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/020521200090tqqal25D0.webp"
+    },
+    {
+      "src": "/images/stays/80664009/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201v1200091mh87oF99D.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "I rarely write reviews, but my stay this time was absolutely terrible and definitely not worth the 2200 price tag per night. It was even worse than a regular Atour hotel. 1. Pet Policy Ignored: The booking clearly stated no...",
+      "author": "Guest User",
+      "date": "2026-08-02",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=80664009&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-80664009&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room was spacious and clean, located right in the heart of the business district, not far from any of the attractions. Breakfast was a set meal with noodles and wontons, though the noodles were just okay. There's no elevator,...",
+      "author": "Guest User",
+      "date": "2026-06-06",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=80664009&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-80664009&trip_sub3=D19127628"
+    },
+    {
+      "quote": "This is an amazing getaway for a weekend breath of fresh air near Hangzhou. My only complaint is the limited dining options available around Moganshan scenic area. Luckily, there's a kitchen, so I might bring my own ingredients next time....",
+      "author": "Huochuangyi",
+      "date": "2026-06-21",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=80664009&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-80664009&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 485,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:59:56.241Z",
+  "source": "trip"
+}

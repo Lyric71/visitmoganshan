@@ -1,0 +1,78 @@
+{
+  "id": 78198857,
+  "name": "Mogan Shanshui Moxipan Wild Luxury Villa Countryside Beauty",
+  "seedName": "Mogan Shanshui Moxipan Wild Luxury Villa Countryside Beauty",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-78198857",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=78198857&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-78198857&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Natural Environment:Surrounded by Shuimo River, bamboo forests, and farmland, offering scenic views of mountains, streams, and gardens with lush vegetation, butterflies, and birdsong. Service Quality:Warm and hospitable hosts provide local cuisine , personalized assistance , and a homely atmosphere.(based on 6 reviews) Facilities:Spacious rooms with clean, rustic decor; large outdoor swimming pool ; recreational amenities .(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Natural Environment",
+        "text": "Surrounded by Shuimo River, bamboo forests, and farmland, offering scenic views of mountains, streams, and gardens with lush vegetation, butterflies, and birdsong. Service Quality:Warm and hospitable hosts provide local cuisine , personalized assistance , and a homely atmosphere.",
+        "count": 6
+      },
+      {
+        "topic": "Facilities",
+        "text": "Spacious rooms with clean, rustic decor; large outdoor swimming pool ; recreational amenities .",
+        "count": 2
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 2 Shijiaoling, Gaofeng Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$75",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/78198857/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02018120009mklhup094A.jpg"
+    },
+    {
+      "src": "/images/stays/78198857/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4212000dzvkotq5ACB.webp"
+    },
+    {
+      "src": "/images/stays/78198857/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200212000a5j7wvk4A5D.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The environment is very good, the landlady is very enthusiastic, and she introduces everything about food, drink and entertainment. I will stay at his place next time I come.",
+      "author": "Guest User",
+      "date": "2024-08-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=78198857&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-78198857&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The garden beside Shuimo River is picturesque and poetic. The trees are shady, the flowers are fragrant, and the butterflies are dancing. The gurgling stream, in harmony with the chirping of birds, forms a natural symphony. Walking there, you feel...",
+      "author": "Guest User",
+      "date": "2024-05-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=78198857&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-78198857&trip_sub3=D19127628"
+    },
+    {
+      "quote": "By the Shuimo River, the blue waves are rippling, the breeze is blowing, and the willow silk is fluttering. The shadows of flowers sway on the shore and fish play in the water. From a distance, the green mountains look...",
+      "author": "Guest User",
+      "date": "2024-05-16",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=78198857&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-78198857&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 25,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:55:35.761Z",
+  "source": "trip"
+}

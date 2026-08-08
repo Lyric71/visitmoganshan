@@ -1,0 +1,96 @@
+{
+  "id": 5431146,
+  "name": "the Yard of the Sky",
+  "seedName": "the Yard of the Sky",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5431146",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5431146&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5431146&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Environment:Quiet, surrounded by bamboo forests, mountains, and streams; 10–15 minutes from Moganshan Scenic Area.(based on 59 reviews) Facilities:Includes swimming pool, KTV, billiards, mahjong, arcade games, barbecue areas, and a large yard with starry night views.(based on 34 reviews) Service:Friendly, attentive staff .(based on 212 reviews) Cleanliness:Rooms are clean, well-maintained, with disposable toiletries and daily housekeeping.(based on 120 reviews) Dining:Delicious local cuisine , 9-square-grid breakfast, and flexible meal options.(based on 54 reviews) Special Features:Pet-friendly, child-friendly activities , and scenic views . Guest Suggestion: Some customers suggest improving room hygiene , ensuring functional HVAC/heating systems, and addressing discrepancies between advertised amenities and actual offerings.(based on 4 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Quiet, surrounded by bamboo forests, mountains, and streams; 10–15 minutes from Moganshan Scenic Area.",
+        "count": 59
+      },
+      {
+        "topic": "Facilities",
+        "text": "Includes swimming pool, KTV, billiards, mahjong, arcade games, barbecue areas, and a large yard with starry night views.",
+        "count": 34
+      },
+      {
+        "topic": "Service",
+        "text": "Friendly, attentive staff .",
+        "count": 212
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms are clean, well-maintained, with disposable toiletries and daily housekeeping.",
+        "count": 120
+      },
+      {
+        "topic": "Dining",
+        "text": "Delicious local cuisine , 9-square-grid breakfast, and flexible meal options.",
+        "count": 54
+      },
+      {
+        "topic": "Special Features",
+        "text": "Pet-friendly, child-friendly activities , and scenic views . Guest Suggestion: Some customers suggest improving room hygiene , ensuring functional HVAC/heating systems, and addressing discrepancies between advertised amenities and actual offerings.",
+        "count": 4
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 17, Ziling Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$62",
+  "facilities": [
+    "Outdoor swimming pool",
+    "2 Restaurants"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5431146/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0b12000cn1rw1aA26D.jpg"
+    },
+    {
+      "src": "/images/stays/5431146/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20060t000000ias4r9C68.webp"
+    },
+    {
+      "src": "/images/stays/5431146/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200b0t000000icju6A459.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Charming guesthouse in the forest. The host is kind and always available to help. we got a room with balcony, a bit outdated, but everything well kept. The bed was comfy. The breakfast is ok, chinese, and they have coffee...",
+      "author": "TheItaliantraveller",
+      "date": "2026-08-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5431146&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5431146&trip_sub3=D19127628"
+    },
+    {
+      "quote": "A deeply peaceful experience- Bamboo jungle-like setting, offering a \"slow-living\" experience. -featuring a warm, comforting morning breakfast—combines the natural ambiance of the ancient room setting with the comfort of simple, high-quality food. And the excellent hospitality from Nicole 阿姨。",
+      "author": "Guest User",
+      "date": "2026-04-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5431146&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5431146&trip_sub3=D19127628"
+    },
+    {
+      "quote": "If you're looking for a quiet retreat in nature, this is it. Highly recommend and would definitely return! This guesthouse is the only property in the area, surrounded by mountains on all sides — incredibly peaceful and quiet, far from...",
+      "author": "Guest User",
+      "date": "2026-03-31",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5431146&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5431146&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 366,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:00:35.260Z",
+  "source": "trip"
+}

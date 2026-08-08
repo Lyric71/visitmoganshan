@@ -1,0 +1,96 @@
+{
+  "id": 9639836,
+  "name": "Cloud 9 Yunwai Boutique Inn",
+  "seedName": "Cloud 9 Yunwai Boutique Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-9639836",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=9639836&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-9639836&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Environment:Nestled in mountainous areas with rice fields, bamboo forests, and streams; serene, secluded atmosphere ideal for relaxation.(based on 4 reviews) Design & Facilities:Wabi-sabi style rooms with skylights, lofts, and mountain-view terraces; mountaintop swimming pool and hiking trails.(based on 21 reviews) Service:Attentive hosts and staff, pre-check-in communication, and personalized care .(based on 27 reviews) Hygiene & Comfort:Clean rooms, well-maintained facilities, and natural ventilation via skylights.(based on 26 reviews) Accessibility:Proximity to niche attractions and convenient parking.(based on 4 reviews) Guest Suggestion: Some customers suggest the price is mismatched with the quality, as rooms had mold and didn’t match photos, and services felt overpriced compared to offerings.(based on 1 review)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Nestled in mountainous areas with rice fields, bamboo forests, and streams; serene, secluded atmosphere ideal for relaxation.",
+        "count": 4
+      },
+      {
+        "topic": "Facilities",
+        "text": "Wabi-sabi style rooms with skylights, lofts, and mountain-view terraces; mountaintop swimming pool and hiking trails.",
+        "count": 21
+      },
+      {
+        "topic": "Service",
+        "text": "Attentive hosts and staff, pre-check-in communication, and personalized care .",
+        "count": 27
+      },
+      {
+        "topic": "Comfort",
+        "text": "Clean rooms, well-maintained facilities, and natural ventilation via skylights.",
+        "count": 26
+      },
+      {
+        "topic": "Accessibility",
+        "text": "Proximity to niche attractions and convenient parking.",
+        "count": 4
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest the price is mismatched with the quality, as rooms had mold and didn’t match photos, and services felt overpriced compared to offerings.",
+      "count": 1
+    }
+  },
+  "address": "No. 1, Chen Village, Dazaowu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$135",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/9639836/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200z12000ftp7ury14EE.jpg"
+    },
+    {
+      "src": "/images/stays/9639836/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200h0j000000aidxxEEA0.webp"
+    },
+    {
+      "src": "/images/stays/9639836/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20060j000000ahw5cDBF8.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Hidden in a sea of ​​bamboo, surrounded by mountains, it's such a relaxing experience! Just outside your door are rice paddies and the distant mountains, shrouded in mist. Wake up to the sound of a gurgling stream in the morning...",
+      "author": "Guest User",
+      "date": "2025-08-15",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=9639836&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-9639836&trip_sub3=D19127628"
+    },
+    {
+      "quote": "It's worth staying here. The strong lemon scent is right at the entrance, and the air conditioning is on early. The whole B&B is surrounded by bamboo forests, which is amazing! There were no noodles for breakfast, but the owner...",
+      "author": "Guest User",
+      "date": "2025-08-12",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=9639836&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-9639836&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room is LOFT-style, I really like it. It's pet-friendly. The owner's wife has a Labrador and a kitten, and they're just as warm and easygoing as the owner, hahaha~",
+      "author": "Nuanbaomama",
+      "date": "2025-08-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=9639836&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-9639836&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 51,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:21:51.926Z",
+  "source": "trip"
+}

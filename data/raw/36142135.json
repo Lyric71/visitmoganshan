@@ -1,0 +1,89 @@
+{
+  "id": 36142135,
+  "name": "Mochi Moganshan Garden Hot Spring Resort & B&B",
+  "seedName": "Mochi Moganshan Garden Hot Spring Resort & B&B",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-36142135",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=36142135&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-36142135&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Environment:Situated in a quiet village near Moganshan, offering hiking trails, scenic views of the mountain, and proximity to attractions like Xinshi Ancient Town, fish-scale dam, and firefly observation spots.(based on 20 reviews) Facilities:Features include rooftop gardens with mountain views, swimming pools, children’s play areas, art galleries, and a large courtyard with a graffiti wall . Some properties have underground parking with EV charging.(based on 42 reviews) Accommodation:Rooms are described as clean, spacious, and well-equipped with bathtubs, projectors, and mountain vistas. Many have balconies or terraces for outdoor relaxation.(based on 116 reviews) Service:Hosts are consistently praised for friendliness, proactive assistance, and providing local specialties like Moganshan bamboo shoots and roasted grass jelly.(based on 78 reviews) Culinary Experience:Meals include fresh, authentic Moganshan dishes, with some B&Bs offering homemade specialties by the host’s family. Seasonal Appeal:Off-season stays are highlighted for tranquility, cost-effectiveness, and fewer crowds, while summer visits emphasize swimming pools and hot spring",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Situated in a quiet village near Moganshan, offering hiking trails, scenic views of the mountain, and proximity to attractions like Xinshi Ancient Town, fish-scale dam, and firefly observation spots.",
+        "count": 20
+      },
+      {
+        "topic": "Facilities",
+        "text": "Features include rooftop gardens with mountain views, swimming pools, children’s play areas, art galleries, and a large courtyard with a graffiti wall . Some properties have underground parking with EV charging.",
+        "count": 42
+      },
+      {
+        "topic": "Accommodation",
+        "text": "Rooms are described as clean, spacious, and well-equipped with bathtubs, projectors, and mountain vistas. Many have balconies or terraces for outdoor relaxation.",
+        "count": 116
+      },
+      {
+        "topic": "Service",
+        "text": "Hosts are consistently praised for friendliness, proactive assistance, and providing local specialties like Moganshan bamboo shoots and roasted grass jelly.",
+        "count": 78
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 46, Langjia Village, Xiantan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$35",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/36142135/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6q12000ey4814aDA61.jpg"
+    },
+    {
+      "src": "/images/stays/36142135/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1x12000ey3xi6sBEC6.webp"
+    },
+    {
+      "src": "/images/stays/36142135/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6i12000hcoz9uxD9DF.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "We stayed at this B&B with our two-year-old, and the environment was fantastic! There were plenty of activities and entertainment options. The swimming pool was really clean, and our child had a blast. Being nestled against the mountains, the surroundings...",
+      "author": "Mi-Manchi！",
+      "date": "2026-07-29",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=36142135&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-36142135&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I love it so much! The family dog was so adorable and I loved the free toys that came with it. Very lovely guest house would come again.",
+      "author": "Guest User",
+      "date": "2026-08-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=36142135&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-36142135&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Extremely satisfied with my stay. I contacted them beforehand to confirm I could bring my corgi, and the owner was amazing! They met us at the intersection with an umbrella in the pouring rain, helped us park in their private...",
+      "author": "TusingKoo",
+      "date": "2026-06-14",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=36142135&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-36142135&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 185,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:15:50.763Z",
+  "source": "trip"
+}

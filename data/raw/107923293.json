@@ -1,0 +1,98 @@
+{
+  "id": 107923293,
+  "name": "Moganshan Lingshang · Mountain Luxury Wenquan Vacation Apartment",
+  "seedName": "Moganshan Lingshang · Mountain Luxury Wenquan Vacation Apartment",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-107923293",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=107923293&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-107923293&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location and Environment:The hotel is surrounded by bamboo forests and mountains, offering a tranquil setting. Guests enjoy the refreshing air and scenic views, ideal for relaxation.(based on 77 reviews) Room Comfort and Cleanliness:Rooms are praised for cleanliness, spaciousness, and modern design. High-quality amenities like underfloor heating enhance comfort.(based on 286 reviews) Food Quality:Dining includes delicious local cuisine, with sumptuous breakfasts. Guests appreciate the coffee quality and dining atmosphere.(based on 81 reviews) Service and Hospitality:Service is outstanding, with attentive staff and proactive communication. Welcome snacks and departure gifts are thoughtful touches.(based on 318 reviews) Amenities and Activities:Amenities include private hot tubs and swimming pools. Organized activities like barbecues enhance the guest experience.(based on 206 reviews) Guest Suggestion: Some customers suggest improving cleanliness , enhancing service responsiveness , and adjusting pricing to better match quality.(based on 6 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location and Environment",
+        "text": "The hotel is surrounded by bamboo forests and mountains, offering a tranquil setting. Guests enjoy the refreshing air and scenic views, ideal for relaxation.",
+        "count": 77
+      },
+      {
+        "topic": "Room Comfort and Cleanliness",
+        "text": "Rooms are praised for cleanliness, spaciousness, and modern design. High-quality amenities like underfloor heating enhance comfort.",
+        "count": 286
+      },
+      {
+        "topic": "Food Quality",
+        "text": "Dining includes delicious local cuisine, with sumptuous breakfasts. Guests appreciate the coffee quality and dining atmosphere.",
+        "count": 81
+      },
+      {
+        "topic": "Service and Hospitality",
+        "text": "Service is outstanding, with attentive staff and proactive communication. Welcome snacks and departure gifts are thoughtful touches.",
+        "count": 318
+      },
+      {
+        "topic": "Amenities and Activities",
+        "text": "Amenities include private hot tubs and swimming pools. Organized activities like barbecues enhance the guest experience.",
+        "count": 206
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving cleanliness , enhancing service responsiveness , and adjusting pricing to better match quality.",
+      "count": 6
+    }
+  },
+  "address": "No. 33, Geling, Fotang Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$123",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Hot springs",
+    "Bar",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/107923293/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2b12000bafxkqvBF9C.jpg"
+    },
+    {
+      "src": "/images/stays/107923293/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4012000fm7ck1033E9.webp"
+    },
+    {
+      "src": "/images/stays/107923293/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4z12000b6z303j9665.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The rooms are very clean and the owner is really welcoming and accommodating. The self-service BBQ was so much fun! 🤩 The air in Moganshan is wonderfully refreshing. It's a perfect spot for a vacation with friends or family.",
+      "author": "Guest User",
+      "date": "2026-05-05",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=107923293&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-107923293&trip_sub3=D19127628"
+    },
+    {
+      "quote": "【Service & Details】 - The owners were warm and attentive, even providing fresh fruit upon arrival—thoughtful touch! - Room came with a Marshall speaker, a dream for music lovers. Perfect for cozy rainy-day vibes 🎵. 【Facilities & Experience】 - Private...",
+      "author": "Guest User",
+      "date": "2025-04-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=107923293&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-107923293&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The boss lady is super considerate, warm, gentle and beautiful. The environment is great and my sister and I told her to come back next time! Breakfast and dinner were all eaten in the store, which was also very delicious!...",
+      "author": "Anonymous User",
+      "date": "2024-01-12",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=107923293&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-107923293&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 644,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:59:22.061Z",
+  "source": "trip"
+}

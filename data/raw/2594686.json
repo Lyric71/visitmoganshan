@@ -1,0 +1,78 @@
+{
+  "id": 2594686,
+  "name": "Songxi Villa",
+  "seedName": "Songxi Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2594686",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2594686&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2594686&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Environment:Situated in Xiantan village, near the Moganshan International Hiking Trail and a creek, offering serene bamboo forests, tea fields, and scenic views. The property is secluded, quiet, and surrounded by well-maintained gardens with blooming flowers.(based on 3 reviews) Food & Local Ingredients:Hosts provide freshly cooked meals using homegrown vegetables, bamboo shoots, and seasonal specialties . Dishes are praised for freshness and authenticity. Service & Hospitality:Hosts are described as warm, responsive, and proactive, offering assistance with transportation, meal planning, and recreational activities.(based on 13 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Situated in Xiantan village, near the Moganshan International Hiking Trail and a creek, offering serene bamboo forests, tea fields, and scenic views. The property is secluded, quiet, and surrounded by well-maintained gardens with blooming flowers.",
+        "count": 3
+      },
+      {
+        "topic": "Local Ingredients",
+        "text": "Hosts provide freshly cooked meals using homegrown vegetables, bamboo shoots, and seasonal specialties . Dishes are praised for freshness and authenticity. Service & Hospitality:Hosts are described as warm, responsive, and proactive, offering assistance with transportation, meal planning, and recreational activities.",
+        "count": 13
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 21, Shenjialing, Dashuxia, Village Group 3, Xiantan Village, Moganshan Town, Deqing, Zhejiang, 313207, China",
+  "priceRange": "From US$39",
+  "facilities": [
+    "Cardroom",
+    "Restaurant",
+    "Multi-function room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/2594686/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203e120008e42e312029.jpg"
+    },
+    {
+      "src": "/images/stays/2594686/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1212000rss6qstE239.webp"
+    },
+    {
+      "src": "/images/stays/2594686/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3r12000rss3zjd128D.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Travel during off-peak hours before May Day, as there are fewer people and more beautiful scenery! After comparing many hotels in Moganshan, I chose this family B&B in Xiantan that has been in business for more than ten years. This...",
+      "author": "Guest User",
+      "date": "2025-05-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2594686&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2594686&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The owner of this B&B is very friendly. There is a lovely pair of grandparents at home who accompanied us to dig bamboo shoots and cooked for us. You can also hike to Mogan Mountain and pass through the bamboo...",
+      "author": "Guest User",
+      "date": "2025-04-15",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2594686&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2594686&trip_sub3=D19127628"
+    },
+    {
+      "quote": "You can dig bamboo shoots. The kids had a lot of fun. It was a little cold when we went there, so we couldn't play in the creek, but we could dig bamboo shoots. The dishes were cooked on a...",
+      "author": "Yibeika.fei",
+      "date": "2025-04-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2594686&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2594686&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 7.3,
+    "count": 81,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:50:17.119Z",
+  "source": "trip"
+}

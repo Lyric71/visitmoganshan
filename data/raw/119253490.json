@@ -1,0 +1,82 @@
+{
+  "id": 119253490,
+  "name": "Moganshan don't forget the farmer's lodge",
+  "seedName": "Moganshan don't forget the farmer's lodge",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-119253490",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=119253490&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-119253490&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:The environment is very quiet, with a broad view and the homestay is quiet. There are activities like digging bamboo shoots and wild strawberries.(based on 3 reviews) Service:The housekeeper is good, the boss is enthusiastic and helpful, and the service is satisfactory. It has high cost-effectiveness.(based on 2 reviews) Location:The location is a bit remote but not far from the entrance of Moganshan Scenic Area(based on 1 review)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "The environment is very quiet, with a broad view and the homestay is quiet. There are activities like digging bamboo shoots and wild strawberries.",
+        "count": 3
+      },
+      {
+        "topic": "Service",
+        "text": "The housekeeper is good, the boss is enthusiastic and helpful, and the service is satisfactory. It has high cost-effectiveness.",
+        "count": 2
+      },
+      {
+        "topic": "Location",
+        "text": "The location is a bit remote but not far from the entrance of Moganshan Scenic Area",
+        "count": 1
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 44, Xiantan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$63",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/119253490/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200212000dr0j8qdADF4.jpg"
+    },
+    {
+      "src": "/images/stays/119253490/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3n12000dsfzod52D22.webp"
+    },
+    {
+      "src": "/images/stays/119253490/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4412000dsga9xeA3A7.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The shop owner is very friendly and polite. Everything is fine. The actual room is slightly different from the picture. The room in the photo should be on the third floor. The only slight drawback is the yellow soil in...",
+      "author": "Votre Majesté",
+      "date": "2025-02-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=119253490&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-119253490&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The hotel is a bit remote, but not far from the entrance of Moganshan Scenic Area",
+      "author": "Guest User",
+      "date": "2025-04-18",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=119253490&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-119253490&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room is OK, the landlord is very friendly and responsive",
+      "author": "Guest User",
+      "date": "2025-04-18",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=119253490&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-119253490&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.2,
+    "count": 20,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:02:01.205Z",
+  "source": "trip"
+}

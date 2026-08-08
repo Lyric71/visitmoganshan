@@ -1,0 +1,68 @@
+{
+  "id": 67607436,
+  "name": "Moganshan Yunye pool slide villa",
+  "seedName": "Moganshan Yunye pool slide villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-67607436",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=67607436&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-67607436&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:Guests appreciated the peaceful and scenic environment, with easy access to nearby attractions and ample public spaces for families and groups to enjoy. Activities:Activities like horseback riding, archery, billiards, and sand sliding cater to both children and adults, making it a well-rounded choice for family vacations.",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Village Group 8, Tianqingwu, Gaofeng Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$112",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant",
+    "Multi-function room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/67607436/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02029120009p6gd8sD0C2.jpg"
+    },
+    {
+      "src": "/images/stays/67607436/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3k12000tbqcmhy90CD.webp"
+    },
+    {
+      "src": "/images/stays/67607436/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3j12000tbqcfnzFC46.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "We had an amazing experience. From the moment we arrived, the hosts were incredibly nice and generous, welcoming us with delicious fruit and checking in on us to make sure we were comfortable and safe. They provided great recommendations for...",
+      "author": "DeeTwane",
+      "date": "2025-04-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=67607436&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-67607436&trip_sub3=D19127628"
+    },
+    {
+      "quote": "It was a good experience, but it was a pity that the hot springs were not open during the National Day holiday",
+      "author": "Aolaluoyou",
+      "date": "2024-11-13",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=67607436&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-67607436&trip_sub3=D19127628"
+    },
+    {
+      "quote": "A very satisfactory homestay, with a good environment and a nice owner. In short, this is my favorite homestay I have ever stayed in. Facilities: New Hygiene: Good Environment: Beautiful Service: Good",
+      "author": "Guest User",
+      "date": "2024-09-11",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=67607436&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-67607436&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 70,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:10:17.835Z",
+  "source": "trip"
+}

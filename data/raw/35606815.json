@@ -1,0 +1,81 @@
+{
+  "id": 35606815,
+  "name": "Moganshan Xingyuan·Lavilla Holiday Villa",
+  "seedName": "Moganshan Xingyuan·Lavilla Holiday Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-35606815",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=35606815&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-35606815&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:The guesthouse is well-placed near attractions like the scenic area, making exploration easy. It offers parking and is near the highway for convenient travel.(based on 35 reviews) Service Quality:Guests commend the warm, attentive service from the owner and family, noting their helpfulness and local tips, creating a homely, positive experience.(based on 59 reviews) Room Comfort and Cleanliness:Rooms are clean, comfortable, and well-kept, with soft bedding for restful sleep. Modern design and upkeep are appreciated despite years of operation. Food Quality:Cuisine is praised for taste and freshness, with local specialties and homemade meals highlighted. The owner's culinary skills enhance the dining experience. Facilities:Facilities include a pool, pool table, and karaoke, offering leisure activities for families and groups without leaving the premises.(based on 14 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "The guesthouse is well-placed near attractions like the scenic area, making exploration easy. It offers parking and is near the highway for convenient travel.",
+        "count": 35
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Guests commend the warm, attentive service from the owner and family, noting their helpfulness and local tips, creating a homely, positive experience.",
+        "count": 59
+      },
+      {
+        "topic": "Room Comfort and Cleanliness",
+        "text": "Rooms are clean, comfortable, and well-kept, with soft bedding for restful sleep. Modern design and upkeep are appreciated despite years of operation. Food Quality:Cuisine is praised for taste and freshness, with local specialties and homemade meals highlighted. The owner's culinary skills enhance the dining experience. Facilities:Facilities include a pool, pool table, and karaoke, offering leisure activities for families and groups without leaving the premises.",
+        "count": 14
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 64, Waiyaowu, Yaowu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$99",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/35606815/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6l12000bmlu3px2407.jpg"
+    },
+    {
+      "src": "/images/stays/35606815/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2k12000es3bt7v799E.webp"
+    },
+    {
+      "src": "/images/stays/35606815/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4j12000bmpfr1wB654.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The mattress in the room was very comfortable, and the room amenities were excellent! The guesthouse is also very close to the scenic area! The breakfast tasted good too! The guesthouse owner's service was also great.",
+      "author": "Guest User",
+      "date": "2026-05-04",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=35606815&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-35606815&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I don’t know where to start, haha, in one sentence, I like it, I’ll come back again! First of all, the location of the B&B is not far from the roadside. It is very easy to find. It is only...",
+      "author": "Xiaocxingxingya",
+      "date": "2024-08-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=35606815&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-35606815&trip_sub3=D19127628"
+    },
+    {
+      "quote": "If you are traveling on the go, if you book a room on the way, the customer service guy will contact you in time and come out to greet you at the door. The B&B has a dachshund named Manfang,...",
+      "author": "Guest User",
+      "date": "2024-08-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=35606815&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-35606815&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 122,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:52:40.872Z",
+  "source": "trip"
+}

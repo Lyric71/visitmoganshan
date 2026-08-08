@@ -1,0 +1,78 @@
+{
+  "id": 60933147,
+  "name": "House of Adequacy",
+  "seedName": "House of Adequacy",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-60933147",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=60933147&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-60933147&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service Quality:Boss or landlord is enthusiastic, thoughtful, and responsive, providing good service(based on 10 reviews) Hygiene:Rooms and public areas are clean and tidy, giving a fresh feeling(based on 6 reviews) Facilities:Facilities are complete, offering a good experience(based on 1 review)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service Quality",
+        "text": "Boss or landlord is enthusiastic, thoughtful, and responsive, providing good service",
+        "count": 10
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Rooms and public areas are clean and tidy, giving a fresh feeling",
+        "count": 6
+      },
+      {
+        "topic": "Facilities",
+        "text": "Facilities are complete, offering a good experience",
+        "count": 1
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 51-57, Yuxin North Street, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$46",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/60933147/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200w1f000001gr27s8CF0.jpg"
+    },
+    {
+      "src": "/images/stays/60933147/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02009120009qgkzi4C0F6.webp"
+    },
+    {
+      "src": "/images/stays/60933147/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206f120008slyglg1508.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Nice big bright room with views of trees, hills and the street below. Manager very helpful and kind. Convenient for the central area, restaurants and shops which are all close by. Expensive as it was May holiday. Firm mattress suits,done...",
+      "author": "Guest User",
+      "date": "2026-05-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=60933147&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-60933147&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The owner was really welcoming, recommending travel routes and even suggesting we contact her if we ran into any problems during our trip. It made us feel very warm and looked after.",
+      "author": "Guest User",
+      "date": "2026-04-28",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=60933147&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-60933147&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The environment is elegant, and the proprietress provides gentle, considerate, and meticulous service.",
+      "author": "Guest User",
+      "date": "2026-04-13",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=60933147&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-60933147&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 17,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:03:21.842Z",
+  "source": "trip"
+}

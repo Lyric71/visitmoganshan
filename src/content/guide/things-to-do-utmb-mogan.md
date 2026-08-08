@@ -29,16 +29,16 @@ That is all we can stand behind, as of 5 August 2026.
 
 | What you need before entering | What our research shows |
 |---|---|
-| Whether an edition is scheduled this year | TODO: verify |
-| Race dates | TODO: verify |
-| Distances | TODO: verify |
-| Elevation gain | TODO: verify |
-| Cut-off times | TODO: verify |
-| Entry fee | TODO: verify |
-| Registration window | TODO: verify |
-| Running Stones earned | TODO: verify |
-| Field size | TODO: verify |
-| Start and finish location | TODO: verify |
+| Whether an edition is scheduled this year | Not confirmed |
+| Race dates | Not confirmed |
+| Distances | Not confirmed |
+| Elevation gain | Not confirmed |
+| Cut-off times | Not confirmed |
+| Entry fee | Not confirmed |
+| Registration window | Not confirmed |
+| Running Stones earned | Not confirmed |
+| Field size | Not confirmed |
+| Start and finish location | Not confirmed |
 
 Ten blanks, covering everything you would need to enter.
 

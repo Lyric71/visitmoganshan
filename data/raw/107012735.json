@@ -1,0 +1,74 @@
+{
+  "id": 107012735,
+  "name": "Moganshan·Yun'an Qianshan Healing Villa",
+  "seedName": "Moganshan·Yun'an Qianshan Healing Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-107012735",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=107012735&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-107012735&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Dining:Guests appreciate the healthy and diverse dining options, with meals incorporating medicinal ingredients for a wellness-focused experience. Breakfast is often described as delicious, featuring local specialties that cater to various tastes.(based on 23 reviews) Guest Suggestion:Some customers suggest improving pool safety, enhancing room service, and diversifying breakfast.(based on 5 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Dining",
+        "text": "Guests appreciate the healthy and diverse dining options, with meals incorporating medicinal ingredients for a wellness-focused experience. Breakfast is often described as delicious, featuring local specialties that cater to various tastes.",
+        "count": 23
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving pool safety, enhancing room service, and diversifying breakfast.",
+      "count": 5
+    }
+  },
+  "address": "No. 2, Xiangtang Mountain, Gaofeng Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$157",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/107012735/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1812000b1dgsc49084.jpg"
+    },
+    {
+      "src": "/images/stays/107012735/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1y12000b1ddlfyD788.webp"
+    },
+    {
+      "src": "/images/stays/107012735/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1z12000cmlpiuyE336.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The herbal bath washes away all your fatigue. The private courtyard offers excellent privacy, and the individual hot spring tub is incredibly relaxing. The herbal concoction, brewed from natural Chinese medicinal herbs, is wonderfully soothing and nourishing, and after a...",
+      "author": "Guest User",
+      "date": "2026-07-20",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=107012735&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-107012735&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The best service from the hotel staff (a young lady and man) !! They took care of us really well and communicated games and events (eg soap making, medicinal soak…etc) in advance. Room is also spacious and clean.",
+      "author": "Guest User",
+      "date": "2025-12-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=107012735&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-107012735&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The host contacted me in advance to inform me of what to expect. On day of check in the venue was easy to find and free parking was available. Upon arrival I was greeted by a very warm and friendly...",
+      "author": "Anonymous User",
+      "date": "2024-10-30",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=107012735&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-107012735&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 206,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:15:25.481Z",
+  "source": "trip"
+}

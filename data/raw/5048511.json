@@ -1,0 +1,68 @@
+{
+  "id": 5048511,
+  "name": "Yuan Ming Hotel",
+  "seedName": "Yuan Ming Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5048511",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5048511&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5048511&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Facilities & Cleanliness:Rooms are clean, well-maintained, and equipped with basic yet functional amenities. Bedding is fresh with a 'sunny scent,' and sheets are changed for each guest. The first-floor design resembles a café, adding to the charm.(based on 3 reviews) Local Experience:Guests appreciate the opportunity to interact with locals, explore nearby nature (e.g., cherry-picking), and enjoy traditional local cuisine, such as fresh bamboo shoots and wild vegetables prepared by the host's grandmother.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms are clean, well-maintained, and equipped with basic yet functional amenities. Bedding is fresh with a 'sunny scent,' and sheets are changed for each guest. The first-floor design resembles a café, adding to the charm.",
+        "count": 3
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 16, Zhong Village, Ziling Village, Moganshan Town, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$47",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/5048511/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0581212000sqht7mb71D3.jpg"
+    },
+    {
+      "src": "/images/stays/5048511/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0581c12000sh8p0ll2CA3.webp"
+    },
+    {
+      "src": "/images/stays/5048511/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0582012000skexuqy742F.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "This B&B is cozy and comfortable, with clean, tidy rooms and complete facilities. The host is warm and welcoming, providing excellent service and plenty of local recommendations. The location is convenient for dining and shopping. It's a fantastic value, highly...",
+      "author": "Guest User",
+      "date": "2025-08-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5048511&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5048511&trip_sub3=D19127628"
+    },
+    {
+      "quote": "This B&B is ideally located on the scenic Mogan Mountain. The surroundings are tranquil and convenient, making it easy to drive. The B&B is surrounded by lush greenery, creating a fresh and pleasant air. The rooms are clean and tidy,...",
+      "author": "Guest User",
+      "date": "2025-08-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5048511&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5048511&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room is clean, the mountains and water are beautiful, and the bamboo forest outside the window is quiet. I am satisfied with my stay for a few days. The breakfast is rich and the scenic area can be walked....",
+      "author": "Guest User",
+      "date": "2025-07-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5048511&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5048511&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 16,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:04:30.826Z",
+  "source": "trip"
+}

@@ -28,7 +28,7 @@ Almost no English-language page mentions this. Most people learn it at the barri
 | Transfer center | What we can confirm | Hours |
 |---|---|---|
 | **Yucun** (庾村) | Main gateway at the foot of the mountain. Square, market, restaurants, the "1932" culture park. | 08:00 to 18:00 |
-| **Fatou** | Named as one of the three official transfer points. TODO: verify which road approach it covers. | 08:00 to 18:00 |
+| **Fatou** | Named as one of the three official transfer points. Not confirmed: which road approach it covers. | 08:00 to 18:00 |
 | **Houwu** (后坞) | Quiet western village, about 30 minutes from Yucun. | 08:00 to 18:00 |
 
 ![A car park and waiting shelter at the foot of a bamboo mountain with a shuttle bus leaving](/images/guide/getting-here-getting-around-2.webp 'Private cars stop here. Everything above this point moves by shuttle, on foot, or not at all.')
@@ -65,7 +65,7 @@ Moganshan is not one settlement. It is a mountain with villages around it, each 
 
 Yucun is the practical center of gravity, and if you move between villages you will probably pass through it. The [villages guide](/moganshan/villages/) sets out what each one is like to stay in.
 
-Village-to-village travel happens by road. Outside the restricted core that means a car, a taxi or a guesthouse pickup. Houwu to Yucun runs about 30 minutes. TODO: verify road times between the other villages. We have not measured them.
+Village-to-village travel happens by road. Outside the restricted core that means a car, a taxi or a guesthouse pickup. Houwu to Yucun runs about 30 minutes. Not confirmed: road times between the other villages. We have not measured them.
 
 ## Walking
 
@@ -109,7 +109,7 @@ Message the property before you book your train. Give them your arrival time and
 
 Laoling, on the south side, has a reservoir, kayaking and cycling, and it was one of the earliest farmstay clusters. Riding here is something people come to do, not a way to move luggage between villages. We have not ridden the routes ourselves, so we are not going to tell you which climbs are worth it or where to hire a bike.
 
-TODO: verify cycling routes, rental points and the road surface between villages. This needs a field visit before we write it up.
+Not confirmed: cycling routes, rental points and the road surface between villages. This needs a field visit before we write it up.
 
 ## Luggage, honestly
 

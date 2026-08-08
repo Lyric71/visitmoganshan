@@ -63,6 +63,10 @@ Times and train numbers change with each timetable revision, usually more than o
 
 Thirteen services is enough choice to be useful and not enough to be casual about. Weekends and the Golden Week holidays in early May and early October load the whole corridor. Book those well ahead.
 
+Pull up the [live Shanghai Hongqiao to Deqing timetable](/go/trains-shanghai-deqing/) and read the whole day before you pick anything, because the train that suits you and the train that drops you into the shuttle gap can be forty minutes apart.
+
+> We may earn a commission if you book through that link, at no cost to you. [How this site is funded](/plan/disclosure/).
+
 > High-end guesthouse occupancy reached 94 percent over the May 2024 holiday. BeyondBorder Group Ltd research file, August 2026.
 
 ### 2. Set the destination to Deqing
@@ -73,7 +77,7 @@ Type Deqing. Not Moganshan, not Huzhou. If your booking app offers you a station
 
 Chinese rail tickets are tied to the identity document used to buy them, so the name and number must match your passport exactly. One letter out and the gate will not accept you. If you have two passports, use the one you will be carrying that day.
 
-TODO: verify the current e-ticket gate and passport-scan procedure for foreign nationals before publishing this section.
+The current e-ticket gate and passport-scan procedure for foreign nationals is not confirmed, so allow time at the gate and follow the staff instructions on the day.
 
 ### 4. Pick your class
 

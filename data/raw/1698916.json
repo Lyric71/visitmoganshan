@@ -1,0 +1,84 @@
+{
+  "id": 1698916,
+  "name": "Wuyou Hotel",
+  "seedName": "Wuyou Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1698916",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1698916&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1698916&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Scenery and Environment:The environment and scenery are beautiful, with fresh air in the mountains, and the balcony of the room can enjoy mountain views, sunrises, and sea of clouds, with pleasant scenery(based on 89 reviews) Facilities:Some rooms are fully equipped, with independent air conditioners, comfortable bedding, stable 24-hour hot water, and good balcony facilities(based on 100 reviews) Service:Customer service contacts in advance to guide the mountain access route and precautions, helps with luggage handling, responds to needs, giving a sense of home away from home(based on 319 reviews) Guest Suggestion:Some customers suggest upgrading aging facilities, enhancing breakfast variety, and adjusting pricing to better match room conditions and service levels.(based on 5 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Scenery and Environment",
+        "text": "The environment and scenery are beautiful, with fresh air in the mountains, and the balcony of the room can enjoy mountain views, sunrises, and sea of clouds, with pleasant scenery",
+        "count": 89
+      },
+      {
+        "topic": "Facilities",
+        "text": "Some rooms are fully equipped, with independent air conditioners, comfortable bedding, stable 24-hour hot water, and good balcony facilities",
+        "count": 100
+      },
+      {
+        "topic": "Service",
+        "text": "Customer service contacts in advance to guide the mountain access route and precautions, helps with luggage handling, responds to needs, giving a sense of home away from home",
+        "count": 319
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest upgrading aging facilities, enhancing breakfast variety, and adjusting pricing to better match room conditions and service levels.",
+      "count": 5
+    }
+  },
+  "address": "No. 325, Yinshan Street, Moganshan, Deqing, Zhejiang, 313202, China",
+  "priceRange": "From US$68",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1698916/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5812000bn2w9e69165.jpg"
+    },
+    {
+      "src": "/images/stays/1698916/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6y12000cef5bv19160.webp"
+    },
+    {
+      "src": "/images/stays/1698916/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1q12000bn2w55q471B.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The hotel's location is fantastic! It's right on Yinshan Street, near Jianchi Lake, and just a few steps away from the shuttle bus stop. Sitting on the balcony, you get a quiet view of the mountains!",
+      "author": "Guest User",
+      "date": "2026-07-19",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1698916&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1698916&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Escaping the Chinese New Year rush, I brought my family for a short trip to Moganshan. The air in the mountains is absolutely incredible – so fresh and invigorating, just wonderful! We chose Wuyou Mountain Villa, located right inside the...",
+      "author": "Nice&yuansu～Amy(lipeishan）",
+      "date": "2026-03-06",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1698916&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1698916&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room was spotless. Breakfast in the morning was fantastic. The hotel's location on Yinshan Street is super convenient for all the attractions.",
+      "author": "Guest User",
+      "date": "2026-03-06",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1698916&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1698916&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 701,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:14:10.398Z",
+  "source": "trip"
+}

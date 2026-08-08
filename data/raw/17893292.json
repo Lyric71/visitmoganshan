@@ -1,0 +1,71 @@
+{
+  "id": 17893292,
+  "name": "Earth House",
+  "seedName": "Earth House",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-17893292",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=17893292&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-17893292&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness & Maintenance:The property is meticulously kept clean, with attention to detail in both indoor and outdoor spaces. Guests consistently praise the hygiene standards, including spotless rooms, well-kept gardens, and overall freshness of the environment.(based on 31 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Maintenance",
+        "text": "The property is meticulously kept clean, with attention to detail in both indoor and outdoor spaces. Guests consistently praise the hygiene standards, including spotless rooms, well-kept gardens, and overall freshness of the environment.",
+        "count": 31
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 85, Xia Village, Houwu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$45",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/17893292/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206412000a6vtncfB9A6.jpg"
+    },
+    {
+      "src": "/images/stays/17893292/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0202a120008rgr0yc2F76.webp"
+    },
+    {
+      "src": "/images/stays/17893292/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1re6m12000b87h4ih2D60.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The service was great, and the room was very satisfying. In the evening, there were face painting activities, which the kids absolutely loved.",
+      "author": "Guest User",
+      "date": "2026-02-21",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=17893292&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-17893292&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The cozy little courtyard was wonderful; the landlady was incredibly welcoming. She even took my child to the vegetable garden to learn about different kinds of vegetables. Although we only stayed one night, my child missed it terribly and said...",
+      "author": "Guest User",
+      "date": "2025-10-30",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=17893292&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-17893292&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The accommodation was very comfortable, and the environment was excellent. The landlady was incredibly hospitable.",
+      "author": "Guest User",
+      "date": "2026-04-12",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=17893292&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-17893292&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 96,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:18:10.710Z",
+  "source": "trip"
+}

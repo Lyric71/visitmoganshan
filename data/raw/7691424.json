@@ -1,0 +1,87 @@
+{
+  "id": 7691424,
+  "name": "Mogan Dreamlohas Sunrise Resort Hotel",
+  "seedName": "Mogan Dreamlohas Sunrise Resort Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-7691424",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=7691424&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-7691424&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:The hotel is located in a prime spot within the scenic area, offering easy access to major attractions and stunning sunrise views.(based on 865 reviews) Service Quality:The service is praised for warmth and attentiveness, with staff noted for their friendly demeanor and quick response.(based on 1,698 reviews) Room and Facilities:Rooms are clean, spacious, and comfortable with great views, and facilities are well-maintained despite some signs of aging.(based on 891 reviews) Guest Suggestion: Some customers suggest improving breakfast quality and staff efficiency, expanding parking capacity, and ensuring room upgrades align with advertised views.(based on 52 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "The hotel is located in a prime spot within the scenic area, offering easy access to major attractions and stunning sunrise views.",
+        "count": 865
+      },
+      {
+        "topic": "Service Quality",
+        "text": "The service is praised for warmth and attentiveness, with staff noted for their friendly demeanor and quick response.",
+        "count": 1698
+      },
+      {
+        "topic": "Room and Facilities",
+        "text": "Rooms are clean, spacious, and comfortable with great views, and facilities are well-maintained despite some signs of aging.",
+        "count": 891
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving breakfast quality and staff efficiency, expanding parking capacity, and ensuring room upgrades align with advertised views.",
+      "count": 52
+    }
+  },
+  "address": "No. 114, Inside Moganshan Scenic Area, Deqing, Zhejiang, China",
+  "priceRange": "From US$155",
+  "facilities": [
+    "Bar",
+    "Restaurant",
+    "Cafe",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/7691424/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3812000c03l30z6D9E.jpg"
+    },
+    {
+      "src": "/images/stays/7691424/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0h12000c921gr78172.webp"
+    },
+    {
+      "src": "/images/stays/7691424/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2a12000c921ksaB401.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The hotel is located right in the heart of the scenic area, very close to Queen's Hotel, and overall it was a good stay. Even though the weather was hot, the breeze was cool and refreshing, making Moganshan definitely worth...",
+      "author": "gusuqin",
+      "date": "2026-07-25",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=7691424&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-7691424&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The upgraded hotel room was excellent. It offered the best view for sunrise, and the hotel facilities were comprehensive. The hygiene was impeccable, and the environment was superb, truly reflecting the unique characteristics of the Moganshan Scenic Area. The hotel's...",
+      "author": "Guest User",
+      "date": "2026-07-30",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=7691424&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-7691424&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The environment is fantastic, facing Naked Castle and the sunrise. On clear days, you can lie in bed and witness the spectacular sunrise.",
+      "author": "Guest User",
+      "date": "2026-07-25",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=7691424&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-7691424&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 3066,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:13:07.745Z",
+  "source": "trip"
+}

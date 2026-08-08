@@ -1,0 +1,79 @@
+{
+  "id": 8501214,
+  "name": "Mogangui Zhushanju Starry Sky Pool Family Holiday Beauty",
+  "seedName": "Mogangui Zhushanju Starry Sky Pool Family Holiday Beauty",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-8501214",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8501214&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8501214&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness:Rooms are consistently described as spotless, well-maintained, and equipped with high-quality bedding and hygiene standards. Regular cleaning and attention to detail, such as polished wooden floors and fresh linens, contribute to a comfortable stay.(based on 13 reviews) Pet-Friendly:The establishment accommodates guests with pets, featuring a welcoming dog (Wangcai) and no restrictions on bringing animals, making it ideal for pet owners seeking a relaxed environment. Accommodation Comfort:Rooms are spacious, well-decorated, and include amenities like large windows with scenic views, comfortable beds, and thoughtful touches such as extra pillows and private bathrooms.(based on 10 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms are consistently described as spotless, well-maintained, and equipped with high-quality bedding and hygiene standards. Regular cleaning and attention to detail, such as polished wooden floors and fresh linens, contribute to a comfortable stay.",
+        "count": 13
+      },
+      {
+        "topic": "Pet-Friendly",
+        "text": "The establishment accommodates guests with pets, featuring a welcoming dog (Wangcai) and no restrictions on bringing animals, making it ideal for pet owners seeking a relaxed environment. Accommodation Comfort:Rooms are spacious, well-decorated, and include amenities like large windows with scenic views, comfortable beds, and thoughtful touches such as extra pillows and private bathrooms.",
+        "count": 10
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Village Group 10, Chishan, Sanqiao, Deqing, Zhejiang, China",
+  "priceRange": "From US$105",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant",
+    "Multi-function room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/8501214/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0t12000esnpduaDB39.jpg"
+    },
+    {
+      "src": "/images/stays/8501214/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5m12000bpluvck1D46.webp"
+    },
+    {
+      "src": "/images/stays/8501214/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4012000bpltbn79CDA.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "環境一級棒，院子的柵欄上開滿了花，很多品種！是很用心打理的！一個超大泳池，水清澈透亮，可惜氣温不高，不敢下水，夏天泡在這麼大的泳池裡一定很盡興吧！房間很乾凈，晚上睡覺很靜，一覺睡到自然醒！很滿意的一次休假旅行！已經把民宿推薦給朋友！",
+      "author": "Guest User",
+      "date": "2025-04-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8501214&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8501214&trip_sub3=D19127628"
+    },
+    {
+      "quote": "第一次遇到這麼細緻的房東，入住前提前溝通，民宿內設施齊全，還可以打籃球，院子超大，泳池也很大，入住體驗很棒，下次來莫干山還住這！",
+      "author": "Guest User",
+      "date": "2025-05-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8501214&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8501214&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間很乾凈很温馨，院子超級大，民宿內坐着喝喝茶聊聊天很是愜意，環境優美，適合朋友一起過來聚會，還有機麻我的最愛",
+      "author": "Guest User",
+      "date": "2025-05-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8501214&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8501214&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.1,
+    "count": 73,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:26:48.387Z",
+  "source": "trip"
+}

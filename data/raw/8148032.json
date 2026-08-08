@@ -1,0 +1,87 @@
+{
+  "id": 8148032,
+  "name": "Mogan· Yunlan Holiday Courtyard Boutique Hostel",
+  "seedName": "Mogan· Yunlan Holiday Courtyard Boutique Hostel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-8148032",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8148032&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8148032&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Design and Aesthetics:The establishment boasts a modern, chic design with a strong Instagram-worthy appeal. The courtyard and exterior are noted for their design sensibility, providing numerous photo opportunities.(based on 4 reviews) Facilities:The hotel is equipped with a large swimming pool, popular among guests, especially families with children. Additional entertainment options such as outdoor barbecues and pool parties are also available.(based on 4 reviews) Service Quality:The staff, particularly the owner, is frequently praised for their warm and welcoming demeanor, contributing to a pleasant overall experience. The customer service is attentive and accommodating.(based on 4 reviews) Cleanliness and Comfort:Rooms are consistently described as clean, comfortable, and well-maintained, with guests appreciating the cozy and refreshing atmosphere. The beds are highlighted for their comfort.(based on 3 reviews) Food and Dining:Guests enjoy the meals served at the hotel, with specific mentions of delicious dinners and flavorful dishes. Convenience:The hotel is relatively new and guests find the location convenient for accessing local attractions, despi",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Design and Aesthetics",
+        "text": "The establishment boasts a modern, chic design with a strong Instagram-worthy appeal. The courtyard and exterior are noted for their design sensibility, providing numerous photo opportunities.",
+        "count": 4
+      },
+      {
+        "topic": "Facilities",
+        "text": "The hotel is equipped with a large swimming pool, popular among guests, especially families with children. Additional entertainment options such as outdoor barbecues and pool parties are also available.",
+        "count": 4
+      },
+      {
+        "topic": "Service Quality",
+        "text": "The staff, particularly the owner, is frequently praised for their warm and welcoming demeanor, contributing to a pleasant overall experience. The customer service is attentive and accommodating.",
+        "count": 4
+      },
+      {
+        "topic": "Cleanliness and Comfort",
+        "text": "Rooms are consistently described as clean, comfortable, and well-maintained, with guests appreciating the cozy and refreshing atmosphere. The beds are highlighted for their comfort.",
+        "count": 3
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Village Group 10, Dazaowu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$87",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/8148032/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3h12000bybidglE3FE.jpg"
+    },
+    {
+      "src": "/images/stays/8148032/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3512000dnj3x9mF9BE.webp"
+    },
+    {
+      "src": "/images/stays/8148032/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2r12000dnj4nxv1D6F.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "An unexpected surprise, the environment and service are good, the ceiling in the B&B, and the room was upgraded for free.",
+      "author": "Guozimiaomiao",
+      "date": "2024-12-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8148032&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8148032&trip_sub3=D19127628"
+    },
+    {
+      "quote": "It's hot, it's time to get out of the heat and cool down, stay away from the city and stay in a B&B, swim, drink cold beer, eat cold watermelon and feel comfortable [delighted]",
+      "author": "Anonymous User",
+      "date": "2024-05-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8148032&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8148032&trip_sub3=D19127628"
+    },
+    {
+      "quote": "An unexpected surprise, the environment and service are good, the ceiling in the B&B, and the room was upgraded for free.",
+      "author": "Guozimiaomiao",
+      "date": "2024-12-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8148032&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8148032&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.3,
+    "count": 19,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:02:45.627Z",
+  "source": "trip"
+}

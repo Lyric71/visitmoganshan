@@ -1,0 +1,64 @@
+{
+  "id": 37072510,
+  "name": "Shuoshi Yijiu Inn",
+  "seedName": "Shuoshi Yijiu Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-37072510",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=37072510&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-37072510&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Shuoshi Yijiu Inn?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Zhong Village, Liaoyuan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$51",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/37072510/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2e12000t9nm6ndC826.jpg"
+    },
+    {
+      "src": "/images/stays/37072510/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0r12000t9oqr4v5D9A.webp"
+    },
+    {
+      "src": "/images/stays/37072510/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5s12000t9nt4xrC330.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "A gem of a homestay. Lovely room, very spacious and clean. Receptionist was helpful. Didn’t stay for breakfast.",
+      "author": "Dawnie",
+      "date": "2026-04-11",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=37072510&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-37072510&trip_sub3=D19127628"
+    },
+    {
+      "quote": "A gem of a homestay. Lovely room, very spacious and clean. Receptionist was helpful. Didn’t stay for breakfast.",
+      "author": "Dawnie",
+      "date": "2026-04-11",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=37072510&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-37072510&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I really liked the hotel. Spacious rooms. Gorgeous swimming pool. Sun loungers, barbecue area... 👍 There is some small garbage on the territory. Overall, everything is great",
+      "author": "DMR02",
+      "date": "2025-07-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=37072510&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-37072510&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 61,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:20:48.409Z",
+  "source": "trip"
+}

@@ -1,0 +1,90 @@
+{
+  "id": 91533116,
+  "name": "MOGANSHAN YULIA·Taozi Light Luxury Hotel",
+  "seedName": "MOGANSHAN YULIA·Taozi Light Luxury Hotel",
+  "city": "Huzhou",
+  "cityId": 86,
+  "goSlug": "moganshan-91533116",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=91533116&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-91533116&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:The accommodation offers a comfortable and clean environment.(based on 26 reviews) Location:Convenient location near Moganshan Town and several attractions such as Yu Village and Discovery Park.(based on 8 reviews) Service:The service is consistently praised as warm and considerate, with the hosts being notably friendly and accommodating.(based on 34 reviews) Pet-friendliness:Pet-friendliness is a highlighted feature. Scenery:The property boasts beautiful scenery, easily captured in photos. Amenities:Offers convenient amenities like parking and charging stations.(based on 28 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "The accommodation offers a comfortable and clean environment.",
+        "count": 26
+      },
+      {
+        "topic": "Location",
+        "text": "Convenient location near Moganshan Town and several attractions such as Yu Village and Discovery Park.",
+        "count": 8
+      },
+      {
+        "topic": "Service",
+        "text": "The service is consistently praised as warm and considerate, with the hosts being notably friendly and accommodating.",
+        "count": 34
+      },
+      {
+        "topic": "Pet-friendliness",
+        "text": "Pet-friendliness is a highlighted feature. Scenery:The property boasts beautiful scenery, easily captured in photos. Amenities:Offers convenient amenities like parking and charging stations.",
+        "count": 28
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 23, Huangni Mountain, Fangshan Village, Daixi Town, Wuxing District, Huzhou, Zhejiang, China",
+  "priceRange": "From US$97",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Billiards room",
+    "Table tennis room",
+    "Cardroom",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/91533116/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4a12000m9oml8rBBB9.jpg"
+    },
+    {
+      "src": "/images/stays/91533116/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02060120009e8yujdC717.webp"
+    },
+    {
+      "src": "/images/stays/91533116/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0204u120009e8z5dzEF42.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The environment is very good and the boss's service attitude is absolutely perfect.",
+      "author": "Xiaobingpingpang",
+      "date": "2025-05-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=91533116&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-91533116&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room is nice, built by myself, and still very beautiful. The location is not in the center of town, but the lady boss can help with pick-up and drop-off.",
+      "author": "Sichuluancuan",
+      "date": "2024-10-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=91533116&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-91533116&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room was average, not as good as I expected. The breakfast was quite rich, but overall the price/performance ratio was average, and there were no big surprises.",
+      "author": "Alelvxingjia",
+      "date": "2024-08-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=91533116&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-91533116&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 57,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:04:57.164Z",
+  "source": "trip"
+}

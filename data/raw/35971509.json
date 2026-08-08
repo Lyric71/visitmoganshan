@@ -1,0 +1,73 @@
+{
+  "id": 35971509,
+  "name": "Hotel&rooftop",
+  "seedName": "Hotel&rooftop",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-35971509",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=35971509&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-35971509&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Breakfast:Breakfast is highlighted as a standout feature, with handmade noodles (especially bamboo shoot noodles) and fresh Chinese meals prepared by the staff. The variety and quality of the breakfast are frequently mentioned as exceptional.(based on 4 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Breakfast",
+        "text": "Breakfast is highlighted as a standout feature, with handmade noodles (especially bamboo shoot noodles) and fresh Chinese meals prepared by the staff. The variety and quality of the breakfast are frequently mentioned as exceptional.",
+        "count": 4
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 63 Mogaowu, Liaoyuan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$92",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Playground",
+    "Kids' club"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/35971509/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02008120009mxrd8u2327.jpg"
+    },
+    {
+      "src": "/images/stays/35971509/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0223812000as8ny5s5C49.webp"
+    },
+    {
+      "src": "/images/stays/35971509/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0222t120009of5lur9C5A.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The owner was very welcoming and had a great attitude. Breakfast was a bowl of noodles. There's a free 30-minute hiking trail in front of the house, with bamboo groves and birdsong – quite nice. Parking is available in the...",
+      "author": "Wanen",
+      "date": "2025-10-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=35971509&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-35971509&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Mingsu is the starting point for mountain climbing. If you have a mountain climbing plan, you can book this one. There is a parking lot at the door. It is 1 km away from Yucun Square in the opposite direction,...",
+      "author": "Guest User",
+      "date": "2025-07-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=35971509&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-35971509&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room was big and clean. We arrived late, but the owner waited for us and enthusiastically introduced hiking tips to us. We also had a rich breakfast the next day. It was very quiet at night, which was great!",
+      "author": "Anonymous User",
+      "date": "2025-03-11",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=35971509&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-35971509&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 23,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:57:39.936Z",
+  "source": "trip"
+}

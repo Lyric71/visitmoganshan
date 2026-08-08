@@ -22,6 +22,9 @@
     "stays:collect": "node scripts/collect-stays.mjs",
     "stays:build": "node scripts/build-stays.mjs",
     "stays:validate": "node scripts/validate-stays.mjs",
+    "stays:img": "node scripts/optimize-stay-images.mjs",
+    "stays:discover": "node scripts/discover-stays.mjs",
+    "admin:hash": "node scripts/admin-hash.mjs",
     "stays:preview": "STAYS_PREVIEW=1 astro dev --host 127.0.0.1"
   },
   "dependencies": {

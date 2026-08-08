@@ -1,0 +1,77 @@
+{
+  "id": 61717581,
+  "name": "Fuyun Minguo Theme Hotel",
+  "seedName": "Fuyun Minguo Theme Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-61717581",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=61717581&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-61717581&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Located in a great position, close to scenic spots, stations, Yucun, etc., with convenient travel. Nearby there are markets, food streets, etc., making life convenient(based on 62 reviews) Environment:With characteristic environment, having a Republic of China theme style, and the surrounding environment is good Facilities:Room facilities are complete, suitable for different needs, such as being suitable for family parent-child travel(based on 24 reviews) Guest Suggestion:Some customers suggest the hotel has poor sound insulation with noise from neighbors, traffic, etc.; room facilities are old; and there are concerns about room hygiene and handling of lost items(based on 19 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Located in a great position, close to scenic spots, stations, Yucun, etc., with convenient travel. Nearby there are markets, food streets, etc., making life convenient",
+        "count": 62
+      },
+      {
+        "topic": "Environment",
+        "text": "With characteristic environment, having a Republic of China theme style, and the surrounding environment is good Facilities:Room facilities are complete, suitable for different needs, such as being suitable for family parent-child travel",
+        "count": 24
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest the hotel has poor sound insulation with noise from neighbors, traffic, etc.; room facilities are old; and there are concerns about room hygiene and handling of lost items",
+      "count": 19
+    }
+  },
+  "address": "No. 177 Huangfu East Road, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$28",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/61717581/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20061g000001hj21q874E.jpg"
+    },
+    {
+      "src": "/images/stays/61717581/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20041g000001hi73y2F96.webp"
+    },
+    {
+      "src": "/images/stays/61717581/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200e1g000001hlz4q8012.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "It's in a great location. If you arrive in Yucun Village by bus, you can get off at Moganshan Zhen and you'll see the hotel right there. It is very quiet, and has a vintage style. There's a supermarket next...",
+      "author": "Yuliana.b",
+      "date": "2026-01-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=61717581&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-61717581&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The equipment is well-maintained, the environment is clean and tidy, and the setting is unique.",
+      "author": "WHtianshengwuwei",
+      "date": "2026-01-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=61717581&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-61717581&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room wasn't large and quite cramped, but it had a lovely, nostalgic atmosphere. It wasn't ideal to go out on a rainy day, so it was nice to just stay in the hotel and take some portraits. I'll definitely...",
+      "author": "Guest User",
+      "date": "2025-02-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=61717581&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-61717581&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.6,
+    "count": 223,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:38:33.270Z",
+  "source": "trip"
+}

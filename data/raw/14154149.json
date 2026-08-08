@@ -1,0 +1,66 @@
+{
+  "id": 14154149,
+  "name": "Yicui Mi Garden Hotel(Yucun Store)",
+  "seedName": "Yicui Mi Garden Hotel(Yucun Store)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-14154149",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=14154149&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-14154149&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Yicui Mi Garden Hotel(Yucun Store)?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 282 Shiyi Road, Moganshan Town (near Yucun Village Cultural Market), Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$83",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/14154149/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0a12000bfdxkorAF2A.jpg"
+    },
+    {
+      "src": "/images/stays/14154149/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD0w12000axhhvcl2B73.webp"
+    },
+    {
+      "src": "/images/stays/14154149/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4i12000bfdsg4a3049.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Very good 👍The room is clean and tidy, the hotel facilities are complete, the environment is also good, and the service attitude of the front desk lady is also very good~",
+      "author": "Guest User",
+      "date": "2025-03-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=14154149&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-14154149&trip_sub3=D19127628"
+    },
+    {
+      "quote": "A great trip. Come here from the north to experience summer in advance. This B&B has a home away from home feel. The environment is beautiful and pleasant, and the layout is warm. I just like the feeling of being...",
+      "author": "Guest User",
+      "date": "2025-03-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=14154149&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-14154149&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room is large and bright, and the balcony has a beautiful view. It is very close to Yu Village, with convenient transportation. The front desk service is warm and the restaurant is convenient. I will stay here again next...",
+      "author": "Guest User",
+      "date": "2025-02-22",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=14154149&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-14154149&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.2,
+    "count": 53,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:28:53.298Z",
+  "source": "trip"
+}

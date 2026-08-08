@@ -1,0 +1,91 @@
+{
+  "id": 10821450,
+  "name": "Tongyun Ju Inn",
+  "seedName": "Tongyun Ju Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-10821450",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=10821450&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-10821450&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Environment:Situated in the Moganshan Scenic Area, with proximity to attractions and natural beauty .(based on 5 reviews) Accommodation Quality:Clean, well-decorated rooms with modern amenities . Free snacks, fruits, and beverages provided in rooms. Culinary Experience:Highly praised breakfast and meals .(based on 18 reviews) Family-Friendly Services:Child-friendly activities , free children’s breakfast, and flexible dining options.(based on 26 reviews) Host Interaction:Warm, attentive service from hosts, who are described as welcoming, knowledgeable about local attractions, and accommodating .(based on 20 reviews) Facilities:On-site amenities include a swimming pool, courtyard for relaxation, and barbecue setups.(based on 5 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Situated in the Moganshan Scenic Area, with proximity to attractions and natural beauty .",
+        "count": 5
+      },
+      {
+        "topic": "Accommodation Quality",
+        "text": "Clean, well-decorated rooms with modern amenities . Free snacks, fruits, and beverages provided in rooms. Culinary Experience:Highly praised breakfast and meals .",
+        "count": 18
+      },
+      {
+        "topic": "Family-Friendly Services",
+        "text": "Child-friendly activities , free children’s breakfast, and flexible dining options.",
+        "count": 26
+      },
+      {
+        "topic": "Host Interaction",
+        "text": "Warm, attentive service from hosts, who are described as welcoming, knowledgeable about local attractions, and accommodating .",
+        "count": 20
+      },
+      {
+        "topic": "Facilities",
+        "text": "On-site amenities include a swimming pool, courtyard for relaxation, and barbecue setups.",
+        "count": 5
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Hecun Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$57",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/10821450/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2001190000017667345E7.jpg"
+    },
+    {
+      "src": "/images/stays/10821450/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1s12000ayfpzxo8C06.webp"
+    },
+    {
+      "src": "/images/stays/10821450/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4u12000ayflp242A03.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The room was spacious and clean, and the landlady was incredibly welcoming. She immediately arranged parking and helped with our luggage upon arrival. The room was well-stocked with fruit, milk, and tea. We had dinner at the owner's house, which...",
+      "author": "Guest User",
+      "date": "2025-10-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=10821450&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-10821450&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room was very clean, with a small courtyard and a swimming pool in the back. There are designated parking spaces in front, and dogs can run around in the yard. The owner also has a small black dog in...",
+      "author": "HEHEZAI",
+      "date": "2025-07-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=10821450&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-10821450&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room was clean and the bedding was comfortable. The food is delicious, the boss is very nice, it really feels like home and I can really relax. We decided to stay here on short notice for our children to...",
+      "author": "JingliuCC",
+      "date": "2024-11-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=10821450&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-10821450&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 40,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:42:33.589Z",
+  "source": "trip"
+}

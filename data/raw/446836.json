@@ -1,0 +1,84 @@
+{
+  "id": 446836,
+  "name": "Luhuadang Hotel",
+  "seedName": "Luhuadang Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-446836",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=446836&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-446836&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service:The hotel staff receives praise for being friendly, professional, and responsive to guest needs. The service is highlighted as attentive, with staff providing useful information about local attractions and ensuring a pleasant stay.(based on 784 reviews) Guest Suggestion:Some customers suggest improving cleanliness, service quality, and upgrading facilities.(based on 21 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service",
+        "text": "The hotel staff receives praise for being friendly, professional, and responsive to guest needs. The service is highlighted as attentive, with staff providing useful information about local attractions and ensuring a pleasant stay.",
+        "count": 784
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving cleanliness, service quality, and upgrading facilities.",
+      "count": 21
+    }
+  },
+  "address": "No. 86, Mogan Mountain, Deqing, Zhejiang, 313202, China",
+  "priceRange": "From US$81",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Gym",
+    "Bar",
+    "Table tennis room",
+    "Restaurant",
+    "Cafe",
+    "Car rentals",
+    "Conference room",
+    "Business center",
+    "Playground",
+    "Kids' club"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/446836/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5l12000t35cdjxAED5.jpg"
+    },
+    {
+      "src": "/images/stays/446836/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4f12000eqvuqjtD1D2.webp"
+    },
+    {
+      "src": "/images/stays/446836/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0512000etxcmxlB7C9.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Traveling with my parents, they absolutely loved the Republican-era architecture. The terrace view is stunning, perfect for photos. To combat the damp mountain air, the electric blankets on the beds were turned on in advance, which was a very thoughtful...",
+      "author": "Guest User",
+      "date": "2026-07-26",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=446836&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-446836&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Got a free upgrade to a loft, and Building 88A had an absolutely amazing environment! The large balcony overlooked Naked Castle, and the hotel service was spot on. A truly fantastic stay!",
+      "author": "Anonymous User",
+      "date": "2026-06-21",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=446836&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-446836&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The tourism bureaus in Jiangsu, Zhejiang, and Shanghai are truly exceptional, far surpassing those in the North. The homestays on Moganshan are well-equipped with various amenities and facilities; it's very convenient for tea, coffee, handicrafts, and dining. The only thing...",
+      "author": "Anonymous User",
+      "date": "2026-07-12",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=446836&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-446836&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 1920,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:13:47.296Z",
+  "source": "trip"
+}

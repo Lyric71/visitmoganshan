@@ -1,0 +1,75 @@
+{
+  "id": 2023179,
+  "name": "Moganshan Qingyan Residence (Yu Village Plaza Store)",
+  "seedName": "Moganshan Qingyan Residence (Yu Village Plaza Store)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2023179",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2023179&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2023179&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Located in Mogan Shan area with convenient access to scenic spots, markets and squares, easy to travel. Public areas like tea rooms are suitable for gathering. Rooms are spacious with complete facilities such as large balconies.(based on 7 reviews) Guest Suggestion:Some customers suggest the hotel has poor sound insulation , outdated facilities, and insufficient value for the price.(based on 9 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Located in Mogan Shan area with convenient access to scenic spots, markets and squares, easy to travel. Public areas like tea rooms are suitable for gathering. Rooms are spacious with complete facilities such as large balconies.",
+        "count": 7
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest the hotel has poor sound insulation , outdated facilities, and insufficient value for the price.",
+      "count": 9
+    }
+  },
+  "address": "Inside 1932 Cultural and Creative Park, No. 48 Huangfu West Road, Moganshan Town, Deqing, Zhejiang, 313202, China",
+  "priceRange": "From US$54",
+  "facilities": [
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/2023179/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0z12000ar8ngku2B40.jpg"
+    },
+    {
+      "src": "/images/stays/2023179/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3o12000ar8ob4bBC03.webp"
+    },
+    {
+      "src": "/images/stays/2023179/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1g12000ar8m6ut5C3C.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "It's a bit expensive for what it offers. It's a typical tourist town Hotel.Comfortable bed, nice deck but more suitable for older folk, the boss was nice and Mogan Shan Town is really cool. I still think it's well overpriced.",
+      "author": "Dermot. C",
+      "date": "2026-02-18",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2023179&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2023179&trip_sub3=D19127628"
+    },
+    {
+      "quote": "This guesthouse is ideally located within the Moganshan Yucun scenic area. It offers a variety of room types, all well-equipped and spacious. The owner is very kind, and it provides good value for money. Definitely recommended! 👍",
+      "author": "Heaven1949",
+      "date": "2025-12-19",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2023179&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2023179&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The hotel is comfortable and cozy. Friendly ad helpful staff. Recommend it!",
+      "author": "Anonymous User",
+      "date": "2025-12-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2023179&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2023179&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.6,
+    "count": 240,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:38:55.681Z",
+  "source": "trip"
+}

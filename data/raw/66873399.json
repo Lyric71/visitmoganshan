@@ -1,0 +1,88 @@
+{
+  "id": 66873399,
+  "name": "SeeAnn Hotel",
+  "seedName": "SeeAnn Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-66873399",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=66873399&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-66873399&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment and Location:The accommodation is located conveniently near hiking routes and places like Yucun, with beautiful surroundings including mountains and streams. Many users mention it has a favorable position for enjoying nature and easy access to attractions.(based on 14 reviews) Facilities:Facilities are new and complete. Rooms are as per online photos, beds are comfortable, and there are amenities like pools, small stages, etc.(based on 27 reviews) Hygiene:Rooms and public areas are clean, maintaining good hygiene standards(based on 33 reviews) Service:Service is warm and thoughtful, providing pick-up/drop-off services, rich breakfast, and recommending tourist attractions and restaurants(based on 55 reviews) Special Activities:Offer unique experiences such as preparing noodles before races, campfire gatherings, tea around the fire, and strawberry picking",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment and Location",
+        "text": "The accommodation is located conveniently near hiking routes and places like Yucun, with beautiful surroundings including mountains and streams. Many users mention it has a favorable position for enjoying nature and easy access to attractions.",
+        "count": 14
+      },
+      {
+        "topic": "Facilities",
+        "text": "Facilities are new and complete. Rooms are as per online photos, beds are comfortable, and there are amenities like pools, small stages, etc.",
+        "count": 27
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Rooms and public areas are clean, maintaining good hygiene standards",
+        "count": 33
+      },
+      {
+        "topic": "Service",
+        "text": "Service is warm and thoughtful, providing pick-up/drop-off services, rich breakfast, and recommending tourist attractions and restaurants",
+        "count": 55
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 41, Mogaowu, Liaoyuan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$109",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Bar",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/66873399/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0204a120008f04llh4FEF.jpg"
+    },
+    {
+      "src": "/images/stays/66873399/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc7212000bp213nq907E.webp"
+    },
+    {
+      "src": "/images/stays/66873399/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203c120008f03ww14279.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Facilities: The overall maintenance is OK. The room we booked is very spacious. I like the bathroom the most. It is big, with mountains next to it. It looks green. It is very comfortable and relaxing to take a bath....",
+      "author": "Niujiaodewuhuarou",
+      "date": "2025-07-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=66873399&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-66873399&trip_sub3=D19127628"
+    },
+    {
+      "quote": "It was my first time in Moganshan, and I was a little overwhelmed by the choices of B&Bs. I finally decided on this one and was very satisfied! First of all, the lobby on the first floor is very beautiful...",
+      "author": "Guest User",
+      "date": "2025-06-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=66873399&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-66873399&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The homestay is very, very beautiful. The lady boss is very nice and welcoming! In the morning, she will prepare delicious breakfast. In the afternoon, she will prepare fruits for resting in the room. She will also pick you up...",
+      "author": "Guest User",
+      "date": "2025-02-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=66873399&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-66873399&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 92,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:18:34.257Z",
+  "source": "trip"
+}

@@ -1,0 +1,75 @@
+{
+  "id": 15161792,
+  "name": "See you for the first time",
+  "seedName": "See you for the first time",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-15161792",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=15161792&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-15161792&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Hygiene Standards:Multiple reviews emphasize the cleanliness of rooms and bathrooms, with no significant complaints about maintenance or sanitation issues.(based on 5 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Hygiene Standards",
+        "text": "Multiple reviews emphasize the cleanliness of rooms and bathrooms, with no significant complaints about maintenance or sanitation issues.",
+        "count": 5
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 51, Shangguan, Xiantan Village, Mogan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$81",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Billiards room",
+    "Cardroom",
+    "Restaurant",
+    "Conference room",
+    "Multi-function room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/15161792/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20051g000001halmvD3CB.jpg"
+    },
+    {
+      "src": "/images/stays/15161792/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20081c000001dgeq36625.webp"
+    },
+    {
+      "src": "/images/stays/15161792/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20061c000001dgu34A4EB.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Foreigner living in Shanghai and spent three nights in this hotel, it’s obviously very clean and cozy. We had barbecue one evening, lamb was pretty good The owner of the house was quite hospitable Definitely will come back if coming...",
+      "author": "Guest User",
+      "date": "2025-10-12",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=15161792&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-15161792&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The scenery at the B&B is beautiful, and the fresh air is like stepping into nature. I went out with friends and ordered barbecue. The owner prepared the ingredients perfectly. 😋😋 The room was beautiful and cozy. It was a...",
+      "author": "Guest User",
+      "date": "2024-06-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=15161792&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-15161792&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The environment is good, it's a great place to relax with your children on the weekend. The hotel has facilities for children to play with. Just going out for a stroll is like an outing close to nature. It's also...",
+      "author": "Anonymous User",
+      "date": "2024-04-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=15161792&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-15161792&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 10,
+    "count": 13,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:05:59.709Z",
+  "source": "trip"
+}

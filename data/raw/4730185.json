@@ -1,0 +1,91 @@
+{
+  "id": 4730185,
+  "name": "He Inn",
+  "seedName": "He Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-4730185",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4730185&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4730185&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:Consistently praised for being clean, well-maintained, and scenic, with a peaceful atmosphere.(based on 2 reviews) Service:Hosts are described as warm, proactive, and attentive, with pre-arrival communication and timely assistance.(based on 8 reviews) Facilities:Includes a private swimming pool , well-designed rooms, and a functional barbecue area.(based on 5 reviews) Catering:Highlighted for homemade meals and generous portions, with breakfast featuring fresh produce.(based on 4 reviews) Location:Proximity to major attractions and nearby recreational spots.(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Consistently praised for being clean, well-maintained, and scenic, with a peaceful atmosphere.",
+        "count": 2
+      },
+      {
+        "topic": "Service",
+        "text": "Hosts are described as warm, proactive, and attentive, with pre-arrival communication and timely assistance.",
+        "count": 8
+      },
+      {
+        "topic": "Facilities",
+        "text": "Includes a private swimming pool , well-designed rooms, and a functional barbecue area.",
+        "count": 5
+      },
+      {
+        "topic": "Catering",
+        "text": "Highlighted for homemade meals and generous portions, with breakfast featuring fresh produce.",
+        "count": 4
+      },
+      {
+        "topic": "Location",
+        "text": "Proximity to major attractions and nearby recreational spots.",
+        "count": 3
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 8, He Village, Moganshan, Deqing, Zhejiang, China",
+  "priceRange": "From US$46",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/4730185/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200f16000000z9s76CA0A.jpg"
+    },
+    {
+      "src": "/images/stays/4730185/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200k0g0000007tpo10E97.webp"
+    },
+    {
+      "src": "/images/stays/4730185/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200f0g0000007toau7E01.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Very satisfied, Environment: very good Service: very good Facilities: complete Sanitation: good",
+      "author": "Guest User",
+      "date": "2025-05-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4730185&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4730185&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room is spacious, the environment is very good, and it is very clean. The breakfast is very rich, with eggs, corn, sweet potatoes, steamed buns, yogurt, and especially delicious pickles, edamame, and bamboo shoots. The boss is very nice...",
+      "author": "XiaowuQueenie",
+      "date": "2024-10-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4730185&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4730185&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Very good, highly recommended! I also gave away the corn I grew myself!",
+      "author": "Guest User",
+      "date": "2024-07-12",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4730185&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4730185&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 22,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:58:48.746Z",
+  "source": "trip"
+}

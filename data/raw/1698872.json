@@ -1,0 +1,89 @@
+{
+  "id": 1698872,
+  "name": "QUEEN'S HOTEL· PRESTIGIOUS VILLA COMPLEX",
+  "seedName": "QUEEN'S HOTEL· PRESTIGIOUS VILLA COMPLEX",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1698872",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1698872&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1698872&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Situated within the scenic area, offering proximity to attractions like \"Mao Zedong's stay,\" Naked Castle, and Goldfish Mother restaurant . Accessible by car, with convenient shuttle services.(based on 16 reviews) Scenic Views:Rooms provide panoramic views of Naked Castle, sunrise, and mountain landscapes, with large windows and balconies for immersive natural scenery.(based on 26 reviews) Room Features:Spacious layouts , large bathrooms, bathtubs, and electric heaters for cold weather. Some rooms include private balconies or viewing platforms. Service & Cleanliness:Front desk staff described as attentive and helpful; rooms and common areas were noted as clean and well-maintained.(based on 12 reviews) Environment:Quiet, serene atmosphere with fresh mountain air, and proximity to cultural/historical sites. Guest Suggestion:Some customers suggest improving facilities to match pricing, enhancing hygiene standards, and ensuring better service quality.(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Situated within the scenic area, offering proximity to attractions like \"Mao Zedong's stay,\" Naked Castle, and Goldfish Mother restaurant . Accessible by car, with convenient shuttle services.",
+        "count": 16
+      },
+      {
+        "topic": "Scenic Views",
+        "text": "Rooms provide panoramic views of Naked Castle, sunrise, and mountain landscapes, with large windows and balconies for immersive natural scenery.",
+        "count": 26
+      },
+      {
+        "topic": "Room Features",
+        "text": "Spacious layouts , large bathrooms, bathtubs, and electric heaters for cold weather. Some rooms include private balconies or viewing platforms. Service & Cleanliness:Front desk staff described as attentive and helpful; rooms and common areas were noted as clean and well-maintained.",
+        "count": 12
+      },
+      {
+        "topic": "Environment",
+        "text": "Quiet, serene atmosphere with fresh mountain air, and proximity to cultural/historical sites. Guest Suggestion:Some customers suggest improving facilities to match pricing, enhancing hygiene standards, and ensuring better service quality.",
+        "count": 2
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 215A Shangheng Road, Moganshan Scenic Area, Deqing, Zhejiang, 313202, China",
+  "priceRange": "From US$116",
+  "facilities": [
+    "Gym",
+    "Restaurant",
+    "Cafe",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1698872/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5e12000gda8h8pF5EE.jpg"
+    },
+    {
+      "src": "/images/stays/1698872/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3a12000ffwdiejC9E7.webp"
+    },
+    {
+      "src": "/images/stays/1698872/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5612000skibdvx4701.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The room was very specious and warm. It had a big bathtub as well. It was really convenient that there was another toilet on the second floor. The view was just breathtaking and spectacular. Near the villa you could find...",
+      "author": "Guest User",
+      "date": "2023-12-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1698872&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1698872&trip_sub3=D19127628"
+    },
+    {
+      "quote": "What I am most satisfied with in the standard room is the layout and large space of the bathroom. The area marked on the room is absolutely accurate and not as cramped as I imagined. There is no obstruction outside...",
+      "author": "TouwenziCcc",
+      "date": "2024-11-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1698872&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1698872&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I revisited the place five years later. The scenery is still beautiful. Naked Castle is outside the window, with a terrace. If you walk out for a while, you will reach Yinshan Street, which is also very convenient for dinner....",
+      "author": "Yigeaipaizhaodebaba",
+      "date": "2024-10-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1698872&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1698872&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 56,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:21:29.708Z",
+  "source": "trip"
+}

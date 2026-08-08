@@ -1,0 +1,95 @@
+{
+  "id": 130030184,
+  "name": "moganshan zhuyin wujie villa",
+  "seedName": "moganshan zhuyin wujie villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-130030184",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=130030184&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-130030184&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:The hotel is conveniently located near various attractions, making it easy for guests to explore the area. It is a short drive from Yucun and other scenic spots, providing a serene escape amidst bamboo forests and lush greenery.(based on 17 reviews) Facilities:The hotel offers comprehensive facilities including an underground parking garage, charging stations, a variety of entertainment options such as karaoke, billiards, and table tennis, and private hot spring baths on the rooftops.(based on 12 reviews) Cleanliness:Rooms are consistently praised for their cleanliness and tidiness, with guests noting that the facilities are new and well-maintained. The entire property, including common areas, is kept in pristine condition.(based on 68 reviews) Service:The service is described as warm and attentive, with the owners and staff going out of their way to accommodate guests' needs. The hotel is pet-friendly, and guests appreciate the personal touches and friendliness of the staff.(based on 89 reviews) Dining:The on-site dining experience is highlighted for its delicious and homely meals. Guests commend the quality and taste of the food, often prepar",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "The hotel is conveniently located near various attractions, making it easy for guests to explore the area. It is a short drive from Yucun and other scenic spots, providing a serene escape amidst bamboo forests and lush greenery.",
+        "count": 17
+      },
+      {
+        "topic": "Facilities",
+        "text": "The hotel offers comprehensive facilities including an underground parking garage, charging stations, a variety of entertainment options such as karaoke, billiards, and table tennis, and private hot spring baths on the rooftops.",
+        "count": 12
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms are consistently praised for their cleanliness and tidiness, with guests noting that the facilities are new and well-maintained. The entire property, including common areas, is kept in pristine condition.",
+        "count": 68
+      },
+      {
+        "topic": "Service",
+        "text": "The service is described as warm and attentive, with the owners and staff going out of their way to accommodate guests' needs. The hotel is pet-friendly, and guests appreciate the personal touches and friendliness of the staff.",
+        "count": 89
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 70, at the foot of Laoling, Laoling Village, Deqing, Zhejiang, China",
+  "priceRange": "From US$125",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Bar",
+    "Billiards room",
+    "Tea room",
+    "Restaurant",
+    "Cafe",
+    "Water park",
+    "Karaoke",
+    "Conference room",
+    "Business center",
+    "Multi-function room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/130030184/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205d12000lhx33h126BD.jpg"
+    },
+    {
+      "src": "/images/stays/130030184/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2g12000lvt0asnEE11.webp"
+    },
+    {
+      "src": "/images/stays/130030184/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3i12000lvtftd33F0D.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Following up on my previous review: Amenities: The underground parking garage is friendly to both gas and electric cars, and there's plenty of space. Entertainment: The pool is ready for summer, and the water is very clean. The little robot...",
+      "author": "Anonymous User",
+      "date": "2026-06-28",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=130030184&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-130030184&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Excellent experience. Sherry in particular went the extra mile!",
+      "author": "Hans Dastl",
+      "date": "2026-07-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=130030184&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-130030184&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Me and my girlfriend celebrated our anniversary here. We wanted to book a really nice place. I came across this hotel that had a private sauna in the room and thought it would be perfect for a spa-like retreat. The...",
+      "author": "Guest User",
+      "date": "2025-11-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=130030184&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-130030184&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 159,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:50:18.664Z",
+  "source": "trip"
+}

@@ -1,0 +1,84 @@
+{
+  "id": 6396070,
+  "name": "Mood Club Theme Holiday Hostel",
+  "seedName": "Mood Club Theme Holiday Hostel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-6396070",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6396070&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6396070&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Room Cleanliness & Facilities:Rooms are consistently described as spotless, spacious, and well-equipped with modern amenities. Features include comfortable bedding, ample storage, and thoughtful details like mosquito nets and quality toiletries, ensuring a pleasant stay.(based on 38 reviews) Recreational Facilities:The property includes appealing amenities like a clean swimming pool, playgrounds, and outdoor spaces for relaxation. These features are especially appreciated by families with children, offering opportunities for fun and leisure.(based on 14 reviews) Dining Experience:Breakfast options are varied and flavorful, with fresh local ingredients and a range of choices, including traditional dishes and healthy options, catering to diverse tastes and dietary preferences.(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Facilities",
+        "text": "Rooms are consistently described as spotless, spacious, and well-equipped with modern amenities. Features include comfortable bedding, ample storage, and thoughtful details like mosquito nets and quality toiletries, ensuring a pleasant stay.",
+        "count": 38
+      },
+      {
+        "topic": "Recreational Facilities",
+        "text": "The property includes appealing amenities like a clean swimming pool, playgrounds, and outdoor spaces for relaxation. These features are especially appreciated by families with children, offering opportunities for fun and leisure.",
+        "count": 14
+      },
+      {
+        "topic": "Dining Experience",
+        "text": "Breakfast options are varied and flavorful, with fresh local ingredients and a range of choices, including traditional dishes and healthy options, catering to diverse tastes and dietary preferences.",
+        "count": 2
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 48, Fangshan Village, Moganshan, Deqing, Zhejiang, China",
+  "priceRange": "From US$84",
+  "facilities": [
+    "Restaurant",
+    "Conference room",
+    "Multi-function room",
+    "Playground",
+    "Kids' club"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/6396070/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1312000dg8eeu580CE.jpg"
+    },
+    {
+      "src": "/images/stays/6396070/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205a12000a8vt4059ABD.webp"
+    },
+    {
+      "src": "/images/stays/6396070/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2j12000ett03m0302B.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "臨時決定來玩兒，匆忙訂了房間，非常棒的民宿，超出了預期，民宿環境很好，親近自然，院子裏還有秋千，涼亭，泳池，特別適合放空休息，房間也收拾的很乾凈，有一個超大的陽台，窗外可以俯瞰整個山谷的風景，這個真的給我非常大的驚喜，民宿提供了免費早餐，管家還給我們推薦了附近溯溪的地方，度過了非常完美的一天。",
+      "author": "Guest User",
+      "date": "2026-06-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6396070&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6396070&trip_sub3=D19127628"
+    },
+    {
+      "quote": "這家民宿實在太值了！房間乾乾淨淨，床品舒服，開窗就是一大片樹林，滿眼綠色看着就舒心。 院子環境絕了，自帶泳池，大樹底下襬着躺椅，沒事躺着吹吹風、曬曬太陽特別愜意。整片房子被大山竹林圍着，安安靜靜，沒有城裡的吵鬧。院子還有草坪，能休閑玩耍。 住得放鬆又自在，想逃離城市散心選這兒準沒錯，已經收藏，下次還來！",
+      "author": "Guest User",
+      "date": "2026-06-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6396070&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6396070&trip_sub3=D19127628"
+    },
+    {
+      "quote": "和閨蜜來當兩天山裡人，這家民宿太好拍了！純白房子藏在竹林裏，草坪、玻璃房隨便拍都是大片。房間有超大浴缸，泡完澡窩沙發看老電影，露台吹山風喝可樂聊到半夜。管家分寸感超好，不會瞎搭話但隨叫隨到，早上被鳥叫醒在茶室發呆，整個人都被山裡的空氣洗了一遍！",
+      "author": "Guest User",
+      "date": "2026-04-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6396070&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6396070&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.3,
+    "count": 81,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:22:15.758Z",
+  "source": "trip"
+}

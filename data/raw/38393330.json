@@ -1,0 +1,70 @@
+{
+  "id": 38393330,
+  "name": "Jinlei Holiday Hotel",
+  "seedName": "Jinlei Holiday Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-38393330",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=38393330&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-38393330&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Room Quality:Rooms are spacious, clean, and well-equipped, featuring luxurious amenities like large balconies, bathtubs, and high-quality toiletries, ensuring a comfortable stay. The architectural design is modern and sophisticated, meeting five-star standards.(based on 6 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Room Quality",
+        "text": "Rooms are spacious, clean, and well-equipped, featuring luxurious amenities like large balconies, bathtubs, and high-quality toiletries, ensuring a comfortable stay. The architectural design is modern and sophisticated, meeting five-star standards.",
+        "count": 6
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 531, Moganshan Scenic Area, Deqing, Zhejiang, China",
+  "priceRange": "From US$251",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/38393330/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200h1700000136n034693.jpg"
+    },
+    {
+      "src": "/images/stays/38393330/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200d14000000wnz829ADF.webp"
+    },
+    {
+      "src": "/images/stays/38393330/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200g14000000wq5wnDEAA.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "A really great homestay experience. The only thing that could be improved is the dining options.",
+      "author": "💎 Jay",
+      "date": "2026-03-21",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=38393330&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-38393330&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Facilities: The underfloor heating is excellent, making it very warm in winter; the floor-to-ceiling windows offer beautiful views; disposable bath bags are provided; two sinks are very convenient; the cloakroom is spacious enough. Environment: The air on the mountain is...",
+      "author": "Guest User",
+      "date": "2026-01-25",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=38393330&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-38393330&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The hotel facilities are fantastic, the views are even better, and it enjoys a prime mountain location right across from Naked Castle! The rooms are large and new!",
+      "author": "Edward292",
+      "date": "2025-11-25",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=38393330&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-38393330&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.3,
+    "count": 85,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:22:20.737Z",
+  "source": "trip"
+}

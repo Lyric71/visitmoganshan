@@ -1,0 +1,91 @@
+{
+  "id": 1185347,
+  "name": "Moganshan Impression Xiwuli Homestay",
+  "seedName": "Moganshan Impression Xiwuli Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1185347",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1185347&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1185347&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Hospitality:Warm, attentive hosts with a welcoming atmosphere .(based on 7 reviews) Facilities:Retro wooden structure with a clean, well-maintained swimming pool; rooms with soft beds and natural wood aroma.(based on 4 reviews) Breakfast:Locally sourced, flavorful meals .(based on 2 reviews) Location:Proximity to natural attractions and convenient parking.(based on 2 reviews) Cleanliness:High standards in both private and public areas, with attention to small details .(based on 6 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Hospitality",
+        "text": "Warm, attentive hosts with a welcoming atmosphere .",
+        "count": 7
+      },
+      {
+        "topic": "Facilities",
+        "text": "Retro wooden structure with a clean, well-maintained swimming pool; rooms with soft beds and natural wood aroma.",
+        "count": 4
+      },
+      {
+        "topic": "Breakfast",
+        "text": "Locally sourced, flavorful meals .",
+        "count": 2
+      },
+      {
+        "topic": "Location",
+        "text": "Proximity to natural attractions and convenient parking.",
+        "count": 2
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "High standards in both private and public areas, with attention to small details .",
+        "count": 6
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 87, Xiwuli, Houwu Village, Fatou Township (Houwu Scenic Area), Deqing, Zhejiang, 313202, China",
+  "priceRange": "From US$49",
+  "facilities": [
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1185347/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20090n000000embs335A0.jpg"
+    },
+    {
+      "src": "/images/stays/1185347/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20060n000000ekco4AA83.webp"
+    },
+    {
+      "src": "/images/stays/1185347/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02054120008pcrl9zECEC.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The B&B owner and his family are so warm and hospitable! The breakfast is also delicious and has local characteristics~ However, due to the wooden house structure, the sound insulation effect is not very good, and the footsteps of people...",
+      "author": "Allyssaaa",
+      "date": "2024-08-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1185347&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1185347&trip_sub3=D19127628"
+    },
+    {
+      "quote": "It was a very satisfying trip and I still have more to say. The B&B we chose has a wooden structure. It is retro and comfortable, and it is very clean. At first glance, the landlord seemed to be a...",
+      "author": "Guest User",
+      "date": "2024-08-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1185347&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1185347&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The service attitude is very good. The uncles and aunts are very enthusiastic. The most important thing is that this famous hotel has parking and charging piles, which is very good, because there are many famous hotels there that do...",
+      "author": "Guest User",
+      "date": "2023-08-13",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1185347&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1185347&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.7,
+    "count": 18,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:04:39.956Z",
+  "source": "trip"
+}

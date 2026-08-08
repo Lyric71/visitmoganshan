@@ -1,0 +1,84 @@
+{
+  "id": 1251052,
+  "name": "Floral Hotel·Moganshan Shuimo Shanju hotel",
+  "seedName": "Floral Hotel·Moganshan Shuimo Shanju hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1251052",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1251052&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1251052&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Facilities:The property features diverse amenities such as swimming pools, billiards, table tennis, trampolines, and gardens. Additional recreational options include firefly observation, lavender fields, and indoor games like poker and chess, catering to both adults and children.(based on 9 reviews) Service Quality:Hosts are commended for their warmth, friendliness, and attentiveness, providing personalized tips on attractions, trails, and dining. The chef crafts tasty local dishes, such as braised fish, stewed chicken, and seasonal bamboo shoots.(based on 20 reviews) Cleanliness:Rooms and common areas are maintained to high standards, with clean bedding, fresh air, and mosquito-free environments. Bathrooms are functional, though some reviews mention minor issues like blocked drains or expired toiletries.(based on 2 reviews) Guest Suggestion: Some customers suggest the heating system is unreliable, bedding remains cold/wet, and the location is hard to find.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Facilities",
+        "text": "The property features diverse amenities such as swimming pools, billiards, table tennis, trampolines, and gardens. Additional recreational options include firefly observation, lavender fields, and indoor games like poker and chess, catering to both adults and children.",
+        "count": 9
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Hosts are commended for their warmth, friendliness, and attentiveness, providing personalized tips on attractions, trails, and dining. The chef crafts tasty local dishes, such as braised fish, stewed chicken, and seasonal bamboo shoots.",
+        "count": 20
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms and common areas are maintained to high standards, with clean bedding, fresh air, and mosquito-free environments. Bathrooms are functional, though some reviews mention minor issues like blocked drains or expired toiletries.",
+        "count": 2
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 51, Xia Village, Houwu Village, Moganshan Town, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$51",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room",
+    "Multi-function room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1251052/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206f1200099c398oDC9F.jpg"
+    },
+    {
+      "src": "/images/stays/1251052/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0204p1200099c13ayBAFD.webp"
+    },
+    {
+      "src": "/images/stays/1251052/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205i120009orpgxc4A50.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "This guesthouse has a charming rustic style, and the rooms are very clean, giving it a homey feel. The owner is a very down-to-earth person, and getting to nearby attractions is quite convenient. It's great, and the price is reasonable...",
+      "author": "Guest User",
+      "date": "2026-02-04",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1251052&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1251052&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Shuimo Mountain Retreat was truly a delightful surprise during my trip to Moganshan! 🏡 Nestled in the mountains, the guesthouse offers breathtaking views of layered bamboo forests and ink-wash landscapes right outside the window. I was awakened by birdsong in...",
+      "author": "ShengxiaGi",
+      "date": "2026-01-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1251052&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1251052&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room is very clean and has a terrace. Sitting on the terrace and looking at the distant mountains is very relaxing.",
+      "author": "Guest User",
+      "date": "2024-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1251052&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1251052&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.3,
+    "count": 55,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:26:55.074Z",
+  "source": "trip"
+}

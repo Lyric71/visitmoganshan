@@ -1,0 +1,66 @@
+{
+  "id": 9198341,
+  "name": "Moganshan Jiuwuo Homestay",
+  "seedName": "Moganshan Jiuwuo Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-9198341",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=9198341&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-9198341&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Jiuwuo Homestay?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 15, Zhong Village, Ziling Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$47",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/9198341/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0w12000bpfrrf3F0FA.jpg"
+    },
+    {
+      "src": "/images/stays/9198341/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3012000bpfdnrzAD04.webp"
+    },
+    {
+      "src": "/images/stays/9198341/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1f12000bpf4mqj8857.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Very nice and quite hostel, pretty view. Room is generous with a big bathtub and great floor to ceiling windows. Breakfast is homemade by the auntie, it was great. It’s a pity that the swimming pool was empty, better ask...",
+      "author": "Clem + Ant1",
+      "date": "2025-12-31",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=9198341&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-9198341&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The rooms are clean, spacious, and bright, and the service is warm and attentive. The environment is elegant and quiet. Transportation is convenient, and popular check-in spots such as Green Coffee, Eros Valley, and Yu Village are all within a...",
+      "author": "Wagenahongxiuquan",
+      "date": "2025-04-18",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=9198341&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-9198341&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Except for the somewhat tasteless design of the bathroom, everything else is great. The environment is great, and you can breathe smoothly in the mountains. The boss will contact you in advance and give you very reasonable travel suggestions. The...",
+      "author": "Baobeihuliduo",
+      "date": "2024-05-09",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=9198341&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-9198341&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 75,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:09:51.667Z",
+  "source": "trip"
+}

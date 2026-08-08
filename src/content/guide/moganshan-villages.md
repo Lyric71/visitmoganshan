@@ -32,18 +32,18 @@ A booking site gives you a property name and a pin, rarely which flank of the hi
 | Yucun | 庾村 | At the foot of the mountain. The main gateway, and a transfer center |
 | Xiantan | 仙潭村 | Northern foot |
 | Laoling | 劳岭村 | South side, by a reservoir |
-| Sanjiuwu | 三九坞 | `TODO: verify` |
+| Sanjiuwu | 三九坞 | `Not confirmed` |
 | Houwu | 后坞 | West, about 30 minutes from Yucun. Also a transfer center |
-| Dazaowu | 大造坞 | `TODO: verify`. The most remote of them |
+| Dazaowu | 大造坞 | `Not confirmed`. The most remote of them |
 | Wukang | 武康 | Off the mountain, about 20 km. The county seat, not a village |
 
 > Village names, characters and locations, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
 Three things a page like this usually prints are missing from our research. A plausible number is worse than an open gap:
 
-- `TODO: verify per-village elevations.` We hold 719 to 720 m for Tashan, the main peak, and nothing below it.
-- `TODO: verify road distance and drive time from each village to the scenic area gate.` Houwu to Yucun, about 30 minutes, is the only one we hold.
-- `TODO: verify which villages the Y1 shuttle from Deqing station serves.` Its last stop is the Moganshan tourist distribution center, in the town, not the scenic area.
+- `Not confirmed: per-village elevations.` We hold 719 to 720 m for Tashan, the main peak, and nothing below it.
+- `Not confirmed: road distance and drive time from each village to the scenic area gate.` Houwu to Yucun, about 30 minutes, is the only one we hold.
+- `Not confirmed: which villages the Y1 shuttle from Deqing station serves.` Its last stop is the Moganshan tourist distribution center, in the town, not the scenic area.
 
 One rule cuts across all of it. Private vehicles cannot drive inside the core scenic area, so everyone changes at one of three transfer centers: Yucun, Fatou and Houwu, open 08:00 to 18:00. Two of them are villages on the list above. Our research names Fatou and nothing more. [Getting around Moganshan](/getting-here/getting-around/) has the shuttle times and [the Deqing station guide](/getting-here/deqing-station/) the leg before.
 
@@ -59,7 +59,7 @@ The same concentration is why people leave it. Yucun takes the crowds first, and
 
 Two name traps attach to this village, and both cost money. Anji County has its own Yucun, written 余村, which won a UN Tourism Best Tourism Village award in 2021. Different characters, different county. Moganshan has never won it, and search results mix the two constantly.
 
-The second is newer. Four Seasons announced a 90-key resort on 12 September 2025, opening 2030, and gave the site as Yu Village. That may be this Yucun and may not be. `TODO: verify whether the Four Seasons site is Yucun (庾村).` Treat them as two names until somebody confirms otherwise.
+The second is newer. Four Seasons announced a 90-key resort on 12 September 2025, opening 2030, and gave the site as Yu Village. That may be this Yucun and may not be. `Not confirmed: whether the Four Seasons site is Yucun (庾村).` Treat them as two names until somebody confirms otherwise.
 
 ![Guesthouse frontages in Yucun village at the foot of Moganshan, with converted houses standing between working village homes](/images/guide/villages-2.webp 'Conversions and working houses share the same lane. A renovated frontage usually means a guesthouse; the farm tools stacked next door mean the neighbors still farm.')
 
@@ -77,7 +77,7 @@ For you, that density is a price story. With 135 owners competing in one small p
 
 The density has a cost nobody writes down. Ninety percent locally run also means lower odds of fluent English at the door than at the design-led end of the market. We are reasoning from ownership figures, not a survey; nobody publishes one. Message the property before you pay and you will know inside a day.
 
-`TODO: verify the road time from Xiantan to the scenic area gate.` [What a minsu is](/where-to-stay/minsu-explained/) covers what booking one involves, including whether foreign guests are taken.
+`Not confirmed: the road time from Xiantan to the scenic area gate.` [What a minsu is](/where-to-stay/minsu-explained/) covers what booking one involves, including whether foreign guests are taken.
 
 ## Sanjiuwu, where the foreign-founded trade started
 
@@ -87,7 +87,7 @@ That history has one practical effect on your booking. Nobody has counted this, 
 
 > naked Home Village, the yangjiale label and investor origins, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-The limits matter here. Our research fixes the year, the founder and the significance, and little else: no population, no guesthouse count, no side of the mountain, no distance from the gate. `TODO: verify Sanjiuwu's location, size and guesthouse count.`
+The limits matter here. Our research fixes the year, the founder and the significance, and little else: no population, no guesthouse count, no side of the mountain, no distance from the gate. `Not confirmed: Sanjiuwu's location, size and guesthouse count.`
 
 ![The approach road climbing toward Moganshan through bamboo, with a village visible on the valley floor below](/images/guide/villages-3.webp 'The valley floor is where the guesthouses are. The ridge above holds the old hill station, and the road between them is the transfer nobody plans for.')
 
@@ -99,7 +99,7 @@ Sanjiuwu is the village with a story. These three come with a trade-off.
 |---|---|---|---|
 | **Laoling** 劳岭村 | South side | Reservoir, kayaking, cycling. An early farmstay cluster | You came for the water or the bike, not a square |
 | **Houwu** 后坞 | West, about 30 minutes from Yucun | Quiet. Also a transfer center, so better connected than its reputation | Thirty minutes each way, including for dinner |
-| **Dazaowu** 大造坞 | The most remote | Rice paddies and the Dadouwu reservoir | `TODO: verify Dazaowu guesthouse stock and road access.` |
+| **Dazaowu** 大造坞 | The most remote | Rice paddies and the Dadouwu reservoir | `Not confirmed: Dazaowu guesthouse stock and road access.` |
 
 > Laoling, Houwu and Dazaowu, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
@@ -141,13 +141,13 @@ Paying splits three ways.
 
 > Foreign card binding on Alipay and WeChat Pay, and ownership share, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-Set both apps up before you fly and carry small notes. `TODO: verify cash reliability in the villages, working ATM locations, and whether the Y1 shuttle and the scenic-area transfer take cash.` [Money and payments](/plan/money-and-payments/) has the setup.
+Set both apps up before you fly and carry small notes. `Not confirmed: cash reliability in the villages, working ATM locations, and whether the Y1 shuttle and the scenic-area transfer take cash.` [Money and payments](/plan/money-and-payments/) has the setup.
 
 ![A village kitchen at Moganshan with dishes going out to a guesthouse dining room](/images/guide/villages-4.webp 'Outside Yucun this is the only kitchen you have after dark. Dinner is a message sent before you pay, not a decision made at seven.')
 
 ## Getting between the villages
 
-Village to village is a road trip, short but real. Houwu to Yucun runs about 30 minutes. `TODO: verify road times between the other villages. We have not measured them.`
+Village to village is a road trip, short but real. Houwu to Yucun runs about 30 minutes. `Not confirmed: road times between the other villages. We have not measured them.`
 
 Walking between them is not a plan. They sit on different flanks of one hill, joined by roads that climb, with forest over more than 92 percent of the ground between. Walking works inside the scenic area, where the named sights sit close together. Everywhere else it fails.
 
@@ -155,5 +155,5 @@ Otherwise it is a car, a taxi or a guesthouse pickup. Ask the property to arrang
 
 Which leaves the decision where it started. Pick Yucun if you have one night or no car, and Xiantan if you want the choice. Anywhere else, solve dinner and transport before you book. The [hill station](/moganshan/hill-station/) on the ridge above is where everybody converges anyway.
 
-*Village figures, rate bands and footfall last checked 5 August 2026. Transfer center hours and shuttle timings change without notice, so confirm what your arrival depends on. Lines marked TODO stay open until verified.*
+*Village figures, rate bands and footfall last checked 5 August 2026. Transfer center hours and shuttle timings change without notice, so confirm what your arrival depends on. Lines flagged as unconfirmed stay open until they are verified.*
 

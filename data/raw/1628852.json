@@ -1,0 +1,85 @@
+{
+  "id": 1628852,
+  "name": "Mogan Yiran Hostel",
+  "seedName": "Mogan Yiran Hostel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1628852",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1628852&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1628852&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Environment:The property is situated near Moganshan, offering proximity to attractions, fresh mountain air, and scenic views of bamboo forests.(based on 3 reviews) Food & Service:The hosts are described as warm and helpful, providing flavorful local dishes and accommodating dietary preferences. Breakfast includes homemade items like pickled bamboo shoots and corn.(based on 10 reviews) Facilities:Amenities include a small pool, a bamboo forest nearby, a mahjong table, and a quiet courtyard.(based on 2 reviews) Value:Competitive pricing for the area, with hosts offering assistance with attraction tickets and local recommendations.(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "The property is situated near Moganshan, offering proximity to attractions, fresh mountain air, and scenic views of bamboo forests.",
+        "count": 3
+      },
+      {
+        "topic": "Service",
+        "text": "The hosts are described as warm and helpful, providing flavorful local dishes and accommodating dietary preferences. Breakfast includes homemade items like pickled bamboo shoots and corn.",
+        "count": 10
+      },
+      {
+        "topic": "Facilities",
+        "text": "Amenities include a small pool, a bamboo forest nearby, a mahjong table, and a quiet courtyard.",
+        "count": 2
+      },
+      {
+        "topic": "Value",
+        "text": "Competitive pricing for the area, with hosts offering assistance with attraction tickets and local recommendations.",
+        "count": 3
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 6, Miaoqian Village, Moganshan Town, Deqing, Zhejiang, 313206, China",
+  "priceRange": "From US$55",
+  "facilities": [
+    "Cardroom"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1628852/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20070t000000j80rr69EA.jpg"
+    },
+    {
+      "src": "/images/stays/1628852/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02052120004unn8v16726.webp"
+    },
+    {
+      "src": "/images/stays/1628852/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205v120008s6dwtb6F7D.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The hotel has a good value for money, the boss is very enthusiastic, and it is ten minutes away from Moganshan. It is recommended.",
+      "author": "Guest User",
+      "date": "2025-05-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1628852&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1628852&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I have stayed in many B&Bs, and many of them were disappointing, but I think this one is really comfortable and appropriate. It took me a while to remember to review it. Haha 1️⃣ There is no forced consumption. They...",
+      "author": "Yitiaoweidehuli",
+      "date": "2024-05-09",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1628852&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1628852&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The environment in the mountains is very good and the air is fresh. The owner of the famous hotel is also very enthusiastic. satisfy",
+      "author": "linda198611",
+      "date": "2024-05-13",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1628852&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1628852&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.3,
+    "count": 20,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:01:45.403Z",
+  "source": "trip"
+}

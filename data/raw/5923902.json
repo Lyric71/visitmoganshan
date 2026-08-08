@@ -1,0 +1,90 @@
+{
+  "id": 5923902,
+  "name": "Mohsen oxygen bar manor in Mogan mountain",
+  "seedName": "Mohsen oxygen bar manor in Mogan mountain",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5923902",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5923902&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5923902&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Environment:Nestled in mountainous bamboo forests , offering panoramic views from balconies, fresh air, and proximity to scenic spots .(based on 10 reviews) Service Quality:Friendly, attentive staff who provided local travel recommendations and accommodated guest requests.(based on 41 reviews) Facilities:Includes free amenities like KTV, ping-pong, playgrounds, and a pool with natural mountain spring water. Outdoor areas feature barbecue zones, tea gardens, and a serene courtyard.(based on 14 reviews) Cleanliness:Rooms and common areas were consistently described as clean, with well-maintained bedding and fresh scents .(based on 40 reviews) Catering:Commendable for local specialties , affordable meals, and breakfast options .",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Nestled in mountainous bamboo forests , offering panoramic views from balconies, fresh air, and proximity to scenic spots .",
+        "count": 10
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Friendly, attentive staff who provided local travel recommendations and accommodated guest requests.",
+        "count": 41
+      },
+      {
+        "topic": "Facilities",
+        "text": "Includes free amenities like KTV, ping-pong, playgrounds, and a pool with natural mountain spring water. Outdoor areas feature barbecue zones, tea gardens, and a serene courtyard.",
+        "count": 14
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms and common areas were consistently described as clean, with well-maintained bedding and fresh scents .",
+        "count": 40
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 8, Yangwukeng, Shimenka, Xiantan Village, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$102",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Bar",
+    "Restaurant",
+    "Water park",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5923902/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02056120004wism0f40E0.jpg"
+    },
+    {
+      "src": "/images/stays/5923902/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5q12000jnh51fn3570.webp"
+    },
+    {
+      "src": "/images/stays/5923902/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200c120006h4mzgtFF0D.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "It’s the second time we stay here. Perfect place for a quiet retreat. The hotel is isolated in a very quiet area. If you need a car to move around, the staff can help you book that very quickly. Fantastic...",
+      "author": "Maria 毕安",
+      "date": "2026-02-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5923902&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5923902&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Super little hotel in the beautiful Moganshan bamboo covered mountains. Clean and pleasant rooms, friendly and helpful staff.",
+      "author": "Gavin Stanton",
+      "date": "2023-10-22",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5923902&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5923902&trip_sub3=D19127628"
+    },
+    {
+      "quote": "It’s the second time we stay here. Perfect place for a quiet retreat. The hotel is isolated in a very quiet area. If you need a car to move around, the staff can help you book that very quickly. Fantastic...",
+      "author": "Maria 毕安",
+      "date": "2026-02-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5923902&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5923902&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 119,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:52:50.117Z",
+  "source": "trip"
+}

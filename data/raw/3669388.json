@@ -1,0 +1,68 @@
+{
+  "id": 3669388,
+  "name": "Mount Mogan Chic Hostel",
+  "seedName": "Mount Mogan Chic Hostel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-3669388",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=3669388&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-3669388&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Mount Mogan Chic Hostel?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Qingdiaowu, Wusi Village, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$106",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Bar",
+    "2 Restaurants",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/3669388/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200m0o000000ffxqd7D8F.jpg"
+    },
+    {
+      "src": "/images/stays/3669388/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20080h0000008tajb94AD.webp"
+    },
+    {
+      "src": "/images/stays/3669388/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200u0o000000f846zEF26.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The house was located in a remote village surrounded by self-built houses. It was my first time in Moganshan, so I didn't have much of an idea of ​​what to expect. I booked it because it was only an 8-minute...",
+      "author": "Guest User",
+      "date": "2025-10-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=3669388&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-3669388&trip_sub3=D19127628"
+    },
+    {
+      "quote": "It was incredibly comfortable; the environment was quiet, relaxing, and peaceful.",
+      "author": "Yudaoqihua",
+      "date": "2025-12-14",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=3669388&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-3669388&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The second time I came to Moganshan, I chose Jiuye B&B. The experience was very good, the decoration was stylish, Hansgrohe Duravit bathroom, Marshall audio, the mattress was also good, and I had a deep sleep without dreams. The sound...",
+      "author": "Guest User",
+      "date": "2024-08-14",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=3669388&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-3669388&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 75,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:19:29.562Z",
+  "source": "trip"
+}

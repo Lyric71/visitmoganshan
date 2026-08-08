@@ -1,0 +1,65 @@
+{
+  "id": 21899472,
+  "name": "Qinyuan Shanju Private Garden Holiday Villa",
+  "seedName": "Qinyuan Shanju Private Garden Holiday Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-21899472",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=21899472&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-21899472&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Qinyuan Shanju Private Garden Holiday Villa?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 36, Wangjia, Liaoyuan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$49",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/21899472/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200h180000013nykg6756.jpg"
+    },
+    {
+      "src": "/images/stays/21899472/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200m1800000140wa55498.webp"
+    },
+    {
+      "src": "/images/stays/21899472/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200c180000013u5j4F2F1.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The room is quite big, with a balcony, and you can see the green mountains. The scenery is nice. The hotel environment is also very good. Dogs are allowed, and it is also suitable for pets. The location is quite...",
+      "author": "Guest User",
+      "date": "2024-04-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=21899472&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-21899472&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The boss lady is really enthusiastic and will help take care of the children. The breakfast she makes is delicious and the environment is very good. I will book this restaurant next time I come.",
+      "author": "Guest User",
+      "date": "2024-03-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=21899472&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-21899472&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The hotel is nice, the boss lady is friendly, the breakfast noodles are delicious, I ate two big bowls at a time, recommended",
+      "author": "Guest User",
+      "date": "2023-11-15",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=21899472&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-21899472&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 33,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:49:10.781Z",
+  "source": "trip"
+}

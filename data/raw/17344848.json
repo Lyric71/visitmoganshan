@@ -1,0 +1,93 @@
+{
+  "id": 17344848,
+  "name": "SOUL talent tribe",
+  "seedName": "SOUL talent tribe",
+  "city": "Huzhou",
+  "cityId": 86,
+  "goSlug": "moganshan-17344848",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=17344848&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-17344848&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness & Facilities:Rooms are consistently described as clean, tidy, and well-equipped with modern amenities .(based on 47 reviews) Service Quality:Staff are praised for being friendly, attentive, and helpful throughout the stay.(based on 52 reviews) Location & Accessibility:The property is situated in a scenic, tranquil area , with convenient access to transportation and local attractions.(based on 17 reviews) Ambiance & Design:The property features a rustic, elegant aesthetic with spacious rooms.(based on 15 reviews) Value for Money:Users highlight high satisfaction with the price, emphasizing affordability relative to the quality of service and environment.(based on 7 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Facilities",
+        "text": "Rooms are consistently described as clean, tidy, and well-equipped with modern amenities .",
+        "count": 47
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Staff are praised for being friendly, attentive, and helpful throughout the stay.",
+        "count": 52
+      },
+      {
+        "topic": "Accessibility",
+        "text": "The property is situated in a scenic, tranquil area , with convenient access to transportation and local attractions.",
+        "count": 17
+      },
+      {
+        "topic": "Design",
+        "text": "The property features a rustic, elegant aesthetic with spacious rooms.",
+        "count": 15
+      },
+      {
+        "topic": "Value for Money",
+        "text": "Users highlight high satisfaction with the price, emphasizing affordability relative to the quality of service and environment.",
+        "count": 7
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 65, Fangshan Village, Moganshan, Wuxing District, Huzhou, Zhejiang, China",
+  "priceRange": "From US$63",
+  "facilities": [
+    "Cardroom",
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/17344848/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0585w12000srjn5w38F9B.webp"
+    },
+    {
+      "src": "/images/stays/17344848/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6a12000d03m8p0431B.webp"
+    },
+    {
+      "src": "/images/stays/17344848/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6412000d052414D7A7.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "We liked it to stay there, the boss was very kind and organized a wonderful dinner. Anyway, there is a huge garden besides with many opportunities to have a lot of fun there. The boss explained that this area he...",
+      "author": "Guest User",
+      "date": "2026-05-22",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=17344848&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-17344848&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room was spacious and comfortable, with a lovely view of the courtyard from the second floor. The guesthouse facilities were new and well-maintained. I was there to compete in a race, and the owner kindly extended my check-out time....",
+      "author": "Chujiaren_liusha",
+      "date": "2026-04-12",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=17344848&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-17344848&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The guesthouse is very large, with a huge lawn and lots of small animals, including chicks, ducklings, ponies, and puppies—the puppies are so cute! So cuddly! The rooms are also spacious, with mountain views from the windows. There's underfloor heating...",
+      "author": "Anonymous User",
+      "date": "2026-03-09",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=17344848&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-17344848&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 114,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:53:16.926Z",
+  "source": "trip"
+}

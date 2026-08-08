@@ -1,0 +1,153 @@
+---
+import Layout from './Layout.astro';
+
+/**
+ * The shell for everything under /admin.
+ *
+ * Deliberately not the site chrome. No header, no mega menu, no footer: this is
+ * a back office, and dressing it as a page of the guide invites somebody to
+ * treat a published page as if it were one. It borrows the type and the colours
+ * so it still looks like it belongs to this project, and nothing else.
+ *
+ * Every admin route is noindex and every admin route is server rendered. There
+ * is nothing here worth a crawler's time and a good deal here worth keeping out
+ * of an index.
+ */
+interface Props {
+  title: string;
+  /** Suppressed on the sign-in page, which has nothing to navigate to. */
+  showNav?: boolean;
+}
+
+const { title, showNav = true } = Astro.props;
+
+const path = Astro.url.pathname.replace(/\/$/, '');
+
+const LINKS = [
+  { label: 'Overview', href: '/admin' },
+  { label: 'Properties', href: '/admin/properties' },
+];
+---
+
+<Layout title={`${title} · Admin`} noindex>
+  <div class="admin">
+    <header class="admin__bar">
+      <div class="admin__inner">
+        <p class="admin__brand">
+          <a href="/admin">Visit Moganshan admin</a>
+        </p>
+
+        {
+          showNav && (
+            <nav class="admin__nav" aria-label="Admin sections">
+              {LINKS.map((link) => (
+                <a href={link.href} aria-current={path === link.href ? 'page' : undefined}>
+                  {link.label}
+                </a>
+              ))}
+              <a class="admin__out" href="/">
+                View site
+              </a>
+              {/* A form, not a link: a sign-out that answers a GET can be fired
+                  by any image tag on any page. */}
+              <form method="post" action="/api/admin/logout">
+                <button type="submit">Sign out</button>
+              </form>
+            </nav>
+          )
+        }
+      </div>
+    </header>
+
+    <main id="main" class="admin__main">
+      <div class="admin__inner">
+        <h1>{title}</h1>
+        <slot />
+      </div>
+    </main>
+  </div>
+</Layout>
+
+<style>
+  .admin {
+    min-height: 100vh;
+    background: var(--color-mist-50);
+  }
+
+  .admin__inner {
+    width: 100%;
+    max-width: 1100px;
+    margin-inline: auto;
+    padding-inline: clamp(1.25rem, 4vw, 2rem);
+  }
+
+  .admin__bar {
+    background: var(--color-bamboo);
+    color: var(--color-mist);
+  }
+
+  .admin__bar .admin__inner {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.5rem 1.5rem;
+    padding-block: 0.75rem;
+  }
+
+  .admin__brand {
+    margin: 0;
+    font-family: var(--font-display);
+    font-size: 1rem;
+  }
+
+  .admin__brand a {
+    color: var(--color-mist);
+    text-decoration: none;
+  }
+
+  .admin__nav {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.25rem 1.25rem;
+    font-size: 0.875rem;
+  }
+
+  .admin__nav a,
+  .admin__nav button {
+    display: inline-flex;
+    align-items: center;
+    min-height: 40px;
+    padding: 0;
+    border: 0;
+    background: none;
+    font: inherit;
+    color: var(--color-mist-muted);
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  .admin__nav a:hover,
+  .admin__nav button:hover,
+  .admin__nav a[aria-current='page'] {
+    color: var(--color-mist);
+  }
+
+  .admin__nav a[aria-current='page'] {
+    font-weight: 600;
+  }
+
+  .admin__nav form {
+    margin: 0;
+  }
+
+  .admin__main {
+    padding-block: clamp(2rem, 4vw, 3rem) 4rem;
+  }
+
+  .admin__main h1 {
+    font-size: clamp(1.5rem, 3vw, 2rem);
+    margin-bottom: 1.5rem;
+  }
+</style>

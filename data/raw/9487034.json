@@ -1,0 +1,82 @@
+{
+  "id": 9487034,
+  "name": "Ann's Guesthouse",
+  "seedName": "Ann's Guesthouse",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-9487034",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=9487034&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-9487034&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Well-located near tourist places and scenic spots like Bihu Longtan, convenient for travel. Many free places around for sightseeing.(based on 7 reviews) Environment:Environment is beautiful, with unique room designs, some have terraces for sunbathing. Breakfast:Breakfast is distinctive, with special dishes like bamboo shoot side dishes.(based on 9 reviews) Service:Owner is hospitable, helps with luggage, provides information like parking(based on 14 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Well-located near tourist places and scenic spots like Bihu Longtan, convenient for travel. Many free places around for sightseeing.",
+        "count": 7
+      },
+      {
+        "topic": "Environment",
+        "text": "Environment is beautiful, with unique room designs, some have terraces for sunbathing. Breakfast:Breakfast is distinctive, with special dishes like bamboo shoot side dishes.",
+        "count": 9
+      },
+      {
+        "topic": "Service",
+        "text": "Owner is hospitable, helps with luggage, provides information like parking",
+        "count": 14
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 47, Biwu, Xiantan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$82",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/9487034/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200u0k000000byfpzB3F5.jpg"
+    },
+    {
+      "src": "/images/stays/9487034/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0225812000at6ffk88624.webp"
+    },
+    {
+      "src": "/images/stays/9487034/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200j0k000000bzjl0E4E2.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Spacious room, good location, just at the food of the tourist place, where you could have a little nice walk with rivers running, been there several times, recently they started to charge. Breakfast is simple Chinese breakfast. We went on...",
+      "author": "Guest User",
+      "date": "2023-10-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=9487034&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-9487034&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Spacious room, good location, just at the food of the tourist place, where you could have a little nice walk with rivers running, been there several times, recently they started to charge. Breakfast is simple Chinese breakfast. We went on...",
+      "author": "Guest User",
+      "date": "2023-10-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=9487034&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-9487034&trip_sub3=D19127628"
+    },
+    {
+      "quote": "A very good homestay with a terrace and a swimming pool. The rooms are spacious, decorated in ancient style, and the breakfast is very refreshing. The night is very quiet, with insects chirping and birds singing. The location is great,...",
+      "author": "Guest User",
+      "date": "2024-08-18",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=9487034&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-9487034&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 40,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:40:10.845Z",
+  "source": "trip"
+}

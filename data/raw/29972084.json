@@ -1,0 +1,85 @@
+{
+  "id": 29972084,
+  "name": "Nanshan House",
+  "seedName": "Nanshan House",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-29972084",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=29972084&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-29972084&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness & Facilities:Rooms are described as clean, well-equipped, and featuring independent balconies or terraces with mountain or stream views.(based on 12 reviews) Service & Hospitality:Hosts are consistently praised for being warm, helpful, and proactive in offering local recommendations .(based on 14 reviews) Breakfast:Highlighted as a key strength, with homemade dishes like pickled vegetables, bamboo shoots, fresh corn, and eggs.(based on 6 reviews) Location & Environment:Situated near attractions like Moganshan, with natural scenery and a peaceful, rural atmosphere.(based on 6 reviews) Accessibility:Parking is convenient, and hosts often assist with transportation .",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Facilities",
+        "text": "Rooms are described as clean, well-equipped, and featuring independent balconies or terraces with mountain or stream views.",
+        "count": 12
+      },
+      {
+        "topic": "Hospitality",
+        "text": "Hosts are consistently praised for being warm, helpful, and proactive in offering local recommendations .",
+        "count": 14
+      },
+      {
+        "topic": "Breakfast",
+        "text": "Highlighted as a key strength, with homemade dishes like pickled vegetables, bamboo shoots, fresh corn, and eggs.",
+        "count": 6
+      },
+      {
+        "topic": "Environment",
+        "text": "Situated near attractions like Moganshan, with natural scenery and a peaceful, rural atmosphere.",
+        "count": 6
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 70, Xiwuli, Houwu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$31",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/29972084/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200j13000000ufcy57360.jpg"
+    },
+    {
+      "src": "/images/stays/29972084/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/020681200094yqgzx48BB.webp"
+    },
+    {
+      "src": "/images/stays/29972084/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200j13000000ufcy57360.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "I arrived at the B&B in the evening. I drove there by car. It was too dark and I couldn’t find a place. My uncle came down to pick me up. I arrived on the third night of the third...",
+      "author": "Zhenzhenyouxuan",
+      "date": "2024-02-15",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=29972084&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-29972084&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房東人很好，小狗狗很可愛，早飯可口是房東做的特色菜，房屋有點木頭味要先打開通風一下，設施完備，衞生也挺好，位置離上車點有點遠要走25分鐘，但是可以找房東送一下，房東很熱心，積極為我們介紹周邊的特色景點，總之大家玩的都很開心。",
+      "author": "Guest User",
+      "date": "2024-08-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=29972084&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-29972084&trip_sub3=D19127628"
+    },
+    {
+      "quote": "服務態度很好，燒的好吃，菜的量不足。居住環境不錯，面對青山綠水，空氣質量很好，喝的是山水，老闆夫婦是個挺熱心腸的人。",
+      "author": "Guest User",
+      "date": "2024-08-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=29972084&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-29972084&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 40,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:42:52.326Z",
+  "source": "trip"
+}

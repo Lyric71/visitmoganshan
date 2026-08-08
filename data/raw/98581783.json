@@ -1,0 +1,93 @@
+{
+  "id": 98581783,
+  "name": "Mogan Shanyu Shiguang Light Luxury Holiday Homestay",
+  "seedName": "Mogan Shanyu Shiguang Light Luxury Holiday Homestay",
+  "city": "Huzhou",
+  "cityId": 86,
+  "goSlug": "moganshan-98581783",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=98581783&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-98581783&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Strategically situated near Gengcun Square, close to attractions like fish-scale dam, and surrounded by mountains for serene, private stays.(based on 12 reviews) Service Quality:Hosts are highly attentive, offering personalized assistance .(based on 41 reviews) Cleanliness:Rooms and shared spaces are consistently described as spotless, with fresh towels, quality toiletries, and daily maintenance.(based on 37 reviews) Amenities:Spacious rooms with mountain views, private terraces, and modern facilities . A large, well-maintained pool is a major draw for families.(based on 16 reviews) Experiences:Unique offerings like mountain bamboo-picking activities, child-friendly amenities , and scenic photography opportunities.(based on 7 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Strategically situated near Gengcun Square, close to attractions like fish-scale dam, and surrounded by mountains for serene, private stays.",
+        "count": 12
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Hosts are highly attentive, offering personalized assistance .",
+        "count": 41
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms and shared spaces are consistently described as spotless, with fresh towels, quality toiletries, and daily maintenance.",
+        "count": 37
+      },
+      {
+        "topic": "Amenities",
+        "text": "Spacious rooms with mountain views, private terraces, and modern facilities . A large, well-maintained pool is a major draw for families.",
+        "count": 16
+      },
+      {
+        "topic": "Experiences",
+        "text": "Unique offerings like mountain bamboo-picking activities, child-friendly amenities , and scenic photography opportunities.",
+        "count": 7
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 38, Fangshantangzi Village, Daixi Town, Wuxing District, Huzhou, Zhejiang, China",
+  "priceRange": "From US$102",
+  "facilities": [
+    "Restaurant",
+    "Water park",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/98581783/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2412000dyc4ky501FC.jpg"
+    },
+    {
+      "src": "/images/stays/98581783/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1112000f602hkw9FC6.webp"
+    },
+    {
+      "src": "/images/stays/98581783/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200b120009viss1rCB7F.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "設施：房間非常寬敞 衞生：非常乾淨沒有異味 環境：佈局很明亮清新 服務：老闆一家十分熱情 總體體驗非常不錯，泳池也很棒，花園非常出片，下次再帶娃來",
+      "author": "Guest User",
+      "date": "2025-07-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=98581783&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-98581783&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿位置很好，很私密，安靜，大院子直麪大山，對眼睛很好，而且去哪裡也都不遠，裝修的也不錯 老闆和老闆娘也很客氣，態度很好，去哪裡玩還幫忙訂票，自家的山還讓我們體驗了挖筍，小朋友住的不想走",
+      "author": "Anonymous User",
+      "date": "2025-04-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=98581783&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-98581783&trip_sub3=D19127628"
+    },
+    {
+      "quote": "來到這裏 藍色與綠色 豁然開朗了。 帶女兒出行，看中這裏的滑滑梯和泳池。 選了3樓帶帳篷的大房間，兩張1.8米大床，玻璃窗無論哪麪望出去都是滿眼的綠。 老闆娘和所有工作人員都很好。 滿意的清新之旅。",
+      "author": "Guest User",
+      "date": "2024-08-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=98581783&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-98581783&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 67,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:57:06.688Z",
+  "source": "trip"
+}

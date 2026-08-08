@@ -1,0 +1,68 @@
+{
+  "id": 122050127,
+  "name": "xisanzhuyinshejishihuanshanyeshemeisu",
+  "seedName": "xisanzhuyinshejishihuanshanyeshemeisu",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-122050127",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=122050127&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-122050127&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at xisanzhuyinshejishihuanshanyeshemeisu?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 31, Zhong Village, Ziling Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$79",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/122050127/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6912000miqhpks8566.jpg"
+    },
+    {
+      "src": "/images/stays/122050127/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5w12000ew4gznr2769.webp"
+    },
+    {
+      "src": "/images/stays/122050127/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0j12000ew56xg15C71.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "This B&B is located in an ideal mountain setting. There were four adults and one child in our group, and we booked a loft. The room was very clean, and the tissues and toiletries were of good quality. Breakfast was...",
+      "author": "Guiwaiwai",
+      "date": "2026-02-21",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=122050127&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-122050127&trip_sub3=D19127628"
+    },
+    {
+      "quote": "## A Relaxing 3-Day, 2-Night Moganshan Getaway for Chinese New Year 2026 Moganshan Xishan Zhuyin Designer Mountain Wilderness Retreat 🌿 If you're looking for a place to escape the hustle and bustle, and embrace nature and beauty, Xishan Zhuyin is...",
+      "author": "Guest User",
+      "date": "2026-02-21",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=122050127&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-122050127&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room was clean and tidy, with complete amenities. I was pleasantly surprised by the disposable bath towels! If you want to try some local specialties, the owner can cook them fresh for you. For breakfast, be sure to ask...",
+      "author": "CiferLu",
+      "date": "2026-02-21",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=122050127&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-122050127&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 133,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:51:53.707Z",
+  "source": "trip"
+}

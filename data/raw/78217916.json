@@ -1,0 +1,96 @@
+{
+  "id": 78217916,
+  "name": "In Murakami·Moganshan Hot Spring Resort Homestay (Firefly Base)",
+  "seedName": "In Murakami·Moganshan Hot Spring Resort Homestay (Firefly Base)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-78217916",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=78217916&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-78217916&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment Location:Proximity to firefly bases, with beautiful surrounding environments. Some properties have swimming pools and are conveniently located near attractions.(based on 42 reviews) Service Quality:Staff are enthusiastic and thoughtful, actively providing assistance like carrying luggage and offering local travel suggestions(based on 63 reviews) Facilities:Equipped with swimming pools, areas for washing and drying clothes, and activity facilities like Go boards in the lobby(based on 17 reviews) Hygiene:Most rooms are clean, with some highlighting good hygiene details(based on 41 reviews) Dining:Breakfast and afternoon tea are nutritious and clean(based on 43 reviews) Guest Suggestion:Some customers suggest hotel has infrastructure, sound insulation, hygiene & service issues(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment Location",
+        "text": "Proximity to firefly bases, with beautiful surrounding environments. Some properties have swimming pools and are conveniently located near attractions.",
+        "count": 42
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Staff are enthusiastic and thoughtful, actively providing assistance like carrying luggage and offering local travel suggestions",
+        "count": 63
+      },
+      {
+        "topic": "Facilities",
+        "text": "Equipped with swimming pools, areas for washing and drying clothes, and activity facilities like Go boards in the lobby",
+        "count": 17
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Most rooms are clean, with some highlighting good hygiene details",
+        "count": 41
+      },
+      {
+        "topic": "Dining",
+        "text": "Breakfast and afternoon tea are nutritious and clean",
+        "count": 43
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest hotel has infrastructure, sound insulation, hygiene & service issues",
+      "count": 3
+    }
+  },
+  "address": "Village Group 5, Lanshukeng, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$112",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/78217916/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1212000f1l4xqh58B6.jpg"
+    },
+    {
+      "src": "/images/stays/78217916/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3z12000f1kyw3xCB3F.webp"
+    },
+    {
+      "src": "/images/stays/78217916/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2312000f1kw64u12EA.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "This hotel exceeded our expectations! I rarely write reviews, but this one truly impressed me. The butler service was outstanding. My two kids didn't want to leave. The breakfast was very rich, and all the staff were incredibly welcoming. The...",
+      "author": "Guest User",
+      "date": "2026-07-31",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=78217916&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-78217916&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Our travel plans changed last minute, so we spontaneously decided to visit Moganshan. I initially just wanted to see fireflies, but I was so touched by the warmth of the guesthouse owners. The overall design is very cozy and thoughtful;...",
+      "author": "Bianzoubianhua",
+      "date": "2026-07-29",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=78217916&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-78217916&trip_sub3=D19127628"
+    },
+    {
+      "quote": "This hotel is absolutely amazing, and the service is truly at the level of a five-star luxury hotel. Every member of the staff is incredibly kind, polite, and genuinely does their best to make your stay as enjoyable as possible....",
+      "author": "Guest User",
+      "date": "2026-07-09",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=78217916&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-78217916&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 123,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:06:28.889Z",
+  "source": "trip"
+}

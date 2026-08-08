@@ -1,0 +1,75 @@
+{
+  "id": 4956756,
+  "name": "Banjianwu Hostel",
+  "seedName": "Banjianwu Hostel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-4956756",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4956756&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4956756&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:The courtyard with ancient ginkgo trees, serene atmosphere, and scenic mountain surroundings were frequently highlighted as relaxing and picturesque. Service:Consistently praised for attentive, friendly staff .(based on 12 reviews) Facilities:Clean rooms, spacious layouts, and quality breakfast .(based on 7 reviews) Location:Proximity to attractions and ease of access for activities like hiking.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "The courtyard with ancient ginkgo trees, serene atmosphere, and scenic mountain surroundings were frequently highlighted as relaxing and picturesque. Service:Consistently praised for attentive, friendly staff .",
+        "count": 12
+      },
+      {
+        "topic": "Facilities",
+        "text": "Clean rooms, spacious layouts, and quality breakfast .",
+        "count": 7
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Village Group 6, Miaoqian Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$229",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/4956756/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3312000cos5mllDE63.jpg"
+    },
+    {
+      "src": "/images/stays/4956756/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3312000cos5mllDE63.webp"
+    },
+    {
+      "src": "/images/stays/4956756/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0i12000cemmstaA266.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "太適合一大家子來住了，特別舒服，管家服務周到，滿足我們任何要求。晚上還在別墅為我們做了一頓當地菜，很好吃！",
+      "author": "👑 Terisa 🌺",
+      "date": "2025-08-14",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4956756&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4956756&trip_sub3=D19127628"
+    },
+    {
+      "quote": "在這片寧靜的山林深處，有一處充滿韻味的民宿等待着您的光臨——它毗鄰着莫干山的壯麗景色，為您提供一處理想的休憩之地。˘︶˘✿）",
+      "author": "Guest User",
+      "date": "2025-05-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4956756&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4956756&trip_sub3=D19127628"
+    },
+    {
+      "quote": "很有特色的民宿，院子是亮點，可以發呆、喝茶、聊天、下棋，是休閑的好地方。就餐可以到他家總店去吃，路程不遠，開車10分鐘，廚師做的菜不錯，還可以打8.5折。管家小哥非常好，熱情為我們服務，非常感謝！",
+      "author": "Suifengpiaodongdeluoye1961",
+      "date": "2024-09-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4956756&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4956756&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 19,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:00:48.779Z",
+  "source": "trip"
+}

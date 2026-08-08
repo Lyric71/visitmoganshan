@@ -1,0 +1,91 @@
+{
+  "id": 8899903,
+  "name": "Floral Hotel · Oxygen Hotel Mogan Mountain Hotel",
+  "seedName": "Floral Hotel · Oxygen Hotel Mogan Mountain Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-8899903",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8899903&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8899903&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Highly praised for being centrally located at intersections, near transportation hubs , and easy to find with ample parking.(based on 28 reviews) Rooms:Spacious, clean, and well-equipped with amenities like large windows, balconies, and smart toilets. Some rooms featured private terraces or views of the surrounding mountains.(based on 71 reviews) Service:Warm and attentive service from the hosts, with personalized recommendations and willingness to accommodate requests.(based on 56 reviews) Food:Consistently highlighted the quality of meals, particularly the breakfast and locally sourced dishes .(based on 26 reviews) Environment:Quiet, peaceful setting with natural surroundings and recreational facilities like a well-maintained swimming pool.(based on 12 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Highly praised for being centrally located at intersections, near transportation hubs , and easy to find with ample parking.",
+        "count": 28
+      },
+      {
+        "topic": "Rooms",
+        "text": "Spacious, clean, and well-equipped with amenities like large windows, balconies, and smart toilets. Some rooms featured private terraces or views of the surrounding mountains.",
+        "count": 71
+      },
+      {
+        "topic": "Service",
+        "text": "Warm and attentive service from the hosts, with personalized recommendations and willingness to accommodate requests.",
+        "count": 56
+      },
+      {
+        "topic": "Food",
+        "text": "Consistently highlighted the quality of meals, particularly the breakfast and locally sourced dishes .",
+        "count": 26
+      },
+      {
+        "topic": "Environment",
+        "text": "Quiet, peaceful setting with natural surroundings and recreational facilities like a well-maintained swimming pool.",
+        "count": 12
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Entrance of Houwu Village, Moganshan Town, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$44",
+  "facilities": [
+    "Outdoor swimming pool",
+    "2 Restaurants"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/8899903/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2d12000t8a2b7iCCB1.jpg"
+    },
+    {
+      "src": "/images/stays/8899903/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200414000000wbs38E3F0.webp"
+    },
+    {
+      "src": "/images/stays/8899903/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200h1c000001d0y826E1B.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Very kind owner, she was very helpful and explained to us how to get around. She also made a delicious homestyle breakfast.",
+      "author": "丹妮在中国",
+      "date": "2026-05-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8899903&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8899903&trip_sub3=D19127628"
+    },
+    {
+      "quote": "We had a wonderful time, the staff were friendly and always willing to help. The hotel was clean and well managed. Traveling with two small children is not easy but they also loved the hotel especially the pool! We will...",
+      "author": "Guest User",
+      "date": "2025-08-13",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8899903&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8899903&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Lovely family run hotel. Delicious food, friendly service and peaceful location. Looking forward to coming back again!",
+      "author": "Guest User",
+      "date": "2024-09-09",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8899903&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8899903&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 142,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:16:37.401Z",
+  "source": "trip"
+}

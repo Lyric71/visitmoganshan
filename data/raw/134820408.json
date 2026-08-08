@@ -1,0 +1,83 @@
+{
+  "id": 134820408,
+  "name": "Moganshan Aimor Secret Realm Hotel",
+  "seedName": "Moganshan Aimor Secret Realm Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-134820408",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=134820408&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-134820408&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location and Environment:Nestled in a serene mountain valley, the hotel offers breathtaking views and a peaceful atmosphere, making it a perfect retreat to unwind. Surrounded by lush greenery, it's ideal for weekend getaways, providing an escape from city life. Service Quality:The hotel staff is praised for their attentive and efficient service, with rapid response times to guest requests. The presence of a dedicated butler service enhances the overall experience, ensuring personalized care and prompt assistance. Cleanliness and Hygiene:Rooms are consistently described as clean and well-maintained. The hotel pays attention to detail with high-quality toiletries, ensuring a comfortable and hygienic stay for all guests. Dining Experience:Guests enjoy the fresh and diverse dining options available, from local farm-to-table delicacies to a unique breakfast experience. The hotel's dining services are noted for their quality and freshness, adding to the overall satisfaction. Guest Suggestion:Some customers suggest addressing odors, improving child safety in rooms, ensuring staffing for better service.(based on 4 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location and Environment",
+        "text": "Nestled in a serene mountain valley, the hotel offers breathtaking views and a peaceful atmosphere, making it a perfect retreat to unwind. Surrounded by lush greenery, it's ideal for weekend getaways, providing an escape from city life. Service Quality:The hotel staff is praised for their attentive and efficient service, with rapid response times to guest requests. The presence of a dedicated butler service enhances the overall experience, ensuring personalized care and prompt assistance. Cleanliness and Hygiene:Rooms are consistently described as clean and well-maintained. The hotel pays attention to detail with high-quality toiletries, ensuring a comfortable and hygienic stay for all guests. Dining Experience:Guests enjoy the fresh and diverse dining options available, from local farm-to-table delicacies to a unique breakfast experience. The hotel's dining services are noted for their quality and freshness, adding to the overall satisfaction. Guest Suggestion:Some customers suggest addressing odors, improving child safety in rooms, ensuring staffing for better service.",
+        "count": 4
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 67, Tianqingwu, Gaofeng Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$194",
+  "facilities": [
+    "Sunbathing area",
+    "Indoor swimming pool",
+    "Gym",
+    "Bar",
+    "Library",
+    "Tea room",
+    "Cardroom",
+    "Restaurant",
+    "Cafe",
+    "Conference room",
+    "Multi-function room",
+    "Karaoke",
+    "Playground",
+    "Kids' club"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/134820408/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0t12000suj58quB2C5.jpg"
+    },
+    {
+      "src": "/images/stays/134820408/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6q12000ssd69e3F6BC.webp"
+    },
+    {
+      "src": "/images/stays/134820408/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0w12000ssd1vomA3E4.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Overall, it was a pretty good stay, even though the sun these past few days was so intense it felt like I was melting, making it hard to fully enjoy the 'secret realm.' Still, the general experience was pleasant. Every...",
+      "author": "mis_eva",
+      "date": "2026-08-02",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=134820408&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-134820408&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room was super comfortable, clean, and beautiful! Service was prompt and responsive. The food tasted good, though making reservations was a bit of a hassle. We were given cloth shoes upon check-in, and my child immediately started bouncing around...",
+      "author": "Guest User",
+      "date": "2026-08-02",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=134820408&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-134820408&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The hotel area, a former mine, has been transformed into an artistic space and even features a man-made waterfall. The rooms are spacious, and you can enjoy mountain views right from the balcony – truly a mountain-view room. The service...",
+      "author": "Guest User",
+      "date": "2026-08-02",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=134820408&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-134820408&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9,
+    "count": 81,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:27:20.210Z",
+  "source": "trip"
+}

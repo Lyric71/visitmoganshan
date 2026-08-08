@@ -1,0 +1,84 @@
+{
+  "id": 110359722,
+  "name": "Moganshan Banshan Xiaozhu Villa Light Luxury Beauty Suite",
+  "seedName": "Moganshan Banshan Xiaozhu Villa Light Luxury Beauty Suite",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-110359722",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=110359722&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-110359722&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment and Location:Surrounded by beautiful scenery with nearby places to visit, and there is a small stream in front, allowing people to fall asleep to the sound of the stream(based on 2 reviews) Facilities:Room facilities are complete and intelligent, presenting a home-like experience(based on 3 reviews) Dining:Cuisine is authentic and delicious, with the hostess's sister having excellent cooking skills Entertainment:Rich entertainment activities such as catching fish and shrimp are available Service:Service is thoughtful, and the hostess is warm and attentive(based on 4 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment and Location",
+        "text": "Surrounded by beautiful scenery with nearby places to visit, and there is a small stream in front, allowing people to fall asleep to the sound of the stream",
+        "count": 2
+      },
+      {
+        "topic": "Facilities",
+        "text": "Room facilities are complete and intelligent, presenting a home-like experience",
+        "count": 3
+      },
+      {
+        "topic": "Dining",
+        "text": "Cuisine is authentic and delicious, with the hostess's sister having excellent cooking skills Entertainment:Rich entertainment activities such as catching fish and shrimp are available Service:Service is thoughtful, and the hostess is warm and attentive",
+        "count": 4
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 84-2, Entrance of Yijia, Shanggaowu, Beihu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$115",
+  "facilities": [
+    "Cardroom",
+    "Restaurant",
+    "Conference room",
+    "Playground",
+    "Kids' club"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/110359722/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2512000c3btdptE9C5.jpg"
+    },
+    {
+      "src": "/images/stays/110359722/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6c12000br7w1kjAB85.webp"
+    },
+    {
+      "src": "/images/stays/110359722/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2512000c3btdptE9C5.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "I'm very satisfied with this trip. I've always wanted to go to a B&B with a mountain view and this one fits the bill. It has a small bridge, flowing water, and a homestay. It's very nice. The hostess's cooking...",
+      "author": "Guest User",
+      "date": "2024-03-25",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=110359722&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-110359722&trip_sub3=D19127628"
+    },
+    {
+      "quote": "莫干山伴山小築Villa輕奢美宿超讚！設施新穎精緻，娛樂豐富。服務熱情周到，對攜寵客人友好。衞生乾淨。位置佳，周邊景美且遊玩地近。餐飲地道美味，體驗絕佳！",
+      "author": "Lifugui Cat",
+      "date": "2025-05-12",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=110359722&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-110359722&trip_sub3=D19127628"
+    },
+    {
+      "quote": "非常温馨愉快的一次家庭端午假期休閑遊，老闆娘太nice了，無論是設計、裝修都是老闆娘親自着手，房間內的設施都很齊全並且智能化，宛如住進了自己家的感覺。早上起床呼吸着清新的空氣，聽着門口小溪流水潺潺，一切都是嚮往的生活。老闆娘妹妹一手精益的廚藝，全家老老小小都吃的非常滿意，好吃的都來不及拍照，贊贊贊👍👍👍我們馬上還會再來的☺️☺️☺️",
+      "author": "Guest User",
+      "date": "2024-06-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=110359722&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-110359722&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 18,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:02:33.761Z",
+  "source": "trip"
+}

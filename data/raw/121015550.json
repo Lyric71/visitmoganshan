@@ -1,0 +1,89 @@
+{
+  "id": 121015550,
+  "name": "Jinjiang Inn Flagship Store (Deqing Moganshan Hotel)",
+  "seedName": "Jinjiang Inn Flagship Store (Deqing Moganshan Hotel)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-121015550",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=121015550&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-121015550&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Located next to the Mogan Mountain tourist distribution center, it is very convenient to travel. It can be reached on foot, and it is close to Yucun Square and other places. It is also very close to various scenic spots, making it easy to travel.(based on 356 reviews) Room:Rooms are large, clean and tidy, with good lighting, some can see the mountain scenery outside the window, and the facilities are complete and new.(based on 208 reviews) Breakfast:Rich in variety, can meet the taste of tourists from different places, and some have freshly made fried eggs, noodles, etc.(based on 130 reviews) Facilities:Facilities are complete and new, some have robot delivery services, and parking is convenient.(based on 208 reviews) Guest Suggestion:Some customers suggest hygiene issues, slow check-in, unhelpful front desk, noisy ACs, mismatched sockets(based on 20 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Located next to the Mogan Mountain tourist distribution center, it is very convenient to travel. It can be reached on foot, and it is close to Yucun Square and other places. It is also very close to various scenic spots, making it easy to travel.",
+        "count": 356
+      },
+      {
+        "topic": "Room",
+        "text": "Rooms are large, clean and tidy, with good lighting, some can see the mountain scenery outside the window, and the facilities are complete and new.",
+        "count": 208
+      },
+      {
+        "topic": "Breakfast",
+        "text": "Rich in variety, can meet the taste of tourists from different places, and some have freshly made fried eggs, noodles, etc.",
+        "count": 130
+      },
+      {
+        "topic": "Facilities",
+        "text": "Facilities are complete and new, some have robot delivery services, and parking is convenient.",
+        "count": 208
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest hygiene issues, slow check-in, unhelpful front desk, noisy ACs, mismatched sockets",
+      "count": 20
+    }
+  },
+  "address": "No. 12, Building 7, Yunxi Courtyard, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$61",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/121015550/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1012000ekxu015DF53.jpg"
+    },
+    {
+      "src": "/images/stays/121015550/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4l12000eksdwye2609.webp"
+    },
+    {
+      "src": "/images/stays/121015550/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1p12000eksfha0D4FF.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The room was fantastic, really spacious and well-lit. It felt brand new, and the natural light was amazing. In the mornings, you could see the misty clouds around the mountains outside, which was lovely. It was quiet and had no...",
+      "author": "treeser",
+      "date": "2026-07-05",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=121015550&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-121015550&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Absolutely fantastic! The room was huge, spacious, and bright with a great view. The breakfast spread was excellent too!",
+      "author": "Guest User",
+      "date": "2026-07-04",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=121015550&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-121015550&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The hotel's location is right next to the Moganshan Tourist Distribution Center, which is super convenient for self-driving travelers as you can park your car directly in the lot and walk over. It's also within walking distance to Yucun Square...",
+      "author": "Guest User",
+      "date": "2026-04-05",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=121015550&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-121015550&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 1178,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:58:50.003Z",
+  "source": "trip"
+}

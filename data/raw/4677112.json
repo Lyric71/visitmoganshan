@@ -1,0 +1,84 @@
+{
+  "id": 4677112,
+  "name": "Moganshan Muse Villa (Houwu Transfer Center)",
+  "seedName": "Moganshan Muse Villa (Houwu Transfer Center)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-4677112",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4677112&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4677112&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness:Guests frequently commended the rooms and bathrooms for exceptional cleanliness, highlighting the property's high hygiene standards without issues. The environment is described as spotless, with no complaints about dirt or maintenance.(based on 24 reviews) Service Quality:The host is highlighted for being warm, attentive, and proactive in meeting guest needs, offering personalized recommendations for local activities and routes. Communication is seamless, with hosts often adding WeChat for real-time assistance, ensuring a smooth and trouble-free experience.(based on 22 reviews) Amenities & Views:Rooms have large glass windows with panoramic views of nature, like mountains and clouds, creating tranquility. The design highlights aesthetics, featuring modern, visually appealing interiors ideal for photography.(based on 19 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness",
+        "text": "Guests frequently commended the rooms and bathrooms for exceptional cleanliness, highlighting the property's high hygiene standards without issues. The environment is described as spotless, with no complaints about dirt or maintenance.",
+        "count": 24
+      },
+      {
+        "topic": "Service Quality",
+        "text": "The host is highlighted for being warm, attentive, and proactive in meeting guest needs, offering personalized recommendations for local activities and routes. Communication is seamless, with hosts often adding WeChat for real-time assistance, ensuring a smooth and trouble-free experience.",
+        "count": 22
+      },
+      {
+        "topic": "Views",
+        "text": "Rooms have large glass windows with panoramic views of nature, like mountains and clouds, creating tranquility. The design highlights aesthetics, featuring modern, visually appealing interiors ideal for photography.",
+        "count": 19
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No.80 Houwu Village, Deqing, Zhejiang, China",
+  "priceRange": "From US$53",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Billiards room",
+    "Restaurant",
+    "Cafe",
+    "Multi-function room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/4677112/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02041120009wi7uot581E.jpg"
+    },
+    {
+      "src": "/images/stays/4677112/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02041120009wi7uot581E.webp"
+    },
+    {
+      "src": "/images/stays/4677112/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203m120008xfgy7u5708.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "This hotel was the best I stayed at during this trip. It was very clean, and the service was excellent. The owner personally helped with my luggage and cooked for me, running around taking care of everything. The location was...",
+      "author": "Guest User",
+      "date": "2025-10-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4677112&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4677112&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I absolutely loved this hotel, and I would definitely stay here again if I had the chance.",
+      "author": "Guest User",
+      "date": "2025-10-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4677112&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4677112&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The environment is excellent, the rooms are very clean, and the view is fantastic for this price – it's definitely worth it!",
+      "author": "Anonymous User",
+      "date": "2025-12-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4677112&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4677112&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 53,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:21:55.759Z",
+  "source": "trip"
+}

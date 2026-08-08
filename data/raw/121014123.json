@@ -1,0 +1,93 @@
+{
+  "id": 121014123,
+  "name": "Mogan · Half-Acre Flower Field · Green Wilderness Fairytale Design Aesthetics Boutique Homestay",
+  "seedName": "Mogan · Half-Acre Flower Field · Green Wilderness Fairytale Design Aesthetics Boutique Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-121014123",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=121014123&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-121014123&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:Surrounded by lush mountains, the guesthouse offers a serene atmosphere perfect for relaxation with beautiful gardens and scenic views. Facilities:Entertainment options include mahjong, billiards, and KTV, with spacious rooms ideal for families and groups.(based on 9 reviews) Service Quality:Guests praised the warm, friendly service and personal touches like meals with fresh, local ingredients.(based on 30 reviews) Location:Picturesque area with easy access to attractions and nature trails, perfect for leisurely walks.(based on 23 reviews) Breakfast:Generous portions and variety, with fresh ingredients and homemade quality enhancing satisfaction.(based on 11 reviews) Guest Suggestion:Some customers suggest improving sewage system maintenance, addressing odor complaints promptly, and ensuring facilities function as advertised.(based on 4 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Surrounded by lush mountains, the guesthouse offers a serene atmosphere perfect for relaxation with beautiful gardens and scenic views. Facilities:Entertainment options include mahjong, billiards, and KTV, with spacious rooms ideal for families and groups.",
+        "count": 9
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Guests praised the warm, friendly service and personal touches like meals with fresh, local ingredients.",
+        "count": 30
+      },
+      {
+        "topic": "Location",
+        "text": "Picturesque area with easy access to attractions and nature trails, perfect for leisurely walks.",
+        "count": 23
+      },
+      {
+        "topic": "Breakfast",
+        "text": "Generous portions and variety, with fresh ingredients and homemade quality enhancing satisfaction.",
+        "count": 11
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving sewage system maintenance, addressing odor complaints promptly, and ensuring facilities function as advertised.",
+      "count": 4
+    }
+  },
+  "address": "No. 35 Bijiakeng, Xiantan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$81",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Gym",
+    "Cardroom",
+    "Restaurant",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/121014123/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0d12000fcmzrpyC6C5.jpg"
+    },
+    {
+      "src": "/images/stays/121014123/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1a12000ekxf963CA2E.webp"
+    },
+    {
+      "src": "/images/stays/121014123/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0812000ekxejti91B7.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The B&B was spotless and the room was spacious. The view from the window was lovely, and the breakfast was not only plentiful but also delicious. The owner was incredibly warm and welcoming. It's a comfortable place to stay.",
+      "author": "Guest User",
+      "date": "2026-06-14",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=121014123&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-121014123&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room was spacious with a fantastic view, and sitting on the balcony just brightened my mood. The owner was incredibly nice too! But the absolute best part was the breakfast – those freshly fried dough sticks were amazing, haha!",
+      "author": "Guest User",
+      "date": "2026-06-14",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=121014123&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-121014123&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The environment here is fantastic! It's right next to the Xiantan Cave scenic area, so the air is fresh and pleasant. It's perfect for a weekend getaway and hiking. The owner is also very kind; they helped us with our...",
+      "author": "Guest User",
+      "date": "2026-06-14",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=121014123&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-121014123&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.9,
+    "count": 79,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:30:49.643Z",
+  "source": "trip"
+}

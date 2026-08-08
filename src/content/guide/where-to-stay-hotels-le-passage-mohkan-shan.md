@@ -57,9 +57,9 @@ Now the gaps. Everything a person asks before booking is missing, and the shape 
 | English at the desk | Unverified |
 | Whether it is trading today | Unverified |
 
-`TODO: verify all six.` None of it is in our research, and we will not take it off a booking page. "Built for the international market" is the research's own phrase, and it does not say what it covers.
+`None of the six is confirmed.` None of it is in our research, and we will not take it off a booking page. "Built for the international market" is the research's own phrase, and it does not say what it covers.
 
-In English these get called a country house or a country hotel. The local words differ: minsu (民宿) for a small owner-run guesthouse, and yangjiale (洋家乐), literally a foreigner's farmstay, for the foreign-founded ones. Twenty-eight keys is bigger than a village minsu, but how this one is licensed is unverified. `TODO: verify.`
+In English these get called a country house or a country hotel. The local words differ: minsu (民宿) for a small owner-run guesthouse, and yangjiale (洋家乐), literally a foreigner's farmstay, for the foreign-founded ones. Twenty-eight keys is bigger than a village minsu, but how this one is licensed is unverified. `Not confirmed.`
 
 ## The domain no longer resolves
 
@@ -71,7 +71,7 @@ There is a reason so much of that is unchecked. As of 6 August 2026, the propert
 
 If you landed here after a dead link, that is why.
 
-That is not a closure notice. Domains lapse for dull reasons: an unpaid renewal, or a switch to Chinese platforms only. We have no evidence either way, so the operating status stays `TODO: verify`.
+That is not a closure notice. Domains lapse for dull reasons: an unpaid renewal, or a switch to Chinese platforms only. We have no evidence either way, so the operating status stays `Not confirmed`.
 
 You cannot check dates or rates at the source, so work around it.
 
@@ -121,6 +121,6 @@ Use it as a checklist, not a review. Search both spellings, confirm on a platfor
 
 ![A hotel key and a small brass bell on a wooden counter in warm lamp light](/images/guide/where-to-stay-hotels-le-passage-mohkan-shan-4.webp 'Book it through a platform that will refund you, and confirm the property is trading before you travel.')
 
-Four things would change this page: a stay, an answered phone call, a dated rate sheet, and a website that loads. None has happened. The [hotels index](/where-to-stay/hotels/) lists the other named properties, and [where to stay](/where-to-stay/) explains why village and price band matter more here than brand.
+Four things would change this page: a stay, an answered phone call, a dated rate sheet, and a website that loads. None has happened. The [hotel list](/where-to-stay/hotels-explained/) covers the other named properties, and [where to stay](/where-to-stay/) explains why village and price band matter more here than brand.
 
 *Rail times and transfer center hours are current as of 6 August 2026, and so is the domain check. This property's operating status is unverified.*

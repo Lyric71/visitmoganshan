@@ -1,0 +1,84 @@
+{
+  "id": 53049163,
+  "name": "Moganshan Miyu Bamboo Sea Hot Spring Meisu",
+  "seedName": "Moganshan Miyu Bamboo Sea Hot Spring Meisu",
+  "city": "Huzhou",
+  "cityId": 86,
+  "goSlug": "moganshan-53049163",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=53049163&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-53049163&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness and Comfort:Rooms are consistently described as clean, spacious, and well-maintained, with modern facilities .(based on 46 reviews) Natural Environment:Surrounded by mountains, bamboo forests, and quiet scenery, offering a peaceful retreat. Hospitality:Hosts are praised for being warm, welcoming, and attentive, often providing personalized care .(based on 28 reviews) Culinary Experience:Meals are highlighted as delicious and fresh, featuring local specialties like bamboo shoots and lotus leaf dishes. Family-Friendly Features:Spacious rooms accommodate families, with amenities like swimming pools, game consoles, and pet-friendly environments .(based on 11 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness and Comfort",
+        "text": "Rooms are consistently described as clean, spacious, and well-maintained, with modern facilities .",
+        "count": 46
+      },
+      {
+        "topic": "Natural Environment",
+        "text": "Surrounded by mountains, bamboo forests, and quiet scenery, offering a peaceful retreat. Hospitality:Hosts are praised for being warm, welcoming, and attentive, often providing personalized care .",
+        "count": 28
+      },
+      {
+        "topic": "Culinary Experience",
+        "text": "Meals are highlighted as delicious and fresh, featuring local specialties like bamboo shoots and lotus leaf dishes. Family-Friendly Features:Spacious rooms accommodate families, with amenities like swimming pools, game consoles, and pet-friendly environments .",
+        "count": 11
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 11, Xiezixu, Fangshan Village, Daixi Town, Wuxing District, Huzhou, Zhejiang, China",
+  "priceRange": "From US$93",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Billiards room",
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/53049163/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3d12000eql1ywuDD89.jpg"
+    },
+    {
+      "src": "/images/stays/53049163/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0581p12000sp8bt0oF764.webp"
+    },
+    {
+      "src": "/images/stays/53049163/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0583312000sp8ry4oBDB6.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Very good B&B, very clean, beautifully decorated, surrounded by mountains, very good air, the proprietress is very welcoming, breakfast is delicious, the two cats at home are very cute, the children like them very much, I will go again in...",
+      "author": "Guest User",
+      "date": "2024-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=53049163&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-53049163&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The landlord is very welcoming. There is a parking lot next to it, which is convenient for parking. The food at the landlord's house is good, especially the pickles for breakfast. There are many kinds and they are delicious. I...",
+      "author": "Dukugongludeyilishachen",
+      "date": "2024-04-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=53049163&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-53049163&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room is very clean and the environment is very good. The boss is a good cook and took us to the back mountain to dig bamboo shoots! The kittens in the store are super cute",
+      "author": "Guest User",
+      "date": "2024-04-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=53049163&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-53049163&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 7.6,
+    "count": 84,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:47:13.769Z",
+  "source": "trip"
+}

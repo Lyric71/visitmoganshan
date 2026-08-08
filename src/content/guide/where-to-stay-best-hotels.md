@@ -25,7 +25,7 @@ Every ranked list of Moganshan hotels was written by someone who has not stayed 
 
 Nobody on this site has spent a night in a Moganshan hotel either. The difference is that we say so, and score nothing.
 
-Which invites a fair objection: why read this instead of the ranking? Because the ranking answers a question the mountain does not have. Search "Moganshan hotels" and almost none of the results are hotels. They are minsu (民宿), small guesthouses, roughly 80 percent individually owned. Twelve properties carry a hotel name, all on our [hotels page](/where-to-stay/hotels/). The rest is about 1,000 houses and some 10,000 beds. A top ten is ten names out of a thousand, sorted by a system nobody has audited.
+Which invites a fair objection: why read this instead of the ranking? Because the ranking answers a question the mountain does not have. Search "Moganshan hotels" and almost none of the results are hotels. They are minsu (民宿), small guesthouses, roughly 80 percent individually owned. Twelve properties carry a hotel name, all on our [hotels page](/where-to-stay/hotels-explained/). The rest is about 1,000 houses and some 10,000 beds. A top ten is ten names out of a thousand, sorted by a system nobody has audited.
 
 For the record, this site sells no sponsored listings or featured placements, and nobody has been offered one.
 
@@ -48,7 +48,7 @@ Mostly it comes down to dinner. Chinese reporting keeps landing on the same gap:
 
 > Village profiles and guesthouse counts, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-Road times between villages are not in our research, so this page does not print them. `TODO: verify village-to-village road times.`
+Road times between villages are not in our research, so this page does not print them. `Not confirmed: village-to-village road times.`
 
 ## Two: inside or outside the scenic area
 
@@ -151,6 +151,6 @@ One thing. Stays we book and pay for ourselves, written up afterward with dates.
 
 A real list would rank on what a guest can test. Whether dinner was available, whether the transfer worked, whether a foreign passport got registered without a phone call. Booking pages carry none of that.
 
-The work is slow and costs money, and no press rate goes into it, because this site takes none. The schedule is not fixed. `TODO: verify first-stay schedule.` Until then the five variables are the honest shortlist, and [where to stay](/where-to-stay/) covers the same ground at length.
+The work is slow and costs money, and no press rate goes into it, because this site takes none. The schedule is not fixed. `Not confirmed: first-stay schedule.` Until then the five variables are the honest shortlist, and [where to stay](/where-to-stay/) covers the same ground at length.
 
 *Rates, occupancy and key counts stand as at 6 August 2026. Prices swing between weekday and weekend, so check your night.*

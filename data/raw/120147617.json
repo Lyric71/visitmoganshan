@@ -1,0 +1,87 @@
+{
+  "id": 120147617,
+  "name": "Manyuan · Mogan Mountain J. Lalli Valley Holiday Villa (Moganshan Yucun Scenic Area Branch)",
+  "seedName": "Manyuan · Mogan Mountain J. Lalli Valley Holiday Villa (Moganshan Yucun Scenic Area Branch)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-120147617",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=120147617&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-120147617&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:The villa is surrounded by mountains and greenery, quiet and peaceful, located in the mountains or on the top of the mountain with beautiful scenery. It is surrounded by forests and has a fresh and pleasant environment.(based on 66 reviews) Facilities:The space is spacious, the facilities are complete, with kitchens, washing machines and other equipment. Each room is well-equipped.(based on 37 reviews) Service:Pick-up and drop-off are timely, the housekeeper responds quickly, and needs can be solved in time. The staff are welcoming and helpful.(based on 319 reviews) Location:There are shuttle buses for pick-up and drop-off, which is convenient to reach. It is close to scenic spots and has a high cost performance.(based on 89 reviews) Guest Suggestion:Some customers suggest issues such as musty smell in rooms, inconvenient transportation needing shuttle service, and poor hygiene with insects and untidy conditions(based on 6 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "The villa is surrounded by mountains and greenery, quiet and peaceful, located in the mountains or on the top of the mountain with beautiful scenery. It is surrounded by forests and has a fresh and pleasant environment.",
+        "count": 66
+      },
+      {
+        "topic": "Facilities",
+        "text": "The space is spacious, the facilities are complete, with kitchens, washing machines and other equipment. Each room is well-equipped.",
+        "count": 37
+      },
+      {
+        "topic": "Service",
+        "text": "Pick-up and drop-off are timely, the housekeeper responds quickly, and needs can be solved in time. The staff are welcoming and helpful.",
+        "count": 319
+      },
+      {
+        "topic": "Location",
+        "text": "There are shuttle buses for pick-up and drop-off, which is convenient to reach. It is close to scenic spots and has a high cost performance.",
+        "count": 89
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest issues such as musty smell in rooms, inconvenient transportation needing shuttle service, and poor hygiene with insects and untidy conditions",
+      "count": 6
+    }
+  },
+  "address": "Room 102, Building 89, Jun'anli Villa Area, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$90",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/120147617/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2p12000ej2o6du4601.jpg"
+    },
+    {
+      "src": "/images/stays/120147617/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4512000t5phhocAC97.webp"
+    },
+    {
+      "src": "/images/stays/120147617/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5f12000ej2nlncBBF6.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The hotel setting is fantastic, nestled within a vast tea plantation and bamboo forest. They offer a complimentary shuttle service that's available on demand. The room is a two-story unit with a total of three bedrooms, accommodating up to ten...",
+      "author": "Suosuoqunaer",
+      "date": "2026-07-19",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=120147617&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-120147617&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Traveling with friends, we booked a detached villa and it was so comfortable that we extended our stay for an extra day. The queen bed had a really soft mattress, the views were fantastic, all the facilities were complete, and...",
+      "author": "Guest User",
+      "date": "2026-08-06",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=120147617&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-120147617&trip_sub3=D19127628"
+    },
+    {
+      "quote": "1. The three-bedroom villa we stayed in was a great experience. All three bedrooms had king-sized (1.8m) beds, and the rooms were clean and spacious. It was perfect for a family, allowing everyone to rest without disturbing each other, making...",
+      "author": "Xinxinbaodelvcheng",
+      "date": "2026-07-19",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=120147617&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-120147617&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 588,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:14:35.573Z",
+  "source": "trip"
+}

@@ -1,0 +1,90 @@
+{
+  "id": 97105084,
+  "name": "Moganshan Youyun Meisu Hotel (Yucun Square Branch)",
+  "seedName": "Moganshan Youyun Meisu Hotel (Yucun Square Branch)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-97105084",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=97105084&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-97105084&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Most comments emphasized proximity to Yucun Square , offering convenient access to dining, shopping, hiking trails, and nightlife.(based on 29 reviews) Room Quality:Cleanliness was universally praised, with spacious layouts, dry/wet area separation, and modern or simple decor.(based on 23 reviews) Service:The hosts were described as very nice, thoughtful, and helpful, providing guidance for hiking or cycling, parking assistance, and delivering umbrellas during rain.(based on 40 reviews) Facilities:Complete amenities , parking availability, and some properties offered additional services like discounted ticket bookings or a games room.(based on 11 reviews) Guest Suggestion:Some customers suggest improving noise management during renovations, ensuring proper maintenance of safety equipment, and enhancing staff service attitude.(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Most comments emphasized proximity to Yucun Square , offering convenient access to dining, shopping, hiking trails, and nightlife.",
+        "count": 29
+      },
+      {
+        "topic": "Room Quality",
+        "text": "Cleanliness was universally praised, with spacious layouts, dry/wet area separation, and modern or simple decor.",
+        "count": 23
+      },
+      {
+        "topic": "Service",
+        "text": "The hosts were described as very nice, thoughtful, and helpful, providing guidance for hiking or cycling, parking assistance, and delivering umbrellas during rain.",
+        "count": 40
+      },
+      {
+        "topic": "Facilities",
+        "text": "Complete amenities , parking availability, and some properties offered additional services like discounted ticket bookings or a games room.",
+        "count": 11
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving noise management during renovations, ensuring proper maintenance of safety equipment, and enhancing staff service attitude.",
+      "count": 3
+    }
+  },
+  "address": "No. 56 Huangfu West Road, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$51",
+  "facilities": [
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/97105084/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0202d120009pm5w4aA706.jpg"
+    },
+    {
+      "src": "/images/stays/97105084/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0204n120009pm39h81458.webp"
+    },
+    {
+      "src": "/images/stays/97105084/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1j12000belu9kgB510.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Stayed here one night prior to attending to UTMB Moganshan. This hotel is literally on the starting line. Very kind local owners/emoloyees of the hotel. Basic amenities, but didn’t need more. A bed, and bathroom was all I needed.",
+      "author": "Guest User",
+      "date": "2026-04-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=97105084&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-97105084&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Wonderful location, had just been taken over so processes were being implemented. Super helpful, lovely people.",
+      "author": "Matt_U",
+      "date": "2025-02-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=97105084&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-97105084&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The location is good; the guesthouse is right across from Yucun Square and just over 100 meters from the popular restaurant, Goldfish Mama. The owner was very welcoming and, knowing we were going to Moganshan in the morning, drove us...",
+      "author": "Anonymous User",
+      "date": "2025-05-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=97105084&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-97105084&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.1,
+    "count": 81,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:27:12.697Z",
+  "source": "trip"
+}

@@ -1,0 +1,84 @@
+{
+  "id": 51591655,
+  "name": "Floral Hotel·Moganshan qishantianyu Hotel",
+  "seedName": "Floral Hotel·Moganshan qishantianyu Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-51591655",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=51591655&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-51591655&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Facilities:Includes a clean mountain spring-fed swimming pool, children’s play areas , and outdoor spaces for stargazing.(based on 7 reviews) Cleanliness:Rooms and common areas are consistently described as clean, tidy, and well-maintained.(based on 12 reviews) Hospitality:Hosts are repeatedly praised for their warmth, personalized recommendations for local activities, and willingness to assist guests .(based on 22 reviews) Family-Friendly Features:Offers homemade breakfast , child-friendly meals, and a welcoming atmosphere for families. Ambiance:Quiet, natural surroundings with fresh air, traditional Chinese-style decor, and a peaceful, scenic setting.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Facilities",
+        "text": "Includes a clean mountain spring-fed swimming pool, children’s play areas , and outdoor spaces for stargazing.",
+        "count": 7
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms and common areas are consistently described as clean, tidy, and well-maintained.",
+        "count": 12
+      },
+      {
+        "topic": "Hospitality",
+        "text": "Hosts are repeatedly praised for their warmth, personalized recommendations for local activities, and willingness to assist guests .",
+        "count": 22
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 36, Shangxiazhuang, Lanshukeng Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$71",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Water park",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/51591655/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0512000futjimz5501.jpg"
+    },
+    {
+      "src": "/images/stays/51591655/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201h120008wtgxe713E0.webp"
+    },
+    {
+      "src": "/images/stays/51591655/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0226y12000a81hspq1B46.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "老闆娘跟老闆超級熱情，一見面就幫我們提行李，還送了我們水果，房間也超我們預期，愛了愛了，因我們是第一次來莫干山遊玩，老闆娘很貼心的幫我們做了詳細的攻略，早飯也很豐盛，周邊環境就更加不用説了，青山綠水環繞，退房回家，老闆娘還貼心的送了土特產給我們😍，住民宿這麼久以來，碰到這麼好的老闆娘，也是旅途中的一種幸運，下次再來莫干山，這家店是唯一的選擇",
+      "author": "Guest User",
+      "date": "2026-05-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=51591655&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-51591655&trip_sub3=D19127628"
+    },
+    {
+      "quote": "老闆娘跟老闆超級熱情，一見面就幫我們提行李，還送了我們水果，房間也超我們預期，愛了愛了，因我們是第一次來莫干山遊玩，老闆娘很貼心的幫我們做了詳細的攻略，早飯也很豐盛，周邊環境就更加不用説了，青山綠水環繞，退房回家，老闆娘還貼心的送了土特產給我們😍，住民宿這麼久以來，碰到這麼好的老闆娘，也是旅途中的一種幸運，下次再來莫干山，這家店是唯一的選擇",
+      "author": "Guest User",
+      "date": "2026-05-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=51591655&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-51591655&trip_sub3=D19127628"
+    },
+    {
+      "quote": "這趟出遊，因為這家民宿變得超級美好。整座房子是實木內飾，傢俱也是實木的，一進門就是很舒服的原木香，像是一種香樟氣味。民宿就在山腳下，坐在堂屋吃飯都可以欣賞莫干山的青山綠野。離螢火蟲基地就幾分鐘步行。因為下雨怕我們危險，老闆親自帶路去的。夜晚的螢火蟲很震撼，終身難忘的畫面！老闆夫婦又勤快又周到，早飯都是夫婦倆親手給我們做的，人非常健談，走的時候還送了我們自家做的筍乾，太感動了，以後還會再來",
+      "author": "Liumeiyangzhiyu",
+      "date": "2025-08-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=51591655&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-51591655&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 38,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:44:25.737Z",
+  "source": "trip"
+}

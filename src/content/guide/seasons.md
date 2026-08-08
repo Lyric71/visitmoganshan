@@ -87,7 +87,7 @@ The crowd shape is lopsided. The first week of October is National Day, the hard
 
 Winter usually gets softened elsewhere. January averages 1.4 °C. One source puts it nearer 3.5 °C, so call it close to freezing and pack for the colder figure.
 
-The villages go quiet. Restaurants and sites cut their hours or shut for the season, and there is no evening economy here even in August, no night market and little late food. In January that is hard to miss. We have no confirmed list of what shuts, so ask your guesthouse before counting on anything. TODO: verify winter closures.
+The villages go quiet. Restaurants and sites cut their hours or shut for the season, and there is no evening economy here even in August, no night market and little late food. In January that is hard to miss. We have no confirmed list of what shuts, so ask your guesthouse before counting on anything. Not confirmed: winter closures.
 
 Daylight is the constraint people miss. Private cars cannot drive inside the scenic area, so you transfer at Yucun, Fatou or Houwu between 08:00 and 18:00. In December the light gives out well before the gate does.
 

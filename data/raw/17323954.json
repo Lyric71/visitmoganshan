@@ -1,0 +1,78 @@
+{
+  "id": 17323954,
+  "name": "Van Gou Moganshan French Manor Private Soup Homestay",
+  "seedName": "Van Gou Moganshan French Manor Private Soup Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-17323954",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=17323954&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-17323954&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment and Location:Nestled at Moganshan's foot, surrounded by lush greenery, offering a peaceful setting with stunning views.(based on 17 reviews) Service Quality:Warm and attentive service, with staff providing a personal touch akin to visiting a friend's home.(based on 96 reviews) Food and Dining:Delicious meals with a variety of Western and Chinese options, leaving a lasting impression. Facilities and Cleanliness:Noted for cleanliness and luxurious amenities, blending European and French styles.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment and Location",
+        "text": "Nestled at Moganshan's foot, surrounded by lush greenery, offering a peaceful setting with stunning views.",
+        "count": 17
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Warm and attentive service, with staff providing a personal touch akin to visiting a friend's home.",
+        "count": 96
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Building 19, Mengxihu Villa, Wusi Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$125",
+  "facilities": [
+    "Gym",
+    "Bar",
+    "Restaurant",
+    "Cafe"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/17323954/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6012000c7achxbD029.jpg"
+    },
+    {
+      "src": "/images/stays/17323954/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3412000d8rhlqo440F.webp"
+    },
+    {
+      "src": "/images/stays/17323954/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200m160000010v638AD3D.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "We checked in on Saturday and checked out on Sunday. Since Moganshan is in the off-season, the lovely lady at the front desk upgraded our room and allowed us a late checkout until 2 PM on the day we left....",
+      "author": "sylvia_wen🌫",
+      "date": "2025-12-14",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=17323954&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-17323954&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Thanks to Van Gogh for leaving a perfect chapter on our trip to Moganshan. As soon as I stepped into this place, I knew I was right. Van Gogh has a large lawn, where you can enjoy the comfort of...",
+      "author": "Mengxiangyoubianquanshijieoye",
+      "date": "2025-04-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=17323954&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-17323954&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Мы выбрали этот отель по отзывам — и не ошиблись. Он расположен в прекрасном месте: на склоне холма, откуда открывается отличный вид из окна. Атмосфера в отеле очень уютная, располагающая к отдыху. Интерьер продуман и обставлен со вкусом. Порадовала чистота...",
+      "author": "Guest User",
+      "date": "2026-07-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=17323954&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-17323954&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 216,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:48:19.049Z",
+  "source": "trip"
+}

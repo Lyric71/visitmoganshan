@@ -1,0 +1,82 @@
+{
+  "id": 7489908,
+  "name": "Lizhu Inn",
+  "seedName": "Lizhu Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-7489908",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=7489908&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-7489908&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment and Location:Surrounded by beautiful scenery, with excellent location. Close to various attractions in Moganshan, such as the town and Cave Coffee. The courtyard is large, and the environment is quiet and peaceful with mountains visible upon opening the door.(based on 6 reviews) Facilities:Large parking lot, convenient parking, free charging piles. Rooms have liked layout, complete facilities, high-quality bathroom supplies, clean and tidy rooms with no mosquitoes and good sound insulation.(based on 11 reviews) Service:The boss is enthusiastic, introduces Moganshan stories, helps with taking photos, provides free charging piles, and allows self-picking and processing of surrounding vegetables.(based on 21 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment and Location",
+        "text": "Surrounded by beautiful scenery, with excellent location. Close to various attractions in Moganshan, such as the town and Cave Coffee. The courtyard is large, and the environment is quiet and peaceful with mountains visible upon opening the door.",
+        "count": 6
+      },
+      {
+        "topic": "Facilities",
+        "text": "Large parking lot, convenient parking, free charging piles. Rooms have liked layout, complete facilities, high-quality bathroom supplies, clean and tidy rooms with no mosquitoes and good sound insulation.",
+        "count": 11
+      },
+      {
+        "topic": "Service",
+        "text": "The boss is enthusiastic, introduces Moganshan stories, helps with taking photos, provides free charging piles, and allows self-picking and processing of surrounding vegetables.",
+        "count": 21
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 13, Shuiwuli, He Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$43",
+  "facilities": [
+    "Tea room",
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/7489908/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02009120008t3zjhmCDC6.jpg"
+    },
+    {
+      "src": "/images/stays/7489908/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200m13000000uqt2k0A81.webp"
+    },
+    {
+      "src": "/images/stays/7489908/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201v12000ryt6e8k96F3.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "湖州旅行中最滿意的住宿，比開元森泊還喜歡這裏！客棧老闆實在是太好了！熱情周到！送了咖啡券，還告訴我們挖筍遊玩的地方！我的手機不慎掉到客棧下面草叢，還排出萬難幫忙去撿。客棧還提供一次性浴缸罩及各種必備住店用品，熱水也非常舒服！環境非常安逸～ 後山挖筍摘野草莓，旁邊遊玩的雲在何處茶莊和礦洞咖啡可以玩，晚上老闆還推薦了附近小鎮，小鎮也非常值得去！ 客棧圖片也和實際房間完全一致。總之特別推薦！",
+      "author": "Guest User",
+      "date": "2026-05-11",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=7489908&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-7489908&trip_sub3=D19127628"
+    },
+    {
+      "quote": "本來總覺得民宿照片總歸比實物好看，這樣才能吸引遊客吧，結果到了那兒才發現實景完全一樣，絕對超我心中預期！ 坐在弔籃裏看着遠處的高山，我可以坐一下午！老闆幫我們提前備好燒烤架，我們坐在亭子裏悠閑的備料聊天吃吃燒烤，美哉美哉！ 閑來無事坐在茶台前跟老闆和老闆娘飲茶，得知這裏居然還是《十二道鋒》第一季中的取景點，可想這裏的風景有多美了！有住客可以使用的廚房，買來當地食材自己下廚也別有一份風味，如果不想下廚也可以提前通知老闆訂餐，很是方便！ 清明兩天雖然滿房，但整個民宿都很安靜，完全沒有影響，很適合牛馬們舒緩緊張的壓力！",
+      "author": "Guest User",
+      "date": "2026-04-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=7489908&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-7489908&trip_sub3=D19127628"
+    },
+    {
+      "quote": "湖州旅行中最滿意的住宿，比開元森泊還喜歡這裏！客棧老闆實在是太好了！熱情周到！送了咖啡券，還告訴我們挖筍遊玩的地方！我的手機不慎掉到客棧下面草叢，還排出萬難幫忙去撿。客棧還提供一次性浴缸罩及各種必備住店用品，熱水也非常舒服！環境非常安逸～ 後山挖筍摘野草莓，旁邊遊玩的雲在何處茶莊和礦洞咖啡可以玩，晚上老闆還推薦了附近小鎮，小鎮也非常值得去！ 客棧圖片也和實際房間完全一致。總之特別推薦！",
+      "author": "Guest User",
+      "date": "2026-05-11",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=7489908&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-7489908&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 42,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:41:21.196Z",
+  "source": "trip"
+}

@@ -1,0 +1,100 @@
+{
+  "id": 40335660,
+  "name": "A glance·Moganshan Design Aesthetics Holiday Homestay",
+  "seedName": "A glance·Moganshan Design Aesthetics Holiday Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-40335660",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=40335660&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-40335660&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Spacious and comfortable rooms:Multiple reviews highlighted large rooms, big beds, and clean facilities .(based on 32 reviews) Scenic views:Most praised the mountain, bamboo forest, and infinity pool vistas .(based on 4 reviews) Cleanliness:Frequent mentions of tidy rooms, clean bathrooms, and well-maintained public areas .(based on 16 reviews) Excellent service:Positive feedback on attentive staff, early check-in, and helpful local guides .(based on 18 reviews) Photogenic features:Highlighted outdoor areas with hammocks, bird nests, and infinity pools ideal for photography .(based on 4 reviews) Convenient location:Proximity to attractions like Yu Village, Biwu Longtan, and Shibadaowan Rafting .(based on 10 reviews) Guest Suggestion:Some customers suggest improving service quality , addressing room facilities , and enhancing overall comfort .(based on 6 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Spacious and comfortable rooms",
+        "text": "Multiple reviews highlighted large rooms, big beds, and clean facilities .",
+        "count": 32
+      },
+      {
+        "topic": "Scenic views",
+        "text": "Most praised the mountain, bamboo forest, and infinity pool vistas .",
+        "count": 4
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Frequent mentions of tidy rooms, clean bathrooms, and well-maintained public areas .",
+        "count": 16
+      },
+      {
+        "topic": "Excellent service",
+        "text": "Positive feedback on attentive staff, early check-in, and helpful local guides .",
+        "count": 18
+      },
+      {
+        "topic": "Photogenic features",
+        "text": "Highlighted outdoor areas with hammocks, bird nests, and infinity pools ideal for photography .",
+        "count": 4
+      },
+      {
+        "topic": "Convenient location",
+        "text": "Proximity to attractions like Yu Village, Biwu Longtan, and Shibadaowan Rafting .",
+        "count": 10
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving service quality , addressing room facilities , and enhancing overall comfort .",
+      "count": 6
+    }
+  },
+  "address": "Feijiayuan, Xiantan Village, Deqing, Zhejiang, China",
+  "priceRange": "From US$96",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/40335660/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4912000ew4r7buBDFE.jpg"
+    },
+    {
+      "src": "/images/stays/40335660/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0g12000eu88e8m0D9B.webp"
+    },
+    {
+      "src": "/images/stays/40335660/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3912000eu8742lF692.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "It's misty, like a fairyland. After being washed by the rain, it looks greener. It's beautiful. Looking at this scenery, I feel that my whole person has been purified. The room facilities are also very good. The front desk butler...",
+      "author": "Guest User",
+      "date": "2024-06-25",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=40335660&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-40335660&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The view from the balcony was great, the bed was big, very clean, and the stay was very comfortable. Overall satisfied.",
+      "author": "Guest User",
+      "date": "2024-07-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=40335660&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-40335660&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room and bed are large. It's very comfortable to live in. The room is clean and the service attitude is very good. I will recommend it to friends.",
+      "author": "Guest User",
+      "date": "2024-06-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=40335660&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-40335660&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.9,
+    "count": 71,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:30:25.503Z",
+  "source": "trip"
+}

@@ -1,0 +1,95 @@
+{
+  "id": 129015188,
+  "name": "Yidu · Moganshan YIDU Designer Ins Style Garden Boutique Stay (Yucun Square)",
+  "seedName": "Yidu · Moganshan YIDU Designer Ins Style Garden Boutique Stay (Yucun Square)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-129015188",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=129015188&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-129015188&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment and Location:Located in Yucun, Moganshan, surrounded by mountain views and bamboo forests, close to scenic spots and markets, with convenient transportation.(based on 30 reviews) Facilities:Equipped with swimming pools, trampolines and other entertainment facilities, facilities are new and intelligent, and the design is novel and modern.(based on 17 reviews) Hygiene:Rooms are clean, the environment is tidy, and the air is fresh.(based on 1 review) Service:The owner is enthusiastic, provides delicious breakfast, and is responsive throughout the stay.(based on 10 reviews) Design:The homestay has a novel, simple, and fashionable design.(based on 9 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment and Location",
+        "text": "Located in Yucun, Moganshan, surrounded by mountain views and bamboo forests, close to scenic spots and markets, with convenient transportation.",
+        "count": 30
+      },
+      {
+        "topic": "Facilities",
+        "text": "Equipped with swimming pools, trampolines and other entertainment facilities, facilities are new and intelligent, and the design is novel and modern.",
+        "count": 17
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Rooms are clean, the environment is tidy, and the air is fresh.",
+        "count": 1
+      },
+      {
+        "topic": "Service",
+        "text": "The owner is enthusiastic, provides delicious breakfast, and is responsive throughout the stay.",
+        "count": 10
+      },
+      {
+        "topic": "Design",
+        "text": "The homestay has a novel, simple, and fashionable design.",
+        "count": 9
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 198 Yuxin North Street, Liaoyuan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$100",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Tea room",
+    "Cardroom",
+    "Cafe",
+    "Karaoke",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/129015188/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2d12000l8wjyw0BD71.jpg"
+    },
+    {
+      "src": "/images/stays/129015188/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3k12000l8vm81w1AFC.webp"
+    },
+    {
+      "src": "/images/stays/129015188/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5612000l8w1ubpC070.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "A hidden gem of a B&B nestled amidst the bamboo forests of Moganshan. The rooms are clean and bright, with stunning views of the green mountains right outside the window. The owner is incredibly warm and thoughtful, helping us plan...",
+      "author": "Guest User",
+      "date": "2026-07-05",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=129015188&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-129015188&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Wonderful stay and delicious local breakfast. The hosts are very friendly.",
+      "author": "Guest User",
+      "date": "2026-06-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=129015188&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-129015188&trip_sub3=D19127628"
+    },
+    {
+      "quote": "A very warm guesthouse in Moganshan, the owner's service is incredibly heartwarming. The room is spacious and bright, and the floor-to-ceiling windows offer a beautiful view.",
+      "author": "Mu jin",
+      "date": "2026-04-16",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=129015188&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-129015188&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 74,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:09:49.762Z",
+  "source": "trip"
+}

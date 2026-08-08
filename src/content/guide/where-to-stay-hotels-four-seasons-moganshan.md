@@ -38,7 +38,7 @@ That is the whole of it. The rest is missing because it was never announced:
 - room types, rates and the restaurant or spa plan
 - the architect, a construction start or a month within 2030
 
-`TODO: verify all of those.` A page describing the bathrooms of a building nobody has poured concrete for would be fiction.
+`None of those is confirmed.` A page describing the bathrooms of a building nobody has poured concrete for would be fiction.
 
 Ninety keys is small. The other names show how small:
 
@@ -60,7 +60,7 @@ The announcement describes the project as "Moganshan's first international luxur
 
 Read the end of that sentence. It does not claim to be Moganshan's first international luxury resort. Foreign founders have run resort properties here since 2007, and guesthouse investors come from 18 countries, so that claim would be argued with here. What the wording claims is the hot springs.
 
-Which we cannot check. Nothing in it describes a natural hot spring at Moganshan beyond that one sentence, and none is recorded as open today. Do not book a trip for the water. `TODO: verify the source, and whether the water is on the site.` The [hot springs page](/moganshan/hot-springs/) stays thin until then.
+Which we cannot check. Nothing in it describes a natural hot spring at Moganshan beyond that one sentence, and none is recorded as open today. Do not book a trip for the water. `Not confirmed: the source, and whether the water is on the site.` The [hot springs page](/moganshan/hot-springs/) stays thin until then.
 
 ## Yu Village, and which village that actually is
 
@@ -68,11 +68,11 @@ Then there is the address. The site is given as Yu Village. The main village at 
 
 ![A broad green valley with terraced fields and scattered buildings below forested ridges](/images/guide/where-to-stay-hotels-four-seasons-moganshan-2.webp 'The site sits in a valley on the mountain’s flank, not up among the old stone villas.')
 
-There is a second trap in that name: Anji County has its own Yucun (余村), different characters and county, and the two get mixed up. `TODO: verify which village the site sits in.` Treat the names as separate until then. The [villages guide](/moganshan/villages/) covers each one.
+There is a second trap in that name: Anji County has its own Yucun (余村), different characters and county, and the two get mixed up. `Not confirmed: which village the site sits in.` Treat the names as separate until then. The [villages guide](/moganshan/villages/) covers each one.
 
 ## Why the announcement matters more than the building will
 
-Names aside, take the brand off and look at who signed. A global luxury operator picked this mountain. The other side of the deal is not a private developer: Zhejiang Shangyin Cultural Tourism Development Co. sits under the Deqing County Cultural and Tourism Development Group, the county government's own development group. `TODO: verify the exact ownership chain.` The county put its own company behind a Four Seasons.
+Names aside, take the brand off and look at who signed. A global luxury operator picked this mountain. The other side of the deal is not a private developer: Zhejiang Shangyin Cultural Tourism Development Co. sits under the Deqing County Cultural and Tourism Development Group, the county government's own development group. `Not confirmed: the exact ownership chain.` The county put its own company behind a Four Seasons.
 
 ![A plain unmarked construction hoarding around an empty rural site below bamboo hills](/images/guide/where-to-stay-hotels-four-seasons-moganshan-3.webp 'Nothing has been built. What the announcement did was tell the rest of the market this mountain is worth 2030 money.')
 
@@ -119,6 +119,6 @@ Booking one is mostly a calendar problem, plus one rule about arrival time.
 | Half board, meaning a rate that includes breakfast and dinner | These villages have no evening economy, so your property is your restaurant |
 | Getting in before 18:00 | Private cars cannot enter the scenic area, and the transfer centers at Yucun, Fatou and Houwu work 08:00 to 18:00 |
 
-[Where to stay](/where-to-stay/) sorts the mountain by village and price band, [hotels](/where-to-stay/hotels/) covers what runs as a hotel, and [luxury](/where-to-stay/luxury/) the top end.
+[Where to stay](/where-to-stay/) sorts the mountain by village and price band, [hotels](/where-to-stay/hotels-explained/) covers what runs as a hotel, and [luxury](/where-to-stay/luxury/) the top end.
 
 *Checked 5 August 2026, when the announcement still stood as made on 12 September 2025. Four things would change this page, none of them yet: a construction start, a real opening date, hot spring detail, proof Yu Village is Yucun.*

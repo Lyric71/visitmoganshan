@@ -1,0 +1,71 @@
+{
+  "id": 6124051,
+  "name": "Limpid Mogan",
+  "seedName": "Limpid Mogan",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-6124051",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6124051&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6124051&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness & Maintenance:Rooms and common areas are consistently praised for their cleanliness and upkeep. The swimming pool maintains clear water, and overall maintenance of facilities ensures a pleasant stay without significant wear or neglect.(based on 13 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Maintenance",
+        "text": "Rooms and common areas are consistently praised for their cleanliness and upkeep. The swimming pool maintains clear water, and overall maintenance of facilities ensures a pleasant stay without significant wear or neglect.",
+        "count": 13
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Biwu, Xiantan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$97",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/6124051/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3u12000l09744q1CA3.jpg"
+    },
+    {
+      "src": "/images/stays/6124051/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200v0b000000592z8D841.webp"
+    },
+    {
+      "src": "/images/stays/6124051/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4a12000fanz6j8809F.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The B&B itself is great, and the food is healthy too. Just a heads up, definitely avoid the 'influencer' firefly spot near the entrance. Seriously, steer clear! Instead, make sure to visit the official Yunqi Firefly Water Forest.",
+      "author": "Guest User",
+      "date": "2026-07-27",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6124051&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6124051&trip_sub3=D19127628"
+    },
+    {
+      "quote": "We went on a weekend trip and stayed at this hotel and it could not have been better! Everything was great from the service to the food to the environment. The host was super accommodating and made sure we had...",
+      "author": "Guest User",
+      "date": "2025-03-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6124051&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6124051&trip_sub3=D19127628"
+    },
+    {
+      "quote": "非常滿意的民宿！風景美起床就能看到山景；位置好對面就是螢火蟲基地，第一次看到螢火蟲非常童趣，走五分鐘就有乾淨的小溪流玩水抓魚；食材好早飯晚餐都很用心味道很不錯娃們吃得讚不絕口👍愛上了大山，太治癒了～",
+      "author": "Guest User",
+      "date": "2026-08-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6124051&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6124051&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 73,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:10:14.051Z",
+  "source": "trip"
+}

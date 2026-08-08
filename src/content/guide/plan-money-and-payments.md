@@ -80,15 +80,15 @@ This is where our research runs out. BeyondBorder, which publishes this site, wo
 
 | Question | Status |
 |---|---|
-| Which card networks and issuing banks actually bind | TODO: verify |
-| What fees apply on a foreign card inside these apps | TODO: verify |
-| Whether per-transaction or annual caps apply | TODO: verify |
-| Whether a given small merchant accepts an app payment funded by a foreign card | TODO: verify |
-| Whether rural guesthouses take foreign cards at all | TODO: verify |
-| How reliable cash is in the Moganshan villages | TODO: verify |
-| Where working ATMs are near Moganshan | TODO: verify |
-| Whether the Y1 shuttle and the scenic-area transfer take cash | TODO: verify |
-| Which shops near Moganshan join the VAT refund scheme | TODO: verify |
+| Which card networks and issuing banks actually bind | Not confirmed |
+| What fees apply on a foreign card inside these apps | Not confirmed |
+| Whether per-transaction or annual caps apply | Not confirmed |
+| Whether a given small merchant accepts an app payment funded by a foreign card | Not confirmed |
+| Whether rural guesthouses take foreign cards at all | Not confirmed |
+| How reliable cash is in the Moganshan villages | Not confirmed |
+| Where working ATMs are near Moganshan | Not confirmed |
+| Whether the Y1 shuttle and the scenic-area transfer take cash | Not confirmed |
+| Which shops near Moganshan join the VAT refund scheme | Not confirmed |
 
 Nine open questions is more than a travel page usually admits to. Publishing untested answers would be worse.
 
@@ -167,4 +167,4 @@ Deqing knows how to host people. Its guesthouse sector takes over 7 million gues
 
 What we would do: get both apps working before flying and carry cash. Then ask the host how they want to be paid, in the same message that asks about the passport.
 
-*Payment rules, the hotel directive and the VAT refund thresholds stand as at 5 August 2026. Items marked TODO: verify stay open until we can confirm them.*
+*Payment rules, the hotel directive and the VAT refund thresholds stand as at 5 August 2026. Items marked as unconfirmed stay open until we can confirm them.*

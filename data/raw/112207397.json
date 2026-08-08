@@ -1,0 +1,82 @@
+{
+  "id": 112207397,
+  "name": "NA Moganshan Designer Hot Spring Homestay",
+  "seedName": "NA Moganshan Designer Hot Spring Homestay",
+  "city": "Huzhou",
+  "cityId": 86,
+  "goSlug": "moganshan-112207397",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=112207397&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-112207397&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Facilities:The facilities are modern and well-maintained, featuring high-end brands like Dyson hair dryers and Kohler toilets. Amenities include a private hot spring, swimming pool, outdoor cinema, and a variety of entertainment options such as a karaoke room and a large dining table for group gatherings.(based on 51 reviews) Design and Ambiance:The hotel boasts a strong sense of design, featuring minimalist and stylish decor that blends well with the natural surroundings. The spacious villas with large French windows offer stunning views and are perfect for relaxation and photography.(based on 77 reviews) Guest Suggestion: Some customers suggest the rooms may not match photos, hygiene conditions need improvement, and high-end rooms lack smart toilets.(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Facilities",
+        "text": "The facilities are modern and well-maintained, featuring high-end brands like Dyson hair dryers and Kohler toilets. Amenities include a private hot spring, swimming pool, outdoor cinema, and a variety of entertainment options such as a karaoke room and a large dining table for group gatherings.",
+        "count": 51
+      },
+      {
+        "topic": "Design and Ambiance",
+        "text": "The hotel boasts a strong sense of design, featuring minimalist and stylish decor that blends well with the natural surroundings. The spacious villas with large French windows offer stunning views and are perfect for relaxation and photography.",
+        "count": 77
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest the rooms may not match photos, hygiene conditions need improvement, and high-end rooms lack smart toilets.",
+      "count": 2
+    }
+  },
+  "address": "No. 93, Fangshan Village, Xiaoyu Line, Daixi Town, Wuxing District, Huzhou, Zhejiang, China",
+  "priceRange": "From US$153",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Executive lounge",
+    "Bar",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/112207397/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0f12000c10exua1826.jpg"
+    },
+    {
+      "src": "/images/stays/112207397/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6g12000h6zeiuz4CC2.webp"
+    },
+    {
+      "src": "/images/stays/112207397/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5t12000h6zep910B5F.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "A homestay in Moganshan Scenic Area, full of surprises. Comfortable space, quiet atmosphere, single-family villa full of design sense, large French windows open to the eyes full of green, all kinds of details reflect the owner's love for life. A...",
+      "author": "Guest User",
+      "date": "2025-06-30",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=112207397&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-112207397&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Environment: The decoration is beautiful, and it can be seen that it has been carefully designed. It matches the surrounding natural environment very well. Hygiene: It is very clean. The disposable items prepared by the boss are also sufficient and...",
+      "author": "Guest User",
+      "date": "2025-05-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=112207397&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-112207397&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I took advantage of the May Day holiday to visit Moganshan. I booked this B&B in advance. The room facilities are complete, the toiletries are high-end brands, the quilts are very comfortable, and the outdoor movie is leisurely. I will...",
+      "author": "Jianixiaojiejie",
+      "date": "2025-05-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=112207397&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-112207397&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 231,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:02:25.844Z",
+  "source": "trip"
+}

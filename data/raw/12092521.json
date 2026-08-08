@@ -8,6 +8,26 @@
   "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=12092521&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-12092521&trip_sub3=D19127628",
   "sourceDescription": "",
   "aiSummary": "Review summary Powered by AI Environment:Nestled in bamboo forests or near streams, offering fresh air, stunning views, and a relaxing atmosphere. Surrounded by natural scenery like mountains and bamboo, providing a tranquil environment.(based on 88 reviews) Service Quality:Owners/Staff are warm, attentive, and friendly, offering helpful recommendations and meeting various needs.(based on 164 reviews) Facilities:Rooms and lobbies have fantastic designs, some with unique mountain or natural element features, and common areas are pleasant for relaxation.(based on 124 reviews) Pet-Friendly:Provided with dog treats, food, and pet-friendly spaces, suitable for traveling with pets",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Nestled in bamboo forests or near streams, offering fresh air, stunning views, and a relaxing atmosphere. Surrounded by natural scenery like mountains and bamboo, providing a tranquil environment.",
+        "count": 88
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Owners/Staff are warm, attentive, and friendly, offering helpful recommendations and meeting various needs.",
+        "count": 164
+      },
+      {
+        "topic": "Facilities",
+        "text": "Rooms and lobbies have fantastic designs, some with unique mountain or natural element features, and common areas are pleasant for relaxation.",
+        "count": 124
+      }
+    ],
+    "suggestion": null
+  },
   "address": "Ganmiaowu, Miaoqian Village, Fatou Township, Deqing, Zhejiang, China",
   "priceRange": "From US$97",
   "facilities": [
@@ -26,18 +46,6 @@
     {
       "src": "/images/stays/12092521/3.webp",
       "sourceUrl": "https://ak-d.tripcdn.com/images/02060120008rs2bkkF6D7.webp"
-    },
-    {
-      "src": "/images/stays/12092521/4.webp",
-      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD5c120009f2y47204AD.webp"
-    },
-    {
-      "src": "/images/stays/12092521/5.webp",
-      "sourceUrl": "https://ak-d.tripcdn.com/images/0206a120008ii8dyd6AC4.webp"
-    },
-    {
-      "src": "/images/stays/12092521/6.webp",
-      "sourceUrl": "https://ak-d.tripcdn.com/images/0203m120008rs2lnc3E49.webp"
     }
   ],
   "comments": [
@@ -68,6 +76,6 @@
     "count": 329,
     "scale": 10
   },
-  "sourcedAt": "2026-08-08T13:09:31.730Z",
+  "sourcedAt": "2026-08-08T13:47:13.049Z",
   "source": "trip"
 }

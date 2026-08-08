@@ -1,0 +1,86 @@
+{
+  "id": 2917240,
+  "name": "Bamboo Inn",
+  "seedName": "Bamboo Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2917240",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2917240&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2917240&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:The hotel is conveniently located near Minguo Street and Republic of China Style Street, with a 10-minute walk to the town center. It offers a quiet, clean environment with easy access to local attractions and dining options.(based on 8 reviews) Facilities:Rooms are spacious and well-maintained. The property includes a swimming pool and a large courtyard with ample parking space.(based on 2 reviews) Service:Staff, particularly the proprietors, are consistently described as warm, hospitable, and attentive. They provide personalized recommendations for local activities and address guest needs proactively, such as adjusting room temperatures.(based on 14 reviews) Environment:The surrounding area is peaceful and well-kept, with greenery and a tranquil atmosphere. The courtyard is spacious and inviting, enhancing the overall guest experience. Hygiene:Rooms are reported as clean and well-organized, with no significant issues noted in bathroom facilities or bedding quality.(based on 6 reviews) Guest Suggestion:Some customers suggest improving soundproofing, as multiple reviews mention persistent external noises (e.g., roosters) and internal disturbanc",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "The hotel is conveniently located near Minguo Street and Republic of China Style Street, with a 10-minute walk to the town center. It offers a quiet, clean environment with easy access to local attractions and dining options.",
+        "count": 8
+      },
+      {
+        "topic": "Facilities",
+        "text": "Rooms are spacious and well-maintained. The property includes a swimming pool and a large courtyard with ample parking space.",
+        "count": 2
+      },
+      {
+        "topic": "Service",
+        "text": "Staff, particularly the proprietors, are consistently described as warm, hospitable, and attentive. They provide personalized recommendations for local activities and address guest needs proactively, such as adjusting room temperatures.",
+        "count": 14
+      },
+      {
+        "topic": "Environment",
+        "text": "The surrounding area is peaceful and well-kept, with greenery and a tranquil atmosphere. The courtyard is spacious and inviting, enhancing the overall guest experience. Hygiene:Rooms are reported as clean and well-organized, with no significant issues noted in bathroom facilities or bedding quality.",
+        "count": 6
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 2 Zhuyuan Road, Liaoyuan Village, Moganshan Town, Deqing, Zhejiang, 313204, China",
+  "priceRange": "From US$39",
+  "facilities": [
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/2917240/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203d120008hlp619A060.jpg"
+    },
+    {
+      "src": "/images/stays/2917240/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20090s000000i2pse0E73.webp"
+    },
+    {
+      "src": "/images/stays/2917240/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200h0s000000i0jwg20A2.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Don't choose it, the neighbor's rooster crows all night, and the soundproofing is not good 👎",
+      "author": "Anonymous User",
+      "date": "2024-11-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2917240&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2917240&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The location is good, close to Minguo Street, the room is nice, the proprietress is very welcoming, I will patronize it next time.",
+      "author": "Zicaidashi",
+      "date": "2024-02-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2917240&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2917240&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The location and environment are very good, and the boss and his wife are very polite!",
+      "author": "Guest User",
+      "date": "2024-04-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2917240&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2917240&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 31,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:50:38.877Z",
+  "source": "trip"
+}

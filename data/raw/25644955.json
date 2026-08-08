@@ -1,0 +1,80 @@
+{
+  "id": 25644955,
+  "name": "Moganshan Habitat Fengshan Home Stay",
+  "seedName": "Moganshan Habitat Fengshan Home Stay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-25644955",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=25644955&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-25644955&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness and comfort:Rooms are spacious, well-maintained, and equipped with mountain-view windows.(based on 11 reviews) Culinary experience:Hosts prepare homemade meals with locally sourced ingredients . Family-friendly amenities:Free breakfast with diverse options , swimming pools, and guided activities like bamboo harvesting.(based on 1 review) Host hospitality:Warm and attentive service, including assistance with parking, luggage, and personalized recommendations for local attractions.(based on 11 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness and comfort",
+        "text": "Rooms are spacious, well-maintained, and equipped with mountain-view windows.",
+        "count": 11
+      },
+      {
+        "topic": "Culinary experience",
+        "text": "Hosts prepare homemade meals with locally sourced ingredients . Family-friendly amenities:Free breakfast with diverse options , swimming pools, and guided activities like bamboo harvesting.",
+        "count": 1
+      },
+      {
+        "topic": "Host hospitality",
+        "text": "Warm and attentive service, including assistance with parking, luggage, and personalized recommendations for local attractions.",
+        "count": 11
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 62, Xiwuli, Houwu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$46",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/25644955/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2h050y000000lq7ni71DD.jpg"
+    },
+    {
+      "src": "/images/stays/25644955/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200d0y000000lscicAEAC.webp"
+    },
+    {
+      "src": "/images/stays/25644955/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0586v12000soudfh38083.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "It's a bit beyond imagination. For the price, the room is big enough, very clean, and the breakfast is rich. It's a tight schedule. After climbing the mountain, it's very comfortable to have a fire around the fire in the...",
+      "author": "Guest User",
+      "date": "2024-12-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=25644955&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-25644955&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The accommodation is very good and the price is quite favorable. The owner makes breakfast himself and the sweet potatoes are grown in the mountains. A great stay!",
+      "author": "Guest User",
+      "date": "2024-12-14",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=25644955&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-25644955&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I went out to relax alone and booked this B&B online. It is very clean and affordable. There is a beautiful view outside the window. It is worth recommending.",
+      "author": "Guest User",
+      "date": "2024-12-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=25644955&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-25644955&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9,
+    "count": 22,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:59:59.545Z",
+  "source": "trip"
+}

@@ -14,6 +14,7 @@ import {
   internalLinkSlashes,
   scrollableTables,
   figures,
+  sponsoredAffiliateLinks,
 } from './src/lib/markdown.mjs';
 
 // TODO: replace with the production domain before the first deploy.
@@ -47,10 +48,29 @@ const affiliateSeed = JSON.parse(
   readFileSync(new URL('./data/seed/properties.seed.json', import.meta.url), 'utf8'),
 );
 
+/**
+ * Affiliate links that are not a property.
+ *
+ * The seed only knows about hotels. Rail is the other thing a reader books
+ * before they arrive, and the Shanghai to Deqing search is the one query almost
+ * every visitor from Shanghai runs, so it gets a slug of its own here rather
+ * than a raw tracked URL pasted into three markdown files. Same alliance and
+ * SID as the hotel links; trip_sub1 matches the Shanghai to Deqing rail banners
+ * already running on those pages, so prose clicks and banner clicks stay
+ * separable in the partner reports.
+ */
+const PARTNER_LINKS = {
+  'trains-shanghai-deqing':
+    'https://www.trip.com/trains/tt-common/ttlist?departurecitycode=CN001AOH&arrivalcitycode=CN001DRH&Allianceid=9859697&SID=327673690&trip_sub1=train-sh-dq&trip_sub3=D19143728',
+};
+
 const affiliateRedirects = Object.fromEntries(
-  affiliateSeed.map((row) => [
-    `/go/${row.goSlug}`,
-    { status: /** @type {302} */ (302), destination: row.affiliateUrl },
+  [
+    ...affiliateSeed.map((row) => [`/go/${row.goSlug}`, row.affiliateUrl]),
+    ...Object.entries(PARTNER_LINKS).map(([slug, url]) => [`/go/${slug}`, url]),
+  ].map(([path, destination]) => [
+    path,
+    { status: /** @type {302} */ (302), destination },
   ]),
 );
 
@@ -78,7 +98,7 @@ export default defineConfig({
   markdown: {
     processor: satteri({
       mdastPlugins: [stripLeadingTitle, internalLinkSlashes],
-      hastPlugins: [scrollableTables, figures],
+      hastPlugins: [scrollableTables, figures, sponsoredAffiliateLinks],
     }),
   },
 
@@ -98,9 +118,16 @@ export default defineConfig({
       // rather than a page and is disallowed in robots.txt; it should never
       // reach the sitemap, and this makes that a rule rather than a happy
       // accident of how the adapter emits redirects.
+      //
+      // /admin is the same rule and the worst case of breaking it. robots.txt
+      // disallows it, so a crawler that finds it in the sitemap is invited to a
+      // URL it is then forbidden to fetch, which is exactly how a page gets
+      // indexed as a bare URL: the noindex is inside a response nobody is
+      // allowed to read.
       filter: (page) =>
         !/\/(search(-index\.json)?|contact\/thank-you)$/.test(page.replace(/\/$/, '')) &&
-        !/\/go\//.test(page),
+        !/\/go\//.test(page) &&
+        !/\/admin(\/|$)/.test(page.replace(/\/$/, '')),
     }),
   ],
 });

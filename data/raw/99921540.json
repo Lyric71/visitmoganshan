@@ -1,0 +1,87 @@
+{
+  "id": 99921540,
+  "name": "Moganshan·Suishan TuttoBene·Infinity Party Pool·Designer Meisu",
+  "seedName": "Moganshan·Suishan TuttoBene·Infinity Party Pool·Designer Meisu",
+  "city": "Huzhou",
+  "cityId": 86,
+  "goSlug": "moganshan-99921540",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=99921540&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-99921540&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:The B&B offers a refreshing escape from the city, with proximity to Moganshan and scenic views providing a serene atmosphere. The area boasts clean air and beautiful landscapes, including mountain views.(based on 75 reviews) Service Quality:Hosts are friendly and attentive, often exceeding guest expectations. Guests praise the warm service and personalized assistance, including local travel tips.(based on 68 reviews) Facilities:The B&B features a clean swimming pool, popular with guests. Activities like KTV and billiards offer entertainment for all ages.(based on 30 reviews) Food and Dining:Guests enjoy delicious breakfasts and meals, with local cuisine and barbecues enhancing the experience. Fresh ingredients add charm.(based on 17 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "The B&B offers a refreshing escape from the city, with proximity to Moganshan and scenic views providing a serene atmosphere. The area boasts clean air and beautiful landscapes, including mountain views.",
+        "count": 75
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Hosts are friendly and attentive, often exceeding guest expectations. Guests praise the warm service and personalized assistance, including local travel tips.",
+        "count": 68
+      },
+      {
+        "topic": "Facilities",
+        "text": "The B&B features a clean swimming pool, popular with guests. Activities like KTV and billiards offer entertainment for all ages.",
+        "count": 30
+      },
+      {
+        "topic": "Food and Dining",
+        "text": "Guests enjoy delicious breakfasts and meals, with local cuisine and barbecues enhancing the experience. Fresh ingredients add charm.",
+        "count": 17
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 55 Huangnishan, Fangshan Village, Daixi Town, Wuxing District, Huzhou, Zhejiang, China",
+  "priceRange": "From US$92",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/99921540/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc7412000mzgjnad022F.jpg"
+    },
+    {
+      "src": "/images/stays/99921540/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5g12000c00bzhdCD2E.webp"
+    },
+    {
+      "src": "/images/stays/99921540/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6k12000edfk6wp583D.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Environment: The guesthouse has its own swimming pool, and the overall environment is very Instagrammable, with beautiful lighting at night! Double Herbal Bath (by reservation): Two herbal packs are provided for your bath. Service: The owner is very nice and...",
+      "author": "Guest User",
+      "date": "2026-03-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=99921540&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-99921540&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The landlady is beautiful and thoughtful. She asked about our arrival time and turned on the air conditioning in advance. The room was cozy, and when she learned it was someone's birthday, she kindly arranged longevity noodles for breakfast. Also,...",
+      "author": "Guest User",
+      "date": "2025-08-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=99921540&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-99921540&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The owner is beautiful and kind, the environment is very nice and clean, the children had a lot of fun, and the breakfast was especially plentiful. When we went, the owner was a little heatstroke, but she was still very...",
+      "author": "Guest User",
+      "date": "2025-07-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=99921540&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-99921540&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 161,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:50:03.828Z",
+  "source": "trip"
+}

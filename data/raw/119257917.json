@@ -1,0 +1,79 @@
+{
+  "id": 119257917,
+  "name": "Yunxijing·Moganshan villa light luxury accommodation",
+  "seedName": "Yunxijing·Moganshan villa light luxury accommodation",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-119257917",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=119257917&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-119257917&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service & Communication:The hosts provide friendly, patient service, with easy communication via basic Chinese and WeChat. Guests appreciate the proactive measures, such as mosquito prevention and assistance with luggage, enhancing the overall experience.(based on 6 reviews) Design & Aesthetics:The property features a modern, photogenic design with an infinity pool that blends seamlessly with the surroundings. The private, standalone structure ensures tranquility and a unique aesthetic appeal.(based on 4 reviews) Cleanliness & Comfort:Rooms are consistently described as clean, sanitary, and comfortable, suitable for all ages, including elderly guests who benefit from the fresh air and serene environment.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Communication",
+        "text": "The hosts provide friendly, patient service, with easy communication via basic Chinese and WeChat. Guests appreciate the proactive measures, such as mosquito prevention and assistance with luggage, enhancing the overall experience.",
+        "count": 6
+      },
+      {
+        "topic": "Aesthetics",
+        "text": "The property features a modern, photogenic design with an infinity pool that blends seamlessly with the surroundings. The private, standalone structure ensures tranquility and a unique aesthetic appeal.",
+        "count": 4
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 16 Shijiaoling, Gaofeng Village, Deqing, Zhejiang, China",
+  "priceRange": "From US$85",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/119257917/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0q12000e2v0pjj9706.jpg"
+    },
+    {
+      "src": "/images/stays/119257917/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4f12000dsiyf7xA6B9.webp"
+    },
+    {
+      "src": "/images/stays/119257917/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2l12000dsj9ejoA067.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "We enjoyed an excellent weekend in MoganShan, we stayed there with 3 families and 7 children - booked the entire villa for us during the weekend. I am so glad there was a large pool to beat the heat as...",
+      "author": "Maximilien Schreder",
+      "date": "2024-07-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=119257917&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-119257917&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The whole process was conducted by a 70-year-old *. When renewing the lease, the toiletries are not replaced and the room is not cleaned. Breakfast was not good either, cold porridge!",
+      "author": "Guest User",
+      "date": "2024-08-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=119257917&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-119257917&trip_sub3=D19127628"
+    },
+    {
+      "quote": "It's a B&B with a good experience. I like the appearance very much. The surrounding environment is also very good and it's easy to travel. The boss's service attitude is also very good and very patient!",
+      "author": "Gushishuogeifengting～",
+      "date": "2024-06-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=119257917&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-119257917&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 22,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:58:37.161Z",
+  "source": "trip"
+}

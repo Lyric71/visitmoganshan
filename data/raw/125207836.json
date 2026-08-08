@@ -1,0 +1,88 @@
+{
+  "id": 125207836,
+  "name": "Aideri · Season 5",
+  "seedName": "Aideri · Season 5",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-125207836",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=125207836&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-125207836&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:The hotel is conveniently located near Yucun Square, with easy access to scenic spots like Jiang Gong Path. It's a prime choice for Mogan Mountain visits, offering both natural beauty and proximity to local attractions.(based on 33 reviews) Environment:Guests frequently praise the hotel's serene environment, set amidst lush greenery and tranquil surroundings. The natural setting, including black swans and scenic views, creates an ideal atmosphere for relaxation and family outings.(based on 4 reviews) Service:The hotel staff are generally noted for their polite and efficient service, with particular mention of accommodating requests such as late check-outs. Some guests appreciate the promptness in addressing needs, like providing extra bedding.(based on 65 reviews) Facilities:The hotel boasts spacious, well-appointed rooms with comfortable bedding and modern amenities. The availability of a gym, swimming pool, and recreational activities like table tennis enhances the overall guest experience.(based on 7 reviews) Cleanliness:Rooms are consistently described as clean and well-maintained, with attention to detail in hygiene, contributing to a comf",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "The hotel is conveniently located near Yucun Square, with easy access to scenic spots like Jiang Gong Path. It's a prime choice for Mogan Mountain visits, offering both natural beauty and proximity to local attractions.",
+        "count": 33
+      },
+      {
+        "topic": "Environment",
+        "text": "Guests frequently praise the hotel's serene environment, set amidst lush greenery and tranquil surroundings. The natural setting, including black swans and scenic views, creates an ideal atmosphere for relaxation and family outings.",
+        "count": 4
+      },
+      {
+        "topic": "Service",
+        "text": "The hotel staff are generally noted for their polite and efficient service, with particular mention of accommodating requests such as late check-outs. Some guests appreciate the promptness in addressing needs, like providing extra bedding.",
+        "count": 65
+      },
+      {
+        "topic": "Facilities",
+        "text": "The hotel boasts spacious, well-appointed rooms with comfortable bedding and modern amenities. The availability of a gym, swimming pool, and recreational activities like table tennis enhances the overall guest experience.",
+        "count": 7
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 48 Liaoyuan Village South Road, Deqing, Zhejiang, China",
+  "priceRange": "From US$116",
+  "facilities": [
+    "Indoor swimming pool",
+    "Gym",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/125207836/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3p12000hjphswx7AB6.jpg"
+    },
+    {
+      "src": "/images/stays/125207836/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2a12000hhnm48o9C16.webp"
+    },
+    {
+      "src": "/images/stays/125207836/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1c12000hholpiaCD8C.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The rooms are incredibly clean, and the hotel's amenities and facilities are so comprehensive and fantastic. It's a perfect place for a family trip!",
+      "author": "Guest User",
+      "date": "2026-05-03",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=125207836&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-125207836&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Clean and tidy, with an elegant atmosphere, perfect for a vacation. They even gave us small souvenir cookies when we checked out, which were delicious!",
+      "author": "Guest User",
+      "date": "2026-05-03",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=125207836&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-125207836&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The hotel's硬件 (hardware/facilities) and environment are excellent, but let's talk about the service: 1) On the afternoon of the 4th, I was checking in. Three front desk staff members were all attending to one group of guests. I waited in...",
+      "author": "RYUK",
+      "date": "2026-04-06",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=125207836&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-125207836&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 141,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:16:40.171Z",
+  "source": "trip"
+}

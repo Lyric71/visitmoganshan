@@ -1,0 +1,82 @@
+{
+  "id": 62414794,
+  "name": "Yee Choi Hotels & Resorts",
+  "seedName": "Yee Choi Hotels & Resorts",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-62414794",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=62414794&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-62414794&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Facilities:The hotel boasts modern and well-maintained facilities, including a stylish restaurant, a small bar, and a photogenic infinity pool. Rooms are equipped with high-end amenities and offer excellent soundproofing, ensuring a restful stay.(based on 20 reviews) Cleanliness:Rooms and common areas are consistently described as clean and well-maintained. Guests appreciate the attention to detail in housekeeping, which contributes to a pleasant and comfortable stay.(based on 59 reviews) Guest Suggestion:Some customers suggest improving hygiene and addressing facility issues.(based on 4 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Facilities",
+        "text": "The hotel boasts modern and well-maintained facilities, including a stylish restaurant, a small bar, and a photogenic infinity pool. Rooms are equipped with high-end amenities and offer excellent soundproofing, ensuring a restful stay.",
+        "count": 20
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms and common areas are consistently described as clean and well-maintained. Guests appreciate the attention to detail in housekeeping, which contributes to a pleasant and comfortable stay.",
+        "count": 59
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving hygiene and addressing facility issues.",
+      "count": 4
+    }
+  },
+  "address": "No. 21, Lingkengli, Ling Village Group 2, Laoling Village, Moganshan Town, Deqing, Zhejiang, 313206, China",
+  "priceRange": "From US$179",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Bar",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/62414794/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205u120003xfzy9q8B4A.jpg"
+    },
+    {
+      "src": "/images/stays/62414794/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206v120008cx0q2uCF9B.webp"
+    },
+    {
+      "src": "/images/stays/62414794/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3x12000q9bv0i825F1.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Facilities: Fully equipped with a large tea room that had a game console, which was a lot of fun 🥳. Hygiene: The room and restaurant were clean and tidy, but the outdoor public areas could use some improvement. Environment: Backed...",
+      "author": "Feixingdelvtu520",
+      "date": "2026-07-26",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=62414794&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-62414794&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room was very spacious and exceptionally clean, with great amenities. The service was absolutely fantastic! It's perfect for a vacation. We'll definitely be back with family and friends next time!",
+      "author": "Guest User",
+      "date": "2026-07-05",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=62414794&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-62414794&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I visited Moganshan for a few relaxing days during a period of rain. The hotel is nestled halfway up the mountain, offering a peaceful retreat. It was really pleasant to sip a drink and listen to the rain. I was...",
+      "author": "Qingqing",
+      "date": "2026-07-06",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=62414794&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-62414794&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 212,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:15:02.881Z",
+  "source": "trip"
+}

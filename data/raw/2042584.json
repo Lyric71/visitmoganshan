@@ -1,0 +1,88 @@
+{
+  "id": 2042584,
+  "name": "Qingyunge Hotel",
+  "seedName": "Qingyunge Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2042584",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2042584&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2042584&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Environment:The property is situated mid-mountain with panoramic views, offering serene natural scenery, proximity to attractions like Beiying Firefly, and easy access via public transport.(based on 9 reviews) Service Quality:Hosts are consistently described as warm, knowledgeable, and helpful, providing local guides, tour recommendations, and assistance with transportation .(based on 12 reviews) Food & Hospitality:Meals feature fresh, homegrown ingredients and are praised for their taste and quality. Guests appreciate the personalized care, such as breakfast options and special arrangements for family events.(based on 12 reviews) Accommodation:Rooms are clean, with some noting sun-exposed bedding and rustic decor. Balconies offer unobstructed mountain views, though some mention outdated furnishings.(based on 4 reviews) Accessibility:The location is convenient for self-driving and close to scenic spots like Moganshan.(based on 9 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "The property is situated mid-mountain with panoramic views, offering serene natural scenery, proximity to attractions like Beiying Firefly, and easy access via public transport.",
+        "count": 9
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Hosts are consistently described as warm, knowledgeable, and helpful, providing local guides, tour recommendations, and assistance with transportation .",
+        "count": 12
+      },
+      {
+        "topic": "Hospitality",
+        "text": "Meals feature fresh, homegrown ingredients and are praised for their taste and quality. Guests appreciate the personalized care, such as breakfast options and special arrangements for family events.",
+        "count": 12
+      },
+      {
+        "topic": "Accommodation",
+        "text": "Rooms are clean, with some noting sun-exposed bedding and rustic decor. Balconies offer unobstructed mountain views, though some mention outdated furnishings.",
+        "count": 4
+      },
+      {
+        "topic": "Accessibility",
+        "text": "The location is convenient for self-driving and close to scenic spots like Moganshan.",
+        "count": 9
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 27, Yangwukeng, Xiantan Village, Moganshan Town, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$26",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/2042584/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20080j000000axrkn345A.jpg"
+    },
+    {
+      "src": "/images/stays/2042584/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/fd/hotel/g2/M04/A1/4E/Cghzf1U_cLaARQ3pAAK1g-ueg7Y330.webp"
+    },
+    {
+      "src": "/images/stays/2042584/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/fd/hotel/g1/M0B/F4/7E/CghzflWTf3uADW7MAAZ1nGOEF2c287.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "#breakfast dumplings#Location and transportation Moganshan side#The room is fully equipped",
+      "author": "Guest User",
+      "date": "2024-03-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2042584&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2042584&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Wow, this is the most comfortable place I have ever stayed in during all my travels. It is located halfway up the mountain. The balcony of her house is 180 degrees Celsius and you can enjoy the mountain scenery without...",
+      "author": "Guest User",
+      "date": "2023-10-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2042584&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2042584&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The service is very good, the aunt is very enthusiastic, she is familiar with the surroundings, and the surrounding environment is good. However, there are too many bugs at night, which may not work for those with trypophobia.",
+      "author": "Guest User",
+      "date": "2023-09-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2042584&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2042584&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 26,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:55:22.584Z",
+  "source": "trip"
+}

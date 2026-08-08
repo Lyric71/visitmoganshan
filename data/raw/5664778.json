@@ -1,0 +1,84 @@
+{
+  "id": 5664778,
+  "name": "Xiaoxiao Mountain Villa, Moganshan Town",
+  "seedName": "Xiaoxiao Mountain Villa, Moganshan Town",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5664778",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5664778&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5664778&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Facilities:Rooms are equipped with complete facilities, and there are multiple charging piles for electric vehicles, providing convenience for travelers.(based on 5 reviews) Hygiene:Rooms are clean and tidy, with comfortable bedding. Breakfast items like dumplings and noodles are unexpectedly delicious.(based on 57 reviews) Service:Provides disposable towels and is characterized by enthusiastic and thoughtful service(based on 32 reviews) Guest Suggestion:Some customers suggest the room has poor soundproofing due to noise from the first floor at night and no front desk staff on duty, and there are broken window screens with many insects in the room(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Facilities",
+        "text": "Rooms are equipped with complete facilities, and there are multiple charging piles for electric vehicles, providing convenience for travelers.",
+        "count": 5
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Rooms are clean and tidy, with comfortable bedding. Breakfast items like dumplings and noodles are unexpectedly delicious.",
+        "count": 57
+      },
+      {
+        "topic": "Service",
+        "text": "Provides disposable towels and is characterized by enthusiastic and thoughtful service",
+        "count": 32
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest the room has poor soundproofing due to noise from the first floor at night and no front desk staff on duty, and there are broken window screens with many insects in the room",
+      "count": 2
+    }
+  },
+  "address": "No. 102, Huangfu West Road, Yu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$46",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5664778/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1712000fm7jbeaAC0B.jpg"
+    },
+    {
+      "src": "/images/stays/5664778/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6e12000fm7jbccB3DD.webp"
+    },
+    {
+      "src": "/images/stays/5664778/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200814000000w4hx2D4AF.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Near to the main road allowing for easy access throughout the day. Situated in the middle of the town so there are accessible convenient shops and restaurants around. Room was clean and spacious.",
+      "author": "Guest User",
+      "date": "2026-07-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5664778&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5664778&trip_sub3=D19127628"
+    },
+    {
+      "quote": "It was a great experience! I had a lot of fun staying with my friends. Facilities: Good! Cleanliness: Very good. Environment: Located near Moganshan Mountain, the scenery is beautiful, and there are many small shops to explore – great for...",
+      "author": "Xingaokaotiaoyanmonijuan",
+      "date": "2026-01-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5664778&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5664778&trip_sub3=D19127628"
+    },
+    {
+      "quote": "There are charging stations, and it's very close to the square, making it convenient for getting around and finding food and drinks.",
+      "author": "Biechilezhuzhu",
+      "date": "2026-01-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5664778&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5664778&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 120,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:06:37.235Z",
+  "source": "trip"
+}

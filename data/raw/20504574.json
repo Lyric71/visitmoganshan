@@ -1,0 +1,83 @@
+{
+  "id": 20504574,
+  "name": "Lishang Molihefeng Privatesoup Homestay",
+  "seedName": "Lishang Molihefeng Privatesoup Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-20504574",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=20504574&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-20504574&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service:The staff and managers are very enthusiastic, answer questions in time and provide services. There is a dedicated housekeeper after booking to provide detailed transportation and food options.(based on 70 reviews) Hygiene:The room is spotless, the bedding is dry and fluffy. The environmental sanitation is very good.(based on 29 reviews) Facilities:Facilities are complete and of good quality, some have large French windows or heating, and there are also public areas with books, games, etc.(based on 1 review) Others:There are delicious homemade dishes, and there are activities like hiking, bonfire parties, etc.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service",
+        "text": "The staff and managers are very enthusiastic, answer questions in time and provide services. There is a dedicated housekeeper after booking to provide detailed transportation and food options.",
+        "count": 70
+      },
+      {
+        "topic": "Hygiene",
+        "text": "The room is spotless, the bedding is dry and fluffy. The environmental sanitation is very good.",
+        "count": 29
+      },
+      {
+        "topic": "Facilities",
+        "text": "Facilities are complete and of good quality, some have large French windows or heating, and there are also public areas with books, games, etc.",
+        "count": 1
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Near Ziling Tunnel, Xianrenkeng Village, Ziling Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$114",
+  "facilities": [
+    "Hot springs",
+    "Bar",
+    "Restaurant",
+    "Multi-function room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/20504574/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3q12000s7z0oj65BF4.jpg"
+    },
+    {
+      "src": "/images/stays/20504574/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3k12000sqqxkbi48E6.webp"
+    },
+    {
+      "src": "/images/stays/20504574/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0581g12000srgamioB488.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The environment is really great, the service attitude of the housekeepers is super good! The simple meals in the B&B are also great! Very warm and home-like atmosphere~",
+      "author": "Guest User",
+      "date": "2024-05-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=20504574&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-20504574&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The view from the room is very good, the service of the staff is very warm and sincere, and the private dishes of the aunt in this homestay are particularly delicious! Unforgettable! The surrounding scenery is very, very good! No...",
+      "author": "Guest User",
+      "date": "2024-04-12",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=20504574&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-20504574&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The service at the B&B is very good. The staff and the puppy staff are very cute and enthusiastic. They will prepare meals in advance according to needs. It is so happy to eat hot farm dishes after hiking. The...",
+      "author": "Guest User",
+      "date": "2024-03-18",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=20504574&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-20504574&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 125,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:06:07.788Z",
+  "source": "trip"
+}

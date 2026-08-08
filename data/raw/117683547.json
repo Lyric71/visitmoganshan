@@ -1,0 +1,87 @@
+{
+  "id": 117683547,
+  "name": "Ming lan Xiao zhu Moganshan Huanshan Private Tang Light Luxury Beauty Su",
+  "seedName": "Ming lan Xiao zhu Moganshan Huanshan Private Tang Light Luxury Beauty Su",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-117683547",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=117683547&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-117683547&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Natural scenery:Surrounded by mountains, bamboo forests, and streams, offering a peaceful retreat from urban noise. Cleanliness and maintenance:Rooms and bathrooms are described as tidy, well-kept, and modern.(based on 13 reviews) Staff friendliness:Attentive and helpful staff, particularly the local aunts, who provide travel recommendations and accommodate requests .(based on 17 reviews) Quiet environment:Ideal for relaxation, with minimal noise and a serene atmosphere. Location and accessibility:Situated near attractions like Mount Moganshan, with scenic views from rooms and proximity to hiking trails.(based on 4 reviews) Breakfast quality:Positive feedback on home-style meals, including fresh porridge and local dishes.(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Natural scenery",
+        "text": "Surrounded by mountains, bamboo forests, and streams, offering a peaceful retreat from urban noise. Cleanliness and maintenance:Rooms and bathrooms are described as tidy, well-kept, and modern.",
+        "count": 13
+      },
+      {
+        "topic": "Staff friendliness",
+        "text": "Attentive and helpful staff, particularly the local aunts, who provide travel recommendations and accommodate requests .",
+        "count": 17
+      },
+      {
+        "topic": "Quiet environment",
+        "text": "Ideal for relaxation, with minimal noise and a serene atmosphere. Location and accessibility:Situated near attractions like Mount Moganshan, with scenic views from rooms and proximity to hiking trails.",
+        "count": 4
+      },
+      {
+        "topic": "Breakfast quality",
+        "text": "Positive feedback on home-style meals, including fresh porridge and local dishes.",
+        "count": 3
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 16, Ziling Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$80",
+  "facilities": [
+    "Cardroom",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/117683547/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1d12000dxytemo7EC4.jpg"
+    },
+    {
+      "src": "/images/stays/117683547/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2j12000dfdtv4g5D80.webp"
+    },
+    {
+      "src": "/images/stays/117683547/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6p12000dfdkz4a65FB.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Nice place the room is spacious. The staff is helpful. The only bad thing is they didn't have wine glasses. Overall, it is a good place to visit.",
+      "author": "Klidzo",
+      "date": "2025-04-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=117683547&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-117683547&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The mountains are quiet and the wind blows through the bamboo forest. The bed is very soft and perfect for a break away from the hustle and bustle of the city. The auntie was very nice. She kept a door...",
+      "author": "66meizuo",
+      "date": "2024-05-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=117683547&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-117683547&trip_sub3=D19127628"
+    },
+    {
+      "quote": "One thing to say, after searching all platforms, Moganshan B&B is one of the best in terms of location, scenery, and hardware facilities. This trip is mainly about escaping from the city for a quiet and relaxing time➕It’s easy to...",
+      "author": "Mochazhishihaiyouwo",
+      "date": "2024-05-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=117683547&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-117683547&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 39,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:44:36.605Z",
+  "source": "trip"
+}

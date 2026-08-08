@@ -1,0 +1,79 @@
+{
+  "id": 36836021,
+  "name": "Moganshan water stream mountain home stay",
+  "seedName": "Moganshan water stream mountain home stay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-36836021",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=36836021&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-36836021&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Hygiene:Rooms and the overall environment are clean and tidy. Winter water is hot.(based on 14 reviews) Service Quality:Owners are very enthusiastic, provide various helps like informing weather, preparing meals and offering travel assistance(based on 19 reviews) Guest Suggestion:Some customers suggest problems with poor sanitation (such as unchanged bed sheets), relatively high prices, and inadequate sound insulation(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Hygiene",
+        "text": "Rooms and the overall environment are clean and tidy. Winter water is hot.",
+        "count": 14
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Owners are very enthusiastic, provide various helps like informing weather, preparing meals and offering travel assistance",
+        "count": 19
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest problems with poor sanitation (such as unchanged bed sheets), relatively high prices, and inadequate sound insulation",
+      "count": 3
+    }
+  },
+  "address": "Building 1, Zone 2, Villas, Liaoyuanzhongxin Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$79",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/36836021/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200g16000000z50663609.jpg"
+    },
+    {
+      "src": "/images/stays/36836021/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200g16000000z50663609.webp"
+    },
+    {
+      "src": "/images/stays/36836021/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0587412000sndifmnD613.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The B&B is very well designed and very comfortable to stay in. It also has a balcony, making it convenient to go to Moganshan. It's also very convenient to eat and travel. The owner is very enthusiastic and caring. He...",
+      "author": "Guest User",
+      "date": "2025-05-18",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=36836021&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-36836021&trip_sub3=D19127628"
+    },
+    {
+      "quote": "A family of four, two adults and two children, can bring their dog with them on weekends (a pet-friendly guesthouse). This detached house with a garden offers a prime location and on-site parking (reservation required). The grounds are filled with...",
+      "author": "Guest User",
+      "date": "2025-04-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=36836021&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-36836021&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The B&B is a three-story building. The rooms are clean and the owner is friendly and helpful. It's also conveniently located near Yucun Square, about a 10-minute walk away. There's parking for two cars in the courtyard, and the property...",
+      "author": "Haifeng117****326",
+      "date": "2025-07-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=36836021&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-36836021&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 33,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:49:28.406Z",
+  "source": "trip"
+}

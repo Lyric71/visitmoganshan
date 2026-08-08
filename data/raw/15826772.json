@@ -8,6 +8,16 @@
   "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=15826772&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-15826772&trip_sub3=D19127628",
   "sourceDescription": "",
   "aiSummary": "Review summary Powered by AI Peaceful Environment:Visitors frequently remark on the tranquility and serenity of the hotel's environment, which offers a perfect escape from city life. The quiet ambiance, combined with the lush, natural setting, creates a relaxing and rejuvenating atmosphere. Guest Suggestion:Some customers suggest improving service quality, addressing unprofessional staff, management, problem-solving, facilities, cleanliness, soundproofing, air conditioning, and food quality.(based on 36 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Peaceful Environment",
+        "text": "Visitors frequently remark on the tranquility and serenity of the hotel's environment, which offers a perfect escape from city life. The quiet ambiance, combined with the lush, natural setting, creates a relaxing and rejuvenating atmosphere. Guest Suggestion:Some customers suggest improving service quality, addressing unprofessional staff, management, problem-solving, facilities, cleanliness, soundproofing, air conditioning, and food quality.",
+        "count": 36
+      }
+    ],
+    "suggestion": null
+  },
   "address": "No. 12, Sanjiuwu, Laoling Village, Moganshan Town, Deqing, Zhejiang, China",
   "priceRange": "From US$277",
   "facilities": [
@@ -30,18 +40,6 @@
     {
       "src": "/images/stays/15826772/3.webp",
       "sourceUrl": "https://ak-d.tripcdn.com/images/0586q12000sq9bzwlF5C6.webp"
-    },
-    {
-      "src": "/images/stays/15826772/4.webp",
-      "sourceUrl": "https://ak-d.tripcdn.com/images/200k0p000000fsgbc4563.webp"
-    },
-    {
-      "src": "/images/stays/15826772/5.webp",
-      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6w12000bpdihax1EAD.webp"
-    },
-    {
-      "src": "/images/stays/15826772/6.webp",
-      "sourceUrl": "https://ak-d.tripcdn.com/images/20080p000000fox713E65.webp"
     }
   ],
   "comments": [
@@ -72,6 +70,6 @@
     "count": 3246,
     "scale": 10
   },
-  "sourcedAt": "2026-08-08T13:10:16.793Z",
+  "sourcedAt": "2026-08-08T14:12:52.452Z",
   "source": "trip"
 }

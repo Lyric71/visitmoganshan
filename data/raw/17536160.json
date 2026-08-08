@@ -1,0 +1,91 @@
+{
+  "id": 17536160,
+  "name": "Caotu·Building Meisu (Moganshan)",
+  "seedName": "Caotu·Building Meisu (Moganshan)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-17536160",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=17536160&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-17536160&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location and Environment:The hotel is in a great location with beautiful views, quiet surroundings, and some are in the mountains. There are nice outdoor areas like hot baths and pools.(based on 52 reviews) Facilities:Rooms are beautiful and complete with good facilities. Some have pools, and there are common areas for relaxation(based on 17 reviews) Service:Staff are friendly, accommodating, and helpful, providing various assistance like arranging drivers and introducing local places(based on 103 reviews) Activities and Experience:Guests can use the kitchen, and the hotel is suitable for family and pet stays, offering a unique experience with beautiful scenery(based on 61 reviews) Guest Suggestion:Some customers suggest room vs promo, bathroom issues, musty smell, pricey breakfast not meeting expectations(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location and Environment",
+        "text": "The hotel is in a great location with beautiful views, quiet surroundings, and some are in the mountains. There are nice outdoor areas like hot baths and pools.",
+        "count": 52
+      },
+      {
+        "topic": "Facilities",
+        "text": "Rooms are beautiful and complete with good facilities. Some have pools, and there are common areas for relaxation",
+        "count": 17
+      },
+      {
+        "topic": "Service",
+        "text": "Staff are friendly, accommodating, and helpful, providing various assistance like arranging drivers and introducing local places",
+        "count": 103
+      },
+      {
+        "topic": "Activities and Experience",
+        "text": "Guests can use the kitchen, and the hotel is suitable for family and pet stays, offering a unique experience with beautiful scenery",
+        "count": 61
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest room vs promo, bathroom issues, musty smell, pricey breakfast not meeting expectations",
+      "count": 3
+    }
+  },
+  "address": "No. 32, Yangwukeng, Xiantan Village, Moganshan Town, Deqing, Zhejiang, 313000, China",
+  "priceRange": "From US$79",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/17536160/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203o120009entjodAC37.jpg"
+    },
+    {
+      "src": "/images/stays/17536160/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02072120009enqxxj67AD.webp"
+    },
+    {
+      "src": "/images/stays/17536160/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203v120009ensqf68E60.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "A hidden gem of a B&B in Xiantan Village, it looks just like something out of a Miyazaki fairy tale – so unique! We got upgraded to a dome room during the off-season, and I loved the tatami relaxation area...",
+      "author": "Xixiniaoxi",
+      "date": "2026-03-23",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=17536160&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-17536160&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Very friendly staff, great location, beautiful room and a very nice view!",
+      "author": "Guest User",
+      "date": "2026-04-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=17536160&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-17536160&trip_sub3=D19127628"
+    },
+    {
+      "quote": "A hidden gem of a B&B in Xiantan Village, it looks just like something out of a Miyazaki fairy tale – so unique! We got upgraded to a dome room during the off-season, and I loved the tatami relaxation area...",
+      "author": "Xixiniaoxi",
+      "date": "2026-03-23",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=17536160&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-17536160&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.3,
+    "count": 180,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:23:08.675Z",
+  "source": "trip"
+}

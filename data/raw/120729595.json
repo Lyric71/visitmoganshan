@@ -1,0 +1,90 @@
+{
+  "id": 120729595,
+  "name": "Jiayiyibo Jinling Plaza Moganshan China",
+  "seedName": "Jiayiyibo Jinling Plaza Moganshan China",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-120729595",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=120729595&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-120729595&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:The hotel is surrounded by lush greenery, offering fresh air and scenic views. It's perfect for relaxation in a tranquil, natural setting.(based on 10 reviews) Facilities:Modern facilities include a rooftop infinity pool with breathtaking views. Rooms are spacious and well-equipped, ideal for leisure and family stays.(based on 63 reviews) Value for Money:The hotel offers high cost-effectiveness, with quality service and amenities exceeding expectations for the price.(based on 16 reviews) Guest Suggestion:Some customers suggest improvements in room cleanliness, dining options, and addressing parking and accessibility issues.(based on 8 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "The hotel is surrounded by lush greenery, offering fresh air and scenic views. It's perfect for relaxation in a tranquil, natural setting.",
+        "count": 10
+      },
+      {
+        "topic": "Facilities",
+        "text": "Modern facilities include a rooftop infinity pool with breathtaking views. Rooms are spacious and well-equipped, ideal for leisure and family stays.",
+        "count": 63
+      },
+      {
+        "topic": "Value for Money",
+        "text": "The hotel offers high cost-effectiveness, with quality service and amenities exceeding expectations for the price.",
+        "count": 16
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improvements in room cleanliness, dining options, and addressing parking and accessibility issues.",
+      "count": 8
+    }
+  },
+  "address": "No. 208, Houhong, Nanlu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$167",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Gym",
+    "Cardroom",
+    "3 Restaurants",
+    "Conference room",
+    "Multi-function room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/120729595/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1g12000l8shlff46DA.jpg"
+    },
+    {
+      "src": "/images/stays/120729595/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4g12000h76e7d0F111.webp"
+    },
+    {
+      "src": "/images/stays/120729595/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0m12000l7wkfpvE93C.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The hotel boasts a beautiful environment, and the complimentary main course was exquisite and delicious. The outdoor infinity pool is absolutely stunning! It's also close to nearby attractions by car. This is my second stay; the first time was for...",
+      "author": "Guest User",
+      "date": "2026-06-07",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=120729595&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-120729595&trip_sub3=D19127628"
+    },
+    {
+      "quote": "We stayed in the family room and were very happy with it. The room was spacious, clean, and had a large bathtub. The balcony offered a very relaxing view of lush greenery as soon as you opened the curtains. The...",
+      "author": "Guest User",
+      "date": "2026-06-07",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=120729595&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-120729595&trip_sub3=D19127628"
+    },
+    {
+      "quote": "To sum up my stay, this hotel might look nice with its decor, but everything else was a huge letdown. I really, really don't recommend it!!! The hotel's location is quite far from all the attractions. The biggest issue is...",
+      "author": "Guest User",
+      "date": "2026-04-04",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=120729595&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-120729595&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.1,
+    "count": 212,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:29:16.242Z",
+  "source": "trip"
+}

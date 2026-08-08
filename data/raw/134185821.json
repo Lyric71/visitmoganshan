@@ -1,0 +1,84 @@
+{
+  "id": 134185821,
+  "name": "Moganshan Maylee · Lishang Maylee Secluded Luxury Wilderness Resort",
+  "seedName": "Moganshan Maylee · Lishang Maylee Secluded Luxury Wilderness Resort",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-134185821",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=134185821&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-134185821&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service:The staff provides warm and attentive service, ensuring a personalized and welcoming experience. Many guests appreciate the balance of being present without being intrusive, highlighting the thoughtful and considerate nature of the service.(based on 15 reviews) Cuisine:The culinary offerings are consistently praised, with highlights such as lamb noodles and truffle fried rice. The breakfast combines both Western and local flavors, and the meals are crafted with care, making dining a memorable experience.(based on 5 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service",
+        "text": "The staff provides warm and attentive service, ensuring a personalized and welcoming experience. Many guests appreciate the balance of being present without being intrusive, highlighting the thoughtful and considerate nature of the service.",
+        "count": 15
+      },
+      {
+        "topic": "Cuisine",
+        "text": "The culinary offerings are consistently praised, with highlights such as lamb noodles and truffle fried rice. The breakfast combines both Western and local flavors, and the meals are crafted with care, making dining a memorable experience.",
+        "count": 5
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 51, Yangjiashan, Meigaowu, Ziling Village, Deqing, Zhejiang, China",
+  "priceRange": "From US$241",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Hiking",
+    "Gym",
+    "Bar",
+    "Tea room",
+    "Cardroom",
+    "Restaurant",
+    "Cafe",
+    "Karaoke",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/134185821/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4h12000s5rfz3sCFA9.jpg"
+    },
+    {
+      "src": "/images/stays/134185821/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4512000s5g228w8F18.webp"
+    },
+    {
+      "src": "/images/stays/134185821/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2b12000s5fqqhbC610.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Hidden away in the bamboo forests of Moganshan. A perfect weekend escape! The third-floor views are absolutely breathtaking. The lamb chop noodles and black truffle fried rice for dinner were incredibly fragrant. And one bowl of the hairtail wontons for...",
+      "author": "Xixihouhouwuwuaa",
+      "date": "2026-07-27",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=134185821&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-134185821&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The environment is elegant, the staff are warm and attentive, the food is exquisite and delicious, and although there aren't many rooms, the tatami design feels simple and comfortable, making it perfect for a relaxing vacation.",
+      "author": "Guest User",
+      "date": "2026-07-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=134185821&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-134185821&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The overall design combines minimalist black with a Japanese garden style, showing attention to detail. The lush green bamboo forest of summer, the delightful afternoon tea, the relaxing private hot spring bath, the Japanese tatami mats—I really love them, and...",
+      "author": "Anonymous User",
+      "date": "2026-07-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=134185821&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-134185821&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.3,
+    "count": 42,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:42:12.388Z",
+  "source": "trip"
+}

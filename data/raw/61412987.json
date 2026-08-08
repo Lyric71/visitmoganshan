@@ -1,0 +1,103 @@
+{
+  "id": 61412987,
+  "name": "Tianxi · Moganshan Star Resort",
+  "seedName": "Tianxi · Moganshan Star Resort",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-61412987",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=61412987&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-61412987&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness and hygiene:Rooms, bathrooms, and facilities are consistently described as clean, tidy, and well-maintained.(based on 29 reviews) Natural environment:Located in scenic mountainous areas with views of mountains, creeks, and two-thousand-year-old ginkgo trees.(based on 8 reviews) Free amenities:On-site recreational facilities and homemade breakfast with diverse options .(based on 21 reviews) Hospitality:Proprietress/host is repeatedly praised for being enthusiastic, welcoming, and attentive, often offering local recommendations .(based on 26 reviews) Convenience:Proximity to attractions , free parking, and nearby dining options .(based on 8 reviews) Family-friendly:Suitable for families with children, featuring child-friendly facilities and flexible check-out arrangements.(based on 16 reviews) Guest Suggestion:Some customers suggest the room size may not match expectations, the bed dimensions are less spacious for families, and the price might not align with the overall value offered.(based on 1 review)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness and hygiene",
+        "text": "Rooms, bathrooms, and facilities are consistently described as clean, tidy, and well-maintained.",
+        "count": 29
+      },
+      {
+        "topic": "Natural environment",
+        "text": "Located in scenic mountainous areas with views of mountains, creeks, and two-thousand-year-old ginkgo trees.",
+        "count": 8
+      },
+      {
+        "topic": "Free amenities",
+        "text": "On-site recreational facilities and homemade breakfast with diverse options .",
+        "count": 21
+      },
+      {
+        "topic": "Hospitality",
+        "text": "Proprietress/host is repeatedly praised for being enthusiastic, welcoming, and attentive, often offering local recommendations .",
+        "count": 26
+      },
+      {
+        "topic": "Convenience",
+        "text": "Proximity to attractions , free parking, and nearby dining options .",
+        "count": 8
+      },
+      {
+        "topic": "Family-friendly",
+        "text": "Suitable for families with children, featuring child-friendly facilities and flexible check-out arrangements.",
+        "count": 16
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest the room size may not match expectations, the bed dimensions are less spacious for families, and the price might not align with the overall value offered.",
+      "count": 1
+    }
+  },
+  "address": "No. 36, Kanshang, Houwu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$82",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Billiards room",
+    "Cardroom",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/61412987/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1h12000f01oywj8DC1.jpg"
+    },
+    {
+      "src": "/images/stays/61412987/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203v120008qd0id47E1D.webp"
+    },
+    {
+      "src": "/images/stays/61412987/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203r120008qd13hoE5AF.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Great hotel, the rooms are extremely clean and it has a very beautiful spot for breakfast around the mountains. The staff is really nice too, we were wondering around at night and they noticed us and drove us home. Definitely...",
+      "author": "Adelina Khutieva",
+      "date": "2023-11-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=61412987&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-61412987&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I got changed to another hotel 芳华阁, and it was great! Everyone was very welcoming and friendly, I liked the Chinese style breakfast. There was no coffee but we found a coffee place nearby at the souvenir shop. We didn’t...",
+      "author": "DaliDarema",
+      "date": "2023-08-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=61412987&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-61412987&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Excellent location. Awesome Mountain View. Delicious food nearby.",
+      "author": "Himu",
+      "date": "2023-10-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=61412987&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-61412987&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 61,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:11:43.400Z",
+  "source": "trip"
+}

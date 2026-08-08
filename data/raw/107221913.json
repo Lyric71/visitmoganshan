@@ -1,0 +1,96 @@
+{
+  "id": 107221913,
+  "name": "Moganshan Xiaoyuan",
+  "seedName": "Moganshan Xiaoyuan",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-107221913",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=107221913&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-107221913&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Proximity to Moganshan Scenic Area, quiet surroundings, 15-minute drive to town, and access to natural attractions like streams and bamboo forests.(based on 20 reviews) Rooms:Clean, well-equipped with modern amenities , spacious layouts, and scenic balconies facing mountains.(based on 39 reviews) Service:Hosts are attentive, friendly, and proactive .(based on 42 reviews) Environment:Natural aesthetics , tranquil atmosphere, and family-friendly features .(based on 12 reviews) Facilities:Complete amenities , clean breakfast, and nearby dining options.(based on 8 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Proximity to Moganshan Scenic Area, quiet surroundings, 15-minute drive to town, and access to natural attractions like streams and bamboo forests.",
+        "count": 20
+      },
+      {
+        "topic": "Rooms",
+        "text": "Clean, well-equipped with modern amenities , spacious layouts, and scenic balconies facing mountains.",
+        "count": 39
+      },
+      {
+        "topic": "Service",
+        "text": "Hosts are attentive, friendly, and proactive .",
+        "count": 42
+      },
+      {
+        "topic": "Environment",
+        "text": "Natural aesthetics , tranquil atmosphere, and family-friendly features .",
+        "count": 12
+      },
+      {
+        "topic": "Facilities",
+        "text": "Complete amenities , clean breakfast, and nearby dining options.",
+        "count": 8
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 68, Yu Village, Fatou Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$61",
+  "facilities": [
+    "Bar",
+    "Cardroom",
+    "Restaurant",
+    "Cafe",
+    "Conference room",
+    "Multi-function room",
+    "Water park"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/107221913/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3c12000bdtusnsFEC9.jpg"
+    },
+    {
+      "src": "/images/stays/107221913/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6b12000bdvzq9uC1B8.webp"
+    },
+    {
+      "src": "/images/stays/107221913/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4t12000bdtytzd1645.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Visited with friends and we absolutely loved it! The guesthouse was impeccably clean and the overall environment was very welcoming. A sweet bonus was their resident dog! The hostess makes fantastic coffee, and if you can't drink milk, definitely try...",
+      "author": "Guest User",
+      "date": "2025-09-07",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=107221913&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-107221913&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Very hospitable hotel. The owner was very helpful and accommodating. The bed was very comfortable, the balcony beautiful and the shower water was hot. Lovely pool. They can provide very good coffee at breakfast.",
+      "author": "Guest User",
+      "date": "2025-09-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=107221913&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-107221913&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room was really spacious and spotless, filled with plants and small animals everywhere – absolutely perfect for a slow-paced lifestyle! The owner was incredibly welcoming and attentive. The meals and cakes they prepared were absolutely delicious, and the drinks...",
+      "author": "Guest User",
+      "date": "2025-09-07",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=107221913&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-107221913&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 116,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:53:03.975Z",
+  "source": "trip"
+}

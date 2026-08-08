@@ -1,0 +1,85 @@
+{
+  "id": 97354452,
+  "name": "Moganshan Du Yuesheng Mansion",
+  "seedName": "Moganshan Du Yuesheng Mansion",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-97354452",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=97354452&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-97354452&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment Location:Situated in a beautiful area with mountains surrounding, quiet and elegant, close to attractions like Xuguang Terrace, offering great views of mountain scenes and clouds.(based on 34 reviews) Service Quality:Staff are enthusiastic and thoughtful, contacting in advance to provide driving routes and introduce attractions, with considerate service.(based on 114 reviews) Facilities:Rooms have distinctive features with a Republic of China style, tableware is of good taste(based on 42 reviews) Breakfast:Rich in variety, well-matched, and cooked by excellent chefs(based on 59 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment Location",
+        "text": "Situated in a beautiful area with mountains surrounding, quiet and elegant, close to attractions like Xuguang Terrace, offering great views of mountain scenes and clouds.",
+        "count": 34
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Staff are enthusiastic and thoughtful, contacting in advance to provide driving routes and introduce attractions, with considerate service.",
+        "count": 114
+      },
+      {
+        "topic": "Facilities",
+        "text": "Rooms have distinctive features with a Republic of China style, tableware is of good taste",
+        "count": 42
+      },
+      {
+        "topic": "Breakfast",
+        "text": "Rich in variety, well-matched, and cooked by excellent chefs",
+        "count": 59
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 547, Moganshan Scenic Area, Deqing, Zhejiang, China",
+  "priceRange": "From US$123",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/97354452/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201m120009uy61yw06EB.jpg"
+    },
+    {
+      "src": "/images/stays/97354452/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205y12000e8mdtdp2E00.webp"
+    },
+    {
+      "src": "/images/stays/97354452/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201j120009v956ff9F3B.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Very helpful owner and super near to the sunrise spot!",
+      "author": "Guest User",
+      "date": "2025-11-22",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=97354452&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-97354452&trip_sub3=D19127628"
+    },
+    {
+      "quote": "A special thank you to the landlady for upgrading our room. The view from the second-floor west balcony is amazing! 👍 The mountains beyond are so vibrant and colorful, like something straight out of a traditional Chinese painting. My hands...",
+      "author": "Xiaohutushen1108",
+      "date": "2025-09-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=97354452&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-97354452&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The winding mountain road leads uphill, creating a picturesque setting. It's quiet, elegant, and peaceful. The service is excellent, and the hotel's focus is on comfort and warmth. The Du Mansion boasts a unique historical advantage. Sitting on a sun...",
+      "author": "Guest User",
+      "date": "2025-09-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=97354452&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-97354452&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 184,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:49:06.465Z",
+  "source": "trip"
+}

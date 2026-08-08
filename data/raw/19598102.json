@@ -1,0 +1,92 @@
+{
+  "id": 19598102,
+  "name": "Mount Mogan Yuwo Mountains Villa",
+  "seedName": "Mount Mogan Yuwo Mountains Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-19598102",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=19598102&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-19598102&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Accessibility:Proximity to scenic spots , near natural attractions like streams and grassy areas, and convenient access from Shanghai .(based on 4 reviews) Cleanliness & Maintenance:High standards of cleanliness , well-kept greenery, and spotless facilities.(based on 18 reviews) Accommodation Features:Spacious rooms with private bathrooms, balconies overlooking grasslands and pools, and modern amenities .(based on 13 reviews) Amenities:On-site swimming pool, private courtyards with seating , and recreational options .(based on 10 reviews) Service Quality:Warm and attentive owner/host who provides personalized recommendations , offers helpful travel advice, and ensures a welcoming atmosphere.(based on 12 reviews) Family-Friendly:Suitable for families with children , and pet-friendly policies.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Accessibility",
+        "text": "Proximity to scenic spots , near natural attractions like streams and grassy areas, and convenient access from Shanghai .",
+        "count": 4
+      },
+      {
+        "topic": "Maintenance",
+        "text": "High standards of cleanliness , well-kept greenery, and spotless facilities.",
+        "count": 18
+      },
+      {
+        "topic": "Accommodation Features",
+        "text": "Spacious rooms with private bathrooms, balconies overlooking grasslands and pools, and modern amenities .",
+        "count": 13
+      },
+      {
+        "topic": "Amenities",
+        "text": "On-site swimming pool, private courtyards with seating , and recreational options .",
+        "count": 10
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Warm and attentive owner/host who provides personalized recommendations , offers helpful travel advice, and ensures a welcoming atmosphere.",
+        "count": 12
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Chaodongwu, Fotang Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$74",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/19598102/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200o15000000xfqgc83CA.jpg"
+    },
+    {
+      "src": "/images/stays/19598102/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200515000000xvy0k70E7.webp"
+    },
+    {
+      "src": "/images/stays/19598102/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200i15000000xfoxeEE4E.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "這家民宿整體體驗很棒，房間乾淨整潔，衞生做得很到位。環境安靜舒適，住得放鬆安心，泳池水超乾淨。房東服務熱情周到，有問題響應很快。地理位置優越，交通出行很方便，出行住宿首選，下次過來還會選擇這裏，推薦入住。",
+      "author": "Guest User",
+      "date": "2026-08-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=19598102&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-19598102&trip_sub3=D19127628"
+    },
+    {
+      "quote": "山居很漂亮也乾淨，高於自己的預估值，房主也很熱情友善，他們還有一衹超級温順的秋田，在這裡能讓你忘記城市的喧囂，下次還會再來！",
+      "author": "Guest User",
+      "date": "2026-05-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=19598102&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-19598102&trip_sub3=D19127628"
+    },
+    {
+      "quote": "這家民宿整體體驗很棒，房間乾淨整潔，衞生做得很到位。環境安靜舒適，住得放鬆安心，泳池水超乾淨。房東服務熱情周到，有問題響應很快。地理位置優越，交通出行很方便，出行住宿首選，下次過來還會選擇這裏，推薦入住。",
+      "author": "Guest User",
+      "date": "2026-08-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=19598102&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-19598102&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 31,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:49:55.983Z",
+  "source": "trip"
+}

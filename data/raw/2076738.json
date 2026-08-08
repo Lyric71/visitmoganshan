@@ -1,0 +1,83 @@
+{
+  "id": 2076738,
+  "name": "Moganshan Xinqing Parent-child Garden Holiday Meisu",
+  "seedName": "Moganshan Xinqing Parent-child Garden Holiday Meisu",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2076738",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2076738&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2076738&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:The hotel is near attractions like Mo Gan Shan, with easy access and scenic surroundings, enhancing the experience.(based on 63 reviews) Service:Service is praised for being attentive, with detailed travel guides and prompt assistance, adding a warm touch.(based on 341 reviews) Food:Dining is highly regarded, featuring delicious home-cooked meals with fresh, organic ingredients, comparable to high-end restaurants. Facilities:Well-maintained facilities offer recreational options, spacious rooms, and modern amenities, ensuring a comfortable stay.(based on 63 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "The hotel is near attractions like Mo Gan Shan, with easy access and scenic surroundings, enhancing the experience.",
+        "count": 63
+      },
+      {
+        "topic": "Service",
+        "text": "Service is praised for being attentive, with detailed travel guides and prompt assistance, adding a warm touch.",
+        "count": 341
+      },
+      {
+        "topic": "Food",
+        "text": "Dining is highly regarded, featuring delicious home-cooked meals with fresh, organic ingredients, comparable to high-end restaurants. Facilities:Well-maintained facilities offer recreational options, spacious rooms, and modern amenities, ensuring a comfortable stay.",
+        "count": 63
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 2, Lingjiaoxia, Houwu Village, Moganshan Town, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$91",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/2076738/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0202x120008ldi44x550A.jpg"
+    },
+    {
+      "src": "/images/stays/2076738/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0585112000sp1f3t90425.webp"
+    },
+    {
+      "src": "/images/stays/2076738/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203t12000dcrq9zhACCC.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Considering its location in Moganshan, the price of this place offers good value for money. They even gave us a free room upgrade upon check-in. The upgraded room was so spacious we could easily open two large suitcases and still...",
+      "author": "Guest User",
+      "date": "2026-08-02",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2076738&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2076738&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The owner was so kind and thoughtful, providing excellent service. The environment was elegant, and the room was clean and tidy. It's definitely a place worth revisiting.",
+      "author": "Guest User",
+      "date": "2026-06-17",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2076738&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2076738&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The environment is fantastic, nestled by mountains and water, often shrouded in mist. The host was very kind and upgraded our room. Breakfast was rich and delicious. There's even an EV charging station right outside, which is great for electric...",
+      "author": "Guest User",
+      "date": "2025-11-10",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2076738&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2076738&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 720,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:58:58.589Z",
+  "source": "trip"
+}

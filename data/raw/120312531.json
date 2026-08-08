@@ -1,0 +1,71 @@
+{
+  "id": 120312531,
+  "name": "Tower Hotel",
+  "seedName": "Tower Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-120312531",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=120312531&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-120312531&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service:Housekeeper service is considerate and thoughtful. The service is meticulous and in place.(based on 15 reviews) Scenery:The view from the room is amazing, allowing guests to enjoy beautiful autumn scenery of Mogan Mountain. The top floor has a great viewing platform with an open view",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service",
+        "text": "Housekeeper service is considerate and thoughtful. The service is meticulous and in place.",
+        "count": 15
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 68, Hou Village, Liaoyuan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$92",
+  "facilities": [
+    "Restaurant",
+    "Cafe"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/120312531/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5212000sgq2dbl6570.jpg"
+    },
+    {
+      "src": "/images/stays/120312531/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3v12000eg3whhc35C1.webp"
+    },
+    {
+      "src": "/images/stays/120312531/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3z12000grehby4BE08.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Good location, beautiful decoration, clean and professional, worth coming again. Hygiene: It is passable, both the room and the public area are very clean, as a homestay, the most worrying situation did not happen Environment: On the top of a...",
+      "author": "Guest User",
+      "date": "2025-07-16",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=120312531&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-120312531&trip_sub3=D19127628"
+    },
+    {
+      "quote": "It is a very suitable place to relax and breathe oxygen. The environment is really beautiful. Every floor is suitable for beautiful photos. It is really nice to blow the wind and see the scenery on the roof. The service...",
+      "author": "Yinian",
+      "date": "2025-07-25",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=120312531&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-120312531&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Good location, very secluded, a total of four rooms, on a separate hill, good view, suitable for two people to play, good service attitude",
+      "author": ".Neal..",
+      "date": "2025-05-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=120312531&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-120312531&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 29,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:51:29.937Z",
+  "source": "trip"
+}

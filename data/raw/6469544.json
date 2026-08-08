@@ -1,0 +1,78 @@
+{
+  "id": 6469544,
+  "name": "Moganshan Shisu Parent-child Holiday Homestay",
+  "seedName": "Moganshan Shisu Parent-child Holiday Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-6469544",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6469544&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6469544&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service Quality:The hostess is consistently praised for her warm hospitality and attentiveness, making guests feel at home. She offers travel advice and recommendations for local attractions, ensuring a personalized and welcoming experience.(based on 52 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service Quality",
+        "text": "The hostess is consistently praised for her warm hospitality and attentiveness, making guests feel at home. She offers travel advice and recommendations for local attractions, ensuring a personalized and welcoming experience.",
+        "count": 52
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 11, Jiangjia Zhuyuan, Xiantan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$61",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Bar",
+    "Billiards room",
+    "Cardroom",
+    "Restaurant",
+    "Cafe",
+    "Water park",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/6469544/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0l12000eavfls75C0E.jpg"
+    },
+    {
+      "src": "/images/stays/6469544/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6812000poo3eltA81D.webp"
+    },
+    {
+      "src": "/images/stays/6469544/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5v12000eavhndfACA5.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "We traveled during winter and it was cold. The hallways and dining place were really cold, not heated and place had scent of smoke from the fire. AC was the only source of heat in the room and it was...",
+      "author": "Guest User",
+      "date": "2026-02-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6469544&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6469544&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Surrounded by mountains, the air is fresh, and the sound of wind blowing through the bamboo forest makes people feel very peaceful. The proprietress is very considerate and arranged the accommodation in a cross-arranged manner so as not to disturb...",
+      "author": "Shenjingxixixiaoxixi",
+      "date": "2025-06-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6469544&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6469544&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The B&B is clean and tidy, with a great location, fresh air, and a warm hostess. The food in the B&B is especially delicious. We had all three meals at the B&B. The green pepper and potato shreds, braised chicken,...",
+      "author": "Guest User",
+      "date": "2025-06-15",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6469544&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6469544&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 98,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:07:48.431Z",
+  "source": "trip"
+}

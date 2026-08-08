@@ -60,7 +60,7 @@ So much for the argument. Here is the costing-sheet part.
 
 > Rail times, frequencies, fares, shuttle timetable and transfer-center hours, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-The last row breaks itineraries. A group landing at Hongqiao at 15:00 clears the gate. The same group at 17:00 sleeps in the valley. Work the arrival day back from 18:00. One caveat, ours rather than the operator's. TODO: verify whether 18:00 is last entry, last transfer up or gate close. Three different deadlines, and we have not settled it.
+The last row breaks itineraries. A group landing at Hongqiao at 15:00 clears the gate. The same group at 17:00 sleeps in the valley. Work the arrival day back from 18:00. One caveat, ours rather than the operator's. Not confirmed: whether 18:00 is last entry, last transfer up or gate close. Three different deadlines, and we have not settled it.
 
 By road, allow 2 to 3 hours from Shanghai and 1.5 from Hangzhou. [Getting here](/getting-here/) has the detail.
 
@@ -92,7 +92,7 @@ The **destination fact sheet** carries every figure the site holds, each with so
 
 **Itinerary modules** are drop-in blocks, not finished tours, so a Moganshan night slots into a Shanghai and Hangzhou program without a rebuild. Transfer times, gate hours and the 18:00 cutoff are already in them. [Sample itineraries](/trade/sample-itineraries/).
 
-Images are free for editorial and trade use. TODO: verify license wording, credit line, resolution and whether brochure use is covered. [Image library](/trade/image-library/).
+Images are free for editorial and trade use. Not confirmed: license wording, credit line, resolution and whether brochure use is covered. [Image library](/trade/image-library/).
 
 We will not supply property ratings or a best-hotel list. No inbound arrival figures either, because none exist. Placement is not for sale, which is the short answer to the email we expect from hotel marketing.
 
@@ -111,6 +111,6 @@ We found no Moganshan feature in BBC Travel, Condé Nast Traveler, National Geog
 
 ## Contact
 
-No press channel is live yet. TODO: verify contact name, email address and response time. Better than printing a mailbox nobody reads. It will appear here and on [About](/about/).
+No press channel is live yet. Not confirmed: contact name, email address and response time. Better than printing a mailbox nobody reads. It will appear here and on [About](/about/).
 
 *Rail times, fares, transfer-center hours, occupancy and rate bands last checked 5 August 2026. Ticket prices vary by source and season.*

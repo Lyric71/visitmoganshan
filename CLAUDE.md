@@ -61,6 +61,38 @@ behind, in profile, or at a distance.
    Never rely on Vercel image optimization.
 4. Look at the generated PNG before wiring it in. Never ship an unverified image.
 
+## Images are optimized to the size they render at, always
+
+This is a standing rule, not a step in one task. Nothing enters `public/` at a
+size larger than the slot that displays it, and the budget is decided by the
+layout rather than by whatever the source happened to hand over.
+
+`npm run img:audit` enforces it. Alongside the site-wide caps below, it carries
+per-directory budgets for images that are only ever rendered small:
+
+| Where | Cap | Renders at |
+|-------|-----|-----------|
+| `public/images/stays/{id}/1.webp` | 800px, 80 KB | ~320 CSS px, the card lead |
+| `public/images/stays/{id}/{2,3}.webp` | 400px, 30 KB | ~107 CSS px, card thumbnails |
+
+Add a row when a new directory of small images appears. The reasoning behind
+the stays budget is worth keeping in mind for the next one: the CDN served
+frames up to 1600px at about 125 KB each, and across 809 properties shipping
+those unchanged would have committed close to 300 MB to this repository for
+detail no reader can see. Right-sized it is about a fifth of that.
+
+Two details that turned out to matter. Captured frames are cropped to 3:2
+rather than scaled by width, because roughly one listing photo in six is
+portrait and scaling those by width alone doubles their area; the card crops to
+3:2 anyway. And the encoder steps quality down, then size down, before it gives
+up: a grainy photograph over budget at low quality is better shipped slightly
+smaller than dropped, and a card with no photograph is the worst outcome of the
+three.
+
+Originals stay in `assets/raw/stays/`, which is gitignored, so the whole set can
+be re-encoded with `npm run stays:img` after a budget change without touching
+the network again.
+
 ## Images must be optimized before they are pushed
 
 Vercel image optimization is off, so what is committed is byte for byte what a

@@ -1,0 +1,102 @@
+{
+  "id": 6654790,
+  "name": "Baiyun Shenchu Fudi Guesthouse",
+  "seedName": "Baiyun Shenchu Fudi Guesthouse",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-6654790",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6654790&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6654790&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Situated near Moganshan Conference Site, cathedral, and scenic spots like Luhua Dang and Jianchi. Proximity to attractions and scenic views .(based on 8 reviews) Views:Rooms offer unobstructed mountain scenery, sunrise vistas, and panoramic views of Deqing County.(based on 14 reviews) Facilities:Modern amenities , recently renovated rooms with updated hardware.(based on 10 reviews) Service:Friendly, attentive staff , efficient check-in/check-out processes.(based on 12 reviews) Environment:Quiet, scenic, and fresh air. Proximity to cafes, gardens, and walking trails.(based on 8 reviews) Accommodation:Spacious rooms with good layouts, privacy in newer buildings, and access to terraces/gardens.(based on 14 reviews) Guest Suggestion: Some customers suggest the hotel's location causes noise and privacy issues, poor door sound insulation, and unhygienic towel replacement practices.(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Situated near Moganshan Conference Site, cathedral, and scenic spots like Luhua Dang and Jianchi. Proximity to attractions and scenic views .",
+        "count": 8
+      },
+      {
+        "topic": "Views",
+        "text": "Rooms offer unobstructed mountain scenery, sunrise vistas, and panoramic views of Deqing County.",
+        "count": 14
+      },
+      {
+        "topic": "Facilities",
+        "text": "Modern amenities , recently renovated rooms with updated hardware.",
+        "count": 10
+      },
+      {
+        "topic": "Service",
+        "text": "Friendly, attentive staff , efficient check-in/check-out processes.",
+        "count": 12
+      },
+      {
+        "topic": "Environment",
+        "text": "Quiet, scenic, and fresh air. Proximity to cafes, gardens, and walking trails.",
+        "count": 8
+      },
+      {
+        "topic": "Accommodation",
+        "text": "Spacious rooms with good layouts, privacy in newer buildings, and access to terraces/gardens.",
+        "count": 14
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest the hotel's location causes noise and privacy issues, poor door sound insulation, and unhygienic towel replacement practices.",
+      "count": 2
+    }
+  },
+  "address": "No. 502, Moganshan Scenic Area (Inside Moganshan Scenic Area), Deqing, Zhejiang, China",
+  "priceRange": "From US$94",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Cafe",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/6654790/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1412000bl64pkmEA94.jpg"
+    },
+    {
+      "src": "/images/stays/6654790/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1s12000kj0ft2d4B6E.webp"
+    },
+    {
+      "src": "/images/stays/6654790/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0584c12000sp4dx1jBE8C.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "I have wanted to go to Mogan Mountain for many years, but I was afraid of the crowds. This time I decided to give it a try before the May Day holiday. I booked the Baiyun Shenshen Mansion B&B (which...",
+      "author": "Guest User",
+      "date": "2025-05-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6654790&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6654790&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The house, which was renovated in recent years, is obviously more comfortable to live in than the old house. The view from the room is great. You can see Naked Castle when you open the window. You can watch the...",
+      "author": "Jingyuhuanyou",
+      "date": "2025-04-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6654790&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6654790&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The parent-child room is large enough, and the window overlooks Naked Castle. It is right next to the cathedral and a short walk down to Yinshan Street. If I really have to give some suggestions: the breakfast standard is not...",
+      "author": "Guest User",
+      "date": "2025-04-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6654790&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6654790&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 40,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:42:32.172Z",
+  "source": "trip"
+}

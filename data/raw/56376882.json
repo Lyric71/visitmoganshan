@@ -1,0 +1,98 @@
+{
+  "id": 56376882,
+  "name": "Yizhu · Moganshan Kela Vacation Apartment",
+  "seedName": "Yizhu · Moganshan Kela Vacation Apartment",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-56376882",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=56376882&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-56376882&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:The hotel is conveniently located at the foot of a mountain, providing easy access for those driving. The surrounding natural beauty offers a serene environment, ideal for relaxation and outdoor activities.(based on 1 review) Room Quality:Rooms are spacious, well-designed, and feature amenities like large bathtubs and balconies. Some rooms offer breathtaking views of mountains and forests, creating a peaceful atmosphere.(based on 8 reviews) Facilities:The hotel boasts a good swimming pool, suitable for summer fun. There are dedicated spaces for children and various entertainment options, making it ideal for family stays and group gatherings.(based on 15 reviews) Service:Staff are generally friendly and helpful, with efficient check-in processes. Many guests appreciated the service quality, noting the warm hospitality and attentiveness of the staff.(based on 14 reviews) Environment:The hotel's environment is praised for its cleanliness and aesthetic appeal. The natural surroundings, including lush greenery and fresh air, enhance the overall experience.(based on 2 reviews) Guest Suggestion:Some customers suggest improving pest control as rooms ha",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "The hotel is conveniently located at the foot of a mountain, providing easy access for those driving. The surrounding natural beauty offers a serene environment, ideal for relaxation and outdoor activities.",
+        "count": 1
+      },
+      {
+        "topic": "Room Quality",
+        "text": "Rooms are spacious, well-designed, and feature amenities like large bathtubs and balconies. Some rooms offer breathtaking views of mountains and forests, creating a peaceful atmosphere.",
+        "count": 8
+      },
+      {
+        "topic": "Facilities",
+        "text": "The hotel boasts a good swimming pool, suitable for summer fun. There are dedicated spaces for children and various entertainment options, making it ideal for family stays and group gatherings.",
+        "count": 15
+      },
+      {
+        "topic": "Service",
+        "text": "Staff are generally friendly and helpful, with efficient check-in processes. Many guests appreciated the service quality, noting the warm hospitality and attentiveness of the staff.",
+        "count": 14
+      },
+      {
+        "topic": "Environment",
+        "text": "The hotel's environment is praised for its cleanliness and aesthetic appeal. The natural surroundings, including lush greenery and fresh air, enhance the overall experience.",
+        "count": 2
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 6, Village Group 4, Shenzhongwu, Duihekou Village, Wukang Subdistrict, Deqing, Zhejiang, China",
+  "priceRange": "From US$93",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Gym",
+    "Billiards room",
+    "Table tennis room",
+    "Cardroom",
+    "Restaurant",
+    "Conference room",
+    "Playground",
+    "Kids' club"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/56376882/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200e1c000001de9th1A40.jpg"
+    },
+    {
+      "src": "/images/stays/56376882/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0204a120008cp5yyi8176.webp"
+    },
+    {
+      "src": "/images/stays/56376882/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206c120008cp5qis28B7.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "酒店不應該放出來營業的，整體的清潔，設施，人員都不合格。從未住過如此多蟲患問題的酒店, 當晚11點多不得不逃離房間換酒店住。, -床上，被子裏面都是小蜘蛛，蟲子, -房間裏出現多衹，巨大會飛的蟑螂。, -房間多處漏水，裝修，傢俱的細節都不經看。完全沒有照片裏的精緻感, 人：, -多次確認要乾淨的房間，結果清潔完全沒看到地上有飛蟲屍體，床上有蜘蛛, -服務人員就是些兼職的學生，什麼都不懂。",
+      "author": "Guest User",
+      "date": "2026-06-22",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=56376882&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-56376882&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間特別漂亮，服務人員也很熱情，有很貼心的準備歡迎水果給我們，大晚上叫管家小姐姐給我們把葯放冷藏也是立馬就響應過來了，場地非常大，有KTV，棋牌室和桌球桌，還有一個很漂亮的游泳池，下次帶家人過來玩。",
+      "author": "Guest User",
+      "date": "2026-08-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=56376882&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-56376882&trip_sub3=D19127628"
+    },
+    {
+      "quote": "很差，夜裡服務枱都沒人，見圖，值班電話沒人接的，9點才有人 我就不截圖了。早飯就白粥和速凍包子，還有煮雞蛋。淋浴房的水能漫到客廳來，空調外機吵的人誰不着。",
+      "author": "Guest User",
+      "date": "2025-10-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=56376882&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-56376882&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.9,
+    "count": 33,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:52:32.470Z",
+  "source": "trip"
+}

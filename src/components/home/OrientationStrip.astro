@@ -9,48 +9,34 @@ import { STATS } from '../../data/stats';
  * anywhere on the site, and they sit low on the page, so they need every bit of
  * crawl equity they can carry. Each tile links to the page that proves its
  * figure; a number with nothing behind it is a liability.
+ *
+ * Not a section of its own: it renders inside Getting here, below the four
+ * routes, so the two travel times sit next to the routes they describe. It
+ * therefore brings no container and no background of its own, and it is
+ * labelled rather than headed, because the enclosing section already has an h2.
  */
 ---
 
-<section class="strip" aria-labelledby="orientation-title">
-  <div class="vm-container">
-    <h2 id="orientation-title" class="sr-only">Moganshan at a glance</h2>
-    <ul class="strip__grid">
-      {
-        STATS.map((stat) => (
-          <li>
-            <a href={stat.href}>
-              <span class="strip__value">{stat.value}</span>
-              <span class="strip__label">{stat.label}</span>
-            </a>
-          </li>
-        ))
-      }
-    </ul>
-  </div>
-</section>
+<ul class="strip__grid" aria-label="Moganshan at a glance">
+  {
+    STATS.map((stat) => (
+      <li>
+        <a href={stat.href}>
+          <span class="strip__value">{stat.value}</span>
+          <span class="strip__label">{stat.label}</span>
+        </a>
+      </li>
+    ))
+  }
+</ul>
 
 <style>
-  .sr-only {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    padding: 0;
-    margin: -1px;
-    overflow: hidden;
-    clip-path: inset(50%);
-    white-space: nowrap;
-  }
-
-  .strip {
-    background: var(--color-mist);
-    padding-block: clamp(2.5rem, 5vw, 3.5rem);
-  }
-
   .strip__grid {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
-    margin: 0;
+    /* Sits below the route cards inside Getting here, so it owns the gap
+       between itself and them. */
+    margin: clamp(1.75rem, 4vw, 2.5rem) 0 0;
     padding: 0;
     list-style: none;
   }

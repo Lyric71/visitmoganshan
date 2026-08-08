@@ -1,0 +1,93 @@
+{
+  "id": 5634515,
+  "name": "Mogan mountain holiday Villa",
+  "seedName": "Mogan mountain holiday Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5634515",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5634515&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5634515&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Environment:Situated in a scenic, tranquil area with nearby tea plantations, bamboo forests, and hiking trails. Many reviews highlight the \"mountain view,\" \"fresh air,\" and proximity to Morandi Mountain.(based on 4 reviews) Accommodation Quality:Rooms are clean, spacious, and well-maintained, often featuring minimalist designs, tatami rooms, and views of the surrounding landscape.(based on 7 reviews) Unique Amenities:The on-site \"yacht club\" is frequently praised for its thrill and uniqueness, described as \"excellent\" and \"unparalleled.\"(based on 5 reviews) Service:Staff are consistently described as \"friendly,\" \"attentive,\" and \"helpful,\" with some noting the availability of local guides or activity arrangements.(based on 10 reviews) Facilities:Includes a game room , outdoor pool, and mountain hiking trails.(based on 5 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Situated in a scenic, tranquil area with nearby tea plantations, bamboo forests, and hiking trails. Many reviews highlight the \"mountain view,\" \"fresh air,\" and proximity to Morandi Mountain.",
+        "count": 4
+      },
+      {
+        "topic": "Accommodation Quality",
+        "text": "Rooms are clean, spacious, and well-maintained, often featuring minimalist designs, tatami rooms, and views of the surrounding landscape.",
+        "count": 7
+      },
+      {
+        "topic": "Unique Amenities",
+        "text": "The on-site \"yacht club\" is frequently praised for its thrill and uniqueness, described as \"excellent\" and \"unparalleled.\"",
+        "count": 5
+      },
+      {
+        "topic": "Service",
+        "text": "Staff are consistently described as \"friendly,\" \"attentive,\" and \"helpful,\" with some noting the availability of local guides or activity arrangements.",
+        "count": 10
+      },
+      {
+        "topic": "Facilities",
+        "text": "Includes a game room , outdoor pool, and mountain hiking trails.",
+        "count": 5
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Mei'er Village Group, Ziling Village (near Naked Castle), Deqing, Zhejiang, China",
+  "priceRange": "From US$67",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Gym",
+    "Billiards room",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5634515/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20051e000001fv7imC67A.jpg"
+    },
+    {
+      "src": "/images/stays/5634515/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20051e000001fv7imC67A.webp"
+    },
+    {
+      "src": "/images/stays/5634515/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD5x120009fkr2kz8A43.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "假期出行預訂了這家民宿，三天兩晚體驗感很棒！房間陽台的視野很好，可以看到遠處的羣山竹海，也可以看到近處的田園野趣。四樓的天台可以吹到林間清風。一樓大廳有各種娛樂設施:茶室、麻將桌、桌球桌、K歌設備、遊戲機…還摸到了他家閑逛的小貓咪🐱酒店附近就有茶園。",
+      "author": "Anonymous User",
+      "date": "2026-04-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5634515&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5634515&trip_sub3=D19127628"
+    },
+    {
+      "quote": "藏於莫干山竹海間，環境清幽雅緻，房間乾淨舒適。管家服務貼心周到，餐食地道美味。遠離喧囂，治癒身心，是度假放鬆的絕佳選擇，下次還來！",
+      "author": "Guest User",
+      "date": "2026-04-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5634515&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5634515&trip_sub3=D19127628"
+    },
+    {
+      "quote": "這次入住體驗超棒！晚上到店特別晚，沒想到管家不僅提前幫忙打開了空調並且全程熱情接待幫拿行李，細緻講解入住事宜，貼心又周到，瞬間讓人感覺特別温暖。早起在周圍散步呼吸新鮮空氣，茶園小路和竹林泛起清晨的薄霧。民宿環境整潔，細節處滿是用心，整體體驗感拉滿，還在管家推薦下，從小路上了莫干山，風景非常美，真心推薦給大家，下次還來～",
+      "author": "Guest User",
+      "date": "2026-01-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5634515&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5634515&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 24,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:57:18.713Z",
+  "source": "trip"
+}

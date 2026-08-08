@@ -66,7 +66,7 @@ The ticket is not where the season saves you. The off-season band for a mid-rang
 
 Supply is why. About 1,000 guesthouses operate against a bed capacity capped near 10,000 in late 2017, and occupancy averaged about 55 percent in 2024. Nobody there holds a peak rate in January.
 
-We cannot list what closes. No source we trust publishes winter hours, so ask your guesthouse when you ask the price. TODO: verify winter closures. [Where to stay](/where-to-stay/) covers the villages and tiers.
+We cannot list what closes. No source we trust publishes winter hours, so ask your guesthouse when you ask the price. Not confirmed: winter closures. [Where to stay](/where-to-stay/) covers the villages and tiers.
 
 ## The evening problem is really a winter problem
 
@@ -99,7 +99,7 @@ That window is ten hours wide, and in December the useful part ends mid-afternoo
 | January | Coldest and emptiest. Mean 1.4 °C, or about 3.5 °C by the other source |
 | February | Cold, easing late. The shortest wait to the spring shoulder |
 
-All three sit at the low end of RMB 300 to 500. January is the only one with a published mean, so the other rows are about crowds and money. TODO: verify whether the Spring Festival holiday moves demand here.
+All three sit at the low end of RMB 300 to 500. January is the only one with a published mean, so the other rows are about crowds and money. Not confirmed: whether the Spring Festival holiday moves demand here.
 
 Then the day of the week, which every other page here tells you to pick first. Moganshan runs as a weekend market all year and Mondays are notably quiet. Winter takes the force out of that: a season this far below capacity does not fill on a Saturday the way October does. That last part is our reading of the occupancy figures.
 

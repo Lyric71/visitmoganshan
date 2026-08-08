@@ -1,0 +1,88 @@
+{
+  "id": 23754751,
+  "name": "Mogan Mountain Akita Cuckoo Fairytale World B&B",
+  "seedName": "Mogan Mountain Akita Cuckoo Fairytale World B&B",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-23754751",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=23754751&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-23754751&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:Nestled in serene greenery, the hotel offers a peaceful retreat with easy access to Moganshan attractions. The courtyard and pool enhance relaxation.(based on 47 reviews) Family-Friendly Amenities:Ideal for families, the hotel features activities for kids like trampolines and sandpits, with spacious themed rooms enhancing the experience.(based on 41 reviews) Pet-Friendly Features:Friendly cats create a welcoming atmosphere for animal lovers. Guests can interact with pets, adding comfort to their stay. Service Quality:Guests praise the attentive staff for enhancing their experience with proactive service and convenient options like early check-in.(based on 58 reviews) Guest Suggestion:Some customers suggest improving the cleanliness and maintenance of the rooms, enhancing the quality and variety of breakfast offerings, and ensuring better customer service responsiveness.(based on 8 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Nestled in serene greenery, the hotel offers a peaceful retreat with easy access to Moganshan attractions. The courtyard and pool enhance relaxation.",
+        "count": 47
+      },
+      {
+        "topic": "Family-Friendly Amenities",
+        "text": "Ideal for families, the hotel features activities for kids like trampolines and sandpits, with spacious themed rooms enhancing the experience.",
+        "count": 41
+      },
+      {
+        "topic": "Pet-Friendly Features",
+        "text": "Friendly cats create a welcoming atmosphere for animal lovers. Guests can interact with pets, adding comfort to their stay. Service Quality:Guests praise the attentive staff for enhancing their experience with proactive service and convenient options like early check-in.",
+        "count": 58
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving the cleanliness and maintenance of the rooms, enhancing the quality and variety of breakfast offerings, and ensuring better customer service responsiveness.",
+      "count": 8
+    }
+  },
+  "address": "No. 3, Longli, Laoling Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$135",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room",
+    "Multi-function room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/23754751/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200811000000qw3luC848.jpg"
+    },
+    {
+      "src": "/images/stays/23754751/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD2l12000ayt6rcl7268.webp"
+    },
+    {
+      "src": "/images/stays/23754751/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200b11000000rh8ev9101.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "This homestay is recommended for family trips! The boss is very nice! The fairy-tale-themed decoration, ocean balls, trampolines, swimming pools, reading areas, and even sand-digging areas! It really made the little ones happy. It is also very convenient to go...",
+      "author": "Anonymous User",
+      "date": "2025-05-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=23754751&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-23754751&trip_sub3=D19127628"
+    },
+    {
+      "quote": "After a long time of research, I checked into Akita Cuckoo. It is very suitable for parents and children. There are many amusement facilities and the yard layout is also like a fairy tale world. The service attitude of the...",
+      "author": "Guest User",
+      "date": "2025-04-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=23754751&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-23754751&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I took my children and my friends to Moganshan during the holiday and chose this Akita Cuckoo B&B! Overall, I am satisfied. I booked a suite, and the layout of the room is very unique! There is a sand pool...",
+      "author": "Anonymous User",
+      "date": "2025-04-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=23754751&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-23754751&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.2,
+    "count": 195,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:23:33.153Z",
+  "source": "trip"
+}

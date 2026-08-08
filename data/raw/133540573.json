@@ -1,0 +1,87 @@
+{
+  "id": 133540573,
+  "name": "Mogan Mountain Xiaoyao Zhijing - Stream Trekking, Hot Spring & Design Boutique Guesthouse",
+  "seedName": "Mogan Mountain Xiaoyao Zhijing - Stream Trekking, Hot Spring & Design Boutique Guesthouse",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-133540573",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=133540573&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-133540573&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:The hotel is conveniently located near the Moganshan Scenic Area, making it easy for guests to explore nearby attractions. It is also electric vehicle friendly, with fast charging stations available within 200 meters.(based on 20 reviews) Smart Technology:Guests frequently praised the advanced smart home system in the rooms, including voice-controlled lights and curtains. The inclusion of smart home assistants enhances the convenience and comfort of the stay.(based on 17 reviews) Cleanliness:The hotel maintains high standards of cleanliness, with rooms described as spotless and well-maintained. The atmosphere is quiet and comfortable, contributing to a restful experience.(based on 2 reviews) Service Quality:The owner and staff are consistently noted for their friendliness and attentiveness, providing a welcoming and personalized experience. Guests appreciated the proactive assistance and detailed travel recommendations.(based on 14 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "The hotel is conveniently located near the Moganshan Scenic Area, making it easy for guests to explore nearby attractions. It is also electric vehicle friendly, with fast charging stations available within 200 meters.",
+        "count": 20
+      },
+      {
+        "topic": "Smart Technology",
+        "text": "Guests frequently praised the advanced smart home system in the rooms, including voice-controlled lights and curtains. The inclusion of smart home assistants enhances the convenience and comfort of the stay.",
+        "count": 17
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "The hotel maintains high standards of cleanliness, with rooms described as spotless and well-maintained. The atmosphere is quiet and comfortable, contributing to a restful experience.",
+        "count": 2
+      },
+      {
+        "topic": "Service Quality",
+        "text": "The owner and staff are consistently noted for their friendliness and attentiveness, providing a welcoming and personalized experience. Guests appreciated the proactive assistance and detailed travel recommendations.",
+        "count": 14
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 39, Jimiaowu, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$85",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/133540573/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203l12000rcd72wgDC95.jpg"
+    },
+    {
+      "src": "/images/stays/133540573/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3f12000rer8tit6917.webp"
+    },
+    {
+      "src": "/images/stays/133540573/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2v12000rer68hw669C.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Moganshan | A Healing Mountain B&B for Chinese New Year First stop of 2026! A self-driving trip to the mountains from Jiangsu, Zhejiang, and Shanghai to breathe in the fresh air 🌳 ✔️ Stunning floor-to-ceiling windows for photos 📷 ✔️...",
+      "author": "Yikeyumi🌽",
+      "date": "2026-02-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=133540573&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-133540573&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The decor is modern and minimalist, the guest rooms have smart home assistants, and the front desk service is excellent. Overall, it's quite good.",
+      "author": "Guest User",
+      "date": "2026-02-11",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=133540573&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-133540573&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The stay exceeded my expectations. The smart room was technologically advanced, the environment was quiet and comfortable, the bedding was soft, and I had a particularly good rest.",
+      "author": "Guest User",
+      "date": "2026-02-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=133540573&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-133540573&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 47,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:29:51.745Z",
+  "source": "trip"
+}

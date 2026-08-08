@@ -1,0 +1,98 @@
+{
+  "id": 81387727,
+  "name": "Bamboo Chisun Moganshan Villa Designer Meisu",
+  "seedName": "Bamboo Chisun Moganshan Villa Designer Meisu",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-81387727",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=81387727&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-81387727&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:The accommodation is praised for its convenient location near scenic spots, providing easy access to highways and attractions such as Moganshan.(based on 1 review) Environment:The environment is described as clean, beautiful, and uniquely designed, with features like a large banyan tree and expansive grass lawns.(based on 8 reviews) Pool Area:Guests appreciate the spacious and aesthetically pleasing pool area, which complements the picturesque surroundings suitable for photography and social media posts.(based on 3 reviews) Amenities:The accommodation offers a rich array of amenities, including children’s facilities, pool tables, KTV rooms, and independent mahjong rooms, making it ideal for family stays and group events.(based on 3 reviews) Service:The service is consistently mentioned as warm and attentive, with the hostess frequently lauded for her hospitality.(based on 10 reviews) Meals:Meals receive high praise, particularly the rich and flavorful breakfast and local specialties like roasted lamb.(based on 4 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "The accommodation is praised for its convenient location near scenic spots, providing easy access to highways and attractions such as Moganshan.",
+        "count": 1
+      },
+      {
+        "topic": "Environment",
+        "text": "The environment is described as clean, beautiful, and uniquely designed, with features like a large banyan tree and expansive grass lawns.",
+        "count": 8
+      },
+      {
+        "topic": "Pool Area",
+        "text": "Guests appreciate the spacious and aesthetically pleasing pool area, which complements the picturesque surroundings suitable for photography and social media posts.",
+        "count": 3
+      },
+      {
+        "topic": "Amenities",
+        "text": "The accommodation offers a rich array of amenities, including children’s facilities, pool tables, KTV rooms, and independent mahjong rooms, making it ideal for family stays and group events.",
+        "count": 3
+      },
+      {
+        "topic": "Service",
+        "text": "The service is consistently mentioned as warm and attentive, with the hostess frequently lauded for her hospitality.",
+        "count": 10
+      },
+      {
+        "topic": "Meals",
+        "text": "Meals receive high praise, particularly the rich and flavorful breakfast and local specialties like roasted lamb.",
+        "count": 4
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Village Group 7, Shenzhongwu, Duihekou Village, Wukang Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$100",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/81387727/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200q12000a2wbrk21663.jpg"
+    },
+    {
+      "src": "/images/stays/81387727/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206k12000a2w8xse4C4C.webp"
+    },
+    {
+      "src": "/images/stays/81387727/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203212000a2wa0x90D3E.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The owner was very welcoming, the breakfast was plentiful, and the swimming pool was very clean.",
+      "author": "Ashlyn&Harry",
+      "date": "2024-10-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=81387727&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-81387727&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Let me talk about the location first. It is very convenient to go anywhere in the middle of several scenic spots. The environment is clean, beautiful and unique. The food is also really good. We ordered the roasted whole lamb....",
+      "author": "Xiaowangye28",
+      "date": "2023-08-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=81387727&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-81387727&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿很大，土雞很好吃，周邊也方便，避暑勝地，本地的莫干山啤酒很不錯，醇厚甘甜。老闆娘很熱情，有需要購買本地特產的也可以找老闆幫忙採購。",
+      "author": "Zhanghui",
+      "date": "2026-08-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=81387727&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-81387727&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 10,
+    "count": 22,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:58:13.363Z",
+  "source": "trip"
+}

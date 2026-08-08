@@ -1,0 +1,71 @@
+{
+  "id": 15965230,
+  "name": "Moganshan Yuanlai Shanzhuang Featured Homestay (Xiaoyuxian Branch)",
+  "seedName": "Moganshan Yuanlai Shanzhuang Featured Homestay (Xiaoyuxian Branch)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-15965230",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=15965230&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-15965230&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Situated in Xiantan Village, offering easy access to attractions like Moganshan, Yulin Dam, and Yawu Resort, with nearby scenic spots such as a small stream, rice fields, and a large swimming pool. Facilities:Spacious, clean rooms with modern amenities; a well-maintained swimming pool; and a quiet, scenic environment with mountain views from balconies.(based on 1 review) Environment:Natural beauty with mountains, rivers, and fresh air; ideal for families, pets, and relaxation. Additional Features:Free breakfast, pet-friendly policies, and opportunities for activities like bamboo shoot digging.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Situated in Xiantan Village, offering easy access to attractions like Moganshan, Yulin Dam, and Yawu Resort, with nearby scenic spots such as a small stream, rice fields, and a large swimming pool. Facilities:Spacious, clean rooms with modern amenities; a well-maintained swimming pool; and a quiet, scenic environment with mountain views from balconies.",
+        "count": 1
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Village Group 13, Xiantan Village, Moganshan Town, Moganshan Yuanlai Villa, Xiaoyu Line, Deqing, Zhejiang, China",
+  "priceRange": "From US$55",
+  "facilities": [
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/15965230/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0220n12000aysbjz5C837.jpg"
+    },
+    {
+      "src": "/images/stays/15965230/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1re6m12000b87h4ih2D60.webp"
+    },
+    {
+      "src": "/images/stays/15965230/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0221y12000ayfwqby4C04.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "房間面積大且衞生豪華 設施齊全 環境優美 服務周到熱情 特別是房主的母親己70多歲，待人真誠熱情，主動給我們做好飯菜，對我們象家人一樣關懷備至，我們很受感動 ，人間處處真情在，下次再來一定還住這裏，非常愉快的一次旅遊 值得推薦！",
+      "author": "Guest User",
+      "date": "2025-04-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=15965230&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-15965230&trip_sub3=D19127628"
+    },
+    {
+      "quote": "停車挺方便，老闆也很熱情，民宿就在仙潭村，離庾村、魚鱗壩等景點開車都挺近的，民宿裏有游泳池，民宿對面就是山景，邊上有小溪。",
+      "author": "Guest User",
+      "date": "2025-08-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=15965230&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-15965230&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿在仙潭村，環境優美，到碧塢龍潭步行幾分鐘。民宿很乾凈，有游泳池，夏天非常適合帶小朋友玩。老闆手藝不錯，菜炒的很好吃，早餐10元一位，有粥、饅頭、油條、玉米、醬菜等等，我們一行12人，住了兩晚，包了三樓的5個房間，恰逢中秋佳節，節假日這個價格性價比高的。",
+      "author": "Guest User",
+      "date": "2025-10-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=15965230&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-15965230&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.3,
+    "count": 40,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:44:02.093Z",
+  "source": "trip"
+}

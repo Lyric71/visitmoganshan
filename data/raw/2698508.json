@@ -1,0 +1,85 @@
+{
+  "id": 2698508,
+  "name": "Moganshan Bamboo View Guesthouse",
+  "seedName": "Moganshan Bamboo View Guesthouse",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2698508",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2698508&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2698508&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment Location:Close to Moganshan National Park, located deep in the village, quiet, with a small stream at the door, some rooms have balconies, and the top-floor public terrace can enjoy sunrises and sunsets(based on 7 reviews) Service:The boss's family is enthusiastic, helps buy scenic spot tickets, finds shuttle buses, breakfast is rich, and bedding is changed per guest with disinfectant used(based on 17 reviews) Facilities:There is a parking lot, a swimming pool at the door, bathroom with dry-wet separation, spacious rooms and complete facilities(based on 4 reviews) Dining:Breakfast combines Chinese and Western styles, dishes are fresh, vegetables are grown by themselves, dishes are delicious, and there is an Italian coffee machine(based on 8 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment Location",
+        "text": "Close to Moganshan National Park, located deep in the village, quiet, with a small stream at the door, some rooms have balconies, and the top-floor public terrace can enjoy sunrises and sunsets",
+        "count": 7
+      },
+      {
+        "topic": "Service",
+        "text": "The boss's family is enthusiastic, helps buy scenic spot tickets, finds shuttle buses, breakfast is rich, and bedding is changed per guest with disinfectant used",
+        "count": 17
+      },
+      {
+        "topic": "Facilities",
+        "text": "There is a parking lot, a swimming pool at the door, bathroom with dry-wet separation, spacious rooms and complete facilities",
+        "count": 4
+      },
+      {
+        "topic": "Dining",
+        "text": "Breakfast combines Chinese and Western styles, dishes are fresh, vegetables are grown by themselves, dishes are delicious, and there is an Italian coffee machine",
+        "count": 8
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 25, Xiwuli, Houwu Village, Deqing, Zhejiang, China",
+  "priceRange": "From US$42",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/2698508/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4f12000jf6nbgd5957.jpg"
+    },
+    {
+      "src": "/images/stays/2698508/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200s1a0000018rk5g23FF.webp"
+    },
+    {
+      "src": "/images/stays/2698508/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200l0k000000bto2q45D0.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "You won’t find a nicer and more friendly host family in China. Great place to stay. Clean rooms. Good food. Close to the Moganshan national park. Highly recommend it.",
+      "author": "Mikkel Eisenhardt",
+      "date": "2025-08-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2698508&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2698508&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The guesthouse was very nice, clean and hygienic, the landlady was warm and hospitable, and the food was delicious. I'll definitely come back next time.",
+      "author": "Guest User",
+      "date": "2025-11-16",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2698508&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2698508&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I stayed for two days and here's my honest review—I'm not a shill! Accommodation Experience: This guesthouse isn't a luxury hotel, but it has a really homey feel. We stayed in a balcony room, and cleanliness was the bare minimum....",
+      "author": "Guest User",
+      "date": "2025-10-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2698508&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2698508&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 28,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:54:03.591Z",
+  "source": "trip"
+}

@@ -1,0 +1,91 @@
+{
+  "id": 108248999,
+  "name": "Moganshan Hongxuan Homestay",
+  "seedName": "Moganshan Hongxuan Homestay",
+  "city": "Huzhou",
+  "cityId": 86,
+  "goSlug": "moganshan-108248999",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=108248999&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-108248999&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Environment:Nestled in a mountainous area with mountain views, surrounded by bamboo forests, and within 5 km of free attractions like Yulin Dam, cultural markets, temples, and villas.(based on 7 reviews) Facilities:Features a clean outdoor pool, barbecue area, table tennis, and a library with books. Additional amenities include a playground, trampoline, and yoga space.(based on 17 reviews) Cleanliness:Rooms and common areas are consistently described as tidy, with the host actively maintaining cleanliness .(based on 23 reviews) Service:Hosts are praised for their friendly, personalized recommendations .(based on 14 reviews) Design & Aesthetics:The red-painted building is visually striking, with a garden featuring plants, fruits , and a serene atmosphere. Accessibility:Proximity to major attractions with short driving times.(based on 7 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Nestled in a mountainous area with mountain views, surrounded by bamboo forests, and within 5 km of free attractions like Yulin Dam, cultural markets, temples, and villas.",
+        "count": 7
+      },
+      {
+        "topic": "Facilities",
+        "text": "Features a clean outdoor pool, barbecue area, table tennis, and a library with books. Additional amenities include a playground, trampoline, and yoga space.",
+        "count": 17
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms and common areas are consistently described as tidy, with the host actively maintaining cleanliness .",
+        "count": 23
+      },
+      {
+        "topic": "Service",
+        "text": "Hosts are praised for their friendly, personalized recommendations .",
+        "count": 14
+      },
+      {
+        "topic": "Aesthetics",
+        "text": "The red-painted building is visually striking, with a garden featuring plants, fruits , and a serene atmosphere. Accessibility:Proximity to major attractions with short driving times.",
+        "count": 7
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 36, Fangshan Village, Daixi Town, Wuxing District, Huzhou, Zhejiang, China",
+  "priceRange": "From US$50",
+  "facilities": [
+    "Billiards room",
+    "Cardroom"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/108248999/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0g12000b8diuhr9990.jpg"
+    },
+    {
+      "src": "/images/stays/108248999/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5u12000b8csesdB588.webp"
+    },
+    {
+      "src": "/images/stays/108248999/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3w12000b8d8hxd6BC7.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "定了甜蜜橙的親子房，有娃娃喜歡的上下鋪，小帳篷，還有室外的游泳池，完全滿足了娃娃的心願。房間很大很乾凈，上下鋪的床都很大，衞生間乾濕分離，窗户很大視野很好。漂流回來換下來一家三口的衣服都有充足的地方晾曬，真是很喜歡。阿姨準備的早飯很好吃，自家的玉米甜甜糯糯，雪菜筍小鹹菜很香，阿姨自己做的玫瑰花醬放在牛奶裏非常美味。也能看到叔叔經常去打掃游泳池。桌球桌，麻將桌還有遊戲機也都有。本來沒看到今年的評價還有點擔心，結果真是大大的驚喜。像之前的評價一樣，阿姨一如既往的送了自己做的筍乾，今年又加送了自己做的玫瑰花醬。對了，地理位置也很好，老闆還送了附近的遊玩攻略，距離庾村很近，魚鱗壩也在附近，稍微遠一點的還可以繼續去玩十八灣漂流，滿足了兩天兩次漂流。",
+      "author": "Guest User",
+      "date": "2025-08-25",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=108248999&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-108248999&trip_sub3=D19127628"
+    },
+    {
+      "quote": "這次定的民宿非常非常好，老闆人很好，會帶我們小朋友去找小溪，還帶娃玩遊戲，還給我們送西瓜吃，老闆媽媽做的早餐也特別好吃，吃的很舒服，還有睡前糖水，走的時候阿姨給我們帶上了筍乾和自己做玫瑰花醬，民宿環境也很好，有室外泳池，小朋友遊的很開心，離景點和玩的地方也很方便，開車都是幾分鐘，小貓小狗都很可愛，第一次見到這麼親人的小貓咪，小朋友特別喜歡，非常好的住宿體驗，温馨歡樂，下次來玩一定還選這家。",
+      "author": "Guest User",
+      "date": "2024-07-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=108248999&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-108248999&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿衞生管理做得好，整個庭院乾淨整潔，房間也乾淨，第二天早晨看見老闆在清理消毒泳池，小院在半山腰很安靜，交通也方便，去庾村，莫干山都是幾分鐘的車程，老闆人也熱情，離開時還送了特產筍，有機會再去！",
+      "author": "Guest User",
+      "date": "2024-07-14",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=108248999&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-108248999&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 53,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:12:32.984Z",
+  "source": "trip"
+}

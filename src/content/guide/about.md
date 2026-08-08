@@ -34,7 +34,7 @@ The publisher is BeyondBorder Group Ltd, registered in Hong Kong.
 | Research | Desk research, published Chinese and English sources |
 | Compiled | 1 to 5 August 2026 |
 | Field visit | None yet |
-| Writer bylines | TODO: verify |
+| Writer bylines | Not confirmed |
 
 Independent is an easy word to print, so here is what it covers. Nobody on the mountain reads a page before it goes live. We are not the Deqing tourism authority and do not speak for it. A property can ask us for a correction, like anyone. It cannot ask for a removal.
 
@@ -44,7 +44,7 @@ The missing field visit is why we describe hotels without reviewing them.
 
 The commercial model is not settled, and this section will change.
 
-TODO: verify how this site is funded, and whether BeyondBorder Group Ltd or anyone connected to it holds a commercial interest, direct or indirect, in any property named here. We will not describe a revenue model we cannot document.
+How this site is funded is not settled, and neither is whether BeyondBorder Group Ltd or anyone connected to it holds a commercial interest, direct or indirect, in any property named here. Both stay unconfirmed here until they are documented. We will not describe a revenue model we cannot document.
 
 One rule sits above whatever it turns out to be. Money does not buy a mention. It does not buy a better position either.
 
@@ -83,7 +83,7 @@ Neither Huzhou nor Deqing releases an inbound or foreign-visitor figure. It is t
 
 > Absence of any published inbound or foreign-visitor figure for Deqing and Huzhou, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-You will also see `TODO: verify` markers in the text. They are not oversights, but flags on what the research could not confirm.
+You will also see lines that say, in plain words, that something is unconfirmed. They are not oversights, but flags on what the research could not confirm.
 
 The same instinct covers the naming traps. Shanghai's Putuo District has a Moganshan Road, the M50 art quarter, 200 km from here. A station named for the mountain does not go near it either; you want Deqing. English results mix all three, which is much of why this guide exists.
 
@@ -102,7 +102,7 @@ That decision costs the site its most commercial pages. There is no best-hotel l
 Four commitments, and none of them has an exception clause.
 
 - We do not sell rooms. No booking engine, no cart.
-- We do not take a commission on a booking we cannot see. No affiliate link is live today. TODO: verify the final affiliate policy.
+- We do not take a commission on a booking we cannot see. No affiliate link is live today, and the final affiliate policy is not settled.
 - We do not accept payment for placement or for a link.
 - We do not trade coverage for a press trip or a hosted stay. Nothing here has come from either, to date.
 
@@ -118,6 +118,6 @@ Every page ends with a last-checked line, and gets re-dated when a figure moves.
 
 If something here is wrong, we want the correction. We would rather hear it from someone who works on the mountain than from a reader who got caught out. Send it through [Contact](/contact/). A correction that holds up gets made, and the page re-dated so you can see it moved.
 
-TODO: verify the contact address and response time.
+The contact address and the response time are not confirmed yet.
 
-*Publisher details and editorial policy last checked 6 August 2026. The funding model and the affiliate policy are open TODOs, not settled positions.*
+*Publisher details and editorial policy last checked 6 August 2026. The funding model and the affiliate policy are open questions, not settled positions.*

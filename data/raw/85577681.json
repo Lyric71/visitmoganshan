@@ -1,0 +1,90 @@
+{
+  "id": 85577681,
+  "name": "Moganshan Hexi Guesthouse",
+  "seedName": "Moganshan Hexi Guesthouse",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-85577681",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=85577681&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-85577681&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment and Location:Located halfway up Mogan Mountain, the guesthouse offers stunning views of bamboo forests. It's ideal for hiking and stargazing, providing a peaceful retreat from city life.(based on 22 reviews) Service Quality:Warm, attentive service by owners and staff. Hosts offer local recommendations and assist with special requests, ensuring guests feel at home.(based on 64 reviews) Facilities and Amenities:Modern amenities with clean rooms, some with balconies. Includes a pool, courtyard, and communal areas. Offers Dyson hair dryers and quality toiletries.(based on 39 reviews) Food Quality:Freshness and variety praised, accommodating dietary preferences.(based on 21 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment and Location",
+        "text": "Located halfway up Mogan Mountain, the guesthouse offers stunning views of bamboo forests. It's ideal for hiking and stargazing, providing a peaceful retreat from city life.",
+        "count": 22
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Warm, attentive service by owners and staff. Hosts offer local recommendations and assist with special requests, ensuring guests feel at home.",
+        "count": 64
+      },
+      {
+        "topic": "Facilities and Amenities",
+        "text": "Modern amenities with clean rooms, some with balconies. Includes a pool, courtyard, and communal areas. Offers Dyson hair dryers and quality toiletries.",
+        "count": 39
+      },
+      {
+        "topic": "Food Quality",
+        "text": "Freshness and variety praised, accommodating dietary preferences.",
+        "count": 21
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 6, Mawuli, Miaoqian Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$75",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant",
+    "Conference room",
+    "Multi-function room",
+    "Kids' club"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/85577681/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3x12000bkbmqoh1D84.jpg"
+    },
+    {
+      "src": "/images/stays/85577681/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3d12000bkau0a1AA0F.webp"
+    },
+    {
+      "src": "/images/stays/85577681/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0112000bkbc0qmA499.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Our stay was perfect, it felt just like home. The room was clean and fresh, with a lovely stylish decor. The host was attentive and warm, even giving us thoughtful recommendations for local attractions. We'll definitely stay here again on...",
+      "author": "˶ᵒ ᵕ ˂˶🐾",
+      "date": "2026-04-06",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=85577681&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-85577681&trip_sub3=D19127628"
+    },
+    {
+      "quote": "We really loved our time in Moganshan, mostly due to Hexi Guesthouse! It's location is great - easily accessible, quiet and a short taxi ride to the scenic area. Its amenities are modern, and the whole place feels very homely....",
+      "author": "Guest User",
+      "date": "2025-06-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=85577681&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-85577681&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I had the best time here. The room was wonderful, clean and quite. The hosts were very welcoming and helpful. Delicious breakfast with excellent coffee. I will definitely come again!",
+      "author": "Anastasia Scheurich",
+      "date": "2025-06-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=85577681&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-85577681&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 141,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:17:01.073Z",
+  "source": "trip"
+}

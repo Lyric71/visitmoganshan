@@ -1,0 +1,88 @@
+{
+  "id": 12085126,
+  "name": "LeafOne Moganshan Designer Homestay",
+  "seedName": "LeafOne Moganshan Designer Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-12085126",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=12085126&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-12085126&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:The hotel is nestled in a serene location with lush greenery, bamboo forests, and beautiful landscapes. Guests enjoy breathtaking views from large windows, and the peaceful surroundings are perfect for relaxation and nature exploration.(based on 16 reviews) Service Quality:The service is exceptional, with attentive and friendly staff who provide personalized recommendations for local attractions and dining. The private butler service is highly praised for its detail-oriented approach.(based on 94 reviews) Culinary Experience:The dining experience is noteworthy, with fresh, local ingredients used in breakfast and dinner. Guests appreciate the rich flavors of dishes like bamboo shoots soup, and the afternoon tea is a delightful touch.(based on 30 reviews) Facilities:The hotel offers a variety of facilities including a viewing deck, swimming pool, and public areas for relaxation and leisure activities. The rooms are well-designed with a natural aesthetic and provide a comfortable stay.(based on 15 reviews) Design and Aesthetics:The hotel's design blends traditional and modern elements, creating an aesthetically pleasing environment. The use of ",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "The hotel is nestled in a serene location with lush greenery, bamboo forests, and beautiful landscapes. Guests enjoy breathtaking views from large windows, and the peaceful surroundings are perfect for relaxation and nature exploration.",
+        "count": 16
+      },
+      {
+        "topic": "Service Quality",
+        "text": "The service is exceptional, with attentive and friendly staff who provide personalized recommendations for local attractions and dining. The private butler service is highly praised for its detail-oriented approach.",
+        "count": 94
+      },
+      {
+        "topic": "Culinary Experience",
+        "text": "The dining experience is noteworthy, with fresh, local ingredients used in breakfast and dinner. Guests appreciate the rich flavors of dishes like bamboo shoots soup, and the afternoon tea is a delightful touch.",
+        "count": 30
+      },
+      {
+        "topic": "Facilities",
+        "text": "The hotel offers a variety of facilities including a viewing deck, swimming pool, and public areas for relaxation and leisure activities. The rooms are well-designed with a natural aesthetic and provide a comfortable stay.",
+        "count": 15
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 15, Village Group 3, Ganmiaowu, Miaoqian Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$138",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Bar",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/12085126/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2r12000dr1wc6l87F6.jpg"
+    },
+    {
+      "src": "/images/stays/12085126/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200915000000xc2qm56FA.webp"
+    },
+    {
+      "src": "/images/stays/12085126/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0l12000cjccp2s9388.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The hotel is beautifully built and the room is very comfortable. The staff is very friendly too!",
+      "author": "Terra Chan",
+      "date": "2026-01-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=12085126&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-12085126&trip_sub3=D19127628"
+    },
+    {
+      "quote": "come here if you're seeking a moment of peace in the mountains. we had one of the most incredible stays at this hotel, nestled away from the bustle of town, it offered a self contained haven with pool, viewing deck,...",
+      "author": "Guest User",
+      "date": "2025-07-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=12085126&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-12085126&trip_sub3=D19127628"
+    },
+    {
+      "quote": "What a wonderful place this is. We stayed for 3 nights and extended for another night because we enjoyed the stay so much. The hotel is beautifully decorated, giving off a warm and inviting vibe. The manager Ah Cheng took...",
+      "author": "Guest User",
+      "date": "2025-05-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=12085126&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-12085126&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 172,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:05:20.381Z",
+  "source": "trip"
+}

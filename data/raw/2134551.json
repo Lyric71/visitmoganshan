@@ -1,0 +1,97 @@
+{
+  "id": 2134551,
+  "name": "Moganshan Pinhouwu Hotel",
+  "seedName": "Moganshan Pinhouwu Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2134551",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2134551&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2134551&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Proximity to Moganshan hiking trails, bamboo forests, and the Houwu transfer center; convenient for self-driving tours.(based on 17 reviews) Cleanliness:Rooms described as clean, hygienic, and matching photos; well-maintained facilities .(based on 55 reviews) Views:Floor-to-ceiling windows with mountain/bamboo forest vistas; serene, quiet environments.(based on 7 reviews) Service:Friendly, attentive hosts offering helpful guidance .(based on 37 reviews) Breakfast:Simple but satisfying meals, vegetarian-friendly options, and served in scenic outdoor areas .(based on 18 reviews) Accessibility:Parking available; some reviews note proximity to public transport hubs.(based on 17 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Proximity to Moganshan hiking trails, bamboo forests, and the Houwu transfer center; convenient for self-driving tours.",
+        "count": 17
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms described as clean, hygienic, and matching photos; well-maintained facilities .",
+        "count": 55
+      },
+      {
+        "topic": "Views",
+        "text": "Floor-to-ceiling windows with mountain/bamboo forest vistas; serene, quiet environments.",
+        "count": 7
+      },
+      {
+        "topic": "Service",
+        "text": "Friendly, attentive hosts offering helpful guidance .",
+        "count": 37
+      },
+      {
+        "topic": "Breakfast",
+        "text": "Simple but satisfying meals, vegetarian-friendly options, and served in scenic outdoor areas .",
+        "count": 18
+      },
+      {
+        "topic": "Accessibility",
+        "text": "Parking available; some reviews note proximity to public transport hubs.",
+        "count": 17
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 59, Xiwuli, Houwu Village, Fatou Township, Deqing, Zhejiang, 313206, China",
+  "priceRange": "From US$48",
+  "facilities": [
+    "Restaurant",
+    "Cafe",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/2134551/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02034120008tg5161100D.jpg"
+    },
+    {
+      "src": "/images/stays/2134551/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200a15000000xzszp9AFD.webp"
+    },
+    {
+      "src": "/images/stays/2134551/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200a15000000xzt3cB47F.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The location is a bit out of the way, but the room was very clean with large floor-to-ceiling windows. The pool was also spotless, and the owner's cooking was fantastic. What's more, the owner was incredibly enthusiastic about recommending travel...",
+      "author": "Dagoushenger",
+      "date": "2026-07-26",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2134551&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2134551&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Such a wonderful stay! The staff were so friendly and warm, the room was very clean, the swimming pool was very enjoyable, and there were lots of good restaurants nearby. They are also very pet friendly. Will definitely go there...",
+      "author": "KaylaA",
+      "date": "2025-08-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2134551&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2134551&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The owner and his family are so friendly. 100% recommend",
+      "author": "JUAN DAVID CANO CARRILLO",
+      "date": "2026-04-14",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2134551&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2134551&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 123,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:17:25.546Z",
+  "source": "trip"
+}

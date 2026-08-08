@@ -1,0 +1,92 @@
+{
+  "id": 15826482,
+  "name": "Mogan Mangu Countryside Parent-child Holiday Meisu",
+  "seedName": "Mogan Mangu Countryside Parent-child Holiday Meisu",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-15826482",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=15826482&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-15826482&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment & Location:Surrounded by green mountains, bamboo forests, and fresh air; located near hiking trails, swimming pools, and quiet villages like Houwu.(based on 3 reviews) Service Quality:Warm and attentive hosts .(based on 23 reviews) Cleanliness & Facilities:Rooms are clean, well-decorated, and include terraces with mountain views; swimming pools, fresh breakfast , and home-like amenities.(based on 5 reviews) Family-Friendly Features:Child-friendly activities , affordable pricing with good value, and proximity to nature for relaxation.(based on 2 reviews) Unique Experiences:Opportunities to interact with nature and enjoy locally sourced meals . Guest Suggestion:Some customers suggest improving outdated facilities and cleanliness, noting stained cups, damp bedding, and bathroom odors. Enhanced noise insulation is also recommended.(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Surrounded by green mountains, bamboo forests, and fresh air; located near hiking trails, swimming pools, and quiet villages like Houwu.",
+        "count": 3
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Warm and attentive hosts .",
+        "count": 23
+      },
+      {
+        "topic": "Facilities",
+        "text": "Rooms are clean, well-decorated, and include terraces with mountain views; swimming pools, fresh breakfast , and home-like amenities.",
+        "count": 5
+      },
+      {
+        "topic": "Family-Friendly Features",
+        "text": "Child-friendly activities , affordable pricing with good value, and proximity to nature for relaxation.",
+        "count": 2
+      },
+      {
+        "topic": "Unique Experiences",
+        "text": "Opportunities to interact with nature and enjoy locally sourced meals . Guest Suggestion:Some customers suggest improving outdated facilities and cleanliness, noting stained cups, damp bedding, and bathroom odors. Enhanced noise insulation is also recommended.",
+        "count": 3
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Xiwuli, Houwu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$54",
+  "facilities": [
+    "Outdoor swimming pool",
+    "2 Restaurants",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/15826482/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4b12000klr32gy256B.jpg"
+    },
+    {
+      "src": "/images/stays/15826482/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2t12000klqhx8wD3DA.webp"
+    },
+    {
+      "src": "/images/stays/15826482/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1012000klk1h637F98.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "What to tell about this place….its wonderful! Like his owner, a very happy and smile person, even if he didn’t speak so much of english it was 100% able to help me in everything. If u want a real china…go...",
+      "author": "Guest User",
+      "date": "2026-03-16",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=15826482&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-15826482&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Nice hotel, friendly staff, pool under a bit of refurbishment but still useable, good breakfast great views",
+      "author": "Faylaura",
+      "date": "2025-07-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=15826482&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-15826482&trip_sub3=D19127628"
+    },
+    {
+      "quote": "It’s the last hotel in road , had a feeling like staying deep in the forest . AC works really well, handle the heat well enough.",
+      "author": "Guest User",
+      "date": "2025-07-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=15826482&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-15826482&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 49,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:33:05.446Z",
+  "source": "trip"
+}

@@ -1,0 +1,69 @@
+{
+  "id": 63438595,
+  "name": "Moganshan Jiuzhu Hot Spring Light Luxury Beauty Hotel",
+  "seedName": "Moganshan Jiuzhu Hot Spring Light Luxury Beauty Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-63438595",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=63438595&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-63438595&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Jiuzhu Hot Spring Light Luxury Beauty Hotel?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Xiangtang Mountain, Gaofeng Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$95",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant",
+    "Conference room",
+    "Multi-function room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/63438595/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6u12000d02y78a062E.jpg"
+    },
+    {
+      "src": "/images/stays/63438595/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203012000a4lhob4853D.webp"
+    },
+    {
+      "src": "/images/stays/63438595/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201112000a4lnsi5DC69.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The environment here is great, perfect for kids! The owner is also very welcoming. My children spent every day in the pool, which is big and fun, and adults can relax nearby while watching them play.",
+      "author": "Guest User",
+      "date": "2026-08-07",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=63438595&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-63438595&trip_sub3=D19127628"
+    },
+    {
+      "quote": "This guesthouse boasts an excellent location, very close to Yucun Scenic Area, and a short drive to Moganshan Scenic Area, making sightseeing and travel incredibly convenient. The facilities are top-notch. The stargazing pool is clean and tidy, and the rooms...",
+      "author": "Guest User",
+      "date": "2026-07-03",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=63438595&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-63438595&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Extremely satisfied! The location is fantastic, very close to Gucun Cultural Street and Moganshan Scenic Area, right next to the Starry Sky Park. The owner is super nice, and the hotel environment is also lovely. Highly recommended!",
+      "author": "Guest User",
+      "date": "2026-05-03",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=63438595&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-63438595&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 305,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:01:03.152Z",
+  "source": "trip"
+}

@@ -1,0 +1,84 @@
+{
+  "id": 63435003,
+  "name": "Yinlin · Moganshan Mid-Levels Beauty Hotel",
+  "seedName": "Yinlin · Moganshan Mid-Levels Beauty Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-63435003",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=63435003&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-63435003&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service Quality:Guests consistently praise the attentive and warm service provided by the staff, including thoughtful gestures like driving assistance and personalized dining arrangements. The hotel is highly recommended for its friendly and efficient service.(based on 20 reviews) Facilities:The hotel offers excellent facilities, including large projection screens, comfortable bedding, and clean rooms. Guests appreciate the smart appliances and the availability of a well-maintained hot spring for relaxation.(based on 5 reviews) Food:Breakfast and dinner options are well-received, with guests enjoying the variety and taste. The meals prepared by the in-house chef are praised for their freshness and flavor, adding to the overall satisfaction of the stay.(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service Quality",
+        "text": "Guests consistently praise the attentive and warm service provided by the staff, including thoughtful gestures like driving assistance and personalized dining arrangements. The hotel is highly recommended for its friendly and efficient service.",
+        "count": 20
+      },
+      {
+        "topic": "Facilities",
+        "text": "The hotel offers excellent facilities, including large projection screens, comfortable bedding, and clean rooms. Guests appreciate the smart appliances and the availability of a well-maintained hot spring for relaxation.",
+        "count": 5
+      },
+      {
+        "topic": "Food",
+        "text": "Breakfast and dinner options are well-received, with guests enjoying the variety and taste. The meals prepared by the in-house chef are praised for their freshness and flavor, adding to the overall satisfaction of the stay.",
+        "count": 2
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Baijia, Ziling Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$82",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Bar",
+    "Restaurant",
+    "Conference room",
+    "Multi-function room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/63435003/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206b120008155vq354D6.jpg"
+    },
+    {
+      "src": "/images/stays/63435003/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4w12000psexbtuC35B.webp"
+    },
+    {
+      "src": "/images/stays/63435003/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2012000spa7l1fF5E0.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The owner was super nice, and the environment was great. There's a projector, and they even upgraded us to a sunroom with a bathtub! The lobby also has various game facilities, and you can even enjoy tea by a fire...",
+      "author": "Guest User",
+      "date": "2025-12-29",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=63435003&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-63435003&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Away from the hustle and bustle of the city, enjoy the tranquility here. The freshness in the morning, the laziness in the afternoon, and the tranquility in the evening are really refreshing. The boss here is warm and thoughtful, and...",
+      "author": "Guest User",
+      "date": "2023-10-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=63435003&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-63435003&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿很適合週末度假，房間有一扇大窗户對着外面的一棵大樹，夏天滿耳都是蟬鳴聲。老闆一家也很好，大廳有桌球桌遊戲桌，一樓有泳池躺椅，開車十幾分鍾就能到瘐村逛逛，是一個慢下來的地方。吃了兩頓飯味道也很不錯，是體驗感很好的一次度假。",
+      "author": "Guest User",
+      "date": "2026-07-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=63435003&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-63435003&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 40,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:43:00.093Z",
+  "source": "trip"
+}

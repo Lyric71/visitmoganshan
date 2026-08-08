@@ -1,0 +1,67 @@
+{
+  "id": 110015528,
+  "name": "Moganshan Xunjian Homestay (Yucun Square Branch)",
+  "seedName": "Moganshan Xunjian Homestay (Yucun Square Branch)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-110015528",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=110015528&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-110015528&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Xunjian Homestay (Yucun Square Branch)?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 5, Mogaowu, Liaoyuan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$86",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/110015528/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4i12000blfzfm6B3BA.jpg"
+    },
+    {
+      "src": "/images/stays/110015528/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2c12000bmat7cdA75A.webp"
+    },
+    {
+      "src": "/images/stays/110015528/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206912000r9sjhec6822.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Very clean and comfortable, our family of four had a great rest. My son loved the billiards table in the lobby! Breakfast was also very satisfying. Overall, it felt warm and cozy, definitely on par with a 4-star hotel!",
+      "author": "Guest User",
+      "date": "2026-04-07",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=110015528&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-110015528&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room was absolutely fantastic! The owners were incredibly kind and helpful. On the first day, I got caught in the rain and was planning to go to the supermarket to buy some things, but they proactively brought me hand...",
+      "author": "Guest User",
+      "date": "2026-04-04",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=110015528&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-110015528&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room was very clean, and the owner was super welcoming and friendly. If you're planning to visit Jiangnan Yaowu, you can buy tickets directly from them, and they're significantly cheaper – we saved dozens compared to buying elsewhere! The...",
+      "author": "Guest User",
+      "date": "2026-04-03",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=110015528&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-110015528&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 168,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:05:25.724Z",
+  "source": "trip"
+}

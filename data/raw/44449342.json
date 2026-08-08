@@ -1,0 +1,78 @@
+{
+  "id": 44449342,
+  "name": "Lanshan Shanju Hostel Mogan Mountain",
+  "seedName": "Lanshan Shanju Hostel Mogan Mountain",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-44449342",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=44449342&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-44449342&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness & Maintenance:Rooms and common areas are noted for their cleanliness and organization. The hosts maintain high standards of hygiene, ensuring a pleasant and safe environment for guests.(based on 23 reviews) Dining Experience:Breakfast is highlighted as a key advantage, featuring fresh, locally grown ingredients like corn, bamboo shoots, and rice. Meals are often prepared by the hosts, emphasizing quality and authenticity.(based on 19 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Maintenance",
+        "text": "Rooms and common areas are noted for their cleanliness and organization. The hosts maintain high standards of hygiene, ensuring a pleasant and safe environment for guests.",
+        "count": 23
+      },
+      {
+        "topic": "Dining Experience",
+        "text": "Breakfast is highlighted as a key advantage, featuring fresh, locally grown ingredients like corn, bamboo shoots, and rice. Meals are often prepared by the hosts, emphasizing quality and authenticity.",
+        "count": 19
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 5, Xia Village, Houwu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$64",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/44449342/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0581f12000sp93konD4E4.jpg"
+    },
+    {
+      "src": "/images/stays/44449342/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2008170000011dfb9E21B.webp"
+    },
+    {
+      "src": "/images/stays/44449342/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200u170000011d7g05A83.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Located in a quiet and peaceful area, with a natural oxygen bar, it offers everything you need for dining and accommodation. The owner and his wife are very easygoing and approachable, giving you a strong sense of belonging. The courtyard...",
+      "author": "Guest User",
+      "date": "2025-05-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=44449342&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-44449342&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The environment is very good and clean. The owner and the owner's wife are very warm and polite. The small garden is very beautiful when the lights are turned on at night. There is also a cute puppy.",
+      "author": "Anonymous User",
+      "date": "2025-05-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=44449342&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-44449342&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Nice boss, good tea. Helped pick us up from the entrance of the scenic spot to the hotel, very enthusiastic! Thanks!",
+      "author": "Wudacaizi",
+      "date": "2025-04-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=44449342&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-44449342&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 60,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:11:29.545Z",
+  "source": "trip"
+}

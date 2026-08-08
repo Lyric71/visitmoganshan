@@ -1,0 +1,97 @@
+{
+  "id": 127900008,
+  "name": "Moganshan Mile Private Tangmei Accommodation",
+  "seedName": "Moganshan Mile Private Tangmei Accommodation",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-127900008",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=127900008&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-127900008&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment Location:Situated on the hillside, surrounded by green bamboo forests, with greenery visible through the windows, enjoying fresh air and tranquility away from the hustle and bustle(based on 2 reviews) Facilities:Public areas are tastefully arranged, with complete facilities like swimming pools, chess and card rooms, KTV rooms(based on 28 reviews) Hygiene:Completely clean with no peculiar smells, every corner is spotless, and the overall hygiene is impeccable(based on 69 reviews) Service:Concierge service is enthusiastic and thoughtful, ready to help and recommend nearby attractions and food guides(based on 66 reviews) Bedding:Bedding is very comfortable, ensuring a good sleep(based on 51 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment Location",
+        "text": "Situated on the hillside, surrounded by green bamboo forests, with greenery visible through the windows, enjoying fresh air and tranquility away from the hustle and bustle",
+        "count": 2
+      },
+      {
+        "topic": "Facilities",
+        "text": "Public areas are tastefully arranged, with complete facilities like swimming pools, chess and card rooms, KTV rooms",
+        "count": 28
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Completely clean with no peculiar smells, every corner is spotless, and the overall hygiene is impeccable",
+        "count": 69
+      },
+      {
+        "topic": "Service",
+        "text": "Concierge service is enthusiastic and thoughtful, ready to help and recommend nearby attractions and food guides",
+        "count": 66
+      },
+      {
+        "topic": "Bedding",
+        "text": "Bedding is very comfortable, ensuring a good sleep",
+        "count": 51
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Approximately 380 meters northeast of Huakai Ziling, Yumei Road, Waicun Village, Ziling Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$95",
+  "facilities": [
+    "Hot springs",
+    "Bar",
+    "Tea room",
+    "Cardroom",
+    "Restaurant",
+    "Cafe",
+    "Karaoke",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/127900008/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1912000jykcn3i3B61.jpg"
+    },
+    {
+      "src": "/images/stays/127900008/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4e12000m1wboqx8D1B.webp"
+    },
+    {
+      "src": "/images/stays/127900008/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6j12000jygm7xm0A16.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "It's been a long time since I've stayed at such a great homestay. The room was huge and very clean! Outside, there's even a card room, karaoke room, and a swimming pool – wow, just amazing! Right outside is the...",
+      "author": "Guest User",
+      "date": "2026-05-28",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=127900008&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-127900008&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The environment here is lovely, and the rooms are clean and hygienic. They offer KTV, a card room, BBQ facilities, and a bonfire. I booked it with the owner the day before check-in, and they provided a BBQ grill and...",
+      "author": "Guest User",
+      "date": "2026-03-31",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=127900008&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-127900008&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The house, nestled on the hillside, is clean and tidy, and the surroundings are quiet. The bedding was so comfortable, I slept wonderfully. The interior decoration is cozy, and the owner and hostess are warm and attentive. Dinner and breakfast...",
+      "author": "Guest User",
+      "date": "2026-01-11",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=127900008&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-127900008&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 111,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:53:41.670Z",
+  "source": "trip"
+}

@@ -1,0 +1,91 @@
+{
+  "id": 8561104,
+  "name": "Ziyan Shanju Inn",
+  "seedName": "Ziyan Shanju Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-8561104",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8561104&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8561104&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Conveniently located near attractions, with easy access to scenic spots like Moganshan. The property is situated in a picturesque village with lush bamboo forests and beautiful natural scenery.(based on 13 reviews) Environment:Rooms have balconies or terraces for enjoying scenic views, with fresh air and a peaceful atmosphere. Surroundings include mountains, streams, and a tranquil rural setting.(based on 11 reviews) Service:Hosts are warm, hospitable, and provide attentive service, such as helping with travel arrangements, offering fruits, and preparing abundant breakfasts.(based on 64 reviews) Hygiene:Rooms and facilities are clean and tidy, meeting high standards of sanitation.(based on 39 reviews) Facilities:Features wooden-style rooms with comfortable layouts, some having balconies or terraces, and a cozy environment(based on 8 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Conveniently located near attractions, with easy access to scenic spots like Moganshan. The property is situated in a picturesque village with lush bamboo forests and beautiful natural scenery.",
+        "count": 13
+      },
+      {
+        "topic": "Environment",
+        "text": "Rooms have balconies or terraces for enjoying scenic views, with fresh air and a peaceful atmosphere. Surroundings include mountains, streams, and a tranquil rural setting.",
+        "count": 11
+      },
+      {
+        "topic": "Service",
+        "text": "Hosts are warm, hospitable, and provide attentive service, such as helping with travel arrangements, offering fruits, and preparing abundant breakfasts.",
+        "count": 64
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Rooms and facilities are clean and tidy, meeting high standards of sanitation.",
+        "count": 39
+      },
+      {
+        "topic": "Facilities",
+        "text": "Features wooden-style rooms with comfortable layouts, some having balconies or terraces, and a cozy environment",
+        "count": 8
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 30, Wai Village, Ziling Village, Moganshan Town, Deqing County, Huzhou, Deqing, Zhejiang, 313204, China",
+  "priceRange": "From US$44",
+  "facilities": [
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/8561104/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1412000kyefm0n64A2.jpg"
+    },
+    {
+      "src": "/images/stays/8561104/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1c12000kyek81u6F7B.webp"
+    },
+    {
+      "src": "/images/stays/8561104/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6v12000kyejew5E988.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Highly recommend staying here , very beautiful view, and the family managing the property are really so nice",
+      "author": "AYOUB AROUND THE GLOBE",
+      "date": "2026-01-18",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8561104&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8561104&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Convenient location from where we planned to go in the day time. Lovely family, friendly warm and very hospitable. The family even offered to drop me off at a point very close by, the breakfast was lovely and the family...",
+      "author": "CN.Torlage",
+      "date": "2024-06-09",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8561104&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8561104&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I usually don't comment much, but I will comment on this B&B I stayed in and recommend it to everyone. First of all, the B&B is convenient to the scenic spots, the service is also very good, and the food...",
+      "author": "Anonymous User",
+      "date": "2024-05-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8561104&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8561104&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 108,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:53:52.817Z",
+  "source": "trip"
+}

@@ -1,0 +1,91 @@
+{
+  "id": 77298817,
+  "name": "Lost Villa (Moganshan Biwu)",
+  "seedName": "Lost Villa (Moganshan Biwu)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-77298817",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=77298817&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-77298817&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Pet-Friendly:Numerous reviews indicate the hotel is pet-friendly, with provisions for pet supplies and allowing pets to move freely in suitable areas. Environment and Location:Situated in a quiet village surrounded by bamboo forests, featuring natural landscapes like streams and valleys, offering a peaceful stay.(based on 46 reviews) Service Quality:Staff are enthusiastic and considerate, housekeepers respond promptly to guests' needs, providing attentive service throughout the stay.(based on 325 reviews) Dining:Breakfast is abundant, main dishes taste good, and food can be delivered to the room.(based on 48 reviews) Facilities:Some room types have distinctive features such as loft style, and facilities like air conditioners and floor heating are available.(based on 73 reviews) Guest Suggestion:Some customers suggest improving lighting, upgrading outdated facilities (e.g., mattresses, non-branded amenities), and addressing noise issues to enhance guest experience.(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Pet-Friendly",
+        "text": "Numerous reviews indicate the hotel is pet-friendly, with provisions for pet supplies and allowing pets to move freely in suitable areas. Environment and Location:Situated in a quiet village surrounded by bamboo forests, featuring natural landscapes like streams and valleys, offering a peaceful stay.",
+        "count": 46
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Staff are enthusiastic and considerate, housekeepers respond promptly to guests' needs, providing attentive service throughout the stay.",
+        "count": 325
+      },
+      {
+        "topic": "Dining",
+        "text": "Breakfast is abundant, main dishes taste good, and food can be delivered to the room.",
+        "count": 48
+      },
+      {
+        "topic": "Facilities",
+        "text": "Some room types have distinctive features such as loft style, and facilities like air conditioners and floor heating are available.",
+        "count": 73
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving lighting, upgrading outdated facilities (e.g., mattresses, non-branded amenities), and addressing noise issues to enhance guest experience.",
+      "count": 3
+    }
+  },
+  "address": "No. 49, Biwu Village, Moganshan, Deqing, Zhejiang, China",
+  "priceRange": "From US$102",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Cafe"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/77298817/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201e120008rxeo97B2BD.jpg"
+    },
+    {
+      "src": "/images/stays/77298817/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2s12000s4lfp1tC21C.webp"
+    },
+    {
+      "src": "/images/stays/77298817/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02065120008s67mrr20FA.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The floor-to-ceiling windows offer a beautiful green view, which was so relaxing. We brought our little cat with us, and it's one of the few pet-friendly places around. The breakfast was also really good! ☺️☺️",
+      "author": "Guest User",
+      "date": "2026-05-31",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=77298817&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-77298817&trip_sub3=D19127628"
+    },
+    {
+      "quote": "We stayed in a Loft room in building 5, which was very quiet and well-located. It was super convenient to go up the mountain, and a pleasant walk down. The service was excellent, and the staff were all very enthusiastic....",
+      "author": "Guest User",
+      "date": "2026-04-30",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=77298817&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-77298817&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Very satisfied. Biwu Village is very quiet, and every staff member is very kind. Xiao Hui provided excellent service, and we had a wonderful two-day stay. The room had air conditioning and floor heating, so it wasn't cold at all....",
+      "author": "Alicejinyu",
+      "date": "2026-01-03",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=77298817&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-77298817&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 437,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:00:10.780Z",
+  "source": "trip"
+}

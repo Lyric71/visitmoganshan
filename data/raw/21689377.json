@@ -1,0 +1,81 @@
+{
+  "id": 21689377,
+  "name": "See Faraway Mogan Ziling Villa",
+  "seedName": "See Faraway Mogan Ziling Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-21689377",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=21689377&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-21689377&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Facilities:Facilities are complete and comfortable, newly renovated, with unique styles like South France vacation house style, and it has its own swimming pool(based on 10 reviews) Service:Hosts are warm and welcoming, housekeepers are considerate and thoughtful(based on 15 reviews) Diet:Meals are delicious and fresh, breakfast is rich and characteristic(based on 10 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Facilities",
+        "text": "Facilities are complete and comfortable, newly renovated, with unique styles like South France vacation house style, and it has its own swimming pool",
+        "count": 10
+      },
+      {
+        "topic": "Service",
+        "text": "Hosts are warm and welcoming, housekeepers are considerate and thoughtful",
+        "count": 15
+      },
+      {
+        "topic": "Diet",
+        "text": "Meals are delicious and fresh, breakfast is rich and characteristic",
+        "count": 10
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Meisi Village Group, Meigaowu, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$204",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/21689377/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200f170000010xwy90AB9.jpg"
+    },
+    {
+      "src": "/images/stays/21689377/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0m12000p5a0eg46B58.webp"
+    },
+    {
+      "src": "/images/stays/21689377/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1212000p9y5qqf6F4F.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "My husband and I really enjoyed our 2-night stay in the Ziling Mountain View Suite. The entire villa is beautifully decorated but in a way that feels lived in rather than pretentious. It's like being invited to a friend's home...",
+      "author": "Guest User",
+      "date": "2026-07-15",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=21689377&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-21689377&trip_sub3=D19127628"
+    },
+    {
+      "quote": "We really loved our stay at See Faraway. It felt like staying at a friend’s home. The setting has a dream like feeling. It’s a cozy place on the side of the mountain and surrounded by gardens. 王先生 was very...",
+      "author": "Smelly Flowers",
+      "date": "2026-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=21689377&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-21689377&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Another well-deserved positive review! This is such a perfect place to unwind. The attention to detail is superb; you can find a comfortable spot anywhere in the room to sit with a cup of tea, and everywhere you look, there's...",
+      "author": "Guest User",
+      "date": "2026-05-13",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=21689377&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-21689377&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 42,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:37:34.199Z",
+  "source": "trip"
+}

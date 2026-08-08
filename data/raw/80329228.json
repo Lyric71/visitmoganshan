@@ -1,0 +1,75 @@
+{
+  "id": 80329228,
+  "name": "Zhu Huali B & B",
+  "seedName": "Zhu Huali B & B",
+  "city": "Huzhou",
+  "cityId": 86,
+  "goSlug": "moganshan-80329228",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=80329228&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-80329228&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Facilities and Amenities:Guests appreciate the family-friendly amenities, including game rooms, ping-pong tables, trampolines, and fully equipped rooms. The property also offers recreational spaces for relaxation and socializing.(based on 1 review) Breakfast Experience:The breakfast is a standout feature, featuring home-cooked meals with local specialties like bamboo shoots and pickled ginger. Guests note its variety, taste, and the hosts' effort to accommodate dietary preferences.(based on 9 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Facilities and Amenities",
+        "text": "Guests appreciate the family-friendly amenities, including game rooms, ping-pong tables, trampolines, and fully equipped rooms. The property also offers recreational spaces for relaxation and socializing.",
+        "count": 1
+      },
+      {
+        "topic": "Breakfast Experience",
+        "text": "The breakfast is a standout feature, featuring home-cooked meals with local specialties like bamboo shoots and pickled ginger. Guests note its variety, taste, and the hosts' effort to accommodate dietary preferences.",
+        "count": 9
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 37, Xieziwei, Fangshan Village, Daixi Town, Wuxing District, Huzhou, Zhejiang, China",
+  "priceRange": "From US$51",
+  "facilities": [
+    "Cardroom"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/80329228/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205n12000bxddp7r34FE.jpg"
+    },
+    {
+      "src": "/images/stays/80329228/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6212000dnnhluf41F9.webp"
+    },
+    {
+      "src": "/images/stays/80329228/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0586n12000sn0182fCCC7.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Lovely stay and very kind people. Will come back !",
+      "author": "Guest User",
+      "date": "2024-04-14",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=80329228&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-80329228&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The B&B is beautiful, with fresh air and clean rooms. The hostess was attentive and prepared a hearty breakfast for us, introducing us to scenic spots. Transportation is also convenient. Away from the hustle and bustle of the city, I...",
+      "author": "Guest User",
+      "date": "2025-07-16",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=80329228&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-80329228&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The place is very clean and the service is great. It's easy to walk around and relax. It's also close to Moganshan. The stay was very comfortable. You can even camp in the garden. The landlord helped us set up...",
+      "author": "Guest User",
+      "date": "2025-07-18",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=80329228&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-80329228&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 26,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:56:08.082Z",
+  "source": "trip"
+}

@@ -1,0 +1,76 @@
+{
+  "id": 2633792,
+  "name": "Moganshan Manting Garden View Holiday Villa",
+  "seedName": "Moganshan Manting Garden View Holiday Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2633792",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2633792&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2633792&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service:The service staff are proactive, enthusiastic, and help solve small problems, and will introduce travel routes and recommend good restaurants.(based on 101 reviews) Environment:It is an old villa building with a quaint style, surrounded by beautiful scenery, and the evening has a light show like a fairy forest in Miyazaki's works Guest Suggestion: Some customers suggest upgrading outdated facilities, improving cleanliness , and addressing noise issues .(based on 4 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service",
+        "text": "The service staff are proactive, enthusiastic, and help solve small problems, and will introduce travel routes and recommend good restaurants.",
+        "count": 101
+      },
+      {
+        "topic": "Environment",
+        "text": "It is an old villa building with a quaint style, surrounded by beautiful scenery, and the evening has a light show like a fairy forest in Miyazaki's works Guest Suggestion: Some customers suggest upgrading outdated facilities, improving cleanliness , and addressing noise issues .",
+        "count": 4
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 410, Inside Luhuadang Park, Moganshan Scenic Area, Deqing, Zhejiang, China",
+  "priceRange": "From US$71",
+  "facilities": [
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/2633792/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200d1c000001d1utbD536.jpg"
+    },
+    {
+      "src": "/images/stays/2633792/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1re6m12000b87h4ih2D60.webp"
+    },
+    {
+      "src": "/images/stays/2633792/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200t1c000001d6xkk463D.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The location is excellent; you should be able to see the sunrise from your upstairs room. It snowed on New Year's Day. The view was stunning, highly recommended. Because the building is old, those sensitive to noise should consider staying...",
+      "author": "Guest User",
+      "date": "2026-01-12",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2633792&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2633792&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The hotel has a great environment, located right inside Luhua Dang Park. The view from the terrace is fantastic, and the park is just outside the door. It's also very close to restaurants on Shanyin Street, only a few minutes'...",
+      "author": "Guest User",
+      "date": "2025-12-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2633792&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2633792&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Choosing Yun's room was the right decision; the maple trees were right outside the window. The owner, housekeeper, and staff were all very friendly. We also ate at the hotel for both nights, and the food was excellent. After this...",
+      "author": "Bentengdemaotouqiangzi",
+      "date": "2025-12-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2633792&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2633792&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.3,
+    "count": 261,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:24:09.458Z",
+  "source": "trip"
+}

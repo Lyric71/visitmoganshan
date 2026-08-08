@@ -1,0 +1,92 @@
+{
+  "id": 78349975,
+  "name": "Moganshan Huaming Xiaozhu Homestay",
+  "seedName": "Moganshan Huaming Xiaozhu Homestay",
+  "city": "Huzhou",
+  "cityId": 86,
+  "goSlug": "moganshan-78349975",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=78349975&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-78349975&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness:Rooms, bathrooms, and common areas were frequently praised for being spotless, with no dust or dirt .(based on 17 reviews) Service Quality:Hosts were described as warm, attentive, and accommodating, offering proactive assistance .(based on 18 reviews) Facilities:Features included a swimming pool, table tennis, karaoke, mahjong, and children’s play areas .(based on 8 reviews) Location:Proximity to Yu Village , Tourist Distribution Center, and scenic spots like the rainbow path and fish-scale dam .(based on 3 reviews) Breakfast:Homemade, varied, and nutritious meals were consistently highlighted .(based on 5 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms, bathrooms, and common areas were frequently praised for being spotless, with no dust or dirt .",
+        "count": 17
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Hosts were described as warm, attentive, and accommodating, offering proactive assistance .",
+        "count": 18
+      },
+      {
+        "topic": "Facilities",
+        "text": "Features included a swimming pool, table tennis, karaoke, mahjong, and children’s play areas .",
+        "count": 8
+      },
+      {
+        "topic": "Location",
+        "text": "Proximity to Yu Village , Tourist Distribution Center, and scenic spots like the rainbow path and fish-scale dam .",
+        "count": 3
+      },
+      {
+        "topic": "Breakfast",
+        "text": "Homemade, varied, and nutritious meals were consistently highlighted .",
+        "count": 5
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 50, Xieziwei, Fangshan Village, Daixi Town, Wuxing District, Huzhou, Zhejiang, China",
+  "priceRange": "From US$52",
+  "facilities": [
+    "Gym",
+    "Cardroom",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/78349975/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0204w12000n247n5eFE71.jpg"
+    },
+    {
+      "src": "/images/stays/78349975/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200w120009n1hvghEBAA.webp"
+    },
+    {
+      "src": "/images/stays/78349975/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205c120009n1gsv529E9.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The family owners were so nice and helpful, they even offered free transport in their car to and from the town, just a short 9min drive, very clean place, beautiful scenic views and nice bathroom",
+      "author": "Guest User",
+      "date": "2026-04-11",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=78349975&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-78349975&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Huaming Xiaozhu Homestay | A Reassuring and Warm Home Having stayed in many homestays, Huaming Xiaozhu is the one I trust the most—it doesn't rely on trendy packaging, but simply delivers the authentic experience a homestay should have. The bamboo...",
+      "author": "Guest User",
+      "date": "2026-04-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=78349975&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-78349975&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The location is convenient, not far from several attractions. The rooms, though not large, are very clean. The landlady is very welcoming and cooks delicious food. There's also a swimming pool and swings for children. Overall, it's a good place...",
+      "author": "Guest User",
+      "date": "2025-10-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=78349975&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-78349975&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 27,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:52:40.687Z",
+  "source": "trip"
+}

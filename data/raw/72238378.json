@@ -1,0 +1,72 @@
+{
+  "id": 72238378,
+  "name": "One Bay Monthly Residence",
+  "seedName": "One Bay Monthly Residence",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-72238378",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=72238378&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-72238378&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Dining Experience:The accommodation provides quality dining options, including breakfast with diverse selections and locally sourced meals. Guests appreciate the fresh, flavorful food and the convenience of on-site dining for both casual meals and special occasions.(based on 7 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Dining Experience",
+        "text": "The accommodation provides quality dining options, including breakfast with diverse selections and locally sourced meals. Guests appreciate the fresh, flavorful food and the convenience of on-site dining for both casual meals and special occasions.",
+        "count": 7
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 6, Jinjiwan, Miaoqian Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$71",
+  "facilities": [
+    "Outdoor swimming pool",
+    "2 Restaurants",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/72238378/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205a120008s6xo46657D.jpg"
+    },
+    {
+      "src": "/images/stays/72238378/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02019120008s7hmtu4C58.webp"
+    },
+    {
+      "src": "/images/stays/72238378/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0202v120008s7f69qBFDD.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "民宿陽台視野絕了，推窗便是滿目青山。坐在露台吹吹風，靜享山林清幽，遠離城市喧囂，悠閑治癒，很適合放空小住。假期庾街晚上還有表演。",
+      "author": "kkyy",
+      "date": "2026-07-30",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=72238378&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-72238378&trip_sub3=D19127628"
+    },
+    {
+      "quote": "環境優美，房屋設計感很好，老闆很有品味。空間靜謐 空氣清新，帶游泳池，設施配備相當不錯！早餐也很用心，老闆娘很好，愛學習，愛探索，心細，讓人感受特別美好，極力推薦！",
+      "author": "Guest User",
+      "date": "2025-08-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=72238378&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-72238378&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間一個大通間，兩張1.5米大床，帶景觀陽台 空氣好，溪水潺潺。下雨後水有點混 有個不小的泳池 唯一美中不足，淋浴頭水壓小，洗澡不夠舒坦 通過店家發的連結訂購景點門票有優惠哦",
+      "author": "Wurutaoyuandedasheng",
+      "date": "2025-07-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=72238378&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-72238378&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 70,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:10:36.411Z",
+  "source": "trip"
+}

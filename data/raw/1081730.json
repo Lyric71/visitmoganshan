@@ -1,0 +1,84 @@
+{
+  "id": 1081730,
+  "name": "MOGAN JOYFUL REUNION INN",
+  "seedName": "MOGAN JOYFUL REUNION INN",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1081730",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1081730&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1081730&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Facilities:Facilities are complete, with entertainment facilities such as billiards, table tennis, etc. Some have swimming pools and charging piles(based on 15 reviews) Hygiene:The owner keeps it very clean, and the rooms are tidy(based on 32 reviews) Service:The owner and the hostess are enthusiastic, provide travel suggestions, and the breakfast is rich(based on 13 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Facilities",
+        "text": "Facilities are complete, with entertainment facilities such as billiards, table tennis, etc. Some have swimming pools and charging piles",
+        "count": 15
+      },
+      {
+        "topic": "Hygiene",
+        "text": "The owner keeps it very clean, and the rooms are tidy",
+        "count": 32
+      },
+      {
+        "topic": "Service",
+        "text": "The owner and the hostess are enthusiastic, provide travel suggestions, and the breakfast is rich",
+        "count": 13
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 20, Biwu, Xiantan Village, Moganshan Town, Deqing, Zhejiang, 313202, China",
+  "priceRange": "From US$64",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Billiards room",
+    "Table tennis room",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1081730/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0202l120008be3bvj953B.jpg"
+    },
+    {
+      "src": "/images/stays/1081730/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3q12000tflsa40A558.webp"
+    },
+    {
+      "src": "/images/stays/1081730/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4312000tflwml9523B.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The owner was very kind; they warmly welcomed us even though we arrived late. They upgraded us to a family room, which was spacious and clean. The view from the window was beautiful, and the room itself was excellent. Thumbs...",
+      "author": "Guest User",
+      "date": "2025-11-09",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1081730&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1081730&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Nestled halfway up a mountain, with a stream right in front, this place offers convenient parking and charging stations. The rooms are very clean, and the bathrooms all have windows for good ventilation. Sitting on the small terrace, you can...",
+      "author": "Guest User",
+      "date": "2025-10-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1081730&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1081730&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room was clean, the owner was very welcoming and upgraded me to a room with a view. The hotel has a beautiful environment, surrounded by mountains, and the breakfast was plentiful. There are several restaurants nearby. I'll definitely stay...",
+      "author": "jw1234",
+      "date": "2025-08-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1081730&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1081730&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 62,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:58:10.136Z",
+  "source": "trip"
+}

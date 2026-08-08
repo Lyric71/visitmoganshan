@@ -1,0 +1,65 @@
+{
+  "id": 38943743,
+  "name": "Moganshan Yueshu Homestay",
+  "seedName": "Moganshan Yueshu Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-38943743",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=38943743&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-38943743&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Yueshu Homestay?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 21, Laolingjiao, Laoling Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$69",
+  "facilities": [
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/38943743/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200k1600000109fc58595.jpg"
+    },
+    {
+      "src": "/images/stays/38943743/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3y12000eyw485kEF92.webp"
+    },
+    {
+      "src": "/images/stays/38943743/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2312000hvmlh1z3094.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "入住這棟別墅民宿空間比圖片還大，客廳通透採光好。廚房用具齊全，設有ktv，大泳池，走路五分鐘還能在水庫享受垂釣之樂，卧室床品柔軟睡得香，隔音也不錯晚上很安靜，適合情侶或一家人度假！",
+      "author": "liubin",
+      "date": "2026-08-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=38943743&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-38943743&trip_sub3=D19127628"
+    },
+    {
+      "quote": "超級超級棒！兩個管家小姑娘，老闆和外婆都非常温和熱情，真的有家的感覺。房間很乾凈很舒服，有大的院子，這個季節過來一進大門柿子掛滿枝頭，老闆還專門留着讓住宿的過來體驗。早飯非常好吃滿足，走的當天趕上生日，老闆特意煮了麪，麪超級好吃，配上自己做的鹹菜，味道好極了。非常温暖，還會再來",
+      "author": "Guest User",
+      "date": "2025-10-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=38943743&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-38943743&trip_sub3=D19127628"
+    },
+    {
+      "quote": "太棒啦～ 藏在幽靜景區裏的私家別墅，很美的花園，超熱情的管家小姐姐，還有可愛的小狗狗。 入住期間正好莫干山越野賽，核心區交通管制封閉了，管家還特意接送，太貼心了～ 配套設施很齊全，棋牌室、泳池、泡茶區、小童遊樂場......不出門都可以窩一整天。距離莫干山各景區也近。 必須特別誇誇早餐，非常驚喜！自製的拌麪、酸菜很好吃，連住4天都吃不膩，下次度假還來哦～",
+      "author": "Guest User",
+      "date": "2025-11-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=38943743&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-38943743&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 30,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:51:05.065Z",
+  "source": "trip"
+}

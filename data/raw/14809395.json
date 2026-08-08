@@ -1,0 +1,84 @@
+{
+  "id": 14809395,
+  "name": "Sunsee Inn",
+  "seedName": "Sunsee Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-14809395",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=14809395&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-14809395&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:The B&B is excellently located in Moganshan, with convenient access to surrounding attractions such as Yucun and Wangwei Mountain. The proximity to scenic spots and amenities like parking and charging stations enhances the travel experience.(based on 44 reviews) Cleanliness:Cleanliness is a standout feature, with guests frequently mentioning the immaculate condition of rooms and common areas. The hygiene standards contribute significantly to the overall comfort and satisfaction of the stay.(based on 100 reviews) Dining:Dining receives high marks, with guests enjoying well-prepared meals that cater to a variety of tastes. Breakfast is often highlighted for its quality and variety, including options like freshly brewed coffee and local specialties.(based on 32 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "The B&B is excellently located in Moganshan, with convenient access to surrounding attractions such as Yucun and Wangwei Mountain. The proximity to scenic spots and amenities like parking and charging stations enhances the travel experience.",
+        "count": 44
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Cleanliness is a standout feature, with guests frequently mentioning the immaculate condition of rooms and common areas. The hygiene standards contribute significantly to the overall comfort and satisfaction of the stay.",
+        "count": 100
+      },
+      {
+        "topic": "Dining",
+        "text": "Dining receives high marks, with guests enjoying well-prepared meals that cater to a variety of tastes. Breakfast is often highlighted for its quality and variety, including options like freshly brewed coffee and local specialties.",
+        "count": 32
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 4, Yadanwu, Laoling Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$109",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Bar",
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/14809395/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD3d12000azcz5a294BB.jpg"
+    },
+    {
+      "src": "/images/stays/14809395/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0585h12000spyyxzf2DFD.webp"
+    },
+    {
+      "src": "/images/stays/14809395/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/020181200094x9y7pB242.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The sunken courtyard of the guesthouse was lovely; it was quite comfortable to sit there in the evening. The guesthouse had a full range of recreational facilities, including karaoke, mahjong, game consoles, and a swimming pool, making it suitable for...",
+      "author": "Guest User",
+      "date": "2026-07-14",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=14809395&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-14809395&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The location of the B&B in Moganshan is excellent. The surrounding facilities are mature and convenient for travel. The entire B&B is rented for three days. All food and accommodation are provided at the B&B. The B&B has an elevator...",
+      "author": "Wupangpang",
+      "date": "2024-10-13",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=14809395&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-14809395&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The boss is super nice. Seeing that we brought our children, he upgraded us to a little yellow duck parent-child room for free. It was an unexpected surprise❤️Thank you very much🙏There are many beautiful photo spots in the B&B, especially...",
+      "author": "Guest User",
+      "date": "2024-10-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=14809395&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-14809395&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 177,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:49:39.718Z",
+  "source": "trip"
+}

@@ -1,0 +1,91 @@
+{
+  "id": 5552594,
+  "name": "Moganshan Shibamai Mountain Spring Villa",
+  "seedName": "Moganshan Shibamai Mountain Spring Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5552594",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5552594&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5552594&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:Nestled in a mountainous area with serene, picturesque settings, offering mountain views, starry skies from terraces, and natural elements like grassy lawns for barbecues.(based on 1 review) Amenities:Features a swimming pool, hot spring, sunroom, ping-pong table, chess room, and swings. Rooms are spacious, designed in European or American rustic styles, and highly photogenic.(based on 4 reviews) Service:Hosts and staff are described as warm, attentive, and helpful, offering personalized recommendations for local activities, travel planning, and accommodations.(based on 6 reviews) Design & Facilities:Emphasized thoughtful interior details and access to wellness activities like hot spring bathing and stargazing.(based on 3 reviews) Hygiene:Most reviews noted clean rooms, odor-free environments, and proper sanitation for shared facilities.(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Nestled in a mountainous area with serene, picturesque settings, offering mountain views, starry skies from terraces, and natural elements like grassy lawns for barbecues.",
+        "count": 1
+      },
+      {
+        "topic": "Amenities",
+        "text": "Features a swimming pool, hot spring, sunroom, ping-pong table, chess room, and swings. Rooms are spacious, designed in European or American rustic styles, and highly photogenic.",
+        "count": 4
+      },
+      {
+        "topic": "Service",
+        "text": "Hosts and staff are described as warm, attentive, and helpful, offering personalized recommendations for local activities, travel planning, and accommodations.",
+        "count": 6
+      },
+      {
+        "topic": "Facilities",
+        "text": "Emphasized thoughtful interior details and access to wellness activities like hot spring bathing and stargazing.",
+        "count": 3
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Most reviews noted clean rooms, odor-free environments, and proper sanitation for shared facilities.",
+        "count": 3
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Village Group 8, Miaoqian Village, Moganshan Town, Deqing, Zhejiang, 313206, China",
+  "priceRange": "From US$116",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5552594/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0q12000tdhhv8j0243.jpg"
+    },
+    {
+      "src": "/images/stays/5552594/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3912000t9njdhd8C89.webp"
+    },
+    {
+      "src": "/images/stays/5552594/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6c12000bktox1y4677.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "藏在山林中的一座歐式小築，環境雅緻寧靜，內裝別具一格。民宿中有游泳池、温泉、棋牌室、乒乓台、陽光房、大小秋千，還可以在草坪上燒烤。 老闆人很好，熱情，服務周到。",
+      "author": "Wennuantuo",
+      "date": "2025-04-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5552594&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5552594&trip_sub3=D19127628"
+    },
+    {
+      "quote": "設施：環境不錯 可見山景 露台抬頭看星星很美 最大問題是走廊與房間隔音很差 每次有人路過或者開房門開鎖聲音都很嚇人 衞生：正常 服務：店主會推薦旅行",
+      "author": "Anonymous User",
+      "date": "2024-08-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5552594&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5552594&trip_sub3=D19127628"
+    },
+    {
+      "quote": "藏在山林中的一座歐式小築，環境雅緻寧靜，內裝別具一格。民宿中有游泳池、温泉、棋牌室、乒乓台、陽光房、大小秋千，還可以在草坪上燒烤。 老闆人很好，熱情，服務周到。",
+      "author": "Wennuantuo",
+      "date": "2025-04-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5552594&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5552594&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.1,
+    "count": 30,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:53:51.419Z",
+  "source": "trip"
+}

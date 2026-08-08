@@ -4,18 +4,15 @@ import SiteHeader from '../components/SiteHeader.astro';
 import SiteFooter from '../components/SiteFooter.astro';
 
 import Hero from '../components/home/Hero.astro';
-import HillStation from '../components/home/HillStation.astro';
 import FourParts from '../components/home/FourParts.astro';
 import ThingsToDo from '../components/home/ThingsToDo.astro';
 import Journal from '../components/home/Journal.astro';
-import Divider from '../components/home/Divider.astro';
-import OrientationStrip from '../components/home/OrientationStrip.astro';
 import WhereToStay from '../components/home/WhereToStay.astro';
 import GettingHere from '../components/home/GettingHere.astro';
+import PlacesToVisit from '../components/home/PlacesToVisit.astro';
 import Itineraries from '../components/home/Itineraries.astro';
 import WhenToGo from '../components/home/WhenToGo.astro';
 import BeforeYouCome from '../components/home/BeforeYouCome.astro';
-import TradeStrip from '../components/home/TradeStrip.astro';
 import PlanBar from '../components/home/PlanBar.astro';
 
 import { websiteLd, placeLd } from '../lib/jsonld';
@@ -23,11 +20,18 @@ import { websiteLd, placeLd } from '../lib/jsonld';
 /**
  * The home page.
  *
- * Culture first, practical second, hinged on the Divider band. Fourteen
- * sections, and the order is load bearing: the destination has almost no
- * international search demand of its own, so the top half has to make somebody
- * want to come and the bottom half has to answer every practical question
- * without making them leave.
+ * Culture first, practical second, hinged on the orientation strip. The order
+ * is load bearing: the destination has almost no international search demand of
+ * its own, so the top half has to make somebody want to come and the bottom
+ * half has to answer every practical question without making them leave.
+ *
+ * The journal sits at the end rather than in the culture half. It is the one
+ * block on the page nobody arrives needing, so it reads better as what is left
+ * to browse once every practical question has been answered.
+ *
+ * The ten places slider sits below Getting here rather than above the divider.
+ * A reader who has just read how to arrive is choosing what to do with the
+ * day, and that is the question the slider answers.
  *
  * Exactly one h1 on the page, and it is the single word "Moganshan".
  */
@@ -50,22 +54,23 @@ const jsonLd = [websiteLd, placeLd]
   <main id="main">
     {/* Culture */}
     <Hero />
-    <HillStation />
     <FourParts />
     <ThingsToDo />
-    <Journal />
 
-    {/* The hinge */}
-    <Divider />
-
-    {/* Practical */}
-    <OrientationStrip />
+    {/* Practical. Where to stay is the hinge, and carries #plan. */}
     <WhereToStay />
     <GettingHere />
+    <PlacesToVisit />
     <Itineraries />
     <WhenToGo />
     <BeforeYouCome />
-    <TradeStrip />
+
+    {/* The journal closes the page: reading, once the planning is answered. */}
+    <Journal />
+
+    {/* The trade strip is pulled for now. The component is still in
+        src/components/home/TradeStrip.astro, and /trade is still linked from
+        the footer. */}
   </main>
 
   <SiteFooter />

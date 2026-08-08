@@ -1,0 +1,81 @@
+{
+  "id": 2804376,
+  "name": "Dongkou Shanju Hotel",
+  "seedName": "Dongkou Shanju Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2804376",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2804376&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2804376&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Accessibility:The accommodation is conveniently located near popular attractions such as Moganshan scenic area, Yucun, and Shibaowan rafting, with easy access via taxi. The surrounding area offers shops and dining options, and parking is available without hassle.(based on 8 reviews) Service Quality:Staff, particularly the hosts, are consistently described as warm, attentive, and helpful. Guests appreciate the personalized recommendations for local tourist routes and the willingness to assist with travel-related queries.(based on 14 reviews) Culinary Experience:Meals prepared by the hosts, including homemade soups and locally sourced ingredients, are frequently praised for their quality and taste. Breakfast options are varied and freshly prepared.(based on 3 reviews) Environmental Ambience:The setting is praised for its natural beauty, featuring shaded bamboo groves and fresh air. The second-floor platform provides a pleasant space for tea-drinking and relaxation.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Accessibility",
+        "text": "The accommodation is conveniently located near popular attractions such as Moganshan scenic area, Yucun, and Shibaowan rafting, with easy access via taxi. The surrounding area offers shops and dining options, and parking is available without hassle.",
+        "count": 8
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Staff, particularly the hosts, are consistently described as warm, attentive, and helpful. Guests appreciate the personalized recommendations for local tourist routes and the willingness to assist with travel-related queries.",
+        "count": 14
+      },
+      {
+        "topic": "Culinary Experience",
+        "text": "Meals prepared by the hosts, including homemade soups and locally sourced ingredients, are frequently praised for their quality and taste. Breakfast options are varied and freshly prepared.",
+        "count": 3
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Entrance of Laoling Tunnel, Moganshan Town, Deqing, Zhejiang, 313204, China",
+  "priceRange": "From US$37",
+  "facilities": [
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/2804376/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0583312000sqak6vnC492.jpg"
+    },
+    {
+      "src": "/images/stays/2804376/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200r0j0000009xl2aAD8C.webp"
+    },
+    {
+      "src": "/images/stays/2804376/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200m0j0000009xk7r4161.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The rooms were clean and tidy, the landlady was warm and attentive, the food was delicious, and the breakfast was also very good. If you're planning a trip to Moganshan Scenic Area, you might consider this guesthouse; parking is convenient.",
+      "author": "Fanyunyun",
+      "date": "2025-10-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2804376&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2804376&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The owners were very warm and hospitable, the food was delicious, the rooms were clean and hygienic, and they were very helpful in giving directions. It was a truly unforgettable trip.",
+      "author": "Guest User",
+      "date": "2025-10-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2804376&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2804376&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The hotel has convenient parking, the owner provides excellent service, the restaurant is on the first floor and the accommodations are on the second floor. The rooms are clean and quiet, and the soundproofing is good, so it doesn't disturb...",
+      "author": "Guest User",
+      "date": "2025-11-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2804376&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2804376&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 24,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:56:18.067Z",
+  "source": "trip"
+}

@@ -1,0 +1,96 @@
+{
+  "id": 810180,
+  "name": "MoGan Clouds End Hotel",
+  "seedName": "MoGan Clouds End Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-810180",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=810180&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-810180&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Located in Moganshan, very close to the bus transfer center. Can drive directly up the mountain when booked in advance, very convenient. Also near attractions like Jianchi.(based on 91 reviews) Hygiene:Clean and tidy, hygienic conditions are good.(based on 71 reviews) Service:Service attitude is good, enthusiastic and thoughtful, providing various helps such as picking up luggage and pre-stay reminders.(based on 138 reviews) Environment:Good surrounding environment, fresh air in the morning, suitable for walking; beautiful scenery around, suitable for sightseeing.(based on 3 reviews) Facilities:Some mention complete facilities, and breakfast is good(based on 7 reviews) Guest Suggestion:Some customers suggest improving hygiene (mold, pests, lingering odors), reducing noise from traffic and internal operations, and upgrading outdated facilities like bathrooms and air conditioning systems.(based on 6 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Located in Moganshan, very close to the bus transfer center. Can drive directly up the mountain when booked in advance, very convenient. Also near attractions like Jianchi.",
+        "count": 91
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Clean and tidy, hygienic conditions are good.",
+        "count": 71
+      },
+      {
+        "topic": "Service",
+        "text": "Service attitude is good, enthusiastic and thoughtful, providing various helps such as picking up luggage and pre-stay reminders.",
+        "count": 138
+      },
+      {
+        "topic": "Environment",
+        "text": "Good surrounding environment, fresh air in the morning, suitable for walking; beautiful scenery around, suitable for sightseeing.",
+        "count": 3
+      },
+      {
+        "topic": "Facilities",
+        "text": "Some mention complete facilities, and breakfast is good",
+        "count": 7
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving hygiene (mold, pests, lingering odors), reducing noise from traffic and internal operations, and upgrading outdated facilities like bathrooms and air conditioning systems.",
+      "count": 6
+    }
+  },
+  "address": "No. 344, Yinshan Street, Moganshan Scenic Area, Deqing, Zhejiang, 313202, China",
+  "priceRange": "From US$57",
+  "facilities": [
+    "Table tennis room",
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/810180/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6912000qsckmvgCAE0.jpg"
+    },
+    {
+      "src": "/images/stays/810180/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5512000jgbz5ujCF80.webp"
+    },
+    {
+      "src": "/images/stays/810180/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1d12000jgc0sd1D20C.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The hotel is simple, very clean and the lady at the reception Ms. Xiao Jia was really fantastic on support us. I strongly recommend this hotel because the location is fantastic and the service super.",
+      "author": "Roberto Vitri",
+      "date": "2026-04-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=810180&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-810180&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The location is extremely convenient, right near the transfer center, and Jianchi Pond is just a short walk away. The hotel's restaurant is also quite good. A special shout-out to the receptionist; from the pre-check-in communication to the check-in assistance...",
+      "author": "westchen",
+      "date": "2025-07-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=810180&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-810180&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room is great. The environment is also very good. There is a terrace. The service is especially good. The lady is very enthusiastic. My bag was lost and she kept helping me contact people. She introduced us to restaurants...",
+      "author": "Guest User",
+      "date": "2025-01-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=810180&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-810180&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 236,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:15:03.598Z",
+  "source": "trip"
+}

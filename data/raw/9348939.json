@@ -1,0 +1,83 @@
+{
+  "id": 9348939,
+  "name": "Moganshan Qingquan Inn (Yucun Scenic Area Branch)",
+  "seedName": "Moganshan Qingquan Inn (Yucun Scenic Area Branch)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-9348939",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=9348939&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-9348939&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Catering:Highly praised for delicious home-cooked meals , local specialties, and fresh produce from onsite gardens. Facilities:Modern amenities , clean and well-maintained rooms with updated equipment.(based on 6 reviews) Accessibility:Large parking areas, convenient access to nearby attractions, and easy entry to hiking trails.(based on 7 reviews) Service & Atmosphere:Warm, attentive hosts , creating a home-like experience.(based on 18 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Catering",
+        "text": "Highly praised for delicious home-cooked meals , local specialties, and fresh produce from onsite gardens. Facilities:Modern amenities , clean and well-maintained rooms with updated equipment.",
+        "count": 6
+      },
+      {
+        "topic": "Accessibility",
+        "text": "Large parking areas, convenient access to nearby attractions, and easy entry to hiking trails.",
+        "count": 7
+      },
+      {
+        "topic": "Atmosphere",
+        "text": "Warm, attentive hosts , creating a home-like experience.",
+        "count": 18
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 22, Mogaowu, Mosan Village Group, Liaoyuan Village, Moganshan Town, Deqing, Zhejiang, 313204, China",
+  "priceRange": "From US$81",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/9348939/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201d12000skhg64aC3ED.jpg"
+    },
+    {
+      "src": "/images/stays/9348939/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201q12000skhe3kjC4A6.webp"
+    },
+    {
+      "src": "/images/stays/9348939/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0202l12000skh46hw235A.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Stayed here with friends, and we were all very satisfied.",
+      "author": "Guest User",
+      "date": "2026-04-02",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=9348939&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-9348939&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The environment is quite nice, with a stream nearby and a relatively quiet area. The owner is very attentive and provides breakfast, but I forgot about it. I bought some bread while I was out for a stroll, and the...",
+      "author": "Shanling",
+      "date": "2025-08-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=9348939&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-9348939&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Stayed here with friends, and we were all very satisfied.",
+      "author": "Guest User",
+      "date": "2026-04-02",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=9348939&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-9348939&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 35,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:46:03.073Z",
+  "source": "trip"
+}

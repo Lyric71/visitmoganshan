@@ -1,0 +1,97 @@
+{
+  "id": 63261150,
+  "name": "Mogan Xingye Star · Space-Themed Infinity Pool Garden Designer Boutique Stay",
+  "seedName": "Mogan Xingye Star · Space-Themed Infinity Pool Garden Designer Boutique Stay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-63261150",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=63261150&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-63261150&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:The hotel is located in a serene area surrounded by beautiful mountain views, providing a peaceful escape from the city.(based on 39 reviews) Rooms:Guests frequently praised the clean and spacious rooms with large windows offering stunning vistas.(based on 16 reviews) Environment:The environment is described as fresh and relaxing, with opportunities for stargazing and enjoying nature. Facilities:The hotel's facilities, including a well-maintained infinity pool and various entertainment options for children, received positive feedback.(based on 66 reviews) Service:The service is consistently mentioned as attentive and warm, contributing to a comfortable and home-like feel.(based on 101 reviews) Design:The modern and aesthetically pleasing design of the hotel enhances the overall experience.(based on 126 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "The hotel is located in a serene area surrounded by beautiful mountain views, providing a peaceful escape from the city.",
+        "count": 39
+      },
+      {
+        "topic": "Rooms",
+        "text": "Guests frequently praised the clean and spacious rooms with large windows offering stunning vistas.",
+        "count": 16
+      },
+      {
+        "topic": "Environment",
+        "text": "The environment is described as fresh and relaxing, with opportunities for stargazing and enjoying nature. Facilities:The hotel's facilities, including a well-maintained infinity pool and various entertainment options for children, received positive feedback.",
+        "count": 66
+      },
+      {
+        "topic": "Service",
+        "text": "The service is consistently mentioned as attentive and warm, contributing to a comfortable and home-like feel.",
+        "count": 101
+      },
+      {
+        "topic": "Design",
+        "text": "The modern and aesthetically pleasing design of the hotel enhances the overall experience.",
+        "count": 126
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Lingkengli, Laoling Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$107",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Billiards room",
+    "Table tennis room",
+    "Cardroom",
+    "Restaurant",
+    "Cafe",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/63261150/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6p12000p03amu55AEF.jpg"
+    },
+    {
+      "src": "/images/stays/63261150/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6y12000bz132g7779A.webp"
+    },
+    {
+      "src": "/images/stays/63261150/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3k12000bzg63c8B8A3.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The landlady was incredibly kind and warm, always considering the guests' needs. Seeing that I was traveling alone, she recommended many places to visit. The guesthouse rooms were also very clean and tidy, perfect for taking great photos. I'll definitely...",
+      "author": "Guest User",
+      "date": "2026-07-09",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=63261150&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-63261150&trip_sub3=D19127628"
+    },
+    {
+      "quote": "We took the kids on a family trip to Moganshan during the May Day holiday, and choosing this guesthouse was absolutely the right decision! The environment was tranquil, nestled against the mountains and beside the water, with incredibly fresh air....",
+      "author": "Guest User",
+      "date": "2026-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=63261150&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-63261150&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The environment is elegant, the room is clean and tidy, the boss is warm and thoughtful, a very satisfactory experience, I chose this hotel on Ctrip for a long time, this one is very cost-effective, it is worthy of its...",
+      "author": "Juzicike",
+      "date": "2024-04-15",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=63261150&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-63261150&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 175,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:49:51.835Z",
+  "source": "trip"
+}

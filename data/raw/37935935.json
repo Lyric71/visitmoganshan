@@ -1,0 +1,85 @@
+{
+  "id": 37935935,
+  "name": "Mogan Mountain Small Douwu Inn",
+  "seedName": "Mogan Mountain Small Douwu Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-37935935",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=37935935&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-37935935&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Accessibility:The property is exceptionally close to Jiangnan Yaowu Scenic Area and Dadouwu Reservoir, offering convenient access to outdoor activities. It is also near Mogan Mountain and provides easy parking, with charging facilities available nearby.(based on 2 reviews) Room Quality:Rooms are described as clean, spacious, and well-maintained, often featuring balconies with mountain views or skylights. Some rooms include family-friendly layouts .(based on 13 reviews) Service & Hospitality:The host are consistently praised for being warm, responsive, and helpful, offering personalized recommendations for local attractions, meals, and travel logistics.(based on 16 reviews) Culinary Offerings:On-site meals are highlighted as affordable, delicious, and authentic, with options like locally grown bamboo shoots and corn. Value for Money:The property is frequently noted as cost-effective compared to nearby restaurants or hotels, with no mention of hidden fees for services like breakfast.(based on 8 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Accessibility",
+        "text": "The property is exceptionally close to Jiangnan Yaowu Scenic Area and Dadouwu Reservoir, offering convenient access to outdoor activities. It is also near Mogan Mountain and provides easy parking, with charging facilities available nearby.",
+        "count": 2
+      },
+      {
+        "topic": "Room Quality",
+        "text": "Rooms are described as clean, spacious, and well-maintained, often featuring balconies with mountain views or skylights. Some rooms include family-friendly layouts .",
+        "count": 13
+      },
+      {
+        "topic": "Hospitality",
+        "text": "The host are consistently praised for being warm, responsive, and helpful, offering personalized recommendations for local attractions, meals, and travel logistics.",
+        "count": 16
+      },
+      {
+        "topic": "Culinary Offerings",
+        "text": "On-site meals are highlighted as affordable, delicious, and authentic, with options like locally grown bamboo shoots and corn. Value for Money:The property is frequently noted as cost-effective compared to nearby restaurants or hotels, with no mention of hidden fees for services like breakfast.",
+        "count": 8
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 53, Waiyaowu, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$29",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/37935935/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02027120009p97hxtDD75.jpg"
+    },
+    {
+      "src": "/images/stays/37935935/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02061120009p9bmfcC268.webp"
+    },
+    {
+      "src": "/images/stays/37935935/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3k12000b99nvqc0C59.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The trip was so rushed that I didn’t have time to take photos. The B&B is very cozy, what you see is what you get, the owner is very nice and responsive to all requests. Conscience recommendation",
+      "author": "Guest User",
+      "date": "2024-10-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=37935935&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-37935935&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room is spacious and clean, which is great. It's very close to Yaowu. It's 400 meters walk to Yaowu. The shop owner also made me a bowl of noodles, which was great!",
+      "author": "Caicaidelvxingxiang",
+      "date": "2024-09-18",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=37935935&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-37935935&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room has a small balcony, and you can see the beautiful scenery as soon as you open your eyes. You can order some home-cooked dishes at the inn, which are all delicious! We eat every meal at the boss’s...",
+      "author": "Guest User",
+      "date": "2024-08-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=37935935&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-37935935&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.2,
+    "count": 43,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:42:06.279Z",
+  "source": "trip"
+}

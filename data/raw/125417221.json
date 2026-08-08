@@ -1,0 +1,80 @@
+{
+  "id": 125417221,
+  "name": "Mogan Shuangping Hotel",
+  "seedName": "Mogan Shuangping Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-125417221",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=125417221&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-125417221&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Food:The quality and variety of breakfast options, prepared daily by the hosts, received high praise. The hotel offers both Chinese and Western dishes, catering to diverse tastes, and guests enjoyed the homemade feel of the meals.(based on 4 reviews) Ambiance:The hotel environment is described as tranquil and picturesque, with scenic views available from the rooms. The combination of a peaceful setting and modern amenities offers a relaxing retreat, ideal for families and group events.(based on 21 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Food",
+        "text": "The quality and variety of breakfast options, prepared daily by the hosts, received high praise. The hotel offers both Chinese and Western dishes, catering to diverse tastes, and guests enjoyed the homemade feel of the meals.",
+        "count": 4
+      },
+      {
+        "topic": "Ambiance",
+        "text": "The hotel environment is described as tranquil and picturesque, with scenic views available from the rooms. The combination of a peaceful setting and modern amenities offers a relaxing retreat, ideal for families and group events.",
+        "count": 21
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 23, Kanshang, Houwu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$111",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Bar",
+    "Restaurant",
+    "Cafe",
+    "Water park",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/125417221/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6412000iwlwn1a910B.jpg"
+    },
+    {
+      "src": "/images/stays/125417221/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3z12000inijrt4BD17.webp"
+    },
+    {
+      "src": "/images/stays/125417221/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206u12000ht34bwr5B8F.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "超級超級好的體驗！在網上看到的時候就很心動！去了更是超乎預期！小哥哥小姐姐提供了超值服務，民宿房間環境都很好，各方面都非常滿意！雨天在這樣的環境下住幾天簡直是天堂了，還給了我們超級用心的伴手禮，民宿周邊環境也特別好，非常安逸～",
+      "author": "Guest User",
+      "date": "2026-06-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=125417221&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-125417221&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間很大，乾淨，很乾凈，非常乾淨，還有泳池也很乾凈，老闆全程響應迅速，環境太美，早餐也很豐富，老闆推薦的老方家和芸豆都很好吃，大讚，下次還會選擇這裏",
+      "author": "Guest User",
+      "date": "2026-06-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=125417221&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-125417221&trip_sub3=D19127628"
+    },
+    {
+      "quote": "住了兩晚，住宿環境舒適，山裡很舒服，民宿前面還有千年銀杏樹。好評好評，推薦大家入住，還有麻將房可以打麻將",
+      "author": "Guest User",
+      "date": "2026-06-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=125417221&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-125417221&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 10,
+    "count": 35,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:44:48.043Z",
+  "source": "trip"
+}

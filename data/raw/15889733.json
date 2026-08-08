@@ -1,0 +1,64 @@
+{
+  "id": 15889733,
+  "name": "Moganshan In The Spring",
+  "seedName": "Moganshan In The Spring",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-15889733",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=15889733&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-15889733&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan In The Spring?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Sunliangwu, Gaofeng Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$70",
+  "facilities": [
+    "Outdoor swimming pool"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/15889733/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200w0u000000j9k836D37.jpg"
+    },
+    {
+      "src": "/images/stays/15889733/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20020u000000jalrw0B5C.webp"
+    },
+    {
+      "src": "/images/stays/15889733/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200n0u000000j2l3g8222.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Helpful and friendly owner. Always care about client needs and provide necessary food.",
+      "author": "H F Chin",
+      "date": "2025-12-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=15889733&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-15889733&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The family hosting the bed&breakfast was very kind and flexible. Language barrier was sorted with apps help like We Chat. The room was very comfortable and warm. The rest of house was cold but spent little time in the living...",
+      "author": "Constanza Tobar Chaves",
+      "date": "2026-01-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=15889733&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-15889733&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The proprietress is very welcoming, the room is very clean, the Chinese breakfast is rich, parking is convenient at the door, and it is very close to the scenic spots.",
+      "author": "Guest User",
+      "date": "2025-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=15889733&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-15889733&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.7,
+    "count": 52,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:39:47.843Z",
+  "source": "trip"
+}

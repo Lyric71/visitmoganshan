@@ -1,0 +1,77 @@
+{
+  "id": 61366546,
+  "name": "Yuanshe Huaigu Private Soup Stream Tracing Holiday Homestay(Yelin Garden Camp)",
+  "seedName": "Yuanshe Huaigu Private Soup Stream Tracing Holiday Homestay(Yelin Garden Camp)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-61366546",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=61366546&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-61366546&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Pet-Friendly and Accessibility:The property is pet-friendly, offering spaces for animal interaction and a welcoming atmosphere for guests with pets. Parking was convenient, and the location provided easy access to nearby attractions without long travel.(based on 22 reviews) Guest Suggestion:Some customers suggest improving room cleanliness , enhancing service responsiveness , and addressing air conditioning functionality to ensure comfort.(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Pet-Friendly and Accessibility",
+        "text": "The property is pet-friendly, offering spaces for animal interaction and a welcoming atmosphere for guests with pets. Parking was convenient, and the location provided easy access to nearby attractions without long travel.",
+        "count": 22
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving room cleanliness , enhancing service responsiveness , and addressing air conditioning functionality to ensure comfort.",
+      "count": 2
+    }
+  },
+  "address": "Xiaoyu Line, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$112",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Bar",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/61366546/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4j12000badotod3E11.jpg"
+    },
+    {
+      "src": "/images/stays/61366546/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0202n120000emqekz07D0.webp"
+    },
+    {
+      "src": "/images/stays/61366546/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203y120000epsng2E15C.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "We traveled with our children for the May Day holiday, and the rooms at Yuanshe were very comfortable, the activities were plentiful, and the service was very thoughtful and attentive. Highly recommended!",
+      "author": "Genzhuomandyyououzhou",
+      "date": "2026-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=61366546&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-61366546&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room was spacious, with a rooftop terrace, bathtub, TV, and projector. The view from downstairs was beautiful, and the butler service was excellent!",
+      "author": "Guest User",
+      "date": "2026-04-22",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=61366546&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-61366546&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Green mountains and clear waters, blue skies and white clouds... it felt like stepping back into my childhood home, a guesthouse hidden in the mountains.",
+      "author": "Guest User",
+      "date": "2026-02-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=61366546&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-61366546&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 132,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:17:03.033Z",
+  "source": "trip"
+}

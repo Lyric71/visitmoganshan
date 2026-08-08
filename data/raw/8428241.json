@@ -1,0 +1,80 @@
+{
+  "id": 8428241,
+  "name": "Qiye Shuxia Hotel",
+  "seedName": "Qiye Shuxia Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-8428241",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8428241&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8428241&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service:The staff are very welcoming, attentive, and provide detailed travel suggestions, helping with aspects like route guidance and itinerary planning.(based on 179 reviews) Facilities:Rooms are clean and tidy, some have spacious balconies or terraces for enjoying views. The restaurant offers delicious food with fresh ingredients like soup and steamed bream.(based on 54 reviews) Environment:The environment is elegant and comfortable, with beautiful scenery around, and some can enjoy sunrise and sunset views(based on 39 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service",
+        "text": "The staff are very welcoming, attentive, and provide detailed travel suggestions, helping with aspects like route guidance and itinerary planning.",
+        "count": 179
+      },
+      {
+        "topic": "Facilities",
+        "text": "Rooms are clean and tidy, some have spacious balconies or terraces for enjoying views. The restaurant offers delicious food with fresh ingredients like soup and steamed bream.",
+        "count": 54
+      },
+      {
+        "topic": "Environment",
+        "text": "The environment is elegant and comfortable, with beautiful scenery around, and some can enjoy sunrise and sunset views",
+        "count": 39
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Villa, No. 91, Moganshan, Deqing, Zhejiang, China",
+  "priceRange": "From US$68",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/8428241/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206e120009nubmjw9D75.jpg"
+    },
+    {
+      "src": "/images/stays/8428241/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200s0z000000nvawdD0DD.webp"
+    },
+    {
+      "src": "/images/stays/8428241/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205a120009nuabxrE1DA.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Environment: Villa, elegant environment, convenient transportation. Service: The owner was very welcoming; she contacted us after we placed our order and sent us the location navigation. We ate at the restaurant and received a 10% discount. Facilities: Slightly old, but...",
+      "author": "hutansy",
+      "date": "2025-11-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8428241&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8428241&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Great environment, spacious rooms, and the owner's service was exceptionally attentive and warm!",
+      "author": "Jaynila",
+      "date": "2025-10-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8428241&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8428241&trip_sub3=D19127628"
+    },
+    {
+      "quote": "This hotel has a fantastic location, right on a mountaintop. You can contact the hotel to register your license plate and drive up the mountain; there's parking nearby, which is very convenient. The mountain views from the hotel are also...",
+      "author": "Guest User",
+      "date": "2025-10-11",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8428241&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8428241&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 259,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:01:49.236Z",
+  "source": "trip"
+}

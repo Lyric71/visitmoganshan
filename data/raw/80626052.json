@@ -1,0 +1,90 @@
+{
+  "id": 80626052,
+  "name": "Meet · Moganshan boutique",
+  "seedName": "Meet · Moganshan boutique",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-80626052",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=80626052&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-80626052&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Centrally located in Yu Village/Gu Village, within 10-minute walking distance of Yucun Square, Moganshan Art Museum, and Republic of China Style Street. Easy access to taxi services for nearby attractions like Moganshan Distribution Center.(based on 32 reviews) Facilities:Modern, clean, and spacious rooms with mountain views, floor-to-ceiling windows, and mountain-view terraces . Rooms include heating systems , and some feature lofts suitable for families.(based on 6 reviews) Service:Owner and staff are described as friendly, attentive, and helpful, offering recommendations for local attractions, activities , and even arranging transportation .(based on 49 reviews) Cleanliness:Consistently highlighted as very clean, with attention to detail in room maintenance.(based on 35 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Centrally located in Yu Village/Gu Village, within 10-minute walking distance of Yucun Square, Moganshan Art Museum, and Republic of China Style Street. Easy access to taxi services for nearby attractions like Moganshan Distribution Center.",
+        "count": 32
+      },
+      {
+        "topic": "Facilities",
+        "text": "Modern, clean, and spacious rooms with mountain views, floor-to-ceiling windows, and mountain-view terraces . Rooms include heating systems , and some feature lofts suitable for families.",
+        "count": 6
+      },
+      {
+        "topic": "Service",
+        "text": "Owner and staff are described as friendly, attentive, and helpful, offering recommendations for local attractions, activities , and even arranging transportation .",
+        "count": 49
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Consistently highlighted as very clean, with attention to detail in room maintenance.",
+        "count": 35
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 1, Yuxin North Street, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$123",
+  "facilities": [
+    "Executive lounge",
+    "Bar",
+    "Restaurant",
+    "Cafe",
+    "Karaoke",
+    "Car rentals"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/80626052/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0204d120009i61jfu127E.jpg"
+    },
+    {
+      "src": "/images/stays/80626052/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201b120008z4dddc405E.webp"
+    },
+    {
+      "src": "/images/stays/80626052/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203y120008z4czs9B696.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The owner was incredibly welcoming, offering ginger tea, a warm fireside, and great recommendations for local routes. They even prepared roasted oranges for my coughing child and gave her a little gift – so thoughtful! The room was very clean,...",
+      "author": "JinhuiPhoebeNg💐",
+      "date": "2025-12-25",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=80626052&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-80626052&trip_sub3=D19127628"
+    },
+    {
+      "quote": "A homestay with a very good location! There are many good restaurants around, and it's also a short walk to Fengqing Street. At the same time, the decoration design is a major selling point. It is very stylish and you...",
+      "author": "Guest User",
+      "date": "2025-04-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=80626052&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-80626052&trip_sub3=D19127628"
+    },
+    {
+      "quote": "A newly opened homestay in the center of Yu Village, also praised by locals. Encounter, a very art gallery name, looking forward to romance. No need to turn the corner, the main store of Goldfish Mama is on the same...",
+      "author": "Cdehuoche",
+      "date": "2025-04-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=80626052&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-80626052&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 105,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:07:16.331Z",
+  "source": "trip"
+}

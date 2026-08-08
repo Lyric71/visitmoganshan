@@ -1,0 +1,93 @@
+{
+  "id": 1017262,
+  "name": "Moganshan QUEEN'S HOTEL·SONGWU VILLA COMPLEX",
+  "seedName": "Moganshan QUEEN'S HOTEL·SONGWU VILLA COMPLEX",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1017262",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1017262&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1017262&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Scenery:Most reviews praise the hotel’s position within the Moganshan scenic area, near Mao Zedong’s former residence, offering unobstructed mountain views, quiet surroundings, and proximity to trails.(based on 26 reviews) Service Quality:Staff are consistently described as friendly, attentive, and helpful .(based on 73 reviews) Facilities & Cleanliness:Rooms are spacious, clean, and often include private balconies or outdoor corridors with mountain views. Facilities are well-maintained, with traditional architecture and modern amenities.(based on 45 reviews) Dining:Home-cooked meals are highlighted as delicious and authentic. Breakfast is complimentary and highly rated.(based on 7 reviews) Pet-Friendly Policy:No additional charges for pets, and the environment is suitable for families or solo travelers seeking tranquility. Guest Suggestion:Some customers suggest improving accessibility , addressing facility issues , and enhancing hygiene standards .(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Scenery",
+        "text": "Most reviews praise the hotel’s position within the Moganshan scenic area, near Mao Zedong’s former residence, offering unobstructed mountain views, quiet surroundings, and proximity to trails.",
+        "count": 26
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Staff are consistently described as friendly, attentive, and helpful .",
+        "count": 73
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms are spacious, clean, and often include private balconies or outdoor corridors with mountain views. Facilities are well-maintained, with traditional architecture and modern amenities.",
+        "count": 45
+      },
+      {
+        "topic": "Dining",
+        "text": "Home-cooked meals are highlighted as delicious and authentic. Breakfast is complimentary and highly rated.",
+        "count": 7
+      },
+      {
+        "topic": "Pet-Friendly Policy",
+        "text": "No additional charges for pets, and the environment is suitable for families or solo travelers seeking tranquility. Guest Suggestion:Some customers suggest improving accessibility , addressing facility issues , and enhancing hygiene standards .",
+        "count": 2
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 161, Moganshan Scenic Area, Deqing, Zhejiang, China",
+  "priceRange": "From US$140",
+  "facilities": [
+    "Hiking",
+    "Billiards room",
+    "Restaurant",
+    "Karaoke"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1017262/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02056120003ouhb8jCF13.jpg"
+    },
+    {
+      "src": "/images/stays/1017262/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0312000skhktlq5F32.webp"
+    },
+    {
+      "src": "/images/stays/1017262/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02021120003p5jpseDE77.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "This was a fantastic stay. Unfortunately the scenic area closed the night of my arrival due to the approaching typhoon and was also closed the next day. However the staff at the guesthouse were amazing, they packed and brought my...",
+      "author": "Chantelle",
+      "date": "2024-09-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1017262&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1017262&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Yike Xiaozhu is a resting place in the deepest part of Moganshan Scenic Area. It is far away from the hustle and bustle and very quiet. There is also a bamboo shoot digging experience, which the children also like very...",
+      "author": "Sanqingshansushunqin",
+      "date": "2024-05-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1017262&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1017262&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Choose a quiet place, drink tea, stroll in the mountains, and it won’t be so noisy during holidays.",
+      "author": "Guest User",
+      "date": "2024-05-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1017262&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1017262&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 139,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:05:50.439Z",
+  "source": "trip"
+}

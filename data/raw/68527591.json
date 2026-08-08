@@ -1,0 +1,83 @@
+{
+  "id": 68527591,
+  "name": "You House·Mogan Youjia Hotel (Moganshan Scenic Area)",
+  "seedName": "You House·Mogan Youjia Hotel (Moganshan Scenic Area)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-68527591",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=68527591&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-68527591&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:The accommodation is situated in the heart of the scenic area, near attractions of Moganshan, with a scenic spot transfer station downstairs and close to restaurants. The location is very convenient for visiting scenic spots and dining.(based on 18 reviews) Facilities:Rooms are clean, tidy, and well-equipped; some have nice balconies. Facilities are convenient with complete amenities.(based on 15 reviews) Service:Staff are helpful, friendly, often assist with luggage, and some offer free room upgrades(based on 25 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "The accommodation is situated in the heart of the scenic area, near attractions of Moganshan, with a scenic spot transfer station downstairs and close to restaurants. The location is very convenient for visiting scenic spots and dining.",
+        "count": 18
+      },
+      {
+        "topic": "Facilities",
+        "text": "Rooms are clean, tidy, and well-equipped; some have nice balconies. Facilities are convenient with complete amenities.",
+        "count": 15
+      },
+      {
+        "topic": "Service",
+        "text": "Staff are helpful, friendly, often assist with luggage, and some offer free room upgrades",
+        "count": 25
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 370-B, Yinshan Street, Moganshan, Deqing, Zhejiang, China",
+  "priceRange": "From US$89",
+  "facilities": [
+    "Bar",
+    "Restaurant",
+    "Cafe",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/68527591/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4p12000hsy4z4aD465.jpg"
+    },
+    {
+      "src": "/images/stays/68527591/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206n1200087nctksE902.webp"
+    },
+    {
+      "src": "/images/stays/68527591/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02069120009j6pnsj8FB4.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Humanized service, very clean and beautiful. Convenient access to transport, restaraunts, as well as central location on Moganshan. Amenities of high quality. I would recommend anyone to stay here.",
+      "author": "Alec Muklewicz 穆子德",
+      "date": "2026-05-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=68527591&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-68527591&trip_sub3=D19127628"
+    },
+    {
+      "quote": "This hotel in Moganshan is inside a renovated old building, by private owner, the room was super clean and the renovation was done in a fantastic way, to keep the old atmosphere, but everything is modern. The hotel staff was...",
+      "author": "Guest User",
+      "date": "2024-05-13",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=68527591&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-68527591&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I really found a treasure homestay! 100% 💯 recommended! Just like what Xiaohongshu said, the location of the homestay is very good. There is a scenic spot transfer station downstairs. You can start to visit the scenic spots after putting...",
+      "author": "Guest User",
+      "date": "2024-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=68527591&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-68527591&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 66,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:20:38.721Z",
+  "source": "trip"
+}

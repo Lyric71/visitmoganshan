@@ -1,0 +1,80 @@
+{
+  "id": 1922980,
+  "name": "Kangjiazhai Hotel",
+  "seedName": "Kangjiazhai Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1922980",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1922980&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1922980&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Room and Environment:Spacious, clean, and comfortable rooms with simple yet appealing decor. The environment is quiet, fresh, and resembles a mountain village, with a swimming pool noted for cleanliness.(based on 2 reviews) Service Quality:Staff and hosts are described as polite, helpful, and hospitable, offering assistance with local arrangements and meals.(based on 3 reviews) Family-Friendly Features:Accommodates groups and includes a swimming pool for children.(based on 2 reviews) Food and Atmosphere:Meals are praised for taste, and the overall atmosphere is relaxing for vacations.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Room and Environment",
+        "text": "Spacious, clean, and comfortable rooms with simple yet appealing decor. The environment is quiet, fresh, and resembles a mountain village, with a swimming pool noted for cleanliness.",
+        "count": 2
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Staff and hosts are described as polite, helpful, and hospitable, offering assistance with local arrangements and meals.",
+        "count": 3
+      },
+      {
+        "topic": "Family-Friendly Features",
+        "text": "Accommodates groups and includes a swimming pool for children.",
+        "count": 2
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 17, Lingkeng, Laoling Village, Moganshan Town, Deqing, Zhejiang, 313204, China",
+  "priceRange": "From US$64",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1922980/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200d13000000vkhydF501.jpg"
+    },
+    {
+      "src": "/images/stays/1922980/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200m15000000yv6733E70.webp"
+    },
+    {
+      "src": "/images/stays/1922980/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0204112000851htyz6619.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The room is spacious and the environment is good. It is suitable for travel and vacation. The store staff is very nice and will help arrange nearby trips. You can also order food from them. Everything is very good and...",
+      "author": "Guest User",
+      "date": "2023-08-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1922980&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1922980&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The boss was very nice. He helped us carry our luggage when we left and helped us carry it to the car when we left.",
+      "author": "Guest User",
+      "date": "2023-08-15",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1922980&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1922980&trip_sub3=D19127628"
+    },
+    {
+      "quote": "It's not bad, but the location of the hotel is not very good. There is a small hill opposite the hotel, which is too close and oppressive.",
+      "author": "Guest User",
+      "date": "2023-10-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1922980&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1922980&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 19,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:01:21.319Z",
+  "source": "trip"
+}

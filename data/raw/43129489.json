@@ -1,0 +1,68 @@
+{
+  "id": 43129489,
+  "name": "Luo'erman Design Guesthouse",
+  "seedName": "Luo'erman Design Guesthouse",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-43129489",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=43129489&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-43129489&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Dining Experience:The breakfast is highlighted as a key advantage, with guests describing it as rich, diverse, and delicious. Local specialties such as bamboo shoots are appreciated, and the meals are considered a significant part of the positive guest experience.(based on 4 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Dining Experience",
+        "text": "The breakfast is highlighted as a key advantage, with guests describing it as rich, diverse, and delicious. Local specialties such as bamboo shoots are appreciated, and the meals are considered a significant part of the positive guest experience.",
+        "count": 4
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No.27 Lingjiaoxia, Houwu Village, Deqing, Zhejiang, China",
+  "priceRange": "From US$53",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/43129489/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4612000k5hlv7jE354.jpg"
+    },
+    {
+      "src": "/images/stays/43129489/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1re6m12000b87h4ih2D60.webp"
+    },
+    {
+      "src": "/images/stays/43129489/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6h12000k5ih50v08B4.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Very satisfied with this trip! The B&B has contributed greatly! I went to the Yaowu Electronic Music Festival with my friends. This scenic spot just opened in March. It is inconvenient to eat and stay nearby. There are not many...",
+      "author": "Guest User",
+      "date": "2024-06-11",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=43129489&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-43129489&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The environment is beautiful, the room is neat and clean, the store service is very good, the breakfast is rich, the scenery is pleasant, the room is very comfortable, it is quiet at night, and the air in the bamboo...",
+      "author": "Guest User",
+      "date": "2024-05-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=43129489&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-43129489&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Hanging out with my good friends~ A very comfortable trip~ Good environment, good location, nice boss ~",
+      "author": "Yimojinxi",
+      "date": "2024-03-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=43129489&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-43129489&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 10,
+    "count": 22,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:58:03.197Z",
+  "source": "trip"
+}

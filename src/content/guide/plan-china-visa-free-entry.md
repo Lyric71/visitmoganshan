@@ -120,7 +120,7 @@ If your country was not in that table, this is your route. On 17 December 2024 C
 | Area covered | 24 provinces and municipalities |
 | Condition | A confirmed onward ticket to a third country |
 
-The United States is among the 55, which is the nationality everyone asks about. We do not hold the other 54 names, and guessing at them would be worse than leaving the gap open. TODO: verify the complete list with the National Immigration Administration before you rely on it.
+The United States is among the 55, which is the nationality everyone asks about. We do not hold the other 54 names, and guessing at them would be worse than leaving the gap open. Check the complete list with the National Immigration Administration before you rely on it.
 
 ### The onward-ticket condition
 

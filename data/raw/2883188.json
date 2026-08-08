@@ -1,0 +1,81 @@
+{
+  "id": 2883188,
+  "name": "Chengshi Courtyard B&B",
+  "seedName": "Chengshi Courtyard B&B",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2883188",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2883188&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2883188&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:The environment is excellent, with streams, bamboo forests, and gardens nearby, offering fresh air and a spot ideal for relaxation and photography. The cozy courtyard exudes tranquility, resembling natural white noise that aids sleep. Facilities:Rooms are spacious, clean and tidy, with thoughtful configurations. Daily necessities are of familiar brands, and the room layout is considerate.(based on 19 reviews) Service:Staff are enthusiastic and thoughtful. From check-in to check-out, they provide warm and considerate service. The boss and staff are friendly and attentive.(based on 11 reviews) Hygiene:Rooms and the overall environment are clean and orderly, giving a comfortable living experience.(based on 20 reviews) Style:The overall style is simple and elegant with an ancient charm, full of a rural flavor, suitable for taking photos at every corner",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "The environment is excellent, with streams, bamboo forests, and gardens nearby, offering fresh air and a spot ideal for relaxation and photography. The cozy courtyard exudes tranquility, resembling natural white noise that aids sleep. Facilities:Rooms are spacious, clean and tidy, with thoughtful configurations. Daily necessities are of familiar brands, and the room layout is considerate.",
+        "count": 19
+      },
+      {
+        "topic": "Service",
+        "text": "Staff are enthusiastic and thoughtful. From check-in to check-out, they provide warm and considerate service. The boss and staff are friendly and attentive.",
+        "count": 11
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Rooms and the overall environment are clean and orderly, giving a comfortable living experience.",
+        "count": 20
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 35, Xiwuli, Houwu Village, Moganshan Town, Deqing, Zhejiang, 313202, China",
+  "priceRange": "From US$45",
+  "facilities": [
+    "Restaurant",
+    "Cafe"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/2883188/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206612000kio7fvh22B6.jpg"
+    },
+    {
+      "src": "/images/stays/2883188/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2z12000salm3j984DA.webp"
+    },
+    {
+      "src": "/images/stays/2883188/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4y12000ew7twba6AC9.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "I only found out he started his own guesthouse after following the blogger's flower-growing activities. It's rare to find young people like him who are so sunny, love life, have such strong values, and know what they want to do....",
+      "author": "Guest User",
+      "date": "2025-09-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2883188&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2883188&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The courtyard is cozy and photogenic. Pengpeng is handsome and incredibly enthusiastic, while Chao Ge is honest and doesn't talk much. I especially love Chao Ma – she's warm, straightforward, and like a big sister; breakfast every day tastes like...",
+      "author": "Guest User",
+      "date": "2025-10-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2883188&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2883188&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Nestled in the mountains, surrounded by streams, bamboo groves, and gardens, the guesthouse boasts fresh air perfect for deep breathing and relaxation. Its rustic yet charming style makes it ideal for taking photos. The rooms are spacious, clean, and comfortable.",
+      "author": "Guest User",
+      "date": "2025-08-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2883188&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2883188&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 38,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:44:13.403Z",
+  "source": "trip"
+}

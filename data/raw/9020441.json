@@ -1,0 +1,64 @@
+{
+  "id": 9020441,
+  "name": "Moganshan Yishang Inn",
+  "seedName": "Moganshan Yishang Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-9020441",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=9020441&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-9020441&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment Location:Geographical location is quiet, with original ecology, beautiful environment, fresh air, quiet and comfortable. The surrounding area has small streams with clear water. Facilities:Courtyard facilities are complete, with tea tables, billiards tables, mahjong tables, karaoke, etc. Rooms are fully equipped with entertainment facilities like mahjong tables, KTV, billiards, etc. Hygiene:Rooms are clean and tidy, and details everywhere show the host's meticulousness. Service:The owners are enthusiastic and hospitable, answering questions actively Dining:Breakfast is rich, meals are delicious, and ingredients are fresh, such as seasonal vegetables and home-raised poultry.",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Doujiangwu, Nanlu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$39",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/9020441/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2B050n000000edz7oA620.jpg"
+    },
+    {
+      "src": "/images/stays/9020441/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2B0l0n000000ebmvgA987.webp"
+    },
+    {
+      "src": "/images/stays/9020441/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2B0p0n000000e9z64F39E.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "吹爆這家民宿，莫干山性價比之王。優點：1. 中年夫妻自家經營有超前的服務意識（抵達前就已經準備好了茶水，零食，又切了西瓜）。2. 民宿裝修就為了6-8房住宿特別優化了設計（從房間分部，餐廳設計，3樓露台都能感覺最初就優化了裝修設計）。3. 公共設施維護的非常好（1樓有卡拉ok，街機遊戲，泳池，麻將房等等用起來都特別順手好用，大朋友小朋友都玩的特別開心）。缺點：網絡速度有點慢，老闆可以優化一下網關設備，這也是這次發現唯一的缺點了。",
+      "author": "Guest User",
+      "date": "2026-07-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=9020441&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-9020441&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿很贊哦，一行10個人老闆夫妻照顧的很好，因為分批到的所以晚餐也讓老闆娘很晚安排的，沒有一點怨言哦！早餐熱騰騰的麪條醒酒，謝謝！強烈推薦大家！",
+      "author": "Guest User",
+      "date": "2025-12-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=9020441&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-9020441&trip_sub3=D19127628"
+    },
+    {
+      "quote": "一家寶藏民宿，地理位置安靜，環境好，設定精緻，拍照出片，房間乾淨整潔，可游泳、可唱歌、可麻將，娛樂設施豐富。老闆夫婦特別熱情，做的飯菜也很合胃口，早餐也新鮮乾淨好吃，大家都讚不絕口。",
+      "author": "Guest User",
+      "date": "2025-08-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=9020441&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-9020441&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.3,
+    "count": 25,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:57:04.790Z",
+  "source": "trip"
+}

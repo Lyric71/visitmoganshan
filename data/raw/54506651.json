@@ -1,0 +1,81 @@
+{
+  "id": 54506651,
+  "name": "Moganshan Yiyuan · Garden Parent-child Holiday Meisu",
+  "seedName": "Moganshan Yiyuan · Garden Parent-child Holiday Meisu",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-54506651",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=54506651&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-54506651&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Ambiance & Environment:The property features a garden-like setting with lush greenery, trees, and flowers, creating a serene atmosphere. Outdoor spaces include lawns, swimming pools, and fruit trees, ideal for families with children to relax and play.(based on 6 reviews) Cleanliness & Maintenance:Guests consistently praised the cleanliness of rooms, bathrooms, and common areas. Facilities are well-maintained, with attention to detail in tidiness and comfort standards.(based on 15 reviews) Guest Suggestion:Some customers suggest issues with hygiene, including dirty toilet seats and unkept rooms, and the breakfast is unappealing with limited options like soggy buns and only noodles provided(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "The property features a garden-like setting with lush greenery, trees, and flowers, creating a serene atmosphere. Outdoor spaces include lawns, swimming pools, and fruit trees, ideal for families with children to relax and play.",
+        "count": 6
+      },
+      {
+        "topic": "Maintenance",
+        "text": "Guests consistently praised the cleanliness of rooms, bathrooms, and common areas. Facilities are well-maintained, with attention to detail in tidiness and comfort standards.",
+        "count": 15
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest issues with hygiene, including dirty toilet seats and unkept rooms, and the breakfast is unappealing with limited options like soggy buns and only noodles provided",
+      "count": 2
+    }
+  },
+  "address": "No. 11, Yujia, Liaoyuan Village, Moganshan Town, Wukang Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$74",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/54506651/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0204j120008jbt3u7A9BC.jpg"
+    },
+    {
+      "src": "/images/stays/54506651/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6512000b6vsegkEC25.webp"
+    },
+    {
+      "src": "/images/stays/54506651/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02051120008jbermcE334.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Meisu is right next to Yucun Square, which makes travel, dining and shopping very convenient. The environment of Meisu is elegant, like a garden, and there are many precious and beautiful trees and flowers planted in it. We felt very...",
+      "author": "Guest User",
+      "date": "2024-11-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=54506651&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-54506651&trip_sub3=D19127628"
+    },
+    {
+      "quote": "去莫干山的網紅景點庾村玩，住在這家離庾村最近的民宿，店主是二位熱情可愛的爺爺奶奶，奶奶梳着小辮，根本看不出真實年齡，房間乾淨整潔，爺爺早餐下的麪條也很可口，臨走還送了鮮嫩的竹筍當伴手禮，謝謝你們，下次有機會還會再來哦",
+      "author": "Guest User",
+      "date": "2026-05-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=54506651&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-54506651&trip_sub3=D19127628"
+    },
+    {
+      "quote": "第一次到莫干山, 主要是為了參加比賽, 對這個地方十分陌生, 剛好入住了這間很棒的民宿, 為整個行程生色不少。民宿由兩位老人家開設, 公公婆婆均十分好人, 抵達一刻婆婆主動帶領我們認識附近的位置, 有甚麼好吃的, 好逛的, 比賽場地位置等等一一為我們介紹, 每天起床已經準備好早餐, 每晚均等候我們回來才去休息, 比賽後滿是泥濘的鞋子還幫我洗刷乾淨, 很有溫度的服務, 完全超越了我們的期望, 值得大大力的推薦!!",
+      "author": "Guest User",
+      "date": "2026-04-14",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=54506651&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-54506651&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.1,
+    "count": 40,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:47:03.344Z",
+  "source": "trip"
+}

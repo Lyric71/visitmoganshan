@@ -8,6 +8,30 @@
   "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=100342198&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-100342198&trip_sub3=D19127628",
   "sourceDescription": "",
   "aiSummary": "Review summary Powered by AI Amenities and Activities:The hotel offers a variety of amenities, including a mini-train, archery, children's playground, and interactions with various animals like ducks and peacocks. These activities cater to both families and individuals seeking leisure.(based on 202 reviews) Room Quality:Rooms are described as spacious, clean, and well-equipped with modern facilities. Many guests appreciate the comfortable bedding and the scenic views from their balconies or windows, enhancing the overall stay experience.(based on 835 reviews) Pet-Friendly Policies:The hotel is notably pet-friendly, allowing guests to bring their pets without additional charges, and providing ample green spaces for pets to enjoy. Service Quality:Guests consistently praised the friendly and helpful staff, highlighting their willingness to assist and the warm welcome received upon arrival. The team at the front desk is noted for their professionalism and attentiveness.(based on 1,005 reviews) Guest Suggestion:Some customers suggest improving breakfast quality, hygiene, addressing maintenance issues, and enhancing service training.(based on 27 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Amenities and Activities",
+        "text": "The hotel offers a variety of amenities, including a mini-train, archery, children's playground, and interactions with various animals like ducks and peacocks. These activities cater to both families and individuals seeking leisure.",
+        "count": 202
+      },
+      {
+        "topic": "Room Quality",
+        "text": "Rooms are described as spacious, clean, and well-equipped with modern facilities. Many guests appreciate the comfortable bedding and the scenic views from their balconies or windows, enhancing the overall stay experience.",
+        "count": 835
+      },
+      {
+        "topic": "Pet-Friendly Policies",
+        "text": "The hotel is notably pet-friendly, allowing guests to bring their pets without additional charges, and providing ample green spaces for pets to enjoy. Service Quality:Guests consistently praised the friendly and helpful staff, highlighting their willingness to assist and the warm welcome received upon arrival. The team at the front desk is noted for their professionalism and attentiveness.",
+        "count": 1005
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving breakfast quality, hygiene, addressing maintenance issues, and enhancing service training.",
+      "count": 27
+    }
+  },
   "address": "No. 9 Gaonan Road, Moganshan, Deqing, Zhejiang, China",
   "priceRange": "From US$109",
   "facilities": [
@@ -29,18 +53,6 @@
     {
       "src": "/images/stays/100342198/3.webp",
       "sourceUrl": "https://ak-d.tripcdn.com/images/0202e12000a2c7eeeC4A1.webp"
-    },
-    {
-      "src": "/images/stays/100342198/4.webp",
-      "sourceUrl": "https://ak-d.tripcdn.com/images/0200212000a2c4uk8DF81.webp"
-    },
-    {
-      "src": "/images/stays/100342198/5.webp",
-      "sourceUrl": "https://ak-d.tripcdn.com/images/0582512000sp6hqkj4E5D.webp"
-    },
-    {
-      "src": "/images/stays/100342198/6.webp",
-      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0q12000t4pqvhyBDA6.webp"
     }
   ],
   "comments": [
@@ -71,6 +83,6 @@
     "count": 1805,
     "scale": 10
   },
-  "sourcedAt": "2026-08-08T13:10:34.995Z",
+  "sourcedAt": "2026-08-08T14:13:52.712Z",
   "source": "trip"
 }

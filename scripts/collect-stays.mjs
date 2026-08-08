@@ -35,6 +35,7 @@
 import { mkdir, readFile, writeFile, access } from 'node:fs/promises';
 import path from 'node:path';
 import process from 'node:process';
+import { pathToFileURL } from 'node:url';
 import sharp from 'sharp';
 
 const SEED = 'data/seed/properties.seed.json';
@@ -44,16 +45,27 @@ const IMAGE_SRC_DIR = 'assets/raw/stays';
 const IMAGE_OUT_DIR = 'public/images/stays';
 
 // The audit in scripts/audit-images.mjs is the contract every shipped raster
-// has to meet. Matching it here means a captured image is either already
+// has to meet, and it enforces a tighter budget for this directory than for the
+// rest of the site. Matching it here means a captured image is either already
 // compliant or never written.
-const MAX_WIDTH = 1600;
-/** Anything narrower is a thumbnail, not a gallery frame. */
+//
+// Sizes come from what the listing card actually renders, not from what the CDN
+// happens to hand over. The lead frame occupies about 320 CSS pixels and the two
+// thumbnails about 107, so 800 and 400 cover both at 2x on a retina screen.
+// Shipping the 1600px original instead cost 125 KB an image, which across 809
+// properties is very nearly 300 MB committed to the repository for pictures
+// nobody ever sees at that size.
+const LEAD = { width: 800, quality: 68, maxKb: 80 };
+const THUMB = { width: 400, quality: 66, maxKb: 30 };
+/** Every card frame is a 3:2 box, so every stored file is one. */
+const ASPECT = 3 / 2;
+/** Anything narrower than this at source is a UI thumbnail, not a photograph. */
 const MIN_WIDTH = 640;
-const MAX_KB = 260;
-const WEBP_QUALITY = 74;
 
 const MIN_IMAGES = 3;
-const MAX_IMAGES = 6;
+// Three per property. Six was fine for ten pilot properties; across 809 it is
+// a quarter of a gigabyte of images in the repository, and a card shows three.
+const MAX_IMAGES = 3;
 const COMMENTS_WANTED = 3;
 const QUOTE_WORDS = 40;
 
@@ -326,6 +338,43 @@ function toExcerpt(quote) {
 }
 
 /**
+ * Split Trip.com's review summary into the parts a card needs.
+ *
+ * The listing carries no property written description. What it does carry is a
+ * machine summary of the reviews, rendered as topic blocks:
+ *
+ *   Pet-friendly:The resort is notably...(based on 767 reviews)
+ *   Facilities:The facilities are well-maintained...(based on 183 reviews)
+ *   Guest Suggestion:Some customers suggest improving...(based on 37 reviews)
+ *
+ * The positive topics become the card description and Guest Suggestion becomes
+ * the card note, which is a better caveat than any template could produce: it
+ * is what the guests who complained actually complained about, with the number
+ * of them attached.
+ *
+ * All of it is Trip.com's text, and every card that shows it says so.
+ */
+function parseSummary(raw) {
+  const cleaned = (raw ?? '').replace(/^\s*Review summary\s*(Powered by AI)?\s*/i, '');
+  const blocks = [];
+  const pattern = /([A-Z][A-Za-z'\- ]{2,30}):\s*(.+?)\(based on ([\d,]+) reviews?\)/g;
+
+  for (const match of cleaned.matchAll(pattern)) {
+    blocks.push({
+      topic: match[1].trim(),
+      text: match[2].trim(),
+      count: Number(match[3].replace(/,/g, '')),
+    });
+  }
+
+  const suggestion = blocks.find((block) => /suggestion|improve/i.test(block.topic));
+  return {
+    topics: blocks.filter((block) => block !== suggestion),
+    suggestion: suggestion ?? null,
+  };
+}
+
+/**
  * Best-effort ISO date. An unparsable date is left empty and fails validation.
  *
  * Built from the local calendar fields rather than toISOString, which shifts
@@ -381,20 +430,11 @@ async function fetchImages(row, urls) {
       const name = `${written.length + 1}.webp`;
       const outFile = path.join(outDir, name);
 
-      let quality = WEBP_QUALITY;
-      let encoded = null;
-      // Step the quality down rather than shipping something the image audit
-      // will reject at push time.
-      for (let attempt = 0; attempt < 4; attempt += 1) {
-        encoded = await sharp(buffer)
-          .rotate()
-          .resize({ width: MAX_WIDTH, withoutEnlargement: true })
-          .webp({ quality })
-          .toBuffer();
-        if (encoded.length <= MAX_KB * 1024) break;
-        quality -= 8;
-      }
-      if (!encoded || encoded.length > MAX_KB * 1024) continue;
+      // The first frame is the card's lead and gets the larger budget; the rest
+      // are thumbnails a hundred pixels wide on screen.
+      const spec = written.length === 0 ? LEAD : THUMB;
+      const encoded = await encodeToBudget(buffer, spec);
+      if (!encoded) continue;
 
       await writeFile(outFile, encoded);
       written.push({ src: `/images/stays/${row.id}/${name}`, sourceUrl: url });
@@ -406,6 +446,40 @@ async function fetchImages(row, urls) {
   }
   return written;
 }
+
+/**
+ * Re-encode to webp inside a byte budget, stepping the quality down until it
+ * fits. A file that cannot fit is dropped rather than shipped: the pre-push
+ * audit would reject it anyway, and finding that out at push time is worse
+ * than finding it out here.
+ */
+export async function encodeToBudget(buffer, spec) {
+  // Cropped to 3:2 rather than scaled by width alone. Roughly one listing photo
+  // in six is portrait, and scaling a 1439x1920 frame to 800 wide makes a
+  // 800x1067 file twice the area of the landscape ones, which blew the budget
+  // and got the whole property dropped. The card crops to 3:2 with object-fit
+  // regardless, so storing that shape wastes no pixel a reader would have seen.
+  // Quality first, then size. A grainy photograph can sit over budget at the
+  // lowest quality worth shipping, and at that point a smaller frame is a
+  // better trade than a mushy one. Dropping it entirely is the last resort:
+  // a property with no photograph on its card is a worse outcome than a
+  // property with a slightly smaller one.
+  for (const width of [spec.width, Math.round(spec.width * 0.75), Math.round(spec.width * 0.6)]) {
+    const height = Math.round(width / ASPECT);
+
+    for (let quality = spec.quality; quality >= 30; quality -= 8) {
+      const encoded = await sharp(buffer)
+        .rotate()
+        .resize({ width, height, fit: 'cover', position: 'attention', withoutEnlargement: true })
+        .webp({ quality })
+        .toBuffer();
+      if (encoded.length <= spec.maxKb * 1024) return encoded;
+    }
+  }
+  return null;
+}
+
+export const IMAGE_SPECS = { LEAD, THUMB };
 
 /* --------------------------------------------------------------------------
    Run
@@ -449,6 +523,9 @@ async function collectOne(browser, row) {
     /* Reference only. Never becomes the description: it is a machine summary of
        other people's reviews, and the page it sits on says so. */
     aiSummary: captured.aiSummary ?? '',
+    /* The summary split into the parts a listing card renders: topic blocks for
+       the description, the guest suggestion block for the note. */
+    summary: parseSummary(captured.aiSummary),
     address: captured.address ?? '',
     priceRange: captured.priceRange ?? '',
     facilities: captured.facilities ?? [],
@@ -573,7 +650,12 @@ async function main() {
   console.log(`\nCollected ${done}. ${failed.length} need attention, listed in ${FAILED}.`);
 }
 
-main().catch((error) => {
-  console.error(error);
-  process.exit(1);
-});
+// Only when run as a command. The encoder below is imported by
+// scripts/optimize-stay-images.mjs, and importing this file must never start a
+// capture as a side effect.
+if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
+  main().catch((error) => {
+    console.error(error);
+    process.exit(1);
+  });
+}

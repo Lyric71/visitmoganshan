@@ -1,0 +1,88 @@
+{
+  "id": 6022207,
+  "name": "Moganshan Manxi Vacation Apartment",
+  "seedName": "Moganshan Manxi Vacation Apartment",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-6022207",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6022207&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6022207&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Highly praised for its scenic setting , proximity to attractions , and convenient transportation.(based on 8 reviews) Facilities:Spacious, clean rooms with modern amenities , well-maintained swimming pools , and recreational options .(based on 10 reviews) Service:Warm, attentive staff , and a welcoming atmosphere.(based on 15 reviews) Activities:Family-friendly features , and access to nearby natural attractions. Environment:Natural aesthetics and thoughtful design . Guest Suggestion:Some customers suggest improving staff service quality, upgrading room facilities to address aging issues, and enhancing noise insulation between rooms.(based on 6 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Highly praised for its scenic setting , proximity to attractions , and convenient transportation.",
+        "count": 8
+      },
+      {
+        "topic": "Facilities",
+        "text": "Spacious, clean rooms with modern amenities , well-maintained swimming pools , and recreational options .",
+        "count": 10
+      },
+      {
+        "topic": "Service",
+        "text": "Warm, attentive staff , and a welcoming atmosphere.",
+        "count": 15
+      },
+      {
+        "topic": "Activities",
+        "text": "Family-friendly features , and access to nearby natural attractions. Environment:Natural aesthetics and thoughtful design . Guest Suggestion:Some customers suggest improving staff service quality, upgrading room facilities to address aging issues, and enhancing noise insulation between rooms.",
+        "count": 6
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 28, Niutouwu, Fatou Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$170",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Bar",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/6022207/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1u12000gwy26if519A.jpg"
+    },
+    {
+      "src": "/images/stays/6022207/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2e12000gxqjnlc1B0B.webp"
+    },
+    {
+      "src": "/images/stays/6022207/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6r12000gwxmwvn38B2.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The location is good, and it is a lovely hotel to stay in. The hotel is clean, and the staff is friendly and helpful. We are disappointed that our fridge in the room didn't work, and they couldn't change or...",
+      "author": "Guest User",
+      "date": "2024-10-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6022207&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6022207&trip_sub3=D19127628"
+    },
+    {
+      "quote": "How to say it, basically no service, the room is OK, but not soundproof, you can basically hear what people are saying, the breakfast is terrible, not as good as the 5 yuan roadside stall",
+      "author": "Xiaoxiao520520",
+      "date": "2025-04-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6022207&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6022207&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room is only worth about 300 to 400 yuan. The surrounding environment and swimming pool are not bad, but the breakfast is not good. Also, due to construction, the hot water pipe was dug out and there was no...",
+      "author": "Guest User",
+      "date": "2024-07-30",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6022207&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6022207&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 7.5,
+    "count": 54,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:47:56.762Z",
+  "source": "trip"
+}

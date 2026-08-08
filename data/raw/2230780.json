@@ -1,0 +1,67 @@
+{
+  "id": 2230780,
+  "name": "PEACEFUL FOREST",
+  "seedName": "PEACEFUL FOREST",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2230780",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2230780&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2230780&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at PEACEFUL FOREST?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 22, Wangjia, Liaoyuan Village, Moganshan Town, Deqing, Zhejiang, 313202, China",
+  "priceRange": "From US$51",
+  "facilities": [
+    "Bar",
+    "Restaurant",
+    "Cafe",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/2230780/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0224212000awew3x7C416.webp"
+    },
+    {
+      "src": "/images/stays/2230780/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201p1200084oovua9647.webp"
+    },
+    {
+      "src": "/images/stays/2230780/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20050k000000b5g2a1A3A.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The hotel is located at the foothills of Moganshan. You do not need to go up the hills. Located very near to the bustling market place, all resturants, bars etc. are very near to the hotel. The room interiors are...",
+      "author": "Guest User",
+      "date": "2023-08-14",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2230780&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2230780&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Absolutely perfect, a magnificent place, very well located. The people who welcomed us were absolutely wonderful, attentive, and they made us a custom Western breakfast. Go for it! :)",
+      "author": "Guest User",
+      "date": "2026-04-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2230780&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2230780&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Super considerate summer paradise! The perfect post station on a hot summer journey~ This trip encountered high temperatures, but this inn is simply my \"life-saving straw\"! As soon as I entered the door, I received an iced coffee exchange voucher...",
+      "author": "Guest User",
+      "date": "2025-07-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2230780&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2230780&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 92,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:54:43.427Z",
+  "source": "trip"
+}

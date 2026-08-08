@@ -1,0 +1,81 @@
+{
+  "id": 6010601,
+  "name": "Wangshan Country House",
+  "seedName": "Wangshan Country House",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-6010601",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6010601&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6010601&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Pet-Friendly Policies:The property is highly pet-friendly, allowing guests to bring their dogs and even interact with the hosts' own pets. This feature is particularly valued by families and pet owners seeking a welcoming atmosphere for their animals. Service & Host Attitude:The hosts are described as warm, hospitable, and attentive, providing personalized services such as preparing meals, recommending local attractions, and engaging in conversations with guests. Their hospitality enhances the overall guest experience.(based on 27 reviews) Facilities & Room Comfort:Rooms are spacious, well-designed, and equipped with modern amenities like efficient air conditioning. Some units feature private courtyards, and the overall layout is praised for its simplicity and comfort.(based on 25 reviews) Dining Experience:Breakfast and dinner options are highlighted for their quality and variety, including locally sourced dishes like hand-pulled noodles and homemade beverages. Guests particularly enjoy the flavorful meals and unique culinary offerings.(based on 5 reviews) Guest Suggestion:Some customers recommend tackling persistent odors like musty or fuel smells and",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Pet-Friendly Policies",
+        "text": "The property is highly pet-friendly, allowing guests to bring their dogs and even interact with the hosts' own pets. This feature is particularly valued by families and pet owners seeking a welcoming atmosphere for their animals. Service & Host Attitude:The hosts are described as warm, hospitable, and attentive, providing personalized services such as preparing meals, recommending local attractions, and engaging in conversations with guests. Their hospitality enhances the overall guest experience.",
+        "count": 27
+      },
+      {
+        "topic": "Room Comfort",
+        "text": "Rooms are spacious, well-designed, and equipped with modern amenities like efficient air conditioning. Some units feature private courtyards, and the overall layout is praised for its simplicity and comfort.",
+        "count": 25
+      },
+      {
+        "topic": "Dining Experience",
+        "text": "Breakfast and dinner options are highlighted for their quality and variety, including locally sourced dishes like hand-pulled noodles and homemade beverages. Guests particularly enjoy the flavorful meals and unique culinary offerings.",
+        "count": 5
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Sunjialing, Nanlu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$93",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/6010601/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20030h0000008thvoED11.jpg"
+    },
+    {
+      "src": "/images/stays/6010601/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6h12000aqsv6ox5F3A.webp"
+    },
+    {
+      "src": "/images/stays/6010601/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4o12000ci9u2g3DEEC.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The room was spacious and comfortable, and sitting on the balcony was very pleasant with a beautiful view. It's not yet peak season, so it was quiet with fewer people. The room design was simple yet elegant, and the facilities...",
+      "author": "yingcc",
+      "date": "2026-04-05",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6010601&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6010601&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Stayed for a couple of nights and the host was very helpful. He got us a couple of bikes to ride around and the dog decided to join us. They’re also very welcoming if you have pets. Breakfast was also...",
+      "author": "James Brafield",
+      "date": "2025-10-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6010601&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6010601&trip_sub3=D19127628"
+    },
+    {
+      "quote": "It was my first time to visit Moganshan, and this B&B gave me a big surprise. The boss's cooking was once so delicious that he could just open a restaurant! The Yunnan rice noodles breakfast made by the owner and...",
+      "author": "Guest User",
+      "date": "2023-10-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6010601&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6010601&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.9,
+    "count": 58,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:28:27.185Z",
+  "source": "trip"
+}

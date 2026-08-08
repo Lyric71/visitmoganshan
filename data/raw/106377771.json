@@ -1,0 +1,74 @@
+{
+  "id": 106377771,
+  "name": "Mogan Dreamlohas Resort",
+  "seedName": "Mogan Dreamlohas Resort",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-106377771",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=106377771&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-106377771&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Dining Options:Breakfast at the hotel is often described as plentiful and satisfying, with a decent variety of options. The dining service is noted for being attentive, with some guests appreciating the quality of meals served at the hotel restaurant.(based on 234 reviews) Guest Suggestion:Some customers suggest improving the room conditions, such as addressing dampness and outdated facilities, enhancing breakfast offerings, and ensuring effective service from staff.(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Dining Options",
+        "text": "Breakfast at the hotel is often described as plentiful and satisfying, with a decent variety of options. The dining service is noted for being attentive, with some guests appreciating the quality of meals served at the hotel restaurant.",
+        "count": 234
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving the room conditions, such as addressing dampness and outdated facilities, enhancing breakfast offerings, and ensuring effective service from staff.",
+      "count": 3
+    }
+  },
+  "address": "No. 215 Moganshan, Deqing, Zhejiang, China",
+  "priceRange": "From US$160",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/106377771/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3j12000t7mdfqd0E6F.jpg"
+    },
+    {
+      "src": "/images/stays/106377771/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1o12000go9ohre1716.webp"
+    },
+    {
+      "src": "/images/stays/106377771/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5012000rw72auz612F.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Moganshan Scenic Area Tickets (Report the license plate in advance and drive to the hotel) After placing an order, the hotel will contact you to report the license plate number, and you can enter the scenic area directly! This is...",
+      "author": "Guest User",
+      "date": "2024-05-15",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=106377771&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-106377771&trip_sub3=D19127628"
+    },
+    {
+      "quote": "First of all, the disadvantages: the bed is a bit irritating when sleeping It takes 5 minutes to walk to the villa area to eat Advantages: you can drive directly up The environment is very good It is extremely convenient...",
+      "author": "Guest User",
+      "date": "2024-04-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=106377771&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-106377771&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I have been to Moganshan several times, but this is the first time I stayed on the mountain. I traveled during off-peak hours and had a first-class experience. I shared two rooms with my parents, but the hotel thoughtfully upgraded...",
+      "author": "CPAO",
+      "date": "2024-02-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=106377771&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-106377771&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.3,
+    "count": 352,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:24:59.992Z",
+  "source": "trip"
+}

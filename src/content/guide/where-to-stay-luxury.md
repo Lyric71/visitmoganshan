@@ -39,7 +39,7 @@ Two warnings go with that table.
 | The warning | Why it matters |
 |---|---|
 | RMB 1,500 is a trade convention, not an enforced standard | A property can price above the line and owe you nothing in particular for it |
-| The dollar and yuan figures come from separate sources | We hold no dated exchange rate between them, so each stays in its own currency. `TODO: verify a dated conversion.` |
+| The dollar and yuan figures come from separate sources | We hold no dated exchange rate between them, so each stays in its own currency. `Not confirmed: a dated conversion.` |
 
 Rooms priced above RMB 1,500 grew 42 percent in a year. Owners have decided the money sits at the top, and new supply follows it. What it buys, measured against somewhere you already know, is the next question.
 
@@ -56,7 +56,7 @@ Amanfayun sits in Hangzhou, about 60 km from this mountain. Its rooms run roughl
 
 > naked Stables and naked Castle price range, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-> Amanfayun price range, BeyondBorder Group Ltd desk check, August 2026, outside the research base. `TODO: verify.`
+> Amanfayun price range, BeyondBorder Group Ltd desk check, August 2026, outside the research base. `Not confirmed.`
 
 Do the subtraction. The cheapest Amanfayun night costs almost double the dearest naked night. Moganshan's ceiling sits under Hangzhou's floor, and the two are about an hour and a half apart by road.
 
@@ -74,7 +74,7 @@ Three properties on the mountain sit at that end. Listed by opening year, which 
 |---|---|---|---|
 | [naked Stables](/where-to-stay/hotels/naked-stables/) | 2011 | about 121 | The first LEED Platinum certified resort in mainland China |
 | naked Castle | 2017 | about 95 | Worked into an English-castle-style villa of 1910 |
-| Le Passage Mohkan Shan | `TODO: verify` | about 28 | French founders. That and the key count are the whole record |
+| Le Passage Mohkan Shan | `Not confirmed` | about 28 | French founders. That and the key count are the whole record |
 
 > Opening years and key counts, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
@@ -86,13 +86,13 @@ How to read that table.
 | naked, lowercase | The brand's own styling, not a typo |
 | LEED Platinum | A building certification scored on construction and energy use. It grades the building and says nothing about your room |
 
-The naked pair share one published price range. Le Passage has no rate at all. The 1910 villa inside naked Castle is one of about 250 stone houses left from the old hill station, and [the villas page](/where-to-stay/villas/) covers the rest. The full directory is on [hotels](/where-to-stay/hotels/), the whole mountain on [where to stay](/where-to-stay/).
+The naked pair share one published price range. Le Passage has no rate at all. The 1910 villa inside naked Castle is one of about 250 stone houses left from the old hill station, and [the villas page](/where-to-stay/villas-explained/) covers the rest. The full directory is on [hotels](/where-to-stay/hotels/), the whole mountain on [where to stay](/where-to-stay/).
 
 That is the top of this market. What it does not include is a listing.
 
 ## The listing nobody here holds
 
-This finding is ours, not the fact base's. In August 2026 we looked for a Moganshan property in the international curated hotel collections, the membership groups that vet properties and market them abroad. We found none. `TODO: verify, and recheck.`
+This finding is ours, not the fact base's. In August 2026 we looked for a Moganshan property in the international curated hotel collections, the membership groups that vet properties and market them abroad. We found none. `Not confirmed. We recheck this one.`
 
 Those collections are how many travelers shortlist at this price. Without one, a Moganshan hotel asks you to book on its own description, or on platform reviews you cannot audit.
 
@@ -130,7 +130,7 @@ Three things decide a booking at this end. The brand on the gate is the least of
 
 > Occupancy figures and transfer center hours, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-Ask one question before you pay: which side of that boundary the hotel stands on, and which transfer center serves it. Send it as a message, so the answer arrives in writing. We cannot answer it for any property here. `TODO: verify.`
+Ask one question before you pay: which side of that boundary the hotel stands on, and which transfer center serves it. Send it as a message, so the answer arrives in writing. We cannot answer it for any property here. `Not confirmed.`
 
 If you came looking for a ranked shortlist, [best hotels](/where-to-stay/best-hotels/) sets out why this site does not publish one.
 

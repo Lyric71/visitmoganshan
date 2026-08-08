@@ -1,0 +1,86 @@
+{
+  "id": 115632466,
+  "name": "Linshu Hotel (Yinshan Street Transfer Store in Moganshan Scenic Area)",
+  "seedName": "Linshu Hotel (Yinshan Street Transfer Store in Moganshan Scenic Area)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-115632466",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=115632466&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-115632466&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Room Facilities & Cleanliness:Rooms are spacious, well-maintained, and equipped with modern amenities. Many guests highlighted the cleanliness, dry environment (with dehumidifiers and mosquito nets), and absence of pests, particularly appreciating the views from windows or balconies.(based on 68 reviews) Service Quality:Staff are consistently described as friendly, attentive, and helpful, often assisting with luggage, providing travel recommendations, and ensuring a comfortable stay despite the challenging location.(based on 71 reviews) Scenic Views & Atmosphere:The hotel offers panoramic views of greenery from its elevated position, with opportunities to enjoy sunrise, moonlit nights, and natural sounds like bamboo rustling. The historic architecture and tranquil setting enhance the overall experience.(based on 53 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms are spacious, well-maintained, and equipped with modern amenities. Many guests highlighted the cleanliness, dry environment (with dehumidifiers and mosquito nets), and absence of pests, particularly appreciating the views from windows or balconies.",
+        "count": 68
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Staff are consistently described as friendly, attentive, and helpful, often assisting with luggage, providing travel recommendations, and ensuring a comfortable stay despite the challenging location.",
+        "count": 71
+      },
+      {
+        "topic": "Atmosphere",
+        "text": "The hotel offers panoramic views of greenery from its elevated position, with opportunities to enjoy sunrise, moonlit nights, and natural sounds like bamboo rustling. The historic architecture and tranquil setting enhance the overall experience.",
+        "count": 53
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 435 Yinshan Street, Moganshan Scenic Area, Deqing, Zhejiang, China",
+  "priceRange": "From US$60",
+  "facilities": [
+    "Bar",
+    "Cardroom",
+    "Restaurant",
+    "Cafe",
+    "Conference room",
+    "Multi-function room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/115632466/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc7212000g5s9pqtDD9F.jpg"
+    },
+    {
+      "src": "/images/stays/115632466/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4k12000g5snx3aD9F2.webp"
+    },
+    {
+      "src": "/images/stays/115632466/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6h12000haydytn3E1E.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "This stay far exceeded my expectations and I highly recommend it! The hotel was incredibly thoughtful, upgrading my room and proactively arranging to combine two 1.2-meter single beds into a 2.4-meter double bed. The bedding was clean, crisp, and soft...",
+      "author": "Guest User",
+      "date": "2026-07-30",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=115632466&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-115632466&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room was clean and tidy, providing a great summer vacation experience.",
+      "author": "WINTERHSU",
+      "date": "2026-08-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=115632466&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-115632466&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The rooms were spacious, clean, and the service was warm and welcoming, with a homey feel. It's rare to find accommodation like this in the mountains within a scenic area. The hotel is located on Yinshan Street, at the starting...",
+      "author": "Guest User",
+      "date": "2026-08-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=115632466&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-115632466&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 150,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:16:16.639Z",
+  "source": "trip"
+}

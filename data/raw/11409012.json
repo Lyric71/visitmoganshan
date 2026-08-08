@@ -1,0 +1,70 @@
+{
+  "id": 11409012,
+  "name": "Ketangjian · Moganshan Hot Spring Themed Homestay",
+  "seedName": "Ketangjian · Moganshan Hot Spring Themed Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-11409012",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=11409012&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-11409012&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Ketangjian · Moganshan Hot Spring Themed Homestay?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Ganmiaowu, Miaoqian Village, Fatou Township, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$72",
+  "facilities": [
+    "Hot springs",
+    "Gym",
+    "Bar",
+    "Restaurant",
+    "Conference room",
+    "Playground",
+    "Kids' club"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/11409012/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206a120008zabtj7B078.jpg"
+    },
+    {
+      "src": "/images/stays/11409012/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206m120008zaaeph5FCB.webp"
+    },
+    {
+      "src": "/images/stays/11409012/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201w120008za9ypg9F8E.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The hotel is run by a husband and wife team who were very friendly. They even upgraded our room after check-in. The environment was quiet, the window view was beautiful, and the bathtub was very comfortable. I felt completely relaxed...",
+      "author": "Guest User",
+      "date": "2026-05-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=11409012&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-11409012&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The hotel is surrounded by beautiful scenery, and the owner and staff are very welcoming and quick to resolve any issues. The hotel is well-equipped, fulfilling the desire for relaxation and tranquility.",
+      "author": "Guest User",
+      "date": "2025-10-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=11409012&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-11409012&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Located in a village, the building has a stylish design; it's about a 20-minute drive from the attractions. The village has many stray dogs, making walks inconvenient. During the off-season, only one young man was available to serve us, and...",
+      "author": "Dingdangmao",
+      "date": "2026-01-30",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=11409012&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-11409012&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.9,
+    "count": 27,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:56:42.787Z",
+  "source": "trip"
+}

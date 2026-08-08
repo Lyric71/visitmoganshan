@@ -37,7 +37,7 @@ Read every figure below as a whole journey: the walk, the wait, the train, the r
 | **Pudong (PVG)** | 200 to 240 km plus the cross-city leg | 4h00 to 4h45 | The same, plus that cross-city leg | Only on a morning arrival, and it still makes a long day |
 | **Xiaoshan (HGH)** | More than the 60 to 63 km from central Hangzhou | 1h45 to 2h15 by car, 2h30 to 3h00 by rail | RMB 16 to 67 rail, plus the last mile and the run into Hangzhou East | Yes, with the widest margin of the three |
 
-`TODO: verify airport-specific road distances and cross-city transfer costs. We hold city-to-mountain figures and rail fares, nothing measured from a terminal door.`
+`Not confirmed: airport-specific road distances and cross-city transfer costs. We hold city-to-mountain figures and rail fares, nothing measured from a terminal door.`
 
 > Rail journey times, daily service counts and second class fares, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
@@ -51,7 +51,7 @@ Each airport in turn now, easiest first.
 
 The airport and Shanghai Hongqiao Railway Station sit on the same site. You clear immigration and then walk to your train, without leaving the complex. No taxi, no crossing the city between the plane and the platform. That is why people call this trip easy.
 
-`TODO: verify which terminal connects to the rail concourse on foot, and the real walking time with luggage. We hold the connection but not the layout.`
+`Not confirmed: which terminal connects to the rail concourse on foot, and the real walking time with luggage. We hold the connection but not the layout.`
 
 From there, 13 direct services a day run to Deqing. The ride takes 63 to 80 minutes and a second class seat costs roughly RMB 61 to 110, so the train you pick moves the price more than you might expect.
 
@@ -75,7 +75,7 @@ Pudong sits on the far east edge of Shanghai. Moganshan is southwest of the city
 
 That crossing runs 50 to 70 minutes by car. Maglev then metro is faster on paper and slower in practice, once you add two suitcases and two changes.
 
-`TODO: verify the maglev and metro routing, total time and fare from Pudong to Hongqiao Railway Station.`
+`Not confirmed: the maglev and metro routing, total time and fare from Pudong to Hongqiao Railway Station.`
 
 Then put an international arrival in front of the whole thing. Immigration and baggage reclaim, plus, if you are entering without a visa, the check on the scheme you are traveling under. Those rules are on our [visa-free entry to China](/plan/china-visa-free-entry/) page. Only then do the four hours start.
 
@@ -98,15 +98,15 @@ The arithmetic is the argument. By car Xiaoshan is 2 hours 15 to 2 hours 30 quic
 |---|---|---|
 | Rail | Into Hangzhou East, high-speed train to Deqing, then shuttle or taxi | 2h30 to 3h00 |
 | Private car | Straight through to a transfer center | 1h45 to 2h15 |
-| Airport coach | To Deqing bus station, then the same last mile as everyone else | `TODO: verify` |
+| Airport coach | To Deqing bus station, then the same last mile as everyone else | `Not confirmed` |
 
 The Hangzhou East to Deqing leg is the quick part: 13 to 17 minutes over 35 km, 16 services a day, roughly RMB 16 to 67. It runs on the Nanjing to Hangzhou high-speed line, open since 2013, so none of it depends on recent construction.
 
 Two gaps sit in this section, both the kind a booking depends on.
 
-`TODO: verify how to reach Hangzhou East from Xiaoshan airport, with time and fare. We hold "rail or taxi" and nothing more precise.`
+`Not confirmed: how to reach Hangzhou East from Xiaoshan airport, with time and fare. We hold "rail or taxi" and nothing more precise.`
 
-`TODO: verify the Xiaoshan airport coach timetable, journey time and fare. We hold only that the service exists.`
+`Not confirmed: the Xiaoshan airport coach timetable, journey time and fare. We hold only that the service exists.`
 
 If Hangzhou is already on your itinerary this is not a transfer, just a short local trip. The [Hangzhou to Moganshan](/getting-here/from-hangzhou/) page makes that case at length.
 
@@ -124,7 +124,7 @@ Whether that rule applies to you is not something a map tells you. Many guesthou
 
 > Y1 shuttle departures, the scenic-area vehicle restriction and transfer center hours, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-`TODO: verify the last useful train of the day from Hongqiao to Deqing. Our latest confirmed example, G1419, arrives at 18:42, which is already after both closing times.`
+`Not confirmed: the last useful train of the day from Hongqiao to Deqing. Our latest confirmed example, G1419, arrives at 18:42, which is already after both closing times.`
 
 | Situation | What to do |
 |---|---|
@@ -151,9 +151,9 @@ It earns its cost in four situations:
 
 Book through the property rather than at the curb, and ask which transfer center serves them. They field that question every week.
 
-`TODO: verify private transfer prices from Hongqiao, Pudong and Xiaoshan. Rates vary widely by operator and season and we have not found a range we trust.`
+`Not confirmed: private transfer prices from Hongqiao, Pudong and Xiaoshan. Rates vary widely by operator and season and we have not found a range we trust.`
 
 For the whole chain from either city, coach and driving included, start at [how to get to Moganshan](/getting-here/).
 
-*Train times, fares, shuttle departures and transfer center hours last checked 5 August 2026, against a fact base compiled 1 to 5 August 2026. Every figure on this page can change with a timetable revision, so confirm the ones your arrival depends on. Lines marked TODO stay open until verified.*
+*Train times, fares, shuttle departures and transfer center hours last checked 5 August 2026, against a fact base compiled 1 to 5 August 2026. Every figure on this page can change with a timetable revision, so confirm the ones your arrival depends on. Lines flagged as unconfirmed stay open until they are verified.*
 

@@ -61,7 +61,7 @@ A fifth question does more damage, so it goes in a sentence rather than a table 
 
 The same doubt reaches the 154, and the 250 further down. Every figure here comes out of one thin base, and skepticism applied to a single number would be decoration.
 
-TODO: verify the compiling body, the exact year and the ownership definition behind both the 118 and the 78. Until that closes, the difference of 40 is a difference between two counts, not a count of houses that moved.
+Not confirmed: the compiling body, the exact year and the ownership definition behind both the 118 and the 78. Until that closes, the difference of 40 is a difference between two counts, not a count of houses that moved.
 
 ## Four ways forty houses change hands
 
@@ -128,7 +128,7 @@ Seventy years of weather, war, demolition and rebuilding will take houses off a 
 
 The surviving figure is soft at its own end. Some sources say 200 or more rather than about 250, and nobody we can find has published the method behind either. What makes a villa historic here is undefined.
 
-TODO: verify the survival figure and the method behind it. "About 250" is an estimate that has been repeated, not a count that has been made. The survivors are the ones [the walking tour](/moganshan/hill-station/walking-tour/) puts into an order that works on foot.
+Not confirmed: the survival figure and the method behind it. "About 250" is an estimate that has been repeated, not a count that has been made. The survivors are the ones [the walking tour](/moganshan/hill-station/walking-tour/) puts into an order that works on foot.
 
 ![Restored stone villa in use today at Moganshan](/images/guide/journal-118-4.webp 'About 250 historic villas survive. More than 450 were built, on the figures we hold, and no published survey accounts for the difference.')
 
@@ -145,5 +145,5 @@ None of them is in our hands. If you hold one, we would like to see it.
 
 So the honest version of "118, then 78" is short. Two counts, somewhere between one year and nine years apart, disagree by forty houses. The reason is not on the record, the basis of comparison is not on the record either, and the building that came afterward was bigger than anything the two numbers describe.
 
-*Figures follow the fact base compiled 1 to 5 August 2026, last checked 7 August 2026. The two TODO markers above stay until the underlying counts are found.*
+*Figures follow the fact base compiled 1 to 5 August 2026, last checked 7 August 2026. The two gaps flagged above stay open until the underlying counts are found.*
 

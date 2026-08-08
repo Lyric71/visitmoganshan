@@ -1,0 +1,88 @@
+{
+  "id": 16079662,
+  "name": "Moganshan Liangshe Health Resort Hotel",
+  "seedName": "Moganshan Liangshe Health Resort Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-16079662",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=16079662&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-16079662&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Facilities:The hotel boasts a large swimming pool, billiards, ping-pong tables, and outdoor sports areas, offering diverse activities for guests. There are also charging stations for convenience, making it suitable for both relaxation and recreation.(based on 23 reviews) Service:Guests frequently commend the thoughtful and responsive service. Requests are addressed promptly, contributing to a satisfying stay. Some reviews highlight the friendly staff and their willingness to recommend local attractions.(based on 67 reviews) Guest Suggestion:Some customers suggest improving facility maintenance , enhancing staff availability for service, and addressing hygiene issues like pests and unclean bathrooms.(based on 10 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Facilities",
+        "text": "The hotel boasts a large swimming pool, billiards, ping-pong tables, and outdoor sports areas, offering diverse activities for guests. There are also charging stations for convenience, making it suitable for both relaxation and recreation.",
+        "count": 23
+      },
+      {
+        "topic": "Service",
+        "text": "Guests frequently commend the thoughtful and responsive service. Requests are addressed promptly, contributing to a satisfying stay. Some reviews highlight the friendly staff and their willingness to recommend local attractions.",
+        "count": 67
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving facility maintenance , enhancing staff availability for service, and addressing hygiene issues like pests and unclean bathrooms.",
+      "count": 10
+    }
+  },
+  "address": "No. 19, Niutouwu, Moganshan Town, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$105",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Gym",
+    "Bar",
+    "Billiards room",
+    "Cardroom",
+    "Restaurant",
+    "Cafe",
+    "Conference room",
+    "Playground",
+    "Kids' club"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/16079662/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5u12000d5i360z29A5.jpg"
+    },
+    {
+      "src": "/images/stays/16079662/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1712000d5idjr78C9D.webp"
+    },
+    {
+      "src": "/images/stays/16079662/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4b12000d8k6irw9F9C.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The hotel in the mountains is tranquil and peaceful, the landlady is very welcoming, and the stay is very pleasant.",
+      "author": "Jiangzhijunlang",
+      "date": "2026-02-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=16079662&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-16079662&trip_sub3=D19127628"
+    },
+    {
+      "quote": "This hotel, which exited the Radisson chain, is listed as having opened in 2019, but many of its facilities are already quite outdated, and the biggest problem is a lack of foot traffic. Lowering expectations and treating it like a...",
+      "author": "Guest User",
+      "date": "2026-06-22",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=16079662&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-16079662&trip_sub3=D19127628"
+    },
+    {
+      "quote": "It smelled musty, the room wasn't very big, and the buffet breakfast was so-so.",
+      "author": "Guest User",
+      "date": "2026-05-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=16079662&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-16079662&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.1,
+    "count": 154,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:46:41.700Z",
+  "source": "trip"
+}

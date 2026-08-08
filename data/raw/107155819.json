@@ -1,0 +1,82 @@
+{
+  "id": 107155819,
+  "name": "Mogan Mountain Wild Hills Ink Whispers Rooftop Garden Boutique Homestay",
+  "seedName": "Mogan Mountain Wild Hills Ink Whispers Rooftop Garden Boutique Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-107155819",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=107155819&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-107155819&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:The hotel is conveniently located near Yu Village, making it easy for guests to explore the area. Guests appreciated the proximity to local attractions and the quiet environment away from the main street. Service Quality:The service provided by the owner is highly praised for being warm, attentive, and personalized, with many guests noting the owner's proactive communication and willingness to assist with local recommendations and transportation.(based on 23 reviews) Facilities:Guests enjoyed the loft-style rooms and the presence of a swimming pool, which were highlighted as great for photography. The facilities are described as modern with an aesthetically pleasing design.(based on 5 reviews) Convenience:Guests appreciated the available amenities such as luggage storage, airport pick-up, and the owner’s assistance with charging electric vehicles, making their stay more comfortable and convenient.(based on 20 reviews) Ambiance:The hotel’s ambiance, with its stylish design and rooftop garden, is noted for being photogenic and adding to the overall positive experience.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "The hotel is conveniently located near Yu Village, making it easy for guests to explore the area. Guests appreciated the proximity to local attractions and the quiet environment away from the main street. Service Quality:The service provided by the owner is highly praised for being warm, attentive, and personalized, with many guests noting the owner's proactive communication and willingness to assist with local recommendations and transportation.",
+        "count": 23
+      },
+      {
+        "topic": "Facilities",
+        "text": "Guests enjoyed the loft-style rooms and the presence of a swimming pool, which were highlighted as great for photography. The facilities are described as modern with an aesthetically pleasing design.",
+        "count": 5
+      },
+      {
+        "topic": "Convenience",
+        "text": "Guests appreciated the available amenities such as luggage storage, airport pick-up, and the owner’s assistance with charging electric vehicles, making their stay more comfortable and convenient.",
+        "count": 20
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 13, Zhong Village, Liaoyuan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$92",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/107155819/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1812000qf92kk1DB5C.png"
+    },
+    {
+      "src": "/images/stays/107155819/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0t12000bliorgoBC6A.webp"
+    },
+    {
+      "src": "/images/stays/107155819/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6112000b1el4yo4356.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The guesthouse has a stylish design, and the owner is a handsome and enthusiastic young man who is incredibly accommodating. Even on a weekday with plenty of rooms available, he proactively upgraded our room and recommended nearby attractions based on...",
+      "author": "AngelinaXi",
+      "date": "2026-06-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=107155819&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-107155819&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The location is incredibly convenient, just a 5-minute walk to Yucun Square, offering a quiet oasis amidst the bustling city. The wabi-sabi design is sophisticated and comfortable, featuring two white villas, a courtyard pool, and a rooftop café – every...",
+      "author": "Guest User",
+      "date": "2026-04-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=107155819&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-107155819&trip_sub3=D19127628"
+    },
+    {
+      "quote": "This guesthouse in Moganshan has a great overall design, with a spacious loft layout that's perfect for young people. There's a swimming pool in the central hall on the first floor, which is super convenient for families with children to...",
+      "author": "Guest User",
+      "date": "2026-04-09",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=107155819&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-107155819&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 43,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:39:12.731Z",
+  "source": "trip"
+}

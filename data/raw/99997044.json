@@ -1,0 +1,74 @@
+{
+  "id": 99997044,
+  "name": "Moganshan Two Groundhogs · Wild Luxury Stream Tracing · Swimming Pool · Vacation Apartment",
+  "seedName": "Moganshan Two Groundhogs · Wild Luxury Stream Tracing · Swimming Pool · Vacation Apartment",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-99997044",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=99997044&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-99997044&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:The location is considered convenient for exploring Moganshan and its attractions. Guests appreciate the proximity to hiking trails, scenic spots, and the ease of access to nearby villages. The peaceful setting is ideal for a relaxing getaway.(based on 24 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "The location is considered convenient for exploring Moganshan and its attractions. Guests appreciate the proximity to hiking trails, scenic spots, and the ease of access to nearby villages. The peaceful setting is ideal for a relaxing getaway.",
+        "count": 24
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 2, Yangwukeng, Xiantan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$168",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "3 Restaurants",
+    "Karaoke",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/99997044/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc7012000jfp5m667C29.jpg"
+    },
+    {
+      "src": "/images/stays/99997044/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200c12000a1la37m5226.webp"
+    },
+    {
+      "src": "/images/stays/99997044/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0204712000a1l7ignE096.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Luxury outdoor experience with stream trekking, a large swimming pool, ample parking, EV charging stations, great recreational facilities, and excellent service.",
+      "author": "1ao1ao-",
+      "date": "2026-07-16",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=99997044&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-99997044&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Great atmosphere and the owner is very welcoming. My little dog had a fantastic time playing around! The decor really gives off a beachfront vacation vibe.",
+      "author": "Luguoguo",
+      "date": "2026-07-08",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=99997044&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-99997044&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Even with the rain, the owner's enthusiasm was infectious. They showed us around the hotel, which has a fantastic variety of room types. Since it was raining during our stay, we spent most of our time enjoying the hotel's amenities....",
+      "author": "Guest User",
+      "date": "2026-07-21",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=99997044&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-99997044&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 233,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:02:16.378Z",
+  "source": "trip"
+}

@@ -1,0 +1,94 @@
+{
+  "id": 118984582,
+  "name": "Moganshan – Shallow Shore Creekside Hot Spring Villa",
+  "seedName": "Moganshan – Shallow Shore Creekside Hot Spring Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-118984582",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=118984582&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-118984582&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment and Atmosphere:The environment and rooms have a homey feel, with a beautiful setting near attractions like Yucun Square and surrounded by bamboo forests and tea plantations. The place is quiet and has a pleasant atmosphere.(based on 18 reviews) Room Facilities:Rooms are spacious, decorated in Chinese style, fully equipped, with clear projectors, large balconies, and various recreational facilities such as pools, billiards, etc.(based on 20 reviews) Service:The landlady/owner is very welcoming and thoughtful, helping with ticket bookings, showing different room types, and providing travel advice.(based on 28 reviews) Entertainment Facilities:There are rich recreational facilities like swimming pools, billiards, and more, offering a lot of fun for guests.(based on 12 reviews) Breakfast:Some users think the breakfast is good, though a few suggest it could have more unique features(based on 7 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment and Atmosphere",
+        "text": "The environment and rooms have a homey feel, with a beautiful setting near attractions like Yucun Square and surrounded by bamboo forests and tea plantations. The place is quiet and has a pleasant atmosphere.",
+        "count": 18
+      },
+      {
+        "topic": "Room Facilities",
+        "text": "Rooms are spacious, decorated in Chinese style, fully equipped, with clear projectors, large balconies, and various recreational facilities such as pools, billiards, etc.",
+        "count": 20
+      },
+      {
+        "topic": "Service",
+        "text": "The landlady/owner is very welcoming and thoughtful, helping with ticket bookings, showing different room types, and providing travel advice.",
+        "count": 28
+      },
+      {
+        "topic": "Entertainment Facilities",
+        "text": "There are rich recreational facilities like swimming pools, billiards, and more, offering a lot of fun for guests.",
+        "count": 12
+      },
+      {
+        "topic": "Breakfast",
+        "text": "Some users think the breakfast is good, though a few suggest it could have more unique features",
+        "count": 7
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 63, Yatanwu, Laoling Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$72",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Gym",
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/118984582/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1t12000dpu4cpzA98D.jpg"
+    },
+    {
+      "src": "/images/stays/118984582/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1x12000envfq5l6379.webp"
+    },
+    {
+      "src": "/images/stays/118984582/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2o12000dpu2ca649F3.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The thoughtful landlady supported our entire family trip to Moganshan. From the moment we boarded the high-speed train, she helped us book attraction tickets using the guesthouse's special discounts and even offered advice on our travel arrangements. We checked into...",
+      "author": "guji_guji",
+      "date": "2025-11-13",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=118984582&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-118984582&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room was spacious, decorated in a Chinese style, and felt very comfortable upon entering. The projector was very clear, and the balcony was enormous, facing a bamboo forest and tea plantation. Enjoying tea and browsing my phone was very...",
+      "author": "Anonymous User",
+      "date": "2025-08-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=118984582&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-118984582&trip_sub3=D19127628"
+    },
+    {
+      "quote": "We, a group of five people and a dog, came to this B&B for three days and two nights. The owner was very nice and polite, and the service was very thoughtful. He also took me to visit different room...",
+      "author": "Guest User",
+      "date": "2025-05-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=118984582&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-118984582&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 87,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:19:01.767Z",
+  "source": "trip"
+}

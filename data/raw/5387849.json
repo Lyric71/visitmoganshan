@@ -1,0 +1,80 @@
+{
+  "id": 5387849,
+  "name": "Qingmei Zhuma Inn",
+  "seedName": "Qingmei Zhuma Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5387849",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5387849&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5387849&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment Location:With views of greenery when opening windows and mountains when going out, and close to the firefly base(based on 2 reviews) Service Quality:Owners are warm and helpful, like helping with recommending scenic spots and picking up/dropping off(based on 11 reviews) Facilities Activities:Owner's own small garden has amusement facilities suitable for children(based on 1 review)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment Location",
+        "text": "With views of greenery when opening windows and mountains when going out, and close to the firefly base",
+        "count": 2
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Owners are warm and helpful, like helping with recommending scenic spots and picking up/dropping off",
+        "count": 11
+      },
+      {
+        "topic": "Facilities Activities",
+        "text": "Owner's own small garden has amusement facilities suitable for children",
+        "count": 1
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 22, Shangxiazhuang, Lanshukeng, Moganshan Town, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$34",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5387849/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2009050000000mielEBDB.jpg"
+    },
+    {
+      "src": "/images/stays/5387849/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200r050000000mifm150B.webp"
+    },
+    {
+      "src": "/images/stays/5387849/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2008050000000mifuAE8B.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The cleanliness in this hotel is on another level. The family is sooo warm, kind and helpful. These places give a feeling of home over fancy hotels. When I got lost, owners came for me. I didn't know scenic spots,...",
+      "author": "Guest User",
+      "date": "2025-10-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5387849&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5387849&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The owner is very welcoming and it felt like a home based feeling with traditional Chinese breakfast that is made by the owner itself and location wise is very convenient",
+      "author": "Guest User",
+      "date": "2025-10-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5387849&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5387849&trip_sub3=D19127628"
+    },
+    {
+      "quote": "This is a great value for money restaurant. The room isn't big, but it's clean. The owner cooks delicious and affordable food. The location is great, easy to find, and parking is convenient. The owner also recommended a place to...",
+      "author": "Jialongmama",
+      "date": "2025-08-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5387849&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5387849&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 26,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:54:39.187Z",
+  "source": "trip"
+}

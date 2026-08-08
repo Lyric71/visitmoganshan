@@ -1,0 +1,91 @@
+{
+  "id": 1698921,
+  "name": "Moganshan Xiaoyao Resort",
+  "seedName": "Moganshan Xiaoyao Resort",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1698921",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1698921&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1698921&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment and Location:Conveniently located near scenic spots and transfer centers, surrounded by beautiful mountains and rivers with a stream at the door. Easy to reach various places by taxi or Didi.(based on 17 reviews) Room Facilities:Rooms made of wood, some with XGIMI projectors, private swimming pools and slides, providing ample sleeping space for families.(based on 20 reviews) Service:Warm and attentive service from the owner and staff, helpful with luggage and providing umbrellas when needed.(based on 48 reviews) Hygiene:Rooms are clean and tidy, meeting accommodation needs.(based on 38 reviews) Surroundings:Beautiful surrounding environment with a pleasant and relaxing atmosphere suitable for leisure and vacation Guest Suggestion: Some customers suggest improving room hygiene , upgrading outdated facilities , and ensuring value for money .(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment and Location",
+        "text": "Conveniently located near scenic spots and transfer centers, surrounded by beautiful mountains and rivers with a stream at the door. Easy to reach various places by taxi or Didi.",
+        "count": 17
+      },
+      {
+        "topic": "Room Facilities",
+        "text": "Rooms made of wood, some with XGIMI projectors, private swimming pools and slides, providing ample sleeping space for families.",
+        "count": 20
+      },
+      {
+        "topic": "Service",
+        "text": "Warm and attentive service from the owner and staff, helpful with luggage and providing umbrellas when needed.",
+        "count": 48
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Rooms are clean and tidy, meeting accommodation needs.",
+        "count": 38
+      },
+      {
+        "topic": "Surroundings",
+        "text": "Beautiful surrounding environment with a pleasant and relaxing atmosphere suitable for leisure and vacation Guest Suggestion: Some customers suggest improving room hygiene , upgrading outdated facilities , and ensuring value for money .",
+        "count": 3
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 39, Jimiaowu, Houwu Village, Moganshan Town, Deqing, Zhejiang, 313212, China",
+  "priceRange": "From US$71",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1698921/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200m120008hm3txu1CE9.jpg"
+    },
+    {
+      "src": "/images/stays/1698921/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200k13000000umpvyBBBF.webp"
+    },
+    {
+      "src": "/images/stays/1698921/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200n13000000uyj9wE040.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Came here with my girlfriend, and the hotel owner kindly upgraded us to a round-bed room for free! It had a rocking chair and a sofa, creating a really cozy atmosphere that my girlfriend absolutely loved. There are EV charging...",
+      "author": "Guest User",
+      "date": "2026-02-04",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1698921&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1698921&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Drove an hour from Hangzhou to get here. The owner was super welcoming. All the rooms are made of wood, and the bathroom was pretty clean. Overall, a good experience. After a nap at noon, the sunlight streamed in through...",
+      "author": "Guest User",
+      "date": "2026-02-04",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1698921&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1698921&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Really nice and original style, the swimming pool and the water slide are amazing. The location is not the most convenient, but using taxi, you can reach all places. The service is very good as well. The breakfast is not...",
+      "author": "IvannVsc",
+      "date": "2025-08-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1698921&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1698921&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 107,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:17:48.034Z",
+  "source": "trip"
+}

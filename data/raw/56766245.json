@@ -1,0 +1,88 @@
+{
+  "id": 56766245,
+  "name": "One Thousand And Seven Nights Hostel",
+  "seedName": "One Thousand And Seven Nights Hostel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-56766245",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=56766245&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-56766245&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Located near attractions like Gengcun Square and Moganshan Mountain, with convenient access to food, coffee shops, and scenic spots. It's just a few minutes' walk to Yucun Square. (based on 22 reviews) Facilities:Rooms are well-equipped, and there are facilities like a swimming pool and small sandpit. The rooms are also equipped with necessary items and have a nice atmosphere. (based on 5 reviews) Service:Housekeepers are helpful, attentive, and provide travel tips. The service is warm and sincere from check-in to check-out. (based on 53 reviews) Hygiene:Rooms and the overall guesthouse are very clean, with daily cleaning. (based on 26 reviews) Decoration:Boasts exotic styles like Moroccan, with great design sense, suitable for taking photos.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Located near attractions like Gengcun Square and Moganshan Mountain, with convenient access to food, coffee shops, and scenic spots. It's just a few minutes' walk to Yucun Square.",
+        "count": 22
+      },
+      {
+        "topic": "Facilities",
+        "text": "Rooms are well-equipped, and there are facilities like a swimming pool and small sandpit. The rooms are also equipped with necessary items and have a nice atmosphere.",
+        "count": 5
+      },
+      {
+        "topic": "Service",
+        "text": "Housekeepers are helpful, attentive, and provide travel tips. The service is warm and sincere from check-in to check-out.",
+        "count": 53
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Rooms and the overall guesthouse are very clean, with daily cleaning.",
+        "count": 26
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 23 South Road, Liaoyuan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$107",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant",
+    "Multi-function room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/56766245/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0204q1200086stb8y641C.jpg"
+    },
+    {
+      "src": "/images/stays/56766245/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0204g120008k7fqsg7E3F.webp"
+    },
+    {
+      "src": "/images/stays/56766245/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201l1200086urzao1732.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Best service. Even the owner is soooo accomodating. Highly recommended!!! Near attractions",
+      "author": "Guest User",
+      "date": "2026-04-12",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=56766245&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-56766245&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The hotel staff was always flexible, supportive and helpful. Rooms were modern and clean. Location was great with nice restaurants, coffee places and Yucun square around the corner.",
+      "author": "Guest User",
+      "date": "2026-04-13",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=56766245&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-56766245&trip_sub3=D19127628"
+    },
+    {
+      "quote": "We stayed 3 nights for the UTMB race. The manager is very kind and helpful. The owner even drove us when we had a hard time booking Didi. Highly recommended.",
+      "author": "Guest User",
+      "date": "2026-04-12",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=56766245&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-56766245&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 102,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:07:25.430Z",
+  "source": "trip"
+}

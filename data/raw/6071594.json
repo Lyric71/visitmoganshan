@@ -1,0 +1,87 @@
+{
+  "id": 6071594,
+  "name": "Moganshan Xizhan Homestay (Houwu Transfer Center)",
+  "seedName": "Moganshan Xizhan Homestay (Houwu Transfer Center)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-6071594",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6071594&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6071594&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:Clean, well-designed rooms with retro/european styles, lush gardens with succulents, and natural elements like streams and outdoor spaces . Location:Proximity to Houdu Transfer Center, convenient access to Moganshan attractions, and nearby restaurants/conveniences.(based on 6 reviews) Services:Hosts provide warm, attentive service, including family-friendly activities .(based on 16 reviews) Facilities:Includes swimming pools, barbecue areas, KTV rooms, and spacious layouts .(based on 7 reviews) Hygiene:Consistently praised for cleanliness, with \"spotless rooms\" and \"well-maintained environments.\"(based on 17 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Clean, well-designed rooms with retro/european styles, lush gardens with succulents, and natural elements like streams and outdoor spaces . Location:Proximity to Houdu Transfer Center, convenient access to Moganshan attractions, and nearby restaurants/conveniences.",
+        "count": 6
+      },
+      {
+        "topic": "Services",
+        "text": "Hosts provide warm, attentive service, including family-friendly activities .",
+        "count": 16
+      },
+      {
+        "topic": "Facilities",
+        "text": "Includes swimming pools, barbecue areas, KTV rooms, and spacious layouts .",
+        "count": 7
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Consistently praised for cleanliness, with \"spotless rooms\" and \"well-maintained environments.\"",
+        "count": 17
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 9, Xia Village, Houwu Village, Moganshan Town, Deqing, Zhejiang, 313206, China",
+  "priceRange": "From US$63",
+  "facilities": [
+    "Cardroom",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/6071594/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0204q1200092ki20142CB.jpg"
+    },
+    {
+      "src": "/images/stays/6071594/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0580i12000sp5me0f53AD.webp"
+    },
+    {
+      "src": "/images/stays/6071594/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206m1200090yigs4ADFD.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The proprietress was very enthusiastic and prepared many parent-child activities for us. The homestay was clean and tidy, avoiding the crowds on May Day. The farmhouse dishes were very good, and you could also barbecue them yourself. The proprietress planted...",
+      "author": "Guest User",
+      "date": "2025-05-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6071594&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6071594&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I originally booked the Houwu branch, but the owner called the night before check-in and told us to stay at a different branch, Xiantan Village! The price on Ctrip was indeed different, and the changed B&B should be better! The...",
+      "author": "Anonymous User",
+      "date": "2024-08-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6071594&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6071594&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Good, the room is very clean, I fell asleep at night with the sound of running water, there is a restaurant next to it, very convenient, the breakfast is very rich (＾-＾)o🍴The location is good",
+      "author": "Guest User",
+      "date": "2024-08-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6071594&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6071594&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.3,
+    "count": 46,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:38:48.996Z",
+  "source": "trip"
+}

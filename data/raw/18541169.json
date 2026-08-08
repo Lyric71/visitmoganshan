@@ -1,0 +1,84 @@
+{
+  "id": 18541169,
+  "name": "Moganshan Yinsu Garden Camping Holiday Villa",
+  "seedName": "Moganshan Yinsu Garden Camping Holiday Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-18541169",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=18541169&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-18541169&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment & Location:The property is situated in a tranquil, scenic area with access to nearby attractions like bamboo forests, streams, and farms. Guests praised the serene atmosphere, natural views , and proximity to walking trails and scenic spots.(based on 3 reviews) Cleanliness & Facilities:Rooms were described as spacious, clean, and well-equipped with amenities like bathtubs, balconies, and functional facilities . Service & Hospitality:Hosts were consistently noted as warm, attentive, and helpful, with positive feedback on their hospitality and the quality of meals .(based on 9 reviews) Value for Money:Many guests highlighted the affordability of the stay relative to the quality of the experience, including complimentary breakfast and family-friendly accommodations.(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "The property is situated in a tranquil, scenic area with access to nearby attractions like bamboo forests, streams, and farms. Guests praised the serene atmosphere, natural views , and proximity to walking trails and scenic spots.",
+        "count": 3
+      },
+      {
+        "topic": "Facilities",
+        "text": "Rooms were described as spacious, clean, and well-equipped with amenities like bathtubs, balconies, and functional facilities . Service & Hospitality:Hosts were consistently noted as warm, attentive, and helpful, with positive feedback on their hospitality and the quality of meals .",
+        "count": 9
+      },
+      {
+        "topic": "Value for Money",
+        "text": "Many guests highlighted the affordability of the stay relative to the quality of the experience, including complimentary breakfast and family-friendly accommodations.",
+        "count": 2
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 48, Feijiayuan, Xiantan Village, Deqing, Zhejiang, China",
+  "priceRange": "From US$61",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/18541169/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4n12000bjsc3cd4E66.jpg"
+    },
+    {
+      "src": "/images/stays/18541169/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2h12000bjsasfc9F68.webp"
+    },
+    {
+      "src": "/images/stays/18541169/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4612000bjsnciiEB09.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "We loved the hotel very much, the most pleasant thing that happened here was the staff, the staff were very kind and tried to help us in everything. The Chinese-style breakfast, the rooms are clean and large, the rooms have...",
+      "author": "Guest User",
+      "date": "2026-04-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=18541169&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-18541169&trip_sub3=D19127628"
+    },
+    {
+      "quote": "We went out with a lot of children. My baby is quite young, so I was a little worried at first. But the staff were really nice and the environment was great. It fulfilled the imagination of children from big...",
+      "author": "Guest User",
+      "date": "2025-10-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=18541169&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-18541169&trip_sub3=D19127628"
+    },
+    {
+      "quote": "In the past, I often booked B&Bs when traveling abroad. This summer vacation was the first time I paid attention to domestic B&Bs. I was very happy to encounter several B&Bs with their own characteristics and high level of comfort....",
+      "author": "Guest User",
+      "date": "2023-09-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=18541169&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-18541169&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 20,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:00:36.684Z",
+  "source": "trip"
+}

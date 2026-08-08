@@ -8,6 +8,25 @@
   "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=901389&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-901389&trip_sub3=D19127628",
   "sourceDescription": "",
   "aiSummary": "Review summary Powered by AI Pet-friendly:The resort is notably pet-friendly, providing amenities such as pet beds, toys, and pee pads in rooms, along with pet-specific meals. This attention to detail ensures a comfortable and enjoyable stay for guests traveling with pets.(based on 767 reviews) Facilities:The facilities are well-maintained, with cozy and modern accommodations, including rammed earth cottages and treehouses. The resort offers convenient shuttle services, clean swimming pools, and diverse dining options catering to different tastes.(based on 183 reviews) Guest Suggestion:Some customers suggest improving the outdated facilities, enhancing room cleanliness, and addressing service inefficiencies, such as long wait times and inadequate staff responsiveness.(based on 37 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Pet-friendly",
+        "text": "The resort is notably pet-friendly, providing amenities such as pet beds, toys, and pee pads in rooms, along with pet-specific meals. This attention to detail ensures a comfortable and enjoyable stay for guests traveling with pets.",
+        "count": 767
+      },
+      {
+        "topic": "Facilities",
+        "text": "The facilities are well-maintained, with cozy and modern accommodations, including rammed earth cottages and treehouses. The resort offers convenient shuttle services, clean swimming pools, and diverse dining options catering to different tastes.",
+        "count": 183
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving the outdated facilities, enhancing room cleanliness, and addressing service inefficiencies, such as long wait times and inadequate staff responsiveness.",
+      "count": 37
+    }
+  },
   "address": "No. 37, Shangxiazhuang, Lanshukeng Village, Moganshan Town, Deqing, Zhejiang, 313200, China",
   "priceRange": "From US$339",
   "facilities": [
@@ -30,18 +49,6 @@
     {
       "src": "/images/stays/901389/3.webp",
       "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4e12000cnq9dk326DF.webp"
-    },
-    {
-      "src": "/images/stays/901389/4.webp",
-      "sourceUrl": "https://ak-d.tripcdn.com/images/02068120008sx8n7kB230.webp"
-    },
-    {
-      "src": "/images/stays/901389/5.webp",
-      "sourceUrl": "https://ak-d.tripcdn.com/images/20080p000000foupp1548.webp"
-    },
-    {
-      "src": "/images/stays/901389/6.webp",
-      "sourceUrl": "https://ak-d.tripcdn.com/images/02056120008t8dn6w4B8E.webp"
     }
   ],
   "comments": [
@@ -72,6 +79,6 @@
     "count": 2493,
     "scale": 10
   },
-  "sourcedAt": "2026-08-08T13:10:12.456Z",
+  "sourcedAt": "2026-08-08T13:58:38.745Z",
   "source": "trip"
 }

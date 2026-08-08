@@ -1,0 +1,82 @@
+{
+  "id": 21909131,
+  "name": "Moyu Shanju Hotel",
+  "seedName": "Moyu Shanju Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-21909131",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=21909131&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-21909131&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Accommodation & Cleanliness:Rooms are spacious, clean, and well-maintained, with wooden furnishings, large beds, and bunk beds suitable for families. Bathrooms are tidy, equipped with complete toiletries, and bedding is fresh and comfortable.(based on 16 reviews) Service Quality:Staff and hosts are consistently described as friendly, attentive, and helpful, providing personalized recommendations for local attractions, meals, and activities. Their warmth and responsiveness enhance the overall guest experience.(based on 11 reviews) Ambiance & Design:The property blends natural elements with rustic design, featuring greenery, a serene atmosphere, and aesthetically pleasing interiors ideal for photography. The layout ensures comfort and privacy for guests.(based on 10 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms are spacious, clean, and well-maintained, with wooden furnishings, large beds, and bunk beds suitable for families. Bathrooms are tidy, equipped with complete toiletries, and bedding is fresh and comfortable.",
+        "count": 16
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Staff and hosts are consistently described as friendly, attentive, and helpful, providing personalized recommendations for local attractions, meals, and activities. Their warmth and responsiveness enhance the overall guest experience.",
+        "count": 11
+      },
+      {
+        "topic": "Design",
+        "text": "The property blends natural elements with rustic design, featuring greenery, a serene atmosphere, and aesthetically pleasing interiors ideal for photography. The layout ensures comfort and privacy for guests.",
+        "count": 10
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 17, Luojiachong, Sanqiao Village, Deqing, Zhejiang, China",
+  "priceRange": "From US$62",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/21909131/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1b12000sppaeokE103.jpg"
+    },
+    {
+      "src": "/images/stays/21909131/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02029120008tr2ftt605A.webp"
+    },
+    {
+      "src": "/images/stays/21909131/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6g12000bcprhmpBB5C.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "An amazing place for a weekend getaway. Staff are super friendly and always there for you to help! We had the BBQ one of the nights and they cooked the meats we wanted and it was really good. All of...",
+      "author": "Anonymous User",
+      "date": "2024-06-11",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=21909131&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-21909131&trip_sub3=D19127628"
+    },
+    {
+      "quote": "We enjoy quiet getaways so Moyu Shanju Hotel was a perfect location for us, convenient to get to the Mogan Mountain, but away from all the noise. The family running the place was friendly and very helpful to our needs....",
+      "author": "Guest User",
+      "date": "2023-08-11",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=21909131&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-21909131&trip_sub3=D19127628"
+    },
+    {
+      "quote": "We told the boss in advance that he arranged roasted sweet potatoes for us free of charge. Roasted sweet potatoes are really good to eat in winter. We were warming up over the fire with my brothers and bragging. It...",
+      "author": "Anonymous User",
+      "date": "2024-02-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=21909131&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-21909131&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 7.2,
+    "count": 42,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:55:12.622Z",
+  "source": "trip"
+}

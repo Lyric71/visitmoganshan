@@ -1,0 +1,77 @@
+{
+  "id": 21634555,
+  "name": "Xxhomestay",
+  "seedName": "Xxhomestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-21634555",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=21634555&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-21634555&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service Quality:Staff and proprietors are consistently praised for their friendly, warm, and attentive service. The environment is described as welcoming, with hosts actively contributing to a comfortable stay through thoughtful gestures and hospitality.(based on 7 reviews) Sanitation:Rooms and common areas are repeatedly noted for their cleanliness and hygiene, with particular emphasis on the fresh, tidy condition of bedding and the overall absence of odors in most areas.(based on 7 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service Quality",
+        "text": "Staff and proprietors are consistently praised for their friendly, warm, and attentive service. The environment is described as welcoming, with hosts actively contributing to a comfortable stay through thoughtful gestures and hospitality.",
+        "count": 7
+      },
+      {
+        "topic": "Sanitation",
+        "text": "Rooms and common areas are repeatedly noted for their cleanliness and hygiene, with particular emphasis on the fresh, tidy condition of bedding and the overall absence of odors in most areas.",
+        "count": 7
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Outer Village Group 5, Youzhuyuan, Gaofeng Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$111",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/21634555/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200g0x000000l1eo3EA53.jpg"
+    },
+    {
+      "src": "/images/stays/21634555/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200h0y000000lvk5r8302.webp"
+    },
+    {
+      "src": "/images/stays/21634555/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2h12000gam7cop6D2A.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The villa facilities are well decorated and designed, clean and tidy, with a spacious space. The outdoor swimming pool is very comfortable. You can ask the store to prepare a bonfire party at night, and you will instantly feel like...",
+      "author": "Guest User",
+      "date": "2025-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=21634555&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-21634555&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room is clean and tidy, the environment is good, the boss lady has a good service attitude, the dishes are fresh and delicious, I will come again next time",
+      "author": "Aiqinhai9608",
+      "date": "2025-03-14",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=21634555&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-21634555&trip_sub3=D19127628"
+    },
+    {
+      "quote": "My friend and I chose a weekday to go out and this B&B was a big surprise for us. The B&B is composed of several white houses, which look very clean and refreshing against the backdrop of green plants. The...",
+      "author": "Guest User",
+      "date": "2025-04-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=21634555&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-21634555&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 16,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:03:30.398Z",
+  "source": "trip"
+}

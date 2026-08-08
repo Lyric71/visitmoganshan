@@ -1,0 +1,87 @@
+{
+  "id": 23917726,
+  "name": "Mogan Mountain YisheXiaobai Enjoy lightly Homestay",
+  "seedName": "Mogan Mountain YisheXiaobai Enjoy lightly Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-23917726",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=23917726&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-23917726&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment Location:Located near Moganshan, with surrounding streams, mountain views, and a comfortable environment suitable for travel and relaxation. The location is convenient with easy access to nearby attractions.(based on 7 reviews) Service Quality:The boss is enthusiastic and attentive, helping with luggage handling and providing dining services.(based on 26 reviews) Facilities:Rooms have starry sky ceilings, swimming pools, and some have electric facilities, with complete amenities.(based on 14 reviews) Hygiene:Rooms are clean and tidy, with good hygiene conditions.(based on 28 reviews) Food:The boss's cooking is delicious, with characteristic farm dishes Guest Suggestion: Some customers suggest improving sanitary standards , upgrading room facilities , and enhancing pet-friendly amenities .",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment Location",
+        "text": "Located near Moganshan, with surrounding streams, mountain views, and a comfortable environment suitable for travel and relaxation. The location is convenient with easy access to nearby attractions.",
+        "count": 7
+      },
+      {
+        "topic": "Service Quality",
+        "text": "The boss is enthusiastic and attentive, helping with luggage handling and providing dining services.",
+        "count": 26
+      },
+      {
+        "topic": "Facilities",
+        "text": "Rooms have starry sky ceilings, swimming pools, and some have electric facilities, with complete amenities.",
+        "count": 14
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Rooms are clean and tidy, with good hygiene conditions.",
+        "count": 28
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 2, Ganmiaowu, Miaoqian Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$68",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Cafe"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/23917726/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0202p12000832wtmi4003.jpg"
+    },
+    {
+      "src": "/images/stays/23917726/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0204s120005pp9rh72332.webp"
+    },
+    {
+      "src": "/images/stays/23917726/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4j12000fjzrnanBBBA.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "It was good, they're so nice e and caring there. It looks just it does in pictures.",
+      "author": "Hlobimbalywangxue",
+      "date": "2025-05-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=23917726&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-23917726&trip_sub3=D19127628"
+    },
+    {
+      "quote": "There is a stream opposite where you can play. The dishes cooked by the boss taste very good and the children also like to eat them.",
+      "author": "Yupaopao",
+      "date": "2024-08-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=23917726&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-23917726&trip_sub3=D19127628"
+    },
+    {
+      "quote": "It’s a beautiful B&B that’s great for taking photos. The service is also good and the dishes cooked by the boss are so delicious.",
+      "author": "Guest User",
+      "date": "2024-07-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=23917726&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-23917726&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 67,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:20:12.819Z",
+  "source": "trip"
+}

@@ -1,0 +1,70 @@
+{
+  "id": 42796299,
+  "name": "Mogan · shanxia Boutique Homesaty",
+  "seedName": "Mogan · shanxia Boutique Homesaty",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-42796299",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=42796299&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-42796299&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service:The owners are warm, friendly and thoughtful, providing enthusiastic assistance and being responsive to guests' needs.(based on 18 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service",
+        "text": "The owners are warm, friendly and thoughtful, providing enthusiastic assistance and being responsive to guests' needs.",
+        "count": 18
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 83, Doujiangwu, Nanlu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$91",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/42796299/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201j120009n70h4x6CED.jpg"
+    },
+    {
+      "src": "/images/stays/42796299/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200l16000000yyqpsB46E.webp"
+    },
+    {
+      "src": "/images/stays/42796299/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200316000000z5iz1C879.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "這次出行選擇了山下這家民宿，入住體驗超出預期！民宿整體打理得十分整潔，房間乾淨清爽，細節之處都能看出店家用心。户外泳池水質澄澈，打理得乾乾淨淨，閑暇時間可以玩水放鬆。 民宿氛圍温馨治癒，老闆一家人熱情隨和，待人真誠，有任何需求都會耐心幫忙。店裡還養了兩三衹小狗和一衹小貓，小傢伙們温順親人，模樣軟萌可愛。小寶特別喜歡小貓貓，一直開心地和它們互動，增添了許多樂趣。 遠離喧鬧，環境清幽安靜，很適合家庭短途度假。不管是休閑發呆，還是帶孩子親近小動物都很合適。一次很棒的入住體驗，下次來周邊遊玩，還會優先考慮這家民宿。",
+      "author": "Guest User",
+      "date": "2026-07-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=42796299&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-42796299&trip_sub3=D19127628"
+    },
+    {
+      "quote": "環境很不錯，燒的晚飯很好吃。, 老闆人家很nice, 自己開的車壞了，回來打不到滴滴，讓老闆接送了好幾次。",
+      "author": "Guest User",
+      "date": "2026-06-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=42796299&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-42796299&trip_sub3=D19127628"
+    },
+    {
+      "quote": "老闆一家非常客氣，一下車就幫拿行李，民宿很漂亮，離仙潭和碧塢潭景區很近，民宿的早餐豐富，衞生，是個非常值得度假的民宿。",
+      "author": "Guest User",
+      "date": "2026-05-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=42796299&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-42796299&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 29,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:51:02.331Z",
+  "source": "trip"
+}

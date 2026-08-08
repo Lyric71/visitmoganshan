@@ -1,0 +1,77 @@
+{
+  "id": 6356789,
+  "name": "Moganshan Pushe Vacation Apartment",
+  "seedName": "Moganshan Pushe Vacation Apartment",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-6356789",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6356789&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6356789&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness & Maintenance:Rooms and common areas are emphasized as exceptionally clean, with meticulous attention to hygiene. Guests noted spotless bathrooms, fresh bedding, and overall maintenance of facilities, contributing to a comfortable and refreshing stay.(based on 22 reviews) Guest Suggestion:Ensuring accurate room image representation and addressing entertainment needs for better guest experience.(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Maintenance",
+        "text": "Rooms and common areas are emphasized as exceptionally clean, with meticulous attention to hygiene. Guests noted spotless bathrooms, fresh bedding, and overall maintenance of facilities, contributing to a comfortable and refreshing stay.",
+        "count": 22
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Ensuring accurate room image representation and addressing entertainment needs for better guest experience.",
+      "count": 2
+    }
+  },
+  "address": "No.5 Feijiayuan, Group 8, Xiantan Village, Deqing, Zhejiang, China",
+  "priceRange": "From US$56",
+  "facilities": [
+    "Restaurant",
+    "Conference room",
+    "Multi-function room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/6356789/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200n1c000001d21brC913.jpg"
+    },
+    {
+      "src": "/images/stays/6356789/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200g1c000001d6yx4C18F.webp"
+    },
+    {
+      "src": "/images/stays/6356789/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0583n12000spgwiw26D62.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "很愉快的一次民宿體驗。廚娘的菜很可口。這個季節的筍，燒得很美味，大家每個菜幾乎光盤。房間很大、衞生間也大。乾淨、舒適度拉滿。窗外風景很棒。我住二樓，躺在床上都看到滿眼綠色。帥哥管家和藹可親，有任何問題，馬上解決。我們坐在超大的院子裏喝茶、聊天、曬太陽，坐在搖椅上慢慢搖。好希望時間慢些走啊！看到長者的微笑、娃在跑-……真不希望那麼快就到回家的時間，對了，那個叫元寶的小貓超級粘人，我們都被他的温柔所俘虜……還有叫熊貓的小狗，是主人把他從惡人毒手下救出來的，雖然他的頭被打破了，在主人的細心呵護下，熊貓頑強活下來了。真的是個有愛有景的度假好去處。還有還有，我們還採了野筍和草莓🍓，太好吃了啊！這家又好吃又好玩的民宿，我一定要去二刷！",
+      "author": "Guest User",
+      "date": "2026-05-09",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6356789&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6356789&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間空間很大，一家人住着很自在。民宿環境非常幽靜，晚上睡眠質量超高。提供的農家菜太好吃了，都是當地的新鮮食材，大家都吃的健康開心。小貓咪超可愛，隨你摸，很有特色。",
+      "author": "Guest User",
+      "date": "2026-05-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6356789&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6356789&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間是木質結構很有質感，床品舒服好睡，乾淨又温馨。庭院綠植超多，環境很出片。下雨天庭院裏煙雨朦朧的景色反而成了驚喜，管家服務周到，體驗滿分！",
+      "author": "Guest User",
+      "date": "2026-04-14",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6356789&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6356789&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.9,
+    "count": 53,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:34:42.646Z",
+  "source": "trip"
+}

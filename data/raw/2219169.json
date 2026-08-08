@@ -1,0 +1,73 @@
+{
+  "id": 2219169,
+  "name": "Shanyang·Open Garden Swimming Pool Courtyard Family Resort Villa",
+  "seedName": "Shanyang·Open Garden Swimming Pool Courtyard Family Resort Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2219169",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2219169&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2219169&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Shanyang·Open Garden Swimming Pool Courtyard Family Resort Villa?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 33 Lujia Bridge, Houwu Village, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$62",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Executive lounge",
+    "Gym",
+    "Bar",
+    "Restaurant",
+    "Cafe",
+    "Conference room",
+    "Multi-function room",
+    "Playground",
+    "Kids' club"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/2219169/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200n1g000001h0zthEFC1.jpg"
+    },
+    {
+      "src": "/images/stays/2219169/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201a120005e6w4rp683A.webp"
+    },
+    {
+      "src": "/images/stays/2219169/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205r120005e5qm5nFF64.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The owner is incredibly kind and hospitable. The room was spotlessly clean and had a great layout. They even caught fish! Right outside the property, there's a small, crystal-clear stream. The overall surroundings are truly charming.",
+      "author": "Guest User",
+      "date": "2024-08-14",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2219169&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2219169&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The Homestay is very Nice and comfortable and stay was very pleasant,Service was great.Owner was very humble and polite.We loved Staying at homestay",
+      "author": "Guest User",
+      "date": "2024-07-14",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2219169&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2219169&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The setting is lovely, and the air is wonderfully fresh. The owner is very friendly and accommodating, making it perfect for families with kids. You can even have a BBQ in the evening.",
+      "author": "Guest User",
+      "date": "2024-06-09",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2219169&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2219169&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.8,
+    "count": 42,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:45:39.591Z",
+  "source": "trip"
+}

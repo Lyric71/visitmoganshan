@@ -1,0 +1,88 @@
+{
+  "id": 8494048,
+  "name": "That Week Holiday Inn (Moganshan Bran）",
+  "seedName": "That Week Holiday Inn (Moganshan Bran）",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-8494048",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8494048&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8494048&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Environment:The property is situated near natural attractions and scenic spots like Little Train Paradise and Biwu Longtan. It offers a tranquil, pet-friendly setting with a spacious yard for activities such as feeding fish and playing with children.(based on 10 reviews) Accommodation & Facilities:Rooms are clean, well-maintained, and feature views of nature . Amenities include a barbecue rack, KTV in the courtyard, and a river for recreational activities.(based on 7 reviews) Service Quality:Hosts are consistently praised for their warmth, hospitality, and cooking skills. Breakfast is described as abundant and delicious, often featuring local specialties.(based on 20 reviews) Activities & Experiences:Guests appreciate the freedom to explore nearby nature, including firefly-watching, hiking, and family-friendly play areas . The property is recommended for families and pet owners. Guest Suggestion: Some customers suggest improving humidity control and mold prevention, ensuring clean floors, and addressing persistent odors for a more comfortable stay.(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "The property is situated near natural attractions and scenic spots like Little Train Paradise and Biwu Longtan. It offers a tranquil, pet-friendly setting with a spacious yard for activities such as feeding fish and playing with children.",
+        "count": 10
+      },
+      {
+        "topic": "Facilities",
+        "text": "Rooms are clean, well-maintained, and feature views of nature . Amenities include a barbecue rack, KTV in the courtyard, and a river for recreational activities.",
+        "count": 7
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Hosts are consistently praised for their warmth, hospitality, and cooking skills. Breakfast is described as abundant and delicious, often featuring local specialties.",
+        "count": 20
+      },
+      {
+        "topic": "Experiences",
+        "text": "Guests appreciate the freedom to explore nearby nature, including firefly-watching, hiking, and family-friendly play areas . The property is recommended for families and pet owners. Guest Suggestion: Some customers suggest improving humidity control and mold prevention, ensuring clean floors, and addressing persistent odors for a more comfortable stay.",
+        "count": 2
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "100 meters east of Xiantan Village Villagers Committee, Xiantan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$84",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/8494048/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1c12000mci9gqg59D6.jpg"
+    },
+    {
+      "src": "/images/stays/8494048/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6p12000mci60u4FB34.webp"
+    },
+    {
+      "src": "/images/stays/8494048/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5i12000g1lgbp17C9B.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "特別適合帶娃出遊的家庭，院子裏孩子肆意奔跑，小溪就在樓下，摸螺抓魚游泳超好玩",
+      "author": "Guest User",
+      "date": "2026-08-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8494048&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8494048&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿周圍的風景就很漂亮，如果帶小孩，附近玩玩都夠了，前面就有一條小溪，很乾凈，還能一起仙潭walk，美不勝收，早餐也很好吃",
+      "author": "KingKelsey",
+      "date": "2026-05-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8494048&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8494048&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿地理位置舒適，陽台正對連綿的山和潺潺溪水。即便是到訪之日陰雨連綿，也不妨礙我們在陽台上欣賞滿眼翠綠的美景和呼吸上一口新鮮的空氣。老闆和老闆娘精心打理民宿，門前有花園，泳池，夏日也適合玩耍。因為下雨我們有機會吃老闆娘的做的菜，頓頓空盤，食材來自大山，美味新鮮。老闆娘非常悉心照料我們，滿足家裡長者各種小需要，走的時候我忘了的東西她還聯繫快遞隔天就收到了。祝老闆娘生意興隆，後會有期。",
+      "author": "Guest User",
+      "date": "2026-07-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8494048&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8494048&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 44,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:36:18.648Z",
+  "source": "trip"
+}

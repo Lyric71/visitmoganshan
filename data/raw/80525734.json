@@ -1,0 +1,86 @@
+{
+  "id": 80525734,
+  "name": "Mogan Maison New century",
+  "seedName": "Mogan Maison New century",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-80525734",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=80525734&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-80525734&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness:The hotel maintains high cleanliness standards, with rooms described as spotless and well-kept. Guests appreciate the attention to detail in housekeeping, ensuring a comfortable and hygienic stay.(based on 728 reviews) Value for Money:Many guests find the hotel to offer good value for money, with reasonable pricing for the quality of service and facilities provided. The overall experience is considered worthwhile, especially for family or leisure trips.(based on 113 reviews) Guest Suggestion:Some customers suggest improving the service quality, addressing cleanliness issues in rooms and facilities, and ensuring better maintenance of amenities to enhance overall guest satisfaction.(based on 34 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness",
+        "text": "The hotel maintains high cleanliness standards, with rooms described as spotless and well-kept. Guests appreciate the attention to detail in housekeeping, ensuring a comfortable and hygienic stay.",
+        "count": 728
+      },
+      {
+        "topic": "Value for Money",
+        "text": "Many guests find the hotel to offer good value for money, with reasonable pricing for the quality of service and facilities provided. The overall experience is considered worthwhile, especially for family or leisure trips.",
+        "count": 113
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving the service quality, addressing cleanliness issues in rooms and facilities, and ensuring better maintenance of amenities to enhance overall guest satisfaction.",
+      "count": 34
+    }
+  },
+  "address": "No. 66 Sanmo Line, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$93",
+  "facilities": [
+    "Indoor swimming pool",
+    "Gym",
+    "Billiards room",
+    "Cardroom",
+    "Restaurant",
+    "Conference room",
+    "Playground",
+    "Laundry room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/80525734/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1b12000r0iqe37013B.jpg"
+    },
+    {
+      "src": "/images/stays/80525734/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205e120008yzkt7t0F03.webp"
+    },
+    {
+      "src": "/images/stays/80525734/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02046120008yzkedx44FD.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "My stay at Moganshan Dexin Yungou New Century Resort was absolutely fantastic! Beyond the stunning environment and attentive service, what truly surprised me were their homemade beverages. I have to give a special shout-out to the homemade lemon iced tea...",
+      "author": "Guest User",
+      "date": "2026-07-26",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=80525734&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-80525734&trip_sub3=D19127628"
+    },
+    {
+      "quote": "We upgraded to a Yun Gu twin room, and the facilities were quite new, clean, and tidy. The hotel is located at the foot of Moganshan, very close to both the scenic area transfer center and Yucun Village, which was...",
+      "author": "Guest User",
+      "date": "2026-07-26",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=80525734&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-80525734&trip_sub3=D19127628"
+    },
+    {
+      "quote": "This hotel is located in the Moganshan Scenic Area, very close to Yucun village, right on the MoSan line. It's a large hotel with several buildings and an underground parking garage, which is great for summer travel. We arrived on...",
+      "author": "Jinghuashuiyuejlj",
+      "date": "2026-07-26",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=80525734&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-80525734&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 2606,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:58:34.375Z",
+  "source": "trip"
+}

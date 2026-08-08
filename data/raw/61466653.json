@@ -1,0 +1,85 @@
+{
+  "id": 61466653,
+  "name": "Amelia's House",
+  "seedName": "Amelia's House",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-61466653",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=61466653&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-61466653&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment and Location:The location is quiet with a stunning view, being less than 5 min walk to the town center. It's in an ideal position like Yucun with a quiet and scenic environment, such as having a rooftop with a panoramic view.(based on 14 reviews) Service Quality:The hosts are warm and friendly, providing detailed pre-stay communications, recommending travel routes, and being responsive to guests' needs, creating a home-like atmosphere.(based on 63 reviews) Facilities and Hygiene:Rooms are extremely clean, both the rooms and public areas. There are comprehensive pet-friendly facilities like pet bowls, snacks, and fenced areas for pets to play, ensuring a clean and comfortable stay.(based on 1 review) Atmosphere Experience:The atmosphere is quiet and relaxed, with public areas like book corners and leisure tea seats, giving a gentle home-like feeling, and guests can enjoy a comfortable stay like being at home.(based on 14 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment and Location",
+        "text": "The location is quiet with a stunning view, being less than 5 min walk to the town center. It's in an ideal position like Yucun with a quiet and scenic environment, such as having a rooftop with a panoramic view.",
+        "count": 14
+      },
+      {
+        "topic": "Service Quality",
+        "text": "The hosts are warm and friendly, providing detailed pre-stay communications, recommending travel routes, and being responsive to guests' needs, creating a home-like atmosphere.",
+        "count": 63
+      },
+      {
+        "topic": "Facilities and Hygiene",
+        "text": "Rooms are extremely clean, both the rooms and public areas. There are comprehensive pet-friendly facilities like pet bowls, snacks, and fenced areas for pets to play, ensuring a clean and comfortable stay.",
+        "count": 1
+      },
+      {
+        "topic": "Atmosphere Experience",
+        "text": "The atmosphere is quiet and relaxed, with public areas like book corners and leisure tea seats, giving a gentle home-like feeling, and guests can enjoy a comfortable stay like being at home.",
+        "count": 14
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 88, Wangjia, Liaoyuan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$138",
+  "facilities": [
+    "Cafe"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/61466653/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1612000lg6y94mBF68.jpg"
+    },
+    {
+      "src": "/images/stays/61466653/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206q120008ed614vD932.webp"
+    },
+    {
+      "src": "/images/stays/61466653/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0584k12000snm49so5A1C.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "- Super clean - Perfect location: a quiet spot with unblocked and stunning view, less than 5 min walk to town center. - Privacy and give guest space to do their own thing",
+      "author": "沈捷",
+      "date": "2026-04-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=61466653&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-61466653&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I brought my dog, Latte, to visit Shiyue Space and also made friends with the owners, Cola and Yueyue. Guang Ge and Amelia were super nice, and the whole place felt like home—relaxed and comfortable. Under Guang Ge's guidance, we...",
+      "author": "Guest User",
+      "date": "2026-07-18",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=61466653&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-61466653&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I went with my girlfriend and was drawn to the large corner bay window, which offered a stunning view during the day. There's also a large rooftop terrace, and although it was a bit hot that day, the view was...",
+      "author": "Aitixiaopang",
+      "date": "2025-08-13",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=61466653&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-61466653&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 129,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:52:16.834Z",
+  "source": "trip"
+}

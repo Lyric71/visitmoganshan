@@ -1,0 +1,80 @@
+{
+  "id": 6529647,
+  "name": "Youran Jiuxi Resort",
+  "seedName": "Youran Jiuxi Resort",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-6529647",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6529647&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6529647&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service Quality:The staff is generally praised for their friendliness and helpfulness, including assistance with luggage and addressing guest inquiries. The hotel's effort to maintain a welcoming atmosphere contributes positively to the overall experience.(based on 107 reviews) Location:Situated in a mountainous area, the hotel provides an ideal getaway from city life. It's located near attractions like Moganshan and offers opportunities for scenic drives and nature exploration, appealing to those seeking a peaceful retreat.(based on 17 reviews) Guest Suggestion:Some customers suggest improving pricing transparency to address concerns about perceived overcharging and value mismatch.(based on 5 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service Quality",
+        "text": "The staff is generally praised for their friendliness and helpfulness, including assistance with luggage and addressing guest inquiries. The hotel's effort to maintain a welcoming atmosphere contributes positively to the overall experience.",
+        "count": 107
+      },
+      {
+        "topic": "Location",
+        "text": "Situated in a mountainous area, the hotel provides an ideal getaway from city life. It's located near attractions like Moganshan and offers opportunities for scenic drives and nature exploration, appealing to those seeking a peaceful retreat.",
+        "count": 17
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving pricing transparency to address concerns about perceived overcharging and value mismatch.",
+      "count": 5
+    }
+  },
+  "address": "Chentaihu Youran Jiuxi, Nanlu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$110",
+  "facilities": [
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/6529647/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4j12000tcnhthiB86B.jpg"
+    },
+    {
+      "src": "/images/stays/6529647/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4i12000tcmiyz008BA.webp"
+    },
+    {
+      "src": "/images/stays/6529647/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3j12000tcmjs2gC390.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The natural environment is excellent. My room by the stream was so peaceful, with the soothing sound of flowing water, perfect for meditation and truly relaxing amidst nature. The butler service and quality of the meals were also very good.",
+      "author": "Guest User",
+      "date": "2026-05-04",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6529647&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6529647&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room, toilet, and windows were all dirty. If you wanted to enjoy the view from the room, the uncleaned windows really ruined the experience. However, the service was relatively good, and being surrounded by nature certainly helped improve the...",
+      "author": "BaiheLADY",
+      "date": "2026-05-29",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6529647&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6529647&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I go back after having the best experience with my family in a quiet place.",
+      "author": "Guest User",
+      "date": "2024-08-18",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6529647&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6529647&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 203,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:15:30.980Z",
+  "source": "trip"
+}

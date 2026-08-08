@@ -1,0 +1,71 @@
+{
+  "id": 3395447,
+  "name": "Qingluo Xiaoshe",
+  "seedName": "Qingluo Xiaoshe",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-3395447",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=3395447&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-3395447&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Hygiene and Maintenance:The cleanliness of the rooms and common areas is consistently praised, with hosts meticulously maintaining the property. Guests note the absence of dust and the hosts’ proactive efforts to ensure a spotless environment, including pre-arrival checks.(based on 9 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Hygiene and Maintenance",
+        "text": "The cleanliness of the rooms and common areas is consistently praised, with hosts meticulously maintaining the property. Guests note the absence of dust and the hosts’ proactive efforts to ensure a spotless environment, including pre-arrival checks.",
+        "count": 9
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 16, Laoling Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$64",
+  "facilities": [
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/3395447/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0581q12000sq79x5vDF4D.jpg"
+    },
+    {
+      "src": "/images/stays/3395447/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0202o12000bawivp8000C.webp"
+    },
+    {
+      "src": "/images/stays/3395447/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1012000rinvnaz5E53.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "I usually don't comment, but the B&Bs that are run with care are worth sharing. The B&B has a good location, good environment, good service, and complete entertainment facilities. The proprietress and her family are kind and amiable, and they...",
+      "author": "Guest User",
+      "date": "2025-02-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=3395447&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-3395447&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Environment: It is a kind of hipster garden homestay, all the details are carefully arranged. The homestay is next to the reservoir, the air is fresh, and it is very comfortable to walk in the morning. Service: The boss and...",
+      "author": "Guest User",
+      "date": "2024-11-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=3395447&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-3395447&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Came to Moganshan off-road, stayed at Qingluo House~ It was really a warm and cozy experience! ! 😍The yard is really beautiful~ There is also a swimming pool. The whole yard is very carefully built and maintained~ Various beautiful flowers🤩...",
+      "author": "Guest User",
+      "date": "2024-10-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=3395447&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-3395447&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 40,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:31:54.925Z",
+  "source": "trip"
+}

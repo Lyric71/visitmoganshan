@@ -1,0 +1,88 @@
+{
+  "id": 6445791,
+  "name": "Deqing lei yuan inn",
+  "seedName": "Deqing lei yuan inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-6445791",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6445791&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6445791&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Accessibility:Situated in a village near the Moran Mountain transfer station, offering convenient access to local attractions .(based on 2 reviews) Cleanliness & Comfort:Rooms described as \"clean,\" \"comfortable,\" and \"well-maintained,\" with some mentioning \"clean bathrooms\" and \"good bedding.\"(based on 7 reviews) Hospitality:Hosts were consistently praised for being \"friendly,\" \"helpful,\" and \"accommodating\" .(based on 6 reviews) Value for Money:Considered cost-effective compared to other accommodations in the area, with some noting \"good price\" and \"reasonable cost.\"(based on 3 reviews) Scenic Views:Rooms with balconies offering views of the surrounding landscape, especially praised during rainy weather.(based on 4 reviews) Family-Friendly:Recommended for families with children, as the host provided guidance on kid-friendly activities .",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Accessibility",
+        "text": "Situated in a village near the Moran Mountain transfer station, offering convenient access to local attractions .",
+        "count": 2
+      },
+      {
+        "topic": "Comfort",
+        "text": "Rooms described as \"clean,\" \"comfortable,\" and \"well-maintained,\" with some mentioning \"clean bathrooms\" and \"good bedding.\"",
+        "count": 7
+      },
+      {
+        "topic": "Hospitality",
+        "text": "Hosts were consistently praised for being \"friendly,\" \"helpful,\" and \"accommodating\" .",
+        "count": 6
+      },
+      {
+        "topic": "Value for Money",
+        "text": "Considered cost-effective compared to other accommodations in the area, with some noting \"good price\" and \"reasonable cost.\"",
+        "count": 3
+      },
+      {
+        "topic": "Scenic Views",
+        "text": "Rooms with balconies offering views of the surrounding landscape, especially praised during rainy weather.",
+        "count": 4
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 25, Linjiaoxia, Houwu Village, Mogan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$38",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/6445791/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200x120009qibcc3C494.jpg"
+    },
+    {
+      "src": "/images/stays/6445791/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD4f12000aw7y3r73853.webp"
+    },
+    {
+      "src": "/images/stays/6445791/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD3z12000ax2uh7i4857.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The room was clean and tidy, and the hotel environment was great. The breakfast prepared by the hostess was delicious. There was even a little dog. The price was also very reasonable. I will definitely come back next time!",
+      "author": "Guest User",
+      "date": "2025-07-13",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6445791&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6445791&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The owner was very nice. After I booked a family room, he even offered to upgrade it to a king-size bed. The room was clean and quiet, and I fell asleep to the sound of rain. The next day, after...",
+      "author": "Guest User",
+      "date": "2025-06-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6445791&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6445791&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The environment is good and the owner is polite. The wooden roof is a bit depressing. I saw a cockroach and it was not very comfortable!",
+      "author": "Guest User",
+      "date": "2025-08-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6445791&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6445791&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.8,
+    "count": 19,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:03:52.781Z",
+  "source": "trip"
+}

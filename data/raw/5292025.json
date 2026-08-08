@@ -1,0 +1,80 @@
+{
+  "id": 5292025,
+  "name": "Mojian Yiyu Inn",
+  "seedName": "Mojian Yiyu Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5292025",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5292025&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5292025&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Facilities:Rooms are spacious and facilities are complete Hygiene:Rooms are clean(based on 3 reviews) Service:The boss is hospitable, treats with good tea and ice watermelon, helps carry things when checking in, and upgrades the room type for free(based on 8 reviews) Breakfast:Breakfast has special products such as bamboo shoots, which is delicious and feels rich(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Facilities",
+        "text": "Rooms are spacious and facilities are complete Hygiene:Rooms are clean",
+        "count": 3
+      },
+      {
+        "topic": "Service",
+        "text": "The boss is hospitable, treats with good tea and ice watermelon, helps carry things when checking in, and upgrades the room type for free",
+        "count": 8
+      },
+      {
+        "topic": "Breakfast",
+        "text": "Breakfast has special products such as bamboo shoots, which is delicious and feels rich",
+        "count": 2
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 31, Laolingjiaoxia, Moganshan Town, Deqing, Zhejiang, 313205, China",
+  "priceRange": "From US$48",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5292025/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200q040000000bl7oFCB6.jpg"
+    },
+    {
+      "src": "/images/stays/5292025/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200p0j000000ajyg8783D.webp"
+    },
+    {
+      "src": "/images/stays/5292025/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200a040000000bkuoD4EB.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "We stayed on the first floor, and the room had no soundproofing. I was woken up by people talking outside, and then I smelled a foul odor. I had no choice but to get up and open the window, which...",
+      "author": "Guest User",
+      "date": "2025-08-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5292025&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5292025&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間舒適，環境清靜。店主非常友好。時間配合到的都會開車接送。附近就有餐廳。但離庾村遊客中心要8分鐘車",
+      "author": "Guest User",
+      "date": "2026-05-11",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5292025&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5292025&trip_sub3=D19127628"
+    },
+    {
+      "quote": "老闆人很好，非常熱情，在莫干山遇到所有的問題老闆都會熱心解答還告訴我們哪裡有免費停車場，早餐還有特產筍乾 很好吃，房間也很乾凈很不錯，下次還回來",
+      "author": "Guest User",
+      "date": "2025-10-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5292025&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5292025&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9,
+    "count": 16,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:04:52.640Z",
+  "source": "trip"
+}

@@ -1,0 +1,78 @@
+{
+  "id": 120083403,
+  "name": "WHITE VILLA Villa No. 238",
+  "seedName": "WHITE VILLA Villa No. 238",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-120083403",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=120083403&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-120083403&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment and Scenery:The hotel's environment is tranquil and picturesque, located at the top of Mogan Mountain, providing breathtaking views and fresh air rich in negative oxygen ions. Guests enjoy the serene atmosphere, ideal for relaxation and escaping city life.(based on 46 reviews) Guest Suggestion:Some customers suggest improving the cleanliness of the rooms, enhancing the security and privacy of facilities, and ensuring that the amenities match the online descriptions.(based on 7 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment and Scenery",
+        "text": "The hotel's environment is tranquil and picturesque, located at the top of Mogan Mountain, providing breathtaking views and fresh air rich in negative oxygen ions. Guests enjoy the serene atmosphere, ideal for relaxation and escaping city life.",
+        "count": 46
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving the cleanliness of the rooms, enhancing the security and privacy of facilities, and ensuring that the amenities match the online descriptions.",
+      "count": 7
+    }
+  },
+  "address": "No. 238, Moganshan Scenic Area, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$121",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Bar",
+    "Restaurant",
+    "Cafe",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/120083403/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4b12000iuivbef5540.jpg"
+    },
+    {
+      "src": "/images/stays/120083403/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5712000e42xq239A77.webp"
+    },
+    {
+      "src": "/images/stays/120083403/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6312000etf470121DF.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "This is the worst guesthouse I've ever stayed in, the kind that will make you regret it. The cleanliness and facilities are terrible, worse than a small hotel. The only decent thing was the service from the young man who...",
+      "author": "Xiaoyudeshijiehenduola",
+      "date": "2025-11-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=120083403&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-120083403&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I booked two rooms at the last minute. After booking one, the price immediately increased by over 200 yuan when I placed the second order, which made me very unhappy. The auntie in the shop was very nice, but she...",
+      "author": "Jiuyueeryue",
+      "date": "2026-04-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=120083403&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-120083403&trip_sub3=D19127628"
+    },
+    {
+      "quote": "A disappointing internet celebrity style homestay, the scenery is OK but the problems are also prominent: 1. Hygiene issues: There were hair residues on the sofa and the floor, and the black marks and fibers on the white carpet were...",
+      "author": "Anonymous User",
+      "date": "2024-12-16",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=120083403&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-120083403&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.7,
+    "count": 112,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:35:05.717Z",
+  "source": "trip"
+}

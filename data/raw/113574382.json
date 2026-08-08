@@ -1,0 +1,90 @@
+{
+  "id": 113574382,
+  "name": "three trees single villa",
+  "seedName": "three trees single villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-113574382",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=113574382&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-113574382&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Proximity to scenic spots , walkable access to transportation hubs and attractions.(based on 4 reviews) Design & Facilities:Modern Chinese-style interior, spacious tea room, well-equipped villas with KTV and drinking water stations.(based on 9 reviews) Amenities:Free charging stations for electric vehicles, dedicated parking, and outdoor spaces for activities .(based on 9 reviews) Cleanliness:Regular maintenance, mosquito repellent provided in summer, clean interiors.(based on 8 reviews) Service:Hosts are attentive, offering location recommendations and assistance with equipment.(based on 14 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Proximity to scenic spots , walkable access to transportation hubs and attractions.",
+        "count": 4
+      },
+      {
+        "topic": "Facilities",
+        "text": "Modern Chinese-style interior, spacious tea room, well-equipped villas with KTV and drinking water stations.",
+        "count": 9
+      },
+      {
+        "topic": "Amenities",
+        "text": "Free charging stations for electric vehicles, dedicated parking, and outdoor spaces for activities .",
+        "count": 9
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Regular maintenance, mosquito repellent provided in summer, clean interiors.",
+        "count": 8
+      },
+      {
+        "topic": "Service",
+        "text": "Hosts are attentive, offering location recommendations and assistance with equipment.",
+        "count": 14
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Room 101, Building 29, Yunxi Courtyard, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$345",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/113574382/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4o12000ebtwbirE9EA.jpg"
+    },
+    {
+      "src": "/images/stays/113574382/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0580h12000sn6qi1o03BD.webp"
+    },
+    {
+      "src": "/images/stays/113574382/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2y12000ebdi1yb8E79.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "A treasured leisure party B&B in Moganshan. A little small but fortunately a little relaxed in the modern Chinese style decoration. Friends like this tea room, which is more than three meters tall, for drinking tea, chatting and working. In...",
+      "author": "Guest User",
+      "date": "2024-06-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=113574382&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-113574382&trip_sub3=D19127628"
+    },
+    {
+      "quote": "A treasured leisure party B&B in Moganshan. A little small but fortunately a little relaxed in the modern Chinese style decoration. Friends like this tea room, which is more than three meters tall, for drinking tea, chatting and working. In...",
+      "author": "Guest User",
+      "date": "2024-06-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=113574382&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-113574382&trip_sub3=D19127628"
+    },
+    {
+      "quote": "設施：設備齊全，KTV、廚房、飲水器…都可以使用。 衞生：衞生乾淨，夏天蚊蟲多會配備驅蚊液、殺蟲劑。 環境：綠蔭環繞，在陽台能看到遠處的青山綠樹。",
+      "author": "Guest User",
+      "date": "2025-06-25",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=113574382&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-113574382&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 24,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:56:29.656Z",
+  "source": "trip"
+}

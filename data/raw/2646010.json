@@ -1,0 +1,81 @@
+{
+  "id": 2646010,
+  "name": "Zhuji Fengqing Hostel",
+  "seedName": "Zhuji Fengqing Hostel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2646010",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2646010&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2646010&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:The environment is quiet and elegant, with bamboo forests and mountains around, far from the hustle and bustle of the city, and the overall atmosphere is comfortable, suitable for relaxation and vacation travel(based on 15 reviews) Facilities:The room facilities are complete, with a swimming pool, chess and card rooms, large lawns, etc. 24-hour hot water supply is stable, and the lighting is good(based on 14 reviews) Service:The boss is warm and friendly(based on 8 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "The environment is quiet and elegant, with bamboo forests and mountains around, far from the hustle and bustle of the city, and the overall atmosphere is comfortable, suitable for relaxation and vacation travel",
+        "count": 15
+      },
+      {
+        "topic": "Facilities",
+        "text": "The room facilities are complete, with a swimming pool, chess and card rooms, large lawns, etc. 24-hour hot water supply is stable, and the lighting is good",
+        "count": 14
+      },
+      {
+        "topic": "Service",
+        "text": "The boss is warm and friendly",
+        "count": 8
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Jiangjia Bamboo Garden, Xiantan Village, Deqing, Zhejiang, 313207, China",
+  "priceRange": "From US$75",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/2646010/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0d12000st4choh3F16.jpg"
+    },
+    {
+      "src": "/images/stays/2646010/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1k12000st4ek9g1D0B.webp"
+    },
+    {
+      "src": "/images/stays/2646010/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2b12000st4e7v29D68.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "偶然選中的寶藏民宿，完全超出期待。環境安靜雅緻，裝修簡約有格調，房間採光好、衞生做得特別到位。房東隨和貼心，不會過度打擾，細節裏都是用心。遠離鬧市，住着鬆弛又治癒，出行方便，整體氛圍很舒服。一次超治癒的入住體驗",
+      "author": "Lilili🌛",
+      "date": "2026-06-15",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2646010&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2646010&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間的設施略老舊，睡到一半竟有蜘蛛爬到臉上，屋內還有螞蟻，床單是乾淨的，早餐是一節玉米，二段油條，一個雞蛋，二個饅頭，還有白粥鹹菜。",
+      "author": "Guest User",
+      "date": "2026-07-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2646010&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2646010&trip_sub3=D19127628"
+    },
+    {
+      "quote": "由於我忘記在哪個平台下的訂單，點評拖到今天。 這家店環境好，老闆熱情，有泳池，能充電，後院還有一大片竹林，五一假期帶娃挖了許多竹筍，大家身心都感到很愉悦。有機會還要訂他們家。",
+      "author": "Guest User",
+      "date": "2026-07-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2646010&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2646010&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.7,
+    "count": 32,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:54:14.732Z",
+  "source": "trip"
+}

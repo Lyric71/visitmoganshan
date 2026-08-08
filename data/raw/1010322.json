@@ -1,0 +1,90 @@
+{
+  "id": 1010322,
+  "name": "XIDU DONG'S VILLA",
+  "seedName": "XIDU DONG'S VILLA",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1010322",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1010322&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1010322&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Close to scenic spots like Mogashan village, convenient for travel. Surrounded by beautiful environments such as tea mountains, pools, gardens.(based on 17 reviews) Room Features:Rooms are well-designed, some with courtyards, country-style decorations, tatami platforms. Have a sense of design. Facilities:Lovely pools, gardens. Some provide activities like digging winter bamboo shoots.(based on 25 reviews) Service:Staff are friendly, attentive, and helpful(based on 40 reviews) Environment:Beautiful environment with fresh air, quiet and laid-back atmosphere Guest Suggestion:Some customers suggest hygiene, decoration/facilities, and service issues(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Close to scenic spots like Mogashan village, convenient for travel. Surrounded by beautiful environments such as tea mountains, pools, gardens.",
+        "count": 17
+      },
+      {
+        "topic": "Room Features",
+        "text": "Rooms are well-designed, some with courtyards, country-style decorations, tatami platforms. Have a sense of design. Facilities:Lovely pools, gardens. Some provide activities like digging winter bamboo shoots.",
+        "count": 25
+      },
+      {
+        "topic": "Service",
+        "text": "Staff are friendly, attentive, and helpful",
+        "count": 40
+      },
+      {
+        "topic": "Environment",
+        "text": "Beautiful environment with fresh air, quiet and laid-back atmosphere Guest Suggestion:Some customers suggest hygiene, decoration/facilities, and service issues",
+        "count": 2
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 22, Shiyi New Village, Moganshan Town, Deqing, Zhejiang, 313204, China",
+  "priceRange": "From US$108",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Bar",
+    "Restaurant",
+    "Conference room",
+    "Multi-function room",
+    "Kids' club"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1010322/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1012000brqcrrd5344.jpg"
+    },
+    {
+      "src": "/images/stays/1010322/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2712000bbeb88l0D22.webp"
+    },
+    {
+      "src": "/images/stays/1010322/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0584n12000sp4m0c47CAE.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "This place is fantastic. The hosts went above and beyond to ensure that everything was perfect during our stay. The property has so much charm, and the owners are so lovely. They also have the most friendly cat and dog...",
+      "author": "Lindsayrussell15",
+      "date": "2024-03-31",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1010322&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1010322&trip_sub3=D19127628"
+    },
+    {
+      "quote": "We had a great stay at this resort/homestay! The place is very comfy, with clean and comfortable rooms, and the pool offers great views. The atmosphere was very quiet and laid-back, which made it perfect for a relaxing getaway. The...",
+      "author": "Guest User",
+      "date": "2024-09-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1010322&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1010322&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Very nice hotel just a few minutes away from Mogashan village. Our room had a small courtyard and was decorated with country side style pieces, there was even a small tatami platform to rest and drink tea. Lovely pool and...",
+      "author": "Ailinuo411",
+      "date": "2023-08-13",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1010322&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1010322&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 87,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:18:37.144Z",
+  "source": "trip"
+}

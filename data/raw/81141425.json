@@ -1,0 +1,88 @@
+{
+  "id": 81141425,
+  "name": "Watch Wheat Field Moganshan Villa Designer Hot Spring Meisu",
+  "seedName": "Watch Wheat Field Moganshan Villa Designer Hot Spring Meisu",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-81141425",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=81141425&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-81141425&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:Scenic rice fields, modern minimalist design, large private courtyards with pools, lawns, and shaded areas.(based on 12 reviews) Service:Friendly and attentive hosts, helpful guidance for parking, and willingness to assist with personal requests .(based on 13 reviews) Facilities:Clean, spacious rooms with large windows overlooking landscapes; well-equipped public areas for relaxation, outdoor movies, and children’s activities.(based on 12 reviews) Suitability:Ideal for families, groups, and photography due to aesthetic design and natural surroundings.(based on 17 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Scenic rice fields, modern minimalist design, large private courtyards with pools, lawns, and shaded areas.",
+        "count": 12
+      },
+      {
+        "topic": "Service",
+        "text": "Friendly and attentive hosts, helpful guidance for parking, and willingness to assist with personal requests .",
+        "count": 13
+      },
+      {
+        "topic": "Facilities",
+        "text": "Clean, spacious rooms with large windows overlooking landscapes; well-equipped public areas for relaxation, outdoor movies, and children’s activities.",
+        "count": 12
+      },
+      {
+        "topic": "Suitability",
+        "text": "Ideal for families, groups, and photography due to aesthetic design and natural surroundings.",
+        "count": 17
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 33, Longli, Laoling Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$72",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Hot springs",
+    "Restaurant",
+    "Multi-function room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/81141425/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1v12000b25ucekCE5B.jpg"
+    },
+    {
+      "src": "/images/stays/81141425/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201n12000937kyjq5BBA.webp"
+    },
+    {
+      "src": "/images/stays/81141425/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201b12000a9eio2j1FD5.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "A trip to Moganshan that far exceeded my expectations! The owner, a young man in his 20s, was incredibly kind. We brought our kids to Moganshan for a Spartan adventure. Our two families booked a three-bedroom suite, and upon arrival,...",
+      "author": "Guest User",
+      "date": "2025-11-09",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=81141425&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-81141425&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The owner was very kind. We arrived very late, and he waited for us the whole time. He even upgraded our room. The second floor was great for taking pictures! The breakfast prepared by the auntie was very plentiful and...",
+      "author": "Guest User",
+      "date": "2025-08-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=81141425&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-81141425&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room was clean and tidy, the bedding was comfortable, and footsteps from next door were clearly audible. Hot water in the bathroom was consistent. Hygiene: 5/5 The room was very clean overall. The sheets and towels smelled of sunshine,...",
+      "author": "Guest User",
+      "date": "2025-08-25",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=81141425&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-81141425&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 37,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:43:40.619Z",
+  "source": "trip"
+}

@@ -1,0 +1,89 @@
+{
+  "id": 4365265,
+  "name": "Wangshan Villa",
+  "seedName": "Wangshan Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-4365265",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4365265&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4365265&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment Location:Located in Moganshan Scenic Area, with beautiful scenery such as vibrant red maples and convenient proximity to attractions like Jianchi. The location is prime, and the autumn foliage season offers a picturesque view.(based on 42 reviews) Service Quality:Staff are friendly, dedicated, and helpful, assisting with luggage, providing detailed information, and being attentive to guests' needs.(based on 128 reviews) Scenery:The scenery is picturesque, especially during the autumn foliage season with vibrant red maples, creating a tranquil and romantic atmosphere.(based on 4 reviews) Dining:Dinner and breakfast sets are delicious, with various options to choose from(based on 21 reviews) Guest Suggestion: Some customers suggest upgrading aging infrastructure, improving cleanliness , and diversifying breakfast options to enhance guest experience.(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment Location",
+        "text": "Located in Moganshan Scenic Area, with beautiful scenery such as vibrant red maples and convenient proximity to attractions like Jianchi. The location is prime, and the autumn foliage season offers a picturesque view.",
+        "count": 42
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Staff are friendly, dedicated, and helpful, assisting with luggage, providing detailed information, and being attentive to guests' needs.",
+        "count": 128
+      },
+      {
+        "topic": "Scenery",
+        "text": "The scenery is picturesque, especially during the autumn foliage season with vibrant red maples, creating a tranquil and romantic atmosphere.",
+        "count": 4
+      },
+      {
+        "topic": "Dining",
+        "text": "Dinner and breakfast sets are delicious, with various options to choose from",
+        "count": 21
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest upgrading aging infrastructure, improving cleanliness , and diversifying breakfast options to enhance guest experience.",
+      "count": 2
+    }
+  },
+  "address": "Villa No. 62, inside Moganshan Scenic Area, Deqing, Zhejiang, China",
+  "priceRange": "From US$67",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/4365265/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0584512000sn8pwazE07D.webp"
+    },
+    {
+      "src": "/images/stays/4365265/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0580g12000sp08ilqA105.webp"
+    },
+    {
+      "src": "/images/stays/4365265/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0581i12000soz216p5E58.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "First time visiting Moganshan with friends. We had plenty of time staying in the mountains. The plants at the entrance left a deep impression. It was lucky that the red leaves in the courtyard were still there for our arrival,...",
+      "author": "Guest User",
+      "date": "2025-12-11",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4365265&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4365265&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The location is great in the center of the mountain. The national park charge you a lot for the entrance regardless you have a reservation at the hotels there. The front desk are nice and helpful.",
+      "author": "Anonymous User",
+      "date": "2024-07-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4365265&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4365265&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I booked this place after seeing photos from other travelers. It's a villa from the Republican era, with a fantastic atmosphere. I also booked dinner directly from them, and the food was delicious. The breakfast was also good. I would...",
+      "author": "Missxixiya",
+      "date": "2026-07-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4365265&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4365265&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 294,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:01:15.570Z",
+  "source": "trip"
+}

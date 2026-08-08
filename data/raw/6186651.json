@@ -1,0 +1,95 @@
+{
+  "id": 6186651,
+  "name": "Moshangyin Holiday Hotel Mount Mogan",
+  "seedName": "Moshangyin Holiday Hotel Mount Mogan",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-6186651",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6186651&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6186651&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment and Location:The hotel offers stunning views of bamboo forests and lush greenery in a serene mountain setting, perfect for relaxation away from city life.(based on 14 reviews) Room and Facilities:Rooms are spacious with high ceilings, wooden decor, and modern amenities. The design blends traditional and modern elements for a cozy environment.(based on 21 reviews) Service:Staff are warm and attentive, providing personalized services like transportation assistance and meal preparations, enhancing the guest experience.(based on 69 reviews) Food and Dining:Guests enjoy delicious meals, including complimentary breakfast and local cuisine, with fresh ingredients and thoughtful preparation.(based on 15 reviews) Guest Suggestion:Some customers suggest improving hygiene, soundproofing, and noise control.(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment and Location",
+        "text": "The hotel offers stunning views of bamboo forests and lush greenery in a serene mountain setting, perfect for relaxation away from city life.",
+        "count": 14
+      },
+      {
+        "topic": "Room and Facilities",
+        "text": "Rooms are spacious with high ceilings, wooden decor, and modern amenities. The design blends traditional and modern elements for a cozy environment.",
+        "count": 21
+      },
+      {
+        "topic": "Service",
+        "text": "Staff are warm and attentive, providing personalized services like transportation assistance and meal preparations, enhancing the guest experience.",
+        "count": 69
+      },
+      {
+        "topic": "Food and Dining",
+        "text": "Guests enjoy delicious meals, including complimentary breakfast and local cuisine, with fresh ingredients and thoughtful preparation.",
+        "count": 15
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving hygiene, soundproofing, and noise control.",
+      "count": 2
+    }
+  },
+  "address": "No. 9, Mawuli, Miaoqian Village, Moganshan Town, Deqing, Deqing, Zhejiang, China",
+  "priceRange": "From US$92",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Bar",
+    "Restaurant",
+    "Cafe",
+    "Car rentals",
+    "Conference room",
+    "Multi-function room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/6186651/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0202x12000a64uvybF649.jpg"
+    },
+    {
+      "src": "/images/stays/6186651/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6n12000cvf38h1BC32.webp"
+    },
+    {
+      "src": "/images/stays/6186651/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5x12000aqt569tF399.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The room is very comfortable, located in the mountains with excellent air quality. The facilities are also quite good. Remember to ask the front desk for toiletries.",
+      "author": "Guest User",
+      "date": "2026-07-28",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6186651&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6186651&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The environment here is great, surrounded by lush greenery and bamboo. The design is very artistic. The food tastes okay, but the service attitude is almost non-existent. The facilities feel a bit run down; the parasol was broken. The water...",
+      "author": "bana090",
+      "date": "2026-06-05",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6186651&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6186651&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The environment is absolutely beautiful, and the food is incredibly authentic and delicious. The owner has excellent taste, and the value for money is outstanding. Highly recommended! 👍",
+      "author": "Guest User",
+      "date": "2026-05-17",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6186651&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6186651&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9,
+    "count": 157,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:28:20.610Z",
+  "source": "trip"
+}

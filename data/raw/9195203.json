@@ -1,0 +1,89 @@
+{
+  "id": 9195203,
+  "name": "ZM Valley Resort·MoGan·China",
+  "seedName": "ZM Valley Resort·MoGan·China",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-9195203",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=9195203&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-9195203&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Design and Atmosphere:The hotel is praised for its unique design and artistic atmosphere, resembling an art gallery with each room having a distinct theme. Guests appreciate the attention to detail in decor, which offers a visually appealing and memorable experience.(based on 605 reviews) Pet-Friendly Environment:The hotel is highly regarded for being pet-friendly, allowing pets to roam freely in spacious areas such as the large grass lawn. Staff are noted for their welcoming and gentle approach towards animals, making it an ideal choice for pet owners.(based on 1,746 reviews) Facilities and Amenities:Guests frequently mention the hotel's comprehensive facilities, including an outdoor infinity pool, cinema, and recreational rooms with games like ping pong and billiards. The presence of charging stations for electric vehicles is also appreciated.(based on 447 reviews) Service Quality:The service is often described as exceptional, with staff being attentive and responsive to guests' needs. The presence of a dedicated concierge service that promptly addresses inquiries contributes to a positive stay experience.(based on 1,746 reviews) Location and Surround",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Design and Atmosphere",
+        "text": "The hotel is praised for its unique design and artistic atmosphere, resembling an art gallery with each room having a distinct theme. Guests appreciate the attention to detail in decor, which offers a visually appealing and memorable experience.",
+        "count": 605
+      },
+      {
+        "topic": "Pet-Friendly Environment",
+        "text": "The hotel is highly regarded for being pet-friendly, allowing pets to roam freely in spacious areas such as the large grass lawn. Staff are noted for their welcoming and gentle approach towards animals, making it an ideal choice for pet owners.",
+        "count": 1746
+      },
+      {
+        "topic": "Facilities and Amenities",
+        "text": "Guests frequently mention the hotel's comprehensive facilities, including an outdoor infinity pool, cinema, and recreational rooms with games like ping pong and billiards. The presence of charging stations for electric vehicles is also appreciated.",
+        "count": 447
+      },
+      {
+        "topic": "Service Quality",
+        "text": "The service is often described as exceptional, with staff being attentive and responsive to guests' needs. The presence of a dedicated concierge service that promptly addresses inquiries contributes to a positive stay experience.",
+        "count": 1746
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 68, Jiangwan Village, Fatou Township, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$110",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Cafe",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/9195203/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3o12000tdq11n75A1D.jpg"
+    },
+    {
+      "src": "/images/stays/9195203/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0f12000szj3sfd38C4.webp"
+    },
+    {
+      "src": "/images/stays/9195203/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4y12000szj2d5a2BFB.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The view from the B&B was lovely! We were kindly upgraded to the 'Wudu' room, specifically 'Doukou,' upon check-in. From the bed, you could see the distant mountains and the pool downstairs, which was beautiful. My child wanted to swim...",
+      "author": "Guest User",
+      "date": "2026-08-04",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=9195203&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-9195203&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Extremely satisfied! The butler, a lovely lady, provided attentive and thoughtful service. We got a room upgrade, and the stay was fantastic. The dinner had a wonderful local charm and was delicious 😋. The photos taken by Yumo Travel Photography...",
+      "author": "Guest User",
+      "date": "2026-08-04",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=9195203&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-9195203&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I finally got to experience Sesame Valley after having it on my wishlist for a long time. I stayed for one night and found it visually stunning and very photogenic. It's interesting that each room has a different themed style....",
+      "author": "ᥫᩣ Coco",
+      "date": "2026-06-28",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=9195203&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-9195203&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 2644,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:13:22.781Z",
+  "source": "trip"
+}

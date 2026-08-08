@@ -1,0 +1,74 @@
+{
+  "id": 1308249,
+  "name": "Moganshan Pinellia hot spring holiday beautiful night",
+  "seedName": "Moganshan Pinellia hot spring holiday beautiful night",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1308249",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1308249&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1308249&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Local Experiences:Proximity to unique activities like firefly observation bases, bamboo forests, and art museums enriches stays. Hosts often provide personalized insights into nearby attractions, enhancing the cultural and recreational value of the visit.(based on 27 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Local Experiences",
+        "text": "Proximity to unique activities like firefly observation bases, bamboo forests, and art museums enriches stays. Hosts often provide personalized insights into nearby attractions, enhancing the cultural and recreational value of the visit.",
+        "count": 27
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Village Group 11, Xiantan Village, Moganshan Town, Deqing, Zhejiang, 313207, China",
+  "priceRange": "From US$60",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Hot springs",
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1308249/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4z12000s2h4elo80A0.jpg"
+    },
+    {
+      "src": "/images/stays/1308249/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1412000rtk6a8eDEC2.webp"
+    },
+    {
+      "src": "/images/stays/1308249/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200k120008xg1wyx6802.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The rooms were clean and the service was friendly. It was not on the Moganshan mountain park but it was about a 20 minute drive away. There was also another small park a 5 minute drive away where we went...",
+      "author": "Guest User",
+      "date": "2024-06-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1308249&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1308249&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room is very clean and tidy. The food is also very delicious. The kids also had a lot of fun in the lobby. It's great",
+      "author": "Anonymous User",
+      "date": "2024-04-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1308249&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1308249&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Environment: Very unique, surrounded by attractions, especially Kitano Firefly BBQ, which is within walking distance Service: Very attentive, any problems were solved in a timely manner, and they made breakfast for us half an hour in advance when we had...",
+      "author": "Guest User",
+      "date": "2023-08-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1308249&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1308249&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 56,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:12:19.015Z",
+  "source": "trip"
+}

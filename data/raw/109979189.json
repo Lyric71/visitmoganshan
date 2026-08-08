@@ -1,0 +1,97 @@
+{
+  "id": 109979189,
+  "name": "Moganshan Jiangnan Yaowu Zhuxiang Resort Hotel",
+  "seedName": "Moganshan Jiangnan Yaowu Zhuxiang Resort Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-109979189",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=109979189&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-109979189&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:The hotel is ideally located near Yaowu, offering easy access to attractions like the cable car and adventure activities, ensuring convenience and a stress-free stay.(based on 148 reviews) Facilities:Facilities include a large indoor play area, a mountain forest hot spring, and a warm pool for kids, providing comfort and enjoyment for families.(based on 169 reviews) Service Quality:Guests commend the attentive, friendly staff for their prompt service and eagerness to meet needs, enhancing the guest experience.(based on 257 reviews) Environment:Located in lush greenery, the hotel offers a serene escape with rooms featuring bamboo forest views for a relaxing stay. Accommodation:Spacious, clean rooms with soft bedding cater to families, providing ample play space and easy access to attractions for a great holiday.(based on 302 reviews) Child-Friendly Services:Ideal for family vacations, the hotel offers child-friendly perks like free breakfast for kids and attraction tickets, ensuring children's enjoyment.(based on 61 reviews) Guest Suggestion:Some customers suggest improving room cleanliness, addressing persistent unpleasant odors, and ensuring b",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "The hotel is ideally located near Yaowu, offering easy access to attractions like the cable car and adventure activities, ensuring convenience and a stress-free stay.",
+        "count": 148
+      },
+      {
+        "topic": "Facilities",
+        "text": "Facilities include a large indoor play area, a mountain forest hot spring, and a warm pool for kids, providing comfort and enjoyment for families.",
+        "count": 169
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Guests commend the attentive, friendly staff for their prompt service and eagerness to meet needs, enhancing the guest experience.",
+        "count": 257
+      },
+      {
+        "topic": "Environment",
+        "text": "Located in lush greenery, the hotel offers a serene escape with rooms featuring bamboo forest views for a relaxing stay. Accommodation:Spacious, clean rooms with soft bedding cater to families, providing ample play space and easy access to attractions for a great holiday.",
+        "count": 302
+      },
+      {
+        "topic": "Child-Friendly Services",
+        "text": "Ideal for family vacations, the hotel offers child-friendly perks like free breakfast for kids and attraction tickets, ensuring children's enjoyment.",
+        "count": 61
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "400 meters southeast of Xiaojiuzhaigou Restaurant, Provincial Highway S304, Deqing, Zhejiang, China",
+  "priceRange": "From US$118",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Hot springs",
+    "Spa",
+    "Gym",
+    "Table tennis room",
+    "Cardroom",
+    "Restaurant",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/109979189/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0e12000buxvd8p548E.jpg"
+    },
+    {
+      "src": "/images/stays/109979189/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3712000kqfs6a0401C.webp"
+    },
+    {
+      "src": "/images/stays/109979189/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1c12000bn6y1sxF8F4.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "I was drawn in by the 'bamboo forest secret' advertised before coming, but after one night, my experience completely fell apart. I never want to come back again! There was a message board in the room, and I'd like to...",
+      "author": "Guest User",
+      "date": "2026-05-29",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=109979189&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-109979189&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Stayed here for the May Day holiday trip to Moganshan. It's super convenient for getting to Yaowu Paradise. Overall, it was a great stay. The breakfast was plentiful, and the room was clean and comfortable. The best part is that...",
+      "author": "Guest User",
+      "date": "2026-06-04",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=109979189&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-109979189&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Moganshan Jiangnan Yaowu Zhuxiang Resort is nestled against a bamboo forest, offering a tranquil and refreshing environment. Our third-floor room was clean and comfortable. Right outside the hotel is Yaowu Town, and the hotel thoughtfully provided complimentary tickets to the...",
+      "author": "Qingfangdou",
+      "date": "2026-04-27",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=109979189&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-109979189&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.2,
+    "count": 656,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:25:58.044Z",
+  "source": "trip"
+}

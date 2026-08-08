@@ -47,7 +47,7 @@ Rail reaches Deqing in 63 to 80 minutes from Shanghai Hongqiao and 13 to 17 from
 
 Stations built for that network usually have elevators and level platform access. We have not checked this one.
 
-`TODO: verify step-free access at Deqing station: elevators, level boarding, accessible toilets, and whether staff assistance can be booked ahead.`
+`Not confirmed: step-free access at Deqing station: elevators, level boarding, accessible toilets, and whether staff assistance can be booked ahead.`
 
 | Last mile from Deqing station | What runs |
 |---|---|
@@ -56,11 +56,11 @@ Stations built for that network usually have elevators and level platform access
 
 The Y1 is dressed as a Republican-era tram. That is styling, and it answers nothing about the floor height.
 
-`TODO: verify the Y1 shuttle's vehicle type, how it is boarded, and whether a wheelchair travels folded or not at all.`
+`Not confirmed: the Y1 shuttle's vehicle type, how it is boarded, and whether a wheelchair travels folded or not at all.`
 
 A taxi is the fallback, and whether a lift-equipped vehicle can be hired nearby is not something we can answer.
 
-`TODO: verify whether accessible vehicle hire operates in Deqing County or Hangzhou.`
+`Not confirmed: whether accessible vehicle hire operates in Deqing County or Hangzhou.`
 
 ## The rule that decides everything
 
@@ -70,9 +70,9 @@ For most travelers the transfer is a nuisance. For anyone who cannot walk far it
 
 What replaces it is documented in no source we have found. Nobody publishes the floor height or the door width.
 
-`TODO: verify what vehicles run from the transfer centers into the scenic area, whether any is low-floor or ramped, and whether a wheelchair user can board seated.`
+`Not confirmed: what vehicles run from the transfer centers into the scenic area, whether any is low-floor or ramped, and whether a wheelchair user can board seated.`
 
-`TODO: verify whether the transfer centers are step free from drop-off to boarding point, and whether any of the three has an accessible toilet.`
+`Not confirmed: whether the transfer centers are step free from drop-off to boarding point, and whether any of the three has an accessible toilet.`
 
 The hours bite twice. Arrive after 18:00 and the system has shut, and a slow transfer at either end has less slack than the timetable suggests. [Getting around Moganshan](/getting-here/getting-around/) covers them for everybody else.
 
@@ -86,7 +86,7 @@ Moganshan is not one settlement. It is a ridge with villages around the base, jo
 
 Through the villages and the old hill station the surface is stone paths, steps and paved lanes, laid from the 1890s onward to move summer families between houses. Whether any stretch is level, and for how far, we have not measured.
 
-`TODO: verify gradients, step counts, path widths and surface condition on the village lanes and the hill station roads. We hold no measured figure at all.`
+`Not confirmed: gradients, step counts, path widths and surface condition on the village lanes and the hill station roads. We hold no measured figure at all.`
 
 The villages have no evening economy, and that lands harder on this page than on any other. A guest who cannot walk to dinner depends on the property they booked, so dinner is arranged with the room, not decided at seven.
 
@@ -100,9 +100,9 @@ You reach all of them on laid stone, from wherever the scenic-area transport put
 
 Ticket prices are disputed between our sources, as the [planning section](/plan/) sets out.
 
-`TODO: verify whether the scenic area gives a concession or free entry to disabled visitors and a companion, and what proof is accepted.`
+`Not confirmed: whether the scenic area gives a concession or free entry to disabled visitors and a companion, and what proof is accepted.`
 
-`TODO: verify whether wheelchairs can be borrowed or hired here, and whether any named sight can be reached without steps.`
+`Not confirmed: whether wheelchairs can be borrowed or hired here, and whether any named sight can be reached without steps.`
 
 ## Where to stay, and what to ask before you pay
 
@@ -112,9 +112,9 @@ Wukang, the county seat 20 km off the mountain, is the fallback everyone else ha
 
 > Property stock, ownership share, villa numbers and the Wukang hotel, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-`TODO: verify which Moganshan properties offer level entry, a ground-floor bedroom, a wet-room shower or a bathroom door wide enough for a chair.`
+`Not confirmed: which Moganshan properties offer level entry, a ground-floor bedroom, a wet-room shower or a bathroom door wide enough for a chair.`
 
-`TODO: verify step-free access at the Crowne Plaza Deqing Moganshan in Wukang.`
+`Not confirmed: step-free access at the Crowne Plaza Deqing Moganshan in Wukang.`
 
 So the property has to be interrogated one at a time, and the wording matters. Message before you pay, not after. Keep it short, because most of these houses will run your message through a translation app, and ask for measurements, not categories.
 
@@ -140,11 +140,11 @@ Steps here cost you effort rather than access. You will meet plenty, on the lane
 
 Two things are not guessable. The transfer window shuts at 18:00, which sets the outside edge of any afternoon that includes a nap. And the transfer vehicle is the same vehicle either way, so we know no more about it here than two sections ago.
 
-`TODO: verify whether strollers are carried on the transfer vehicles and the Y1, and whether anywhere will hold one for the day.`
+`Not confirmed: whether strollers are carried on the transfer vehicles and the Y1, and whether anywhere will hold one for the day.`
 
 ## What we want verified, and what you can send us
 
-Eleven lines on this page are marked TODO, more than on any other page of this site. Nine are terrain, vehicle or fixture questions, and those do not close from a desk. They close when somebody stands at a transfer center with a tape measure. That field check is scheduled.
+Eleven lines on this page are flagged as unconfirmed, more than on any other page of this site. Nine are terrain, vehicle or fixture questions, and those do not close from a desk. They close when somebody stands at a transfer center with a tape measure. That field check is scheduled.
 
 Ranked by how much each would change a reader's trip:
 
@@ -155,5 +155,5 @@ Ranked by how much each would change a reader's trip:
 
 If you have been, tell us what came, whether you got on it, and what it cost you in effort. Say what you saw rather than what you were told. One accurate report beats another month of reading.
 
-*Rail times, shuttle timings and transfer center hours last checked 5 August 2026. Every line marked TODO stays open until somebody verifies it on the ground, and nothing on this page should be read as a promise that a route will work for you.*
+*Rail times, shuttle timings and transfer center hours last checked 5 August 2026. Every line flagged as unconfirmed stays open until somebody verifies it on the ground, and nothing on this page should be read as a promise that a route will work for you.*
 

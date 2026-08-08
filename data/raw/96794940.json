@@ -1,0 +1,87 @@
+{
+  "id": 96794940,
+  "name": "MOGAN SHESHE RESORT",
+  "seedName": "MOGAN SHESHE RESORT",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-96794940",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=96794940&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-96794940&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Environment:Situated in a tranquil mountainous area with scenic views, clean air, and minimal noise. Rooms offer panoramic mountain vistas, and the property is located on a hilltop for privacy.(based on 1 review) Facilities:Newly renovated rooms with modern, stylish interiors; clean and well-maintained facilities . Service Quality:Hosts are described as polite, attentive, and helpful, with a welcoming atmosphere. Guests appreciated the cleanliness of rooms and the availability of amenities .(based on 8 reviews) Amenities:Scenic outdoor spaces for relaxation, and the property is positioned for privacy and natural beauty.(based on 7 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Situated in a tranquil mountainous area with scenic views, clean air, and minimal noise. Rooms offer panoramic mountain vistas, and the property is located on a hilltop for privacy.",
+        "count": 1
+      },
+      {
+        "topic": "Facilities",
+        "text": "Newly renovated rooms with modern, stylish interiors; clean and well-maintained facilities . Service Quality:Hosts are described as polite, attentive, and helpful, with a welcoming atmosphere. Guests appreciated the cleanliness of rooms and the availability of amenities .",
+        "count": 8
+      },
+      {
+        "topic": "Amenities",
+        "text": "Scenic outdoor spaces for relaxation, and the property is positioned for privacy and natural beauty.",
+        "count": 7
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 67, Laolingjiao, Laoling Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$102",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Hot springs",
+    "Billiards room",
+    "Cardroom",
+    "Restaurant",
+    "Conference room",
+    "Multi-function room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/96794940/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200h12000dqum2zuFCAB.jpg"
+    },
+    {
+      "src": "/images/stays/96794940/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2f12000dr1eiua0A31.webp"
+    },
+    {
+      "src": "/images/stays/96794940/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6i12000dr19eitE6C5.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "We stayed at a budget-friendly hotel. It was already dark when we checked in. The room was clean and simple, the terrace was OK, and the swimming pool was a favorite of the children. They didn't want to get out...",
+      "author": "Guest User",
+      "date": "2025-07-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=96794940&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-96794940&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The housekeeper was very helpful and provided excellent service. The room was also very clean. The pool was closed due to the season, but I'll definitely try it again next time I have the chance. The mountain air was fresh...",
+      "author": "Guest User",
+      "date": "2025-04-30",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=96794940&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-96794940&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Very quiet, clean and comfortable",
+      "author": "Guest User",
+      "date": "2025-05-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=96794940&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-96794940&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 14,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:05:15.845Z",
+  "source": "trip"
+}

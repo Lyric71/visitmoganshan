@@ -1,0 +1,79 @@
+{
+  "id": 5432038,
+  "name": "Mohe Guesthouse",
+  "seedName": "Mohe Guesthouse",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5432038",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5432038&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5432038&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Dining Experience:Breakfast is highlighted as abundant, flavorful, and thoughtfully prepared, often featuring homemade dishes. Evening meals, including customized options for children, are praised for their quality and value compared to external dining options.(based on 16 reviews) Design & Comfort:The decor blends rustic charm with modern comfort, featuring a loft-style layout, quiet nighttime environments, and a welcoming ambiance. Guests appreciate the thoughtful design elements and the sense of home-like comfort throughout the stay.(based on 8 reviews) Guest Suggestion:Some customers suggest that the noise from firecrackers during holidays affected rest, the facilities are average, and there are issues with service, hygiene, and environment(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Dining Experience",
+        "text": "Breakfast is highlighted as abundant, flavorful, and thoughtfully prepared, often featuring homemade dishes. Evening meals, including customized options for children, are praised for their quality and value compared to external dining options.",
+        "count": 16
+      },
+      {
+        "topic": "Comfort",
+        "text": "The decor blends rustic charm with modern comfort, featuring a loft-style layout, quiet nighttime environments, and a welcoming ambiance. Guests appreciate the thoughtful design elements and the sense of home-like comfort throughout the stay.",
+        "count": 8
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest that the noise from firecrackers during holidays affected rest, the facilities are average, and there are issues with service, hygiene, and environment",
+      "count": 2
+    }
+  },
+  "address": "No. 26, Hecun Village, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$54",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5432038/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203l120008rsts9tBCDA.jpg"
+    },
+    {
+      "src": "/images/stays/5432038/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD4l120009f0zpug2678.webp"
+    },
+    {
+      "src": "/images/stays/5432038/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200u16000000zvs1m342E.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The owner was very polite and provided excellent service. His sandwiches were also fantastic. We borrowed his washing machine to wash our clothes, and afterwards, he quietly helped us hang them to dry. We'd definitely come again during the Chinese...",
+      "author": "Guest User",
+      "date": "2026-07-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5432038&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5432038&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room was very clean, and the breakfast was plentiful and delicious; I ate my fill every morning! It was also quite convenient to get a taxi from the scenic area. The owner resolved a minor issue with the hot...",
+      "author": "Guest User",
+      "date": "2026-01-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5432038&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5432038&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The stay was great, and the owner was very helpful, recommending many good restaurants nearby. They even made breakfast themselves – delicious noodles! I'll definitely come back.",
+      "author": "Guest User",
+      "date": "2026-05-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5432038&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5432038&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 50,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:24:19.715Z",
+  "source": "trip"
+}

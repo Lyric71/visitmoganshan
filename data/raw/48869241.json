@@ -1,0 +1,76 @@
+{
+  "id": 48869241,
+  "name": "Moganshan Sheyin Resort",
+  "seedName": "Moganshan Sheyin Resort",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-48869241",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=48869241&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-48869241&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness & Maintenance:The hotel maintains high standards of cleanliness across rooms, bathrooms, and communal areas. Regular upkeep of facilities like the swimming pool and landscaped courtyards contributes to a pleasant stay, with no major complaints about hygiene or maintenance issues.(based on 23 reviews) Accessibility & Convenience:The property is easily reachable with ample parking available. Its central location allows quick access to Yucun’s shopping, dining, and cultural hubs, while still offering a tranquil retreat away from urban noise.(based on 34 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Maintenance",
+        "text": "The hotel maintains high standards of cleanliness across rooms, bathrooms, and communal areas. Regular upkeep of facilities like the swimming pool and landscaped courtyards contributes to a pleasant stay, with no major complaints about hygiene or maintenance issues.",
+        "count": 23
+      },
+      {
+        "topic": "Convenience",
+        "text": "The property is easily reachable with ample parking available. Its central location allows quick access to Yucun’s shopping, dining, and cultural hubs, while still offering a tranquil retreat away from urban noise.",
+        "count": 34
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 24, Wangjia, Liaoyuan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$79",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/48869241/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02033120008w5z89hF0C6.jpg"
+    },
+    {
+      "src": "/images/stays/48869241/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD6b12000aynxhjiF1E8.webp"
+    },
+    {
+      "src": "/images/stays/48869241/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201x120008bpurfc9719.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "It is a clean hotel with spacious rooms. The view from the rooms is one of the key advantages. It’s a bit away from all the bars and restaurants, so it’s more quiet. Can definitely recommend.",
+      "author": "Guest User",
+      "date": "2025-10-30",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=48869241&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-48869241&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Lovely, cozy hotel with exceptionally friendly staff. The room was clean and offered a beautiful view. Thank you!",
+      "author": "Alina Danylets",
+      "date": "2025-08-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=48869241&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-48869241&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Excellent value for money, clean and very comfortable rooms. Convenient parking, close to Yucun center. The landlady is also very helpful.",
+      "author": "Guest User",
+      "date": "2025-11-25",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=48869241&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-48869241&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.1,
+    "count": 96,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:27:36.615Z",
+  "source": "trip"
+}

@@ -1,0 +1,85 @@
+{
+  "id": 1465402,
+  "name": "Miyoulan Moganshan Summit Vacation Apartment",
+  "seedName": "Miyoulan Moganshan Summit Vacation Apartment",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1465402",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1465402&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1465402&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:The hotel is situated at the top of Mogan Mountain, offering breathtaking views of mountains, clouds, and sunsets. It's conveniently close to Dakeng Scenic Area and Yinshan Street, making it easy to explore nearby attractions on foot.(based on 33 reviews) Service:Guests frequently praised the attentive and enthusiastic service, including proactive communication from the housekeeper. Staff are described as warm and considerate, contributing to a welcoming atmosphere.(based on 42 reviews) Room Quality:Rooms are described as clean, spacious, and comfortable with panoramic views from balconies. Despite some comments on outdated decor, overall room hygiene and comfort are highly regarded.(based on 40 reviews) Guest Suggestion:Some customers suggest improving the room's soundproofing, addressing issues with musty odors and outdated facilities, and enhancing the overall breakfast quality.(based on 6 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "The hotel is situated at the top of Mogan Mountain, offering breathtaking views of mountains, clouds, and sunsets. It's conveniently close to Dakeng Scenic Area and Yinshan Street, making it easy to explore nearby attractions on foot.",
+        "count": 33
+      },
+      {
+        "topic": "Service",
+        "text": "Guests frequently praised the attentive and enthusiastic service, including proactive communication from the housekeeper. Staff are described as warm and considerate, contributing to a welcoming atmosphere.",
+        "count": 42
+      },
+      {
+        "topic": "Room Quality",
+        "text": "Rooms are described as clean, spacious, and comfortable with panoramic views from balconies. Despite some comments on outdated decor, overall room hygiene and comfort are highly regarded.",
+        "count": 40
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving the room's soundproofing, addressing issues with musty odors and outdated facilities, and enhancing the overall breakfast quality.",
+      "count": 6
+    }
+  },
+  "address": "No. 186 Gangtou Road (Dakeng Scenic Area), Moganshan Summit, Deqing, Zhejiang, 313202, China",
+  "priceRange": "From US$123",
+  "facilities": [
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1465402/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2c12000awk8knq8980.jpg"
+    },
+    {
+      "src": "/images/stays/1465402/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1512000awk1zlc6FAE.webp"
+    },
+    {
+      "src": "/images/stays/1465402/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1412000awkckw9DB5C.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Amazing view, clean rooms, great service. Didi cars cannot enter the area, so the hotel contacted us and arranged a driver to pick us up from train station (160 RMB). To get around the scenic area there is a shuttle...",
+      "author": "Anonymous User",
+      "date": "2024-10-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1465402&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1465402&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Wow! This hotel is amazing, great location and gorgeous rooms. Also the lady at the front desk came out to meet and greet us in English and was so helpful in every way. We will come and stay again 😀😍🌷🌷",
+      "author": "Juliet C Wells",
+      "date": "2024-04-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1465402&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1465402&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Very good 👍 I've been to Moganshan many times, and this was my first time staying here. It was quite nice 👍",
+      "author": "Anniyouyou",
+      "date": "2026-07-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1465402&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1465402&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9,
+    "count": 120,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:28:03.808Z",
+  "source": "trip"
+}

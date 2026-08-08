@@ -1,0 +1,90 @@
+{
+  "id": 16921838,
+  "name": "Deying Mountain House",
+  "seedName": "Deying Mountain House",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-16921838",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=16921838&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-16921838&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Facilities:Features a rooftop swimming pool, reading room, chess/card room, and karaoke lounge. Rooms are clean, well-maintained, and include balconies with mountain views.(based on 11 reviews) Service:Hosts are enthusiastic and knowledgeable, providing local travel recommendations, discounted attraction tickets, and personalized assistance .(based on 21 reviews) Amenities:Includes free breakfast , family-friendly spaces, and proximity to parking.(based on 13 reviews) Ambiance:Courtyards are well-maintained with greenery, and the property blends comfort with a \"home-like\" atmosphere.(based on 15 reviews) Guest Suggestion:Some customers suggest there are issues with hygiene such as stains on bed sheets, facilities like flickering lights and noise, and that the merchant's interface pictures are misleading(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Facilities",
+        "text": "Features a rooftop swimming pool, reading room, chess/card room, and karaoke lounge. Rooms are clean, well-maintained, and include balconies with mountain views.",
+        "count": 11
+      },
+      {
+        "topic": "Service",
+        "text": "Hosts are enthusiastic and knowledgeable, providing local travel recommendations, discounted attraction tickets, and personalized assistance .",
+        "count": 21
+      },
+      {
+        "topic": "Amenities",
+        "text": "Includes free breakfast , family-friendly spaces, and proximity to parking.",
+        "count": 13
+      },
+      {
+        "topic": "Ambiance",
+        "text": "Courtyards are well-maintained with greenery, and the property blends comfort with a \"home-like\" atmosphere.",
+        "count": 15
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest there are issues with hygiene such as stains on bed sheets, facilities like flickering lights and noise, and that the merchant's interface pictures are misleading",
+      "count": 3
+    }
+  },
+  "address": "No. 25 Cuiying Road, Yu Village, Deqing, Zhejiang, China",
+  "priceRange": "From US$45",
+  "facilities": [
+    "Private beach area",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/16921838/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0202m120009tftn1z9EE3.jpg"
+    },
+    {
+      "src": "/images/stays/16921838/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205e120008sldumw89F6.webp"
+    },
+    {
+      "src": "/images/stays/16921838/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201y120008sle2k08390.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The hotel is nearby Yucun village, very convenient location . The owners are super nice and prepared a breakfast for us, so ot felt more like a home stay. They also have a lovely dog.",
+      "author": "Lana_adventures",
+      "date": "2026-05-13",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=16921838&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-16921838&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Highly recommend. We stayed for the Spartan Race, and the owners went out of their way to make us feel comfortable. They even let us come back to the hotel way after our checkout time to shower again before driving...",
+      "author": "Guest User",
+      "date": "2024-11-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=16921838&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-16921838&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The location is great, the room is clean, the environment is nice, there is also a swimming pool, the hostess is very welcoming, great 👍",
+      "author": "Guest User",
+      "date": "2025-07-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=16921838&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-16921838&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.1,
+    "count": 53,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:31:35.661Z",
+  "source": "trip"
+}

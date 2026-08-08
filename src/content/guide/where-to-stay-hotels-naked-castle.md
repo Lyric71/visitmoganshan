@@ -30,7 +30,7 @@ Nobody from this site has slept in the building. So what follows describes it an
 
 > Opening date, room count and origin of the building, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-"Keys" means rooms, and the property is part of naked Retreats. On Maitland the record gives a nationality and a profession and nothing else. `TODO: verify` his first name and dates.
+"Keys" means rooms, and the property is part of naked Retreats. On Maitland the record gives a nationality and a profession and nothing else. His first name and dates are not confirmed.
 
 ## The building is 107 years older than the hotel
 
@@ -50,7 +50,7 @@ Maitland built at the top of the boom. Nine years on, the foreign-owned stock wa
 |---|---|
 | Foreign summer households here in 1910 | about 300 |
 | Stone villas from that era still standing | about 250 |
-| Of those, bookable for a night | almost none. No count published. `TODO: verify` |
+| Of those, bookable for a night | almost none. No count published. `Not confirmed` |
 
 Most are private homes or private leases. Others are fenced off or under restoration.
 
@@ -102,19 +102,19 @@ Your station is Deqing. Moganshan railway station serves Wukang town, not the mo
 
 Now the constraint that breaks arrival plans. Private cars stop at the scenic-area boundary. Three points handle the swap: Yucun, Fatou and Houwu. All work 08:00 to 18:00 and no later, so landing at Deqing at 19:00 means you have missed them.
 
-Which side of that line your bed is on decides whether this hits you. `TODO: verify` Message the hotel before booking the train, not after you land. [Getting around](/getting-here/getting-around/) covers the transfers.
+Which side of that line your bed is on decides whether this hits you. `Not confirmed.` Message the hotel before booking the train, not after you land. [Getting around](/getting-here/getting-around/) covers the transfers.
 
 ## What we do not know
 
 | Open question | Status |
 |---|---|
-| Room types and what each one includes | `TODO: verify` |
-| Which village, and which side of the scenic-area line | `TODO: verify` |
-| Whether the 95 rooms sit in the 1910 building or newer ones | `TODO: verify` |
-| Whether foreign passports and cards are handled here | `TODO: verify`. Under a joint directive dated 24 May 2024, hotels may not turn foreign guests away. Refusals still get reported |
+| Room types and what each one includes | `Not confirmed` |
+| Which village, and which side of the scenic-area line | `Not confirmed` |
+| Whether the 95 rooms sit in the 1910 building or newer ones | `Not confirmed` |
+| Whether foreign passports and cards are handled here | `Not confirmed`. Under a joint directive dated 24 May 2024, hotels may not turn foreign guests away. Refusals still get reported |
 
 We do not reprint review scores from booking sites either. They are somebody else's numbers, gathered by a method we cannot inspect.
 
 One last naming problem: Moganshan Solvang Village is a different property here. If this is not your place, [all hotels](/where-to-stay/hotels/) has the rest and [money and payments](/plan/money-and-payments/) covers cards.
 
-*Opening date, room count and rate band checked 6 August 2026. The band covers two properties and moves fast. `TODO: verify` items are open on purpose.*
+*Opening date, room count and rate band checked 6 August 2026. The band covers two properties and moves fast. `Not confirmed` items are open on purpose.*

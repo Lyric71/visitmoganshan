@@ -1,0 +1,94 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import SiteHeader from '../../components/SiteHeader.astro';
+import SiteFooter from '../../components/SiteFooter.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import StayTypeList from '../../components/StayTypeList.astro';
+import {
+  TYPE_LABEL,
+  TYPE_SLUG,
+  countOfType,
+  resolveStayHrefs,
+  staysOfType,
+  typePagesToGenerate,
+  typePath,
+  type StayType,
+} from '../../lib/stays';
+
+/**
+ * /where-to-stay/{resorts|villas|homestays|hotels|lodges|apartments|hostels}
+ *
+ * One page per kind of place, and a listing is all it is: the heading, the
+ * count, the cards. Prose about a kind of place is an article and lives at its
+ * own URL, /where-to-stay/hotels-explained and /where-to-stay/villas-explained
+ * being the two that used to sit on top of this list instead.
+ *
+ * No collision with the property pages under the same prefix either. Every stay
+ * slug ends in -{hotelId}, and no type slug does.
+ */
+export async function getStaticPaths() {
+  const types = await typePagesToGenerate();
+  const writtenUp = await resolveStayHrefs();
+
+  return types.map((type) => ({
+    params: { type: TYPE_SLUG[type] },
+    props: { type, writtenUp },
+  }));
+}
+
+interface Props {
+  type: StayType;
+  writtenUp: Map<number, string>;
+}
+
+const { type, writtenUp } = Astro.props as Props;
+
+const label = TYPE_LABEL[type];
+const count = countOfType(type);
+const cities = new Set(staysOfType(type).map((row) => row.city));
+
+const crumbs = [
+  { label: 'Home', href: '/' },
+  { label: 'Where to stay', href: '/where-to-stay' },
+  { label, href: typePath(type) },
+];
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: `${label} around Moganshan`,
+  description: `${count} ${label.toLowerCase()} bookable around Moganshan, across ${[...cities].join(' and ')}.`,
+  url: new URL(typePath(type), Astro.site).href,
+  inLanguage: 'en',
+  breadcrumb: {
+    '@type': 'BreadcrumbList',
+    itemListElement: crumbs.map((crumb, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      name: crumb.label,
+      item: new URL(crumb.href, Astro.site).href.replace(/(?<!\/)\/$/, ''),
+    })),
+  },
+};
+---
+
+<Layout
+  title={`Moganshan ${label.toLowerCase()}: all ${count} · Visit Moganshan`}
+  description={`Every one of the ${count} ${label.toLowerCase()} bookable around Moganshan, named and linked, with live rates. Nothing ranked, nothing promoted.`}
+>
+  <Fragment slot="head">
+    <meta name="robots" content="index, follow, max-image-preview:large" />
+    <Fragment set:html={`<script type="application/ld+json">${JSON.stringify(jsonLd)}</script>`} />
+  </Fragment>
+
+  <SiteHeader />
+  <Breadcrumbs crumbs={crumbs} />
+
+  <main id="main">
+    <div class="vm-container">
+      <StayTypeList type={type} writtenUp={writtenUp} />
+    </div>
+  </main>
+
+  <SiteFooter />
+</Layout>

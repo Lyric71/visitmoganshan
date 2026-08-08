@@ -1,0 +1,77 @@
+{
+  "id": 94025351,
+  "name": "La Petronilla Boutique Hotel Moganshan",
+  "seedName": "La Petronilla Boutique Hotel Moganshan",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-94025351",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=94025351&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-94025351&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service Quality:Staff are very helpful, friendly and attentive, and some speak English.(based on 20 reviews) Facilities:Equipped with swimming pool, sauna, coffee machine, outdoor swimming pool, etc., and towels are provided.(based on 11 reviews) Food:Delicious fusion of Chinese and Western cuisine, including authentic Italian food and delicious Chinese handmade dumplings",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service Quality",
+        "text": "Staff are very helpful, friendly and attentive, and some speak English.",
+        "count": 20
+      },
+      {
+        "topic": "Facilities",
+        "text": "Equipped with swimming pool, sauna, coffee machine, outdoor swimming pool, etc., and towels are provided.",
+        "count": 11
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 79, Xiwuli, Houwu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$113",
+  "facilities": [
+    "Bar",
+    "Restaurant",
+    "Cafe"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/94025351/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5k12000oycp0n42BDD.jpg"
+    },
+    {
+      "src": "/images/stays/94025351/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6s12000oybse0e9727.webp"
+    },
+    {
+      "src": "/images/stays/94025351/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2w12000oybmop3DE23.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "This restaurant and hotel is a great quick retreat from city life. The restaurant has both Italian and Chinese food with great choices of red wine. The beds are comfortable and this hotel is dog friendly so you can take...",
+      "author": "大龙哥Joey",
+      "date": "2026-06-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=94025351&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-94025351&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Run by an Italian owner, the ambiance is fantastic and the Italian-style food comes highly recommended. There's a bonfire in the evenings, and the kids absolutely loved the pool. It's a great spot for a weekend getaway.",
+      "author": "Guest User",
+      "date": "2026-06-04",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=94025351&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-94025351&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Amazing boutique hotel for a short or long break from Shanghai. The location is great, very green and you can see the mountains surrounding. The service in the hotel is top, you feel very welcome and warm. All our requests...",
+      "author": "Guest User",
+      "date": "2026-05-18",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=94025351&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-94025351&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 48,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:31:12.459Z",
+  "source": "trip"
+}

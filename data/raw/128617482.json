@@ -1,0 +1,75 @@
+{
+  "id": 128617482,
+  "name": "Cipo yu jie liang shi",
+  "seedName": "Cipo yu jie liang shi",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-128617482",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=128617482&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-128617482&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service Quality:The service is frequently praised for being attentive and personalized, with staff members like housekeepers providing warm and responsive assistance. The hotel is noted for its pet-friendly approach and accommodating guest needs promptly.(based on 165 reviews) Room Comfort and Design:Rooms are described as spacious, clean, and stylishly designed, with a focus on comfort. The décor includes high-quality amenities such as Dyson hairdryers and Le Labo products, creating a luxurious yet homely atmosphere.(based on 157 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service Quality",
+        "text": "The service is frequently praised for being attentive and personalized, with staff members like housekeepers providing warm and responsive assistance. The hotel is noted for its pet-friendly approach and accommodating guest needs promptly.",
+        "count": 165
+      },
+      {
+        "topic": "Room Comfort and Design",
+        "text": "Rooms are described as spacious, clean, and stylishly designed, with a focus on comfort. The décor includes high-quality amenities such as Dyson hairdryers and Le Labo products, creating a luxurious yet homely atmosphere.",
+        "count": 157
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 3 Moganyu Street, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$222",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/128617482/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6n12000kwcug8rD300.jpg"
+    },
+    {
+      "src": "/images/stays/128617482/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4712000kwaf5vb653F.webp"
+    },
+    {
+      "src": "/images/stays/128617482/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4x12000kv81sl34776.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Came to Yucun for a family vacation and booked The Westin Yucun based on the large beds, and it was a delightful surprise! It has an old money aesthetic, and the ground floor is a lifestyle concept store, offering a...",
+      "author": "Guest User",
+      "date": "2026-07-06",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=128617482&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-128617482&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The hotel room is spacious, perfect for a trip with friends. The location is also excellent, with restaurants right downstairs. The decor is very stylish, and the butler service is attentive. It's a great spot to relax on a weekend....",
+      "author": "Guest User",
+      "date": "2026-07-05",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=128617482&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-128617482&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room has a great design and is very spacious. The breakfast is rich and the noodles are delicious. The service is also very comfortable. Xiao Jie, Xiao Han, and Li Zi are all very friendly. They greet you warmly...",
+      "author": "Shishenhaiyuma_",
+      "date": "2026-07-04",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=128617482&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-128617482&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 211,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:48:26.120Z",
+  "source": "trip"
+}

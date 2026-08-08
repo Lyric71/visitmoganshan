@@ -1,0 +1,73 @@
+{
+  "id": 123821328,
+  "name": "源宿·莫干YOSU旷野·无边泳池温泉设计师花园",
+  "seedName": "源宿·莫干YOSU旷野·无边泳池温泉设计师花园",
+  "city": "Huzhou",
+  "cityId": 86,
+  "goSlug": "moganshan-123821328",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=123821328&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-123821328&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness:Rooms and bathrooms are consistently described as spotless, with meticulous attention to hygiene. High-quality bedding and comprehensive toiletries contribute to a hotel-like experience, meeting or exceeding expectations of five-star standards.(based on 25 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms and bathrooms are consistently described as spotless, with meticulous attention to hygiene. High-quality bedding and comprehensive toiletries contribute to a hotel-like experience, meeting or exceeding expectations of five-star standards.",
+        "count": 25
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 39, Tangzi, Fangshan Village, Daixi Town, Wuxing District, Huzhou, Zhejiang, China",
+  "priceRange": "From US$100",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/123821328/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0812000ll5dm39F0E2.jpg"
+    },
+    {
+      "src": "/images/stays/123821328/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1x12000g5c6pi30FC0.webp"
+    },
+    {
+      "src": "/images/stays/123821328/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1i12000g5akru5AA68.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Lovely stay with friendly owners. They welcomed us with open arms and accepted our dog, no questions asked. The rooms were clean and spacious.",
+      "author": "Guest User",
+      "date": "2025-11-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=123821328&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-123821328&trip_sub3=D19127628"
+    },
+    {
+      "quote": "This guesthouse is fantastic! There are lots of activities in the evenings, including free karaoke, billiards, ping pong, mahjong, and even game consoles. The rooms are also very clean, and the balcony is surrounded by greenery.",
+      "author": "Anonymous User",
+      "date": "2025-10-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=123821328&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-123821328&trip_sub3=D19127628"
+    },
+    {
+      "quote": "This is my first negative review after using Ctrip for over 10 years. It was my first time taking my dog ​​to a B&B in Moganshan. After reading numerous reviews, I carefully selected this new B&B with a pleasant environment...",
+      "author": "tinopp",
+      "date": "2025-08-18",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=123821328&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-123821328&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 48,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:33:51.490Z",
+  "source": "trip"
+}

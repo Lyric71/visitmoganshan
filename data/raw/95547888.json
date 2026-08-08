@@ -1,0 +1,88 @@
+{
+  "id": 95547888,
+  "name": "Moganshan YANGSEN · Oxygen Forest Summer Slide Pool Vacation Homestay",
+  "seedName": "Moganshan YANGSEN · Oxygen Forest Summer Slide Pool Vacation Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-95547888",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=95547888&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-95547888&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:Many reviews mention that the environment is good, with some stating it's clean and close to attractions like Moganshan. It is located in a pleasant area.(based on 7 reviews) Room:Rooms are spacious and clean. Some have features like large terraces, big TVs, and smart facilities such as smart toilets and small degrees.(based on 29 reviews) Service:The owner is very enthusiastic, introducing surrounding places to play and providing warm service. For instance, the owner greets guests in person and is responsive to guests' needs.(based on 21 reviews) Dining:The meals in the homestay are delicious. Some reviews mention that the home-cooked dishes are authentic and meet guests' taste preferences. Swimming Pool:There is a swimming pool, which is liked by children. Some guests mentioned that the pool is well-maintained and suitable for playing.(based on 11 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Many reviews mention that the environment is good, with some stating it's clean and close to attractions like Moganshan. It is located in a pleasant area.",
+        "count": 7
+      },
+      {
+        "topic": "Room",
+        "text": "Rooms are spacious and clean. Some have features like large terraces, big TVs, and smart facilities such as smart toilets and small degrees.",
+        "count": 29
+      },
+      {
+        "topic": "Service",
+        "text": "The owner is very enthusiastic, introducing surrounding places to play and providing warm service. For instance, the owner greets guests in person and is responsive to guests' needs.",
+        "count": 21
+      },
+      {
+        "topic": "Dining",
+        "text": "The meals in the homestay are delicious. Some reviews mention that the home-cooked dishes are authentic and meet guests' taste preferences. Swimming Pool:There is a swimming pool, which is liked by children. Some guests mentioned that the pool is well-maintained and suitable for playing.",
+        "count": 11
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 32, Lijiatan, Xie Village, Fotang Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$69",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant",
+    "Kids' club"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/95547888/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5612000o0duij621DC.jpg"
+    },
+    {
+      "src": "/images/stays/95547888/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205a120009wwkduz2A3C.webp"
+    },
+    {
+      "src": "/images/stays/95547888/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201i120009lgofmw4527.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The house was spacious and clean, with a huge terrace and a small soaking tub, though we didn't use it this time; it's more suitable for toddlers of two or three years old to play in. The landlady was very...",
+      "author": "Guest User",
+      "date": "2025-10-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=95547888&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-95547888&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room had a great view, directly facing the mountains – absolutely stunning. The food in the owner's kitchen was even better than the popular restaurants in town – fresh, affordable, and delicious! Highly recommended!!! The owner was also very...",
+      "author": "Guest User",
+      "date": "2025-08-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=95547888&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-95547888&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The owner was very gentle, and the rooms were very clean. We brought a child, and they even gave us a small water gun and fishing net, which the child loved. We also ate two meals here, and my family...",
+      "author": "Zero&J",
+      "date": "2025-08-13",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=95547888&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-95547888&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 47,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:26:23.869Z",
+  "source": "trip"
+}

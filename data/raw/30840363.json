@@ -1,0 +1,73 @@
+{
+  "id": 30840363,
+  "name": "Edinburgh Holiday Hotel",
+  "seedName": "Edinburgh Holiday Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-30840363",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=30840363&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-30840363&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Hygiene & Cleanliness:The hotel maintains high cleanliness standards, with clean rooms, fresh scents (e.g., lavender), and well-maintained common areas. The environment is regularly praised for being sanitary and welcoming, even during the pandemic.(based on 30 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness",
+        "text": "The hotel maintains high cleanliness standards, with clean rooms, fresh scents (e.g., lavender), and well-maintained common areas. The environment is regularly praised for being sanitary and welcoming, even during the pandemic.",
+        "count": 30
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Entrance of Houwu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$115",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/30840363/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200m1g000001hazd7157B.jpg"
+    },
+    {
+      "src": "/images/stays/30840363/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201u120008guv9yiF0E2.webp"
+    },
+    {
+      "src": "/images/stays/30840363/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/020011200081spqszEC2A.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "It is very suitable for children or friends to have a small gathering. You can do morning exercises in the morning, take your children to dig bamboo shoots in the afternoon, breathe fresh air, and have a cup of coffee...",
+      "author": "Guest User",
+      "date": "2025-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=30840363&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-30840363&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Very satisfied with the service attitude! Digged a lot of bamboo shoots! First time in my life! I ate three meals at the recommended Lao Fang's! Hahaha!",
+      "author": "Guest User",
+      "date": "2025-04-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=30840363&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-30840363&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The hotel is relatively clean. The breakfast is average, with porridge and frozen buns. The room decoration style feels a bit like home. Exquisite welcome fruit: a plate of watermelon is given. I have been to Moganshan many times and...",
+      "author": "Guest User",
+      "date": "2024-08-13",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=30840363&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-30840363&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 57,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:12:44.665Z",
+  "source": "trip"
+}

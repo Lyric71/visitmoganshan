@@ -1,0 +1,75 @@
+{
+  "id": 130664305,
+  "name": "moganshan zhouyou yuju minsu",
+  "seedName": "moganshan zhouyou yuju minsu",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-130664305",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=130664305&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-130664305&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Facilities:There is a swimming pool with clear water(based on 6 reviews) Service:The boss enthusiastically introduced the surrounding interesting places, the landlord's service is thoughtful, and breakfast is reserved no matter how late(based on 4 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Facilities",
+        "text": "There is a swimming pool with clear water",
+        "count": 6
+      },
+      {
+        "topic": "Service",
+        "text": "The boss enthusiastically introduced the surrounding interesting places, the landlord's service is thoughtful, and breakfast is reserved no matter how late",
+        "count": 4
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 24, Mogaowu, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$49",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/130664305/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200212000mfodv1311D4.jpg"
+    },
+    {
+      "src": "/images/stays/130664305/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6i12000mis3ncj60C1.webp"
+    },
+    {
+      "src": "/images/stays/130664305/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3d12000mirsl7xBE9C.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Had a great stay at this B&B . The place was clean, comfortable, and as described. Communication with the host was smooth and everything went well—overall a satisfying experience.",
+      "author": "Guest User",
+      "date": "2026-04-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=130664305&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-130664305&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Poor service! Poor management! Inadequate facilities! We asked for our room card before we even checked out. When we tried to check our luggage, we waited for ages and no one was there. We waited in vain, and then our...",
+      "author": "Guest User",
+      "date": "2025-08-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=130664305&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-130664305&trip_sub3=D19127628"
+    },
+    {
+      "quote": "在上山的路上，很適合要爬山的人羣 到店升級了浴缸房，採光特別好，很寬敞，衞生間非常乾淨，潔癖人感到很滿意 早餐跟前台姐姐選吃的會幫忙煮，一樓的沙發看起來也蠻舒服的不過書是道具書不能看",
+      "author": "Guest User",
+      "date": "2026-04-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=130664305&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-130664305&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 37,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:48:14.271Z",
+  "source": "trip"
+}

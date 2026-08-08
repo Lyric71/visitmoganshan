@@ -1,0 +1,76 @@
+{
+  "id": 1923527,
+  "name": "Moganshan Mountain Cat Inn",
+  "seedName": "Moganshan Mountain Cat Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1923527",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1923527&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1923527&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Accommodation Quality:Rooms are noted for their cleanliness, comfort, and thoughtful design, with amenities like air conditioning, free Wi-Fi, and well-maintained bedding. The layout and decor contribute to a cozy, home-like environment, ideal for unwinding.(based on 47 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Accommodation Quality",
+        "text": "Rooms are noted for their cleanliness, comfort, and thoughtful design, with amenities like air conditioning, free Wi-Fi, and well-maintained bedding. The layout and decor contribute to a cozy, home-like environment, ideal for unwinding.",
+        "count": 47
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 41, Lujiaqiao, Houwu Village, Fatou Township, Deqing, Zhejiang, 313219, China",
+  "priceRange": "From US$91",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Hot springs",
+    "Bar",
+    "Restaurant",
+    "Cafe",
+    "Conference room",
+    "Multi-function room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1923527/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4r12000bff6ed60FB0.jpg"
+    },
+    {
+      "src": "/images/stays/1923527/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2b12000t95m3y50477.webp"
+    },
+    {
+      "src": "/images/stays/1923527/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02029120008dxp43kC485.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The guesthouse I stayed at this time was absolutely amazing! The environment was fantastic, nestled deep in the mountains. Opening the window revealed lush bamboo forests, and a clear stream flowed in front of the courtyard where the children played...",
+      "author": "Guest User",
+      "date": "2025-07-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1923527&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1923527&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I was quite satisfied with my stay. The environment was nice, the room was spacious, and the bedding was clean and tidy. Soaking in the hot spring was especially comfortable. I would recommend it.",
+      "author": "Anonymous User",
+      "date": "2024-11-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1923527&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1923527&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The environment was elegant and tranquil, the room was comfortable and cozy, and I had a very relaxing rest. The service was attentive, and the price was reasonable. I recommend it to everyone.",
+      "author": "Guest User",
+      "date": "2024-10-30",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1923527&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1923527&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 63,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:57:48.589Z",
+  "source": "trip"
+}

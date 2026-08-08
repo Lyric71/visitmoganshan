@@ -1,0 +1,96 @@
+{
+  "id": 5451635,
+  "name": "Jushe village Meisu Inn",
+  "seedName": "Jushe village Meisu Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5451635",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5451635&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5451635&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Centrally located near Moganshan scenic area, easy access via Didi from Deqing Town, convenient parking.(based on 1 review) Design:Unique wooden structure with a rustic, homey atmosphere; retro decor with natural elements . Facilities:Includes a music bar, swimming pool, chess/card room, and a small tavern; some rooms feature balconies.(based on 1 review) Service:Hosts are generally friendly and helpful, offering recommendations , assistance with bookings, and a welcoming atmosphere.(based on 11 reviews) Cleanliness:Multiple reviews noted clean rooms and bathrooms, though some mentioned minor issues .(based on 6 reviews) Activities:Suitable for relaxation, tea-drinking, and socializing; proximity to rafting sites and local farms.(based on 7 reviews) Guest Suggestion:Some customers suggest improving service responsiveness and addressing hygiene issues .(based on 5 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Centrally located near Moganshan scenic area, easy access via Didi from Deqing Town, convenient parking.",
+        "count": 1
+      },
+      {
+        "topic": "Design",
+        "text": "Unique wooden structure with a rustic, homey atmosphere; retro decor with natural elements . Facilities:Includes a music bar, swimming pool, chess/card room, and a small tavern; some rooms feature balconies.",
+        "count": 1
+      },
+      {
+        "topic": "Service",
+        "text": "Hosts are generally friendly and helpful, offering recommendations , assistance with bookings, and a welcoming atmosphere.",
+        "count": 11
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Multiple reviews noted clean rooms and bathrooms, though some mentioned minor issues .",
+        "count": 6
+      },
+      {
+        "topic": "Activities",
+        "text": "Suitable for relaxation, tea-drinking, and socializing; proximity to rafting sites and local farms.",
+        "count": 7
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving service responsiveness and addressing hygiene issues .",
+      "count": 5
+    }
+  },
+  "address": "No. 49, Lingjiaoxia, Houwu Village, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$43",
+  "facilities": [
+    "Bar",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5451635/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02040120008roud1fB675.jpg"
+    },
+    {
+      "src": "/images/stays/5451635/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205a120008rov60jA775.webp"
+    },
+    {
+      "src": "/images/stays/5451635/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205a120008rourysAEF0.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Unique experience, warm hospitality. There was no dinner in house but plenty of restaurants nearby",
+      "author": "Guest User",
+      "date": "2026-05-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5451635&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5451635&trip_sub3=D19127628"
+    },
+    {
+      "quote": "This hotel is located in a good location, easy to get to by Didi from Deqing town. Has a very homey feeling to it plus the decoration. Distribution centre to Moganshan scenic area is also not too far away.",
+      "author": "Alex the wanderer",
+      "date": "2024-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5451635&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5451635&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The toilet and bathroom are all in the room, which is the most unacceptable to me. The hygiene is also very bad. Every time I look for the boss, I can't find him. The breakfast portion is also pitiful and...",
+      "author": "Guest User",
+      "date": "2024-07-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5451635&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5451635&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.2,
+    "count": 47,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:37:09.632Z",
+  "source": "trip"
+}

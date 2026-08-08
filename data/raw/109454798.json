@@ -1,0 +1,88 @@
+{
+  "id": 109454798,
+  "name": "Moganshan High Mountain Forest Adventure Park · Xuan Yong Shilily Hotel",
+  "seedName": "Moganshan High Mountain Forest Adventure Park · Xuan Yong Shilily Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-109454798",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=109454798&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-109454798&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service Quality:The hotel provides exceptional service, with attentive and friendly staff who are responsive to guests' needs. The presence of dedicated butlers enhances the overall experience, ensuring timely assistance and personalized care throughout the stay.(based on 164 reviews) Comfort:The rooms are described as spacious and comfortable, with amenities that enhance relaxation. Features like soft bedding and scenic views from the windows contribute to a restful and enjoyable stay.(based on 121 reviews) Cleanliness:Overall, guests find the hotel environment to be clean and well-kept, although some reviews suggest that certain areas could benefit from more meticulous cleaning.(based on 108 reviews) Guest Suggestion:Some customers suggest improving the cleanliness of the rooms and reducing front desk service confusion, while noting the small size of the infinity pool.(based on 6 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service Quality",
+        "text": "The hotel provides exceptional service, with attentive and friendly staff who are responsive to guests' needs. The presence of dedicated butlers enhances the overall experience, ensuring timely assistance and personalized care throughout the stay.",
+        "count": 164
+      },
+      {
+        "topic": "Comfort",
+        "text": "The rooms are described as spacious and comfortable, with amenities that enhance relaxation. Features like soft bedding and scenic views from the windows contribute to a restful and enjoyable stay.",
+        "count": 121
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Overall, guests find the hotel environment to be clean and well-kept, although some reviews suggest that certain areas could benefit from more meticulous cleaning.",
+        "count": 108
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving the cleanliness of the rooms and reducing front desk service confusion, while noting the small size of the infinity pool.",
+      "count": 6
+    }
+  },
+  "address": "Lake Louise, Wusi Village, Moganshan, Deqing, Zhejiang, China",
+  "priceRange": "From US$156",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Bar",
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/109454798/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0812000c25vigp13A1.jpg"
+    },
+    {
+      "src": "/images/stays/109454798/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0l12000dg7bicsA330.webp"
+    },
+    {
+      "src": "/images/stays/109454798/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6v12000f2nt0sy16DE.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Our stay at Moganshan Sky Pool Resort exceeded our expectations. Our dedicated butler was incredibly warm and attentive, anticipating our needs and handling any issues patiently and efficiently. Their detailed and thoughtful service was truly impressive. The famous Sky Pool...",
+      "author": "Guest User",
+      "date": "2026-07-29",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=109454798&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-109454798&trip_sub3=D19127628"
+    },
+    {
+      "quote": "A brilliant customer service experience! The room was clean and up to date. hotel amenities were enjoyed by all the family.",
+      "author": "Guest User",
+      "date": "2025-10-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=109454798&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-109454798&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Our stay at Moganshan Sky Pool Resort exceeded our expectations. Our dedicated butler was incredibly warm and attentive, anticipating our needs and handling any issues patiently and efficiently. Their detailed and thoughtful service was truly impressive. The famous Sky Pool...",
+      "author": "Guest User",
+      "date": "2026-07-29",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=109454798&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-109454798&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.9,
+    "count": 244,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:34:15.460Z",
+  "source": "trip"
+}

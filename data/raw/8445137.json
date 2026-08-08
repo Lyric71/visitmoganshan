@@ -1,0 +1,87 @@
+{
+  "id": 8445137,
+  "name": "LOSTVILLA(Moganshan Yucun)",
+  "seedName": "LOSTVILLA(Moganshan Yucun)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-8445137",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8445137&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8445137&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Convenient, often near places like Yucun Square(based on 130 reviews) Service:Staff are attentive, housekeepers respond promptly and are helpful(based on 504 reviews) Environment:Beautiful, suitable for taking photos, with a pleasant atmosphere Activities:Arranges many interesting activities Breakfast:Rich in variety and good in taste(based on 94 reviews) Guest Suggestion:Some customers suggest small rooms, hygiene problems, broken facilities, poor sound insulation, and subpar service(based on 7 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Convenient, often near places like Yucun Square",
+        "count": 130
+      },
+      {
+        "topic": "Service",
+        "text": "Staff are attentive, housekeepers respond promptly and are helpful",
+        "count": 504
+      },
+      {
+        "topic": "Environment",
+        "text": "Beautiful, suitable for taking photos, with a pleasant atmosphere Activities:Arranges many interesting activities Breakfast:Rich in variety and good in taste",
+        "count": 94
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest small rooms, hygiene problems, broken facilities, poor sound insulation, and subpar service",
+      "count": 7
+    }
+  },
+  "address": "No. 85 Huangfu West Road, Deqing, Zhejiang, China",
+  "priceRange": "From US$162",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Cafe",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/8445137/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5m12000iscpcjz772D.jpg"
+    },
+    {
+      "src": "/images/stays/8445137/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3h12000ksuajlc2DDA.webp"
+    },
+    {
+      "src": "/images/stays/8445137/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200k0j000000a9xs61E65.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The service at Dalazioye was excellent, and the location was fantastic too! The bedding deserves special praise. My only minor complaint is that it's a bit old, but considering how many years it's been around, that's totally understandable.",
+      "author": "Doreen",
+      "date": "2026-07-27",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8445137&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8445137&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Service: The service was incredibly attentive, and all the staff were super friendly, greeting me every time I came and went. Cleanliness: Very clean. Ambiance: The moment I stepped into the hotel, I felt very comfortable. The front desk area...",
+      "author": "Anonymous User",
+      "date": "2026-06-20",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8445137&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8445137&trip_sub3=D19127628"
+    },
+    {
+      "quote": "This is my fourth time choosing Lost Villa! It's conveniently located right next to Yucun Square. The room features large, floor-to-ceiling windows with lush green views, giving you that 'living in the mountains' feeling. The service was thoughtful; they even...",
+      "author": "Guest User",
+      "date": "2026-06-06",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8445137&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8445137&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 679,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:59:10.493Z",
+  "source": "trip"
+}

@@ -1,0 +1,67 @@
+{
+  "id": 90186428,
+  "name": "Deqing, Mogan Mountain, Mo see Rainbow Homestay",
+  "seedName": "Deqing, Mogan Mountain, Mo see Rainbow Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-90186428",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=90186428&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-90186428&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Deqing, Mogan Mountain, Mo see Rainbow Homestay?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 28, Majiashan, Sanqiao Village, Fuxi Subdistrict, Deqing, Zhejiang, China",
+  "priceRange": "From US$85",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/90186428/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc7312000h9lm2mvC165.jpg"
+    },
+    {
+      "src": "/images/stays/90186428/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5812000slzyjld2070.webp"
+    },
+    {
+      "src": "/images/stays/90186428/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6012000ecma6zx0F00.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The B&B is warmly decorated, the rooms are clean and spacious, and the bedding is comfortable and I slept soundly. The hostess is very nice and welcoming, the breakfast is rich and delicious, and the location is convenient. Although it...",
+      "author": "Yiyi(*^_^*)",
+      "date": "2025-08-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=90186428&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-90186428&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Let me summarize first: the boss is very warm and generous, and the lady boss is also very beautiful and nice! I participated in the 2024 Moganshan Mountain Running Race held on October 26. I was very confused when booking...",
+      "author": "Guest User",
+      "date": "2024-10-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=90186428&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-90186428&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Had a great time at this B&B. The rooms are spacious and bright, with complete facilities and high quality. The surrounding scenery is picturesque and you can enjoy the scenery without leaving home. The service is attentive and thoughtful, making...",
+      "author": "Anonymous User",
+      "date": "2024-07-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=90186428&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-90186428&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 56,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:09:25.352Z",
+  "source": "trip"
+}

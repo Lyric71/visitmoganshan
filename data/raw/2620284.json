@@ -1,0 +1,71 @@
+{
+  "id": 2620284,
+  "name": "Suxin Xiaozhu Inn",
+  "seedName": "Suxin Xiaozhu Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2620284",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2620284&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2620284&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Hygiene:The rooms are maintained to high standards of cleanliness, with no overlooked areas and a fresh, natural scent. Regular cleaning and attention to detail ensure a comfortable and hygienic stay, contributing to an overall positive guest experience.(based on 21 reviews) Pet-Friendliness:The hotel is accommodating to guests with pets, allowing them to enjoy the natural surroundings with their companions. This feature makes it a suitable choice for families or individuals traveling with animals.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Hygiene",
+        "text": "The rooms are maintained to high standards of cleanliness, with no overlooked areas and a fresh, natural scent. Regular cleaning and attention to detail ensure a comfortable and hygienic stay, contributing to an overall positive guest experience.",
+        "count": 21
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 35 Geling, Fotang Village, Fatou Township, Deqing, Zhejiang, China",
+  "priceRange": "From US$43",
+  "facilities": [
+    "Restaurant",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/2620284/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200s120009m50kopB950.jpg"
+    },
+    {
+      "src": "/images/stays/2620284/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0224e1200089zg9y128B4.webp"
+    },
+    {
+      "src": "/images/stays/2620284/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200u120004ejsc2vE48E.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Beautiful and very peaceful and quiet environment, The owner is very gentle and attentive to the guests. Recommended!",
+      "author": "Guest User",
+      "date": "2025-08-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2620284&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2620284&trip_sub3=D19127628"
+    },
+    {
+      "quote": "We had an amazing time here, highly recommend! The hotel is nestled in the bamboo trees away from the busier village across the road. The host was so attentive and kind, helping us find hiking paths and even accommodating a...",
+      "author": "Guest User",
+      "date": "2024-08-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2620284&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2620284&trip_sub3=D19127628"
+    },
+    {
+      "quote": "We stayed in Mogan Mountain for one day and chose this place on the second day. Since our group is keen on digging bamboo shoots and don't like to visit scenic spots, it seems right to come here. On the...",
+      "author": "Guest User",
+      "date": "2024-04-12",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2620284&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2620284&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 85,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:08:35.197Z",
+  "source": "trip"
+}

@@ -1,0 +1,76 @@
+{
+  "id": 108539029,
+  "name": "Refuge Moganshan",
+  "seedName": "Refuge Moganshan",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-108539029",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=108539029&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-108539029&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service:Staff are enthusiastic and responsive. They promptly address needs, and some even provide upgrades and considerate services like pre-heating rooms and helping with luggage.(based on 69 reviews) Guest Suggestion:Some customers suggest improving breakfast quality, enhancing service staff responsiveness, and addressing restroom maintenance issues.(based on 4 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service",
+        "text": "Staff are enthusiastic and responsive. They promptly address needs, and some even provide upgrades and considerate services like pre-heating rooms and helping with luggage.",
+        "count": 69
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving breakfast quality, enhancing service staff responsiveness, and addressing restroom maintenance issues.",
+      "count": 4
+    }
+  },
+  "address": "Yangjiatian, Nanlu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$70",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Bar",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/108539029/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0r12000c602cg9C7C9.jpg"
+    },
+    {
+      "src": "/images/stays/108539029/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0584912000ssxgzul5B91.webp"
+    },
+    {
+      "src": "/images/stays/108539029/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1j12000bli271bC5CF.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "We had an amazing stay at Refuge Mountain. The tent was spacious enough, very comfortable with AC and electric blanket inside. The bathroom and shower was clean. We got a taxi there and back and it was quiet easy, but...",
+      "author": "Lana_adventures",
+      "date": "2026-05-13",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=108539029&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-108539029&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Xiaolu and Xiaofu, the scenery is great! However, the weather at night really affected sleep in the tent. It would be nice if there were more activities at the campsite.",
+      "author": "Anonymous User",
+      "date": "2026-05-11",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=108539029&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-108539029&trip_sub3=D19127628"
+    },
+    {
+      "quote": "We stayed in the tents on the flat ground. The tents were quite close together and right by the road, so it was a bit noisy with people walking by. At night, there was laughter from young people, and in...",
+      "author": "Guest User",
+      "date": "2026-05-07",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=108539029&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-108539029&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 191,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:04:32.864Z",
+  "source": "trip"
+}

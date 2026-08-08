@@ -1,0 +1,106 @@
+{
+  "id": 76116514,
+  "name": "Yuanshan Xingkong Guesthouse",
+  "seedName": "Yuanshan Xingkong Guesthouse",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-76116514",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=76116514&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-76116514&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment Location:Located in a beautiful area near Yucun Resort, some rooms offer mountain or bamboo views(based on 28 reviews) Facilities:Equipped with entertainment facilities like billiards and table tennis, and thoughtful items(based on 62 reviews) Hygiene:Rooms are cleaned neatly(based on 87 reviews) Service:Front desk or housekeeper service is enthusiastic(based on 97 reviews) Breakfast:Breakfast is rich(based on 22 reviews) Landscape:There is an infinity pool on the top floor(based on 62 reviews) Guest Suggestion:Some customers suggest there are many bugs in the room, no hot water for bathing, and transportation facilities are inconvenient along with expensive food(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment Location",
+        "text": "Located in a beautiful area near Yucun Resort, some rooms offer mountain or bamboo views",
+        "count": 28
+      },
+      {
+        "topic": "Facilities",
+        "text": "Equipped with entertainment facilities like billiards and table tennis, and thoughtful items",
+        "count": 62
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Rooms are cleaned neatly",
+        "count": 87
+      },
+      {
+        "topic": "Service",
+        "text": "Front desk or housekeeper service is enthusiastic",
+        "count": 97
+      },
+      {
+        "topic": "Breakfast",
+        "text": "Breakfast is rich",
+        "count": 22
+      },
+      {
+        "topic": "Landscape",
+        "text": "There is an infinity pool on the top floor",
+        "count": 62
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest there are many bugs in the room, no hot water for bathing, and transportation facilities are inconvenient along with expensive food",
+      "count": 2
+    }
+  },
+  "address": "No. 31, Wai Village, Ziling Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$70",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Bar",
+    "Billiards room",
+    "Table tennis room",
+    "2 Restaurants",
+    "Conference room",
+    "Playground",
+    "Kids' club"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/76116514/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1d12000ari7g1dFAC9.jpg"
+    },
+    {
+      "src": "/images/stays/76116514/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1d12000ari7g1dFAC9.webp"
+    },
+    {
+      "src": "/images/stays/76116514/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02040120008nkme2d870D.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "My stay here was fantastic! The location is great, really close to Yicun Resort, making it super convenient to get around. The room was spotless, and the bedding was soft and comfortable, so I slept incredibly well. The front desk...",
+      "author": "Guest User",
+      "date": "2026-07-03",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=76116514&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-76116514&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The service started the moment I placed the order; they even sent real-time videos to confirm my satisfaction. I had a very comfortable sleep, and the breakfast the next morning was plentiful.",
+      "author": "Guest User",
+      "date": "2026-05-24",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=76116514&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-76116514&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Located in a beautiful area with lovely views from the room. The owners were very helpful and friendly and we enjoyed our stay, we just wish we'd been able to stay longer but if we return to the area in...",
+      "author": "Guest User",
+      "date": "2024-01-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=76116514&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-76116514&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 189,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:48:49.169Z",
+  "source": "trip"
+}

@@ -1,0 +1,76 @@
+{
+  "id": 6085988,
+  "name": "Moganshan Yuntu Garden Homestay",
+  "seedName": "Moganshan Yuntu Garden Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-6085988",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6085988&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6085988&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Staff and Owner Hospitality:The owner and staff are noted for their friendly, attentive service, offering personalized recommendations, assistance with luggage, and engaging with guests. Their warmth and willingness to accommodate requests contribute to a welcoming atmosphere.(based on 28 reviews) Guest Suggestion:Some customers suggest rooms are cramped with poorly decorated bathrooms, including missing tiles and inadequate space for shower, toilet, and sink areas.(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Staff and Owner Hospitality",
+        "text": "The owner and staff are noted for their friendly, attentive service, offering personalized recommendations, assistance with luggage, and engaging with guests. Their warmth and willingness to accommodate requests contribute to a welcoming atmosphere.",
+        "count": 28
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest rooms are cramped with poorly decorated bathrooms, including missing tiles and inadequate space for shower, toilet, and sink areas.",
+      "count": 2
+    }
+  },
+  "address": "No. 37, Yangwukeng, Xiantan Village, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$54",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/6085988/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0204h12000812gx9r5AB7.jpg"
+    },
+    {
+      "src": "/images/stays/6085988/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200x12000812lcsrD53D.webp"
+    },
+    {
+      "src": "/images/stays/6085988/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3q12000b5761e008E5.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "A simple place in the mountains. Nice to be there but nothing special. The rooms are basic but okay. The breakfast is good Chinese and they also had a coffee. Overall it’s fine but don’t expect too much. The place...",
+      "author": "Benjamin Sch.",
+      "date": "2025-04-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6085988&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6085988&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Due to Typhoon Bebinca I stayed and extra night and this was the perfect location. ＞Close to nature - just a few steps and you are surrounded by nature. ＞The front desk is open for suggestions and extremely helpful. I...",
+      "author": "Seeking a breakaway",
+      "date": "2024-09-16",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6085988&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6085988&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Great service, clean and big rooms, very nice and helpful hotel owner. Simple and cozy.",
+      "author": "Guest User",
+      "date": "2025-03-25",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6085988&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6085988&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 86,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:18:57.767Z",
+  "source": "trip"
+}

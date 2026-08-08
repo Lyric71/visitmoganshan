@@ -1,0 +1,77 @@
+{
+  "id": 106664751,
+  "name": "Forest Children·Peak View Resort Hotel (Moganshan Scenic Area)",
+  "seedName": "Forest Children·Peak View Resort Hotel (Moganshan Scenic Area)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-106664751",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=106664751&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-106664751&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Forest Children·Peak View Resort Hotel (Moganshan Scenic Area)?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 229 Gangtou Road, Moganshan Scenic Area, Deqing, Zhejiang, China",
+  "priceRange": "From US$152",
+  "facilities": [
+    "Sunbathing area",
+    "2 Outdoor swimming pools",
+    "Hiking",
+    "Tennis court",
+    "Tea room",
+    "Cardroom",
+    "Restaurant",
+    "Cafe",
+    "Karaoke",
+    "Conference room",
+    "Business center",
+    "Children's pool",
+    "Playground",
+    "Kids' club"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/106664751/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0g12000az7udh77C15.jpg"
+    },
+    {
+      "src": "/images/stays/106664751/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2312000c7xo9hw65F8.webp"
+    },
+    {
+      "src": "/images/stays/106664751/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0512000axn7qckA89E.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "服務熱情周到，及早幫報備了車號，很順利開車到達，有停車位。老闆幫升級了房間，位置極佳，早晚看羣山雲海美極了！新開也業酒店，房間舒適，設備完好，裝修有特色，衞生很到位。早餐也很對胃口，總之很值。",
+      "author": "stoneda",
+      "date": "2026-05-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=106664751&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-106664751&trip_sub3=D19127628"
+    },
+    {
+      "quote": "服務不錯，早餐品種有待提高，風景還可以，比較適合帶小朋友。有點像民宿的感覺，房間面積蠻大的，老闆也很熱情",
+      "author": "Guest User",
+      "date": "2026-05-13",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=106664751&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-106664751&trip_sub3=D19127628"
+    },
+    {
+      "quote": "位置絕佳，早餐也不錯，看出老闆很用心，全程指導我們怎麼上山下山，怎麼遊玩兒。窗外的無敵景色附上就能説明一切哈哈，比觀景台的景色還美。",
+      "author": "Guest User",
+      "date": "2026-02-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=106664751&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-106664751&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 97,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:07:42.618Z",
+  "source": "trip"
+}

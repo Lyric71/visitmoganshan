@@ -1,0 +1,87 @@
+{
+  "id": 5816494,
+  "name": "Moganshan Beagle Angel Sanctuary",
+  "seedName": "Moganshan Beagle Angel Sanctuary",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5816494",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5816494&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5816494&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service Quality:Staff are wonderful, helpful, polite and attentive. They replenish breakfast items quickly and provide thoughtful service like helping with travel plans and recommending local food.(based on 46 reviews) Facilities:There are facilities like pool, billiards, table games, KTV and comprehensive facilities that feel safe. The rooms are large and have good layouts.(based on 7 reviews) Hygiene:Rooms are impeccably clean, spotless. Sanitation is generally good with some minor issues but overall clean.(based on 28 reviews) Atmosphere:The ambiance is very comfortable, creating a relaxing and therapeutic environment(based on 46 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service Quality",
+        "text": "Staff are wonderful, helpful, polite and attentive. They replenish breakfast items quickly and provide thoughtful service like helping with travel plans and recommending local food.",
+        "count": 46
+      },
+      {
+        "topic": "Facilities",
+        "text": "There are facilities like pool, billiards, table games, KTV and comprehensive facilities that feel safe. The rooms are large and have good layouts.",
+        "count": 7
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Rooms are impeccably clean, spotless. Sanitation is generally good with some minor issues but overall clean.",
+        "count": 28
+      },
+      {
+        "topic": "Atmosphere",
+        "text": "The ambiance is very comfortable, creating a relaxing and therapeutic environment",
+        "count": 46
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 49, Xiwuli, Houwu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$41",
+  "facilities": [
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5816494/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0204912000rkplhkiD1ED.jpg"
+    },
+    {
+      "src": "/images/stays/5816494/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200d0s000000i7ll747E1.webp"
+    },
+    {
+      "src": "/images/stays/5816494/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20040s000000i829hDD67.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Service: Great service. The mountain environment is beautiful and rustic, and the rooms are quite lovely too.",
+      "author": "Guest User",
+      "date": "2026-08-03",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5816494&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5816494&trip_sub3=D19127628"
+    },
+    {
+      "quote": "A very beautiful place and quiet location. The room itself is nice but bring your own soap. The AC is great and bed is comfy. The owner is beyond friendly and cooks very yummy food. They are very hospitable and...",
+      "author": "Guest User",
+      "date": "2026-05-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5816494&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5816494&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The stay was below average. Owners were nice and welcoming and had an adorable dog and the hotel was in a convenient location. However, the hotel room was in bad shape (especially the bathroom and shower), the pool was empty,...",
+      "author": ".Yusuf.",
+      "date": "2026-04-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5816494&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5816494&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.3,
+    "count": 137,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:22:44.900Z",
+  "source": "trip"
+}

@@ -1,0 +1,72 @@
+{
+  "id": 14077472,
+  "name": "Wonderland Holiday Hotel",
+  "seedName": "Wonderland Holiday Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-14077472",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=14077472&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-14077472&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Hygiene:The accommodation maintains a high standard of cleanliness, featuring heated toilets and meticulously maintained spaces. Regular attention to sanitation ensures a comfortable and health-conscious environment for all visitors.(based on 8 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Hygiene",
+        "text": "The accommodation maintains a high standard of cleanliness, featuring heated toilets and meticulously maintained spaces. Regular attention to sanitation ensures a comfortable and health-conscious environment for all visitors.",
+        "count": 8
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 29, Yangwukeng, Xiantan Village, Deqing, Zhejiang, China",
+  "priceRange": "From US$103",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Billiards room",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/14077472/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0204d12000a0qo8kt4E8E.jpg"
+    },
+    {
+      "src": "/images/stays/14077472/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0586a12000sxneadpAEDF.webp"
+    },
+    {
+      "src": "/images/stays/14077472/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1612000sfw6to1155A.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "It's really good. The boss's cooking is excellent. The environment is also very good.",
+      "author": "Guest User",
+      "date": "2025-01-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=14077472&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-14077472&trip_sub3=D19127628"
+    },
+    {
+      "quote": "As consumption has downgraded, it seems that services have also downgraded. The B&B is in a niche area of ​​Moganshan, near the end of the small road in Xiantan Village. There was no prior contact. When we were almost there,...",
+      "author": "Meiqimingyuexiasi",
+      "date": "2024-11-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=14077472&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-14077472&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Facilities: The hotel facilities are very new. There is a large swimming pool as soon as you enter the yard, which is full of design sense. The living room is large, perfect for playing board games with friends. The restaurant...",
+      "author": "Guest User",
+      "date": "2024-11-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=14077472&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-14077472&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 36,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:45:12.741Z",
+  "source": "trip"
+}

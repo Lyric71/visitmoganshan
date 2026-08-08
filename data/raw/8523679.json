@@ -1,0 +1,94 @@
+{
+  "id": 8523679,
+  "name": "Landison Joykie Resort Moganshan",
+  "seedName": "Landison Joykie Resort Moganshan",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-8523679",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8523679&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8523679&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Room Comfort and Facilities:Rooms are spacious, with many featuring large balconies offering great views. The beds are comfortable, and bathrooms often include large bathtubs. Facilities such as clean linens, smart devices, and complete amenities ensure a pleasant stay.(based on 249 reviews) Service Quality:The staff is frequently praised for their friendliness and efficiency. Check-in and check-out processes are smooth, and service is generally attentive, with responsive assistance to guest needs.(based on 170 reviews) Cleanliness:Rooms and common areas are consistently noted for their cleanliness. Housekeeping maintains high standards, ensuring that rooms are tidy and well-kept throughout the stay.(based on 131 reviews) Value for Money:Many guests find the hotel to offer good value for the price, especially given the facilities and service quality. The overall experience is often described as exceeding expectations compared to similar-priced accommodations.(based on 24 reviews) Guest Suggestion:Some customers suggest improving the cleanliness of the bathrooms, eliminating unpleasant odors in the rooms, and ensuring all recreational facilities are in g",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Room Comfort and Facilities",
+        "text": "Rooms are spacious, with many featuring large balconies offering great views. The beds are comfortable, and bathrooms often include large bathtubs. Facilities such as clean linens, smart devices, and complete amenities ensure a pleasant stay.",
+        "count": 249
+      },
+      {
+        "topic": "Service Quality",
+        "text": "The staff is frequently praised for their friendliness and efficiency. Check-in and check-out processes are smooth, and service is generally attentive, with responsive assistance to guest needs.",
+        "count": 170
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms and common areas are consistently noted for their cleanliness. Housekeeping maintains high standards, ensuring that rooms are tidy and well-kept throughout the stay.",
+        "count": 131
+      },
+      {
+        "topic": "Value for Money",
+        "text": "Many guests find the hotel to offer good value for the price, especially given the facilities and service quality. The overall experience is often described as exceeding expectations compared to similar-priced accommodations.",
+        "count": 24
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 99, He Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$110",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Gym",
+    "Bar",
+    "Billiards room",
+    "Table tennis room",
+    "Cardroom",
+    "Restaurant",
+    "Conference room",
+    "Playground",
+    "Kids' club"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/8523679/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0z12000llkpgd7D700.jpg"
+    },
+    {
+      "src": "/images/stays/8523679/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6812000llkyx2nF952.webp"
+    },
+    {
+      "src": "/images/stays/8523679/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4t12000lll401965ED.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "I booked a mountain-view king room. The room was spacious with a separate wet and dry area. A thoughtful touch was the small round table, perfect for friends to work or play cards. There was also a two-seater sofa, and...",
+      "author": "Guest User",
+      "date": "2026-07-23",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8523679&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8523679&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The hotel is very close to Yaowu Scenic Area, and the hygiene is excellent. They even provided complimentary fruit upon arrival and gave us some snacks when we checked out, which was very thoughtful. We'll definitely choose this hotel again...",
+      "author": "Guest User",
+      "date": "2026-07-23",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8523679&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8523679&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Aside from a few spacious rooms facing the pool, which were lovely, I can't really comment on the others. The first room I was assigned had a strong musty smell. After I requested a change, they kindly moved me to...",
+      "author": "Guest User",
+      "date": "2026-07-26",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8523679&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8523679&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.3,
+    "count": 466,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:25:23.676Z",
+  "source": "trip"
+}

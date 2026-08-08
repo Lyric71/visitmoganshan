@@ -1,0 +1,83 @@
+{
+  "id": 126699567,
+  "name": "MOGAN · Yunpo1923 HOTEL",
+  "seedName": "MOGAN · Yunpo1923 HOTEL",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-126699567",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=126699567&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-126699567&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service:Staff are enthusiastic and responsive, helping with luggage handling and itinerary arrangements, creating a pleasant stay experience.(based on 136 reviews) Hygiene:Rooms are clean and tidy, with meticulous hygiene work, ensuring a comfortable living environment.(based on 136 reviews) Food:Breakfast is rich in varieties, and dinner dishes are delicious and authentic, satisfying taste buds.(based on 36 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service",
+        "text": "Staff are enthusiastic and responsive, helping with luggage handling and itinerary arrangements, creating a pleasant stay experience.",
+        "count": 136
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Rooms are clean and tidy, with meticulous hygiene work, ensuring a comfortable living environment.",
+        "count": 136
+      },
+      {
+        "topic": "Food",
+        "text": "Breakfast is rich in varieties, and dinner dishes are delicious and authentic, satisfying taste buds.",
+        "count": 36
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 69, Moganshan Scenic Area, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$202",
+  "facilities": [
+    "Bar",
+    "Restaurant",
+    "Conference room",
+    "Multi-function room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/126699567/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6n12000kw98cwz9DD0.jpg"
+    },
+    {
+      "src": "/images/stays/126699567/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6t12000jboc0d36E5A.webp"
+    },
+    {
+      "src": "/images/stays/126699567/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3k12000iqy69wf56CF.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The B&B has amazing views! It's so quiet and relaxing. The room comes with a huge bathtub, directly facing the valley. Soaking in the tub while enjoying the night view is incredibly therapeutic for both mind and body. The breakfast,...",
+      "author": "Shansan",
+      "date": "2026-06-03",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=126699567&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-126699567&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I really liked this guesthouse; it has a great vacation vibe. The pool is beautiful, so remember to bring your swimsuit for a dip! Right next to it is a bamboo forest boardwalk, perfect for a short hike. The room...",
+      "author": "Guest User",
+      "date": "2026-06-03",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=126699567&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-126699567&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Moganshan Yunpo 1923 B&B: Living in the Poetic Wilderness I visited Moganshan Yunpo 1923 B&B after hearing great things, and my stay far exceeded my expectations – a definite five-star rating! The B&B is located within the Moganshan scenic area,...",
+      "author": "Guest User",
+      "date": "2026-06-03",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=126699567&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-126699567&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 277,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:01:28.304Z",
+  "source": "trip"
+}

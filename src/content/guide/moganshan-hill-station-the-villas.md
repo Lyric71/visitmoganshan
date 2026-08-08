@@ -38,7 +38,7 @@ The mountain was built in two waves, thirty years apart.
 
 The first group built houses that looked like home. A Scottish doctor built himself a castle. The second group had no reason to copy an American porch, and plenty did not. Our sources do not split the five styles by period, so the division is not tidy on the ground.
 
-Past the material and the styles, the record thins fast. We have no measured detail on wall thickness, roofing, floor plans or quarry sites, and we will not print unchecked figures. TODO: verify construction detail on the ground.
+Past the material and the styles, the record thins fast. We have no measured detail on wall thickness, roofing, floor plans or quarry sites, and we will not print unchecked figures. Not confirmed: construction detail on the ground.
 
 ## Counting the villas, decade by decade
 
@@ -85,7 +85,7 @@ The record names six buildings individually, oldest first, which puts the only f
 | 5 | Baiyun Shanguan | date not in the record | Owned by Huang Fu, a Republican diplomat and former acting premier. Zhou Enlai and Chiang held secret talks here in 1937 | Present use not verified |
 | 6 | The assembly hall | date not in the record | Venue of the 1984 Moganshan Conference of reform economists | Present use not verified |
 
-TODO: verify present use, access and opening hours on the ground.
+Not confirmed: present use, access and opening hours on the ground.
 
 Two more named sights are buildings: the Bai and Yun Art Museum and the state-owned Moganshan Hotel.
 

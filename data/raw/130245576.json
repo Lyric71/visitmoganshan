@@ -1,0 +1,97 @@
+{
+  "id": 130245576,
+  "name": "Mogan · Hoshino Time Ins Style Mountain-surrounded Wilderness Garden",
+  "seedName": "Mogan · Hoshino Time Ins Style Mountain-surrounded Wilderness Garden",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-130245576",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=130245576&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-130245576&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment and Location:The homestay has a large yard, is well-decorated, and is close to scenic spots with convenient transportation. It is located near popular attractions.(based on 7 reviews) Facilities:It has a huge and clean swimming pool, a great KTV, and is newly furnished with various facilities. The yard is spacious and well-arranged.(based on 14 reviews) Service:The owners are very enthusiastic and thoughtful, always ready to respond to guests' needs. They provide welcome fruits and are friendly throughout the stay.(based on 21 reviews) Activities:There are rich activities like swimming, playing ball games, singing KTV, and playing board games, which can keep people entertained without going out.(based on 18 reviews) Hygiene:The rooms and the whole facility are very clean and tidy, with a brand-new and spotless appearance.(based on 16 reviews) Breakfast:The breakfast is rich and diverse, with home-cooked dishes, various types of food like porridge, buns, etc., which is well-received.(based on 9 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment and Location",
+        "text": "The homestay has a large yard, is well-decorated, and is close to scenic spots with convenient transportation. It is located near popular attractions.",
+        "count": 7
+      },
+      {
+        "topic": "Facilities",
+        "text": "It has a huge and clean swimming pool, a great KTV, and is newly furnished with various facilities. The yard is spacious and well-arranged.",
+        "count": 14
+      },
+      {
+        "topic": "Service",
+        "text": "The owners are very enthusiastic and thoughtful, always ready to respond to guests' needs. They provide welcome fruits and are friendly throughout the stay.",
+        "count": 21
+      },
+      {
+        "topic": "Activities",
+        "text": "There are rich activities like swimming, playing ball games, singing KTV, and playing board games, which can keep people entertained without going out.",
+        "count": 18
+      },
+      {
+        "topic": "Hygiene",
+        "text": "The rooms and the whole facility are very clean and tidy, with a brand-new and spotless appearance.",
+        "count": 16
+      },
+      {
+        "topic": "Breakfast",
+        "text": "The breakfast is rich and diverse, with home-cooked dishes, various types of food like porridge, buns, etc., which is well-received.",
+        "count": 9
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 26, Chishan Village Group 9, Sanqiao Village, Wukang Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$83",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/130245576/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201y12000lwdgtej276E.jpg"
+    },
+    {
+      "src": "/images/stays/130245576/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1g12000m40rb8o7271.webp"
+    },
+    {
+      "src": "/images/stays/130245576/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0u12000m41ji3b3F42.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "What a fantastic find! This homestay in Moganshan is a top-tier experience. The hosts are incredibly kind, accommodating, and full of helpful advice. The entire facility is brand new and beautifully appointed. We were also treated to a generous and...",
+      "author": "Christian B. HGH",
+      "date": "2025-10-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=130245576&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-130245576&trip_sub3=D19127628"
+    },
+    {
+      "quote": "很滿意的一次住宿體驗，入住還準備了水果，小朋友在泳池玩的很開心，早飯非常豐盛，稀飯、茶葉蛋、玉米、小菜都是地理新鮮採摘，老闆娘自己做的粉絲肉包大受好評，離店還意外收穫了兩包筍乾作為伴手禮，同行的夥伴第一次體驗民俗也表示很滿意，莫干山風景區庾村景區距離也很近，非常推薦入住",
+      "author": "Guest User",
+      "date": "2026-06-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=130245576&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-130245576&trip_sub3=D19127628"
+    },
+    {
+      "quote": "孩子特別喜歡這個民宿，特別是民宿裏面的游泳池，非常適合帶孩子來，早餐很豐富是老闆娘親自做的，都是自家種的玉米土豆，很新鮮。退房的時候老闆沒還送了兩包自家曬得筍乾。非常推薦",
+      "author": "Guest User",
+      "date": "2026-06-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=130245576&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-130245576&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 43,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:35:28.681Z",
+  "source": "trip"
+}

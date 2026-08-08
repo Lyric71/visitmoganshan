@@ -37,7 +37,7 @@ Your plan decides this, so settle it before shopping on price.
 | Sword Pond (Jianchi), Luhuadang Park, Dakeng | Yes, inside |
 | The Xuguang sunrise platform | Yes, inside |
 | Chiang Kai-shek's villa, the Bai and Yun Art Museum | Yes, inside |
-| The villa walk through the old hill station | TODO: verify |
+| The villa walk through the old hill station | Not confirmed |
 
 The [scenic area page](/moganshan/scenic-area/) has the full split.
 
@@ -78,14 +78,14 @@ One constraint never shows up in the price. Private vehicles cannot drive inside
 | Transfer center | Where it is | Hours |
 |---|---|---|
 | Yucun | Main gateway, foot of the mountain | 08:00 to 18:00 |
-| Fatou | TODO: verify which approach it serves | 08:00 to 18:00 |
+| Fatou | Not confirmed: which approach it serves | 08:00 to 18:00 |
 | Houwu | Western village, 30 minutes from Yucun | 08:00 to 18:00 |
 
 > Private-vehicle rule and transfer center hours, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
 Ten hours sounds generous. Look at what falls outside the window, starting with sunrise at Xuguang.
 
-TODO: verify whether 18:00 is last entry, last transfer down, or gate close. Those are three different deadlines and nothing separates them, so treat 18:00 as the time to be out.
+Not confirmed: whether 18:00 is last entry, last transfer down, or gate close. Those are three different deadlines and nothing separates them, so treat 18:00 as the time to be out.
 
 Day trips get tighter. One worked example, on the Y1 shuttle from Deqing Coach Center.
 
@@ -104,11 +104,11 @@ Three questions come up constantly, and no source we trust answers them.
 
 | Open question | Where it stands |
 |---|---|
-| Child, student and senior concessions | Neither set breaks them out. Chinese scenic areas often discount by height or age, and nothing confirms that here. TODO: verify |
-| What one ticket buys in time | Single entry or multiple, one day or longer, we do not know. It matters if you plan to come down for lunch. TODO: verify |
-| Whether the named sights are covered | Sword Pond, Chiang Kai-shek's villa and the art museum may sit under the main ticket or charge separately. TODO: verify |
+| Child, student and senior concessions | Neither set breaks them out. Chinese scenic areas often discount by height or age, and nothing confirms that here. Not confirmed |
+| What one ticket buys in time | Single entry or multiple, one day or longer, we do not know. It matters if you plan to come down for lunch. Not confirmed |
+| Whether the named sights are covered | Sword Pond, Chiang Kai-shek's villa and the art museum may sit under the main ticket or charge separately. Not confirmed |
 
-Ask your guesthouse all three in the same message that asks the price. Two more TODOs sit in the tables above.
+Ask your guesthouse all three in the same message that asks the price. Two more unconfirmed lines sit in the tables above.
 
 ## Buying it, and what to have ready
 

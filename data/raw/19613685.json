@@ -1,0 +1,83 @@
+{
+  "id": 19613685,
+  "name": "Wutong Shouwang Hostel",
+  "seedName": "Wutong Shouwang Hostel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-19613685",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=19613685&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-19613685&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment and Location:Located near Moganshan or Wusi Village, with a pleasant environment suitable for hiking. The location is great and close to attractions.(based on 9 reviews) Service Quality:Hosts are hospitable and friendly, offering travel suggestions and being helpful.(based on 18 reviews) Hygiene:Rooms are very clean. Some mentioned bathrooms could be cleaner but overall many praised cleanliness(based on 14 reviews) Facilities:Some rooms are well-equipped, with features like a small pool in the yard(based on 6 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment and Location",
+        "text": "Located near Moganshan or Wusi Village, with a pleasant environment suitable for hiking. The location is great and close to attractions.",
+        "count": 9
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Hosts are hospitable and friendly, offering travel suggestions and being helpful.",
+        "count": 18
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Rooms are very clean. Some mentioned bathrooms could be cleaner but overall many praised cleanliness",
+        "count": 14
+      },
+      {
+        "topic": "Facilities",
+        "text": "Some rooms are well-equipped, with features like a small pool in the yard",
+        "count": 6
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 1, Wai'an, Wusi Village, Deqing, Zhejiang, China",
+  "priceRange": "From US$10",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/19613685/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0582u12000snizuwd8446.jpg"
+    },
+    {
+      "src": "/images/stays/19613685/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3x12000ep4luco7007.webp"
+    },
+    {
+      "src": "/images/stays/19613685/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0580o12000sqh21fa347B.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "We stayed as a group of 10 friends, in the capsule rooms and the couple rooms. Great relationship quality price, and the hosts were very nice. Nice outdoorsy area, and well connected for hiking in Moganshan.",
+      "author": "Ángela Barón",
+      "date": "2026-07-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=19613685&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-19613685&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The host was very hospitable and friendly, and was willing to go out of his way. He patiently gave me travel suggestions, and even gave me a ride to a nearby area to begin my journey. I ended up staying...",
+      "author": "Guest User",
+      "date": "2026-03-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=19613685&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-19613685&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The hosts were kind and apologetic, but my stay was unfortunately not very positive. I arrived around 6pm in complete darkness, and the entrance was very poorly lit. With no one to greet me and 3 dogs suddenly running towards...",
+      "author": "mll_saga",
+      "date": "2025-11-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=19613685&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-19613685&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 50,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:31:01.682Z",
+  "source": "trip"
+}

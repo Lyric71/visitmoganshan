@@ -1,0 +1,86 @@
+{
+  "id": 1585996,
+  "name": "West Time Hot Spring Hostel",
+  "seedName": "West Time Hot Spring Hostel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1585996",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1585996&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1585996&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:The hotel offers a serene, secluded setting surrounded by lush bamboo forests and natural landscapes, providing fresh air and a peaceful atmosphere. Its location on a hillside ensures breathtaking views and a tranquil escape from urban noise.(based on 13 reviews) Hygiene:Guests consistently praised the cleanliness of rooms and common areas, noting no dust or debris, spotless floors, and meticulous attention to detail in maintaining hygiene standards.(based on 12 reviews) Service:Staff demonstrated warmth and attentiveness, with housekeepers proactively communicating arrival details and offering personalized assistance. Butler services and friendly, responsive frontline staff were frequently highlighted.(based on 19 reviews) Facilities:Swimming pools, saunas, KTV, and tea rooms are available. The outdoor terrace and dining areas offer panoramic views, while amenities like retro-style rooms and family-friendly features (e.g., slides) enhance guest experiences.(based on 7 reviews) Location & Accessibility:Situated in a scenic mountain area, the property provides easy access to natural attractions. Proximity to dining options and recreational fa",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "The hotel offers a serene, secluded setting surrounded by lush bamboo forests and natural landscapes, providing fresh air and a peaceful atmosphere. Its location on a hillside ensures breathtaking views and a tranquil escape from urban noise.",
+        "count": 13
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Guests consistently praised the cleanliness of rooms and common areas, noting no dust or debris, spotless floors, and meticulous attention to detail in maintaining hygiene standards.",
+        "count": 12
+      },
+      {
+        "topic": "Service",
+        "text": "Staff demonstrated warmth and attentiveness, with housekeepers proactively communicating arrival details and offering personalized assistance. Butler services and friendly, responsive frontline staff were frequently highlighted.",
+        "count": 19
+      },
+      {
+        "topic": "Facilities",
+        "text": "Swimming pools, saunas, KTV, and tea rooms are available. The outdoor terrace and dining areas offer panoramic views, while amenities like retro-style rooms and family-friendly features (e.g., slides) enhance guest experiences.",
+        "count": 7
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 1, Ganmiaowu Village, Moganshan Town, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$118",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1585996/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0580v12000sq8b62635F9.jpg"
+    },
+    {
+      "src": "/images/stays/1585996/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200f13000000u25cn051F.webp"
+    },
+    {
+      "src": "/images/stays/1585996/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200413000000u141r9C19.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "A nice hotel in a secluded place. Please mind that the hot spring needs to be paid separately",
+      "author": "Katrin Dora",
+      "date": "2025-12-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1585996&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1585996&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The hotel is on the mountain, so the view is awesome. The host was helpful and polite. Hot springs were very beautiful and I enjoyed my bathing there. The room was very clean, there was everything inside. I liked to...",
+      "author": "Anastasia123",
+      "date": "2023-10-13",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1585996&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1585996&trip_sub3=D19127628"
+    },
+    {
+      "quote": "A nice hotel in a secluded place. Please mind that the hot spring needs to be paid separately",
+      "author": "Katrin Dora",
+      "date": "2025-12-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1585996&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1585996&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.3,
+    "count": 35,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:49:33.290Z",
+  "source": "trip"
+}

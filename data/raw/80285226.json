@@ -1,0 +1,79 @@
+{
+  "id": 80285226,
+  "name": "Moganshan · Shanxun · Carousel Boundless Wilderness Pool · Designer Garden Boutique Stay",
+  "seedName": "Moganshan · Shanxun · Carousel Boundless Wilderness Pool · Designer Garden Boutique Stay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-80285226",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=80285226&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-80285226&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness:Rooms and communal areas are consistently praised for their high standards of cleanliness, with meticulous attention to detail in maintenance, ensuring a hygienic and comfortable stay for all visitors.(based on 48 reviews) Service Quality:Hosts are described as friendly, attentive, and helpful, offering personalized recommendations for local activities and ensuring guest needs are promptly addressed, creating a welcoming and relaxed atmosphere akin to staying with friends.(based on 34 reviews) Aesthetic and Ambiance:The design blends modern simplicity with natural elements, featuring large windows, elegant interiors, and well-maintained courtyards. The ambiance is ideal for photography, relaxation, and social gatherings, contributing to a memorable stay.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms and communal areas are consistently praised for their high standards of cleanliness, with meticulous attention to detail in maintenance, ensuring a hygienic and comfortable stay for all visitors.",
+        "count": 48
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Hosts are described as friendly, attentive, and helpful, offering personalized recommendations for local activities and ensuring guest needs are promptly addressed, creating a welcoming and relaxed atmosphere akin to staying with friends.",
+        "count": 34
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 7, Shijiaoling, Gaofeng Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$83",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/80285226/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6512000e8m811n3FB9.jpg"
+    },
+    {
+      "src": "/images/stays/80285226/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1t12000pkbhy9a60E2.webp"
+    },
+    {
+      "src": "/images/stays/80285226/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201h12000942nvywE905.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The owners are very nice, and the breakfast ingredients are all brand-name and delicious—a definite plus, as some guesthouses use really questionable ingredients. The hotel is located a bit inland, but it's not far from Yucun Village, about a 10-minute...",
+      "author": "Mianhuatanghenhaochi",
+      "date": "2026-05-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=80285226&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-80285226&trip_sub3=D19127628"
+    },
+    {
+      "quote": "A very satisfying stay! The kids had a blast. The guesthouse has a carousel, soccer field, billiards, karaoke, ping pong, boating… lots of fun activities, perfect for taking photos. Even on a rainy day, they had a great time. There's...",
+      "author": "Latiqindeniangao",
+      "date": "2025-10-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=80285226&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-80285226&trip_sub3=D19127628"
+    },
+    {
+      "quote": "This guesthouse in Moganshan is absolutely amazing! I didn't want to leave once I checked in; it completely exceeded my expectations! The room's windows offer breathtaking views of the mountains, crystal clear. Waking up to this view in the morning...",
+      "author": "Guest User",
+      "date": "2025-08-18",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=80285226&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-80285226&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 81,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:19:22.778Z",
+  "source": "trip"
+}

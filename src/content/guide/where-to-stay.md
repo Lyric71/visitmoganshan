@@ -49,7 +49,7 @@ Xiantan is where it gets interesting. About 135 guesthouses compete inside a vil
 
 The others are quieter, and quiet costs something. Without a car, a village 30 minutes from Yucun is one you will not leave after 6 pm, which makes your guesthouse your restaurant.
 
-Road times between the other villages are not in our research, so this page does not print them. `TODO: verify village-to-village road times.` The [villages guide](/moganshan/villages/) covers each in detail.
+Road times between the other villages are not in our research, so this page does not print them. `Not confirmed: village-to-village road times.` The [villages guide](/moganshan/villages/) covers each in detail.
 
 ### The rule that decides your arrival day
 
@@ -124,7 +124,7 @@ On 12 September 2025, Four Seasons announced a Moganshan resort: 90 keys on a 23
 
 It gets searched a lot, and the sober reading is short. No Four Seasons room exists here today, an announced date is not a confirmed one, and 2030 changes nothing about a trip this year.
 
-The announcement gives the site as Yu Village. `TODO: verify whether that is Yucun (庾村), the hub village above.` Until then, treat them as two names, not one.
+The announcement gives the site as Yu Village. `Not confirmed: whether that is Yucun (庾村), the hub village above.` Until then, treat them as two names, not one.
 
 ## The market picture nobody puts in a listing
 

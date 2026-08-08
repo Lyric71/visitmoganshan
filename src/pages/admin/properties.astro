@@ -1,0 +1,275 @@
+---
+import AdminPage from '../../layouts/AdminPage.astro';
+import { isSignedIn } from '../../lib/admin-auth';
+import { CAPTURES } from '../../lib/captures';
+import {
+  STAYS_SEED,
+  TYPE_LABEL,
+  TYPE_ORDER,
+  goPath,
+  guessType,
+  resolveStayHrefs,
+  type StayType,
+} from '../../lib/stays';
+
+/**
+ * /admin/properties
+ *
+ * The whole affiliate list, filterable, showing what is known about each row.
+ * The filters are query parameters and the form is a GET, so it works with
+ * scripting off and a filtered view is a URL somebody can send.
+ *
+ * Read only, on purpose. Editing a property here would mean writing to the
+ * repository from a serverless function, which needs a token with commit rights
+ * sitting in the environment of a public web app. The data is in git, and git
+ * is where it should be edited.
+ */
+export const prerender = false;
+
+if (!isSignedIn(Astro.cookies)) return Astro.redirect('/admin/login');
+
+const params = Astro.url.searchParams;
+const query = (params.get('q') ?? '').trim();
+const typeParam = params.get('type') ?? '';
+const state = params.get('state') ?? '';
+
+const writtenUp = await resolveStayHrefs();
+
+const needle = query.toLowerCase();
+const rows = STAYS_SEED.map((row) => ({
+  ...row,
+  type: guessType(row.name),
+  capture: CAPTURES.get(row.id) ?? null,
+  page: writtenUp.get(row.id) ?? null,
+}))
+  .filter((row) => {
+    if (needle && !row.name.toLowerCase().includes(needle) && !String(row.id).includes(needle)) {
+      return false;
+    }
+    if (typeParam && row.type !== typeParam) return false;
+    if (state === 'captured' && !row.capture) return false;
+    if (state === 'missing' && row.capture) return false;
+    if (state === 'written' && !row.page) return false;
+    return true;
+  })
+  .sort((a, b) => a.name.localeCompare(b.name, 'en'));
+
+// A few hundred rows is a scroll; eight hundred with a capture summary each is
+// a slow page for no gain. The filters are how you get to the rest.
+const LIMIT = 300;
+const shown = rows.slice(0, LIMIT);
+
+const day = (iso: string) =>
+  new Date(iso).toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
+---
+
+<AdminPage title="Properties">
+  <form class="filters" method="get">
+    <p class="filters__field">
+      <label for="q">Name or hotelId</label>
+      <input id="q" name="q" type="search" value={query} placeholder="naked, 901389" />
+    </p>
+
+    <p class="filters__field">
+      <label for="type">Kind</label>
+      <select id="type" name="type">
+        <option value="">Any</option>
+        {
+          TYPE_ORDER.map((type: StayType) => (
+            <option value={type} selected={typeParam === type}>
+              {TYPE_LABEL[type]}
+            </option>
+          ))
+        }
+      </select>
+    </p>
+
+    <p class="filters__field">
+      <label for="state">State</label>
+      <select id="state" name="state">
+        <option value="">Any</option>
+        <option value="captured" selected={state === 'captured'}>Has a capture</option>
+        <option value="missing" selected={state === 'missing'}>No capture</option>
+        <option value="written" selected={state === 'written'}>Written up</option>
+      </select>
+    </p>
+
+    <p class="filters__field filters__field--action">
+      <button class="vm-btn" type="submit">Filter</button>
+      <a href="/admin/properties">Clear</a>
+    </p>
+  </form>
+
+  <p class="count">
+    {rows.length.toLocaleString('en-GB')} of {STAYS_SEED.length.toLocaleString('en-GB')}
+    {rows.length > LIMIT && ` · showing the first ${LIMIT}`}
+  </p>
+
+  <table>
+    <thead>
+      <tr>
+        <th scope="col">Property</th>
+        <th scope="col">Kind</th>
+        <th scope="col">Capture</th>
+        <th scope="col">Links</th>
+      </tr>
+    </thead>
+    <tbody>
+      {
+        shown.map((row) => (
+          <tr>
+            <th scope="row">
+              <span class="name">{row.name}</span>
+              <span class="id">{row.id}</span>
+            </th>
+            <td>{TYPE_LABEL[row.type]}</td>
+            <td>
+              {row.capture ? (
+                <span class="cap">
+                  {row.capture.images.length} photos · {row.capture.comments.length} quotes
+                  {row.capture.rating && ` · ${row.capture.rating.score}/${row.capture.rating.scale}`}
+                  <span class="when">{day(row.capture.sourcedAt)}</span>
+                </span>
+              ) : (
+                <span class="none">none</span>
+              )}
+            </td>
+            <td class="links">
+              {row.page && <a href={row.page}>page</a>}
+              <a href={goPath(row.goSlug)} rel="sponsored noopener" target="_blank">
+                trip.com
+              </a>
+            </td>
+          </tr>
+        ))
+      }
+    </tbody>
+  </table>
+
+  {
+    shown.length === 0 && (
+      <p class="empty">Nothing matches that. Clear the filters to see the whole list.</p>
+    )
+  }
+</AdminPage>
+
+<style>
+  .filters {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    gap: 1rem;
+    margin-bottom: 1.25rem;
+    padding: 1.25rem;
+    background: var(--color-paper);
+    border: 1px solid var(--color-line);
+  }
+
+  .filters__field {
+    margin: 0;
+  }
+
+  .filters__field label {
+    display: block;
+    margin-bottom: 0.35rem;
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--color-muted);
+  }
+
+  .filters input,
+  .filters select {
+    min-height: 44px;
+    padding: 0 0.6rem;
+    border: 1px solid var(--color-line);
+    border-radius: 4px;
+    background: var(--color-surface);
+    font: inherit;
+    font-size: 0.9375rem;
+  }
+
+  .filters input {
+    min-width: 14rem;
+  }
+
+  .filters__field--action {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .count {
+    margin: 0 0 0.75rem;
+    font-size: 0.8125rem;
+    color: var(--color-muted);
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    background: var(--color-paper);
+    border: 1px solid var(--color-line);
+    font-size: 0.875rem;
+  }
+
+  th,
+  td {
+    padding: 0.55rem 0.75rem;
+    text-align: left;
+    vertical-align: top;
+    border-bottom: 1px solid var(--color-line);
+  }
+
+  thead th {
+    font-size: 0.6875rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--color-muted);
+  }
+
+  tbody th {
+    font-weight: 400;
+  }
+
+  .name {
+    display: block;
+    overflow-wrap: anywhere;
+  }
+
+  .id {
+    display: block;
+    font-size: 0.75rem;
+    font-variant-numeric: tabular-nums;
+    color: var(--color-muted);
+  }
+
+  .cap {
+    display: block;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .when {
+    display: block;
+    font-size: 0.75rem;
+    color: var(--color-muted);
+  }
+
+  .none {
+    color: var(--color-muted);
+  }
+
+  .links {
+    white-space: nowrap;
+  }
+
+  .links a + a {
+    margin-left: 0.75rem;
+  }
+
+  .empty {
+    margin-top: 1.25rem;
+    color: var(--color-muted);
+  }
+</style>

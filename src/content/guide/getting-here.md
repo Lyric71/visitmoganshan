@@ -48,11 +48,17 @@ Deqing sits on the Nanjing to Hangzhou high-speed line, which has been running s
 | Shanghai Hongqiao to Deqing | 63 to 80 min | 13 | about RMB 61 to 110 |
 | Hangzhou East to Deqing | 13 to 17 min | 16 | about RMB 16 to 67 |
 
-Three real Hongqiao services, as a sense check: G1419 leaves at 17:39 and arrives 18:42, so 63 minutes. G687 runs 12:12 to 13:21. D377 runs 08:11 to 09:19. Timetables change every few months, so treat these as examples rather than a schedule.
+Three real Hongqiao services, as a sense check: G1419 leaves at 17:39 and arrives 18:42, so 63 minutes. G687 runs 12:12 to 13:21. D377 runs 08:11 to 09:19. Timetables change every few months, so treat these as examples rather than a schedule and check the [live Shanghai to Deqing times](/go/trains-shanghai-deqing/) for the day you are travelling.
+
+> We may earn a commission if you book through that link, at no cost to you. [How this site is funded](/plan/disclosure/).
 
 The northern approach improved in late 2024, when the Shanghai to Suzhou to Huzhou high-speed line opened on 26 December and cut the fastest Hongqiao to Huzhou run to 55 minutes.
 
 > Train times, service counts and fares, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
+
+<div class="vm-ad vm-ad--rect" role="region" aria-label="Advertisement">
+  <iframe src="https://www.trip.com/partners/ad/SB19143658?Allianceid=9859697&SID=327673690&trip_sub1=Train-deqing" id="SB19143658" title="Trip.com" width="300" height="250" frameborder="0" scrolling="no" loading="lazy" style="border:none"></iframe>
+</div>
 
 Huzhou station does exist, and some travelers end up booked there. It is farther from Moganshan than Deqing is. Unless you have a specific reason, Deqing is the better arrival point.
 
@@ -109,6 +115,10 @@ The Pudong number is the one to look at twice. Crossing Shanghai from Pudong to 
 
 Route-by-route detail lives on the [Shanghai to Moganshan](/getting-here/from-shanghai/) and [Hangzhou to Moganshan](/getting-here/from-hangzhou/) pages.
 
+<div class="vm-ad vm-ad--rect" role="region" aria-label="Advertisement">
+  <iframe src="https://www.trip.com/partners/ad/SB19143658?Allianceid=9859697&SID=327673690&trip_sub1=Train-deqing" title="Trip.com" width="300" height="250" frameborder="0" scrolling="no" loading="lazy" style="border:none"></iframe>
+</div>
+
 ## Driving, and the coach option
 
 Driving is the simplest option if you already have a car and a Chinese license. From Hangzhou it is about 60 to 63 km and roughly an hour and a half. From Shanghai, 200 to 240 km and two to three hours in normal traffic. Remember step three: the car does not go all the way.
@@ -122,5 +132,9 @@ If you are coming from Hangzhou, this is close to a local trip. The train takes 
 If you are coming from Shanghai, budget three hours and stop pretending it is a half-day outing. Two nights works far better than one, which is why the [where to stay](/where-to-stay/) page starts with the length of the trip rather than the properties.
 
 If you are choosing when to go, the mountain runs 6 to 7 °C cooler than Shanghai and Hangzhou in summer, which was the original reason anyone came here. See the [weather and seasons](/moganshan/weather/) page before you fix your dates.
+
+<div class="vm-ad vm-ad--rect" role="region" aria-label="Advertisement">
+  <iframe src="https://www.trip.com/partners/ad/SB19143658?Allianceid=9859697&SID=327673690&trip_sub1=Train-deqing" title="Trip.com" width="300" height="250" frameborder="0" scrolling="no" loading="lazy" style="border:none"></iframe>
+</div>
 
 *Fares, train times and shuttle departures last checked 5 August 2026. Timetables and ticket prices change without much notice, so confirm before you travel.*

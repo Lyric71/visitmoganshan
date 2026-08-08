@@ -1,0 +1,64 @@
+{
+  "id": 5683586,
+  "name": "Moganshan Bamboo Villa",
+  "seedName": "Moganshan Bamboo Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5683586",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5683586&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5683586&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Culinary Experience:The on-site meals, particularly the home-cooked dishes by the host’s family, are praised for their delicious taste and authenticity. Local specialties like braised pork, garlic bones, and pickled vegetables are highlighted as must-try items.",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 11, Fatou Fishing Village, Moganshan Town, Deqing, Zhejiang, 313206, China",
+  "priceRange": "From US$65",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5683586/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02022120009pqnjev0C6B.jpg"
+    },
+    {
+      "src": "/images/stays/5683586/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0221v12000ayyioxnACF7.webp"
+    },
+    {
+      "src": "/images/stays/5683586/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02022120009pqnjev0C6B.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "I came here for a marathon event. Despite knowing no common language, the owners were extremely helpful and assisted me early morning with multiple taxis and in bad weather. Excellent and quick communication. I appreciate you!",
+      "author": "Guest User",
+      "date": "2026-04-12",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5683586&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5683586&trip_sub3=D19127628"
+    },
+    {
+      "quote": "We decided to visit Moganshan on short notice. We chose this B&B with a swimming pool in the mood of taking our kids on a relaxing vacation. As soon as the kids arrived at the B&B, they were attracted by...",
+      "author": "Guest User",
+      "date": "2023-08-16",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5683586&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5683586&trip_sub3=D19127628"
+    },
+    {
+      "quote": "這次為了參加莫干山跑山賽，特意選擇了這家位於cp點附近的民宿，房間乾淨的設施齊全，房東老闆娘人也很好4點半起來給我們準備早餐，如果再來莫干山跑山，會繼續選擇這裏。。",
+      "author": "Guest User",
+      "date": "2024-10-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5683586&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5683586&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 21,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:59:11.048Z",
+  "source": "trip"
+}

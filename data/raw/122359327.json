@@ -1,0 +1,73 @@
+{
+  "id": 122359327,
+  "name": "Moganshan spring language autumn holiday beauty",
+  "seedName": "Moganshan spring language autumn holiday beauty",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-122359327",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=122359327&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-122359327&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location and Surroundings:The property is situated near Longlin Dam, offering easy access to water activities. Surrounded by lush forests, it provides a scenic, tranquil environment with abundant negative ions, ideal for relaxation and family gatherings.(based on 1 review) Service Quality:Staff are praised for their warm, attentive service, including pre-arrival guidance, in-stay care, and assistance with local transportation. Guests appreciate the personalized attention and hospitality from the hosts, making them feel at home.(based on 8 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location and Surroundings",
+        "text": "The property is situated near Longlin Dam, offering easy access to water activities. Surrounded by lush forests, it provides a scenic, tranquil environment with abundant negative ions, ideal for relaxation and family gatherings.",
+        "count": 1
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Staff are praised for their warm, attentive service, including pre-arrival guidance, in-stay care, and assistance with local transportation. Guests appreciate the personalized attention and hospitality from the hosts, making them feel at home.",
+        "count": 8
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 28, Shangguan, Xiantan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$70",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/122359327/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2u12000f64m2sm116B.jpg"
+    },
+    {
+      "src": "/images/stays/122359327/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1f12000f61yi1s2574.webp"
+    },
+    {
+      "src": "/images/stays/122359327/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1312000f64k25p421C.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "房間很好，就是洗澡的時候下水稍有點慢。 最主要是：預訂的時候日期寫錯了，老闆娘也讓我們入住啦，走的時候還把我們寄存的東西拿出來讓我們不要忘記拿走。 離龍鱗壩走路衹有10分鐘哦，推薦龍鱗壩。",
+      "author": "Guest User",
+      "date": "2025-07-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=122359327&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-122359327&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間非常大，乾淨整潔，窗外一片綠，非常治癒 隔音很好，非常安靜 地理位置也蠻好的，旁邊就是龍鱗壩，可以玩水 老闆和老闆娘人也很好～推薦",
+      "author": "Guest User",
+      "date": "2025-07-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=122359327&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-122359327&trip_sub3=D19127628"
+    },
+    {
+      "quote": "入住感受特別好！！晚上到的還在路邊接的我們，院內環境也很漂亮房間也很乾凈整體體驗感很好因為打不到車老闆還送我們去了景點！早飯真的很好吃呀光盤行動還給我送了小番茄也好好吃下次來還住這！",
+      "author": "Guest User",
+      "date": "2025-06-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=122359327&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-122359327&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 16,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:04:15.928Z",
+  "source": "trip"
+}

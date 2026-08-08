@@ -1,0 +1,80 @@
+{
+  "id": 103647588,
+  "name": "Mogan SEEYOU Sheyu Mountain Residence",
+  "seedName": "Mogan SEEYOU Sheyu Mountain Residence",
+  "city": "Huzhou",
+  "cityId": 86,
+  "goSlug": "moganshan-103647588",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=103647588&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-103647588&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Hospitality:The hosts are frequently mentioned for their warmth and helpfulness, offering personalized service such as preparing meals, providing fresh fruit and coffee, and assisting with travel plans or ticket bookings.(based on 90 reviews) Family-Friendly and Recreational Activities:The B&B is particularly appreciated by families, with activities like swimming, playing in the game room, and enjoying fresh fruits. The spacious environment and engaging amenities make it ideal for children.(based on 52 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Hospitality",
+        "text": "The hosts are frequently mentioned for their warmth and helpfulness, offering personalized service such as preparing meals, providing fresh fruit and coffee, and assisting with travel plans or ticket bookings.",
+        "count": 90
+      },
+      {
+        "topic": "Recreational Activities",
+        "text": "The B&B is particularly appreciated by families, with activities like swimming, playing in the game room, and enjoying fresh fruits. The spacious environment and engaging amenities make it ideal for children.",
+        "count": 52
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 25, Huangnishan, Fangshan Village, Daixi Town, Wuxing District, Huzhou, Zhejiang, China",
+  "priceRange": "From US$98",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant",
+    "Karaoke",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/103647588/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203x12000ab4345o76B9.jpg"
+    },
+    {
+      "src": "/images/stays/103647588/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1d12000ae3be3a3E27.webp"
+    },
+    {
+      "src": "/images/stays/103647588/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203x12000ab3zabs3040.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "This B&B at the foot of the mountain is very convenient, just a few minutes' drive from Yucun Square. The rooms are clean and the facilities are quite new. The owners, a couple who returned from starting a business abroad,...",
+      "author": "Guest User",
+      "date": "2026-07-31",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=103647588&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-103647588&trip_sub3=D19127628"
+    },
+    {
+      "quote": "A very welcoming guesthouse with a super friendly owner.",
+      "author": "Guest User",
+      "date": "2026-07-18",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=103647588&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-103647588&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room was spotless and tidy, and they even offered us coffee and fruit. It was a fantastic stay, and I'd definitely come back if I have the chance.",
+      "author": "humble2019",
+      "date": "2026-07-05",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=103647588&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-103647588&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 149,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:50:40.513Z",
+  "source": "trip"
+}

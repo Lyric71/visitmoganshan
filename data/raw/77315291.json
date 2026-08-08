@@ -1,0 +1,76 @@
+{
+  "id": 77315291,
+  "name": "Aideri Moganshan Tongguanzhuang Resort",
+  "seedName": "Aideri Moganshan Tongguanzhuang Resort",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-77315291",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=77315291&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-77315291&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness:Guests consistently mention the hotel's cleanliness, with rooms and common areas described as spotless and well-maintained. The emphasis on cleanliness contributes to a positive overall experience for the guests.(based on 154 reviews) Guest Suggestion: Some customers suggest improving staff service attitude during breakfast and restaurant interactions, and addressing electrical system reliability .(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness",
+        "text": "Guests consistently mention the hotel's cleanliness, with rooms and common areas described as spotless and well-maintained. The emphasis on cleanliness contributes to a positive overall experience for the guests.",
+        "count": 154
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving staff service attitude during breakfast and restaurant interactions, and addressing electrical system reliability .",
+      "count": 3
+    }
+  },
+  "address": "No. 48, Tongguan Bridge, Wusi Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$90",
+  "facilities": [
+    "Gym",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/77315291/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206712000931jugjBA32.jpg"
+    },
+    {
+      "src": "/images/stays/77315291/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201512000931jqecACF6.webp"
+    },
+    {
+      "src": "/images/stays/77315291/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0225f12000bymu53kA0CA.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The room was quite spacious and clean, and the service was excellent. We were also very happy with the breakfast. You can pretty much ask the hotel for anything you need. For example, my friend didn't wake up for breakfast,...",
+      "author": "Guest User",
+      "date": "2026-07-26",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=77315291&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-77315291&trip_sub3=D19127628"
+    },
+    {
+      "quote": "A lovely stay for the weekend. We really enjoyed the location of the resort and the kindness of all the staff. The rooms are spacious and modern. The breakfast was delicious! Looking forward to our next stay!",
+      "author": "Guest User",
+      "date": "2024-11-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=77315291&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-77315291&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Beauty modern resort located in a quiet village area. Room is spacious, huge toilet but the toilet has transparent glass door which is weird. We had dinner in the reoart's restaurant, the portion is big and the ingredients are fresh...",
+      "author": "easygoing",
+      "date": "2024-10-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=77315291&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-77315291&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 548,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:59:44.448Z",
+  "source": "trip"
+}

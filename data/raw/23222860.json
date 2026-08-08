@@ -1,0 +1,72 @@
+{
+  "id": 23222860,
+  "name": "Heidian Mogan Hostel",
+  "seedName": "Heidian Mogan Hostel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-23222860",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=23222860&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-23222860&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness & Maintenance:Despite being a heritage property, the accommodation maintains high cleanliness standards. Rooms are free of dust and odors, with meticulous attention to detail in upkeep, ensuring a comfortable and refreshing stay.(based on 16 reviews) Guest Suggestion:Some customers suggest improving cleanliness (moldy bathrooms, dirty pillows), addressing musty odors, and ensuring better maintenance of outdoor water features and structural elements to enhance guest experience.(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Maintenance",
+        "text": "Despite being a heritage property, the accommodation maintains high cleanliness standards. Rooms are free of dust and odors, with meticulous attention to detail in upkeep, ensuring a comfortable and refreshing stay.",
+        "count": 16
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving cleanliness (moldy bathrooms, dirty pillows), addressing musty odors, and ensuring better maintenance of outdoor water features and structural elements to enhance guest experience.",
+      "count": 2
+    }
+  },
+  "address": "No. 37, Li Village, Ziling Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$114",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/23222860/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206m120005gf2wj02DD8.jpg"
+    },
+    {
+      "src": "/images/stays/23222860/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/020241200099s8ogx9813.webp"
+    },
+    {
+      "src": "/images/stays/23222860/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02041120008pvspov623E.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Heidian was a great place to stay. There is a steep hill to reach the hotel from the parking lot. They have built the amenities with a lot of care for enjoying nature. The room were perfectly clean. The hosts...",
+      "author": "Guest User",
+      "date": "2023-10-11",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=23222860&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-23222860&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Let's talk about the software. After all, the hardware environment of the hei store is not lacking. The mattress and pillow are of high quality, which is rare in the homestay. The experience is perfect... The toiletries are also very...",
+      "author": "Guest User",
+      "date": "2023-12-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=23222860&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-23222860&trip_sub3=D19127628"
+    },
+    {
+      "quote": "A place where you can relax your mind.",
+      "author": "Guest User",
+      "date": "2024-01-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=23222860&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-23222860&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.4,
+    "count": 70,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:35:52.414Z",
+  "source": "trip"
+}

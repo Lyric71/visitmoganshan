@@ -25,7 +25,7 @@ The trains matter because of where you are sending people. Moganshan is in Deqin
 |---|---|---|---|
 | Shanghai Hongqiao to Deqing, high-speed rail | 63 to 80 min | 13 direct | RMB 61 to 110, second class |
 | Hangzhou East to Deqing, high-speed rail | 13 to 17 min | 16 | RMB 16 to 67 |
-| Shanghai to Deqing, direct coach | 2h40 to 4h | `TODO: verify` | from about RMB 69 |
+| Shanghai to Deqing, direct coach | 2h40 to 4h | `Not confirmed` | from about RMB 69 |
 
 > Rail times, service counts and fares, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
@@ -59,7 +59,7 @@ Getting there is the easy half. Roughly 10,000 beds across about 1,000 propertie
 | 40 to 60 | 4 to 6, or a resort, midweek only | Transport becomes the plan | The 18:00 transfer window |
 | Over 60 | More than we can advise | Beds are capped near 10,000 mountain-wide and spread thin. Wukang, 20 km off, has hotels | All of it |
 
-naked Stables has about 121 keys, naked Castle about 95, Le Passage Mohkan Shan about 28, and the Crowne Plaza Deqing Moganshan about 340 down in Wukang. Only two could hold sixty in one place, and the largest is off the mountain. Those are room counts, not event capacities, and we have verified none. `TODO: verify meeting room and banquet capacities.`
+naked Stables has about 121 keys, naked Castle about 95, Le Passage Mohkan Shan about 28, and the Crowne Plaza Deqing Moganshan about 340 down in Wukang. Only two could hold sixty in one place, and the largest is off the mountain. Those are room counts, not event capacities, and we have verified none. `Not confirmed: meeting room and banquet capacities.`
 
 Trip.com took 67.04 percent of Dalezhiye in March 2025: 28 properties, 556 rooms at about RMB 1,300 a night. Where a group needs three houses, one counterparty may hold all three.
 
@@ -133,13 +133,13 @@ Those are the bands multiplied out, current at 5 August 2026. That is arithmetic
 
 Easy advice to give, harder to take. A wedding date does not move for a rate card. If yours is fixed, book early and budget the peak.
 
-Lead times are not in our research. `TODO: verify group booking lead times.` A midweek block in a quiet month is there for the asking. Try the same beds across a Golden Week and you are in another market. [Seasons](/seasons/) has the calendar.
+Lead times are not in our research. `Not confirmed: group booking lead times.` A midweek block in a quiet month is there for the asking. Try the same beds across a Golden Week and you are in another market. [Seasons](/seasons/) has the calendar.
 
 ## What the mountain gives you, and what we do not have
 
 The program itself is straightforward. Over 92 percent is forest, mostly moso bamboo, and Laoling has the reservoir and the bikes.
 
-The 1984 Moganshan Conference, a gathering of reform economists, sat in the assembly hall here, so this has been done before. `TODO: verify whether that hall is bookable, and at what capacity.`
+The 1984 Moganshan Conference, a gathering of reform economists, sat in the assembly hall here, so this has been done before. `Not confirmed: whether that hall is bookable, and at what capacity.`
 
 We hold no group rate card or contracting terms for any property. Nothing above is a recommendation, and nothing here is sponsored. [Plan](/plan/) has tickets and money.
 

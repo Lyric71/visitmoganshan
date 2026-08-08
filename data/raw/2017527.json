@@ -1,0 +1,81 @@
+{
+  "id": 2017527,
+  "name": "Xiyuan Villa",
+  "seedName": "Xiyuan Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2017527",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2017527&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2017527&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Accessibility:Convenient proximity to Houwu transfer station, Mogan Mountain, and attractions; ample parking available.(based on 13 reviews) Hospitality:Hosts are consistently described as friendly, hospitable, and enthusiastic about recommending local activities . Food Quality:Highly praised home-cooked meals and affordable breakfast options with diverse local dishes.(based on 14 reviews) Cleanliness & Facilities:Rooms and common areas are noted for cleanliness; modern or rustic decor, lofts, and outdoor spaces enhance comfort.(based on 34 reviews) Family-Friendly Features:Spacious rooms suitable for families, outdoor seating, and recreational facilities .",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Accessibility",
+        "text": "Convenient proximity to Houwu transfer station, Mogan Mountain, and attractions; ample parking available.",
+        "count": 13
+      },
+      {
+        "topic": "Hospitality",
+        "text": "Hosts are consistently described as friendly, hospitable, and enthusiastic about recommending local activities . Food Quality:Highly praised home-cooked meals and affordable breakfast options with diverse local dishes.",
+        "count": 14
+      },
+      {
+        "topic": "Facilities",
+        "text": "Rooms and common areas are noted for cleanliness; modern or rustic decor, lofts, and outdoor spaces enhance comfort.",
+        "count": 34
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 28, Lujiaqiao Bridge, Houwu Village, Fatou Township, Deqing, Zhejiang, 313206, China",
+  "priceRange": "From US$27",
+  "facilities": [
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/2017527/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200k120009ocqxqb54B2.jpg"
+    },
+    {
+      "src": "/images/stays/2017527/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200a120009odsnu5084A.webp"
+    },
+    {
+      "src": "/images/stays/2017527/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205p120009ocs8pd4E22.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Weird smell vibe felt off there location not the best… Didn’t have the best stay however the people there was very friendly and the boss was nice it’s decent but I personally won’t come back…",
+      "author": "Guest User",
+      "date": "2026-07-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2017527&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2017527&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Perfect little villa away from the crowds (yet reasonably close to all the spots). The owners were very hospitable and if you order in advance, the lady can cook a great dinner for you for a good price! Definitely recommended...",
+      "author": "Guest User",
+      "date": "2025-05-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2017527&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2017527&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Weird smell vibe felt off there location not the best… Didn’t have the best stay however the people there was very friendly and the boss was nice it’s decent but I personally won’t come back…",
+      "author": "Guest User",
+      "date": "2026-07-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2017527&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2017527&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.3,
+    "count": 119,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:22:37.108Z",
+  "source": "trip"
+}

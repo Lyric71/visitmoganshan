@@ -1,0 +1,88 @@
+{
+  "id": 5607221,
+  "name": "Mengye Moganshan Migong Garden Castle Homestay",
+  "seedName": "Mengye Moganshan Migong Garden Castle Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5607221",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5607221&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5607221&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment Location:Located at the foot of Moganshan, backed by bamboo forests, surrounded by mountains and forests. The private garden of 4000㎡ has an infinity pool, European arches, and different scenery in all seasons, which is perfect for taking photos.(based on 14 reviews) Facilities:The facilities are beautiful and comfortable, with an outdoor swimming pool in the courtyard. The renovation of the homestay integrates castle, equestrian, and garden elements.(based on 13 reviews) Service:The housekeeper is enthusiastic and responsive, and the service is thoughtful. The staff are warm and friendly.(based on 21 reviews) Activities:Rich activities such as horse riding and mountain biking are available, with a good experience. There is also a horse farm nearby. Hygiene:The rooms are clean, and the cleaning aunt does a very good job of cleaning.(based on 16 reviews) Photography:It is very photogenic, and casual photos are very good.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment Location",
+        "text": "Located at the foot of Moganshan, backed by bamboo forests, surrounded by mountains and forests. The private garden of 4000㎡ has an infinity pool, European arches, and different scenery in all seasons, which is perfect for taking photos.",
+        "count": 14
+      },
+      {
+        "topic": "Facilities",
+        "text": "The facilities are beautiful and comfortable, with an outdoor swimming pool in the courtyard. The renovation of the homestay integrates castle, equestrian, and garden elements.",
+        "count": 13
+      },
+      {
+        "topic": "Service",
+        "text": "The housekeeper is enthusiastic and responsive, and the service is thoughtful. The staff are warm and friendly.",
+        "count": 21
+      },
+      {
+        "topic": "Activities",
+        "text": "Rich activities such as horse riding and mountain biking are available, with a good experience. There is also a horse farm nearby. Hygiene:The rooms are clean, and the cleaning aunt does a very good job of cleaning.",
+        "count": 16
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 5, Lijiatang, Gaofeng Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$137",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Bar",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5607221/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/020481200086g5eyi496E.jpg"
+    },
+    {
+      "src": "/images/stays/5607221/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5t12000gefuph8BC05.webp"
+    },
+    {
+      "src": "/images/stays/5607221/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0412000eknihkv804A.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Mengye, the horseback riding experience was great, and the staff were enthusiastic and helped take photos. It was a pleasant trip.",
+      "author": "NNyaya",
+      "date": "2026-03-12",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5607221&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5607221&trip_sub3=D19127628"
+    },
+    {
+      "quote": "非常有特色的民宿，乾淨温暖，美女老闆娘有個可愛女寶寶，很歡迎我們！晚飯在民宿吃的，非常美味，早飯更讓人有食慾。民宿附近就是馬場，玩得很盡興！晚上有紅棗銀耳羹，讓人暖心暖胃！推薦親子出行。",
+      "author": "Guest User",
+      "date": "2026-02-13",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5607221&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5607221&trip_sub3=D19127628"
+    },
+    {
+      "quote": "位於莫干山腳下，背靠竹林，四周山林環繞，交通便利，距離熱門景點較近。民宿改造自農家別墅，融合城堡、馬術、花園元素，4000㎡私人花園內有無邊泳池、歐式拱門、天幕草坪等，四季景色各異，拍照打卡絕美。",
+      "author": "Guest User",
+      "date": "2025-10-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5607221&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5607221&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 36,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:45:01.099Z",
+  "source": "trip"
+}

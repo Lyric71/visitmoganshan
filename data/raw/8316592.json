@@ -1,0 +1,86 @@
+{
+  "id": 8316592,
+  "name": "Qiting Inn",
+  "seedName": "Qiting Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-8316592",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8316592&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8316592&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Accessibility:Close to Mogan Mountain and Yao Wu scenic areas, with convenient parking and proximity to free attractions.(based on 3 reviews) Accommodation Features:Family-friendly rooms , clean and well-maintained rooms, and a small pool for children.(based on 9 reviews) Service Quality:Hosts are described as warm, attentive, and helpful, offering local recommendations, meal arrangements, and childcare support.(based on 13 reviews) Culinary Experience:Dishes are praised for their taste and authenticity, with organic vegetables and homemade meals available. Facilities & Atmosphere:Includes a pool, table tennis, and arcade games; rooms are cozy with natural elements like silver fir trees and local flora.(based on 13 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Accessibility",
+        "text": "Close to Mogan Mountain and Yao Wu scenic areas, with convenient parking and proximity to free attractions.",
+        "count": 3
+      },
+      {
+        "topic": "Accommodation Features",
+        "text": "Family-friendly rooms , clean and well-maintained rooms, and a small pool for children.",
+        "count": 9
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Hosts are described as warm, attentive, and helpful, offering local recommendations, meal arrangements, and childcare support.",
+        "count": 13
+      },
+      {
+        "topic": "Culinary Experience",
+        "text": "Dishes are praised for their taste and authenticity, with organic vegetables and homemade meals available. Facilities & Atmosphere:Includes a pool, table tennis, and arcade games; rooms are cozy with natural elements like silver fir trees and local flora.",
+        "count": 13
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 39 Lujiaqiao Bridge, Houwu Village, Deqing, Zhejiang, China",
+  "priceRange": "From US$53",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/8316592/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0223q120009z5cntvF5C1.jpg"
+    },
+    {
+      "src": "/images/stays/8316592/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20050u000000ivtwoF1EF.webp"
+    },
+    {
+      "src": "/images/stays/8316592/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4i12000bqcaozr9ED1.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The hotel is amazing, beyond my imagination. My husband said that the proprietress is definitely a plus point of this B&B. She is not only warm and cheerful but also cooks delicious meals. When she knew we were going to...",
+      "author": "Guest User",
+      "date": "2024-07-22",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8316592&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8316592&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Highly recommended. As soon as we arrived at the door, the warm and beautiful landlady came out to help us with our luggage and took us to the room. The room was clean and tidy. There was a large balcony...",
+      "author": "Guest User",
+      "date": "2023-08-31",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8316592&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8316592&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The hotel is amazing, beyond my imagination. My husband said that the proprietress is definitely a plus point of this B&B. She is not only warm and cheerful but also cooks delicious meals. When she knew we were going to...",
+      "author": "Guest User",
+      "date": "2024-07-22",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8316592&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8316592&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.5,
+    "count": 36,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:52:17.763Z",
+  "source": "trip"
+}

@@ -1,0 +1,81 @@
+{
+  "id": 124475807,
+  "name": "Yao Shen Villa",
+  "seedName": "Yao Shen Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-124475807",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=124475807&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-124475807&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness and Maintenance:Guests consistently praised the high standards of cleanliness, with detailed descriptions of spotless rooms, bathrooms, and public areas, emphasizing a 360° tidy environment and attention to hygiene details.(based on 27 reviews) Service Quality:Hosts are described as warm, attentive, and proactive, providing personalized recommendations for local sights, dining, and activities, while offering timely assistance with luggage, emergencies, and special requests.(based on 28 reviews) Scenic Views:Rooms offer panoramic mountain vistas, large floor-to-ceiling windows, and private balconies with sunrise views, creating a tranquil and immersive natural experience for guests.(based on 1 review) Family-Friendly Features:The accommodation caters to families with child-friendly activities like water play and playgrounds, along with spacious layouts and flexible sleeping arrangements to accommodate multiple travelers comfortably.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness and Maintenance",
+        "text": "Guests consistently praised the high standards of cleanliness, with detailed descriptions of spotless rooms, bathrooms, and public areas, emphasizing a 360° tidy environment and attention to hygiene details.",
+        "count": 27
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Hosts are described as warm, attentive, and proactive, providing personalized recommendations for local sights, dining, and activities, while offering timely assistance with luggage, emergencies, and special requests.",
+        "count": 28
+      },
+      {
+        "topic": "Scenic Views",
+        "text": "Rooms offer panoramic mountain vistas, large floor-to-ceiling windows, and private balconies with sunrise views, creating a tranquil and immersive natural experience for guests.",
+        "count": 1
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 2, Shangguan, Xiantan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$96",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/124475807/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0412000lvh84c4C51D.jpg"
+    },
+    {
+      "src": "/images/stays/124475807/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2d12000gwxz0svBEE2.webp"
+    },
+    {
+      "src": "/images/stays/124475807/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0c12000gwye6aoCFDC.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Our family of six stayed for two nights and were absolutely delighted by this guesthouse! The location is fantastic, with beautiful, calming mountain views right outside the window. Waking up to that every morning really put us in a good...",
+      "author": "Guest User",
+      "date": "2026-04-20",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=124475807&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-124475807&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The owners provided very friendly and accommodating services. They harvested their own garden ingredients and served home cooking style Chinese cuisin.",
+      "author": "Guest User",
+      "date": "2026-04-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=124475807&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-124475807&trip_sub3=D19127628"
+    },
+    {
+      "quote": "This stay was absolutely fantastic! First off, I have to commend the owners; they were incredibly welcoming and provided such attentive service, making me feel like family. The hotel also had all the necessary recreational facilities. The owner even kindly...",
+      "author": "Guest User",
+      "date": "2026-05-09",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=124475807&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-124475807&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 50,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:24:44.372Z",
+  "source": "trip"
+}

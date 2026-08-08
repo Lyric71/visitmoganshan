@@ -1,0 +1,91 @@
+{
+  "id": 19678292,
+  "name": "Mogan Mountain Xiaofeng Mujing Xiangye Hot Spring Hostel",
+  "seedName": "Mogan Mountain Xiaofeng Mujing Xiangye Hot Spring Hostel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-19678292",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=19678292&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-19678292&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Environment:Situated in a quiet, scenic rural area with views of bamboo forests and nearby access to Moganshan attractions. The property features a peaceful atmosphere, complete with swimming pools, playgrounds, and entertainment facilities .(based on 5 reviews) Accommodation:Rooms are spacious, clean, and well-maintained, often with large windows offering mountain vistas. Some rooms include skylights or balconies for stargazing.(based on 17 reviews) Service:The hosts are consistently described as friendly, attentive, and helpful, offering personalized recommendations for local attractions and flexible arrangements.(based on 12 reviews) Dining:Meals are praised for freshness and local specialties . Breakfast options include regional dishes like corn and egg porridge.(based on 3 reviews) Facilities:Includes swimming pools, barbecue areas, and recreational activities suitable for families. Pets are allowed, and some rooms cater to family stays with multi-level layouts.(based on 5 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Situated in a quiet, scenic rural area with views of bamboo forests and nearby access to Moganshan attractions. The property features a peaceful atmosphere, complete with swimming pools, playgrounds, and entertainment facilities .",
+        "count": 5
+      },
+      {
+        "topic": "Accommodation",
+        "text": "Rooms are spacious, clean, and well-maintained, often with large windows offering mountain vistas. Some rooms include skylights or balconies for stargazing.",
+        "count": 17
+      },
+      {
+        "topic": "Service",
+        "text": "The hosts are consistently described as friendly, attentive, and helpful, offering personalized recommendations for local attractions and flexible arrangements.",
+        "count": 12
+      },
+      {
+        "topic": "Dining",
+        "text": "Meals are praised for freshness and local specialties . Breakfast options include regional dishes like corn and egg porridge.",
+        "count": 3
+      },
+      {
+        "topic": "Facilities",
+        "text": "Includes swimming pools, barbecue areas, and recreational activities suitable for families. Pets are allowed, and some rooms cater to family stays with multi-level layouts.",
+        "count": 5
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 20, Zhong Village, Ziling Village, Fatou Township, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$50",
+  "facilities": [
+    "Restaurant",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/19678292/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20031d000001eiyht2A09.jpg"
+    },
+    {
+      "src": "/images/stays/19678292/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200l15000000xr1s9D290.webp"
+    },
+    {
+      "src": "/images/stays/19678292/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205v12000a24d4sc9091.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "I stayed at a guesthouse near Moganshan Scenic Area. The environment was great, and the air was incredibly fresh. I would definitely stay here again. The owner was very hospitable. The local farm-style dishes were fresh and delicious; you should...",
+      "author": "Guest User",
+      "date": "2025-11-15",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=19678292&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-19678292&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I came here based on the good reviews, but to be honest, I'm a bit disappointed. I specifically asked if there were any bugs this season, and the shopkeeper said no. However, when I came back, I found a small...",
+      "author": "Anonymous User",
+      "date": "2025-10-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=19678292&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-19678292&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The guesthouse is located above all other guesthouses, so the air quality is good. The free breakfast is decent, with fresh and nutritious food. The owner is nice, and I'll definitely come back next time!",
+      "author": "Guest User",
+      "date": "2026-01-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=19678292&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-19678292&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.8,
+    "count": 49,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:39:37.678Z",
+  "source": "trip"
+}

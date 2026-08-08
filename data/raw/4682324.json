@@ -1,0 +1,93 @@
+{
+  "id": 4682324,
+  "name": "Momo Hostel",
+  "seedName": "Momo Hostel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-4682324",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4682324&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4682324&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment & Location:Surrounded by bamboo forests, mountain views, and fresh air; located near lavender gardens, restaurants, and scenic spots .(based on 7 reviews) Facilities:Clean rooms with balconies, large public areas, and a spacious swimming pool.(based on 4 reviews) Service Quality:Hosts are welcoming and attentive, with a focus on family-friendly experiences .(based on 13 reviews) Breakfast:Highly praised for quality, including delicious dumplings and steamed buns.(based on 4 reviews) Accessibility:Convenient parking, proximity to public transport, and proximity to attractions.(based on 7 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Surrounded by bamboo forests, mountain views, and fresh air; located near lavender gardens, restaurants, and scenic spots .",
+        "count": 7
+      },
+      {
+        "topic": "Facilities",
+        "text": "Clean rooms with balconies, large public areas, and a spacious swimming pool.",
+        "count": 4
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Hosts are welcoming and attentive, with a focus on family-friendly experiences .",
+        "count": 13
+      },
+      {
+        "topic": "Breakfast",
+        "text": "Highly praised for quality, including delicious dumplings and steamed buns.",
+        "count": 4
+      },
+      {
+        "topic": "Accessibility",
+        "text": "Convenient parking, proximity to public transport, and proximity to attractions.",
+        "count": 7
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 105, Houwu Village, Moganshan Town, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$93",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/4682324/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5412000k59rwwoE79E.jpg"
+    },
+    {
+      "src": "/images/stays/4682324/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201612000a9alxui403F.webp"
+    },
+    {
+      "src": "/images/stays/4682324/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02042120008oj95ty5389.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The air around is very good, with the scent of osmanthus💗 Very dog-friendly, very suitable for relaxing during holidays. Parking at the door is also very convenient, the boss is very good👍 The breakfast shaomai is the best shaomai I...",
+      "author": "3522caoer",
+      "date": "2024-10-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4682324&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4682324&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room is in Houwu, close to nearby restaurants and lavender gardens. The boss and the lady boss are quite friendly. The swimming pool is also very large. There are many discounts for rafting at the front desk.",
+      "author": "Anonymous User",
+      "date": "2024-08-18",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4682324&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4682324&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room is very clean. Sitting on the windowsill, you can see the mountain view, with green bamboo everywhere. The owner is very welcoming and the breakfast is very considerate. I brought a child with me, and the owner also...",
+      "author": "leon15731",
+      "date": "2024-06-11",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4682324&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4682324&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 35,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:47:49.606Z",
+  "source": "trip"
+}

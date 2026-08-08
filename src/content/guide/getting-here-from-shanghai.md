@@ -38,7 +38,7 @@ The northern approach improved recently. The Shanghai to Suzhou to Huzhou high-s
 | Route | Main leg | Last mile | Cost per person | Door to door (estimate) |
 |---|---|---|---|---|
 | High-speed rail from Hongqiao | 63 to 80 min, 13 direct services a day | Y1 shuttle 30 to 40 min, or taxi about 30 min | RMB 61 to 110 rail, plus RMB 10 shuttle or about RMB 100 taxi | 2h45 to 3h30 |
-| Private car, central Shanghai | 200 to 240 km, 2 to 3 hours driving | Included, but you stop at a transfer centre | TODO: verify | 2h30 to 3h15 |
+| Private car, central Shanghai | 200 to 240 km, 2 to 3 hours driving | Included, but you stop at a transfer centre | Not confirmed | 2h30 to 3h15 |
 | Coach, Shanghai to Deqing | 2h40 to 4h | Same as rail, from Deqing | From about RMB 69 | 3h30 to 5h (our estimate) |
 | Rail from Pudong | Transfer to Hongqiao first, then 63 to 80 min | Y1 shuttle or taxi | Rail fare plus the Pudong transfer | 4h00 to 4h45 |
 
@@ -47,6 +47,10 @@ The northern approach improved recently. The Shanghai to Suzhou to Huzhou high-s
 Every door-to-door figure above is an estimate. Real trips vary with traffic, queue length at the taxi rank, and how long you spend finding the right exit at Deqing.
 
 > Timetables, fares and transfer times compiled from primary research, BeyondBorder Group Ltd, Hong Kong, 1 to 5 August 2026.
+
+<div class="vm-ad vm-ad--leaderboard" role="region" aria-label="Advertisement, scrollable horizontally" tabindex="0">
+  <iframe border="0" src="https://www.trip.com/partners/ad/SB19143679?Allianceid=9859697&SID=327673690&trip_sub1=train-sh-dq" style="width:728px;height:90px" frameborder="0" scrolling="no" style="border:none" id="SB19143679"></iframe>
+</div>
 
 ## Route 1: high-speed rail from Hongqiao
 
@@ -63,6 +67,10 @@ Here are three real services to give you a feel for the spread:
 | D377 | 08:11 | 09:19 | 68 min |
 | G687 | 12:12 | 13:21 | 69 min |
 | G1419 | 17:39 | 18:42 | 63 min |
+
+Those three are a sample of the spread, not a schedule. The [live Hongqiao to Deqing timetable](/go/trains-shanghai-deqing/) is what to book from, because train numbers and fares move with every timetable revision.
+
+> We may earn a commission if you book through that link, at no cost to you. [How this site is funded](/plan/disclosure/).
 
 ### Step by step
 
@@ -85,6 +93,10 @@ Only seven a day, so this timetable decides your morning.
 Miss the 16:00 and you are taking a taxi. That is not a disaster, it just costs ten times as much.
 
 For a fuller breakdown of ticket classes, booking apps and seat choice, see [getting to Moganshan by train](/getting-here/from-shanghai/by-train/). For what the station itself is like, including the exits and the taxi rank, see [Deqing station](/getting-here/deqing-station/).
+
+<div class="vm-ad vm-ad--leaderboard" role="region" aria-label="Advertisement, scrollable horizontally" tabindex="0">
+  <iframe border="0" src="https://www.trip.com/partners/ad/SB19143679?Allianceid=9859697&SID=327673690&trip_sub1=train-sh-dq" style="width:728px;height:90px" frameborder="0" scrolling="no" style="border:none" id="SB19143679"></iframe>
+</div>
 
 ## Route 2: private car
 
@@ -125,6 +137,10 @@ Now add international arrival. Immigration, baggage, customs. Then the same four
 **Our honest advice: if you land at Pudong on a long-haul flight, do not go to Moganshan that day.** Sleep in Shanghai, or near Hongqiao, and travel the next morning. You will arrive able to see the place instead of arriving able to sleep.
 
 Hongqiao is a different story. If you fly into Hongqiao, you walk from the terminal to the high-speed rail concourse and you are on your way. That is one of the easier airport-to-mountain trips in eastern China.
+
+<div class="vm-ad vm-ad--leaderboard" role="region" aria-label="Advertisement, scrollable horizontally" tabindex="0">
+  <iframe border="0" src="https://www.trip.com/partners/ad/SB19143679?Allianceid=9859697&SID=327673690&trip_sub1=train-sh-dq" style="width:728px;height:90px" frameborder="0" scrolling="no" style="border:none" id="SB19143679"></iframe>
+</div>
 
 ## When to leave Shanghai
 

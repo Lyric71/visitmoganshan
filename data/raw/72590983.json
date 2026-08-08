@@ -1,0 +1,85 @@
+{
+  "id": 72590983,
+  "name": "Moganshan Grassland Homestay · Suxi Private Soup Hot Spring Garden Villa",
+  "seedName": "Moganshan Grassland Homestay · Suxi Private Soup Hot Spring Garden Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-72590983",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=72590983&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-72590983&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:The hotel boasts a prime location near Moganshan, with easy access to the scenic area's transfer point, making trips to the mountain convenient. It is also within a short drive to various restaurants and activities, ideal for exploring the area.(based on 68 reviews) Cleanliness and Comfort:Guests consistently praise the cleanliness of the rooms and the overall comfort of the accommodations. The hotel ensures a high standard of hygiene with well-maintained facilities, contributing to a comfortable stay.(based on 252 reviews) Service:The staff is noted for their warm and attentive service, always ready to assist with guests' needs. The hotel provides a friendly and welcoming atmosphere, ensuring a personalized experience for visitors.(based on 260 reviews) Environment:Surrounded by lush greenery and scenic views, the hotel provides a tranquil and picturesque setting. The natural environment is often highlighted as a key feature, offering a peaceful retreat from urban life. Guest Suggestion:Some customers suggest indoor hygiene issues like mold in lobby, stairs, toilet; musty smells; and poor room facilities (small old rooms, dusty balconies, with",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "The hotel boasts a prime location near Moganshan, with easy access to the scenic area's transfer point, making trips to the mountain convenient. It is also within a short drive to various restaurants and activities, ideal for exploring the area.",
+        "count": 68
+      },
+      {
+        "topic": "Cleanliness and Comfort",
+        "text": "Guests consistently praise the cleanliness of the rooms and the overall comfort of the accommodations. The hotel ensures a high standard of hygiene with well-maintained facilities, contributing to a comfortable stay.",
+        "count": 252
+      },
+      {
+        "topic": "Service",
+        "text": "The staff is noted for their warm and attentive service, always ready to assist with guests' needs. The hotel provides a friendly and welcoming atmosphere, ensuring a personalized experience for visitors.",
+        "count": 260
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 46, Xia Village, Houwu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$84",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant",
+    "Conference room",
+    "Multi-function room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/72590983/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0q12000erg1ifhDF88.jpg"
+    },
+    {
+      "src": "/images/stays/72590983/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6q12000bgf0qq88BC6.webp"
+    },
+    {
+      "src": "/images/stays/72590983/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1x12000r49c8t11B81.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Discovered a hidden gem in Moganshan – the Huangcaodi B&B! Its location is fantastic, very close to the scenic area's transfer point, making it super convenient for trips up the mountain. The entire place was spotless, ensuring a high level...",
+      "author": "Guest User",
+      "date": "2026-07-29",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=72590983&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-72590983&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Highly recommend the Wild Grass B&B! Its location is a huge plus, very close to the Moganshan scenic area transfer point, making trip planning a breeze. The rooms are spotless and all facilities are well-maintained. In the summer, you can...",
+      "author": "Bamudufu",
+      "date": "2026-07-29",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=72590983&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-72590983&trip_sub3=D19127628"
+    },
+    {
+      "quote": "This place is truly fantastic! I was looking for a relaxing two-day getaway and ended up choosing Moganshan Huangcaodi Guesthouse. The location is excellent, the environment is elegant, and the cleanliness is impeccable. The manager is very personable and incredibly...",
+      "author": "GuanguanZX",
+      "date": "2026-05-19",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=72590983&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-72590983&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 508,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:14:39.544Z",
+  "source": "trip"
+}

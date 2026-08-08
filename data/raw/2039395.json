@@ -1,0 +1,71 @@
+{
+  "id": 2039395,
+  "name": "Moganshan Lingdi Art Space homestay",
+  "seedName": "Moganshan Lingdi Art Space homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2039395",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2039395&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2039395&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service:Staff are warm, attentive, and friendly. The owners, a mother and daughter, are welcoming and make guests feel at home, providing thoughtful service and sharing stories and operating ideas.(based on 77 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service",
+        "text": "Staff are warm, attentive, and friendly. The owners, a mother and daughter, are welcoming and make guests feel at home, providing thoughtful service and sharing stories and operating ideas.",
+        "count": 77
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 48 Huangfu West Road, Moganshan Town, Deqing, Zhejiang, 313202, China",
+  "priceRange": "From US$65",
+  "facilities": [
+    "Bar",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/2039395/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2i12000ku2uiqz1E3E.jpg"
+    },
+    {
+      "src": "/images/stays/2039395/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2s12000m07srquE048.webp"
+    },
+    {
+      "src": "/images/stays/2039395/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02011120008j52jyx9BA4.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Had a fantastic three-day stay with Harry and Potato! It was wonderful to be greeted by a little dog every time we came back to the room. The room was very clean, and the Republican-era architecture and decor made me...",
+      "author": "Xiongbenshicaozhi",
+      "date": "2026-07-26",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2039395&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2039395&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Tucked away in the bustling town of Yuchun, this century-old heritage house instantly transports you away from the noise the moment you step into its garden. The old residence beautifully preserves its Republican-era brick and wood architecture along with vintage...",
+      "author": "Ninidaodao",
+      "date": "2026-06-17",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2039395&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2039395&trip_sub3=D19127628"
+    },
+    {
+      "quote": "A wonderful stay from start to finish. The hospitality started even before i got there. The room was elegantly decorated, very clean and immensely spacious. I appreciated the freshly cooked breakfast and personal attention. It was like living in another...",
+      "author": "Guest User",
+      "date": "2026-04-12",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2039395&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2039395&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 181,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:49:28.963Z",
+  "source": "trip"
+}

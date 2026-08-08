@@ -2,9 +2,10 @@
  * Things to do seed.
  *
  * Titles here are named features of the mountain that are documented and
- * checkable. The one-line `sub` for each is TODO until it has been written from
- * a visit, because a description is a claim and this site does not ship claims
- * it cannot stand behind.
+ * checkable. The one-line `sub` is optional and stays absent until it has been
+ * written from a visit, because a description is a claim and this site does not
+ * ship claims it cannot stand behind. An absent line renders as nothing at all;
+ * a card carrying a placeholder is worse than a card carrying only its title.
  *
  * Tab order is Popular, Heritage, Nature, Food and tea, Active, Family.
  * Heritage sits ahead of Nature on purpose: every competing site leads on
@@ -15,8 +16,8 @@ export type ThingCategory = 'popular' | 'heritage' | 'nature' | 'food-and-tea' |
 export type Thing = {
   slug: string;
   title: string;
-  /** One line. TODO until written first-hand. */
-  sub: string;
+  /** One line. Omitted until written first-hand. */
+  sub?: string;
   href: string;
   categories: ThingCategory[];
   image: string;
@@ -27,7 +28,6 @@ export const THINGS: Thing[] = [
   {
     slug: 'villa-walking-route',
     title: 'The villa walking route',
-    sub: 'TODO',
     href: '/moganshan/hill-station/walking-tour',
     categories: ['popular', 'heritage', 'active'],
     image: '/images/todo-villa-route.webp',
@@ -36,7 +36,6 @@ export const THINGS: Thing[] = [
   {
     slug: 'sword-pond',
     title: 'Sword Pond',
-    sub: 'TODO',
     href: '/things-to-do/sword-pond',
     categories: ['popular', 'nature', 'family'],
     image: '/images/todo-sword-pond.webp',
@@ -45,7 +44,6 @@ export const THINGS: Thing[] = [
   {
     slug: 'bamboo-forest-walks',
     title: 'Walking the bamboo forest',
-    sub: 'TODO',
     href: '/moganshan/bamboo-forest',
     categories: ['popular', 'nature', 'active'],
     image: '/images/todo-trail.webp',
@@ -54,7 +52,6 @@ export const THINGS: Thing[] = [
   {
     slug: 'hot-springs',
     title: 'The hot springs',
-    sub: 'TODO',
     href: '/moganshan/hot-springs',
     categories: ['popular', 'family'],
     image: '/images/todo-hot-spring.webp',
@@ -63,7 +60,6 @@ export const THINGS: Thing[] = [
   {
     slug: 'yellow-bud-tea',
     title: 'Moganshan yellow bud tea',
-    sub: 'TODO',
     href: '/moganshan/tea',
     categories: ['food-and-tea'],
     image: '/images/part-tea.webp',
@@ -72,7 +68,6 @@ export const THINGS: Thing[] = [
   {
     slug: 'the-villages',
     title: 'Yucun, Xiantan and Sanjiuwu',
-    sub: 'TODO',
     href: '/moganshan/villages',
     categories: ['heritage', 'food-and-tea', 'family'],
     image: '/images/part-villages.webp',

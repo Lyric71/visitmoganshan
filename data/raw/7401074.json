@@ -1,0 +1,87 @@
+{
+  "id": 7401074,
+  "name": "Huayin Inn",
+  "seedName": "Huayin Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-7401074",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=7401074&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-7401074&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:Nearby Biwu Longtan with fresh air in the mountains, good location near Tianquan Mountain, suitable for parent-child play, etc.(based on 4 reviews) Service Quality:The boss and his family are kind, the proprietress is enthusiastic, the front desk is friendly and helpful, etc.(based on 12 reviews) Facilities:Complete entertainment facilities like KTV, mahjong tables, billiards, table tennis, comfortable sofas in the restaurant, etc.(based on 1 review) Hygiene:Rooms are clean and tidy, bedding is comfortable, etc.(based on 13 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Nearby Biwu Longtan with fresh air in the mountains, good location near Tianquan Mountain, suitable for parent-child play, etc.",
+        "count": 4
+      },
+      {
+        "topic": "Service Quality",
+        "text": "The boss and his family are kind, the proprietress is enthusiastic, the front desk is friendly and helpful, etc.",
+        "count": 12
+      },
+      {
+        "topic": "Facilities",
+        "text": "Complete entertainment facilities like KTV, mahjong tables, billiards, table tennis, comfortable sofas in the restaurant, etc.",
+        "count": 1
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Rooms are clean and tidy, bedding is comfortable, etc.",
+        "count": 13
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Biwu Panjiayuan, Xiantan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$50",
+  "facilities": [
+    "Billiards room",
+    "Restaurant",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/7401074/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206z1200090l5h2xC775.jpg"
+    },
+    {
+      "src": "/images/stays/7401074/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0r12000bi6gxqzD636.webp"
+    },
+    {
+      "src": "/images/stays/7401074/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3312000m27m9m8057E.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Service: The boss lady and her family are very kind, there are a lot of entertainment facilities, and the evening activities are a very happy part of the trip. Breakfast and lunch are very delicious! Hygiene: Clean and tidy Environment:...",
+      "author": "Guest User",
+      "date": "2024-04-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=7401074&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-7401074&trip_sub3=D19127628"
+    },
+    {
+      "quote": "It's really good! The proprietress is enthusiastic, the room is clean and tidy, and there are rolling green hills opposite the balcony; there are complete recreational facilities, swings, and the sofas in the restaurant are very comfortable.",
+      "author": "Guest User",
+      "date": "2023-10-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=7401074&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-7401074&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I couldn't find it on the navigation at first, but the inner courtyard is quite large after I came in. The boss is very nice, warm and thoughtful, and the dishes are also very delicious. I highly recommend the chicken...",
+      "author": "clyruan",
+      "date": "2023-10-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=7401074&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-7401074&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.2,
+    "count": 26,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:56:54.198Z",
+  "source": "trip"
+}

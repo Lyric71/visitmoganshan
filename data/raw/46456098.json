@@ -1,0 +1,86 @@
+{
+  "id": 46456098,
+  "name": "Moganshan - Designer Hot Spring Resort Homestay",
+  "seedName": "Moganshan - Designer Hot Spring Resort Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-46456098",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=46456098&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-46456098&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:The hotel is situated in a peaceful rural area close to Moganshan, offering easy access to scenic spots. Many guests appreciate its proximity to nature, surrounded by mountains and vast fields, making it an ideal retreat from urban life.(based on 30 reviews) Facilities:Facilities are comprehensive, including a private hot spring bath and well-maintained swimming pools. Additional amenities such as a KTV room and children's activities make it a versatile choice for families.(based on 33 reviews) Food:Guests rave about the quality and variety of food, with breakfasts and dinners receiving high praise for their taste and freshness. The hotel offers unique local dishes and private dining experiences that are highly recommended.(based on 4 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "The hotel is situated in a peaceful rural area close to Moganshan, offering easy access to scenic spots. Many guests appreciate its proximity to nature, surrounded by mountains and vast fields, making it an ideal retreat from urban life.",
+        "count": 30
+      },
+      {
+        "topic": "Facilities",
+        "text": "Facilities are comprehensive, including a private hot spring bath and well-maintained swimming pools. Additional amenities such as a KTV room and children's activities make it a versatile choice for families.",
+        "count": 33
+      },
+      {
+        "topic": "Food",
+        "text": "Guests rave about the quality and variety of food, with breakfasts and dinners receiving high praise for their taste and freshness. The hotel offers unique local dishes and private dining experiences that are highly recommended.",
+        "count": 4
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 28, Wulongshan, Laoling Village, Moganshan, Deqing, Zhejiang, China",
+  "priceRange": "From US$123",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Gym",
+    "Restaurant",
+    "Conference room",
+    "Multi-function room",
+    "Playground",
+    "Kids' club"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/46456098/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1i12000qcxlierE389.jpg"
+    },
+    {
+      "src": "/images/stays/46456098/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4512000dg4wuc45AB7.webp"
+    },
+    {
+      "src": "/images/stays/46456098/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0226q12000au81vj262F9.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Absolutely enjoyed our stay at this family-owned hotel. Beautiful spacious building, stunning Mountain View, quiet rural area. It’s located quite close to Moganshan and all scenic areas can be easily reached. We received a very warm greeting from the hosts...",
+      "author": "Guest User",
+      "date": "2024-03-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=46456098&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-46456098&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Upon arriving at the parking lot, I was immediately struck by the expansive view of the pale yellow lawn and dark green mountains. Staying in the \"Dai·Extra-Large Courtyard Private Hot Spring Room,\" the gentle warmth of the wood tones enveloped...",
+      "author": "sulphate🦋",
+      "date": "2026-01-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=46456098&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-46456098&trip_sub3=D19127628"
+    },
+    {
+      "quote": "We took our mom and kids on a weekend getaway, and this guesthouse was a wonderful surprise. The environment was tranquil, with an endless expanse of rice paddies right outside the window – a truly unobstructed view and perfect for...",
+      "author": "Yaoyaoyun☁",
+      "date": "2025-12-22",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=46456098&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-46456098&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 146,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:50:50.882Z",
+  "source": "trip"
+}

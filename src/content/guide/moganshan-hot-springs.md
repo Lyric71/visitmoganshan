@@ -35,11 +35,11 @@ Everything else, and here it is in full.
 
 | Open question | Status |
 |---|---|
-| Is any hot spring open to the public at Moganshan today? | TODO: verify |
-| Does any existing hotel or guesthouse here offer hot spring bathing? | TODO: verify |
-| Where does the water come from? | TODO: verify |
-| What is its temperature and mineral content? | TODO: verify |
-| Does "direct access" mean on the resort site, or a drive away? | TODO: verify |
+| Is any hot spring open to the public at Moganshan today? | Not confirmed |
+| Does any existing hotel or guesthouse here offer hot spring bathing? | Not confirmed |
+| Where does the water come from? | Not confirmed |
+| What is its temperature and mineral content? | Not confirmed |
+| Does "direct access" mean on the resort site, or a drive away? | Not confirmed |
 
 One published water analysis, or one property documenting its own bath, would close most of that table. Neither exists that we can find.
 
@@ -83,7 +83,7 @@ Then water, though not the kind you get into.
 
 > Named sights, villages and reservoirs, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-We could not establish whether swimming is allowed. `TODO: verify`. Kayaking at Laoling is confirmed, though who runs it, and in which months, is `TODO: verify` too. [Things to do](/things-to-do/) covers the rest.
+We could not establish whether swimming is allowed. Kayaking at Laoling is confirmed, though who runs it, and in which months, is not. [Things to do](/things-to-do/) covers the rest.
 
 ## If your trip depends on the water
 

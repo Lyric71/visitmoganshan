@@ -1,0 +1,78 @@
+{
+  "id": 930455,
+  "name": "in mount",
+  "seedName": "in mount",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-930455",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=930455&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-930455&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness & Maintenance:Rooms are meticulously maintained, with spotless bathrooms, no water stains on countertops, and even thorough cleaning under beds. The use of high-quality disposable items and well-maintained bedding contributes to an overall sense of hygiene and comfort.(based on 46 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Maintenance",
+        "text": "Rooms are meticulously maintained, with spotless bathrooms, no water stains on countertops, and even thorough cleaning under beds. The use of high-quality disposable items and well-maintained bedding contributes to an overall sense of hygiene and comfort.",
+        "count": 46
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 10, Feijiayuan, Xiantan Village, Moganshan Town, Deqing, Zhejiang, 313201, China",
+  "priceRange": "From US$55",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Billiards room",
+    "Table tennis room",
+    "Cardroom",
+    "Restaurant",
+    "Karaoke",
+    "Conference room",
+    "Playground",
+    "Kids' club"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/930455/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc7212000ezyi4z701A6.jpg"
+    },
+    {
+      "src": "/images/stays/930455/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1v12000ezy78h13565.webp"
+    },
+    {
+      "src": "/images/stays/930455/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2112000ezy4w8dCCFD.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Excellent location, the service exceeded our expectations, family oriented, the facilities are great and clean, the food 10/10, over all, we ;oved our stay in mount, definitely coming back.",
+      "author": "Guest User",
+      "date": "2026-02-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=930455&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-930455&trip_sub3=D19127628"
+    },
+    {
+      "quote": "This guesthouse is perfect for a getaway. The scenery is beautiful, the air is fresh, and the little village has such a charming feel, especially in autumn with the smoke from burning秸秆 (crop stalks) wafting up. Our room was clean...",
+      "author": "Guest User",
+      "date": "2026-01-16",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=930455&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-930455&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The guesthouse is well-equipped, with rooms featuring private courtyards and a cozy, comfortable design. The service was especially attentive; they offered room service when the weather was cold, and the food was delicious. Overall, the experience exceeded my expectations, and...",
+      "author": "zurrachi",
+      "date": "2026-01-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=930455&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-930455&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.8,
+    "count": 149,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:33:28.515Z",
+  "source": "trip"
+}

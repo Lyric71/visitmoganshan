@@ -1,0 +1,67 @@
+{
+  "id": 21160432,
+  "name": "Moganshan Yuezhu Parent-child Hot Spring Holiday Homestay (Firefly Base Branch)",
+  "seedName": "Moganshan Yuezhu Parent-child Hot Spring Holiday Homestay (Firefly Base Branch)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-21160432",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=21160432&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-21160432&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:Many users mentioned the environment is elegant, quiet, with beautiful mountain views. It's located on a hillside with a back balcony to enjoy mountain scenery, and the overall environment in the mountains is pleasant. Service:The hostess is very friendly, and she provided an electric heater when checking in one day earlier than the scheduled time Dining:Seasonal vegetables are fresh, the taste of native chickens and ribs is good, and the breakfast is simple with delicious radishes",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 8, Jiangjia Zhuyuan, Xiantan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$70",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Hot springs",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/21160432/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/020011200095ivtmpF928.jpg"
+    },
+    {
+      "src": "/images/stays/21160432/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02043120008n7z6u594B9.webp"
+    },
+    {
+      "src": "/images/stays/21160432/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205c120008n7w4il8EED.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The outdoor facilities include a swimming pool, swings, trampolines, barbecue grills, and a rooftop terrace. The indoor area is clean and tidy, with underfloor heating, floor-to-ceiling windows offering scenic views, a delicious breakfast, and a mountain-view hot spring experience. The...",
+      "author": "Guest User",
+      "date": "2025-12-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=21160432&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-21160432&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The boss lady is very welcoming, the room is big and clean, the family took a hot spring bath, and the four elderly people said it was very good! There are also charging stations for parking. The boss lady's restaurant...",
+      "author": "Guest User",
+      "date": "2024-02-15",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=21160432&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-21160432&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Very satisfied, elegant environment, clean rooms, enthusiastic boss lady, complete facilities, delicious food, soaked in hot springs and had a good sleep, I will choose this hotel next time",
+      "author": "Guest User",
+      "date": "2023-12-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=21160432&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-21160432&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 69,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:19:53.164Z",
+  "source": "trip"
+}

@@ -1,0 +1,77 @@
+{
+  "id": 45554491,
+  "name": "Yingshishan Villa·Nordic Modern Design Holiday Meisu (Moganshan International Tourism Resort)",
+  "seedName": "Yingshishan Villa·Nordic Modern Design Holiday Meisu (Moganshan International Tourism Resort)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-45554491",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=45554491&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-45554491&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Hygiene and Maintenance:Rooms and common areas are consistently clean, with meticulous attention to detail in upkeep. Guests note the absence of clutter, dust, and debris, emphasizing the property’s commitment to maintaining a pristine environment throughout their stay.(based on 28 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Hygiene and Maintenance",
+        "text": "Rooms and common areas are consistently clean, with meticulous attention to detail in upkeep. Guests note the absence of clutter, dust, and debris, emphasizing the property’s commitment to maintaining a pristine environment throughout their stay.",
+        "count": 28
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 25, At the Foot of Laoling, Laoling Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$93",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Executive lounge",
+    "Bar",
+    "Restaurant",
+    "Cafe",
+    "Conference room",
+    "Multi-function room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/45554491/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0k12000dq3vaw5625E.jpg"
+    },
+    {
+      "src": "/images/stays/45554491/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200u190000017ad095042.webp"
+    },
+    {
+      "src": "/images/stays/45554491/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1512000h4ryeuxC5CA.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "This Moganshan Ying·Shishan B&B is truly a hidden gem! Tucked away in a bamboo forest, this pure white B&B offers both stunning aesthetics and an incredible experience. The outdoor pool is super photogenic, and the room views are absolutely amazing;...",
+      "author": "Guest User",
+      "date": "2026-04-14",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=45554491&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-45554491&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Hidden in Moganshan, dining amidst the mountains Who understands! Moganshan Ying Shi Shan is truly perfect for a trip with friends! During the day, relax in your guesthouse, gazing at the bamboo forest and blue sky outside the window; in...",
+      "author": "Labubububu",
+      "date": "2026-04-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=45554491&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-45554491&trip_sub3=D19127628"
+    },
+    {
+      "quote": "A hidden gem of a guesthouse nestled in the mountains! Every window offers a view of lush greenery, the rooms are clean and airy, and the design is impeccable. The pool and courtyard are incredibly soothing, and the service is...",
+      "author": "Guest User",
+      "date": "2026-04-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=45554491&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-45554491&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 73,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:56:35.999Z",
+  "source": "trip"
+}

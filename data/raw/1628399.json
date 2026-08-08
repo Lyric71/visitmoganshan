@@ -1,0 +1,66 @@
+{
+  "id": 1628399,
+  "name": "Renli Xinbo Mogan Hot Spring Resort",
+  "seedName": "Renli Xinbo Mogan Hot Spring Resort",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1628399",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1628399&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1628399&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:The hotel is conveniently located near popular attractions such as Mogan Mountain and Anji, with easy access for self-driving guests. It offers picturesque views of mountains and bamboo forests, providing a peaceful escape from city life. Service Quality:Guests consistently praise the exceptional service, with staff described as friendly, attentive, and responsive. They offer personalized services like arranging transportation, suggesting itineraries, and providing nightly sweet treats. Facilities:The hotel boasts a range of modern and well-maintained facilities, including spacious rooms with smart toilets and Dyson hairdryers. The presence of a private onsen and swimming pool adds to the luxurious experience. Cleanliness and Hygiene:Reviewers frequently mention the high standards of cleanliness throughout the hotel. Rooms and common areas are described as spotless and well-maintained, ensuring a comfortable stay. Dining Experience:The breakfast is frequently noted for its variety and quality, with many guests appreciating the fresh and natural ingredients. Evening meals, including hotpot and BBQ, are also highly recommended. Value-Added Servic",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 38, Lujia Bridge, Houwu Village, Moganshan Town, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$90",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Cafe"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1628399/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200115000000z4jf6B2A7.jpg"
+    },
+    {
+      "src": "/images/stays/1628399/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200q160000010333739F7.webp"
+    },
+    {
+      "src": "/images/stays/1628399/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206x12000a0chd04633A.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The room was spacious and bright, and very clean. It even had a smart toilet! The sun was shining and the air was fresh. The owners were incredibly warm and welcoming. Breakfast was nutritious and plentiful, and the hot spring...",
+      "author": "Guest User",
+      "date": "2026-03-12",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1628399&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1628399&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Excellent! The service was great, breakfast was delicious, and we felt very comfortable during our stay. The hot spring bath was also very relaxing! Highly recommend, we'll definitely choose this place again next time we visit Moganshan.",
+      "author": "Anonymous User",
+      "date": "2026-01-22",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1628399&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1628399&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Perhaps because it was off-season, they upgraded us to a duplex room. The guesthouse environment is fantastic, and you can tell the decor was thoughtfully done. It's so much better than other guesthouses I've stayed at in the same price...",
+      "author": "Guest User",
+      "date": "2026-01-18",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1628399&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1628399&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 261,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:01:38.342Z",
+  "source": "trip"
+}

@@ -136,6 +136,6 @@ No source we hold says the scheme runs past that date, so this page says nothing
 
 ## How often these Moganshan updates get checked
 
-That is why the page is meant to be reviewed on a fixed schedule, and the date at the foot moves when it is. `TODO: verify the cadence.` We will not print an interval we cannot keep. An entry goes in only when we can date and source it. [Plan your trip](/plan/) covers the rest.
+That is why the page is meant to be reviewed on a fixed schedule, and the date at the foot moves when it is. `Not confirmed: the cadence.` We will not print an interval we cannot keep. An entry goes in only when we can date and source it. [Plan your trip](/plan/) covers the rest.
 
 *Checked 6 August 2026 against research completed 5 August 2026. Entry rules change without notice.*

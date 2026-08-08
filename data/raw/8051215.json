@@ -1,0 +1,89 @@
+{
+  "id": 8051215,
+  "name": "Fanye Hostel",
+  "seedName": "Fanye Hostel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-8051215",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8051215&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8051215&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness:Rooms and facilities are consistently praised for being spotless, with no odors or mold issues.(based on 28 reviews) Hospitality:Hosts are described as warm, attentive, and accommodating, offering personalized services like pre-arrival coordination and meal arrangements.(based on 34 reviews) Amenities:Features like courtyard gardens, swimming pools, bamboo-lined views, and modern comforts are frequently noted.(based on 4 reviews) Culinary Experience:Breakfast and meals are consistently praised for freshness, variety , and homemade quality.(based on 9 reviews) Ambiance:Described as tranquil, family-friendly, and offering a \"home-like\" retreat with natural surroundings .",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms and facilities are consistently praised for being spotless, with no odors or mold issues.",
+        "count": 28
+      },
+      {
+        "topic": "Hospitality",
+        "text": "Hosts are described as warm, attentive, and accommodating, offering personalized services like pre-arrival coordination and meal arrangements.",
+        "count": 34
+      },
+      {
+        "topic": "Amenities",
+        "text": "Features like courtyard gardens, swimming pools, bamboo-lined views, and modern comforts are frequently noted.",
+        "count": 4
+      },
+      {
+        "topic": "Culinary Experience",
+        "text": "Breakfast and meals are consistently praised for freshness, variety , and homemade quality.",
+        "count": 9
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 43, Mogaowu, Deqing, Zhejiang, China",
+  "priceRange": "From US$64",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant",
+    "Cafe",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/8051215/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20040o000000elbsjF93B.jpg"
+    },
+    {
+      "src": "/images/stays/8051215/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200c0m000000dfs3h7AD8.webp"
+    },
+    {
+      "src": "/images/stays/8051215/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200a0m000000deff41150.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The place is very quiet, and the owner is very nice. Her food and coffee are delicious.",
+      "author": "Guest User",
+      "date": "2026-04-13",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8051215&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8051215&trip_sub3=D19127628"
+    },
+    {
+      "quote": "This is my second time participating in a trail running race in Moganshan. I stayed here. The hotel is nicely decorated and very close to the start and finish lines of the race, which is very convenient. It's clean, hygienic,...",
+      "author": "Guest User",
+      "date": "2025-10-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8051215&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8051215&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Our second stop for the National Day holiday was the beautiful Moganshan. The owners were incredibly hospitable. They contacted us by phone and WeChat a day in advance, providing directions. Due to traffic restrictions during the holiday, we weren't familiar...",
+      "author": "Guest User",
+      "date": "2025-10-09",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8051215&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8051215&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 61,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:58:18.322Z",
+  "source": "trip"
+}

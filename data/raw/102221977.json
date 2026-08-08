@@ -1,0 +1,74 @@
+{
+  "id": 102221977,
+  "name": "Mogan Yinxiang Hotel (Yucun Guangchang)",
+  "seedName": "Mogan Yinxiang Hotel (Yucun Guangchang)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-102221977",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=102221977&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-102221977&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness:Rooms are clean and tidy, with white sheets and towels, and good hygiene standards(based on 29 reviews) Guest Suggestion:Some customers suggest issues regarding room hygiene like stained sheets, hair on pillows, and unclean toilets; insufficient supply of toiletries; and poor service attitude from the hotel staff(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms are clean and tidy, with white sheets and towels, and good hygiene standards",
+        "count": 29
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest issues regarding room hygiene like stained sheets, hair on pillows, and unclean toilets; insufficient supply of toiletries; and poor service attitude from the hotel staff",
+      "count": 3
+    }
+  },
+  "address": "No. 6, Yuxin South Street, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$33",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/102221977/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD1o12000aws0jztF14B.jpg"
+    },
+    {
+      "src": "/images/stays/102221977/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0202o12000a86h1gdF6C5.webp"
+    },
+    {
+      "src": "/images/stays/102221977/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203m12000a86gpzhAED7.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Located right in town, close to restaurants n shops m bus stop. Very clean n nice room.",
+      "author": "Guest User",
+      "date": "2025-12-16",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=102221977&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-102221977&trip_sub3=D19127628"
+    },
+    {
+      "quote": "It's very clean and odorless; the cleaning lady did a great job. There are restaurants and a small supermarket a little north of the building. There's a bus stop at the intersection, but we mostly use ride-hailing services because they...",
+      "author": "Anonymous User",
+      "date": "2025-08-15",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=102221977&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-102221977&trip_sub3=D19127628"
+    },
+    {
+      "quote": "To tell the truth, let everyone avoid lightning, the worst accommodation experience, 1. Because we brought children, when ordering remarked 3 people to live, toiletries originally put two sets, go to more than one set boss actually chirping crooked reluctant...",
+      "author": "Guest User",
+      "date": "2025-11-25",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=102221977&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-102221977&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.9,
+    "count": 63,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:29:27.184Z",
+  "source": "trip"
+}

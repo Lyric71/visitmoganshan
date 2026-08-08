@@ -1,0 +1,67 @@
+{
+  "id": 117933245,
+  "name": "Moganshan Bushi Homestay",
+  "seedName": "Moganshan Bushi Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-117933245",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=117933245&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-117933245&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Bushi Homestay?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 12-2 Liaoyuan Village South Road, Deqing, Zhejiang, China",
+  "priceRange": "From US$82",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Bar",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/117933245/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4q12000ebfdrdh906A.jpg"
+    },
+    {
+      "src": "/images/stays/117933245/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0z12000ebf8ab03868.webp"
+    },
+    {
+      "src": "/images/stays/117933245/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4712000ebf7l806819.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The owner was very kind and welcoming, the room was clean, and the location was excellent. Overall, a great experience!",
+      "author": "Guest User",
+      "date": "2026-04-20",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=117933245&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-117933245&trip_sub3=D19127628"
+    },
+    {
+      "quote": "We randomly chose this guesthouse for a weekend getaway and were pleasantly surprised. The owners were incredibly kind and welcoming, making us feel right at home. The owner's pickled mustard greens and shredded pork noodles were especially delicious! The location...",
+      "author": "Guest User",
+      "date": "2026-01-18",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=117933245&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-117933245&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I chose to stay at Bushi Guesthouse for my autumn hike in Moganshan. The guesthouse is conveniently located near the trailhead and only a five-minute walk from the main street, offering a quiet retreat amidst the bustling city. The overall...",
+      "author": "Guest User",
+      "date": "2025-11-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=117933245&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-117933245&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 98,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:08:08.968Z",
+  "source": "trip"
+}

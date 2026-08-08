@@ -1,0 +1,97 @@
+{
+  "id": 446846,
+  "name": "Moganshan Queen Hotel (inside Moganshan Scenic Area)",
+  "seedName": "Moganshan Queen Hotel (inside Moganshan Scenic Area)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-446846",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=446846&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-446846&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Located in the core area of Moganshan Scenic Area, close to attractions such as Lukeng Castle and the place where Chairman Mao stayed, with convenient access to various scenic spots(based on 332 reviews) Environment:Beautiful environment with bamboo forests, mountain views outside the windows, and a quiet atmosphere suitable for vacation(based on 70 reviews) Facilities:Some rooms have complete facilities, such as hot water and air conditioning available. Some rooms also have large bathrooms and good lighting(based on 56 reviews) Service:Front desk staff are helpful, with pre-arrival contact, room upgrades, and assistance with luggage(based on 460 reviews) Breakfast:Has local characteristics, such as delicious bamboo shoots(based on 81 reviews) Guest Suggestion:Some customers suggest old facilities, hygiene issues (hair in towels, musty rooms), and unprofessional/indifferent staff(based on 26 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Located in the core area of Moganshan Scenic Area, close to attractions such as Lukeng Castle and the place where Chairman Mao stayed, with convenient access to various scenic spots",
+        "count": 332
+      },
+      {
+        "topic": "Environment",
+        "text": "Beautiful environment with bamboo forests, mountain views outside the windows, and a quiet atmosphere suitable for vacation",
+        "count": 70
+      },
+      {
+        "topic": "Facilities",
+        "text": "Some rooms have complete facilities, such as hot water and air conditioning available. Some rooms also have large bathrooms and good lighting",
+        "count": 56
+      },
+      {
+        "topic": "Service",
+        "text": "Front desk staff are helpful, with pre-arrival contact, room upgrades, and assistance with luggage",
+        "count": 460
+      },
+      {
+        "topic": "Breakfast",
+        "text": "Has local characteristics, such as delicious bamboo shoots",
+        "count": 81
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest old facilities, hygiene issues (hair in towels, musty rooms), and unprofessional/indifferent staff",
+      "count": 26
+    }
+  },
+  "address": "No. 216 Shangheng Road, Moganshan Scenic Area, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$66",
+  "facilities": [
+    "Restaurant",
+    "Conference room",
+    "Multi-function room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/446846/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3s12000ge0w5ip98B5.jpg"
+    },
+    {
+      "src": "/images/stays/446846/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2u12000fjcozbjE921.webp"
+    },
+    {
+      "src": "/images/stays/446846/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0412000skhz9u310F5.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "I wholeheartedly recommend the Moganshan Queen Hotel! My stay was incredibly pleasant. The hotel boasts a rich history, with a strong Republic of China villa ambiance. Despite its age, the rooms are fully equipped with modern amenities and decor, making...",
+      "author": "Anonymous User",
+      "date": "2026-08-01",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=446846&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-446846&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Pros: Excellent location with beautiful surroundings, situated among old villas in a scenic area. Cons: Some rooms require climbing many, many stairs as there's no elevator and no one to help with luggage. This is extremely inconvenient for guests with...",
+      "author": "Guest User",
+      "date": "2026-08-01",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=446846&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-446846&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Couldn't be happier! It's in the same forest as Naked Stables, lol. There are deer downstairs, and we pet them again and again. You can really see deer deep in the woods. If you have any issues, definitely go to...",
+      "author": "CPA—1",
+      "date": "2026-07-16",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=446846&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-446846&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.1,
+    "count": 1189,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:31:59.713Z",
+  "source": "trip"
+}

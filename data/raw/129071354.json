@@ -1,0 +1,71 @@
+{
+  "id": 129071354,
+  "name": "Árbol(Moganshan Yucun)",
+  "seedName": "Árbol(Moganshan Yucun)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-129071354",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=129071354&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-129071354&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness:Cleanliness is a standout feature, with rooms described as spotless and well-kept. Housekeeping is diligent, ensuring a comfortable and hygienic environment for guests throughout their stay.(based on 125 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness",
+        "text": "Cleanliness is a standout feature, with rooms described as spotless and well-kept. Housekeeping is diligent, ensuring a comfortable and hygienic environment for guests throughout their stay.",
+        "count": 125
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Room 101, No. 312, Yu Street Commercial Street, Huangfu East Road, Yu Village, Deqing, Zhejiang, China",
+  "priceRange": "From US$185",
+  "facilities": [
+    "Restaurant",
+    "Cafe"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/129071354/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0e12000l4e2zhz5E3B.jpg"
+    },
+    {
+      "src": "/images/stays/129071354/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1112000l4e25me891A.webp"
+    },
+    {
+      "src": "/images/stays/129071354/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0z12000l4dmdqi2E73.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The room was really spacious and clean, with excellent natural light and an amazing view. Most importantly, the butler service was incredibly attentive and thorough. Overall, the experience was perfect!",
+      "author": "Guest User",
+      "date": "2026-07-20",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=129071354&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-129071354&trip_sub3=D19127628"
+    },
+    {
+      "quote": "After much deliberation, this hotel didn't disappoint! It's conveniently located near the bus stop and a transportation hub, making it easy for guests without a car to get around. My room was on the fourth floor, accessible by elevator, and...",
+      "author": "Panglili",
+      "date": "2026-05-23",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=129071354&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-129071354&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Facilities: New, smart bathroom fixtures. Hygiene: Clean. Environment: Overall pretty good. There are still many shops nearby under renovation and not yet open. It would be even better if it wasn't so noisy now and then. It's also very close...",
+      "author": "Guest User",
+      "date": "2026-06-16",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=129071354&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-129071354&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 394,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:47:12.419Z",
+  "source": "trip"
+}

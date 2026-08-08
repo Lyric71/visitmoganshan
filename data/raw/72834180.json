@@ -1,0 +1,79 @@
+{
+  "id": 72834180,
+  "name": "Wuji Fine•Mogan Mountain resort hotel",
+  "seedName": "Wuji Fine•Mogan Mountain resort hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-72834180",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=72834180&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-72834180&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness & Hygiene:All rooms, bathrooms, and shared spaces are consistently described as spotless, with clean bedding, fresh towels, and a well-kept swimming pool. Guests emphasize the absence of issues like noisy air conditioners or insufficient hot water.(based on 34 reviews) Activities & Experiences:The hotel provides opportunities for hiking, rafting, cable car rides, and scenic photography. The swimming pool is a highlight for children, and the surrounding area offers tranquil gardens, mountain views, and family-friendly play areas.(based on 16 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Hygiene",
+        "text": "All rooms, bathrooms, and shared spaces are consistently described as spotless, with clean bedding, fresh towels, and a well-kept swimming pool. Guests emphasize the absence of issues like noisy air conditioners or insufficient hot water.",
+        "count": 34
+      },
+      {
+        "topic": "Experiences",
+        "text": "The hotel provides opportunities for hiking, rafting, cable car rides, and scenic photography. The swimming pool is a highlight for children, and the surrounding area offers tranquil gardens, mountain views, and family-friendly play areas.",
+        "count": 16
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Chen Village, Dayao Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$70",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/72834180/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5512000byl89qx6E80.jpg"
+    },
+    {
+      "src": "/images/stays/72834180/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2712000bzo8xoeC5D2.webp"
+    },
+    {
+      "src": "/images/stays/72834180/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1m12000bxqzb1o1CD4.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "There was no door in the bathroom! Although the room was different from the photos, the stay was still comfortable and there were no major issues. The staff were also very friendly. I had a great and relaxing 3-day stay...",
+      "author": "Guest User",
+      "date": "2025-11-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=72834180&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-72834180&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Wuji FINE is a lovely and quiet hotel just outside Yucun, not far from Moganshan National Park. The staff were helpful and friendly and made us delicious food. Would highly recommend staying here. The swimming pool with the view is...",
+      "author": "Jane Hales 1987",
+      "date": "2024-08-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=72834180&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-72834180&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Very nice accomodation in Moganshan area. The host is extremely helpful and a great chef. The food she provided us was just delicious! We‘ve had handmade Jiaozi for breakfast and great dishes for dinner. The room is super comfortable and...",
+      "author": "Rahel20",
+      "date": "2023-10-22",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=72834180&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-72834180&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 65,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:11:04.110Z",
+  "source": "trip"
+}

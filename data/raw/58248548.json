@@ -1,0 +1,93 @@
+{
+  "id": 58248548,
+  "name": "Peace of Mind · hot spring Boutique Hostel",
+  "seedName": "Peace of Mind · hot spring Boutique Hostel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-58248548",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=58248548&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-58248548&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Scenic Location:The accommodation received high praise for its scenic location, surrounded by lush greenery and mountains, providing a tranquil environment ideal for relaxation.(based on 28 reviews) Room Design and Cleanliness:The design and cleanliness of the rooms were frequently highlighted, with users appreciating the minimalist and stylish decor, complete with amenities like floor-to-ceiling windows, Dyson hair dryers, and floor heating.(based on 54 reviews) Unique Features:The availability of private hot springs and themed rooms added a unique touch to the stay, appealing to both families and solo travelers.(based on 20 reviews) Service Quality:Multiple reviews emphasized the excellent service, noting the enthusiastic and attentive staff, who went the extra mile to ensure guest comfort.(based on 72 reviews) Convenient Location:The convenient location, proximity to local attractions like Longtan and Ginkgo Square, and easy transportation options were additional benefits highlighted by guests.(based on 28 reviews) Guest Suggestion:Some customers suggest the room temperature control could be improved, the mattress comfort needs adjustment, and the ov",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Scenic Location",
+        "text": "The accommodation received high praise for its scenic location, surrounded by lush greenery and mountains, providing a tranquil environment ideal for relaxation.",
+        "count": 28
+      },
+      {
+        "topic": "Room Design and Cleanliness",
+        "text": "The design and cleanliness of the rooms were frequently highlighted, with users appreciating the minimalist and stylish decor, complete with amenities like floor-to-ceiling windows, Dyson hair dryers, and floor heating.",
+        "count": 54
+      },
+      {
+        "topic": "Unique Features",
+        "text": "The availability of private hot springs and themed rooms added a unique touch to the stay, appealing to both families and solo travelers.",
+        "count": 20
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Multiple reviews emphasized the excellent service, noting the enthusiastic and attentive staff, who went the extra mile to ensure guest comfort.",
+        "count": 72
+      },
+      {
+        "topic": "Convenient Location",
+        "text": "The convenient location, proximity to local attractions like Longtan and Ginkgo Square, and easy transportation options were additional benefits highlighted by guests.",
+        "count": 28
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 27, Xiantan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$96",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/58248548/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206112000aa5kqrxEBAB.jpg"
+    },
+    {
+      "src": "/images/stays/58248548/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200q1h000001hrfu5CC8E.webp"
+    },
+    {
+      "src": "/images/stays/58248548/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203n12000aa5krsl9244.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The cherry blossoms are red, the banana leaves are green – what lovely weather we've had recently! Relaxing under the canopy was absolutely delightful. The owner was very friendly and quite chatty, exactly what you'd expect from a guesthouse.",
+      "author": "Guest User",
+      "date": "2026-07-10",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=58248548&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-58248548&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Surrounded by mountains and water, with parking and EV charging stations. The auntie's home-cooked dishes are very authentic. The surrounding environment is excellent, and the air is fresh.",
+      "author": "Guest User",
+      "date": "2026-07-10",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=58248548&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-58248548&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room was incredibly comfortable and cozy! It was also very clean, with a pleasant and inviting atmosphere.",
+      "author": "Guest User",
+      "date": "2026-07-10",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=58248548&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-58248548&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 190,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:04:12.306Z",
+  "source": "trip"
+}

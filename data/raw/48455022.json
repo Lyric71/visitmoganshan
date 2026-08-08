@@ -1,0 +1,85 @@
+{
+  "id": 48455022,
+  "name": "Moganshan Puyu near mountain Hot Spring resort",
+  "seedName": "Moganshan Puyu near mountain Hot Spring resort",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-48455022",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=48455022&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-48455022&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:Nestled in the mountains, the hotel offers stunning views and a serene atmosphere. Surrounded by lush greenery, it is a perfect getaway for nature lovers and provides a peaceful retreat away from the bustle of city life. Service:Guests praised the attentive service, noting that staff were responsive and helpful, with some going above and beyond to accommodate guest needs. The presence of a dedicated butler service was highlighted as a positive aspect of the stay.(based on 18 reviews) Location:Conveniently located near Moganshan National Park and other attractions, the hotel is ideal for those looking to explore the area. It's just a short walk from transportation hubs, making it easy to access local sights and activities.(based on 6 reviews) Guest Suggestion:Some customers suggest improving cleanliness, maintenance, and accuracy of breakfast orders.(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Nestled in the mountains, the hotel offers stunning views and a serene atmosphere. Surrounded by lush greenery, it is a perfect getaway for nature lovers and provides a peaceful retreat away from the bustle of city life. Service:Guests praised the attentive service, noting that staff were responsive and helpful, with some going above and beyond to accommodate guest needs. The presence of a dedicated butler service was highlighted as a positive aspect of the stay.",
+        "count": 18
+      },
+      {
+        "topic": "Location",
+        "text": "Conveniently located near Moganshan National Park and other attractions, the hotel is ideal for those looking to explore the area. It's just a short walk from transportation hubs, making it easy to access local sights and activities.",
+        "count": 6
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving cleanliness, maintenance, and accuracy of breakfast orders.",
+      "count": 2
+    }
+  },
+  "address": "No. 56-57, Jimiaowu, Houwu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$115",
+  "facilities": [
+    "Bar",
+    "Restaurant",
+    "Cafe",
+    "Conference room",
+    "Multi-function room",
+    "Playground",
+    "Kids' club"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/48455022/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2a12000bod9wds2EFE.jpg"
+    },
+    {
+      "src": "/images/stays/48455022/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200f190000016g54r9482.webp"
+    },
+    {
+      "src": "/images/stays/48455022/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200f1b000001ate91236B.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "I was so happy with my stay at this hotel! It had a beautiful view and a clean, spacious room with a large bathtub. The host kindly upgraded my room to a bigger one. The host is very kind and...",
+      "author": "Lucie Sbr",
+      "date": "2025-10-14",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=48455022&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-48455022&trip_sub3=D19127628"
+    },
+    {
+      "quote": "We chose this hotel because of its deep pool. The pool was really huge and deep, ranging from 1.3 to 1.6 meters, which is perfect for adults. The rooms were clean and comfortable, with a bathroom, bathrobes, and soft mattresses....",
+      "author": "DMR02",
+      "date": "2025-09-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=48455022&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-48455022&trip_sub3=D19127628"
+    },
+    {
+      "quote": "A great spot for a relaxed self-drive getaway. The owner was incredibly thoughtful, proactively arranging a poolside room for us. We were delayed by over an hour due to heavy traffic on the highway, but once we arrived, they immediately...",
+      "author": "Guest User",
+      "date": "2025-08-10",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=48455022&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-48455022&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 43,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:38:27.514Z",
+  "source": "trip"
+}

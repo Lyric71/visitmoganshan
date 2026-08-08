@@ -1,0 +1,86 @@
+{
+  "id": 1843886,
+  "name": "Moganshan QingmanHouse",
+  "seedName": "Moganshan QingmanHouse",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1843886",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1843886&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1843886&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness and ambiance:Most reviews emphasize the cleanliness of rooms, courtyards, and facilities, with warm, well-decorated interiors and serene outdoor spaces.(based on 14 reviews) Facilities:Features like a swimming pool, spacious terraces, and a beautifully maintained courtyard are frequently praised.(based on 6 reviews) Service quality:Hosts are described as friendly, attentive, and accommodating, with personalized touches like local travel advice and evening activities .(based on 15 reviews) Culinary experience:Home-cooked meals are consistently highlighted as delicious and a key attraction. Location and accessibility:Proximity to transportation hubs and a tranquil, scenic environment are noted.(based on 5 reviews) Design and atmosphere:The property is described as artistic, stylish, and free of commercialized vibes, with a \"home-like\" feel.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness and ambiance",
+        "text": "Most reviews emphasize the cleanliness of rooms, courtyards, and facilities, with warm, well-decorated interiors and serene outdoor spaces.",
+        "count": 14
+      },
+      {
+        "topic": "Facilities",
+        "text": "Features like a swimming pool, spacious terraces, and a beautifully maintained courtyard are frequently praised.",
+        "count": 6
+      },
+      {
+        "topic": "Service quality",
+        "text": "Hosts are described as friendly, attentive, and accommodating, with personalized touches like local travel advice and evening activities .",
+        "count": 15
+      },
+      {
+        "topic": "Culinary experience",
+        "text": "Home-cooked meals are consistently highlighted as delicious and a key attraction. Location and accessibility:Proximity to transportation hubs and a tranquil, scenic environment are noted.",
+        "count": 5
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Lujia Bridge, Houwu, Moganshan Town, Deqing, Zhejiang, 313202, China",
+  "priceRange": "From US$105",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1843886/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0204f120009m2hpac60DE.jpg"
+    },
+    {
+      "src": "/images/stays/1843886/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0586y12000spa4jz61AAF.webp"
+    },
+    {
+      "src": "/images/stays/1843886/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02043120009m2ahog2274.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Every year, the children will come to the owner's family's B&B during their summer vacation. The children like it very much. The B&B is clean and warm, and the courtyard is beautiful. The children's favorite thing is the swimming pool....",
+      "author": "Guest User",
+      "date": "2024-08-11",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1843886&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1843886&trip_sub3=D19127628"
+    },
+    {
+      "quote": "遠遠就看到了非常漂亮的小屋！！位置非常好找 一進門就是鬱鬱葱葱的景象 看着就心情非常好～老闆和老闆娘都是特別熱情的人 一進來就幫忙搬行李 會推薦周邊玩的地方等等 住的非常舒心！（小鳥和小狗也特別可愛☺️）離周圍景區也很近 環境很贊 屋裡特別乾淨 還有香氛的味道 屋子望出去就是山 欣賞風景也是很不錯的～下次會再帶着朋友一起來玩💗",
+      "author": "Anonymous User",
+      "date": "2025-07-15",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1843886&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1843886&trip_sub3=D19127628"
+    },
+    {
+      "quote": "夫妻兩人經營的民宿，十分熱情，老闆娘的早飯做的很美味。我們的車剛停好，老闆就來幫忙拿行李，上樓都要換拖鞋，房間內十分乾淨，陽台正對大山，環境優美。另外老闆養了幾個鸚鵡都十分親人，老婆還跟鸚鵡合影了。老闆還帶我們溪流玩水，看日落。最後一張圖片是他們家的狗，叫奶糖，很漂亮和粘人。雖然就住了一晚，但給我的感覺很棒。下次還來。",
+      "author": "Guest User",
+      "date": "2025-05-25",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1843886&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1843886&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 10,
+    "count": 31,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:49:05.317Z",
+  "source": "trip"
+}

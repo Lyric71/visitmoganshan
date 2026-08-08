@@ -1,0 +1,96 @@
+{
+  "id": 17040020,
+  "name": "Mogan Qitu Private Villa",
+  "seedName": "Mogan Qitu Private Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-17040020",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=17040020&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-17040020&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Spacious Rooms with Panoramic Views:Multiple reviews highlighted large, bright rooms with floor-to-ceiling windows offering unobstructed mountain and cloud views, particularly praised for photography opportunities.(based on 5 reviews) Amenities:Features a swimming pool with mountain spring water, basement entertainment areas , and pet-friendly policies.(based on 4 reviews) Accommodating Hosts:Owners and staff described as warm and helpful, often providing personalized services .(based on 16 reviews) Scenic Environment:Surrounded by natural landscapes, with quiet surroundings and fresh air, ideal for family trips or relaxation.(based on 1 review) Breakfast Quality:Many guests praised the homemade breakfast prepared by the hosts, though some noted it was basic.(based on 2 reviews) Guest Suggestion:Some customers suggest the cleanliness needs improvement (e.g., bed bugs, simple breakfast), service attitude is average, and facilities are generally basic.(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Rooms with Panoramic Views",
+        "text": "Multiple reviews highlighted large, bright rooms with floor-to-ceiling windows offering unobstructed mountain and cloud views, particularly praised for photography opportunities.",
+        "count": 5
+      },
+      {
+        "topic": "Amenities",
+        "text": "Features a swimming pool with mountain spring water, basement entertainment areas , and pet-friendly policies.",
+        "count": 4
+      },
+      {
+        "topic": "Accommodating Hosts",
+        "text": "Owners and staff described as warm and helpful, often providing personalized services .",
+        "count": 16
+      },
+      {
+        "topic": "Scenic Environment",
+        "text": "Surrounded by natural landscapes, with quiet surroundings and fresh air, ideal for family trips or relaxation.",
+        "count": 1
+      },
+      {
+        "topic": "Breakfast Quality",
+        "text": "Many guests praised the homemade breakfast prepared by the hosts, though some noted it was basic.",
+        "count": 2
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest the cleanliness needs improvement (e.g., bed bugs, simple breakfast), service attitude is average, and facilities are generally basic.",
+      "count": 3
+    }
+  },
+  "address": "No. 3 Biwu, Xiantan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$52",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Bar",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/17040020/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2412000gkfuuzy5C9E.jpg"
+    },
+    {
+      "src": "/images/stays/17040020/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3f12000gkftg9919AA.webp"
+    },
+    {
+      "src": "/images/stays/17040020/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5z12000gjzh4e5741A.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "On * New Year's Eve, our family of three decided to travel for the holiday. The owner upgraded our room, which was very clean, and the service was excellent. The housekeeper was also a fantastic cook, preparing six dishes for...",
+      "author": "PPPPPzhu",
+      "date": "2026-02-22",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=17040020&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-17040020&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The price is a bit high. The breakfast is quite poor. They don't even change the towels. It's simply not worth the price. The cleanliness is okay, but there are some peeling paint patches on the walls and small cobwebs.",
+      "author": "Guest User",
+      "date": "2025-08-25",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=17040020&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-17040020&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I think it's very good. It's a genuine guesthouse, very close to the stream, making it convenient for playing in the water.",
+      "author": "Nagi Yan",
+      "date": "2025-07-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=17040020&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-17040020&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 45,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:37:47.864Z",
+  "source": "trip"
+}

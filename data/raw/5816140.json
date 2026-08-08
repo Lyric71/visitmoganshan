@@ -1,0 +1,80 @@
+{
+  "id": 5816140,
+  "name": "Moganshan Liyuan Meizhu",
+  "seedName": "Moganshan Liyuan Meizhu",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5816140",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5816140&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5816140&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Accommodation Standards:Rooms are spacious, clean, and well-maintained, with comfortable bedding and modern furnishings. Each room offers views and sufficient space for large families or groups. Regular maintenance of facilities (e.g., pool water changes) ensures hygiene and safety standards are upheld.(based on 11 reviews) Suitability for Groups:The venue is ideal for family reunions, friend gatherings, or team-building events, accommodating up to 10+ people. Pet-friendly policies and child-friendly amenities (e.g., play areas, meal options) make it versatile for multi-generational stays.(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Accommodation Standards",
+        "text": "Rooms are spacious, clean, and well-maintained, with comfortable bedding and modern furnishings. Each room offers views and sufficient space for large families or groups. Regular maintenance of facilities (e.g., pool water changes) ensures hygiene and safety standards are upheld.",
+        "count": 11
+      },
+      {
+        "topic": "Suitability for Groups",
+        "text": "The venue is ideal for family reunions, friend gatherings, or team-building events, accommodating up to 10+ people. Pet-friendly policies and child-friendly amenities (e.g., play areas, meal options) make it versatile for multi-generational stays.",
+        "count": 2
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 4 Back Lane, Sanqiao Village, Deqing, Zhejiang, China",
+  "priceRange": "From US$65",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Bar",
+    "Cardroom",
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5816140/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3512000cjrofeu31AD.jpg"
+    },
+    {
+      "src": "/images/stays/5816140/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2i12000ci1j0sd7953.webp"
+    },
+    {
+      "src": "/images/stays/5816140/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4i12000cldogxi40A8.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "This villa is very suitable for a private gathering of friends and family. The environment is beautiful, and you don't have to go to the crowded scenic spot. You can relax in the villa. The villa provides a variety of...",
+      "author": "Dedemidao",
+      "date": "2024-05-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5816140&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5816140&trip_sub3=D19127628"
+    },
+    {
+      "quote": "This is a very cost-effective homestay. The environment is elegant, the hardware facilities are well-equipped, the service is warm and thoughtful, and the rooms are clean and tidy. Living here can radiate to the surrounding tourist attractions. If I have...",
+      "author": "Guest User",
+      "date": "2023-10-30",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5816140&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5816140&trip_sub3=D19127628"
+    },
+    {
+      "quote": "1. My family came to Moganshan to visit. After making a reservation the night before, the store contacted me by phone the next day and communicated the check-in details and arrival time. It was really considerate and recommended dining and...",
+      "author": "Jiejiuzuimao",
+      "date": "2023-09-11",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5816140&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5816140&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 27,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:53:29.228Z",
+  "source": "trip"
+}

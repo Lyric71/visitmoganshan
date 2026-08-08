@@ -1,0 +1,93 @@
+{
+  "id": 14565839,
+  "name": "july bamboo",
+  "seedName": "july bamboo",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-14565839",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=14565839&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-14565839&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Tranquil Environment:Located in a secluded bamboo forest or quiet mountain area, offering serene natural views, fresh air, and peaceful ambiance .(based on 5 reviews) Pet-Friendly Atmosphere:Friendly cats and dogs on-site, with accommodations for guests traveling with pets. High-Quality Breakfast:Consistently praised for delicious, locally sourced meals , often described as \"superb\" or \"unexpectedly delicious.\"(based on 14 reviews) Spacious & Well-Designed Rooms:Large rooms with balconies or private courtyards, featuring clean, aesthetically pleasing interiors .(based on 11 reviews) Excellent Service:Warm, attentive staff who provide personalized assistance .(based on 18 reviews) Natural Amenities:Proximity to scenic spots and on-site features like shaded courtyards, small pools, or shaded seating areas.(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Tranquil Environment",
+        "text": "Located in a secluded bamboo forest or quiet mountain area, offering serene natural views, fresh air, and peaceful ambiance .",
+        "count": 5
+      },
+      {
+        "topic": "Pet-Friendly Atmosphere",
+        "text": "Friendly cats and dogs on-site, with accommodations for guests traveling with pets. High-Quality Breakfast:Consistently praised for delicious, locally sourced meals , often described as \"superb\" or \"unexpectedly delicious.\"",
+        "count": 14
+      },
+      {
+        "topic": "Well-Designed Rooms",
+        "text": "Large rooms with balconies or private courtyards, featuring clean, aesthetically pleasing interiors .",
+        "count": 11
+      },
+      {
+        "topic": "Excellent Service",
+        "text": "Warm, attentive staff who provide personalized assistance .",
+        "count": 18
+      },
+      {
+        "topic": "Natural Amenities",
+        "text": "Proximity to scenic spots and on-site features like shaded courtyards, small pools, or shaded seating areas.",
+        "count": 2
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 32, Village Group 6, Lanshukeng Village, Moganshan Town, Deqing, Zhejiang, 313000, China",
+  "priceRange": "From US$106",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Bar",
+    "Restaurant",
+    "Cafe"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/14565839/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2w12000jqs370j6FB9.jpg"
+    },
+    {
+      "src": "/images/stays/14565839/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200g16000000ze412AA5D.webp"
+    },
+    {
+      "src": "/images/stays/14565839/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6e12000jw9v5yc0133.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Beautiful hotel with very helpful staff. We arrived fairly unprepared and they helped us with suggestions, food and transportation. The location is absolutely stunning and tastefully decorated. Wholeheartedly recommend staying here to everyone, including families ⭐️⭐️⭐️⭐️⭐️",
+      "author": "MIBDW",
+      "date": "2025-07-25",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=14565839&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-14565839&trip_sub3=D19127628"
+    },
+    {
+      "quote": "This guesthouse is highly recommended for anyone looking to escape the hustle and bustle of city life for a short weekend or holiday and retreat to the depths of a bamboo forest to enjoy the purest tranquility of nature and...",
+      "author": "Mengxiaoxin",
+      "date": "2026-07-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=14565839&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-14565839&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Hidden away in a secluded spot, this guesthouse was incredibly quiet, with only the gentle sound of flowing water and few people around. The standout feature was the individual villa, with its wooden roof, skylight, large floor-to-ceiling window, and private...",
+      "author": "Anonymous User",
+      "date": "2026-07-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=14565839&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-14565839&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 44,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:36:39.979Z",
+  "source": "trip"
+}

@@ -1,0 +1,91 @@
+{
+  "id": 6387372,
+  "name": "Moganshan Moyu Boutique Hostel",
+  "seedName": "Moganshan Moyu Boutique Hostel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-6387372",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6387372&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6387372&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Accessibility:Easily accessible via Moganshan transfer bus station , near Howou Village, and close to Mogan Mountain.(based on 3 reviews) Environment:Quiet, scenic rural setting with mountain views, fresh air, and proximity to hiking trails. Amenities:Large public spaces with billiards, a pool table, bookshelf, and fireplace; rooms with balconies, clean bedding, and basic comforts.(based on 10 reviews) Dining:Daily varied breakfasts , fresh local produce, and home-cooked meals.(based on 6 reviews) Service:Friendly, accommodating owners and staff who assist with travel questions, provide local recommendations, and maintain a welcoming atmosphere.(based on 10 reviews) Hygiene:Clean rooms, bathrooms, and public areas meeting high standards.(based on 5 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Accessibility",
+        "text": "Easily accessible via Moganshan transfer bus station , near Howou Village, and close to Mogan Mountain.",
+        "count": 3
+      },
+      {
+        "topic": "Environment",
+        "text": "Quiet, scenic rural setting with mountain views, fresh air, and proximity to hiking trails. Amenities:Large public spaces with billiards, a pool table, bookshelf, and fireplace; rooms with balconies, clean bedding, and basic comforts.",
+        "count": 10
+      },
+      {
+        "topic": "Dining",
+        "text": "Daily varied breakfasts , fresh local produce, and home-cooked meals.",
+        "count": 6
+      },
+      {
+        "topic": "Service",
+        "text": "Friendly, accommodating owners and staff who assist with travel questions, provide local recommendations, and maintain a welcoming atmosphere.",
+        "count": 10
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Clean rooms, bathrooms, and public areas meeting high standards.",
+        "count": 5
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 20 Lujia Bridge, Houwu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$42",
+  "facilities": [
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/6387372/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200m0a00000056u0oCF44.jpg"
+    },
+    {
+      "src": "/images/stays/6387372/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200e1c000001e256e089D.webp"
+    },
+    {
+      "src": "/images/stays/6387372/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0586d12000srmwjqtD23E.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "It was okay, and breakfast was pretty good.",
+      "author": "NICK999998888",
+      "date": "2026-07-07",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6387372&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6387372&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The service was the true standout of our stay at this B&B! The owner and his wife were so kind and welcoming to us during our stay. Anything we needed (included a request for a Bluetooth speaker and bicycles to...",
+      "author": "ZoeVH",
+      "date": "2024-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6387372&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6387372&trip_sub3=D19127628"
+    },
+    {
+      "quote": "We stayed here for 3 nights over Qingming and it was perfect for what we wanted. Big room with balcony and easy parking. It’s just off the highway (easy to find) but still peaceful and quiet. Very friendly and extremely...",
+      "author": "Guest User",
+      "date": "2024-04-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6387372&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6387372&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.8,
+    "count": 19,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:03:43.166Z",
+  "source": "trip"
+}

@@ -1,0 +1,81 @@
+{
+  "id": 5460930,
+  "name": "Fengshu Holiday Guesthouse",
+  "seedName": "Fengshu Holiday Guesthouse",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5460930",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5460930&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5460930&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Rooms & Facilities:Rooms are described as clean, spacious, and well-equipped with comfortable beds, ample natural light, and essential amenities. Many guests highlighted the cleanliness, safety, and comfort of the accommodations, including features like private bathrooms and quiet surroundings.(based on 66 reviews) Dining Experience:Meals, particularly breakfast, are highlighted as flavorful and authentic, often featuring homemade dishes and locally sourced ingredients. Some reviews mention complimentary meals or recommendations for nearby farms like Yundou, known for its exceptional fish dishes.(based on 28 reviews) Ambiance & Atmosphere:The guesthouse exudes a welcoming, home-like atmosphere with a focus on relaxation. Guests noted the peaceful setting, pet-friendly policies, and the sense of security and comfort provided by the clean, well-maintained environment.(based on 54 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Facilities",
+        "text": "Rooms are described as clean, spacious, and well-equipped with comfortable beds, ample natural light, and essential amenities. Many guests highlighted the cleanliness, safety, and comfort of the accommodations, including features like private bathrooms and quiet surroundings.",
+        "count": 66
+      },
+      {
+        "topic": "Dining Experience",
+        "text": "Meals, particularly breakfast, are highlighted as flavorful and authentic, often featuring homemade dishes and locally sourced ingredients. Some reviews mention complimentary meals or recommendations for nearby farms like Yundou, known for its exceptional fish dishes.",
+        "count": 28
+      },
+      {
+        "topic": "Atmosphere",
+        "text": "The guesthouse exudes a welcoming, home-like atmosphere with a focus on relaxation. Guests noted the peaceful setting, pet-friendly policies, and the sense of security and comfort provided by the clean, well-maintained environment.",
+        "count": 54
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 8, Xiwuli, Houwu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$46",
+  "facilities": [
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5460930/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5012000e0wugyj5A24.jpg"
+    },
+    {
+      "src": "/images/stays/5460930/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200c14000000x7hc453C6.webp"
+    },
+    {
+      "src": "/images/stays/5460930/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200m14000000xe7v0AEA4.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Choosing this place when visiting Moganshan was a great decision. The owner was welcoming, and the rooms were clean. The free breakfast was delicious. It's conveniently located and easy to find, with parking available. It's very close to the Houwu...",
+      "author": "Guest User",
+      "date": "2025-10-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5460930&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5460930&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Facilities: Although the decor is quite old, it still retains a classic charm and feels very comfortable. Cleanliness: Despite the years of renovation, the floors are very clean, and the staff is very considerate in changing shoes upstairs. The entire...",
+      "author": "Guest User",
+      "date": "2025-08-15",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5460930&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5460930&trip_sub3=D19127628"
+    },
+    {
+      "quote": "This was my first time staying in a rural guesthouse. My wife and I chose Fengshu from five guesthouses we had previously considered. The reviews were definitely positive; Fengshu truly satisfied us. The owners, along with their parents, and two...",
+      "author": "Guest User",
+      "date": "2025-08-16",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5460930&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5460930&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 139,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:51:17.319Z",
+  "source": "trip"
+}

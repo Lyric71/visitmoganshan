@@ -1,0 +1,92 @@
+{
+  "id": 8602567,
+  "name": "Morning Inn",
+  "seedName": "Morning Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-8602567",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8602567&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8602567&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Situated near Moganshan mountain trails, Yu Village, and a stream, offering easy access to hiking paths, scenic views, and local attractions within walking distance.(based on 13 reviews) Accommodation:Spacious rooms with large balconies, soundproofing, and comfortable bedding . Cleanliness is emphasized, with meticulous attention to detail in both rooms and public areas.(based on 23 reviews) Service:Warm, attentive hosts who provide personalized assistance .(based on 29 reviews) Facilities:Includes recreational amenities , a cozy lobby for socializing, and a well-equipped kitchen for meals.(based on 21 reviews) Environment:Peaceful, nature-immersive setting with mountain vistas, bamboo forests, and a quiet atmosphere, ideal for relaxation.(based on 7 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Situated near Moganshan mountain trails, Yu Village, and a stream, offering easy access to hiking paths, scenic views, and local attractions within walking distance.",
+        "count": 13
+      },
+      {
+        "topic": "Accommodation",
+        "text": "Spacious rooms with large balconies, soundproofing, and comfortable bedding . Cleanliness is emphasized, with meticulous attention to detail in both rooms and public areas.",
+        "count": 23
+      },
+      {
+        "topic": "Service",
+        "text": "Warm, attentive hosts who provide personalized assistance .",
+        "count": 29
+      },
+      {
+        "topic": "Facilities",
+        "text": "Includes recreational amenities , a cozy lobby for socializing, and a well-equipped kitchen for meals.",
+        "count": 21
+      },
+      {
+        "topic": "Environment",
+        "text": "Peaceful, nature-immersive setting with mountain vistas, bamboo forests, and a quiet atmosphere, ideal for relaxation.",
+        "count": 7
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 23, Mogaowu, Liaoyuan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$82",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Billiards room",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/8602567/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200f0j000000aiipk5F31.jpg"
+    },
+    {
+      "src": "/images/stays/8602567/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20030h00000092rzk7001.webp"
+    },
+    {
+      "src": "/images/stays/8602567/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200i0o000000eldhkEE59.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Very nice host and good place to stay in Moganshan to explore the trail towards jianchi. Gave us a very detail sharing on how best to explore Moganshan, give our time is limited. Yummy home cooked breakfast too.",
+      "author": "bsursicub4",
+      "date": "2026-06-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8602567&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8602567&trip_sub3=D19127628"
+    },
+    {
+      "quote": "i went there for a trail race and had no complaint to this hostel. it is super clean and the owner couple are very friendly and sincere the male owner even offered to drive out to pick us up in...",
+      "author": "BeliaY",
+      "date": "2026-04-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8602567&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8602567&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Great friendly run family hotel. Owners were very kind and very helpful.",
+      "author": "Guest User",
+      "date": "2026-08-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8602567&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8602567&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 10,
+    "count": 43,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:32:40.682Z",
+  "source": "trip"
+}

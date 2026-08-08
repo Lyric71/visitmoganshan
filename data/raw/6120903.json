@@ -1,0 +1,82 @@
+{
+  "id": 6120903,
+  "name": "Shengdao Mogan Hot Spring Resort Meishu",
+  "seedName": "Shengdao Mogan Hot Spring Resort Meishu",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-6120903",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6120903&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6120903&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Scenic Environment:The environment is described as peaceful and scenic, with beautiful surroundings such as bamboo forests and mountain views adding to the tranquility. The location offers a quiet retreat while still being conveniently close to attractions.(based on 18 reviews) Room Design and Cleanliness:Rooms are noted for their cleanliness and stylish design, often with Mediterranean or Greek influences. The spaciousness and thoughtful decor contribute to a comfortable and aesthetically pleasing environment, enhancing the guest experience.(based on 105 reviews) Guest Suggestion:Some customers suggest improving value for money; price is high, services and cleanliness concerns.(based on 8 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Scenic Environment",
+        "text": "The environment is described as peaceful and scenic, with beautiful surroundings such as bamboo forests and mountain views adding to the tranquility. The location offers a quiet retreat while still being conveniently close to attractions.",
+        "count": 18
+      },
+      {
+        "topic": "Room Design and Cleanliness",
+        "text": "Rooms are noted for their cleanliness and stylish design, often with Mediterranean or Greek influences. The spaciousness and thoughtful decor contribute to a comfortable and aesthetically pleasing environment, enhancing the guest experience.",
+        "count": 105
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving value for money; price is high, services and cleanliness concerns.",
+      "count": 8
+    }
+  },
+  "address": "No. 10, Huangni Mountain, Fangshan Village, Mogan Mountain, Deqing, Zhejiang, China",
+  "priceRange": "From US$70",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/6120903/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206512000pwh9ldxD70A.jpg"
+    },
+    {
+      "src": "/images/stays/6120903/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3k12000ma0kuvmC5D3.webp"
+    },
+    {
+      "src": "/images/stays/6120903/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1e12000memxpzz3FDC.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The environment is amazing! Moganshan is super beautiful, surrounded by lush greenery – perfect for a vacation. All the little towns nearby are charming, and the village cafes serve really good coffee; that was a pleasant surprise!",
+      "author": "Wubapatelike",
+      "date": "2026-06-08",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6120903&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6120903&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Service: The service was excellent! Ambiance: Very quiet and peaceful, perfect for a relaxing sleep after a hot spring bath.",
+      "author": "Guest User",
+      "date": "2026-04-12",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6120903&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6120903&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Right from the moment we entered, it was a constant climb up stairs. Being pregnant, I really couldn't handle it. Then, about the facilities: my first impression upon entering the room was that it was old, rundown, and had an...",
+      "author": "Guest User",
+      "date": "2026-04-12",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6120903&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6120903&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 155,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:16:15.628Z",
+  "source": "trip"
+}

@@ -1,0 +1,85 @@
+{
+  "id": 98497606,
+  "name": "moganyisuxiaoyaoyao",
+  "seedName": "moganyisuxiaoyaoyao",
+  "city": "Huzhou",
+  "cityId": 86,
+  "goSlug": "moganshan-98497606",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=98497606&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-98497606&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Accessibility:The property is conveniently located near key attractions with a 10–12-minute drive, and offers free parking.(based on 11 reviews) Cleanliness & Maintenance:Rooms, bedding, and bathrooms are consistently praised for being clean, tidy, and well-maintained, even by users with high cleanliness standards.(based on 20 reviews) Amenities & Facilities:Features include a pool, KTV, table tennis, and recreational areas . The layout is spacious, with a family-friendly design.(based on 8 reviews) Service & Atmosphere:Staff are described as friendly, helpful, and attentive, especially for families with children. The interior is noted for its warm, artistic, and relaxing ambiance.(based on 16 reviews) Suitability:Ideal for families, couples, and groups due to its spacious layout, recreational options, and proximity to natural attractions.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Accessibility",
+        "text": "The property is conveniently located near key attractions with a 10–12-minute drive, and offers free parking.",
+        "count": 11
+      },
+      {
+        "topic": "Maintenance",
+        "text": "Rooms, bedding, and bathrooms are consistently praised for being clean, tidy, and well-maintained, even by users with high cleanliness standards.",
+        "count": 20
+      },
+      {
+        "topic": "Facilities",
+        "text": "Features include a pool, KTV, table tennis, and recreational areas . The layout is spacious, with a family-friendly design.",
+        "count": 8
+      },
+      {
+        "topic": "Atmosphere",
+        "text": "Staff are described as friendly, helpful, and attentive, especially for families with children. The interior is noted for its warm, artistic, and relaxing ambiance.",
+        "count": 16
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 48, Huangnishan, Fangshan Village, Daixi Town, Wuxing District, Huzhou, Zhejiang, China",
+  "priceRange": "From US$72",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/98497606/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2e12000ev2235d7EE5.jpg"
+    },
+    {
+      "src": "/images/stays/98497606/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02017120009xwnb0u2625.webp"
+    },
+    {
+      "src": "/images/stays/98497606/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206b120009xwmn81C977.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "雨後山裡涼快，小院安靜好休息，去庾村吃飯方便，金魚媽媽、董哥酸菜魚味道不錯，整體體驗舒服。老闆娘服務很好，下次來的話還選這家",
+      "author": "Guest User",
+      "date": "2026-07-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=98497606&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-98497606&trip_sub3=D19127628"
+    },
+    {
+      "quote": "國慶假期 來到了莫干山 由於工作原因 壓力過大 需要給自己一個釋放 獨處的機會和環境 接近自然 走進自然 來這裏放空一下 btw 超喜歡這間民宿的裝修風格 木質結構就是令人舒服 推薦大家來哦！",
+      "author": "Guest User",
+      "date": "2025-10-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=98497606&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-98497606&trip_sub3=D19127628"
+    },
+    {
+      "quote": "正好和家人一起去，定在同二層，中間有個客廳，玩也很舒服，走出去有個小陽台，可以曬洗衣服，很方便。晚上在小院涼亭閑聊吹吹風，很愜意哦",
+      "author": "Guest User",
+      "date": "2025-10-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=98497606&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-98497606&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.2,
+    "count": 38,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:47:26.117Z",
+  "source": "trip"
+}

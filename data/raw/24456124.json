@@ -1,0 +1,91 @@
+{
+  "id": 24456124,
+  "name": "Moganshan Huajianji Homestay (Miaoqian Village Scenic Area)",
+  "seedName": "Moganshan Huajianji Homestay (Miaoqian Village Scenic Area)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-24456124",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=24456124&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-24456124&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service Quality:Hostess/boss lady consistently praised for being warm, attentive, and helpful .(based on 18 reviews) Environment:Located in mountainous areas with proximity to streams, bamboo forests, and natural scenery, offering tranquility and a rustic atmosphere.(based on 4 reviews) Facilities:Rooms are clean, well-decorated, and equipped with modern amenities . Public spaces include open kitchens, reading areas, and recreational equipment .(based on 7 reviews) Free Services:Complimentary breakfast with locally grown ingredients, flexible check-out arrangements, and personalized recommendations for nearby attractions.(based on 8 reviews) Unique Features:Themed decor , natural negative ion environment, and opportunities for outdoor activities . Guest Suggestion:Some customers suggest that the room hygiene is poor, the bedside table sockets are loose making charging inconvenient, and the cost-effectiveness is relatively low(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service Quality",
+        "text": "Hostess/boss lady consistently praised for being warm, attentive, and helpful .",
+        "count": 18
+      },
+      {
+        "topic": "Environment",
+        "text": "Located in mountainous areas with proximity to streams, bamboo forests, and natural scenery, offering tranquility and a rustic atmosphere.",
+        "count": 4
+      },
+      {
+        "topic": "Facilities",
+        "text": "Rooms are clean, well-decorated, and equipped with modern amenities . Public spaces include open kitchens, reading areas, and recreational equipment .",
+        "count": 7
+      },
+      {
+        "topic": "Free Services",
+        "text": "Complimentary breakfast with locally grown ingredients, flexible check-out arrangements, and personalized recommendations for nearby attractions.",
+        "count": 8
+      },
+      {
+        "topic": "Unique Features",
+        "text": "Themed decor , natural negative ion environment, and opportunities for outdoor activities . Guest Suggestion:Some customers suggest that the room hygiene is poor, the bedside table sockets are loose making charging inconvenient, and the cost-effectiveness is relatively low",
+        "count": 2
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Village Group 5, Miaoqian Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$67",
+  "facilities": [
+    "Restaurant",
+    "Multi-function room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/24456124/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200m0x000000lars649CD.jpg"
+    },
+    {
+      "src": "/images/stays/24456124/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200g0x000000l23lqDDCD.webp"
+    },
+    {
+      "src": "/images/stays/24456124/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0227312000azrv91xBE3D.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "amazing hotel. so comfy and nice",
+      "author": "Alin04qa",
+      "date": "2023-10-15",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=24456124&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-24456124&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The environment was very quiet, the decor had a nice atmosphere, and the room was clean and tidy. The host was very attentive; they even took me to the scenic area's distribution center in the morning, which was very thoughtful....",
+      "author": "Anonymous User",
+      "date": "2026-07-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=24456124&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-24456124&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I've been to Moganshan countless times, and each time I stay at a guesthouse, it's unique and amazing. This one was no exception. Because it was a last-minute trip, we arrived close to midnight. The guesthouse is in Miaoqian Village,...",
+      "author": "Guest User",
+      "date": "2026-03-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=24456124&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-24456124&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.7,
+    "count": 44,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:45:25.248Z",
+  "source": "trip"
+}

@@ -1,0 +1,68 @@
+{
+  "id": 2782770,
+  "name": "Yuanshan Hostel",
+  "seedName": "Yuanshan Hostel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2782770",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2782770&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2782770&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Accommodation:Rooms are clean, modern , and spacious with private terraces, balconies, or mountain vistas. Facilities include swimming pools, KTV, billiards, and free parking. Services & Hospitality:The host family is highly praised for their warmth, responsiveness, and personalized care . Breakfast is diverse and home-cooked, often featuring local ingredients . Amenities:Includes free children’s activities , and optional services like BBQ, full-course meals , and guided tours. Cleanliness:Consistently described as spotless, with well-maintained public spaces and private rooms.",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Biwu New Rural Area, Xiantan Village, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$1,000",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant",
+    "Conference room",
+    "Multi-function room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/2782770/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0580p12000sozwjlhE5DB.jpg"
+    },
+    {
+      "src": "/images/stays/2782770/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0z12000artxcp43F04.webp"
+    },
+    {
+      "src": "/images/stays/2782770/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02016120009ky18x5FF14.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "住了好多民宿了，這家真的是寶藏民宿，是目前住到過最乾淨的民宿，有泳池，桌球桌，棋牌，幾家一起出來玩，或者單位團建非常合適，提供的早飯品種也很豐富，很好吃，同行的人都讚不絕口，還可以提早跟老闆預訂中飯和晚飯，我們定了晚餐阿姨的手藝非常好，做的很好吃。老闆一家人都很好，非常隨和，家裡還有一條迎賓狗狗，是個小胖妞，拿手機對這它 就會展開笑臉 我家娃超喜歡它，下次來莫干山還 會住這家的。",
+      "author": "Guest User",
+      "date": "2026-04-13",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2782770&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2782770&trip_sub3=D19127628"
+    },
+    {
+      "quote": "非常好的民宿。 房間寬敞明亮，有中央空調，正好坐在窗前喝着山泉水泡的茶，磕嗑瓜子，看看遠處的山景放空心情。早餐豐富，老闆娘燒菜很好吃，我們中午吃多了，晚上想吃點清淡的，老闆娘還給我們準備了清粥，紅薯，番茄雞蛋麪，配着剛剛從地裏採的茄子，紅薯葉，有機食材加上老闆娘的手藝，感覺吃得比中午的雞湯更落胃。 老闆家還有一衹漂亮乖巧的薩摩，會跟着客人出門遛彎。 附近吃飯的餐廳挺多，家家都有老母雞湯和水庫魚。門口有條小溪，水乾淨不深，適合小朋友玩水。",
+      "author": "Guest User",
+      "date": "2026-04-13",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2782770&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2782770&trip_sub3=D19127628"
+    },
+    {
+      "quote": "走的比較匆忙，忘記拍照了，房東很熱情，入住事項提前就溝通好了，有啥需要的，房東都會幫忙完成，還會給莫干山周邊的旅遊景點做介紹，方便我們遊玩，門口就是山，風景很好，視野開闊，還能溯溪，特別適合幾家人帶小朋友一起去遊玩入住。臨走時一些隨身物品忘記攜帶，房東自掏腰包給我們快遞送上家， 十分感謝。",
+      "author": "Guest User",
+      "date": "2026-08-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2782770&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2782770&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 35,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:48:20.999Z",
+  "source": "trip"
+}

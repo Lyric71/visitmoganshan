@@ -1,0 +1,83 @@
+{
+  "id": 120353017,
+  "name": "Moganshan Jinganli Villa",
+  "seedName": "Moganshan Jinganli Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-120353017",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=120353017&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-120353017&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:Praised for its serene, green, and quiet atmosphere, with well-maintained lawns and a modern, welcoming interior.(based on 2 reviews) Service:Highlighted prompt and friendly staff responses, including efficient shuttle services .(based on 9 reviews) Facilities:Commended for modern rooms, fully equipped kitchens, board games, and recreational amenities .(based on 6 reviews) Accessibility:With child-friendly provisions. Cleanliness:Positive feedback on hygiene, including clean rooms and well-maintained common areas.(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Praised for its serene, green, and quiet atmosphere, with well-maintained lawns and a modern, welcoming interior.",
+        "count": 2
+      },
+      {
+        "topic": "Service",
+        "text": "Highlighted prompt and friendly staff responses, including efficient shuttle services .",
+        "count": 9
+      },
+      {
+        "topic": "Facilities",
+        "text": "Commended for modern rooms, fully equipped kitchens, board games, and recreational amenities .",
+        "count": 6
+      },
+      {
+        "topic": "Accessibility",
+        "text": "With child-friendly provisions. Cleanliness:Positive feedback on hygiene, including clean rooms and well-maintained common areas.",
+        "count": 3
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Room 102, Building 92, Jun'anli, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$235",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/120353017/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0202o12000eg72vxh0D6A.jpg"
+    },
+    {
+      "src": "/images/stays/120353017/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4n12000f1gu5yq066C.webp"
+    },
+    {
+      "src": "/images/stays/120353017/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3v12000eduq6h993A1.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The butler service was very attentive, the mountain air was fresh, there was even a washing machine, and the living room had a karaoke area. The swimming pool was divided into three sections, with deep and shallow areas, suitable for...",
+      "author": "Guest User",
+      "date": "2025-08-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=120353017&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-120353017&trip_sub3=D19127628"
+    },
+    {
+      "quote": "1. I booked the wrong hotel. I meant to book the Junanli Resort Hotel (hotel operated), but I booked the Jing'anli Villa Grand Apartment (owner-owned, similar to a guesthouse) instead. Please be careful if you're considering booking there. 2. The...",
+      "author": "Guest User",
+      "date": "2025-10-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=120353017&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-120353017&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The overall environment was very good, especially the housekeeper who was very attentive and meticulous; however, since it is not a hotel, the cleaning was not very thorough (the trash was not collected, the bath towels were not changed, and...",
+      "author": "Zoutiaokanrensheng",
+      "date": "2025-08-16",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=120353017&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-120353017&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.9,
+    "count": 20,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:03:07.780Z",
+  "source": "trip"
+}

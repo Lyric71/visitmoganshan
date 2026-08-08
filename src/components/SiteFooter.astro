@@ -1,9 +1,19 @@
 ---
 import Lockup from './Lockup.astro';
+import { TYPE_LABEL, TYPE_ORDER, typePath } from '../lib/stays';
 
 /**
  * Four columns on bamboo with mist type (8.43:1, AAA).
+ *
+ * Stay reproduces the header's "Where to stay" column rather than restating it,
+ * and reads from TYPE_ORDER for the same reason the header does: a type added
+ * there appears in both menus without a second edit. A footer that disagrees
+ * with the header about what the site contains is worse than no footer.
  */
+const STAY_TYPE_LINKS = TYPE_ORDER.map((type) => ({
+  label: TYPE_LABEL[type],
+  href: typePath(type),
+}));
 const COLUMNS = [
   {
     title: 'Discover',
@@ -24,22 +34,26 @@ const COLUMNS = [
     ],
   },
   {
-    title: 'Stay',
-    links: [
-      { label: 'Best hotels', href: '/where-to-stay/best-hotels' },
-      { label: 'Hotel directory', href: '/where-to-stay' },
-      { label: 'Private villas', href: '/where-to-stay/villas' },
-      { label: 'Groups', href: '/groups' },
-    ],
+    title: 'Where to stay',
+    links: STAY_TYPE_LINKS,
+    // Seven against four leaves this column running well past its neighbours.
+    // Split into two so the row of columns ends roughly level.
+    split: true,
   },
-  {
-    title: 'About',
-    links: [
-      { label: 'About this site', href: '/about' },
-      { label: 'Trade and media', href: '/trade' },
-      { label: 'Contact', href: '/contact' },
-    ],
-  },
+];
+
+/**
+ * Second level. Not a destination column: these are about the publisher, not
+ * about the mountain, and a reader scanning the footer for somewhere to go
+ * should not have them competing with the three that are.
+ *
+ * Still above the legal line, because somebody hunting for the contact page
+ * should not have to read past the cookie policy to find it.
+ */
+const SECONDARY = [
+  { label: 'About this site', href: '/about' },
+  { label: 'Trade and media', href: '/trade' },
+  { label: 'Contact', href: '/contact' },
 ];
 
 const year = new Date().getFullYear();
@@ -50,7 +64,10 @@ const year = new Date().getFullYear();
     <div class="footer__grid">
       {
         COLUMNS.map((column) => (
-          <nav class="footer__col" aria-label={column.title}>
+          <nav
+            class:list={['footer__col', column.split && 'footer__col--split']}
+            aria-label={column.title}
+          >
             <h2 class="footer__col-title">{column.title}</h2>
             <ul>
               {column.links.map((link) => (
@@ -72,13 +89,25 @@ const year = new Date().getFullYear();
       <p class="footer__cjk" lang="zh-Hans">莫干山</p>
     </div>
 
+    <nav class="footer__secondary" aria-label="About this site">
+      <ul>
+        {
+          SECONDARY.map((link) => (
+            <li>
+              <a href={link.href}>{link.label}</a>
+            </li>
+          ))
+        }
+      </ul>
+    </nav>
+
     <div class="footer__base">
       <p>
         &copy; {year} Visit Moganshan · <a href="/sitemap">Sitemap</a> · <a href="/privacy"
           >Privacy</a
         > · <a href="/terms">Terms</a> · <a href="/cookies">Cookies</a> · <a
           href="/user-generated-content">Content terms</a
-        > · <a href="/plan/disclosure">How this site is funded</a>
+        > · <a href="/plan/disclosure">How this site is funded</a> · <a href="/admin">Admin</a>
       </p>
       <!-- A plain fragment link, so it works with scripting off and lands on the
            skip link rather than mid-header. -->
@@ -129,6 +158,16 @@ const year = new Date().getFullYear();
     text-underline-offset: 4px;
   }
 
+  /* Only once the footer itself has gone wide. Below that the column is already
+     half a phone wide, and splitting it again wraps every label. */
+  @media (min-width: 768px) {
+    .footer__col--split ul {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 0 1rem;
+    }
+  }
+
   .footer__brand {
     display: flex;
     flex-wrap: wrap;
@@ -146,12 +185,37 @@ const year = new Date().getFullYear();
     color: var(--color-mist-muted);
   }
 
+  /* Between the columns and the legal line, and weighted between them: mist
+     type like a column link, inline like the legal row. */
+  .footer__secondary ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0 1.75rem;
+    margin: 1.5rem 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .footer__secondary a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 44px;
+    font-size: 0.9375rem;
+    text-decoration: none;
+    color: var(--color-mist);
+  }
+
+  .footer__secondary a:hover {
+    text-decoration: underline;
+    text-underline-offset: 4px;
+  }
+
   .footer__base {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     gap: 0.5rem 2rem;
-    margin-top: 2.5rem;
+    margin-top: 1.25rem;
     padding-top: 1.5rem;
     border-top: 1px solid color-mix(in srgb, var(--color-mist) 12%, transparent);
     font-size: 0.8125rem;
@@ -182,9 +246,10 @@ const year = new Date().getFullYear();
     }
   }
 
+  /* The split column carries two lists, so it takes two shares of the row. */
   @media (min-width: 768px) {
     .footer__grid {
-      grid-template-columns: repeat(4, minmax(0, 1fr));
+      grid-template-columns: 1fr 1fr 2fr;
     }
   }
 </style>

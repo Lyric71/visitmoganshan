@@ -1,0 +1,81 @@
+{
+  "id": 25322855,
+  "name": "Moganshan recalls the past",
+  "seedName": "Moganshan recalls the past",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-25322855",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=25322855&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-25322855&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness and Comfort:Rooms are described as exceptionally clean and well-maintained, with comfortable bedding and thoughtful details like quality toiletries. The overall ambiance is cozy and homely, contributing to a restful stay.(based on 89 reviews) Facilities:Guests appreciate the variety of facilities available, including a swimming pool and convenient parking with charging stations. The presence of cats and dogs adds to the homely and friendly atmosphere.(based on 46 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness and Comfort",
+        "text": "Rooms are described as exceptionally clean and well-maintained, with comfortable bedding and thoughtful details like quality toiletries. The overall ambiance is cozy and homely, contributing to a restful stay.",
+        "count": 89
+      },
+      {
+        "topic": "Facilities",
+        "text": "Guests appreciate the variety of facilities available, including a swimming pool and convenient parking with charging stations. The presence of cats and dogs adds to the homely and friendly atmosphere.",
+        "count": 46
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 10, Jimiaowu, Houwu Village, Moganshan, Deqing, Zhejiang, China",
+  "priceRange": "From US$91",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Bar",
+    "Billiards room",
+    "Restaurant",
+    "Conference room",
+    "Multi-function room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/25322855/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200v120009l59pw1F142.jpg"
+    },
+    {
+      "src": "/images/stays/25322855/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201j120009lcwy4q7931.webp"
+    },
+    {
+      "src": "/images/stays/25322855/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201m120009lcs1ok2A3A.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "This was my first time visiting Moganshan, and I'm so glad I chose this place – it was absolutely perfect! In the evening, the auntie even thoughtfully reserved a charging spot for me. The accommodation and the surrounding natural environment...",
+      "author": "Guest User",
+      "date": "2025-12-01",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=25322855&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-25322855&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The photos online really do not match the actual appearance of the property. The whole place needs extra care and attention. Especially the outdoor searing area and the spa. We found the spa was so dirty and smelled strange, so...",
+      "author": "Guest User",
+      "date": "2025-02-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=25322855&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-25322855&trip_sub3=D19127628"
+    },
+    {
+      "quote": "This was my first time visiting Moganshan, and I'm so glad I chose this place – it was absolutely perfect! In the evening, the auntie even thoughtfully reserved a charging spot for me. The accommodation and the surrounding natural environment...",
+      "author": "Guest User",
+      "date": "2025-12-01",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=25322855&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-25322855&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 249,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:47:56.762Z",
+  "source": "trip"
+}

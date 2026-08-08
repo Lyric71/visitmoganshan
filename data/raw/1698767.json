@@ -1,0 +1,88 @@
+{
+  "id": 1698767,
+  "name": "Moganshan Freetime Hotel",
+  "seedName": "Moganshan Freetime Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1698767",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1698767&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1698767&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:The hotel offers a serene environment surrounded by mountains and bamboo forests, providing fresh air and beautiful views. It is conveniently located near popular attractions like Moganshan, making it an ideal retreat for families and nature lovers.(based on 215 reviews) Family-Friendliness:Highly recommended for families, the hotel provides extensive amenities for children, such as sand pits, swings, and a game room, making it a perfect choice for family vacations.(based on 328 reviews) Cuisine:Guests frequently praise the home-style, delicious meals available at the hotel's restaurant. Breakfast is often highlighted for its quality, with dishes like noodles and local specialties receiving specific commendation.(based on 149 reviews) Guest Suggestion:Some customers suggest improving cleanliness, maintenance, service quality, staff responsiveness, accessibility, and transportation options.(based on 14 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "The hotel offers a serene environment surrounded by mountains and bamboo forests, providing fresh air and beautiful views. It is conveniently located near popular attractions like Moganshan, making it an ideal retreat for families and nature lovers.",
+        "count": 215
+      },
+      {
+        "topic": "Family-Friendliness",
+        "text": "Highly recommended for families, the hotel provides extensive amenities for children, such as sand pits, swings, and a game room, making it a perfect choice for family vacations.",
+        "count": 328
+      },
+      {
+        "topic": "Cuisine",
+        "text": "Guests frequently praise the home-style, delicious meals available at the hotel's restaurant. Breakfast is often highlighted for its quality, with dishes like noodles and local specialties receiving specific commendation.",
+        "count": 149
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving cleanliness, maintenance, service quality, staff responsiveness, accessibility, and transportation options.",
+      "count": 14
+    }
+  },
+  "address": "No. 9, Xiantan Village, Moganshan Town, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$69",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1698767/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200j1f000001gohkr64AA.jpg"
+    },
+    {
+      "src": "/images/stays/1698767/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1q12000gufmfcd78B6.webp"
+    },
+    {
+      "src": "/images/stays/1698767/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6m12000gpfztcd3B42.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The B&B is close to the scenic area, making transportation very convenient! The customer service is incredibly warm and professional! I have to give a special shout-out to the owner! When I mentioned wanting to take photos, they immediately provided...",
+      "author": "Anonymous User",
+      "date": "2026-07-29",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1698767&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1698767&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The B&B offers great service and a beautiful environment. It's quite convenient for exploring nearby attractions, making it ideal for those traveling by car.",
+      "author": "Guest User",
+      "date": "2026-07-30",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1698767&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1698767&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The cabin is a bit secluded, which is nice for privacy. We saw little squirrels and frogs! It has a full Japanese-style decor. The room isn't brand new but it's very clean. I forgot to take pictures of the room,...",
+      "author": "mooncakeyu",
+      "date": "2026-07-29",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1698767&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1698767&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 2021,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:13:32.316Z",
+  "source": "trip"
+}

@@ -1,0 +1,71 @@
+{
+  "id": 4603555,
+  "name": "Juesu Hot Spring Hostel",
+  "seedName": "Juesu Hot Spring Hostel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-4603555",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4603555&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4603555&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Juesu Hot Spring Hostel?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Biwu, Xiantan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$46",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Hot springs",
+    "Bar",
+    "Tea room",
+    "Restaurant",
+    "Cafe",
+    "Conference room",
+    "Multi-function room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/4603555/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3212000nz6yk60452F.jpg"
+    },
+    {
+      "src": "/images/stays/4603555/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2z12000nz6yw01701D.webp"
+    },
+    {
+      "src": "/images/stays/4603555/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3712000nz6tea5683C.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Very friendly environment. Quiet, very nice view. The hosts are very welcome and helpful even they can’t speak English. If you are looking for are come down weekend, this location is perfect to relax.",
+      "author": "Guest User",
+      "date": "2024-04-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4603555&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4603555&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I decided to go to Moganshan on a whim. I had heard of Fern House a long time ago and longed to be a fern in the mountains, growing freely and on my own. It really lived up to my...",
+      "author": "Guest User",
+      "date": "2024-05-11",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4603555&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4603555&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The housekeeper is very nice. I am so happy that the room type was upgraded. The room is clean and transparent. You can see the mountain view opposite when lying on the bed. There seems to be a faint sweetness...",
+      "author": "px447858883",
+      "date": "2024-05-11",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4603555&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4603555&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.7,
+    "count": 134,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:36:17.099Z",
+  "source": "trip"
+}

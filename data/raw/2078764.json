@@ -1,0 +1,77 @@
+{
+  "id": 2078764,
+  "name": "Faraway Mountain",
+  "seedName": "Faraway Mountain",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2078764",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2078764&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2078764&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness:The hotel maintains a high standard of cleanliness across all areas, including rooms, common areas, and the pool. Fresh towels and toiletries are provided, and guests appreciate the meticulous attention to hygiene.(based on 144 reviews) Guest Suggestion:Some customers suggest staff service attitude needs improvement, with reports of unprofessional behavior and privacy disturbances.(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness",
+        "text": "The hotel maintains a high standard of cleanliness across all areas, including rooms, common areas, and the pool. Fresh towels and toiletries are provided, and guests appreciate the meticulous attention to hygiene.",
+        "count": 144
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest staff service attitude needs improvement, with reports of unprofessional behavior and privacy disturbances.",
+      "count": 3
+    }
+  },
+  "address": "No. 13, Lingkengli, Laoling Village, Moganshan Town, Deqing, Zhejiang, 313202, China",
+  "priceRange": "From US$126",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Cafe",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/2078764/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0z12000p9lb7hc8027.webp"
+    },
+    {
+      "src": "/images/stays/2078764/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5p12000ej2u0pr0197.webp"
+    },
+    {
+      "src": "/images/stays/2078764/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1412000sgd6sbg4DAB.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Great atmosphere, quiet and comfortable! The bed was a bit soft, could be improved. Nice scenery, and everywhere was spotless! Hope to stay here again sometime! Before we left, the owner even bought us breakfast because we were leaving early!...",
+      "author": "Yayadetang",
+      "date": "2026-07-28",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2078764&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2078764&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Highly recommend!!! My mother and I had an amazing time at this hotel. If you’re looking for a place to retreat, relax, read, swim, and eat delicious food, you can’t find a better place! I can also recommend it for...",
+      "author": "Guest User",
+      "date": "2025-10-16",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2078764&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2078764&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Great atmosphere, quiet and comfortable! The bed was a bit soft, could be improved. Nice scenery, and everywhere was spotless! Hope to stay here again sometime! Before we left, the owner even bought us breakfast because we were leaving early!...",
+      "author": "Yayadetang",
+      "date": "2026-07-28",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2078764&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2078764&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 336,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:00:49.336Z",
+  "source": "trip"
+}

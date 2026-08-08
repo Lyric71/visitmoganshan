@@ -1,0 +1,65 @@
+{
+  "id": 43575697,
+  "name": "Moganshan Shanxu B&B",
+  "seedName": "Moganshan Shanxu B&B",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-43575697",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=43575697&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-43575697&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Shanxu B&B?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 14, Jinjiwan, Village Group 5, Miaoqian Village, Moganshan, Deqing, Zhejiang, China",
+  "priceRange": "From US$79",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/43575697/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205112000sobz5r872F0.jpg"
+    },
+    {
+      "src": "/images/stays/43575697/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20091600000104w7u50A5.webp"
+    },
+    {
+      "src": "/images/stays/43575697/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200u1a0000018ldb5C476.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "房間整潔乾淨，前面有游泳池，有草坪，有燒烤，周邊有綠野仙蹤的步道，還有清澈的小溪潺潺流着，走在步道上還能聽到鳥叫聲。是天然氧吧。老闆服務特別好，非常滿意的一次吃住。適合朋友聚會旅遊和家庭親子遊玩",
+      "author": "Guest User",
+      "date": "2026-05-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=43575697&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-43575697&trip_sub3=D19127628"
+    },
+    {
+      "quote": "名宿老闆夫婦很友好，早餐都是親手做的，很豐盛。大泳池和草坪好評，夏天游泳，冬天可以踢球。細節都做的比較好，晚上還給我們投屏看電影。環境比較幽靜。親子度假很好的選擇！",
+      "author": "Guest User",
+      "date": "2025-08-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=43575697&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-43575697&trip_sub3=D19127628"
+    },
+    {
+      "quote": "缺點：1.空調對着床頭，不管怎麼調都直接吹頭頂吹的頭疼，關了又熱。2.一開水龍頭嚇一跳，但房東來看了説當天村裡修水管了，放一會兒就好了。我理解這個原因，但不提前檢查房間的出水情況，作為住客我心理上是無法接受的。優點：1.店家兩夫妻很是熱情服務，都是很善良的本地人，游泳的時候幫我們拿各種泳圈，早上做了多樣的早餐（小籠包麪包粥水果等等）對我們很照顧很熱情很友善。所以我寫上面的房間缺點都有點於心不忍，但民宿的根本還是住宿條件本身很希望有改進。2.房子門前的院子很不錯，天氣涼快了適合喝茶燒烤。3.泳池也挺大的，愛拍照的肯定喜歡，而且夏天能遊個泳挺愜意，泳池打理得很乾凈。",
+      "author": "Guest User",
+      "date": "2025-08-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=43575697&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-43575697&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 10,
+    "count": 13,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:06:19.820Z",
+  "source": "trip"
+}

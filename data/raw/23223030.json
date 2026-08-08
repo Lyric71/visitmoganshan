@@ -1,0 +1,86 @@
+{
+  "id": 23223030,
+  "name": "Moganshan Chi Chi Homestay",
+  "seedName": "Moganshan Chi Chi Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-23223030",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=23223030&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-23223030&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service Quality:Hosts are highly responsive, offering pre-arrival arrangements , accommodating requests, and providing local guidance.(based on 1 review) Facilities:Spacious, clean accommodations with well-maintained facilities . Location & Accessibility:Convenient parking , proximity to attractions , and easy access to activities like rafting and stargazing.(based on 1 review) Amenities:Free breakfast , flexible group accommodation , and recreational options .(based on 1 review) Cleanliness:Consistently praised for cleanliness and maintenance of older facilities.(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service Quality",
+        "text": "Hosts are highly responsive, offering pre-arrival arrangements , accommodating requests, and providing local guidance.",
+        "count": 1
+      },
+      {
+        "topic": "Facilities",
+        "text": "Spacious, clean accommodations with well-maintained facilities . Location & Accessibility:Convenient parking , proximity to attractions , and easy access to activities like rafting and stargazing.",
+        "count": 1
+      },
+      {
+        "topic": "Amenities",
+        "text": "Free breakfast , flexible group accommodation , and recreational options .",
+        "count": 1
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Consistently praised for cleanliness and maintenance of older facilities.",
+        "count": 2
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Laoling Reservoir West, Laoling Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$63",
+  "facilities": [
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/23223030/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2B0d1b0000019vkpc0609.jpg"
+    },
+    {
+      "src": "/images/stays/23223030/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2h070v000000kewpf8376.webp"
+    },
+    {
+      "src": "/images/stays/23223030/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2h0k0v000000k2evgDDB9.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "房間很乾凈，周邊很安靜，價格也合適，爺爺的狗子很可愛",
+      "author": "Guest User",
+      "date": "2025-10-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=23223030&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-23223030&trip_sub3=D19127628"
+    },
+    {
+      "quote": "環境很好，乾淨整潔，衞生很好。出行也方便，有固定停車位，老闆服務態度很好，提供的早餐很贊",
+      "author": "Guest User",
+      "date": "2025-10-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=23223030&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-23223030&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間很舒服，乾淨整潔。房東非常熱情好客，對大家提出的問題，需要的幫助響應很快。而且不僅會給到附近遊玩餐飲建議，還會親自帶隊徒步遊玩。很適合幾家人一起聚會遛娃休閑放鬆。",
+      "author": "Guest User",
+      "date": "2026-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=23223030&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-23223030&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 29,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:51:22.985Z",
+  "source": "trip"
+}

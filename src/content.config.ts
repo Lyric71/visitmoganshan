@@ -115,10 +115,18 @@ const stays = defineCollection({
     /** Resort, Homestay, Villa, Hotel. */
     type: z.string().optional(),
     images: z.array(stayImage).min(3),
-    /** Rewritten in the site's voice from sourced facts. Never pasted. */
-    description: z.string().min(200).max(900),
+    /**
+     * Rewritten in the site's voice from sourced facts. Never pasted.
+     *
+     * Optional here and required by scripts/validate-stays.mjs, which is the
+     * only layer that can see both collections. A property whose article
+     * absorbed it needs neither field: the article is already the description
+     * and already carries the caveat, at greater length and with sources.
+     * Requiring them anyway would mean writing prose that never renders.
+     */
+    description: z.string().min(200).max(900).optional(),
     /** One honest caveat. Not a disclaimer, a trade-off a reader can act on. */
-    note: z.string().min(20).max(400),
+    note: z.string().min(20).max(400).optional(),
     comments: z.array(stayComment).length(3),
     /**
      * The source platform's aggregate, shown attributed and linked. It is not

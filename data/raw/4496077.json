@@ -1,0 +1,87 @@
+{
+  "id": 4496077,
+  "name": "Zhujiuju Hostel",
+  "seedName": "Zhujiuju Hostel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-4496077",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4496077&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4496077&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment Location:Located in Yucun, Moganshan, close to the town's hustle and bustle, with a quiet and secluded environment, and near the tourist distribution center and Yucun Square(based on 6 reviews) Service Quality:The boss or proprietress is enthusiastic and thoughtful, with attentive service and responsive to requests(based on 19 reviews) Facilities:Rooms are large and fully equipped, some have characteristic viewing windows, and there is a parking lot(based on 9 reviews) Breakfast:There are delicious self-made breakfasts including Chinese and Western foods(based on 6 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment Location",
+        "text": "Located in Yucun, Moganshan, close to the town's hustle and bustle, with a quiet and secluded environment, and near the tourist distribution center and Yucun Square",
+        "count": 6
+      },
+      {
+        "topic": "Service Quality",
+        "text": "The boss or proprietress is enthusiastic and thoughtful, with attentive service and responsive to requests",
+        "count": 19
+      },
+      {
+        "topic": "Facilities",
+        "text": "Rooms are large and fully equipped, some have characteristic viewing windows, and there is a parking lot",
+        "count": 9
+      },
+      {
+        "topic": "Breakfast",
+        "text": "There are delicious self-made breakfasts including Chinese and Western foods",
+        "count": 6
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 35, Yujia, Liaoyuan Village, Moganshan Town, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$71",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/4496077/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206c120008b5kvo7B83B.jpg"
+    },
+    {
+      "src": "/images/stays/4496077/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201r120008b5jmjsFE9D.webp"
+    },
+    {
+      "src": "/images/stays/4496077/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0204e120008b5ks0r97B0.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The B&B is located near Yucun Square. The room is big and nice, with a small balcony. The B&B also has a parking lot. The hotel's breakfast is good, I like it very much, there are steamed buns, porridge, bread,...",
+      "author": "Guest User",
+      "date": "2023-12-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4496077&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4496077&trip_sub3=D19127628"
+    },
+    {
+      "quote": "説實話。這次帶小朋友出行是奔着有温泉訂的這家民宿，到了才知道，所謂温泉實際上就是在公共平台上放了一個大浴缸，且沒有浴袍提供，無私隱，水中飄了許多樹葉個柳絮。果斷放棄。非常失望。除了這點，酒店環境還算不錯，離開庾村廣場很近，停車場也夠大。早餐品種不多但質量還不錯。老闆娘也非常客氣，酒店內部裝修一般，但房間很大，店家主動升級了一間房間，使得兩間房靠在一起。酒店允許帶寵物入住不是很喜歡。",
+      "author": "Guest User",
+      "date": "2026-05-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4496077&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4496077&trip_sub3=D19127628"
+    },
+    {
+      "quote": "酒店整體環境特別出色，大堂乾淨雅緻，公共區域整潔舒適，氛圍感十足。房間寬敞明亮、佈局合理，衞生做得十分到位，床品柔軟乾淨，設施齊全且維護完好，入住安靜又舒心。工作人員服務熱情周到，態度温和有禮貌，辦理入住和退房高效快捷，有需求都能及時響應、耐心解決。細節之處盡顯用心，整體體驗感極佳，性價比很高。無論是出行暫住還是休閑住宿都很合適，非常值得推薦，下次入住還會選擇這裏。",
+      "author": "Guest User",
+      "date": "2026-04-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4496077&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4496077&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.8,
+    "count": 32,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:52:56.142Z",
+  "source": "trip"
+}

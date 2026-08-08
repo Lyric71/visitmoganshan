@@ -1,0 +1,83 @@
+{
+  "id": 128668425,
+  "name": "Moganshan Shilifang Time³ Homestay",
+  "seedName": "Moganshan Shilifang Time³ Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-128668425",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=128668425&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-128668425&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment and Location:Located in Moganshan, surrounded by mountains, with good environment, mountain views. Some are on the hillside, and it's convenient to nearby attractions, suitable for self-driving.(based on 6 reviews) Facilities:There are swimming pools, large room types, floor-to-ceiling windows, new and high-quality decoration, and rich entertainment facilities like playing mahjong, barbecuing, singing.(based on 11 reviews) Service:The boss and staff are enthusiastic, and the service is thoughtful, actively recommending interesting places and delicious food.(based on 14 reviews) Hygiene:The rooms are clean and tidy, with no dust in every corner(based on 9 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment and Location",
+        "text": "Located in Moganshan, surrounded by mountains, with good environment, mountain views. Some are on the hillside, and it's convenient to nearby attractions, suitable for self-driving.",
+        "count": 6
+      },
+      {
+        "topic": "Facilities",
+        "text": "There are swimming pools, large room types, floor-to-ceiling windows, new and high-quality decoration, and rich entertainment facilities like playing mahjong, barbecuing, singing.",
+        "count": 11
+      },
+      {
+        "topic": "Service",
+        "text": "The boss and staff are enthusiastic, and the service is thoughtful, actively recommending interesting places and delicious food.",
+        "count": 14
+      },
+      {
+        "topic": "Hygiene",
+        "text": "The rooms are clean and tidy, with no dust in every corner",
+        "count": 9
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 104, Yujia, Moganshan Town, Deqing County, Deqing, Zhejiang, China",
+  "priceRange": "From US$100",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/128668425/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0202612000kpammac0FB9.jpg"
+    },
+    {
+      "src": "/images/stays/128668425/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2312000kpgyrri909B.webp"
+    },
+    {
+      "src": "/images/stays/128668425/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3m12000lvr2tlz0C3B.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "民宿和圖片完全一致，裝修用心，床品柔軟乾淨，洗漱用品齊全。房東回覆及時，還貼心給了遊玩攻略，位置好找、周邊方便，住得很安心，滿分推薦！",
+      "author": "Guest User",
+      "date": "2026-07-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=128668425&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-128668425&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間很不錯，入住體驗挺好的， 唯一缺點就是實在有點遠+不好找路 地理位置比較偏僻+門口的路況比較顛簸，老闆一家很親切",
+      "author": "Anonymous User",
+      "date": "2026-06-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=128668425&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-128668425&trip_sub3=D19127628"
+    },
+    {
+      "quote": "看了30多家住宿，最終選擇這家，真的閉眼住行了，太讚了！人好景好吃住玩的好，方方面面360度無死角的舒適！！老闆人品圈重點五顆星好評！！",
+      "author": "Xingzoudebaopiqi",
+      "date": "2026-02-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=128668425&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-128668425&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 29,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:51:48.701Z",
+  "source": "trip"
+}

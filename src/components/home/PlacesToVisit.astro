@@ -1,0 +1,338 @@
+---
+import { PLACES } from '../../data/places';
+
+/**
+ * What to visit, as a slider of ten places. Full-width band on bamboo.
+ *
+ * This replaces the single hill station band, which showed one villa and asked
+ * the reader to take the rest on trust. Ten places is the actual answer to
+ * "what is there", and the hill station is now the first of them rather than
+ * the whole of them.
+ *
+ * It sits after Getting here on purpose. Someone still deciding whether to come
+ * is served by the culture half above the divider; someone who has read how to
+ * get here is deciding what to do with the day, and this is that list.
+ *
+ * The rail is a native scroll container with scroll snapping, so it works with
+ * no JavaScript at all: touch drags it, a trackpad swipes it, and every one of
+ * the ten links is in the HTML on the first request. The script adds the two
+ * arrow buttons for mouse users and nothing else. If it never runs, the buttons
+ * are not rendered and nothing is lost.
+ */
+---
+
+<section class="band" aria-labelledby="places-title">
+  <div class="vm-container band__head">
+    <div>
+      <p class="vm-kicker vm-kicker--amber">What to visit</p>
+      <h2 id="places-title">Ten places on the mountain</h2>
+      <p class="band__body">
+        American and British families built a summer colony up here from 1896, and about 250 of
+        their stone villas are still standing. The rest of the mountain is bamboo, a handful of
+        named sights behind a ticket barrier, and the villages that feed everybody.
+      </p>
+    </div>
+    <a class="vm-more vm-more--reversed" href="/things-to-do">All 20 ideas</a>
+  </div>
+
+  <div class="rail" data-places>
+    {/* The rail is the scroller and the list at once. Padding matches
+        .vm-container so the first card lines up with the heading above it and
+        the last one can still be scrolled clear of the right edge. */}
+    <ul class="rail__track" data-places-track>
+      {
+        PLACES.map((place, i) => (
+          <li class="rail__item">
+            <a class="slide" href={place.href}>
+              <span class="slide__media">
+                <img
+                  src={place.image}
+                  alt={place.alt}
+                  width="600"
+                  height="400"
+                  loading="lazy"
+                  decoding="async"
+                />
+                <span class="slide__index" aria-hidden="true">
+                  {i + 1}
+                </span>
+              </span>
+              <span class="slide__title">{place.title}</span>
+              <span class="slide__sub">{place.sub}</span>
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+
+    {/* Rendered hidden and unhidden by the script. Two arrows that do nothing
+        are worse than no arrows, and CSS in this file is scoped to elements
+        the template renders, so buttons created in script would come out
+        unstyled. */}
+    <div class="rail__nav" data-places-nav hidden>
+      <button
+        class="rail__button"
+        type="button"
+        data-places-prev
+        title="Previous places"
+        aria-hidden="true"
+        tabindex="-1">←</button
+      >
+      <button
+        class="rail__button"
+        type="button"
+        data-places-next
+        title="Next places"
+        aria-hidden="true"
+        tabindex="-1">→</button
+      >
+    </div>
+  </div>
+</section>
+
+<script>
+  /* Arrow controls for the places rail.
+   *
+   * Built in script rather than markup: without JavaScript the buttons would be
+   * two dead circles next to a rail that already scrolls perfectly well by
+   * touch and trackpad. Keyboard users tab through the ten links themselves,
+   * and the browser scrolls the focused one into view, which is why the buttons
+   * are aria-hidden and not part of the tab order.
+   */
+  const rail = document.querySelector<HTMLElement>('[data-places]');
+  const track = rail?.querySelector<HTMLElement>('[data-places-track]');
+  const nav = rail?.querySelector<HTMLElement>('[data-places-nav]');
+  const prev = rail?.querySelector<HTMLButtonElement>('[data-places-prev]');
+  const next = rail?.querySelector<HTMLButtonElement>('[data-places-next]');
+
+  if (rail && track && nav && prev && next && track.scrollWidth > track.clientWidth) {
+    nav.hidden = false;
+
+    const scrollByCard = (dir: -1 | 1) => {
+      // One card plus its gap, so a click always lands on a snap point.
+      const step = track.querySelector<HTMLElement>('.rail__item')?.getBoundingClientRect().width ?? 320;
+      // behavior in JS overrides the CSS rule, so the preference is read here.
+      const still = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+      track.scrollBy({ left: dir * (step + 20), behavior: still ? 'auto' : 'smooth' });
+    };
+
+    prev.addEventListener('click', () => scrollByCard(-1));
+    next.addEventListener('click', () => scrollByCard(1));
+
+    const sync = () => {
+      // 2px of slack: sub-pixel scroll positions never reach the exact end.
+      prev.disabled = track.scrollLeft <= 2;
+      next.disabled = track.scrollLeft >= track.scrollWidth - track.clientWidth - 2;
+    };
+
+    track.addEventListener('scroll', sync, { passive: true });
+    window.addEventListener('resize', sync);
+    sync();
+  }
+</script>
+
+<style>
+  .band {
+    background: var(--color-bamboo);
+    color: var(--color-mist);
+    padding-block: clamp(4rem, 8vw, 6rem);
+  }
+
+  .band__head {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 0.25rem 2rem;
+  }
+
+  .band__head h2 {
+    color: var(--color-mist);
+    text-wrap: balance;
+  }
+
+  .band__body {
+    max-width: 58ch;
+    margin-top: 1.25rem;
+    color: var(--color-mist-muted);
+    text-wrap: pretty;
+  }
+
+  /* --- The rail --- */
+
+  .rail {
+    position: relative;
+    margin-top: clamp(2rem, 4vw, 2.75rem);
+  }
+
+  .rail__track {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 78%;
+    gap: 1.25rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    overflow-x: auto;
+    overscroll-behavior-x: contain;
+    scroll-snap-type: x mandatory;
+    /* The rail bleeds to both edges of the viewport, but its first and last
+       cards line up with the container the heading sits in. */
+    padding-inline: clamp(1.25rem, 4vw, 2.5rem);
+    scroll-padding-inline: clamp(1.25rem, 4vw, 2.5rem);
+    scrollbar-width: none;
+  }
+
+  .rail__track::-webkit-scrollbar {
+    display: none;
+  }
+
+  .rail__item {
+    scroll-snap-align: start;
+  }
+
+  @media (min-width: 640px) {
+    .rail__track {
+      grid-auto-columns: 44%;
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .rail__track {
+      grid-auto-columns: 27%;
+      /* Centred rail on wide screens: the container caps at 1180px and the
+         cards should start where the heading does, not at the window edge. */
+      padding-inline: max(clamp(1.25rem, 4vw, 2.5rem), calc((100vw - 1180px) / 2 + 2.5rem));
+      scroll-padding-inline: max(
+        clamp(1.25rem, 4vw, 2.5rem),
+        calc((100vw - 1180px) / 2 + 2.5rem)
+      );
+    }
+  }
+
+  /* --- One slide --- */
+
+  .slide {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    text-decoration: none;
+    color: var(--color-mist);
+  }
+
+  .slide__media {
+    position: relative;
+    display: block;
+    overflow: hidden;
+    border-radius: 4px;
+    background: var(--color-bamboo-90);
+  }
+
+  .slide__media img {
+    display: block;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 3 / 2;
+    object-fit: cover;
+    transition: transform 400ms ease;
+  }
+
+  .slide:hover .slide__media img,
+  .slide:focus-visible .slide__media img {
+    transform: scale(1.03);
+  }
+
+  /* The number is a position marker, not content: the titles say what each
+     place is, and a reader who cannot see it loses nothing. */
+  .slide__index {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    padding: 0.35rem 0.7rem;
+    background: var(--color-bamboo);
+    font-family: var(--font-display);
+    font-size: 0.875rem;
+    line-height: 1;
+    color: var(--color-amber);
+    font-variant-numeric: tabular-nums;
+  }
+
+  .slide__title {
+    display: block;
+    margin-top: 0.9rem;
+    font-family: var(--font-display);
+    font-size: 1.25rem;
+    font-weight: 500;
+    line-height: 1.3;
+    text-wrap: balance;
+  }
+
+  .slide:hover .slide__title {
+    text-decoration: underline;
+    text-underline-offset: 4px;
+  }
+
+  .slide__sub {
+    display: block;
+    margin-top: 0.35rem;
+    font-size: 0.9375rem;
+    line-height: 1.55;
+    color: var(--color-mist-muted);
+    text-wrap: pretty;
+  }
+
+  /* --- Arrows, added by the script --- */
+
+  /* Hidden until the script confirms the rail actually overflows, and never
+     shown on a touch-width screen where the drag is the control. */
+  .rail__nav {
+    display: none;
+    gap: 0.5rem;
+    margin-top: 1.5rem;
+  }
+
+  @media (min-width: 1024px) {
+    .rail__nav:not([hidden]) {
+      display: flex;
+      padding-inline: max(clamp(1.25rem, 4vw, 2.5rem), calc((100vw - 1180px) / 2 + 2.5rem));
+    }
+  }
+
+  .rail__button {
+    width: 44px;
+    height: 44px;
+    border: 1px solid color-mix(in srgb, var(--color-mist) 35%, transparent);
+    border-radius: 50%;
+    background: transparent;
+    font-size: 1rem;
+    color: var(--color-mist);
+    cursor: pointer;
+    transition:
+      background-color 160ms ease,
+      border-color 160ms ease;
+  }
+
+  .rail__button:hover:not(:disabled) {
+    background: color-mix(in srgb, var(--color-mist) 12%, transparent);
+    border-color: var(--color-mist);
+  }
+
+  .rail__button:disabled {
+    opacity: 0.35;
+    cursor: default;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .slide__media img {
+      transition: none;
+    }
+
+    .slide:hover .slide__media img {
+      transform: none;
+    }
+
+    .rail__track {
+      scroll-behavior: auto;
+    }
+  }
+</style>

@@ -1,0 +1,87 @@
+{
+  "id": 8788373,
+  "name": "xuanshe",
+  "seedName": "xuanshe",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-8788373",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8788373&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8788373&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness and Maintenance:Rooms are consistently described as clean, tidy, and well-equipped, with attention to hygiene .(based on 13 reviews) Design and Aesthetic:The industrial-style interior is frequently praised for its simplicity, retro charm, and integration with nature . Location and Accessibility:The property is situated near scenic spots , with convenient access for self-driving tours and nearby parking.(based on 7 reviews) Amenities and Services:Features include spacious terraces, a pool, and a small pet-friendly area. Breakfast is highlighted as rich and delicious, with local specialties like pickles, bamboo shoots, and fresh vegetables.(based on 17 reviews) Scenic Surroundings:Guests appreciate the tranquil environment, proximity to bamboo forests, and opportunities for walks along forested trails.(based on 6 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness and Maintenance",
+        "text": "Rooms are consistently described as clean, tidy, and well-equipped, with attention to hygiene .",
+        "count": 13
+      },
+      {
+        "topic": "Design and Aesthetic",
+        "text": "The industrial-style interior is frequently praised for its simplicity, retro charm, and integration with nature . Location and Accessibility:The property is situated near scenic spots , with convenient access for self-driving tours and nearby parking.",
+        "count": 7
+      },
+      {
+        "topic": "Amenities and Services",
+        "text": "Features include spacious terraces, a pool, and a small pet-friendly area. Breakfast is highlighted as rich and delicious, with local specialties like pickles, bamboo shoots, and fresh vegetables.",
+        "count": 17
+      },
+      {
+        "topic": "Scenic Surroundings",
+        "text": "Guests appreciate the tranquil environment, proximity to bamboo forests, and opportunities for walks along forested trails.",
+        "count": 6
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 18, Mawuli, Miaoqian Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$63",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Hot springs",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/8788373/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205812000b6wjn3aCBF4.jpg"
+    },
+    {
+      "src": "/images/stays/8788373/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3z12000pgpvsqx0F67.webp"
+    },
+    {
+      "src": "/images/stays/8788373/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2e12000eivg8alFD2E.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "I took my children to play in the water in Moon Bay, Jingxian County for three years in a row. Today I want to change the place, aiming at Moganshan. After reading the reviews, I chose this one. It’s really...",
+      "author": "Guest User",
+      "date": "2023-08-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8788373&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8788373&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room is very clean and has a large terrace, which is very suitable for a quiet daze. Auntie's breakfast is delicious. Mix it with chili sauce, and some homemade dried bamboo shoots, it's perfect. Everyone in the entire homestay...",
+      "author": "Dongdan",
+      "date": "2023-08-11",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8788373&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8788373&trip_sub3=D19127628"
+    },
+    {
+      "quote": "位置偏僻需要上山入住，當時非常冷，空調幾乎沒什麼温度，我們安排的是電熱箱，態度很好，知道房間比較房間立刻安排換房間",
+      "author": "Guest User",
+      "date": "2026-06-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8788373&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8788373&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.8,
+    "count": 55,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:30:36.663Z",
+  "source": "trip"
+}

@@ -1,0 +1,89 @@
+{
+  "id": 110617884,
+  "name": "Cipo Laoling Liangshi Homestay",
+  "seedName": "Cipo Laoling Liangshi Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-110617884",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=110617884&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-110617884&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service Quality:Guests commend the attentive service, with staff anticipating needs and providing detailed local guides.(based on 193 reviews) Facilities:Modern facilities include spacious rooms, luxurious toiletries, and amenities like Dyson hairdryers.(based on 10 reviews) Location:Strategically located near attractions like organic farms, offering convenience and a peaceful environment.(based on 46 reviews) Guest Suggestion:Some customers suggest improving the maintenance of room facilities, ensuring staff training for better service, and addressing noise issues to enhance the overall guest experience.(based on 4 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service Quality",
+        "text": "Guests commend the attentive service, with staff anticipating needs and providing detailed local guides.",
+        "count": 193
+      },
+      {
+        "topic": "Facilities",
+        "text": "Modern facilities include spacious rooms, luxurious toiletries, and amenities like Dyson hairdryers.",
+        "count": 10
+      },
+      {
+        "topic": "Location",
+        "text": "Strategically located near attractions like organic farms, offering convenience and a peaceful environment.",
+        "count": 46
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving the maintenance of room facilities, ensuring staff training for better service, and addressing noise issues to enhance the overall guest experience.",
+      "count": 4
+    }
+  },
+  "address": "900 meters southwest of Yiyuan Organic Farm, Gaonan Line, Laoling Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$115",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Cafe",
+    "Conference room",
+    "Multi-function room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/110617884/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5912000bskb3km9728.jpg"
+    },
+    {
+      "src": "/images/stays/110617884/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5c12000btom2gv1A1D.webp"
+    },
+    {
+      "src": "/images/stays/110617884/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1012000ckdgmvrE62C.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The scenery is very good. The housekeepers Fafa and Xiaokai are very enthusiastic and the service is very considerate. All the electrical appliances and daily necessities in the hotel are top-notch. It is a good experience.",
+      "author": "SammyOnTheWay",
+      "date": "2024-11-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=110617884&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-110617884&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Very quiet and comfortable B&B, and clean. The environment and decoration quality are very good. I will give it a priority when traveling to Moganshan in the future. I like the ingenuity in the room, where you can enjoy the...",
+      "author": "SiaSiaSia Dear",
+      "date": "2024-11-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=110617884&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-110617884&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The environment is very quiet, the garden is beautiful, the overall hygiene is very clean, the decoration in the room is simple but exquisite, the quality and aesthetics are online. It is very suitable for people who need to relax...",
+      "author": "Guest User",
+      "date": "2024-10-30",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=110617884&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-110617884&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9,
+    "count": 284,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:30:13.684Z",
+  "source": "trip"
+}

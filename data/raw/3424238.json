@@ -1,0 +1,67 @@
+{
+  "id": 3424238,
+  "name": "Moganshan Qingyan Hot Spring Homestay",
+  "seedName": "Moganshan Qingyan Hot Spring Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-3424238",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=3424238&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-3424238&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Pet-Friendly Policy:The property welcomes pets, making it a popular choice for families or travelers with animals. Guests appreciated the ease of bringing pets and the availability of outdoor spaces for them to enjoy.",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Biwu, Xiantan Village, Moganshan Town, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$118",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/3424238/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201y120009em40rr3A77.jpg"
+    },
+    {
+      "src": "/images/stays/3424238/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203g120009eddrid0EB9.webp"
+    },
+    {
+      "src": "/images/stays/3424238/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6112000gqh733mFFD8.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The environment is elegant and comfortable, quite good. The owner is very enthusiastic.",
+      "author": "Guest User",
+      "date": "2026-07-25",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=3424238&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-3424238&trip_sub3=D19127628"
+    },
+    {
+      "quote": "We had a lovely stay at this Homestay. The rooms were spacious and the beds were nice. The bathroom is also huge and facilities nice. It’s very close to the Firefly viewing place. It’s peaceful and has a beautiful view....",
+      "author": "Guest User",
+      "date": "2025-08-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=3424238&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-3424238&trip_sub3=D19127628"
+    },
+    {
+      "quote": "This place is so relaxing. The room very spacious and the bed very comfortable. Taking a bath after hiking felt so good! The view on the mountain is so beautiful! Highly recommend for a getaway from the city! Really nice...",
+      "author": "eihsane",
+      "date": "2025-05-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=3424238&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-3424238&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.1,
+    "count": 40,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:46:51.035Z",
+  "source": "trip"
+}

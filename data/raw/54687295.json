@@ -1,0 +1,85 @@
+{
+  "id": 54687295,
+  "name": "Gengfu Villa·Modern Hot Spring Boutique Stay (Yucun Plaza)",
+  "seedName": "Gengfu Villa·Modern Hot Spring Boutique Stay (Yucun Plaza)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-54687295",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=54687295&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-54687295&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Facilities:Includes a clean pool, KTV, billiards table, ping-pong, and a yard for events . Some rooms feature balconies and large windows.(based on 5 reviews) Service:Hosts are consistently described as friendly, helpful, and accommodating .(based on 23 reviews) Cleanliness:Rooms and common areas are clean and well-maintained, with hygienic standards highlighted.(based on 14 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Facilities",
+        "text": "Includes a clean pool, KTV, billiards table, ping-pong, and a yard for events . Some rooms feature balconies and large windows.",
+        "count": 5
+      },
+      {
+        "topic": "Service",
+        "text": "Hosts are consistently described as friendly, helpful, and accommodating .",
+        "count": 23
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms and common areas are clean and well-maintained, with hygienic standards highlighted.",
+        "count": 14
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 26 Liaoyuan Village South Road, Deqing, Zhejiang, China",
+  "priceRange": "From US$70",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Billiards room",
+    "Table tennis room",
+    "Cardroom",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/54687295/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5o12000jupfe5789A7.jpg"
+    },
+    {
+      "src": "/images/stays/54687295/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3t12000b9po2sh4245.webp"
+    },
+    {
+      "src": "/images/stays/54687295/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2a12000b9psqvp04E7.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The environment is great, right next to the scenic area and the plaza.",
+      "author": "silverpride",
+      "date": "2026-05-05",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=54687295&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-54687295&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room was clean and tidy, with a large balcony outside, but it was bug-free. The B&B is very close to Yucun Square, making it convenient for evening strolls. The owner and his wife were extremely kind and enthusiastically introduced...",
+      "author": "Anonymous User",
+      "date": "2025-08-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=54687295&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-54687295&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The guesthouse is excellent value for money. Most importantly, its location is not only close to the square but also right on the hiking trail leading up Moganshan Mountain, making it very convenient. The landlady is very welcoming.",
+      "author": "Mengxiaoyi",
+      "date": "2025-10-30",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=54687295&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-54687295&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 47,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:29:40.825Z",
+  "source": "trip"
+}

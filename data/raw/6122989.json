@@ -1,0 +1,92 @@
+{
+  "id": 6122989,
+  "name": "Shanyuli Guesthouse",
+  "seedName": "Shanyuli Guesthouse",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-6122989",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6122989&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6122989&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Natural Environment:Located in a serene, rural setting surrounded by bamboo forests, greenery, and a swimming pool.(based on 12 reviews) Cleanliness:Rooms and bathrooms were frequently praised for being tidy, with fresh bedding and minimal clutter.(based on 26 reviews) Friendly Service:Hosts and staff were consistently described as warm, attentive, and accommodating, offering personalized recommendations.(based on 16 reviews) Amenities:Features included a spacious wooden-structured room, a large swimming pool, and locally sourced breakfast with fresh, organic ingredients.(based on 12 reviews) Thematic Design:Rustic, minimalist decor with natural materials and small courtyards/vegetable gardens enhanced the rural atmosphere. Pet-Friendly Policy:Allowed pets, which was a notable advantage for travelers with animals. Guest Suggestion:Some customers suggest improving location accessibility, enhancing soundproofing between rooms, and providing clearer information about room policies (e.g., food restrictions, lock systems).(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Natural Environment",
+        "text": "Located in a serene, rural setting surrounded by bamboo forests, greenery, and a swimming pool.",
+        "count": 12
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms and bathrooms were frequently praised for being tidy, with fresh bedding and minimal clutter.",
+        "count": 26
+      },
+      {
+        "topic": "Friendly Service",
+        "text": "Hosts and staff were consistently described as warm, attentive, and accommodating, offering personalized recommendations.",
+        "count": 16
+      },
+      {
+        "topic": "Amenities",
+        "text": "Features included a spacious wooden-structured room, a large swimming pool, and locally sourced breakfast with fresh, organic ingredients.",
+        "count": 12
+      },
+      {
+        "topic": "Thematic Design",
+        "text": "Rustic, minimalist decor with natural materials and small courtyards/vegetable gardens enhanced the rural atmosphere. Pet-Friendly Policy:Allowed pets, which was a notable advantage for travelers with animals. Guest Suggestion:Some customers suggest improving location accessibility, enhancing soundproofing between rooms, and providing clearer information about room policies (e.g., food restrictions, lock systems).",
+        "count": 2
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 8 Niutouwu, Fatou Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$48",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/6122989/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4f12000c6vgn8l8228.jpg"
+    },
+    {
+      "src": "/images/stays/6122989/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6p12000kua58pk48B9.webp"
+    },
+    {
+      "src": "/images/stays/6122989/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200u1f000001g996s6F3B.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Very nice and clean. The whole house has a charming antique feel, which I really liked. The owners and their family are very kind. I'll definitely bring friends to book a room next time! 🤓",
+      "author": "Guest User",
+      "date": "2026-04-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6122989&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6122989&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I've never stayed in a guesthouse with such great service before. They really treat you like family and are very considerate in helping you with everything. I was on a business trip, and the owners helped me pick up packages,...",
+      "author": "Guest User",
+      "date": "2026-04-14",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6122989&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6122989&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The owners were very nice, and the breakfast was delicious. Since we didn't have a car, they even gave us a ride up to Moganshan, and when we left, they also gave us a ride to the scenic spot!",
+      "author": "Enhengahayoxi",
+      "date": "2026-02-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6122989&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6122989&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 45,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:35:03.751Z",
+  "source": "trip"
+}

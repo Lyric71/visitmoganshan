@@ -1,0 +1,82 @@
+{
+  "id": 66830277,
+  "name": "Moganshan Huating Impression Hot Spring B&B",
+  "seedName": "Moganshan Huating Impression Hot Spring B&B",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-66830277",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=66830277&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-66830277&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:The environment is beautiful, with a large courtyard, a swimming pool, tea mountains in front and bamboo forests behind. It is quiet and comfortable, offering a slow life experience of nature. (based on 20 reviews) Facilities:The facilities are complete, including a large swimming pool, comfortable rooms, which bring great convenience to guests. (based on 15 reviews) Service:The owner is enthusiastic, responsive to inquiries and provides practical suggestions, making guests feel at home. (based on 24 reviews) Pet-friendly:There are two cute cats, popular with children, adding fun to the stay. Catering:The meals have local characteristics, rich and delicious, meeting the taste of guests.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "The environment is beautiful, with a large courtyard, a swimming pool, tea mountains in front and bamboo forests behind. It is quiet and comfortable, offering a slow life experience of nature.",
+        "count": 20
+      },
+      {
+        "topic": "Facilities",
+        "text": "The facilities are complete, including a large swimming pool, comfortable rooms, which bring great convenience to guests.",
+        "count": 15
+      },
+      {
+        "topic": "Service",
+        "text": "The owner is enthusiastic, responsive to inquiries and provides practical suggestions, making guests feel at home.",
+        "count": 24
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 8, Shiyi New Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$99",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/66830277/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203h120008cqo75mF7BD.jpg"
+    },
+    {
+      "src": "/images/stays/66830277/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02036120008ozyopbED90.webp"
+    },
+    {
+      "src": "/images/stays/66830277/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205o120008ox0fbf614E.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The nicest hosts ever, super helpful and generous people. They always made sure we were taken care of and provided us recommendations for every day that we were there.",
+      "author": "Guest User",
+      "date": "2024-11-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=66830277&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-66830277&trip_sub3=D19127628"
+    },
+    {
+      "quote": "It's super comfortable. Across from the room is a super tea mountain view. You can see that the owner used good materials in the room, and the texture is very good. The bathtub is superb, and there are large floor-to-ceiling...",
+      "author": "～jiaqiya",
+      "date": "2025-03-16",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=66830277&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-66830277&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room was clean, tidy, warm, and comfortable. The two cats were incredibly stable, and the kids loved them. The farmhouse food the auntie cooked was delicious, and the owner was so welcoming and attentive. I didn't want to go...",
+      "author": "Guest User",
+      "date": "2025-01-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=66830277&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-66830277&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 40,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:43:17.260Z",
+  "source": "trip"
+}

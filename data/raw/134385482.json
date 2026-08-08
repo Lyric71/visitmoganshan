@@ -1,0 +1,90 @@
+{
+  "id": 134385482,
+  "name": "Deqing Anhe Wenlan Vacation Apartment",
+  "seedName": "Deqing Anhe Wenlan Vacation Apartment",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-134385482",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=134385482&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-134385482&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:The hotel is set amidst serene natural surroundings, offering a tranquil escape with views of lush greenery and mountains. Guests appreciate the peaceful atmosphere, ideal for relaxation and staycations. Service Quality:Service is highly praised for its attentiveness and warmth, with personal butlers providing exceptional care. Staff are noted for being proactive in meeting guests' needs, enhancing the overall experience.(based on 23 reviews) Facilities:The hotel boasts comprehensive facilities including a swimming pool, gym, and KTV, all of which are well-maintained and offer a luxurious experience. New and clean, the amenities enhance guest comfort.(based on 5 reviews) Room Quality:Rooms are spacious, well-designed, and equipped with high-quality amenities. Guests highlight the excellent bedding, modern bathrooms, and thoughtful details that contribute to a restful stay.(based on 25 reviews) Dining:Guests enjoy the quality and taste of the meals, with special mention of dishes like the shrimp noodles and homemade condiments, although some suggest variations in breakfast offerings.(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "The hotel is set amidst serene natural surroundings, offering a tranquil escape with views of lush greenery and mountains. Guests appreciate the peaceful atmosphere, ideal for relaxation and staycations. Service Quality:Service is highly praised for its attentiveness and warmth, with personal butlers providing exceptional care. Staff are noted for being proactive in meeting guests' needs, enhancing the overall experience.",
+        "count": 23
+      },
+      {
+        "topic": "Facilities",
+        "text": "The hotel boasts comprehensive facilities including a swimming pool, gym, and KTV, all of which are well-maintained and offer a luxurious experience. New and clean, the amenities enhance guest comfort.",
+        "count": 5
+      },
+      {
+        "topic": "Room Quality",
+        "text": "Rooms are spacious, well-designed, and equipped with high-quality amenities. Guests highlight the excellent bedding, modern bathrooms, and thoughtful details that contribute to a restful stay.",
+        "count": 25
+      },
+      {
+        "topic": "Dining",
+        "text": "Guests enjoy the quality and taste of the meals, with special mention of dishes like the shrimp noodles and homemade condiments, although some suggest variations in breakfast offerings.",
+        "count": 2
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 79, Houhong, Nanlu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$219",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Gym",
+    "Bar",
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/134385482/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3n12000szst3i81F51.jpg"
+    },
+    {
+      "src": "/images/stays/134385482/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2n12000syxju653DDB.webp"
+    },
+    {
+      "src": "/images/stays/134385482/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3u12000syxj89h8766.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Absolutely fell in love with this B&B at first sight! From the decor to the furnishings, the aesthetic was perfectly aligned with my taste. Every single detail showed such care and thoughtfulness. You don't even need to try hard to...",
+      "author": "Joanna---",
+      "date": "2026-07-27",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=134385482&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-134385482&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Absolutely fell in love with this B&B at first sight! From the decor to the furnishings, the aesthetic was perfectly aligned with my taste. Every single detail showed such care and thoughtfulness. You don't even need to try hard to...",
+      "author": "Joanna---",
+      "date": "2026-07-27",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=134385482&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-134385482&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I was fortunate enough to catch the hotel's grand opening, and my first stay was absolutely perfect. The overall design is stylish, the public areas are elegant and spacious, the guest rooms are bright and airy, and the cleanliness is...",
+      "author": "Guest User",
+      "date": "2026-06-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=134385482&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-134385482&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 41,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:40:28.261Z",
+  "source": "trip"
+}

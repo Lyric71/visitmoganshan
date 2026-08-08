@@ -8,6 +8,36 @@
   "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=68074847&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-68074847&trip_sub3=D19127628",
   "sourceDescription": "",
   "aiSummary": "Review summary Powered by AI Cleanliness and comfort:Rooms were consistently described as clean, tidy, and well-maintained, with modern amenities like large windows offering mountain views and functional layouts.(based on 13 reviews) Hospitality:The hosts were repeatedly praised for their warmth, attentiveness, and willingness to assist guests .(based on 13 reviews) Location and ambiance:The property was noted for its peaceful, quiet setting in a scenic area , with convenient access to nearby attractions.(based on 4 reviews) Dining experience:Guests highlighted the quality and variety of breakfast, often prepared by the hosts, and praised the hosts’ cooking skills, with dishes tailored to local tastes.(based on 8 reviews) Facilities:The property included essential amenities like parking, dining areas, and modern conveniences .(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness and comfort",
+        "text": "Rooms were consistently described as clean, tidy, and well-maintained, with modern amenities like large windows offering mountain views and functional layouts.",
+        "count": 13
+      },
+      {
+        "topic": "Hospitality",
+        "text": "The hosts were repeatedly praised for their warmth, attentiveness, and willingness to assist guests .",
+        "count": 13
+      },
+      {
+        "topic": "Location and ambiance",
+        "text": "The property was noted for its peaceful, quiet setting in a scenic area , with convenient access to nearby attractions.",
+        "count": 4
+      },
+      {
+        "topic": "Dining experience",
+        "text": "Guests highlighted the quality and variety of breakfast, often prepared by the hosts, and praised the hosts’ cooking skills, with dishes tailored to local tastes.",
+        "count": 8
+      },
+      {
+        "topic": "Facilities",
+        "text": "The property included essential amenities like parking, dining areas, and modern conveniences .",
+        "count": 3
+      }
+    ],
+    "suggestion": null
+  },
   "address": "Village Group 6, Beihu Village, Moganshan Town, Deqing, Zhejiang, China",
   "priceRange": "From US$47",
   "facilities": [
@@ -25,18 +55,6 @@
     {
       "src": "/images/stays/68074847/3.webp",
       "sourceUrl": "https://ak-d.tripcdn.com/images/0206y1200084njbvt3252.webp"
-    },
-    {
-      "src": "/images/stays/68074847/4.webp",
-      "sourceUrl": "https://ak-d.tripcdn.com/images/020121200084nj22f4B77.webp"
-    },
-    {
-      "src": "/images/stays/68074847/5.webp",
-      "sourceUrl": "https://ak-d.tripcdn.com/images/0202v1200084njen32251.webp"
-    },
-    {
-      "src": "/images/stays/68074847/6.webp",
-      "sourceUrl": "https://ak-d.tripcdn.com/images/020571200084nj4pd00D7.webp"
     }
   ],
   "comments": [
@@ -67,6 +85,6 @@
     "count": 27,
     "scale": 10
   },
-  "sourcedAt": "2026-08-08T13:10:41.368Z",
+  "sourcedAt": "2026-08-08T14:55:54.912Z",
   "source": "trip"
 }

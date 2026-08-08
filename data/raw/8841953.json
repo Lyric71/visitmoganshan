@@ -1,0 +1,93 @@
+{
+  "id": 8841953,
+  "name": "Mantian Resort",
+  "seedName": "Mantian Resort",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-8841953",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8841953&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8841953&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment and Location:The hotel offers a peaceful setting with lush greenery, surrounded by mountains and bamboo forests, just 15 minutes from Moganshan's center. Guests enjoy clean air and scenic views, ideal for relaxation.(based on 43 reviews) Service Quality:Guests praise the personalized service, especially the 'butler' assistance from check-in to check-out. Staff are kind and responsive, enhancing comfort with proactive communication.(based on 351 reviews) Facilities and Activities:The hotel features diverse facilities like a pool, play areas, and animal farms. Guests enjoy activities such as fruit picking, horseback riding, and hiking, catering to family interests.(based on 51 reviews) Food and Dining:The menu is praised for its delicious variety and use of organic ingredients, with meals enhanced by fresh produce from the hotel's farm, ensuring tasty and healthy dining. Guest Suggestion:Some customers suggest improving cleanliness, soundproofing, and updating facilities.(based on 8 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment and Location",
+        "text": "The hotel offers a peaceful setting with lush greenery, surrounded by mountains and bamboo forests, just 15 minutes from Moganshan's center. Guests enjoy clean air and scenic views, ideal for relaxation.",
+        "count": 43
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Guests praise the personalized service, especially the 'butler' assistance from check-in to check-out. Staff are kind and responsive, enhancing comfort with proactive communication.",
+        "count": 351
+      },
+      {
+        "topic": "Facilities and Activities",
+        "text": "The hotel features diverse facilities like a pool, play areas, and animal farms. Guests enjoy activities such as fruit picking, horseback riding, and hiking, catering to family interests.",
+        "count": 51
+      },
+      {
+        "topic": "Food and Dining",
+        "text": "The menu is praised for its delicious variety and use of organic ingredients, with meals enhanced by fresh produce from the hotel's farm, ensuring tasty and healthy dining. Guest Suggestion:Some customers suggest improving cleanliness, soundproofing, and updating facilities.",
+        "count": 8
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Yu Village, Fatou Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$138",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Hot springs",
+    "Gym",
+    "Car rentals",
+    "Restaurant",
+    "Conference room",
+    "Business center",
+    "Playground",
+    "Kids' club"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/8841953/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20041a00000198z1f4B26.jpg"
+    },
+    {
+      "src": "/images/stays/8841953/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6u12000cigdqq4D393.webp"
+    },
+    {
+      "src": "/images/stays/8841953/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200f1a0000019aar1DAF6.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The environment and hygiene were pretty subpar, and the facilities were quite old-fashioned. We specifically chose this hotel for its private pool downstairs, especially during the scorching summer, but it wasn't even open! The only pool available was quite a...",
+      "author": "Guest User",
+      "date": "2026-07-27",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8841953&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8841953&trip_sub3=D19127628"
+    },
+    {
+      "quote": "A truly comfortable family trip! The hotel environment is fantastic, surrounded by mountains with beautiful scenery. The kids had a great time playing in the small stream right outside. Highly recommended!",
+      "author": "Guest User",
+      "date": "2026-07-27",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8841953&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8841953&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Environment: Fantastic, truly feels like living in the mountains. It's lovely whether it's raining or sunny. Facilities: All sorts of facilities are available, making it very suitable for family trips, especially if you're traveling with dogs and children. Genuinely kid-friendly...",
+      "author": "Yaoquhenduodifangdegg",
+      "date": "2026-06-26",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8841953&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8841953&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 642,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:14:13.661Z",
+  "source": "trip"
+}

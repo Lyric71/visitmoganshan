@@ -1,0 +1,91 @@
+{
+  "id": 38968486,
+  "name": "Yunfeng Zhuyuan Hostel",
+  "seedName": "Yunfeng Zhuyuan Hostel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-38968486",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=38968486&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-38968486&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:Surrounded by bamboo forests, mountain views, and a stream; serene and natural with a courtyard, swimming pool, and proximity to scenic spots .(based on 1 review) Facilities:Modern amenities , clean and well-organized rooms, and a courtyard with a pool for relaxation.(based on 1 review) Service:Attentive hosts , friendly and communicative staff.(based on 4 reviews) Hygiene:Rooms described as clean, tidy, and well-maintained.(based on 6 reviews) Activities:Opportunities to observe stars, fish in the stream, and enjoy mountain scenery from rooms or terraces. Value:Generally praised for good value, with mentions of affordability despite being in a scenic area.(based on 1 review)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Surrounded by bamboo forests, mountain views, and a stream; serene and natural with a courtyard, swimming pool, and proximity to scenic spots .",
+        "count": 1
+      },
+      {
+        "topic": "Facilities",
+        "text": "Modern amenities , clean and well-organized rooms, and a courtyard with a pool for relaxation.",
+        "count": 1
+      },
+      {
+        "topic": "Service",
+        "text": "Attentive hosts , friendly and communicative staff.",
+        "count": 4
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Rooms described as clean, tidy, and well-maintained.",
+        "count": 6
+      },
+      {
+        "topic": "Activities",
+        "text": "Opportunities to observe stars, fish in the stream, and enjoy mountain scenery from rooms or terraces. Value:Generally praised for good value, with mentions of affordability despite being in a scenic area.",
+        "count": 1
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 52, Mogaowu, Liaoyuan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$80",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/38968486/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6c12000t710b083088.jpg"
+    },
+    {
+      "src": "/images/stays/38968486/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1j12000t4ucsg56ABB.webp"
+    },
+    {
+      "src": "/images/stays/38968486/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6d12000t4uae11D157.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The guesthouse boasts a tranquil valley setting with flowing springs, lush bamboo groves, and birdsong. The rooms are spacious, well-designed, soundproofed, and impeccably clean. It's perfect for picnicking on the balcony while listening to the stream (but avoid cooking fumes...",
+      "author": "kingem",
+      "date": "2026-04-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=38968486&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-38968486&trip_sub3=D19127628"
+    },
+    {
+      "quote": "We walked through the bamboo forest, entered the courtyard surrounded by bamboo forest, and then entered Datou to see the stone sculptures of the Seven Sages of the Bamboo Forest; we had tea with the boss and felt his love...",
+      "author": "Guest User",
+      "date": "2025-06-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=38968486&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-38968486&trip_sub3=D19127628"
+    },
+    {
+      "quote": "⛰️An unexpected homestay🌿Tea tasting and hiking in the sea of ​​bamboo in the clouds🪵 🍃Quiet time with mountain views and tea fragrance The most unforgettable thing is the terrace facing the mountains in the room. When you wake up in...",
+      "author": "Guest User",
+      "date": "2025-03-31",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=38968486&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-38968486&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 18,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:59:51.511Z",
+  "source": "trip"
+}

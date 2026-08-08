@@ -1,0 +1,96 @@
+{
+  "id": 5349201,
+  "name": "Moganshan Chennian·Zuimei Courtyard Homestay",
+  "seedName": "Moganshan Chennian·Zuimei Courtyard Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5349201",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5349201&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5349201&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Room Features:The B&B features spacious rooms with comfortable bedding and modern amenities, often styled with a retro or natural aesthetic, enhancing the guest experience.(based on 5 reviews) Cleanliness:Many users appreciate the cleanliness and hygiene standards maintained throughout the property, including the rooms and swimming pool.(based on 5 reviews) Service:The friendly and attentive service provided by the hosts is frequently highlighted, with many guests noting the helpful travel advice and prompt responses to requests.(based on 13 reviews) Pet Policy:The property allows pets, further adding to its appeal. Breakfast:Breakfast is often mentioned as varied and delicious.(based on 6 reviews) Unique Experiences:Unique experiences such as playing in the clean swimming pool and engaging in activities like karaoke and billiards are also appreciated.(based on 5 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Room Features",
+        "text": "The B&B features spacious rooms with comfortable bedding and modern amenities, often styled with a retro or natural aesthetic, enhancing the guest experience.",
+        "count": 5
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Many users appreciate the cleanliness and hygiene standards maintained throughout the property, including the rooms and swimming pool.",
+        "count": 5
+      },
+      {
+        "topic": "Service",
+        "text": "The friendly and attentive service provided by the hosts is frequently highlighted, with many guests noting the helpful travel advice and prompt responses to requests.",
+        "count": 13
+      },
+      {
+        "topic": "Pet Policy",
+        "text": "The property allows pets, further adding to its appeal. Breakfast:Breakfast is often mentioned as varied and delicious.",
+        "count": 6
+      },
+      {
+        "topic": "Unique Experiences",
+        "text": "Unique experiences such as playing in the clean swimming pool and engaging in activities like karaoke and billiards are also appreciated.",
+        "count": 5
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 88, Laoling Village, Moganshan Town, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$75",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Bar",
+    "Billiards room",
+    "Cardroom",
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5349201/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0582s12000sp6pflo5DBA.jpg"
+    },
+    {
+      "src": "/images/stays/5349201/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6112000bp8ok0rA8AD.webp"
+    },
+    {
+      "src": "/images/stays/5349201/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3m12000ejx4errE8EB.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Everything was excellent, a very nice homestay, very clean and full of thoughtful touches and good taste. The room was spacious and had everything we needed, the bed was very comfortable, and the pool was fantastic for hot days! The...",
+      "author": "Florentino Relucio",
+      "date": "2026-06-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5349201&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5349201&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Lovely view. Barbecue was perfect for a big group. Lots of things to do at the hotel and in the area. Host was extremely accommodating.",
+      "author": "Guest User",
+      "date": "2026-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5349201&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5349201&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Had a lovely stay here, super comfortable hotel - staff make you feel at home. Great facilities including a pool, bbq, garden, and lounge area. Also pet friendly, so ideal for dog owners! Would recommend. 👍🏻",
+      "author": "DylanDB",
+      "date": "2026-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5349201&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5349201&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 27,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:54:26.906Z",
+  "source": "trip"
+}

@@ -1,0 +1,86 @@
+{
+  "id": 110015519,
+  "name": "Slang Language·Syne·Moganshan Luji Aesthetic Design Meisu (Jiangnan Luwu Scenic Area)",
+  "seedName": "Slang Language·Syne·Moganshan Luji Aesthetic Design Meisu (Jiangnan Luwu Scenic Area)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-110015519",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=110015519&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-110015519&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:The environment is beautiful with fresh air, suitable for taking photos and relaxing. It is close to attractions like Jiangnan Yaowu, and the night view is charming. The window offers a view of greenery, and it's convenient to reach scenic spots.(based on 20 reviews) Service:The hosts are enthusiastic and thoughtful, helping to recommend places to visit, book tickets, and providing transportation such as driving to shopping malls and scenic areas.(based on 84 reviews) Hygiene:Rooms are clean and tidy, with thorough cleaning ensuring a comfortable stay.(based on 58 reviews) Facilities:Facilities are complete, including a swimming pool, trampoline, swings, and other entertainment facilities. Parking is convenient with available charging piles.(based on 11 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "The environment is beautiful with fresh air, suitable for taking photos and relaxing. It is close to attractions like Jiangnan Yaowu, and the night view is charming. The window offers a view of greenery, and it's convenient to reach scenic spots.",
+        "count": 20
+      },
+      {
+        "topic": "Service",
+        "text": "The hosts are enthusiastic and thoughtful, helping to recommend places to visit, book tickets, and providing transportation such as driving to shopping malls and scenic areas.",
+        "count": 84
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Rooms are clean and tidy, with thorough cleaning ensuring a comfortable stay.",
+        "count": 58
+      },
+      {
+        "topic": "Facilities",
+        "text": "Facilities are complete, including a swimming pool, trampoline, swings, and other entertainment facilities. Parking is convenient with available charging piles.",
+        "count": 11
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 54 Waiyaowu, Yaowu Village, Deqing, Zhejiang, China",
+  "priceRange": "From US$78",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/110015519/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4w12000e11d3so181C.jpg"
+    },
+    {
+      "src": "/images/stays/110015519/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2g12000bkslbg0FEA4.webp"
+    },
+    {
+      "src": "/images/stays/110015519/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3y12000e11da9pB6FC.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "It was my husband's birthday. The B&B was very beautiful. Both adults and children were very satisfied. Especially the lady boss was very nice. She led the whole family to help decorate the place. She was very busy and recommended...",
+      "author": "Guest User",
+      "date": "2024-07-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=110015519&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-110015519&trip_sub3=D19127628"
+    },
+    {
+      "quote": "There is a bamboo forest behind the B&B. The proprietress and her family are very nice. They give you a free fruit plate and free breakfast when you check in. If you want to go to a scenic spot, the...",
+      "author": "Guest User",
+      "date": "2024-06-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=110015519&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-110015519&trip_sub3=D19127628"
+    },
+    {
+      "quote": "It was my husband's birthday. The B&B was very beautiful. Both adults and children were very satisfied. Especially the lady boss was very nice. She led the whole family to help decorate the place. She was very busy and recommended...",
+      "author": "Guest User",
+      "date": "2024-07-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=110015519&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-110015519&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 134,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:51:40.585Z",
+  "source": "trip"
+}

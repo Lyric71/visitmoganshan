@@ -1,0 +1,93 @@
+{
+  "id": 41650080,
+  "name": "Zhuxin Yanchi Guesthouse",
+  "seedName": "Zhuxin Yanchi Guesthouse",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-41650080",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=41650080&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-41650080&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Environment:Situated near a stream, surrounded by bamboo forests, offering a tranquil and scenic setting.(based on 3 reviews) Child-Friendly Amenities:Includes themed rooms , play zones with building blocks, and water activities ideal for families.(based on 8 reviews) Cleanliness & Comfort:Rooms are described as tidy, modern, and well-equipped with essentials.(based on 7 reviews) Services:Hosts are noted for their hospitality, providing local recommendations, and organizing activities like bamboo shoot digging in spring.(based on 7 reviews) Dining Options:Offers free breakfast, customizable meals with local ingredients , and BBQ facilities. Guest Suggestion: Some customers suggest improving cleanliness , enhancing breakfast quality , and ensuring consistent pricing policies to align with service standards.(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Situated near a stream, surrounded by bamboo forests, offering a tranquil and scenic setting.",
+        "count": 3
+      },
+      {
+        "topic": "Child-Friendly Amenities",
+        "text": "Includes themed rooms , play zones with building blocks, and water activities ideal for families.",
+        "count": 8
+      },
+      {
+        "topic": "Comfort",
+        "text": "Rooms are described as tidy, modern, and well-equipped with essentials.",
+        "count": 7
+      },
+      {
+        "topic": "Services",
+        "text": "Hosts are noted for their hospitality, providing local recommendations, and organizing activities like bamboo shoot digging in spring.",
+        "count": 7
+      },
+      {
+        "topic": "Dining Options",
+        "text": "Offers free breakfast, customizable meals with local ingredients , and BBQ facilities. Guest Suggestion: Some customers suggest improving cleanliness , enhancing breakfast quality , and ensuring consistent pricing policies to align with service standards.",
+        "count": 2
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 7, Nanlu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$96",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/41650080/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200k180000015ajzt1A17.jpg"
+    },
+    {
+      "src": "/images/stays/41650080/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6g12000f1qamnk602A.webp"
+    },
+    {
+      "src": "/images/stays/41650080/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200o18000001557fxDC87.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "周邊環境幽靜舒適，我們入住的是性價比最高的一間親子房。恰逢下雨，沒法去主要景點玩。呆在民宿，公共露台上，品本地黃芽茶，聽雨，看山色空濛雲霧繚繞，心曠神怡，別有另一番情調！驟雨初歇，漫步於溪邊，溪水潺潺，很治癒！",
+      "author": "Luoxin*mogan(zishenminsushi)",
+      "date": "2025-06-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=41650080&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-41650080&trip_sub3=D19127628"
+    },
+    {
+      "quote": "真的超級不錯的地方，步行即小溪。房間較整潔，性價比較高。民宿後院是孩子們的樂園，神獸玩得不想回去，有機會還要再去！",
+      "author": "Guest User",
+      "date": "2025-06-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=41650080&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-41650080&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿的位置比較偏僻，衞生做的也不到位，隨處可見頭髮，配套的用品都很差勁，早飯更是一言難盡！雖然五一的價格都比較高，但服務最起碼應該相匹配吧。",
+      "author": "Guest User",
+      "date": "2025-05-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=41650080&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-41650080&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 7.8,
+    "count": 17,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:06:23.354Z",
+  "source": "trip"
+}

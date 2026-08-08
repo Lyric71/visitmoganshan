@@ -1,0 +1,89 @@
+{
+  "id": 18435856,
+  "name": "Jieluju Hostel",
+  "seedName": "Jieluju Hostel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-18435856",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=18435856&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-18435856&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:Offers beautiful views from bedrooms, surrounded by mountains, bamboo forests, and greenery, with a peaceful and scenic atmosphere. Has a pool and is surrounded by lush plants.(based on 14 reviews) Room Condition:Rooms are clean, quiet, and well-maintained. Some have balconies and good views. For instance, the room is calm, quiet, and has a relaxing view on the bamboo forest.(based on 32 reviews) Service:Friendly hosts, helpful in providing information and assistance. The hostess is kind and hardworking.(based on 29 reviews) Breakfast:Delicious breakfast options, such as dumpling breakfast and abundant Chinese-style breakfast(based on 13 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Offers beautiful views from bedrooms, surrounded by mountains, bamboo forests, and greenery, with a peaceful and scenic atmosphere. Has a pool and is surrounded by lush plants.",
+        "count": 14
+      },
+      {
+        "topic": "Room Condition",
+        "text": "Rooms are clean, quiet, and well-maintained. Some have balconies and good views. For instance, the room is calm, quiet, and has a relaxing view on the bamboo forest.",
+        "count": 32
+      },
+      {
+        "topic": "Service",
+        "text": "Friendly hosts, helpful in providing information and assistance. The hostess is kind and hardworking.",
+        "count": 29
+      },
+      {
+        "topic": "Breakfast",
+        "text": "Delicious breakfast options, such as dumpling breakfast and abundant Chinese-style breakfast",
+        "count": 13
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "East Gate of the Scenic Area, No. 37, Wangjia, Huangfu West Road, Liaoyuan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$38",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/18435856/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0e12000r9xmryxA9D6.jpg"
+    },
+    {
+      "src": "/images/stays/18435856/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2h0p0s000000hx0njEE07.webp"
+    },
+    {
+      "src": "/images/stays/18435856/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD2x120009f5gymaE3DC.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "This place was awesome and the host lady working there is very kind and helpful. She helped us find places to go and which way was better to reach the scenic area. The room was calm, quiet, and had a...",
+      "author": "it-traveler",
+      "date": "2026-04-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=18435856&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-18435856&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Don't take the room downstairs (the cheap one) — there's a bad smell and some kind of noise. But the one upstairs with a balcony is really nice. Overall, the hotel is unremarkable, breakfast is poor, and the hotel is...",
+      "author": "Naville",
+      "date": "2026-04-12",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=18435856&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-18435856&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The location is prettly good. Only 5 minutes from the famous square at the bottom of the mountain. And 10 minutes away from the glorious hike up the mountain through the bamboo first. We only booked it for a couple...",
+      "author": "Aza_Tccc",
+      "date": "2025-06-30",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=18435856&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-18435856&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 69,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:56:58.382Z",
+  "source": "trip"
+}

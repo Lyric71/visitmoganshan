@@ -1,0 +1,76 @@
+{
+  "id": 21736054,
+  "name": "Tasha Dudo Amor Private Tang Castle Homestay (Moganshan Branch)",
+  "seedName": "Tasha Dudo Amor Private Tang Castle Homestay (Moganshan Branch)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-21736054",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=21736054&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-21736054&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service Quality:Service is highly praised by guests for being attentive and welcoming. Staff members are noted for their warm hospitality, with personalized services such as organizing activities during festivals and providing guidance on local attractions.(based on 53 reviews) Pet-Friendly Atmosphere:The hotel is pet-friendly, with several guests mentioning the presence of adorable animals like dogs and cats, which add to the charm of the stay. The pets are well-loved by guests and contribute to a homely feeling. Guest Suggestion:Some customers suggest improving the location accessibility, addressing unpleasant odors in bathrooms, and regularly cleaning the swimming pool to enhance the overall guest experience.(based on 1 review)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service Quality",
+        "text": "Service is highly praised by guests for being attentive and welcoming. Staff members are noted for their warm hospitality, with personalized services such as organizing activities during festivals and providing guidance on local attractions.",
+        "count": 53
+      },
+      {
+        "topic": "Pet-Friendly Atmosphere",
+        "text": "The hotel is pet-friendly, with several guests mentioning the presence of adorable animals like dogs and cats, which add to the charm of the stay. The pets are well-loved by guests and contribute to a homely feeling. Guest Suggestion:Some customers suggest improving the location accessibility, addressing unpleasant odors in bathrooms, and regularly cleaning the swimming pool to enhance the overall guest experience.",
+        "count": 1
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 24, Wulong Mountain, Laoling Village, Deqing, Zhejiang, China",
+  "priceRange": "From US$95",
+  "facilities": [
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/21736054/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2912000f0042my9E08.jpg"
+    },
+    {
+      "src": "/images/stays/21736054/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2y12000f0051gt3FE0.webp"
+    },
+    {
+      "src": "/images/stays/21736054/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0312000f0045zlA8AA.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Had a very comfortable and relaxing stay.",
+      "author": "Gomez920",
+      "date": "2026-07-24",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=21736054&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-21736054&trip_sub3=D19127628"
+    },
+    {
+      "quote": "A short weekend with my wife in Moganshan. Unfortunately the weather was not ideal nevertheless the hotel was very welcoming and the staff very nice.",
+      "author": "Guest User",
+      "date": "2026-04-15",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=21736054&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-21736054&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Wonderful stay, very helpful host. Beautiful scenery and great location",
+      "author": "Guest User",
+      "date": "2025-10-31",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=21736054&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-21736054&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 118,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:06:52.897Z",
+  "source": "trip"
+}

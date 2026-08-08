@@ -1,0 +1,78 @@
+{
+  "id": 2372128,
+  "name": "Mogan Mountain Living Map·Library Theme Guesthouse",
+  "seedName": "Mogan Mountain Living Map·Library Theme Guesthouse",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2372128",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2372128&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2372128&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Pet-Friendly:A significant advantage is its pet-friendly policy without any additional fees, which is a major draw for guests traveling with pets. This is highlighted as a key reason for choosing this accommodation. Service:The staff are frequently commended for their warm and helpful service, contributing positively to guests' overall experience. They are noted for being friendly and accommodating, offering assistance with reservations and itineraries.(based on 23 reviews) Guest Suggestion:Some customers suggest improving room hygiene , addressing facility maintenance , and enhancing air quality .(based on 6 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Pet-Friendly",
+        "text": "A significant advantage is its pet-friendly policy without any additional fees, which is a major draw for guests traveling with pets. This is highlighted as a key reason for choosing this accommodation. Service:The staff are frequently commended for their warm and helpful service, contributing positively to guests' overall experience. They are noted for being friendly and accommodating, offering assistance with reservations and itineraries.",
+        "count": 23
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving room hygiene , addressing facility maintenance , and enhancing air quality .",
+      "count": 6
+    }
+  },
+  "address": "Miaoqian Village, Moganshan Town, Deqing, Zhejiang, 313206, China",
+  "priceRange": "From US$68",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Gym",
+    "Bar",
+    "Restaurant",
+    "Multi-function room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/2372128/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1k12000b57zaa2E585.jpg"
+    },
+    {
+      "src": "/images/stays/2372128/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2712000bxzdx8c604E.webp"
+    },
+    {
+      "src": "/images/stays/2372128/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2r12000b56qt9aA3FC.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Floor-to-ceiling bookshelves are filled with volumes of literature, while wooden rafters crisscross above, allowing natural light to filter through their gaps. Scattered blue sofas break up the vast sea of books, creating cozy nooks for relaxation. The brick walls, wooden...",
+      "author": "Guest User",
+      "date": "2026-07-04",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2372128&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2372128&trip_sub3=D19127628"
+    },
+    {
+      "quote": "A Comfortable, Pet-Friendly Stay with a Few Areas for Improvement The hotel can be difficult to identify when you first arrive because there is no sign directly on the building. Instead, the sign is attached to a gate that usually...",
+      "author": "Expat EDventures",
+      "date": "2026-07-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2372128&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2372128&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I absolutely loved it! The night views were even more spectacular, and the swimming pool looked stunning. In the evenings, it was a popular spot for many children and adults to enjoy a swim.",
+      "author": "Guest User",
+      "date": "2025-08-10",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2372128&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2372128&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 52,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:27:59.050Z",
+  "source": "trip"
+}

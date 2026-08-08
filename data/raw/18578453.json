@@ -1,0 +1,83 @@
+{
+  "id": 18578453,
+  "name": "Molian Shanju Hotel",
+  "seedName": "Molian Shanju Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-18578453",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=18578453&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-18578453&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness:The property is exceptionally clean, with meticulous attention to detail. Guests repeatedly praised the cleanliness, with features like dust-free floors, well-maintained swimming pools, and a pleasant wooden aroma throughout the premises.(based on 15 reviews) Facilities:The accommodation boasts comprehensive facilities, including swimming pools, game rooms, and musical instruments like drums and KTV systems. These amenities cater to different interests and ensure entertainment even during bad weather.(based on 15 reviews) Food and Dining:Breakfasts are diverse and plentiful, with homemade dishes that appeal to both children and adults. Guests often highlight the delicious farm-style meals prepared by the host, contributing to a satisfying culinary experience.(based on 21 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness",
+        "text": "The property is exceptionally clean, with meticulous attention to detail. Guests repeatedly praised the cleanliness, with features like dust-free floors, well-maintained swimming pools, and a pleasant wooden aroma throughout the premises.",
+        "count": 15
+      },
+      {
+        "topic": "Facilities",
+        "text": "The accommodation boasts comprehensive facilities, including swimming pools, game rooms, and musical instruments like drums and KTV systems. These amenities cater to different interests and ensure entertainment even during bad weather.",
+        "count": 15
+      },
+      {
+        "topic": "Food and Dining",
+        "text": "Breakfasts are diverse and plentiful, with homemade dishes that appeal to both children and adults. Guests often highlight the delicious farm-style meals prepared by the host, contributing to a satisfying culinary experience.",
+        "count": 21
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 43, Waiyaowu, Yaowu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$84",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Billiards room",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/18578453/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2912000slbszdtC779.jpg"
+    },
+    {
+      "src": "/images/stays/18578453/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02018120008qzyfaoD95B.webp"
+    },
+    {
+      "src": "/images/stays/18578453/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0582d12000sp1zrr96CA0.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The hotel owners/ hosts were very helpful. The hotel is modern, clean and stylish. The atmosphere is very quiet even though it is close to the main road that leads to the city. We loved being hosted by them and...",
+      "author": "Melotheexplorerr",
+      "date": "2026-05-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=18578453&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-18578453&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Very nice stayed, the host is super nice. Recommended.",
+      "author": "Guest User",
+      "date": "2025-10-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=18578453&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-18578453&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Moganshan B&B Travel Notes Mogan Mountain is a famous summer resort in China. There are many exquisite B&Bs here, attracting many tourists to experience it. This time I came to Mogan Mountain with my family and stayed at a boutique...",
+      "author": "Yushui",
+      "date": "2023-11-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=18578453&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-18578453&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 93,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:54:57.345Z",
+  "source": "trip"
+}

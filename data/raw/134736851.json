@@ -1,0 +1,87 @@
+{
+  "id": 134736851,
+  "name": "Mogan · Harajuku · Zhuyu Haven Private Hot Spring Creekside Homestay (Jiangnan Yaowu)",
+  "seedName": "Mogan · Harajuku · Zhuyu Haven Private Hot Spring Creekside Homestay (Jiangnan Yaowu)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-134736851",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=134736851&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-134736851&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:The hotel is located in a serene area, surrounded by lush greenery and bamboo forests, providing a tranquil and picturesque setting. Guests appreciate the peaceful atmosphere, far removed from urban noise, offering a natural retreat experience.(based on 4 reviews) Cleanliness:The hotel is consistently praised for its cleanliness, with rooms and common areas being spotless and well-maintained. Guests highlight the meticulous attention to hygiene and the fresh, inviting ambiance throughout the property.(based on 15 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "The hotel is located in a serene area, surrounded by lush greenery and bamboo forests, providing a tranquil and picturesque setting. Guests appreciate the peaceful atmosphere, far removed from urban noise, offering a natural retreat experience.",
+        "count": 4
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "The hotel is consistently praised for its cleanliness, with rooms and common areas being spotless and well-maintained. Guests highlight the meticulous attention to hygiene and the fresh, inviting ambiance throughout the property.",
+        "count": 15
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 26, Geling, Fotang Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$119",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Hiking",
+    "Hot springs",
+    "Bar",
+    "Library",
+    "Billiards room",
+    "Table tennis room",
+    "Tea room",
+    "Cardroom",
+    "Restaurant",
+    "Cafe",
+    "Karaoke",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/134736851/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5212000srg5saf6D45.jpg"
+    },
+    {
+      "src": "/images/stays/134736851/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0212000sqwtfk2D476.webp"
+    },
+    {
+      "src": "/images/stays/134736851/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0x12000sr37umuF89D.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Facilities: The guesthouse is new with plenty of recreational facilities, enough for children to play in. The room amenities are also quite good. Cleanliness: Clean. Environment: The guesthouse is uniquely built into the mountainside. Although there are villagers living nearby,...",
+      "author": "Guest User",
+      "date": "2026-07-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=134736851&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-134736851&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Five-star review! ⭐⭐⭐⭐⭐ This stay was perfect! The staff were incredibly attentive, communicating patiently and meticulously, and providing directions and important information before arrival. They responded quickly to any needs during my stay, and were always kind and considerate. The...",
+      "author": "Crazylian",
+      "date": "2026-07-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=134736851&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-134736851&trip_sub3=D19127628"
+    },
+    {
+      "quote": "這次入住莫幹原宿真的被老闆的誠意打動。因為行程原因凌晨三點半才到民宿，本以為深夜入住會很麻煩，沒想到老闆一直在門口等候，耐心幫我們辦理入住。屋內各類用品準備齊全，細節考慮周全，服務貼心不敷衍。在奔波的深夜感受到滿滿的善意，是一家充滿人情味、很有温度的民宿，真心推薦給大家。",
+      "author": "Guest User",
+      "date": "2026-08-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=134736851&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-134736851&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 29,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:51:55.123Z",
+  "source": "trip"
+}

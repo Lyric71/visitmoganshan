@@ -1,0 +1,85 @@
+{
+  "id": 48302432,
+  "name": "Moganshan lead yunshan family vacation beautiful villa",
+  "seedName": "Moganshan lead yunshan family vacation beautiful villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-48302432",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=48302432&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-48302432&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Centrally located near Yucun Square, Tourist Transfer Center, and Moganshan Scenic Area . Proximity to hiking trails, horseback riding, and small animal interaction areas within walking distance.(based on 7 reviews) Family-Friendly Facilities:Includes parent-child rooms with slides, indoor play areas , and a clean, spacious swimming pool. Rooms are spacious with balconies, suitable for families.(based on 16 reviews) Cleanliness & Comfort:Most reviews highlight cleanliness, tidy rooms, and modern amenities .(based on 23 reviews) Convenience:On-site parking, nearby restaurants, and barbecue options. Free breakfast with local ingredients .(based on 3 reviews) Scenic Environment:Surrounded by natural landscapes and offers tranquil, green surroundings for relaxation.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Centrally located near Yucun Square, Tourist Transfer Center, and Moganshan Scenic Area . Proximity to hiking trails, horseback riding, and small animal interaction areas within walking distance.",
+        "count": 7
+      },
+      {
+        "topic": "Family-Friendly Facilities",
+        "text": "Includes parent-child rooms with slides, indoor play areas , and a clean, spacious swimming pool. Rooms are spacious with balconies, suitable for families.",
+        "count": 16
+      },
+      {
+        "topic": "Comfort",
+        "text": "Most reviews highlight cleanliness, tidy rooms, and modern amenities .",
+        "count": 23
+      },
+      {
+        "topic": "Convenience",
+        "text": "On-site parking, nearby restaurants, and barbecue options. Free breakfast with local ingredients .",
+        "count": 3
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 26, Yu Village, Fatou Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$68",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/48302432/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206h1200087g6cbz8361.jpg"
+    },
+    {
+      "src": "/images/stays/48302432/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/020481200087g597u574E.webp"
+    },
+    {
+      "src": "/images/stays/48302432/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0202r1200087g5bru4FB6.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "We booked this room specifically for the big slide, and my little one absolutely loved it, which was a hit. However, the only minor drawback was that the room felt quite chilly. Instead of central air conditioning, there was a...",
+      "author": "Konghuanyizuocheng",
+      "date": "2025-02-26",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=48302432&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-48302432&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Spacious and comfortable, with beautiful surroundings.",
+      "author": "Guest User",
+      "date": "2025-08-22",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=48302432&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-48302432&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room was very clean, and the surroundings offered beautiful scenery.",
+      "author": "Guest User",
+      "date": "2025-05-11",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=48302432&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-48302432&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.3,
+    "count": 56,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:26:11.056Z",
+  "source": "trip"
+}

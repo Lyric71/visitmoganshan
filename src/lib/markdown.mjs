@@ -49,6 +49,33 @@ export const internalLinkSlashes = {
 };
 
 /**
+ * Mark affiliate links written in body copy as commercial.
+ *
+ * A commercial link in an article is written as an ordinary internal markdown
+ * link to /go/{slug}, so the drafts stay portable and the tracked URL lives in
+ * exactly one place, the redirect table in astro.config.mjs. What the components
+ * do by hand, this does for prose: rel="sponsored" because the link earns us
+ * money and /plan/disclosure promises a reader they can see that in the source,
+ * and target="_blank" with noopener because the reader is mid-article and
+ * booking a train is not a reason to lose their place.
+ *
+ * Only /go/ paths are touched. Every other internal link is editorial.
+ */
+export const sponsoredAffiliateLinks = {
+  name: 'vm-sponsored-affiliate-links',
+  element: {
+    filter: ['a'],
+    visit(node, ctx) {
+      const href = node.properties?.href;
+      if (typeof href !== 'string' || !href.startsWith('/go/')) return;
+
+      ctx.setProperty(node, 'rel', 'sponsored noopener');
+      ctx.setProperty(node, 'target', '_blank');
+    },
+  },
+};
+
+/**
  * Wrap every markdown table in a horizontally scrollable region.
  *
  * These pages carry timetables, fare bands and door-to-door tables running to

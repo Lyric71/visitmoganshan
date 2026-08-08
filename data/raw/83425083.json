@@ -1,0 +1,82 @@
+{
+  "id": 83425083,
+  "name": "MOGAN MOUNTAIN MUXIA STAR CAMPING RESORT VILLA",
+  "seedName": "MOGAN MOUNTAIN MUXIA STAR CAMPING RESORT VILLA",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-83425083",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=83425083&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-83425083&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service Quality:Staff, including hosts and caretakers, are consistently described as warm and attentive, providing personalized services such as pre-arrival preparations (air conditioning, snacks) and accommodating special requests efficiently.(based on 10 reviews) Culinary Experience:The on-site cooking by the host's staff is highly praised for its delicious and varied meals, with breakfasts being particularly noteworthy for their quality and homemade nature, appealing to diverse tastes.(based on 3 reviews) Cleanliness and Maintenance:Rooms and common areas are maintained to a high standard of cleanliness, with regular cleaning and attention to minor details like pest control, ensuring a comfortable stay.(based on 5 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service Quality",
+        "text": "Staff, including hosts and caretakers, are consistently described as warm and attentive, providing personalized services such as pre-arrival preparations (air conditioning, snacks) and accommodating special requests efficiently.",
+        "count": 10
+      },
+      {
+        "topic": "Culinary Experience",
+        "text": "The on-site cooking by the host's staff is highly praised for its delicious and varied meals, with breakfasts being particularly noteworthy for their quality and homemade nature, appealing to diverse tastes.",
+        "count": 3
+      },
+      {
+        "topic": "Cleanliness and Maintenance",
+        "text": "Rooms and common areas are maintained to a high standard of cleanliness, with regular cleaning and attention to minor details like pest control, ensuring a comfortable stay.",
+        "count": 5
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 29, Shenjialing, Xiantan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$115",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Billiards room",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/83425083/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5j12000azdevh20A4F.jpg"
+    },
+    {
+      "src": "/images/stays/83425083/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201d12000979o11pC605.webp"
+    },
+    {
+      "src": "/images/stays/83425083/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201612000979ouk542E6.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "無數個喜歡莫干山的理由之一是，這裏的人文超好。住在這家民宿，不僅是享受美景美食，更喜歡和店家聊家常，老闆娘和老闆娘的婆婆都超好，婆媳關心這麼和諧的家不可能不幸福。還拿到自家種的蔬菜，非常感謝老闆娘和婆婆😅😅😅",
+      "author": "Guest User",
+      "date": "2026-04-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=83425083&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-83425083&trip_sub3=D19127628"
+    },
+    {
+      "quote": "第一次包整棟幾個家庭一起出來遊玩、體驗感相當好、阿姨燒的農家樂味道也不錯哦、管家也是有求必應、後面的小溪小孩子玩的也很開心。以後還會考慮再次入住。",
+      "author": "ღ Sy",
+      "date": "2025-08-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=83425083&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-83425083&trip_sub3=D19127628"
+    },
+    {
+      "quote": "和朋友一起出遊，選擇了慕夏，民宿地理位置優越，位於仙潭核心位置，正面對莫干山主峯，環境十分優美。每個房間都很大，住的很舒適。老闆一家都十分熱情，阿姨燒得一手好菜。正好朋友有求婚計劃，老闆提前幫忙做了精心的佈置，非常温馨浪漫，記錄了人生中的重要時刻！整趟行程非常圓滿🌹🌹",
+      "author": "Guest User",
+      "date": "2025-05-13",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=83425083&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-83425083&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 25,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:55:45.720Z",
+  "source": "trip"
+}

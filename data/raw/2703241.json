@@ -1,0 +1,78 @@
+{
+  "id": 2703241,
+  "name": "Xishan Haraju Vanilla Forest Wentang Meisu (Moganshan Resort)",
+  "seedName": "Xishan Haraju Vanilla Forest Wentang Meisu (Moganshan Resort)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2703241",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2703241&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2703241&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:The hotel offers a serene setting in the mountains, perfect for relaxation. Guests love the charming gardens and soothing atmosphere. Service:Highly praised service with attentive staff and personalized care, creating a welcoming atmosphere.(based on 320 reviews) Facilities:Modern facilities with spacious rooms and engaging activities enhance the stay for all guests.(based on 30 reviews) Food:Dining options are varied and flavorful, showcasing local ingredients and enhancing the relaxing getaway.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "The hotel offers a serene setting in the mountains, perfect for relaxation. Guests love the charming gardens and soothing atmosphere. Service:Highly praised service with attentive staff and personalized care, creating a welcoming atmosphere.",
+        "count": 320
+      },
+      {
+        "topic": "Facilities",
+        "text": "Modern facilities with spacious rooms and engaging activities enhance the stay for all guests.",
+        "count": 30
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 19, Shangxiazhuang, Lanshukeng Village, Fatou Township, Deqing, Zhejiang, China",
+  "priceRange": "From US$137",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Hot springs",
+    "Restaurant",
+    "Cafe"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/2703241/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2312000e42ujjxAF3B.jpg"
+    },
+    {
+      "src": "/images/stays/2703241/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2312000e42ujjxAF3B.webp"
+    },
+    {
+      "src": "/images/stays/2703241/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2d12000ckzwqfrED31.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Moganshan Xishan Homestay | Wabi-Sabi Mountain Retreat, a Reconciliation of Herbs and Time Many seek a mountain retreat for escape, but Xishan Homestay is a vessel that allows time to return to its original state. Nestled deep within the bamboo...",
+      "author": "Baoheqipaotang",
+      "date": "2026-06-10",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2703241&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2703241&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The bedding in the room is very comfortable, and the hairdryer is a Dyson. The private onsen offers excellent privacy, and the hotel is pet-friendly. The butler was very nice.",
+      "author": "Lululu000",
+      "date": "2026-06-10",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2703241&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2703241&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The environment is great, and the room was very clean and hygienic. The facilities are generally quite new. The service was excellent, and they even offered a scented candle making workshop, which was a really nice experience. They also helped...",
+      "author": "Guest User",
+      "date": "2026-01-11",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2703241&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2703241&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 586,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:59:34.935Z",
+  "source": "trip"
+}

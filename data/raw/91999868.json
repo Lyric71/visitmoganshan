@@ -1,0 +1,79 @@
+{
+  "id": 91999868,
+  "name": "Moganshan Dashuxia · Creek Tracing Swimming Pool Mingsha Wenquan Vacation Boutique Stay",
+  "seedName": "Moganshan Dashuxia · Creek Tracing Swimming Pool Mingsha Wenquan Vacation Boutique Stay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-91999868",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=91999868&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-91999868&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Pet-Friendly Environment:The presence of well-behaved, cute dogs and cats is widely appreciated, enhancing the relaxing atmosphere. Pets are described as friendly and non-disruptive, contributing to a welcoming and soothing environment for guests. Service Quality:Staff are praised for their responsiveness, friendliness, and attentiveness. Services range from prompt assistance with requests to personalized recommendations for local activities, ensuring a seamless guest experience.(based on 69 reviews) Decor and Ambiance:The Moroccan or Southeast Asian-inspired decor is frequently noted for its aesthetic appeal, creating a photogenic and immersive environment. Unique touches like vintage tape collections and cozy lounges enhance the ambiance. Activities and Entertainment:A wide range of activities is available, including afternoon tea, family-friendly play areas, and self-guided mountain river tracing. The property caters to both adults and children with options like board games, karaoke, and fire pits.(based on 55 reviews) Guest Suggestion:Some customers suggest improving Wi-Fi stability, clarifying room size descriptions, and ensuring heating facilities",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Pet-Friendly Environment",
+        "text": "The presence of well-behaved, cute dogs and cats is widely appreciated, enhancing the relaxing atmosphere. Pets are described as friendly and non-disruptive, contributing to a welcoming and soothing environment for guests. Service Quality:Staff are praised for their responsiveness, friendliness, and attentiveness. Services range from prompt assistance with requests to personalized recommendations for local activities, ensuring a seamless guest experience.",
+        "count": 69
+      },
+      {
+        "topic": "Decor and Ambiance",
+        "text": "The Moroccan or Southeast Asian-inspired decor is frequently noted for its aesthetic appeal, creating a photogenic and immersive environment. Unique touches like vintage tape collections and cozy lounges enhance the ambiance. Activities and Entertainment:A wide range of activities is available, including afternoon tea, family-friendly play areas, and self-guided mountain river tracing. The property caters to both adults and children with options like board games, karaoke, and fire pits.",
+        "count": 55
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 3, Dashuxia, Village Group 2, Xiantan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$98",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Water park",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/91999868/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0204f120009ezxxhp9D52.jpg"
+    },
+    {
+      "src": "/images/stays/91999868/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201h120009fe3job563F.webp"
+    },
+    {
+      "src": "/images/stays/91999868/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6q12000gpnxyp0BF25.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The room is very clean and sanitary, and the effect is 100% restored to the merchant's pictures. Any request is responded to promptly, and they will also introduce fun places around. There is a mahjong machine in the room, which...",
+      "author": "Guest User",
+      "date": "2025-07-13",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=91999868&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-91999868&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The parent-child room is very large. There is a stream next to the B&B. It is very clear and you can fish and play in the water. The desserts are delicious. We booked a hot pot for dinner. The children...",
+      "author": "Guest User",
+      "date": "2025-07-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=91999868&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-91999868&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Super good! Very clean, the service attitude is also very good, the boss and the shopkeeper are very nice, there is a swimming pool and charging stations, especially the big dogs and cats, they are very well-behaved and cute, so...",
+      "author": "Guest User",
+      "date": "2025-07-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=91999868&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-91999868&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 144,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:05:44.187Z",
+  "source": "trip"
+}

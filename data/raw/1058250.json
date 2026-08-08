@@ -1,0 +1,68 @@
+{
+  "id": 1058250,
+  "name": "Rest Valley",
+  "seedName": "Rest Valley",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1058250",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1058250&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1058250&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Rest Valley?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Mogan Mountain Canyon Rafting, Miaoqian Village, Fatou Township, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$60",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Billiards room",
+    "Restaurant",
+    "Cafe",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1058250/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5k12000gsm7i1h0C11.jpg"
+    },
+    {
+      "src": "/images/stays/1058250/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3g12000ffl7moc089E.webp"
+    },
+    {
+      "src": "/images/stays/1058250/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20090u000000ixtp4DACA.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Moganshan Yangxin Valley Hotel has a beautiful environment, considerate service, and complete facilities, allowing people to enjoy comfort and tranquility. It is an excellent choice for vacation. Highly recommended!",
+      "author": "ZhuTraCy",
+      "date": "2024-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1058250&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1058250&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Overall it's very good. The lady at the front desk is pretty and enthusiastic. She told us where the stream was in the afternoon and helped us light the fire in advance when we had a barbecue at night. The...",
+      "author": "Anonymous User",
+      "date": "2024-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1058250&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1058250&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The environment is elegant, and you can hear the gurgling sound of the stream when you sleep at night. This time I went out for Moganshan Motorbike Tour. There is a yard in the store, and it is safe to...",
+      "author": "Guest User",
+      "date": "2024-04-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1058250&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1058250&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 106,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:17:50.379Z",
+  "source": "trip"
+}

@@ -1,0 +1,92 @@
+{
+  "id": 67376210,
+  "name": "Moganshan Feiyuan Xiaozhushanju",
+  "seedName": "Moganshan Feiyuan Xiaozhushanju",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-67376210",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=67376210&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-67376210&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness & Facilities:Rooms are consistently described as clean, tidy, and well-maintained, with modern amenities .(based on 40 reviews) Hospitality:Hosts are highlighted as warm, welcoming, and helpful, offering personalized recommendations .(based on 38 reviews) Family-Friendly Features:Pet-friendly courtyards, playgrounds , and child-friendly amenities are frequently praised.(based on 13 reviews) Dining:Rich, homemade breakfasts and locally sourced meals are recurring positives.(based on 15 reviews) Design & Ambiance:Stylish, quiet, and well-decorated interiors with private courtyards, swimming pools, and shaded areas for relaxation.(based on 8 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Facilities",
+        "text": "Rooms are consistently described as clean, tidy, and well-maintained, with modern amenities .",
+        "count": 40
+      },
+      {
+        "topic": "Hospitality",
+        "text": "Hosts are highlighted as warm, welcoming, and helpful, offering personalized recommendations .",
+        "count": 38
+      },
+      {
+        "topic": "Family-Friendly Features",
+        "text": "Pet-friendly courtyards, playgrounds , and child-friendly amenities are frequently praised.",
+        "count": 13
+      },
+      {
+        "topic": "Dining",
+        "text": "Rich, homemade breakfasts and locally sourced meals are recurring positives.",
+        "count": 15
+      },
+      {
+        "topic": "Ambiance",
+        "text": "Stylish, quiet, and well-decorated interiors with private courtyards, swimming pools, and shaded areas for relaxation.",
+        "count": 8
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 40, Liaoyuan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$70",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/67376210/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/020011200083lxbhn380D.jpg"
+    },
+    {
+      "src": "/images/stays/67376210/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200u12000875g9hh4533.webp"
+    },
+    {
+      "src": "/images/stays/67376210/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0204h1200083kpsvuFA41.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The room is clean and tidy, with complete facilities. There is a small courtyard, parking is available, and the swimming pool and swings are all available. The proprietress and the old lady are warm and welcoming. The noodles are delicious....",
+      "author": "Guest User",
+      "date": "2024-06-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=67376210&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-67376210&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The location of the B&B is very good, just next to Yucun and Moganshan Scenic Area Distribution Center, just walk there. The B&B is very stylish, quiet and clean. The host aunt and sister are very welcoming. The breakfast is...",
+      "author": "Guest User",
+      "date": "2024-05-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=67376210&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-67376210&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room was very clean and tidy, and the owners of the B&B were very friendly and welcoming. The garden at the door is especially suitable for letting the family dogs run around. There are many dining options within walking...",
+      "author": "Sarah_syyy",
+      "date": "2024-04-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=67376210&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-67376210&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 66,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:57:23.043Z",
+  "source": "trip"
+}

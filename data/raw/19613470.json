@@ -1,0 +1,87 @@
+{
+  "id": 19613470,
+  "name": "Joyous Resort Hotel (Moganshan）",
+  "seedName": "Joyous Resort Hotel (Moganshan）",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-19613470",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=19613470&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-19613470&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:Located in Moganshan surrounded by green mountains with fresh air, a natural resort away from city noise. Backyard has a large bamboo forest. Surroundings are quiet and beautiful.(based on 8 reviews) Facilities:Equipped with complete facilities like floor heating, powerful central air conditioning, spacious front desk, outdoor terrace, meeting various vacation needs. Rooms are large with spacious layout, large windows, skylights for star viewing.(based on 25 reviews) Service:Staff are friendly and helpful, actively contact in advance, provide pick-up and drop-off services, meet various needs in a timely manner(based on 29 reviews) Rooms:Large rooms, duplex structure, comfortable bedding, quiet environment(based on 23 reviews) Surrounding Activities:Nearby has many entertainment projects such as off-road vehicles, CS, farms",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Located in Moganshan surrounded by green mountains with fresh air, a natural resort away from city noise. Backyard has a large bamboo forest. Surroundings are quiet and beautiful.",
+        "count": 8
+      },
+      {
+        "topic": "Facilities",
+        "text": "Equipped with complete facilities like floor heating, powerful central air conditioning, spacious front desk, outdoor terrace, meeting various vacation needs. Rooms are large with spacious layout, large windows, skylights for star viewing.",
+        "count": 25
+      },
+      {
+        "topic": "Service",
+        "text": "Staff are friendly and helpful, actively contact in advance, provide pick-up and drop-off services, meet various needs in a timely manner",
+        "count": 29
+      },
+      {
+        "topic": "Rooms",
+        "text": "Large rooms, duplex structure, comfortable bedding, quiet environment",
+        "count": 23
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 3, Wai Village, Ziling Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$72",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Bar",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/19613470/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200t1a0000018t1s5393E.jpg"
+    },
+    {
+      "src": "/images/stays/19613470/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200d0y000000lr5w4DA5A.webp"
+    },
+    {
+      "src": "/images/stays/19613470/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200o19000001732ysC5A4.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "This resort is small however every detail well designed! The staff is friendly and very helpful. The rooms are big and the beds comfortable It is 138 meters to the Main Street and the hotel provides a small commuter vehicle...",
+      "author": "Little Prince 小王子",
+      "date": "2023-10-31",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=19613470&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-19613470&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The weather here has caught up with everything. It rained the first two days, and it snowed harder the next two days. Fortunately, the hotel has a large backyard and a bamboo forest, and the children had a lot of...",
+      "author": "Guest User",
+      "date": "2024-02-25",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=19613470&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-19613470&trip_sub3=D19127628"
+    },
+    {
+      "quote": "🌟Environment🌟🌟🌟🌟🌟 Surrounded by green mountains and with fresh air, Moganshan is a natural resort away from the hustle and bustle of the city. 🌟Facilities🌟🌟🌟🌟🌟 Complete facilities, floor heating, powerful central air conditioning, spacious and bright front desk, and outdoor terrace...",
+      "author": "Guest User",
+      "date": "2024-02-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=19613470&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-19613470&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 59,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:12:07.082Z",
+  "source": "trip"
+}

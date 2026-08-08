@@ -1,0 +1,100 @@
+{
+  "id": 1698966,
+  "name": "Moganshan Mountain Villa",
+  "seedName": "Moganshan Mountain Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1698966",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1698966&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1698966&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Scenery:Surrounded by stunning natural beauty, the hotel provides incredible views, including sunrises and cloud seas. Many guests appreciate the picturesque scenery visible from their rooms, which enhances the overall stay.(based on 224 reviews) Facilities:The hotel offers a variety of amenities including a Starbucks café, tennis courts, and a well-equipped gym. Rooms are described as spacious and well-appointed, with large windows that bring the outdoors inside.(based on 273 reviews) Service:Guests frequently commend the hotel staff for their helpfulness and professionalism. The hotel provides thoughtful services like advanced notifications for travel routes and on-site assistance to enhance the guest experience.(based on 219 reviews) Value for Money:Many guests find the hotel to be a great value, offering reasonable prices for its location and amenities. The inclusion of meals and activities in some packages is appreciated, making it a cost-effective choice for families and groups.(based on 36 reviews) Guest Suggestion:Some customers suggest improving sanitation, room conditions, breakfast quality, and staff responsiveness.(based on 13 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Scenery",
+        "text": "Surrounded by stunning natural beauty, the hotel provides incredible views, including sunrises and cloud seas. Many guests appreciate the picturesque scenery visible from their rooms, which enhances the overall stay.",
+        "count": 224
+      },
+      {
+        "topic": "Facilities",
+        "text": "The hotel offers a variety of amenities including a Starbucks café, tennis courts, and a well-equipped gym. Rooms are described as spacious and well-appointed, with large windows that bring the outdoors inside.",
+        "count": 273
+      },
+      {
+        "topic": "Service",
+        "text": "Guests frequently commend the hotel staff for their helpfulness and professionalism. The hotel provides thoughtful services like advanced notifications for travel routes and on-site assistance to enhance the guest experience.",
+        "count": 219
+      },
+      {
+        "topic": "Value for Money",
+        "text": "Many guests find the hotel to be a great value, offering reasonable prices for its location and amenities. The inclusion of meals and activities in some packages is appreciated, making it a cost-effective choice for families and groups.",
+        "count": 36
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving sanitation, room conditions, breakfast quality, and staff responsiveness.",
+      "count": 13
+    }
+  },
+  "address": "Building 7, Wuling Village, Moganshan, Deqing, Zhejiang, 313202, China",
+  "priceRange": "From US$105",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Gym",
+    "Bar",
+    "Tennis court",
+    "Billiards room",
+    "Table tennis room",
+    "Cardroom",
+    "Restaurant",
+    "Cafe",
+    "Conference room",
+    "Multi-function room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1698966/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1b12000refh0ghDC08.jpg"
+    },
+    {
+      "src": "/images/stays/1698966/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6112000ro6pzhfB006.webp"
+    },
+    {
+      "src": "/images/stays/1698966/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200m1g000001h7pkg8EB4.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The front desk staff were incredibly friendly and efficient; check-in was a breeze. They even upgraded me to a suite for free and gave me two complimentary coffee vouchers for the hotel's cafe. Truly wonderful people! The bellhop helped with...",
+      "author": "Guest User",
+      "date": "2026-07-30",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1698966&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1698966&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I brought my family here for a relaxing and therapeutic four-day, three-night getaway in the mountains. The customer service representative added me on WeChat, and communication was prompt and friendly. Our accommodation was upgraded to a villa room with a...",
+      "author": "Vivianjwang",
+      "date": "2026-07-20",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1698966&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1698966&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Located at the easternmost tip of the mountaintop, this hotel boasts unbeatable mountain views, with Wuling Village right at its doorstep. It's super convenient to walk to Dicui Pond, Xuguang Terrace, Qingliang Pavilion, and the mountaintop bookstore. While other attractions...",
+      "author": "Guest User",
+      "date": "2026-07-21",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1698966&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1698966&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.3,
+    "count": 639,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:25:47.511Z",
+  "source": "trip"
+}

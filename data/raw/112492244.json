@@ -1,0 +1,86 @@
+{
+  "id": 112492244,
+  "name": "YAYA Garden",
+  "seedName": "YAYA Garden",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-112492244",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=112492244&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-112492244&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service Quality:Staff and proprietors are praised for their warm, attentive, and family-like hospitality. Guests appreciate personalized recommendations for local attractions, timely assistance, and proactive care, such as pre-cooling rooms or preparing meals for event participants.(based on 41 reviews) Amenities & Facilities:Rooms feature modern amenities like large windows, comfortable beds, and functional equipment. Some units include private bathrooms with hot water, while outdoor spaces like pools and courtyards enhance the stay experience.(based on 3 reviews) Dining Experience:Breakfast options are highlighted as delicious, varied, and locally sourced. Additional meals, such as porridge for marathon runners or homemade preserved bamboo shoots, are appreciated for their quality and thoughtfulness.(based on 7 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service Quality",
+        "text": "Staff and proprietors are praised for their warm, attentive, and family-like hospitality. Guests appreciate personalized recommendations for local attractions, timely assistance, and proactive care, such as pre-cooling rooms or preparing meals for event participants.",
+        "count": 41
+      },
+      {
+        "topic": "Facilities",
+        "text": "Rooms feature modern amenities like large windows, comfortable beds, and functional equipment. Some units include private bathrooms with hot water, while outdoor spaces like pools and courtyards enhance the stay experience.",
+        "count": 3
+      },
+      {
+        "topic": "Dining Experience",
+        "text": "Breakfast options are highlighted as delicious, varied, and locally sourced. Additional meals, such as porridge for marathon runners or homemade preserved bamboo shoots, are appreciated for their quality and thoughtfulness.",
+        "count": 7
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 29, Liaoyuan Village South Road, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$81",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant",
+    "Karaoke",
+    "Conference room",
+    "Playground",
+    "Kids' club"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/112492244/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3u12000dquewszF15B.jpg"
+    },
+    {
+      "src": "/images/stays/112492244/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4o12000dqoah5k99F0.webp"
+    },
+    {
+      "src": "/images/stays/112492244/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3712000dqob0p52D66.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "So happy to visit MO GAN SHAN LET ME HAVE A VERY NICE TRAIL RUNNING TRIP ANT LET ME CAN FINISH THE 80km race. After that , I have a good recovery and n the hotel",
+      "author": "Anonymous User",
+      "date": "2026-05-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=112492244&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-112492244&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Absolutely loved this guesthouse, it has so much character! The location is fantastic, making it super convenient for food, drinks, and entertainment. The owner was incredibly kind and welcoming. I'll definitely be back!",
+      "author": "Guest User",
+      "date": "2026-04-04",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=112492244&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-112492244&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I had a great stay at Yaya Garden. From the moment I arrived, I received a very warm welcome which immediately set a positive tone. The hotel was spotless throughout, and the room felt modern and comfortable. Overall, a very...",
+      "author": "Guest User",
+      "date": "2026-04-12",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=112492244&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-112492244&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 67,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:10:57.052Z",
+  "source": "trip"
+}

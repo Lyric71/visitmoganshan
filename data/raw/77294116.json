@@ -1,0 +1,74 @@
+{
+  "id": 77294116,
+  "name": "Misu MISU Moganshan Family Holiday Villa",
+  "seedName": "Misu MISU Moganshan Family Holiday Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-77294116",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=77294116&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-77294116&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment and Location:The hotel boasts a tranquil environment surrounded by mountains and greenery, creating a peaceful retreat. Its strategic location offers proximity to local attractions, making it convenient for guests to explore nearby points of interest.(based on 11 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment and Location",
+        "text": "The hotel boasts a tranquil environment surrounded by mountains and greenery, creating a peaceful retreat. Its strategic location offers proximity to local attractions, making it convenient for guests to explore nearby points of interest.",
+        "count": 11
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 1, Xie Village, Fotang Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$80",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/77294116/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02044120009z83bwu60D2.jpg"
+    },
+    {
+      "src": "/images/stays/77294116/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0204y12000a0aobzoC7DB.webp"
+    },
+    {
+      "src": "/images/stays/77294116/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200v120009z8g01fCAB0.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Excellent service. Amazing views from the room. Misu Misu has a large and beautiful backyard. The home-cooked dinner was also delicious.",
+      "author": "Adrian Chia TK",
+      "date": "2024-06-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=77294116&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-77294116&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The environment is very good, the boss lady is very enthusiastic, and you can also swim. I am very happy~",
+      "author": "Guest User",
+      "date": "2024-08-25",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=77294116&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-77294116&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The environment of the homestay garden is very good, with lawns, swimming pools, and basketball courts. The owner has thought of everything. The matching canopy, camping tables and chairs are also complete. The owner's service attitude is also very good....",
+      "author": "Guest User",
+      "date": "2024-05-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=77294116&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-77294116&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 83,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:55:20.427Z",
+  "source": "trip"
+}

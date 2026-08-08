@@ -31,7 +31,7 @@ Three pieces, in the order the mountain lived them.
 
 There is no archive behind a category filter and nothing put up as a placeholder. Two of the five researched subjects below are still unwritten, and they stay unwritten until the reporting is done.
 
-TODO: verify the publication schedule. We do not know whether the next pieces are weeks or quarters away, and will not name a month we cannot hold to.
+Not confirmed: the publication schedule. We do not know whether the next pieces are weeks or quarters away, and will not name a month we cannot hold to.
 
 There is no mailing list either, and no pop-up asking for your address. New pieces show up here and in the news index.
 
@@ -68,7 +68,7 @@ Where two published sources disagree, both go up and we name the disagreement in
 
 > Conflicting published ticket ranges for the scenic area, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-Gaps get labeled rather than filled. Every `TODO: verify` marker on the site flags something the research could not confirm and stays until it closes. One sits four paragraphs above. [About this site](/about/) sets out the method.
+Gaps get labeled rather than filled. Every `Not confirmed` marker on the site flags something the research could not confirm and stays until it closes. One sits four paragraphs above. [About this site](/about/) sets out the method.
 
 None of that is standard on a destination site.
 
@@ -102,4 +102,4 @@ Forty houses moved inside a decade, most of that before the Management Bureau of
 
 "Yu Village" is the release's wording; we have not confirmed it means Yucun (庾村). A branded resort arrives differently from a lease on an old lodge. What it does to about 1,000 village guesthouses, four in five individually owned, is the thing to watch. The construction years are the obvious Moganshan photo essay. Not written yet, and the three published pieces leave the Four Seasons material alone because it belongs here.
 
-*Journal status last checked 7 August 2026, against research compiled 1 to 5 August 2026. The schedule for the two unwritten subjects is an open TODO. This page gets re-dated the day a fourth post lands.*
+*Journal status last checked 7 August 2026, against research compiled 1 to 5 August 2026. The schedule for the two unwritten subjects is an open question. This page gets re-dated the day a fourth post lands.*

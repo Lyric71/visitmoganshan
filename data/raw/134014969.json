@@ -1,0 +1,89 @@
+{
+  "id": 134014969,
+  "name": "jifan house",
+  "seedName": "jifan house",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-134014969",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=134014969&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-134014969&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Hygiene:Rooms are spotlessly clean, free of the common dampness and mildew in the mountains.(based on 9 reviews) Breakfast:The proprietress makes breakfast with heart, with fresh and abundant ingredients, rich varieties, and delicious taste.(based on 2 reviews) Facilities:Complete recreational facilities, including mountain spring swimming pool, billiards, table tennis, karaoke, mahjong, etc., and complete equipment.(based on 3 reviews) Service Quality:The boss is enthusiastic and reliable, recommends travel routes, and provides thoughtful services such as helping with laundry and drying.(based on 10 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Hygiene",
+        "text": "Rooms are spotlessly clean, free of the common dampness and mildew in the mountains.",
+        "count": 9
+      },
+      {
+        "topic": "Breakfast",
+        "text": "The proprietress makes breakfast with heart, with fresh and abundant ingredients, rich varieties, and delicious taste.",
+        "count": 2
+      },
+      {
+        "topic": "Facilities",
+        "text": "Complete recreational facilities, including mountain spring swimming pool, billiards, table tennis, karaoke, mahjong, etc., and complete equipment.",
+        "count": 3
+      },
+      {
+        "topic": "Service Quality",
+        "text": "The boss is enthusiastic and reliable, recommends travel routes, and provides thoughtful services such as helping with laundry and drying.",
+        "count": 10
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Building 31, Huashengda Mountain Villa, Huangfu East Road, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$56",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant",
+    "Karaoke",
+    "Laundry room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/134014969/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200s12000s0xwuxdE2F8.jpg"
+    },
+    {
+      "src": "/images/stays/134014969/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5s12000s0y159v9C2A.webp"
+    },
+    {
+      "src": "/images/stays/134014969/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3112000s0xymsa0C11.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Came to Moganshan with my family and stayed at Jifan Mountain House. Everyone was very happy. The guesthouse owners recommended a sightseeing route and even took us hiking. Their love for life warmed us throughout our stay. We stayed for...",
+      "author": "Guest User",
+      "date": "2026-07-29",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=134014969&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-134014969&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Highly recommend Jifan Mountain House! The owner is incredibly warm and reliable, and even shared some hidden hiking trails with us. The guesthouse itself is serene and impeccably clean. The most delightful surprise was the daily breakfast, lovingly prepared by...",
+      "author": "nii05",
+      "date": "2026-07-29",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=134014969&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-134014969&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I discovered a truly wonderful guesthouse, and I highly recommend it! The owner is incredibly kind and gentle, and treats everyone with warmth and hospitality. Staying here felt completely natural and relaxed, without any sense of unfamiliarity. The room was...",
+      "author": "Guest User",
+      "date": "2026-06-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=134014969&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-134014969&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 10,
+    "count": 23,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:58:25.196Z",
+  "source": "trip"
+}

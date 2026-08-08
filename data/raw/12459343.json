@@ -1,0 +1,84 @@
+{
+  "id": 12459343,
+  "name": "Yunshe Inn",
+  "seedName": "Yunshe Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-12459343",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=12459343&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-12459343&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Located near Yucun Square, with many dining options nearby and convenient for climbing Moganshan. Situated in Yucun distribution center, having beautiful scenery and being close to the Spartan Race venue.(based on 5 reviews) Room:Rooms are large, spacious, and as good-looking as the pictures with all facilities in good condition, and close to dining and shopping.(based on 8 reviews) Environment:Quiet, with elegant environment and beautiful scenery like 'picking chrysanthemums under the eastern hedge and casually seeing the southern mountains' during off-peak times.(based on 1 review) Guest Suggestion:Some customers suggest improving cleanliness (e.g., hair strands, stains on bedding, mold spots) and addressing facility maintenance issues (e.g., broken pillow zippers, faulty electrical outlets).(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Located near Yucun Square, with many dining options nearby and convenient for climbing Moganshan. Situated in Yucun distribution center, having beautiful scenery and being close to the Spartan Race venue.",
+        "count": 5
+      },
+      {
+        "topic": "Room",
+        "text": "Rooms are large, spacious, and as good-looking as the pictures with all facilities in good condition, and close to dining and shopping.",
+        "count": 8
+      },
+      {
+        "topic": "Environment",
+        "text": "Quiet, with elegant environment and beautiful scenery like 'picking chrysanthemums under the eastern hedge and casually seeing the southern mountains' during off-peak times.",
+        "count": 1
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving cleanliness (e.g., hair strands, stains on bedding, mold spots) and addressing facility maintenance issues (e.g., broken pillow zippers, faulty electrical outlets).",
+      "count": 3
+    }
+  },
+  "address": "No. 37, Yujia, Liaoyuan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$61",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/12459343/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1n12000b78de9fC6C6.jpg"
+    },
+    {
+      "src": "/images/stays/12459343/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2B0f0t000000ickds43E3.webp"
+    },
+    {
+      "src": "/images/stays/12459343/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206t120009lknts3FB75.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "請看圖片！請看視頻！ 沒有入住前的路線指引，讓客人雨中一路摸索、茫然無措。 沒有入住時的身份登記，流程混亂、毫無規範。 沒有主動告知WiFi密碼，連最基礎的網絡便利都要客人自己嘗試猜測。 沒有準備任何瓶裝飲用水，連一口乾凈水都要客人自行解決。 沒有最基本的衞生水準，細節臟亂。 沒有按照預預訂頁面承諾提供早餐，更不具備製作和供應早餐的能力。 這樣的民宿令人大開眼界。辜負了自然風光與人文底藴兼具的莫干山景區。 哪一點不屬實，請民宿主人指正！",
+      "author": "Mima2013",
+      "date": "2026-04-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=12459343&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-12459343&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間還是蠻乾淨的，衞生，建議在房間裏最好還是多一點傢俱，比如説凳子椅子什麼的，是啊，客人在房間裏可以坐，可以放點東西。早餐太簡單，衹有一些小饅頭加一杯葱加鹽的鹹水湯，這很顯然顯得太敷衍客户",
+      "author": "Jushandi",
+      "date": "2026-07-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=12459343&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-12459343&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間乾淨整潔衞生，滿足需求，離庾村廣場近，附近吃的也多，爬莫干山方便，注意百度地圖上定位不準，老闆娘過來帶過去。",
+      "author": "Guest User",
+      "date": "2025-12-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=12459343&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-12459343&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 7.6,
+    "count": 28,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:00:13.927Z",
+  "source": "trip"
+}

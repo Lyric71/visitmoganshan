@@ -1,0 +1,90 @@
+{
+  "id": 80390613,
+  "name": "Manyin · Moganshan Villa Huanshan Suxi Yeshe Meisu (Yucun Guangchang)",
+  "seedName": "Manyin · Moganshan Villa Huanshan Suxi Yeshe Meisu (Yucun Guangchang)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-80390613",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=80390613&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-80390613&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Environment:Situated near Moganshan hiking trails, Yu Village square , and a stream at the entrance. Surrounded by bamboo forests, offering serene, tranquil scenery with views of mountains and misty mornings.(based on 13 reviews) Recreational Facilities:Features a large swimming pool, children’s playground, KTV, mahjong room, and table tennis. The host prepares games and activities in advance .(based on 10 reviews) Accommodation & Services:Rooms are clean and equipped with modern amenities . Hosts provide detailed travel recommendations, early check-in options, and free breakfast with locally sourced, healthy meals .(based on 23 reviews) Accessibility:Easy access to Moganshan’s cultural sites and parking availability.(based on 13 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Situated near Moganshan hiking trails, Yu Village square , and a stream at the entrance. Surrounded by bamboo forests, offering serene, tranquil scenery with views of mountains and misty mornings.",
+        "count": 13
+      },
+      {
+        "topic": "Recreational Facilities",
+        "text": "Features a large swimming pool, children’s playground, KTV, mahjong room, and table tennis. The host prepares games and activities in advance .",
+        "count": 10
+      },
+      {
+        "topic": "Services",
+        "text": "Rooms are clean and equipped with modern amenities . Hosts provide detailed travel recommendations, early check-in options, and free breakfast with locally sourced, healthy meals .",
+        "count": 23
+      },
+      {
+        "topic": "Accessibility",
+        "text": "Easy access to Moganshan’s cultural sites and parking availability.",
+        "count": 13
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 13, Mogaowu, Liaoyuan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$84",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Billiards room",
+    "Cardroom",
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/80390613/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0z12000eyke0v6E7F0.jpg"
+    },
+    {
+      "src": "/images/stays/80390613/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5r12000bfn9sm6C6B6.webp"
+    },
+    {
+      "src": "/images/stays/80390613/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3i12000bfncwejA241.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Moganshan Manyin B&B can be said to be a perfect retreat that combines nature and leisure. First of all, there is a large lawn playground for children, where the three kids can run and play on the green grass with...",
+      "author": "Maogege🐱",
+      "date": "2024-07-13",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=80390613&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-80390613&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿很好，院子花園很漂亮，有游泳池，環境也很乾凈，老闆娘很熱情，早餐的麪條很贊，體檢很滿意，下次有機會再去！",
+      "author": "Guest User",
+      "date": "2026-05-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=80390613&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-80390613&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Moganshan Manyin B&B can be said to be a perfect retreat that combines nature and leisure. First of all, there is a large lawn playground for children, where the three kids can run and play on the green grass with...",
+      "author": "Maogege🐱",
+      "date": "2024-07-13",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=80390613&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-80390613&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 51,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:28:43.733Z",
+  "source": "trip"
+}

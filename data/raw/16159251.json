@@ -1,0 +1,89 @@
+{
+  "id": 16159251,
+  "name": "Ruoqian Moganshan Garden Holiday Meisu",
+  "seedName": "Ruoqian Moganshan Garden Holiday Meisu",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-16159251",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=16159251&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-16159251&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment and Location:The garden is very beautiful with many flowers, suitable for taking beautiful photos. The surrounding scenery is nice, and it is close to other attractions around. The environment is comfortable and relaxing.(based on 11 reviews) Room Conditions:The room has a good view, large space, very clean. The family room is spacious and comfortable, and the air conditioner is powerful.(based on 13 reviews) Dining:Breakfast is rich, and the dinner ordered in advance is hot, fresh and delicious. The homemade pickled vegetable shredded pork noodles are very delicious.(based on 7 reviews) Facilities and Activities:The courtyard has a cozy atmosphere, with facilities like swings and billiards. It is pet-friendly.(based on 9 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment and Location",
+        "text": "The garden is very beautiful with many flowers, suitable for taking beautiful photos. The surrounding scenery is nice, and it is close to other attractions around. The environment is comfortable and relaxing.",
+        "count": 11
+      },
+      {
+        "topic": "Room Conditions",
+        "text": "The room has a good view, large space, very clean. The family room is spacious and comfortable, and the air conditioner is powerful.",
+        "count": 13
+      },
+      {
+        "topic": "Dining",
+        "text": "Breakfast is rich, and the dinner ordered in advance is hot, fresh and delicious. The homemade pickled vegetable shredded pork noodles are very delicious.",
+        "count": 7
+      },
+      {
+        "topic": "Facilities and Activities",
+        "text": "The courtyard has a cozy atmosphere, with facilities like swings and billiards. It is pet-friendly.",
+        "count": 9
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Biwu, Xiantan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$61",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Cafe",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/16159251/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200r1e000001fr3ck3115.jpg"
+    },
+    {
+      "src": "/images/stays/16159251/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200l0r000000helijFC5B.webp"
+    },
+    {
+      "src": "/images/stays/16159251/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0586a12000sp6onwi171F.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Very beautiful. The service was so good and it was an awesome experience.",
+      "author": "Anonymous User",
+      "date": "2026-07-31",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=16159251&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-16159251&trip_sub3=D19127628"
+    },
+    {
+      "quote": "暑假帶着家人一起到莫干山來溯溪微度假，選擇了這家位於仙潭的莫幹若曦酒店，一大片草坪➕户外泳池配置直接拉滿了，寵物友好棒棒噠！, #房間設施, 訂了一件山景房，坐在陽台上就能看見一大片綠色山景，感覺一下子就被治癒了。家庭房3人入住很寬敞舒服，空調也很給力。, #早餐, 老闆精心製作，山貨小菜搭配清粥麪條，整個人都通暢了hahaha！",
+      "author": "Guest User",
+      "date": "2026-07-31",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=16159251&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-16159251&trip_sub3=D19127628"
+    },
+    {
+      "quote": "環境很好，早餐也可以，服務也很棒。但是提點小建議：停車問題還有晚上到的晚的話用餐問題最好提前跟客户溝通告知一下，這樣會更好😅。還有就是電視遙控器不靈敏最好維修和檢查。",
+      "author": "Guest User",
+      "date": "2026-07-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=16159251&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-16159251&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 24,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:57:28.507Z",
+  "source": "trip"
+}

@@ -1,0 +1,84 @@
+{
+  "id": 55444465,
+  "name": "Floral Hotel·Moganshan Natural House Pet Hotel",
+  "seedName": "Floral Hotel·Moganshan Natural House Pet Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-55444465",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=55444465&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-55444465&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment Location:The courtyard is spacious and quiet, with beautiful surrounding scenery. The location is convenient with parking lots available(based on 23 reviews) Room Hygiene:Rooms are clean and tidy.(based on 90 reviews) Service:Reception staff are friendly and services are thoughtful(based on 162 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment Location",
+        "text": "The courtyard is spacious and quiet, with beautiful surrounding scenery. The location is convenient with parking lots available",
+        "count": 23
+      },
+      {
+        "topic": "Room Hygiene",
+        "text": "Rooms are clean and tidy.",
+        "count": 90
+      },
+      {
+        "topic": "Service",
+        "text": "Reception staff are friendly and services are thoughtful",
+        "count": 162
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Xiantan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$59",
+  "facilities": [
+    "Bar",
+    "Restaurant",
+    "Conference room",
+    "Multi-function room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/55444465/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6012000dwwdh5u25A5.webp"
+    },
+    {
+      "src": "/images/stays/55444465/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2t12000eu2h8at4B10.webp"
+    },
+    {
+      "src": "/images/stays/55444465/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5i12000c7rhvvv9394.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Great location. Clean room and clean sheet. Decent size yard to allow dogs to chase and play. Food was delicious with local recipes. Great place to consider if you would like to simply spend few days with your pets in...",
+      "author": "Guest User",
+      "date": "2024-04-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=55444465&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-55444465&trip_sub3=D19127628"
+    },
+    {
+      "quote": "This is a hidden gem of a guesthouse in Moganshan. I bring my dog ​​here every year. The owner is very welcoming, the rooms are spotless, and the food is clean and delicious. Highly recommended! There's a stream nearby that's...",
+      "author": "Guest User",
+      "date": "2026-06-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=55444465&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-55444465&trip_sub3=D19127628"
+    },
+    {
+      "quote": "🏡The courtyard is spacious and tranquil, still lush and green despite being autumn. The little dog couldn't resist running wild on the lawn as soon as it entered, and there were many dog ​​toys nearby. Sitting in the courtyard basking...",
+      "author": "Guest User",
+      "date": "2025-12-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=55444465&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-55444465&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 270,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:48:01.229Z",
+  "source": "trip"
+}

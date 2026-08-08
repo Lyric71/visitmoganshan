@@ -19,7 +19,7 @@ Yellow tea is the class most visitors have never knowingly drunk. Chinese practi
 
 The tea attached to this mountain is a yellow bud tea, huangya. Moganshan is in Deqing County, part of Huzhou prefecture in Zhejiang Province, about 60 km north of Hangzhou and 200 to 240 km from Shanghai. Zhejiang is famous for a green tea, Longjing, grown by West Lake in Hangzhou, so a yellow tea an hour up the road is the quieter story. (Moganshan Road is a Shanghai art district, 200 km off, and it owns the search results.)
 
-Now the part most tea pages skip. As of 7 August 2026 our research holds no confirmed Moganshan tea variety, growing area, harvest window or visitable farm. So the page runs on two tracks: settled general knowledge about yellow tea, and claims about this mountain, which carry a `TODO: verify` line until somebody has stood in the field.
+Now the part most tea pages skip. As of 7 August 2026 our research holds no confirmed Moganshan tea variety, growing area, harvest window or visitable farm. So the page runs on two tracks: settled general knowledge about yellow tea, and claims about this mountain, which carry a `Not confirmed` line until somebody has stood in the field.
 
 ## What yellow tea is
 
@@ -46,7 +46,7 @@ That is the class. Now this mountain's version of it.
 
 The name is two halves. Mogan is the mountain, 莫干. Huangya, 黄芽, is the style: huang is yellow, ya is bud. Together they give 莫干黄芽.
 
-`TODO: verify the registered name, its exact characters, whether it holds a geographical indication, and which producers are named on it.`
+`Not confirmed: the registered name, its exact characters, whether it holds a geographical indication, and which producers are named on it.`
 
 Huangya is not a Moganshan word, which matters if you go searching. It labels a style made on several mountains.
 
@@ -74,7 +74,7 @@ What else we hold is height and climate. Both of them put a ceiling on what a se
 
 Tea generally does well with cool nights and diffuse light, on soil that drains. This mountain has the first two. We are reasoning from climate figures there, not from a measurement taken in a tea garden. And anyone selling you altitude here is selling a number Moganshan does not have.
 
-`TODO: verify the elevation band, the aspect, the area under tea, and whether any garden takes visitors.`
+`Not confirmed: the elevation band, the aspect, the area under tea, and whether any garden takes visitors.`
 
 > Forest cover, peak elevation and temperature means, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
@@ -92,7 +92,7 @@ Bud teas are a spring crop, and the calendar marker in Chinese practice is Qingm
 | Yuqian | 雨前 | Before Guyu, about 20 April | Still spring leaf, noticeably cheaper |
 | Later | | After about 20 April | The pick coarsens and the price falls away |
 
-`TODO: verify the Moganshan picking window. We hold no local dates, and it moves with the weather anyway.`
+`Not confirmed: the Moganshan picking window. We hold no local dates, and it moves with the weather anyway.`
 
 All of which points at April, a good month here for reasons unrelated to tea: mid-range rooms at RMB 300 to 500 outside the holiday week, and bamboo shoots on every guesthouse menu. Dodge the first week of May, the May Day holiday, when high-end occupancy has run as high as 94 percent. The [seasons guide](/seasons/) has the rest of the year.
 
@@ -150,7 +150,7 @@ A tourist-grade box is easy to spot once somebody points it out. Big carton, hea
 | Packaging | Sealed foil, not a loose scoop into a paper bag |
 | Price basis | Quoted per 50 g or per jin (斤, 500 g), never per box |
 
-`TODO: verify price bands for Moganshan huangya at each grade. Not one figure, at any grade.`
+`Not confirmed: price bands for Moganshan huangya at each grade. Not one figure, at any grade.`
 
 So we cannot tell you what being fleeced looks like in RMB. We can hand you the question: per gram and per year, not per box. Ask it that way and you get a different answer.
 
@@ -160,5 +160,5 @@ Our home page describes the tea in five words: yellow bud, grown on the slopes. 
 
 If the mountain itself is your open question, start with [what and where Moganshan is](/moganshan/).
 
-*Tea processing and grading, and the Qingming calendar, are standard reference rather than our own research. Room rates, temperature means and holiday occupancy were last checked on 5 August 2026. Every line marked TODO is unverified on purpose.*
+*Tea processing and grading, and the Qingming calendar, are standard reference rather than our own research. Room rates, temperature means and holiday occupancy were last checked on 5 August 2026. Every line flagged as unconfirmed is unverified on purpose.*
 

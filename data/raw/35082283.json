@@ -1,0 +1,98 @@
+{
+  "id": 35082283,
+  "name": "Moganshan Tianye • Villa (Yucun Square)",
+  "seedName": "Moganshan Tianye • Villa (Yucun Square)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-35082283",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=35082283&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-35082283&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Proximity to tourist attractions , convenient for exploring nearby areas.(based on 5 reviews) Facilities:Includes KTV, billiards, swimming pool, child-friendly amenities , and spacious, clean rooms with good lighting.(based on 8 reviews) Cleanliness:Repeated praise for hygiene, no odors, and well-maintained bathrooms .(based on 9 reviews) Service:Warm and attentive hosts .(based on 6 reviews) Breakfast:Commended for quality and variety.(based on 4 reviews) Group Suitability:Ideal for families, friends, or teams due to spacious layout, recreational facilities, and relaxed atmosphere.(based on 1 review)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Proximity to tourist attractions , convenient for exploring nearby areas.",
+        "count": 5
+      },
+      {
+        "topic": "Facilities",
+        "text": "Includes KTV, billiards, swimming pool, child-friendly amenities , and spacious, clean rooms with good lighting.",
+        "count": 8
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Repeated praise for hygiene, no odors, and well-maintained bathrooms .",
+        "count": 9
+      },
+      {
+        "topic": "Service",
+        "text": "Warm and attentive hosts .",
+        "count": 6
+      },
+      {
+        "topic": "Breakfast",
+        "text": "Commended for quality and variety.",
+        "count": 4
+      },
+      {
+        "topic": "Group Suitability",
+        "text": "Ideal for families, friends, or teams due to spacious layout, recreational facilities, and relaxed atmosphere.",
+        "count": 1
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Ganjia Village, Liaoyuan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$70",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/35082283/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200i15000000xdvy85F4D.jpg"
+    },
+    {
+      "src": "/images/stays/35082283/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200t15000000xfg1vFF8B.webp"
+    },
+    {
+      "src": "/images/stays/35082283/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200115000000xs03h5647.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Good location and staff was very helpful! Drove us ourselves on trail race day when taxis were more busy!!",
+      "author": "Guest User",
+      "date": "2024-02-09",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=35082283&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-35082283&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿環境很好，泳池水乾淨，KTV很大，睡得也很舒服， 裝修很新，老闆娘服務很好！早上煮的麪特別好吃！",
+      "author": "Guest User",
+      "date": "2025-07-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=35082283&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-35082283&trip_sub3=D19127628"
+    },
+    {
+      "quote": "參加莫干山越野賽 早早定了民宿 優點：別墅建造用心，用材質量上乘，院子環境優美整潔，叔叔阿姨很用心地在打理。 暖心之處：早餐親手現做的熗鍋麪很好吃，雨天跑完，還給準備了紅棗薑茶。 需要提升：客廳温馨感。",
+      "author": "Heishanlaoyao",
+      "date": "2024-10-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=35082283&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-35082283&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.3,
+    "count": 25,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:57:50.679Z",
+  "source": "trip"
+}

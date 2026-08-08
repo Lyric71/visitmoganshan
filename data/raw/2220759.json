@@ -1,0 +1,89 @@
+{
+  "id": 2220759,
+  "name": "Moganshan Marvel Hostel",
+  "seedName": "Moganshan Marvel Hostel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2220759",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2220759&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2220759&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:Many users praised the hotel for its stunning environment, particularly its proximity to nature, mountain views, and serene atmosphere. Rooms:The rooms, often described as comfortable with large floor-to-ceiling windows, provide breathtaking views of the surrounding landscape.(based on 14 reviews) Service:The service was frequently highlighted for being attentive, warm, and accommodating, with special mention of the butler and staff's enthusiasm and patience.(based on 21 reviews) Breakfast:The breakfast, while noted as having limited variety by some, was generally appreciated for its quality and taste.(based on 2 reviews) Pet-Friendly:Additionally, the hotel is pet-friendly, which was a significant advantage for many guests. Location:Its proximity to scenic spots and the availability of local delicacies further contribute to its appeal.(based on 11 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Many users praised the hotel for its stunning environment, particularly its proximity to nature, mountain views, and serene atmosphere. Rooms:The rooms, often described as comfortable with large floor-to-ceiling windows, provide breathtaking views of the surrounding landscape.",
+        "count": 14
+      },
+      {
+        "topic": "Service",
+        "text": "The service was frequently highlighted for being attentive, warm, and accommodating, with special mention of the butler and staff's enthusiasm and patience.",
+        "count": 21
+      },
+      {
+        "topic": "Breakfast",
+        "text": "The breakfast, while noted as having limited variety by some, was generally appreciated for its quality and taste.",
+        "count": 2
+      },
+      {
+        "topic": "Pet-Friendly",
+        "text": "Additionally, the hotel is pet-friendly, which was a significant advantage for many guests. Location:Its proximity to scenic spots and the availability of local delicacies further contribute to its appeal.",
+        "count": 11
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Jiangnan Biwu Scenic Area, Xiantan Village, Moganshan Town, Deqing, Zhejiang, 313202, China",
+  "priceRange": "From US$108",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Hot springs",
+    "Billiards room",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/2220759/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200f0l000000co32m2012.jpg"
+    },
+    {
+      "src": "/images/stays/2220759/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200j14000000wj7qf6787.webp"
+    },
+    {
+      "src": "/images/stays/2220759/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/fd/hotel/g6/M09/B4/74/CggYs1colx2AVHzcAAcSRUfWN2E875.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "My recent stay at a boutique hotel in downtown left me enchanted. The moment I stepped in, the scent of jasmine tea mingled with subtle sandalwood created an atmosphere that felt both refined and welcoming. The staff, dressed in crisp...",
+      "author": "Guest User",
+      "date": "2025-04-15",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2220759&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2220759&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The guesthouse is located halfway up a mountain. It's clearly a well-established, professionally-run guesthouse, not a typical farmhouse inn, but the rooms are really subpar. 1. First, the toilet bowl was filthy, with a ring of urine stains. Having stayed...",
+      "author": "Lvyalvjigu",
+      "date": "2025-10-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2220759&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2220759&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The housekeepers at the B&B are very enthusiastic and attentive, and will arrange the kitchen for everyone. The dishes are also very tasty. It is very convenient to go around and eat. There are several B&B houses in the house...",
+      "author": "Anonymous User",
+      "date": "2023-10-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2220759&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2220759&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 43,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:40:01.245Z",
+  "source": "trip"
+}

@@ -1,0 +1,65 @@
+{
+  "id": 2325461,
+  "name": "Royi Homestay",
+  "seedName": "Royi Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2325461",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2325461&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2325461&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Royi Homestay?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Intersection of Huangfu East Road and Shiyi Road, Yu Village, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$38",
+  "facilities": [
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/2325461/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4q12000tay2lth76BC.jpg"
+    },
+    {
+      "src": "/images/stays/2325461/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0580l12000sonsmvm62AB.webp"
+    },
+    {
+      "src": "/images/stays/2325461/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206s120009aj1igoABC9.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The location is excellent, quiet despite being in a bustling area, with the Yucun square right outside the door. The rooms are spacious, but there's no elevator; you have to take a corner staircase to go up and down. The...",
+      "author": "Xiaohadou",
+      "date": "2025-11-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2325461&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2325461&trip_sub3=D19127628"
+    },
+    {
+      "quote": "First of all, the young lady was incredibly kind and helpful. I left my phone in the taxi, and she kindly helped me find it. Secondly, their place was wonderful; the rooms were clean and bright, and the environment was...",
+      "author": "Guest User",
+      "date": "2025-09-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2325461&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2325461&trip_sub3=D19127628"
+    },
+    {
+      "quote": "A super clean shop. The owner is very nice, and they have everything you need. The surrounding scenery is great, with mountain views. It's beautiful when you open the curtains, and the space is perfectly adequate for all your needs....",
+      "author": "Guest User",
+      "date": "2025-08-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2325461&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2325461&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 41,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:41:19.845Z",
+  "source": "trip"
+}

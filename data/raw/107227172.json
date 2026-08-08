@@ -1,0 +1,68 @@
+{
+  "id": 107227172,
+  "name": "Yindu·Moganshan Designer Private Hot Spring Boutique Inn",
+  "seedName": "Yindu·Moganshan Designer Private Hot Spring Boutique Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-107227172",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=107227172&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-107227172&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Yindu·Moganshan Designer Private Hot Spring Boutique Inn?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 37, Longli, Laoling Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$110",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Hot springs",
+    "Cardroom",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/107227172/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201f12000rw4mny0AF6B.jpg"
+    },
+    {
+      "src": "/images/stays/107227172/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2212000bcw5s1v71F2.webp"
+    },
+    {
+      "src": "/images/stays/107227172/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0412000gmajl4f5435.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "It’s still a little early to go there, I believe it will be more beautiful after a while. Overall, the B&B was very nice to stay in. It was also very close to Yu Village. The owner was very nice...",
+      "author": "Guest User",
+      "date": "2025-03-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=107227172&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-107227172&trip_sub3=D19127628"
+    },
+    {
+      "quote": "It was a great experience. The scenery and facilities are great. The owner is very welcoming. There is also a karaoke place on the first floor. The breakfast is very rich and delicious. The hot spring view on the top...",
+      "author": "Guest User",
+      "date": "2025-01-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=107227172&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-107227172&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Facilities: Toiletries are quite complete, bath bags are also available, but there is a rack for hanging clothes and towels. Hygiene: Very clean Environment: At the edge of the village, with a wide view, a forest path in front of...",
+      "author": "Yatou",
+      "date": "2024-10-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=107227172&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-107227172&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 48,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:31:29.948Z",
+  "source": "trip"
+}

@@ -1,0 +1,66 @@
+{
+  "id": 68466498,
+  "name": "Moganshan Sayee Viila",
+  "seedName": "Moganshan Sayee Viila",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-68466498",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=68466498&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-68466498&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Dining Options:On-site breakfast is highlighted as flavorful and abundant, with regional specialties like glutinous rice cakes and dumplings. Nearby restaurants provide diverse cuisines, including farm-to-table options and popular local dishes.",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Shiyi New Village, Shiyi Road, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$62",
+  "facilities": [
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/68466498/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200u1200086uoyou4686.jpg"
+    },
+    {
+      "src": "/images/stays/68466498/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0585d12000sn1m1i486C9.webp"
+    },
+    {
+      "src": "/images/stays/68466498/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203y1200087lcrsx22A8.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "國慶臨時起意來莫干山玩找的，整體環境還是可以的",
+      "author": "Guest User",
+      "date": "2025-10-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=68466498&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-68466498&trip_sub3=D19127628"
+    },
+    {
+      "quote": "服務什麼都很好早餐也不錯就是屋子裡太冷要開空調睡覺太乾燥了我這一宿都沒睡其他都很滿意寵物友好這點最好",
+      "author": "Guest User",
+      "date": "2026-03-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=68466498&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-68466498&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿位置蠻好的，離庾村不是很遠，比較安靜，適合親子出遊。民宿老闆娘很熱情，早餐很豐富，民宿有游泳池，滑梯，也可以開車去周邊推薦景點溯溪，週末小朋友玩的蠻開心。",
+      "author": "Guest User",
+      "date": "2026-07-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=68466498&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-68466498&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.3,
+    "count": 53,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:29:05.767Z",
+  "source": "trip"
+}

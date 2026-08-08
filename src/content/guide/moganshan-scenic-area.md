@@ -65,7 +65,7 @@ The split below decides where your day happens.
 
 You sleep and eat in the right-hand column.
 
-TODO: verify how many of the roughly 250 surviving historic villas sit inside the boundary.
+Not confirmed: how many of the roughly 250 surviving historic villas sit inside the boundary.
 
 ## The gates and the three transfer centers
 
@@ -87,7 +87,7 @@ In practice the gate and the transfer point are the same thing. You leave the ca
 
 > Private-vehicle rule and transfer hours, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-TODO: verify whether a named gate list exists separate from the three transfer centers, and whether walking in on foot is allowed outside transfer hours. No public source settles it.
+Not confirmed: whether a named gate list exists separate from the three transfer centers, and whether walking in on foot is allowed outside transfer hours. No public source settles it.
 
 Those hours look harmless until you plan a day around them. Sunrise at the Xuguang platform is out of reach unless you are sleeping up there, and the best light falls outside the window at both ends. Day-trippers should start back well before 18:00.
 
@@ -108,7 +108,7 @@ Both were checked on 5 August 2026. The ranges do not overlap, so one of them is
 
 Budget for the higher figure, and be pleased if the gate charges less. Your guesthouse is the fastest place to check. [Tickets and entry](/plan/tickets-and-entry/) has the detail.
 
-TODO: verify child, student and senior concessions. Neither range breaks them out.
+Not confirmed: child, student and senior concessions. Neither range breaks them out.
 
 ## Inside the gate: the named sights
 

@@ -1,0 +1,72 @@
+{
+  "id": 5615122,
+  "name": "TAOQI FOREST VILLA",
+  "seedName": "TAOQI FOREST VILLA",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5615122",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5615122&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5615122&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness & Comfort:Rooms and common areas are highlighted for their cleanliness, with well-kept bathrooms, comfortable bedding, and thoughtful amenities. The attention to detail in maintaining hygiene and providing a relaxed environment is frequently noted by guests.(based on 8 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Comfort",
+        "text": "Rooms and common areas are highlighted for their cleanliness, with well-kept bathrooms, comfortable bedding, and thoughtful amenities. The attention to detail in maintaining hygiene and providing a relaxed environment is frequently noted by guests.",
+        "count": 8
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 40 Tianqingwu, Gaofeng Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$111",
+  "facilities": [
+    "Bar",
+    "Restaurant",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5615122/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1412000tczy24zFA85.jpg"
+    },
+    {
+      "src": "/images/stays/5615122/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0e12000e980zf9AC66.webp"
+    },
+    {
+      "src": "/images/stays/5615122/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5d12000e9sp16oB7BE.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The room is nice, the environment is good, there is a reservoir nearby, there are also good places to eat not far away, in addition to going up the mountain, there are also recreational facilities nearby",
+      "author": "GM&CO",
+      "date": "2024-10-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5615122&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5615122&trip_sub3=D19127628"
+    },
+    {
+      "quote": "設施設備很好 空調製冷效果明顯，熱水給力，無線網好用，老闆很熱情，入住辦理快，衞生情況良好。房間乾淨，附近就是萸村，吃喝玩樂行超方便 。 有機會還會再去",
+      "author": "Anonymous User",
+      "date": "2025-08-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5615122&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5615122&trip_sub3=D19127628"
+    },
+    {
+      "quote": "忍不住寫個好評 1，活動空間巨大，包棟，每層都有活動空間 2，室外草坪和泳池非常好，草坪雜草都沒有，比高爾夫球道都好，可見老闆的用心打理 3，服務沒得説，不用要求，都能想到。夜裡十一點多在外面喝酒聊天，老闆都能主動過來送蚊香。朋友聚會定了很多快遞，老闆都一次次取回來。 4，價格真實惠，每天晚上喝酒都定了些農家菜，是真的實惠，而且各種幫忙收拾。",
+      "author": "Guest User",
+      "date": "2025-10-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5615122&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5615122&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 10,
+    "count": 16,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:04:08.078Z",
+  "source": "trip"
+}

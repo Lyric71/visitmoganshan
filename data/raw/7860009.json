@@ -8,6 +8,26 @@
   "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=7860009&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-7860009&trip_sub3=D19127628",
   "sourceDescription": "",
   "aiSummary": "Review summary Powered by AI Environment:Accommodation offers a serene setting near mountains and tea fields, appreciated for fresh air and friendly animals enhancing the ambiance.(based on 12 reviews) Service Quality:Guests praise attentive service, early check-in, personalized attention, and free amenities like KTV room and billiard tables. Dining Experience:Guests enjoy fresh, homemade meals with local produce, with dishes like braised fish receiving special mentions. Facilities:Facilities include swimming pools, outdoor areas, and entertainment like ping-pong and KTV room, ideal for families and groups.(based on 53 reviews) Cleanliness:Rooms and common areas are pristine, maintaining high hygiene standards for a comfortable environment.(based on 110 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Accommodation offers a serene setting near mountains and tea fields, appreciated for fresh air and friendly animals enhancing the ambiance.",
+        "count": 12
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Guests praise attentive service, early check-in, personalized attention, and free amenities like KTV room and billiard tables. Dining Experience:Guests enjoy fresh, homemade meals with local produce, with dishes like braised fish receiving special mentions. Facilities:Facilities include swimming pools, outdoor areas, and entertainment like ping-pong and KTV room, ideal for families and groups.",
+        "count": 53
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms and common areas are pristine, maintaining high hygiene standards for a comfortable environment.",
+        "count": 110
+      }
+    ],
+    "suggestion": null
+  },
   "address": "No. 26, Fenshuiling, Lanshukeng, Deqing, Zhejiang, China",
   "priceRange": "From US$82",
   "facilities": [
@@ -28,18 +48,6 @@
     {
       "src": "/images/stays/7860009/3.webp",
       "sourceUrl": "https://ak-d.tripcdn.com/images/02063120008nv7fxh7F3A.webp"
-    },
-    {
-      "src": "/images/stays/7860009/4.webp",
-      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5s12000bmcny0m4D58.webp"
-    },
-    {
-      "src": "/images/stays/7860009/5.webp",
-      "sourceUrl": "https://ak-d.tripcdn.com/images/200j0h0000008pvddD733.webp"
-    },
-    {
-      "src": "/images/stays/7860009/6.webp",
-      "sourceUrl": "https://ak-d.tripcdn.com/images/020611200094quu355BDB.webp"
     }
   ],
   "comments": [
@@ -70,6 +78,6 @@
     "count": 280,
     "scale": 10
   },
-  "sourcedAt": "2026-08-08T13:09:49.546Z",
+  "sourcedAt": "2026-08-08T13:47:30.810Z",
   "source": "trip"
 }

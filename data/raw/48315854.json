@@ -1,0 +1,67 @@
+{
+  "id": 48315854,
+  "name": "Luli Villa",
+  "seedName": "Luli Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-48315854",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=48315854&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-48315854&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Luli Villa?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 3, Village Group 3, Team 5, Xianrenkeng, Xianli Village, Ziling Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$69",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/48315854/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0202z120008df2cos50EE.jpg"
+    },
+    {
+      "src": "/images/stays/48315854/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0204o120008df27xwC703.webp"
+    },
+    {
+      "src": "/images/stays/48315854/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200n1h000001hksvu3869.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "臨時出行訂的民宿，招待小哥哥很及時就來聯繫了，盤山公路上來途經兩個彩虹隧道，停車挺方便的，民宿大廳很寬敞，乾乾淨淨，訂的2樓家庭房，整體不錯，有些小東西因為時間久了，不怎麼靈光了，但也不影響使用。露台外面就是竹林，視覺挺不錯，晚上睡覺也比較安靜，早餐清粥小菜雞蛋饅頭，還有阿姨攤的雞蛋餅味道也很好，總體不錯的，淡季出行，算性價比👍",
+      "author": "Guest User",
+      "date": "2026-02-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=48315854&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-48315854&trip_sub3=D19127628"
+    },
+    {
+      "quote": "剛退房就忍不住來誇誇～小院做的很漂亮，石子路游泳池還能帳篷露營。一樓是很大的會客廳，負一樓有團建房間桌球ktv小童區居然都有！房間是很舒服的簡約風，智能窗簾一開，滿眼竹林山景直接湧進屋裡，太治癒了～細節做得很到位，浴缸備了一次性泡澡袋，中央空調暖得快，對冬天很友好。早餐阿姨現烙的雞蛋餅太好吃了！配着農家清粥小菜吃得暖乎乎的。在這邊感覺性價比蠻高的，度假團建都推薦。",
+      "author": "Yuejianshannai",
+      "date": "2026-02-14",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=48315854&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-48315854&trip_sub3=D19127628"
+    },
+    {
+      "quote": "很棒的一次體驗，開門見山，空氣清新，環境舒適，安靜祥和，在當地屬於很有特色的一家，老闆和阿姨服務都很好，房間空調給力，熱水一開就有，十分推薦",
+      "author": "Aishangpaigu",
+      "date": "2026-01-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=48315854&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-48315854&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 61,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:11:56.116Z",
+  "source": "trip"
+}

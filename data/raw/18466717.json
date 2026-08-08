@@ -1,0 +1,75 @@
+{
+  "id": 18466717,
+  "name": "Moganshan Yinlin Wangxi Inn",
+  "seedName": "Moganshan Yinlin Wangxi Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-18466717",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=18466717&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-18466717&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service Quality:Hosts are consistently described as warm, attentive, and accommodating, offering personalized recommendations for local attractions, activities , and childcare support.(based on 4 reviews) Facilities & Amenities:Rooms are noted for their cleanliness, comfort, and unique design . Additional features include KTV, barbecue areas, and well-equipped kitchens.(based on 2 reviews) Experiences:Activities like foraging for bamboo shoots, stargazing, and enjoying the meals, which are frequently praised for their quality and affordability, are highlighted as memorable.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service Quality",
+        "text": "Hosts are consistently described as warm, attentive, and accommodating, offering personalized recommendations for local attractions, activities , and childcare support.",
+        "count": 4
+      },
+      {
+        "topic": "Amenities",
+        "text": "Rooms are noted for their cleanliness, comfort, and unique design . Additional features include KTV, barbecue areas, and well-equipped kitchens.",
+        "count": 2
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 76, Langjia, Xiantan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$44",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/18466717/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0581412000spbylhqD203.jpg"
+    },
+    {
+      "src": "/images/stays/18466717/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0225b120009zavpmz8D9F.webp"
+    },
+    {
+      "src": "/images/stays/18466717/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0581j12000sh3dodi6DF1.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The last remaining room is an original building on the third floor. The room is simple and clean, and the bed is comfortable. Non-mountain view room. The boss was enthusiastic and kind, and introduced nearby attractions. Both meals were eaten...",
+      "author": "Qianqian- Livia",
+      "date": "2024-06-09",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=18466717&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-18466717&trip_sub3=D19127628"
+    },
+    {
+      "quote": "感謝老闆一家人帶給我們的温暖、驚喜和感動，給了孩子一個難忘的記憶，期待下次再見。",
+      "author": "beijingopera",
+      "date": "2025-02-25",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=18466717&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-18466717&trip_sub3=D19127628"
+    },
+    {
+      "quote": "老闆和老闆娘人挺好的，晚上還帶孩子去撈蝦，環境也不錯！旁邊還有好看的農田，孩子在那裡開心的玩，￼從民宿可以直接走到景區，一路上有特色的農田，還有小孩子可以玩的地方￼￼￼！￼",
+      "author": "Guest User",
+      "date": "2024-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=18466717&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-18466717&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 50,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:27:40.807Z",
+  "source": "trip"
+}

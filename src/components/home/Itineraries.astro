@@ -21,16 +21,11 @@ import { ITINERARIES } from '../../data/itineraries';
     />
     <ol class="itins">
       {
-        ITINERARIES.map((itinerary, i) => (
+        ITINERARIES.map((itinerary) => (
           <li>
             <a href={itinerary.href}>
-              <span class="itins__index" aria-hidden="true">
-                {String(i + 1).padStart(2, '0')}
-              </span>
-              <span class="itins__text">
-                <h3>{itinerary.title}</h3>
-                <p>{itinerary.sub}</p>
-              </span>
+              <h3>{itinerary.title}</h3>
+              <p>{itinerary.sub}</p>
             </a>
           </li>
         ))
@@ -52,7 +47,7 @@ import { ITINERARIES } from '../../data/itineraries';
 
   .itins a {
     display: flex;
-    gap: 1rem;
+    flex-direction: column;
     height: 100%;
     padding: 1.5rem 1.25rem;
     background: var(--color-stone);
@@ -63,16 +58,6 @@ import { ITINERARIES } from '../../data/itineraries';
 
   .itins a:hover {
     background: color-mix(in srgb, var(--color-stone) 82%, var(--color-bamboo));
-  }
-
-  /* Decorative numbering only. The list is already an <ol>, so the count is in
-     the semantics; this is the visual echo of it. */
-  .itins__index {
-    flex: none;
-    font-family: var(--font-display);
-    font-size: 1.125rem;
-    line-height: 1.3;
-    color: color-mix(in srgb, var(--color-ink) 45%, transparent);
   }
 
   .itins h3 {

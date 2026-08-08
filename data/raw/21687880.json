@@ -1,0 +1,88 @@
+{
+  "id": 21687880,
+  "name": "Floral Hotel Qinghe Yunqi",
+  "seedName": "Floral Hotel Qinghe Yunqi",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-21687880",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=21687880&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-21687880&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Facilities:The hotel features a large swimming pool, rooftop recreational spaces, and play areas with billiards and mahjong machines. The terrace provides beautiful views. There are also parking facilities and easy access for self-driving tourists.(based on 22 reviews) Service Quality:Guests appreciate the friendly, attentive staff, including the helpful receptionists. The service is warm and accommodating, contributing to a pleasant stay. The hosts are noted for their responsiveness and hospitality.(based on 23 reviews) Food:Breakfast is homemade and includes local specialties like pumpkin mantou and bamboo shoot buns. While dinner needs pre-booking, the food is generally well-received despite being slightly oily. The hotel's homemade dishes are praised for their taste.(based on 6 reviews) Guest Suggestion:Some customers suggest improving pet accommodation policies, ensuring pool functionality, and addressing pest control in upper floors.(based on 1 review)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Facilities",
+        "text": "The hotel features a large swimming pool, rooftop recreational spaces, and play areas with billiards and mahjong machines. The terrace provides beautiful views. There are also parking facilities and easy access for self-driving tourists.",
+        "count": 22
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Guests appreciate the friendly, attentive staff, including the helpful receptionists. The service is warm and accommodating, contributing to a pleasant stay. The hosts are noted for their responsiveness and hospitality.",
+        "count": 23
+      },
+      {
+        "topic": "Food",
+        "text": "Breakfast is homemade and includes local specialties like pumpkin mantou and bamboo shoot buns. While dinner needs pre-booking, the food is generally well-received despite being slightly oily. The hotel's homemade dishes are praised for their taste.",
+        "count": 6
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving pet accommodation policies, ensuring pool functionality, and addressing pest control in upper floors.",
+      "count": 1
+    }
+  },
+  "address": "No. 35, He Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$62",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant",
+    "Conference room",
+    "Multi-function room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/21687880/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200v14000000x0xip6E03.jpg"
+    },
+    {
+      "src": "/images/stays/21687880/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200c14000000ws6011E94.webp"
+    },
+    {
+      "src": "/images/stays/21687880/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4g12000bdpm6vh6D55.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Floral Hotel Qinghe Yunqi had its charm, but it lacks maintenance. The service was friendly and attentive, making our stay enjoyable. The pool was stunning and nearly empty during our time there, although the smaller pool is no longer available....",
+      "author": "ValeriaM",
+      "date": "2025-06-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=21687880&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-21687880&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Very nice hotel, great nature views, I can recommend everyone to stay here",
+      "author": "Bad smell in the bathroom",
+      "date": "2025-05-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=21687880&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-21687880&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Qinghe Yunqi is very good! It’s great~~~~It’s also a very good choice to come again in summer",
+      "author": "Guest User",
+      "date": "2024-05-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=21687880&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-21687880&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 67,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:10:41.626Z",
+  "source": "trip"
+}

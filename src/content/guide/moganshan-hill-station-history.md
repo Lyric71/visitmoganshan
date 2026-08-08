@@ -29,7 +29,7 @@ The mountain is 莫干山, Moganshan, also written Mount Mogan. One of its best-
 
 Name and pond are usually explained together, through a story about ancient swordsmiths said to have tempered blades here. That is the version guides tell, and it is why local signs lean so hard on the sword motif.
 
-TODO: verify. The full legend, including the names and dates traditionally attached to it, is not yet in our verified source base, so we are not printing a version of it.
+Not confirmed. The full legend, including the names and dates traditionally attached to it, is not yet in our verified source base, so we are not printing a version of it.
 
 The recorded history of Moganshan as a town, rather than as a mountain, starts in the 1890s with foreigners who wanted somewhere cooler to spend July.
 

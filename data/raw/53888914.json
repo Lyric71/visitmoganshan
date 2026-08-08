@@ -1,0 +1,93 @@
+{
+  "id": 53888914,
+  "name": "Moganshan Suyin · SUYIN Moroccan Style Garden Beauty Inn (Yucun Square Store)",
+  "seedName": "Moganshan Suyin · SUYIN Moroccan Style Garden Beauty Inn (Yucun Square Store)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-53888914",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=53888914&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-53888914&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Breakfast:Users consistently praised the nutritious, diverse, and beautifully presented breakfast, often highlighting its freshness, variety (e.g., handmade noodles), and the effort put into daily preparations. Some noted it as a highlight of their stay.(based on 48 reviews) Cleanliness:Rooms were described as spotless, with no corners overlooked, and bathrooms had strong water pressure. Many emphasized the high standards of hygiene, even satisfying users with mild obsessive-compulsive tendencies.(based on 58 reviews) Facilities:Features include spacious, uniquely designed rooms with scenic mountain views from balconies, comfortable beds, soaking tubs, and modern amenities like air conditioning. Some properties also have private pools or family playgrounds.(based on 42 reviews) Service:Staff and hosts were praised as warm, proactive, and attentive, offering personalized recommendations, pre-arrival preparations like pre-cooling rooms, and quick responses to requests. Hosts frequently exceeded expectations to meet guests' needs.(based on 70 reviews) Design & Ambiance:Accommodations featured thoughtful interior designs, artistic decor, and unique room lay",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Breakfast",
+        "text": "Users consistently praised the nutritious, diverse, and beautifully presented breakfast, often highlighting its freshness, variety (e.g., handmade noodles), and the effort put into daily preparations. Some noted it as a highlight of their stay.",
+        "count": 48
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms were described as spotless, with no corners overlooked, and bathrooms had strong water pressure. Many emphasized the high standards of hygiene, even satisfying users with mild obsessive-compulsive tendencies.",
+        "count": 58
+      },
+      {
+        "topic": "Facilities",
+        "text": "Features include spacious, uniquely designed rooms with scenic mountain views from balconies, comfortable beds, soaking tubs, and modern amenities like air conditioning. Some properties also have private pools or family playgrounds.",
+        "count": 42
+      },
+      {
+        "topic": "Service",
+        "text": "Staff and hosts were praised as warm, proactive, and attentive, offering personalized recommendations, pre-arrival preparations like pre-cooling rooms, and quick responses to requests. Hosts frequently exceeded expectations to meet guests' needs.",
+        "count": 70
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 77, Zhong Village, Liaoyuan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$126",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Executive lounge",
+    "Bar",
+    "Billiards room",
+    "Restaurant",
+    "Cafe",
+    "Water park",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/53888914/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5l12000ezd2cai2946.jpg"
+    },
+    {
+      "src": "/images/stays/53888914/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1a12000ezedvq5586F.webp"
+    },
+    {
+      "src": "/images/stays/53888914/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1e12000ezedakbE941.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "This B&B is in a fantastic location, just a stone's throw from the main street of Youcun, offering a quiet escape from the hustle and bustle. There's no noise at night, so you can get a good night's sleep. The...",
+      "author": "Guest User",
+      "date": "2026-04-18",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=53888914&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-53888914&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I had an absolutely fantastic stay at this hostel! The location is unbeatable—situated right in the town centre and just a short walk from the trail running race start point, which made race morning completely stress-free. The room was clean,...",
+      "author": "Neville_H",
+      "date": "2026-04-15",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=53888914&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-53888914&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room is very clean. The white color looks very comfortable. It is also very new and well maintained. The yard is not very large, but it has a swimming pool. You can see that the owner is very attentive....",
+      "author": "Guest User",
+      "date": "2025-10-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=53888914&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-53888914&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 138,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:51:27.304Z",
+  "source": "trip"
+}

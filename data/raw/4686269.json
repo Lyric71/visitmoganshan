@@ -1,0 +1,86 @@
+{
+  "id": 4686269,
+  "name": "Floral Hotel · Li Wan Mountain Home Hotel",
+  "seedName": "Floral Hotel · Li Wan Mountain Home Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-4686269",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4686269&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4686269&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Room Quality & Facilities:Rooms are spacious, clean, and feature modern amenities like TOTO bathrooms, air conditioning, and practical layouts. Some units offer private balconies or patios, with interiors combining rustic charm and comfort for a pleasant stay.(based on 28 reviews) Service & Hospitality:Staff and hosts are commended for warm service, personalized breakfasts, help with activities like barbecues, and friendly interactions, creating a welcoming atmosphere that makes guests feel at home even during short stays.(based on 22 reviews) Dining Experience:On-site dining offers locally sourced, flavorful meals such as handmade dumplings, fresh eggs, and traditional mountain dishes. Breakfast is often complimentary and includes homemade items, while the hosts may also provide special arrangements like barbecue equipment for guest convenience.(based on 7 reviews) Guest Suggestion:Some customers suggest beddings and towels not being changed daily with hair found, breakfast is poor like homemade noodles, and rooms are small with untidy hygiene and lack of active cleaning service(based on 1 review)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Facilities",
+        "text": "Rooms are spacious, clean, and feature modern amenities like TOTO bathrooms, air conditioning, and practical layouts. Some units offer private balconies or patios, with interiors combining rustic charm and comfort for a pleasant stay.",
+        "count": 28
+      },
+      {
+        "topic": "Hospitality",
+        "text": "Staff and hosts are commended for warm service, personalized breakfasts, help with activities like barbecues, and friendly interactions, creating a welcoming atmosphere that makes guests feel at home even during short stays.",
+        "count": 22
+      },
+      {
+        "topic": "Dining Experience",
+        "text": "On-site dining offers locally sourced, flavorful meals such as handmade dumplings, fresh eggs, and traditional mountain dishes. Breakfast is often complimentary and includes homemade items, while the hosts may also provide special arrangements like barbecue equipment for guest convenience.",
+        "count": 7
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest beddings and towels not being changed daily with hair found, breakfast is poor like homemade noodles, and rooms are small with untidy hygiene and lack of active cleaning service",
+      "count": 1
+    }
+  },
+  "address": "No. 11, Huangfenwu, Lanshukeng, Deqing, Zhejiang, 313204, China",
+  "priceRange": "From US$54",
+  "facilities": [
+    "Restaurant",
+    "Conference room",
+    "Multi-function room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/4686269/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/020401200084rvnrs1255.jpg"
+    },
+    {
+      "src": "/images/stays/4686269/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/020401200084rvnrs1255.webp"
+    },
+    {
+      "src": "/images/stays/4686269/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200b10000000omwob1F12.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "入住體驗超出預期！傍晚意外邂逅絕美雙彩虹，氛圍感直接拉滿。房間乾淨整潔，服務貼心，在這裏收穫了不期而遇的浪漫，很值得推薦～💗",
+      "author": "Guest User",
+      "date": "2026-07-22",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4686269&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4686269&trip_sub3=D19127628"
+    },
+    {
+      "quote": "花築·莫干山籬灣山居超讚！庭院雅緻，竹影環繞，環境清幽靜謐。房間乾淨整潔，原木風温馨舒適，設施齊全。老闆熱情周到，早餐地道美味，服務貼心入微。遠離喧囂，是放鬆身心、親近自然的理想之選，強烈推薦！",
+      "author": "Ganmaawuyu",
+      "date": "2026-04-30",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4686269&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4686269&trip_sub3=D19127628"
+    },
+    {
+      "quote": "這次趁着孩子寒假尾聲來到莫干山遊玩，在網上預訂了這家民宿。哈哈～果然被我選對了住處，環境清幽整潔，讓人感覺很放鬆。最感動的是老闆的細心，因為臨時想燒烤，特意為我們準備了爐具和炭火。在山間吹着風吃燒烤，大概就是理想生活的樣子吧。感謝款待，很開心！",
+      "author": "Guest User",
+      "date": "2026-03-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4686269&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4686269&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.3,
+    "count": 51,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:33:05.446Z",
+  "source": "trip"
+}

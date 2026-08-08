@@ -1,0 +1,92 @@
+{
+  "id": 8654614,
+  "name": "Moganshan Yaxuan Inn (Houwu Transfer Center)",
+  "seedName": "Moganshan Yaxuan Inn (Houwu Transfer Center)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-8654614",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8654614&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8654614&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment Location:The location is excellent, close to transfer centers and scenic spots, surrounded by beautiful scenery. The environment is pleasant with greenery around. (based on 12 reviews) Room Condition:Rooms are clean and tidy, with comfortable bedding and warm air conditioners. Some rooms have small lofts or terraces. (based on 54 reviews) Service Quality:Owners are very enthusiastic and thoughtful, providing various help and recommendations. (based on 64 reviews) Breakfast:Breakfast is rich with local characteristic ingredients like fresh corn, cucumbers, homemade buns and fried dough sticks. (based on 22 reviews) Facilities:Amenities are complete, with entertainment items like chess and cards, KTV. (based on 18 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment Location",
+        "text": "The location is excellent, close to transfer centers and scenic spots, surrounded by beautiful scenery. The environment is pleasant with greenery around.",
+        "count": 12
+      },
+      {
+        "topic": "Room Condition",
+        "text": "Rooms are clean and tidy, with comfortable bedding and warm air conditioners. Some rooms have small lofts or terraces.",
+        "count": 54
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Owners are very enthusiastic and thoughtful, providing various help and recommendations.",
+        "count": 64
+      },
+      {
+        "topic": "Breakfast",
+        "text": "Breakfast is rich with local characteristic ingredients like fresh corn, cucumbers, homemade buns and fried dough sticks.",
+        "count": 22
+      },
+      {
+        "topic": "Facilities",
+        "text": "Amenities are complete, with entertainment items like chess and cards, KTV.",
+        "count": 18
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 31, Xia Village, Houwu Village, Moganshan Town, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$44",
+  "facilities": [
+    "Cardroom",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/8654614/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0582412000sp7s5sw6C0A.jpg"
+    },
+    {
+      "src": "/images/stays/8654614/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200m0l000000dfrkm5AB3.webp"
+    },
+    {
+      "src": "/images/stays/8654614/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200f0u000000j4q4s347B.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "This guesthouse is absolutely lovely, and the owner is incredibly kind and enthusiastic! They even upgraded our room for free during the May Day holiday. The dinner was delicious, and the owner's homemade chicken soup left a lasting impression –...",
+      "author": "Guest User",
+      "date": "2026-05-04",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8654614&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8654614&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room was spotless and had a cool American-style decor. Great value for money! The hostess was incredibly warm and attentive, and her cooking was delicious. Highly recommend, I'll definitely be back!",
+      "author": "Guest User",
+      "date": "2026-05-04",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8654614&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8654614&trip_sub3=D19127628"
+    },
+    {
+      "quote": "We had a wonderful stay at the Yaxuan Inn. The couple looking after the inn were very attentive, especially the lady boss. As we were with two young kids, we preferred to have dinner at her inn and she prepared...",
+      "author": "Guest User",
+      "date": "2026-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8654614&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8654614&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 88,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:08:57.985Z",
+  "source": "trip"
+}

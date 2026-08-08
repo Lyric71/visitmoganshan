@@ -27,11 +27,11 @@ Tourism boards run image banks as a matter of course. Destination Canada calls i
 |---|---|
 | Stills for download | None published |
 | Video | None. Behind the stills |
-| License text | TODO: verify |
-| Credit line wording | TODO: verify |
-| File formats and resolutions | TODO: verify |
-| Request process and contact | TODO: verify |
-| Launch date | TODO: verify |
+| License text | Not confirmed |
+| Credit line wording | Not confirmed |
+| File formats and resolutions | Not confirmed |
+| Request process and contact | Not confirmed |
+| Launch date | Not confirmed |
 
 Seven unknowns, on a page whose job is handing out pictures. We know how that reads. Take the table literally. With no files, every format question sits behind a decision nobody has taken, and there is no license because you cannot license rights you do not hold.
 
@@ -45,7 +45,7 @@ The English-language record on Moganshan is short and old: a New York Times feat
 
 > English-language coverage audit, BeyondBorder Group Ltd primary research, 1 to 5 August 2026. That 2012 listing sits behind a paywall and was confirmed at second hand.
 
-Fifteen years of thin coverage leaves a thin visual record. That gap is the reason to build a library. TODO: verify what the stock agencies hold under this name.
+Fifteen years of thin coverage leaves a thin visual record. That gap is the reason to build a library. Not confirmed: what the stock agencies hold under this name.
 
 What is missing is ordinary material. A working bamboo slope. A stone house with somebody's laundry on the line. A village square on a wet Tuesday in March.
 
@@ -77,11 +77,11 @@ Traps come with it.
 
 ## Who shoots them, and what about video
 
-Which raises the question a picture desk asks first. TODO: verify whether the pictures will be commissioned, contributed or licensed in. Nobody has made that call, and it decides whether a credit line can name a photographer.
+Which raises the question a picture desk asks first. Not confirmed: whether the pictures will be commissioned, contributed or licensed in. Nobody has made that call, and it decides whether a credit line can name a photographer.
 
 Two commitments hold regardless. We will not publish a picture we cannot caption. A property's marketing shot never goes in dressed as ours.
 
-Video sits behind the stills and has no date. TODO: verify whether it happens at all. It is in the H1 because it is the plan, not because footage exists.
+Video sits behind the stills and has no date. Not confirmed: whether it happens at all. It is in the H1 because it is the plan, not because footage exists.
 
 ## What the license is meant to allow
 
@@ -98,20 +98,20 @@ Moganshan press images will be free for editorial use. That is the intention. No
 | Removing or changing the credit | Refused |
 | Training AI models | Not decided |
 
-TODO: verify every row against the license when one exists. None is in force.
+Check every row against the license when one exists. None is in force.
 
-The credit line will name visitmoganshan.com, plus the photographer where we know one. Its exact wording is TODO: verify, so do not typeset a credit off this page. The publisher is BeyondBorder Group Ltd, Hong Kong, which [About](/about/) explains.
+The credit line will name visitmoganshan.com, plus the photographer where we know one. Its exact wording is not confirmed, so do not typeset a credit off this page. The publisher is BeyondBorder Group Ltd, Hong Kong, which [About](/about/) explains.
 
 ## Asking for a picture before the library opens
 
-There is no channel yet. TODO: verify the contact, the form and how long a reply takes. Better nothing than a mailbox nobody watches. Expect to name the publication, subject, use and deadline. TODO: verify that list, which is what we would ask rather than what we have settled.
+There is no channel yet. Not confirmed: the contact, the form and how long a reply takes. Better nothing than a mailbox nobody watches. Expect to name the publication, subject, use and deadline. That list is not settled either: it is what we would ask rather than what we have agreed.
 
 [For the travel trade and media](/trade/) promises free images and links here. Until a license exists, this is the accurate page. Where things stand:
 
 | What you need | Where it is today |
 |---|---|
 | Numbers and sources | The [fact sheet](/trade/fact-sheet/), free, sourced and dated |
-| Still images | Not from us. The properties run their own libraries, on their own terms. TODO: verify |
+| Still images | Not from us. The properties run their own libraries, on their own terms. Not confirmed |
 | Video | Nowhere |
 
 *Coverage audit, forest cover, villa count and temperature means last checked 5 August 2026. Every license, format and process detail here is unverified on purpose.*

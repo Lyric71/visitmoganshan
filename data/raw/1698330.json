@@ -1,0 +1,75 @@
+{
+  "id": 1698330,
+  "name": "No. 73, Xiwuli · Moganshan French Light Luxury Courtyard Family-friendly Boutique Accommodation",
+  "seedName": "No. 73, Xiwuli · Moganshan French Light Luxury Courtyard Family-friendly Boutique Accommodation",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1698330",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1698330&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1698330&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness & Comfort:Rooms are highlighted for their cleanliness, with soft bedding, well-organized layouts, and complimentary toiletries. The overall environment is described as quiet, with attention to detail in maintaining hygiene and comfort standards.(based on 18 reviews) Amenities & Activities:Guests appreciate the availability of free beverages, local cuisine experiences, and recreational activities like farm visits (seasonally). The property provides resources for self-guided exploration, including maps and tips for nearby attractions.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Comfort",
+        "text": "Rooms are highlighted for their cleanliness, with soft bedding, well-organized layouts, and complimentary toiletries. The overall environment is described as quiet, with attention to detail in maintaining hygiene and comfort standards.",
+        "count": 18
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 73, Xiwuli, Houwu Village, Mogan Town, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$67",
+  "facilities": [
+    "Gym",
+    "Cardroom",
+    "Restaurant",
+    "Karaoke",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1698330/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0512000hydpe6a2B9C.jpg"
+    },
+    {
+      "src": "/images/stays/1698330/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6z12000ik204nyC525.webp"
+    },
+    {
+      "src": "/images/stays/1698330/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6512000ik276bg2CA2.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The experience exceeded my expectations. The room was clean and tidy, and the tissues were from Tempo and Vinda – I was very satisfied with these small details. They even upgraded my room for free, and the price wasn't excessively...",
+      "author": "Guest User",
+      "date": "2026-01-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1698330&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1698330&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The hotel is surrounded by greenery, with a small stream running in front. The hotel's design is thoughtful, featuring a swimming pool in the courtyard where children can play. It's clean and tidy, with a very comfortable environment. The breakfast...",
+      "author": "Guest User",
+      "date": "2025-08-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1698330&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1698330&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I came to this B&B with the mentality of giving it a try, thinking of staying for a night to experience it. As a result, my grandson was very satisfied with this place, and my wife also thought it was...",
+      "author": "Guest User",
+      "date": "2025-05-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1698330&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1698330&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 10,
+    "count": 43,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:33:27.818Z",
+  "source": "trip"
+}

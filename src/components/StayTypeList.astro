@@ -1,0 +1,69 @@
+---
+import StayCard from './StayCard.astro';
+import { TYPE_LABEL, staysOfType, type StayType } from '../lib/stays';
+
+/**
+ * Every property of one kind, as cards.
+ *
+ * A card carries what Trip.com actually holds about a place: photographs, its
+ * summary of what guests keep saying, one excerpt in a guest's own words, the
+ * caveat the unhappy ones raised, and the score. A row with a name and a button
+ * was not a listing, it was an index, and nobody chooses where to sleep from an
+ * index.
+ *
+ * The whole list, not a page of it. Eight hundred properties split seven ways
+ * is at most a few hundred per page, every image below the fold is lazy, and
+ * pagination would put the thing a reader is looking for behind a control they
+ * have to guess at.
+ *
+ * The site writes nothing here. Where a property has a page of ours, the card
+ * name links to it, and that page is where our words are.
+ */
+interface Props {
+  type: StayType;
+  /** hotelId to the page we have written about it, where one exists. */
+  writtenUp: Map<number, string>;
+}
+
+const { type, writtenUp } = Astro.props;
+
+const rows = staysOfType(type);
+---
+
+<section class="listing">
+  <header class="listing__head">
+    <h1>{TYPE_LABEL[type]} around Moganshan</h1>
+    <p class="listing__count">{rows.length.toLocaleString('en-GB')} bookable</p>
+  </header>
+
+  <div class="cards">
+    {rows.map((row) => <StayCard row={row} href={writtenUp.get(row.id)} />)}
+  </div>
+</section>
+
+<style>
+  .listing__head {
+    display: flex;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 0.5rem 1rem;
+    padding-block: clamp(2rem, 4vw, 3rem) 0;
+  }
+
+  .listing__head h1 {
+    margin: 0;
+    text-wrap: balance;
+  }
+
+  .listing__count {
+    margin: 0;
+    font-size: 0.875rem;
+    font-variant-numeric: tabular-nums;
+    color: var(--color-muted);
+  }
+
+  .cards {
+    margin-top: clamp(1.5rem, 3vw, 2rem);
+    border-top: 1px solid var(--color-line);
+  }
+</style>

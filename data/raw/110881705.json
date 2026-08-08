@@ -1,0 +1,87 @@
+{
+  "id": 110881705,
+  "name": "Deqing Moganshan Tingfeng Holiday Homestay",
+  "seedName": "Deqing Moganshan Tingfeng Holiday Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-110881705",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=110881705&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-110881705&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Environment:Proximity to attractions like \"Naked Castle\" and \"Moji Mountain,\" scenic mountain views, spacious outdoor areas , and a peaceful natural setting with fresh air.(based on 11 reviews) Accommodation:Clean, modern, and well-equipped rooms with smart facilities, large spaces, and good insulation.(based on 25 reviews) Amenities:Access to activities like stargazing, barbecues, and firepot tea gatherings; nearby parking and easy access to attractions. Service:Hosts are described as warm and helpful, offering local recommendations and meals made from fresh, locally sourced ingredients .(based on 18 reviews) Facilities:Includes table games, meeting equipment for group events, and a variety of dining options .(based on 25 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Proximity to attractions like \"Naked Castle\" and \"Moji Mountain,\" scenic mountain views, spacious outdoor areas , and a peaceful natural setting with fresh air.",
+        "count": 11
+      },
+      {
+        "topic": "Accommodation",
+        "text": "Clean, modern, and well-equipped rooms with smart facilities, large spaces, and good insulation.",
+        "count": 25
+      },
+      {
+        "topic": "Amenities",
+        "text": "Access to activities like stargazing, barbecues, and firepot tea gatherings; nearby parking and easy access to attractions. Service:Hosts are described as warm and helpful, offering local recommendations and meals made from fresh, locally sourced ingredients .",
+        "count": 18
+      },
+      {
+        "topic": "Facilities",
+        "text": "Includes table games, meeting equipment for group events, and a variety of dining options .",
+        "count": 25
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 2, Shuiwuli, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$114",
+  "facilities": [
+    "Restaurant",
+    "Cafe",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/110881705/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0m12000ezy94336F46.jpg"
+    },
+    {
+      "src": "/images/stays/110881705/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4b12000ezxb0rlC81F.webp"
+    },
+    {
+      "src": "/images/stays/110881705/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3x12000ezy4bbeD7D9.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "約了朋友一起來莫干山這家民宿度假，體驗特別舒心！環境比較安靜，山裡空氣很舒服，整個人都放鬆下來。有很乾凈的泳池，小朋友可以盡情玩水撒歡。 院子裏還能自己露天燒烤，很好玩還很好吃😋。房間很寬敞很乾凈舒適，公共休閑空間很充足，大人可以喝茶閑聊、孩子可以自在玩耍。店家特別熱情貼心，服務周到，很適合多人結伴休閑小聚或者帶娃遊玩，下次還會再來的！",
+      "author": "Guest User",
+      "date": "2026-07-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=110881705&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-110881705&trip_sub3=D19127628"
+    },
+    {
+      "quote": "五星給滿！我們一大家子人，空間完全夠住，私密性很好，不會吵到別人。 院子草坪超大，還有玩水的地方，大人小孩都玩得很開心。下午就在院子支起烤架自己燒烤，烤腸、肉串隨便安排，吹着山裡的風聊天特別舒服。 廚房廚具調料都配齊了，我們買了食材自己做飯，不要太舒適啦！ 附近的茶山咖啡拍照特別出片，玩的很開心！ 房東人也挺好，有問題回覆很快，多人聚會、家庭出遊選這家真的合適，下次再來莫干山還會選這裏！",
+      "author": "Guest User",
+      "date": "2026-07-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=110881705&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-110881705&trip_sub3=D19127628"
+    },
+    {
+      "quote": "這個民宿真的很舒服乾淨，超級適合團建或者家庭旅行，有廚房可以用，還可以燒烤，夏天到了，小孩很喜歡泳池，水也很乾凈。離景點很近，空氣清新，強烈推薦！！",
+      "author": "Guest User",
+      "date": "2026-07-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=110881705&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-110881705&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.2,
+    "count": 49,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:34:38.279Z",
+  "source": "trip"
+}

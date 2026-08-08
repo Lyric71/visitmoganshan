@@ -1,0 +1,86 @@
+{
+  "id": 2083995,
+  "name": "Moganshan Huilan Qingyuan Hot Spring Hotel",
+  "seedName": "Moganshan Huilan Qingyuan Hot Spring Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2083995",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2083995&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2083995&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness:Multiple reviews emphasize exceptional cleanliness, with rooms, bathrooms, and common areas described as \"cleaner than home,\" \"spotless,\" and \"thoroughly maintained.\"(based on 11 reviews) Breakfast:Highly praised for variety and quality, including local specialties like bamboo shoots and wild fruits, with adjustments made to dietary preferences.(based on 10 reviews) Host Hospitality:Warm, attentive service from the host family, including proactive assistance and a welcoming atmosphere.(based on 10 reviews) Facilities:Features include a large, well-maintained swimming pool, a small trampoline for children, and a quiet, spacious environment ideal for families or groups.(based on 4 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness",
+        "text": "Multiple reviews emphasize exceptional cleanliness, with rooms, bathrooms, and common areas described as \"cleaner than home,\" \"spotless,\" and \"thoroughly maintained.\"",
+        "count": 11
+      },
+      {
+        "topic": "Breakfast",
+        "text": "Highly praised for variety and quality, including local specialties like bamboo shoots and wild fruits, with adjustments made to dietary preferences.",
+        "count": 10
+      },
+      {
+        "topic": "Host Hospitality",
+        "text": "Warm, attentive service from the host family, including proactive assistance and a welcoming atmosphere.",
+        "count": 10
+      },
+      {
+        "topic": "Facilities",
+        "text": "Features include a large, well-maintained swimming pool, a small trampoline for children, and a quiet, spacious environment ideal for families or groups.",
+        "count": 4
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Liaoyuan Village, Moganshan Town, Deqing, Zhejiang, 313202, China",
+  "priceRange": "From US$52",
+  "facilities": [
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/2083995/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1u12000b7id9omBBD1.jpg"
+    },
+    {
+      "src": "/images/stays/2083995/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4l12000b7ict8w46C7.webp"
+    },
+    {
+      "src": "/images/stays/2083995/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1r12000b7i9yzeA523.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Lovely stay close to Yucun Square. The family were super friendly and attentive. Wonderful breakfast made to order and everything very clean. The bed was a little hard for my preference but apart from that everything was excellent.",
+      "author": "Traveling Thespian",
+      "date": "2025-07-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2083995&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2083995&trip_sub3=D19127628"
+    },
+    {
+      "quote": "It was my first time in Moganshan, and I chose this B&B based on random reviews. The online reviews were all positive, and they were indeed true! From the moment I entered the room, I could tell the owner had...",
+      "author": "Guest User",
+      "date": "2025-08-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2083995&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2083995&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Facilities: High-end smart toilet Cleanliness: Clean, uses household Head & Shoulders shampoo Environment: Close to the main street, very quiet Service: Breakfast noodles are especially delicious – bamboo shoot, vegetable, shredded pork, pickled mustard greens, mushroom, and fried egg noodles",
+      "author": "Guest User",
+      "date": "2025-08-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2083995&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2083995&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 19,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:01:38.607Z",
+  "source": "trip"
+}

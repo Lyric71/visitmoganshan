@@ -26,7 +26,7 @@ The pond sits above the transfer centers, on the ticketed side of the mountain a
 | Best conditions | A few days after rain. Inferred, not measured |
 | Time on site | Short. You pass through it on a longer walk |
 
-Worth the walk if you are already inside the scenic area and the story interests you. On its own it does not justify the ticket and the transfer. What follows is that judgment, plus the things nobody has measured, each carrying a TODO where it belongs.
+Worth the walk if you are already inside the scenic area and the story interests you. On its own it does not justify the ticket and the transfer. What follows is that judgment, plus the things nobody has measured, each flagged as unconfirmed where it belongs.
 
 ## The legend of Gan Jiang and Mo Ye
 
@@ -58,13 +58,13 @@ Say the story is enough for you. Then getting there starts a long way below the 
 
 Our knowledge runs out at the last stretch. You cover it on foot, on built stone, from wherever your transport leaves you, and we have no figure for how far that is.
 
-`TODO: verify the walking distance and time to Sword Pond from each transfer center and from the villa quarter, the step count on the approach, and the gradient.`
+`Not confirmed: the walking distance and time to Sword Pond from each transfer center and from the villa quarter, the step count on the approach, and the gradient.`
 
 Until then, ask at the transfer center counter when you buy the ticket.
 
 The ticket is the second open question. Every list we have found puts Sword Pond inside the ticketed core, and our [scenic area page](/moganshan/scenic-area/) follows them, though no official source settles the boundary. Published prices run from RMB 50 to RMB 130, and [tickets and entry](/plan/tickets-and-entry/) has both sets.
 
-`TODO: verify that Sword Pond sits inside the ticketed boundary, and whether the scenic-area ticket covers it or it charges separately.`
+`Not confirmed: that Sword Pond sits inside the ticketed boundary, and whether the scenic-area ticket covers it or it charges separately.`
 
 ![The stepped path climbing toward Sword Pond, seen from below, with the full flight visible](/images/guide/sword-pond-3.webp 'The part the photographs leave out. Nobody has counted these steps for us, which is why this page says so instead of guessing.')
 
@@ -76,13 +76,13 @@ After a wet spell there is movement and sound. In a dry late summer the same pla
 
 People also search for a Moganshan waterfall and land here. We cannot confirm a named, measured waterfall on this mountain, and no source we hold says whether water visibly enters or leaves the pond.
 
-`TODO: verify seasonal water levels and flow at Sword Pond, and whether any falling water at or near it is named. We hold no measurements and no month-by-month record.`
+`Not confirmed: seasonal water levels and flow at Sword Pond, and whether any falling water at or near it is named. We hold no measurements and no month-by-month record.`
 
 So much for the water. The surroundings do not depend on it. You stand in moso bamboo, cut and sold as a crop, and on a windy day the poles knock and creak overhead. Two minutes of standing still is worth more than another photograph. July and August average 24.1 °C up here, 6 to 7 °C below Shanghai and Hangzhou, and shade over water in August is the oldest reason anybody climbed this hill.
 
 Gray weather does not waste the trip, since low cloud suits bamboo. Wet stone argues for shoes with grip, which [walking and hiking](/things-to-do/hiking/) covers.
 
-`TODO: verify how long visitors actually spend at Sword Pond.`
+`Not confirmed: how long visitors actually spend at Sword Pond.`
 
 ## With children
 
@@ -92,7 +92,7 @@ Steps are the limiting factor on this mountain, and the pond is reached by a fli
 
 That is where the certainty stops.
 
-`TODO: verify the step count and gradient on the approach, whether the steps and the water's edge are railed, whether a stroller could be pushed, and whether toilets or drinking water exist at the site.`
+`Not confirmed: the step count and gradient on the approach, whether the steps and the water's edge are railed, whether a stroller could be pushed, and whether toilets or drinking water exist at the site.`
 
 The four lines below are judgment. We would defend them, and none of them has been checked on the ground.
 
@@ -122,5 +122,5 @@ Which leaves the question of what to put around it. Sword Pond does not fill a m
 
 Go up on the first transfers of the morning. The paths are emptier at that hour, and you spend the afternoon walking instead of counting backwards from a gate that shuts at six.
 
-*Transfer hours, shuttle fares, temperatures and crowd figures last checked 5 August 2026. Ticket prices conflict between sources and must be confirmed at booking. Lines marked TODO stay open until somebody has walked this with a notebook.*
+*Transfer hours, shuttle fares, temperatures and crowd figures last checked 5 August 2026. Ticket prices conflict between sources and must be confirmed at booking. Lines flagged as unconfirmed stay open until somebody has walked this with a notebook.*
 

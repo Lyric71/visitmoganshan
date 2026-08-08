@@ -50,8 +50,8 @@ That list is short on purpose. What we could not confirm:
 | Not verified | Note |
 |---|---|
 | Room types, restaurants, spa and activities | Booking sites carry it all. We repeat none until we have seen it |
-| Family policy and accessibility | `TODO: verify` |
-| Any transfer the resort runs itself | `TODO: verify`. It bears on the vehicle rule below |
+| Family policy and accessibility | `Not confirmed` |
+| Any transfer the resort runs itself | `Not confirmed`. It bears on the vehicle rule below |
 | Whether the LEED certification has been renewed | The award dates from the 2011 opening |
 | The village it sits in | Our research does not place it and we will not guess. It can change your arrival plan |
 
@@ -110,7 +110,7 @@ Pudong is the one that surprises people.
 
 One rule catches almost everyone out. No private vehicle may drive into the scenic area. You get out and change vehicles on the way in. Three centers handle it: Yucun, Fatou and Houwu. All three work 08:00 to 18:00.
 
-We have not confirmed whether naked Stables sits inside that zone, or whether it collects guests. `TODO: verify.` Until then, treat 18:00 as your deadline at Deqing and ask the property before booking an evening train. [Getting around](/getting-here/getting-around/) sets out the shuttle times.
+We have not confirmed whether naked Stables sits inside that zone, or whether it collects guests. `Not confirmed.` Until then, treat 18:00 as your deadline at Deqing and ask the property before booking an evening train. [Getting around](/getting-here/getting-around/) sets out the shuttle times.
 
 ## What a Moganshan luxury resort costs
 
@@ -122,4 +122,4 @@ Treat that as a range across two hotels. No room is sold at the band, nothing is
 
 Every other property with rooms sits on the [hotels index](/where-to-stay/hotels/), and the top of the market on [luxury stays](/where-to-stay/luxury/). [Where to stay](/where-to-stay/) begins with the village question, which shapes a Moganshan trip more than the brand on the gate.
 
-*Keys, rate band and corporate facts stand as at 6 August 2026. Each TODO marks a gap we would rather show than fill.*
+*Keys, rate band and corporate facts stand as at 6 August 2026. Each unconfirmed line marks a gap we would rather show than fill.*

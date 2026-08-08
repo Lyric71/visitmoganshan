@@ -1,0 +1,81 @@
+{
+  "id": 97213480,
+  "name": "dongxiaojiedemins·xiyushanju",
+  "seedName": "dongxiaojiedemins·xiyushanju",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-97213480",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=97213480&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-97213480&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:Located in Moganshan, the environment is quiet and elegant, with bamboo forests, mountain views, reservoirs and other natural scenery around, creating a comfortable and pleasant atmosphere(based on 16 reviews) Location and Transportation:Close to Yucun, with a short driving distance, and there are many restaurants nearby, which is quiet and not noisy(based on 9 reviews) Facilities:There are swimming pools, swings and other landscape facilities, and the rooms are spacious, such as the 2.2-meter-wide super bed suitable for families with children(based on 5 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Located in Moganshan, the environment is quiet and elegant, with bamboo forests, mountain views, reservoirs and other natural scenery around, creating a comfortable and pleasant atmosphere",
+        "count": 16
+      },
+      {
+        "topic": "Location and Transportation",
+        "text": "Close to Yucun, with a short driving distance, and there are many restaurants nearby, which is quiet and not noisy",
+        "count": 9
+      },
+      {
+        "topic": "Facilities",
+        "text": "There are swimming pools, swings and other landscape facilities, and the rooms are spacious, such as the 2.2-meter-wide super bed suitable for families with children",
+        "count": 5
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 50-1, Laolingjiao, Laoling Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$114",
+  "facilities": [
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/97213480/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5r12000t95xi9664C9.jpg"
+    },
+    {
+      "src": "/images/stays/97213480/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200n120009psb47pD375.webp"
+    },
+    {
+      "src": "/images/stays/97213480/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02068120009psaxovC35C.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Hidden in the bamboo forests of Moganshan, this gem of a guesthouse boasts a tranquil and elegant environment, with thoughtful details throughout. The rooms are spacious and bright, blessed with excellent natural light, and offer mountain views from the bed....",
+      "author": "Guest User",
+      "date": "2026-04-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=97213480&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-97213480&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room was clean, tidy, and spacious—the environment was great! The owner was incredibly kind and even gave us chestnuts to eat 🌰. They were very welcoming, and we had a wonderful time 😃. I'll definitely come back next time!",
+      "author": "Mina 🎶",
+      "date": "2025-10-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=97213480&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-97213480&trip_sub3=D19127628"
+    },
+    {
+      "quote": "This guesthouse is nestled halfway up a mountain in a tranquil and elegant setting. The road up the mountain is a bit narrow, which isn't ideal for cars with low ground clearance (luckily, my car has enough). The guesthouse's design...",
+      "author": "Guest User",
+      "date": "2025-08-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=97213480&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-97213480&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.8,
+    "count": 38,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:48:44.025Z",
+  "source": "trip"
+}

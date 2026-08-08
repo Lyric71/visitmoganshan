@@ -25,7 +25,7 @@ Our consumer pages tell a traveler what to look at. This one gives you nights, l
 
 Every time here is marked **measured** or **estimate**. Measured means a published timetable or posted operating hour. Estimate means our arithmetic on those, buffered where stated.
 
-The modules exclude guiding, meals, tickets and the vehicle, which you still price. We publish no rates, room blocks, commission terms or lead times. Nobody has quoted us any, and inventing them would be worse than a blank. TODO: verify.
+The modules exclude guiding, meals, tickets and the vehicle, which you still price. We publish no rates, room blocks, commission terms or lead times. Nobody has quoted us any, and inventing them would be worse than a blank.
 
 No property here is named as a recommendation. [Trade and media](/trade/) sets out why.
 
@@ -135,10 +135,10 @@ If the program cannot hold two nights, quote the day trip with its real cost: 5 
 ## Lines for your client documentation
 
 - The station is **Deqing**. The one named Moganshan serves Wukang town, not the mountain.
-- Private vehicles do not enter the scenic area. Flag limited-mobility clients at booking. TODO: verify what accessible transport the centers provide.
+- Private vehicles do not enter the scenic area. Flag limited-mobility clients at booking. Not confirmed: what accessible transport the centers provide.
 - Ticket prices do not agree. One set runs RMB 120 online, RMB 130 at the gate. The other runs RMB 50 off-season, RMB 80 peak, half in winter. Do not fix a per-head line without checking.
 - Avoid both Golden Weeks. The May 2024 holiday pushed high-end occupancy to 94 percent, and National Day 2025 lifted Yucun footfall 30 to 40 percent above normal.
-- TODO: verify what closes at 18:00. Last entry, last transfer up and gate close are three deadlines, each moving your pickup.
+- Not confirmed: what closes at 18:00. Last entry, last transfer up and gate close are three deadlines, each moving your pickup.
 
 > Occupancy, guesthouse count, ticket price ranges and holiday footfall, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 

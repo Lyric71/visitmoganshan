@@ -1,0 +1,71 @@
+{
+  "id": 8694461,
+  "name": "NO.5 NIAOQING MOUNTAIN",
+  "seedName": "NO.5 NIAOQING MOUNTAIN",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-8694461",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8694461&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8694461&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness and Comfort:Guests noted the high standards of cleanliness across all areas, from the rooms to communal spaces. The use of natural materials and attention to detail in maintaining hygiene created a welcoming and restful environment.(based on 9 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness and Comfort",
+        "text": "Guests noted the high standards of cleanliness across all areas, from the rooms to communal spaces. The use of natural materials and attention to detail in maintaining hygiene created a welcoming and restful environment.",
+        "count": 9
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 5, Xiawuli, Hecun Village, Moganshan Town, Deqing, Zhejiang, 313204, China",
+  "priceRange": "From US$53",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/8694461/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0586i12000spei4rt4160.jpg"
+    },
+    {
+      "src": "/images/stays/8694461/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2005190000017xuduC2EE.webp"
+    },
+    {
+      "src": "/images/stays/8694461/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2007190000018bxob99BC.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Cozy and lovely, just the kind of guesthouse I like. There are many fun places nearby; we went hiking and worked up a good sweat—it felt so good! We wanted to make tea, and the owner even brought us spring...",
+      "author": "Guest User",
+      "date": "2026-02-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8694461&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8694461&trip_sub3=D19127628"
+    },
+    {
+      "quote": "A relaxing courtyard, delicious breakfast, trampolines and swings for kids, a wide variety of books in the lobby, and the warm hospitality of the landlady—a perfect place for a leisurely two-day, one-night rest.",
+      "author": "Guest User",
+      "date": "2025-09-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8694461&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8694461&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I was so lucky! The owner raised his own ducks, which were freshly slaughtered by hand, and the grandma made a delicious homemade braised dish – it was absolutely amazing! It was too hot outside, so we stayed in the...",
+      "author": "Guest User",
+      "date": "2025-08-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8694461&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8694461&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 10,
+    "count": 44,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:32:40.634Z",
+  "source": "trip"
+}

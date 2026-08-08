@@ -116,7 +116,7 @@ Everything above is the case for. This is the part we would show a client before
 
 Take the first row for what it is: an absence we checked for, not a fact-base figure.
 
-The 18:00 window breaks more itineraries than anything else here. Work the arrival day backward from it. TODO: verify whether that 18:00 is last entry, last transfer up, or gate close. We have not settled which.
+The 18:00 window breaks more itineraries than anything else here. Work the arrival day backward from it. Not confirmed: whether that 18:00 is last entry, last transfer up, or gate close. We have not settled which.
 
 Ticket prices disagree across sources, which makes a per-head cost line hard to fix.
 

@@ -1,0 +1,64 @@
+{
+  "id": 9134665,
+  "name": "Mo Li B&B",
+  "seedName": "Mo Li B&B",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-9134665",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=9134665&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-9134665&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Mo Li B&B?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 22-1, Mawuli, Miaoqian Village, Moganshan Town, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$58",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/9134665/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200i0l000000d7gry8ADA.jpg"
+    },
+    {
+      "src": "/images/stays/9134665/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203i12000a1c9hawC920.webp"
+    },
+    {
+      "src": "/images/stays/9134665/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0202h120008r5bm1b5CBA.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Incredibly kind hosts, great location, spacious and clean room. I couldn’t recommend staying here more highly.",
+      "author": "Guest User",
+      "date": "2026-07-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=9134665&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-9134665&trip_sub3=D19127628"
+    },
+    {
+      "quote": "環境清幽，空氣清新，房間乾淨整潔，服務熱情周到，早餐可口。住得舒心愜意，孩子也感受了大户外，離新市古鎮也不遠，第一天山裡第二天返程時候去了古鎮，不錯的體驗，非常推薦，下次還會再來！",
+      "author": "Guest User",
+      "date": "2026-04-09",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=9134665&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-9134665&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間還乾淨，和圖片一致，是竹子主題的。一樓有麻將房可玩兒。周圍就是山，出門即可爬山。最開心的就是附近可隨便挖筍，很有野趣，民宿可以提供鋤頭。房間倒是忘記拍了，周圍的山和挖筍拍了好多！",
+      "author": "Guest User",
+      "date": "2026-04-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=9134665&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-9134665&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 20,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:59:36.563Z",
+  "source": "trip"
+}

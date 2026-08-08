@@ -1,0 +1,82 @@
+{
+  "id": 97206366,
+  "name": "Moganshan Modang Xianmeisu",
+  "seedName": "Moganshan Modang Xianmeisu",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-97206366",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=97206366&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-97206366&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service Quality:Staff and hosts demonstrate warmth and attentiveness, offering personalized services like detailed itinerary planning, local recommendations, and thoughtful gestures such as preparing fresh fruit upon arrival. Family-oriented care includes child-friendly meals and supervised activities.(based on 6 reviews) Cleanliness:Guests consistently praise the cleanliness of bedding, towels, and common areas. The property maintains a tidy appearance with well-maintained outdoor spaces and meticulous attention to hygiene standards across all rooms.(based on 3 reviews) Aesthetics:Modern minimalist design combines tradition with white walls, wooden furniture, and natural materials. Indoor-outdoor integration adds charm, featuring gardens and courtyards for aesthetic and functional balance. Guest Suggestion:Some customers suggest that some rooms have a strange smell, the property's cleanliness could be improved, and the location may be remote with inadequate soundproofing.(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service Quality",
+        "text": "Staff and hosts demonstrate warmth and attentiveness, offering personalized services like detailed itinerary planning, local recommendations, and thoughtful gestures such as preparing fresh fruit upon arrival. Family-oriented care includes child-friendly meals and supervised activities.",
+        "count": 6
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Guests consistently praise the cleanliness of bedding, towels, and common areas. The property maintains a tidy appearance with well-maintained outdoor spaces and meticulous attention to hygiene standards across all rooms.",
+        "count": 3
+      },
+      {
+        "topic": "Aesthetics",
+        "text": "Modern minimalist design combines tradition with white walls, wooden furniture, and natural materials. Indoor-outdoor integration adds charm, featuring gardens and courtyards for aesthetic and functional balance. Guest Suggestion:Some customers suggest that some rooms have a strange smell, the property's cleanliness could be improved, and the location may be remote with inadequate soundproofing.",
+        "count": 2
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 28, Lingkeng, Laoling Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$56",
+  "facilities": [
+    "Cardroom",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/97206366/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3512000medjpu28C66.jpg"
+    },
+    {
+      "src": "/images/stays/97206366/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3w12000mefrwr378D0.webp"
+    },
+    {
+      "src": "/images/stays/97206366/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0j12000mxzacmz6CE6.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The bed was large and the room was spacious, and the cleanliness was also very good. The projector TV didn't have any channels when turned on, and the Wi-Fi required scanning a QR code which redirected to Trip.com, which was...",
+      "author": "Guest User",
+      "date": "2026-07-31",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=97206366&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-97206366&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room is quite new. Although there were some problems, the boss finally solved them. Now the environment is not good, it is not easy to do business, please understand. There was a parking space downstairs when I came, which...",
+      "author": "Guest User",
+      "date": "2025-07-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=97206366&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-97206366&trip_sub3=D19127628"
+    },
+    {
+      "quote": "#The room has a strange smell #The B&B is messy #The B&B is in a remote location #Poor soundproofing",
+      "author": "Guest User",
+      "date": "2025-08-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=97206366&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-97206366&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.2,
+    "count": 23,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:02:24.277Z",
+  "source": "trip"
+}

@@ -1,0 +1,92 @@
+{
+  "id": 5545625,
+  "name": "Moganshan Yishan Yishui Designer Homestay",
+  "seedName": "Moganshan Yishan Yishui Designer Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5545625",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5545625&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5545625&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Design & Aesthetic:High design quality, modern and rustic elements , unique layouts, and stylish interiors. Environment:Located in Miaoqian Village, surrounded by bamboo forests and mountains, offering serene, quiet, and scenic settings. Proximity to Moganshan Scenic Area and Yu Village for activities.(based on 2 reviews) Service:Warm, attentive staff with local knowledge, helpful with travel recommendations, and accommodating for needs like early check-in or meal arrangements.(based on 26 reviews) Facilities:Includes private terraces, swimming pools, barbecue areas, and outdoor spaces for relaxation. Some rooms feature large screens for entertainment.(based on 4 reviews) Hygiene:Cleanliness emphasized, with well-maintained rooms and bathrooms.(based on 16 reviews) Accessibility:Easy access to hiking trails, Mogan Mountain, and nearby attractions like Yiyuan Organic Farm.(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Aesthetic",
+        "text": "High design quality, modern and rustic elements , unique layouts, and stylish interiors. Environment:Located in Miaoqian Village, surrounded by bamboo forests and mountains, offering serene, quiet, and scenic settings. Proximity to Moganshan Scenic Area and Yu Village for activities.",
+        "count": 2
+      },
+      {
+        "topic": "Service",
+        "text": "Warm, attentive staff with local knowledge, helpful with travel recommendations, and accommodating for needs like early check-in or meal arrangements.",
+        "count": 26
+      },
+      {
+        "topic": "Facilities",
+        "text": "Includes private terraces, swimming pools, barbecue areas, and outdoor spaces for relaxation. Some rooms feature large screens for entertainment.",
+        "count": 4
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Cleanliness emphasized, with well-maintained rooms and bathrooms.",
+        "count": 16
+      },
+      {
+        "topic": "Accessibility",
+        "text": "Easy access to hiking trails, Mogan Mountain, and nearby attractions like Yiyuan Organic Farm.",
+        "count": 2
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 3, Mawuli, Miaoqian Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$55",
+  "facilities": [
+    "Outdoor swimming pool",
+    "2 Restaurants",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5545625/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201o12000agr7zgv70D6.jpg"
+    },
+    {
+      "src": "/images/stays/5545625/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201f1200095miotnA2FE.webp"
+    },
+    {
+      "src": "/images/stays/5545625/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206v1200095mhwatDDA4.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The owner was incredibly kind, and the service was excellent. It was my first time staying in a guesthouse like this, and it was a fantastic experience.",
+      "author": "Honey AKA979.",
+      "date": "2026-07-27",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5545625&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5545625&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room has a sense of design. The service is very good, the guy has a good attitude, and he also gave me a coupon for the Yucun afternoon tea experience. The soundproofing is not very good, and it is...",
+      "author": "Anonymous User",
+      "date": "2024-04-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5545625&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5545625&trip_sub3=D19127628"
+    },
+    {
+      "quote": "It's great! There are few people traveling in the off-season and it's very quiet. You can also play mahjong inside.",
+      "author": "Guest User",
+      "date": "2024-03-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5545625&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5545625&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 51,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:21:33.701Z",
+  "source": "trip"
+}

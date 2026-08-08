@@ -1,0 +1,67 @@
+{
+  "id": 134804632,
+  "name": "Moganshan Ningxi · NX Designer Luxury Boutique Stay",
+  "seedName": "Moganshan Ningxi · NX Designer Luxury Boutique Stay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-134804632",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=134804632&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-134804632&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Ningxi · NX Designer Luxury Boutique Stay?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 26, Yangwukeng, Xiantan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$87",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant",
+    "Karaoke"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/134804632/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3p12000sqrbhjk6564.jpg"
+    },
+    {
+      "src": "/images/stays/134804632/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5712000szz7x6gAAA3.webp"
+    },
+    {
+      "src": "/images/stays/134804632/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0j12000szz9lnfE458.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "A fantastic guesthouse! The landlady is gentle and elegant, and the facilities are comprehensive.",
+      "author": "Guest User",
+      "date": "2026-07-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=134804632&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-134804632&trip_sub3=D19127628"
+    },
+    {
+      "quote": "A fantastic guesthouse! The landlady is gentle and elegant, and the facilities are comprehensive.",
+      "author": "Guest User",
+      "date": "2026-07-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=134804632&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-134804632&trip_sub3=D19127628"
+    },
+    {
+      "quote": "帶着家人山裡度度假，整體非常滿意，農家菜做的不錯，打打桌球，打打麻將，遊游泳，非常愜意",
+      "author": "Gengzhongnanshanshang",
+      "date": "2026-07-18",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=134804632&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-134804632&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 10,
+    "count": 12,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:06:50.738Z",
+  "source": "trip"
+}

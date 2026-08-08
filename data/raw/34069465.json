@@ -1,0 +1,82 @@
+{
+  "id": 34069465,
+  "name": "Boinn Moganshan",
+  "seedName": "Boinn Moganshan",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-34069465",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=34069465&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-34069465&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Room Facilities and View:Rooms have 270° floor-to-ceiling windows with mountain and bamboo views. Facilities are new and complete, offering a comfortable stay. Breakfast is home-style, and there is an evening cocktail.(based on 69 reviews) Pet-Friendly:Pet-friendly with a resident cat, and facilities like a small net and umbrella prepared for stream activities, suitable for pets. Service and Details:Service is thoughtful, with details like preparing stream supplies. The host is friendly, and the property offers a relaxing environment for vacation.(based on 62 reviews) Food and Amenities:Dinner can be pre-ordered, with delicious dishes like bamboo shoot soup and braised pork. There is an outdoor pool for relaxation.(based on 10 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Room Facilities and View",
+        "text": "Rooms have 270° floor-to-ceiling windows with mountain and bamboo views. Facilities are new and complete, offering a comfortable stay. Breakfast is home-style, and there is an evening cocktail.",
+        "count": 69
+      },
+      {
+        "topic": "Pet-Friendly",
+        "text": "Pet-friendly with a resident cat, and facilities like a small net and umbrella prepared for stream activities, suitable for pets. Service and Details:Service is thoughtful, with details like preparing stream supplies. The host is friendly, and the property offers a relaxing environment for vacation.",
+        "count": 62
+      },
+      {
+        "topic": "Food and Amenities",
+        "text": "Dinner can be pre-ordered, with delicious dishes like bamboo shoot soup and braised pork. There is an outdoor pool for relaxation.",
+        "count": 10
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 37, Yu Village, Fatou Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$119",
+  "facilities": [
+    "Outdoor swimming pool",
+    "2 Restaurants",
+    "Cafe"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/34069465/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200g1h000001hm6wa6402.jpg"
+    },
+    {
+      "src": "/images/stays/34069465/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02009120008g8ef8599FE.webp"
+    },
+    {
+      "src": "/images/stays/34069465/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200s1f000001gdnps7AD2.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Lovely stay in this family managed hotel. Location, room, and food were simply great. We will surely come back",
+      "author": "TheItaliantraveller",
+      "date": "2024-12-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=34069465&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-34069465&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The most beautiful hotel. The location was great, the hotel was peaceful and quiet. I loved the room view. The breakfast was so tasty. The owner was very helpful and kind. We really enjoy our weekend break! Thank you! 😊",
+      "author": "Hemali",
+      "date": "2024-01-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=34069465&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-34069465&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Perfect location. Good breakfast, excellent coffee. Nice surroundings. Recommended.",
+      "author": "Anonymous User",
+      "date": "2023-10-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=34069465&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-34069465&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 143,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:51:03.338Z",
+  "source": "trip"
+}

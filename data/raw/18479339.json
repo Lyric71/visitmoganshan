@@ -1,0 +1,97 @@
+{
+  "id": 18479339,
+  "name": "Deqing yaoyao",
+  "seedName": "Deqing yaoyao",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-18479339",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=18479339&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-18479339&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location & Environment:Situated near Moganshan Houwu Distribution Center and surrounded by greenery, bamboo forests, and a creek for water activities. The property is described as tranquil, with a quiet courtyard and fresh air.(based on 3 reviews) Facilities:Features a clean, well-maintained swimming pool , log-style rooms with spacious layouts, and a small playground/infant pool for children.(based on 8 reviews) Cleanliness & Maintenance:Rooms are consistently praised for being clean, tidy, and dust-free. The property emphasizes hygiene standards.(based on 16 reviews) Service Quality:Hosts are described as warm, enthusiastic, and helpful, offering local recommendations .(based on 13 reviews) Accessibility:Parking is convenient, and the property is within reasonable driving distance to Moganshan attractions.(based on 5 reviews) Guest Suggestion: Some customers suggest improving room facilities and considering proximity to attractions for better value.(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Situated near Moganshan Houwu Distribution Center and surrounded by greenery, bamboo forests, and a creek for water activities. The property is described as tranquil, with a quiet courtyard and fresh air.",
+        "count": 3
+      },
+      {
+        "topic": "Facilities",
+        "text": "Features a clean, well-maintained swimming pool , log-style rooms with spacious layouts, and a small playground/infant pool for children.",
+        "count": 8
+      },
+      {
+        "topic": "Maintenance",
+        "text": "Rooms are consistently praised for being clean, tidy, and dust-free. The property emphasizes hygiene standards.",
+        "count": 16
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Hosts are described as warm, enthusiastic, and helpful, offering local recommendations .",
+        "count": 13
+      },
+      {
+        "topic": "Accessibility",
+        "text": "Parking is convenient, and the property is within reasonable driving distance to Moganshan attractions.",
+        "count": 5
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving room facilities and considering proximity to attractions for better value.",
+      "count": 3
+    }
+  },
+  "address": "No. 9, Village Group 10, Houwu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$38",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Car rentals",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/18479339/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206x120009881xfr0C4E.jpg"
+    },
+    {
+      "src": "/images/stays/18479339/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200m120009881uuf35AC.webp"
+    },
+    {
+      "src": "/images/stays/18479339/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/020671200098825s5DAD1.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The owner was very friendly. He gave us local restaurant recommendations and helped us figure out a hiking route. He was very patient in explaining things to us despite our limited Chinese! The only issue was that the bathroom didn't...",
+      "author": "Guest User",
+      "date": "2026-05-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=18479339&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-18479339&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room is clean and comfortable. The courtyard is very quiet and comfortable. The open balcony is a good place to breathe fresh air. There is a swimming pool. The uncles and aunts are very nice. They also upgraded the...",
+      "author": "Caoliujin",
+      "date": "2025-06-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=18479339&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-18479339&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Away from the hustle and bustle of the city, I like this quiet and comfortable feeling! The boss is easy-going, clean and friendly! The room is also very clean and comfortable!",
+      "author": "Guest User",
+      "date": "2025-05-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=18479339&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-18479339&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.6,
+    "count": 35,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:52:11.289Z",
+  "source": "trip"
+}

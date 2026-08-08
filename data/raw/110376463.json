@@ -1,0 +1,85 @@
+{
+  "id": 110376463,
+  "name": "Gemini & TWINS · Hot Spring Wild Luxury Designer Manor (Moganshan Resort)",
+  "seedName": "Gemini & TWINS · Hot Spring Wild Luxury Designer Manor (Moganshan Resort)",
+  "city": "Huzhou",
+  "cityId": 86,
+  "goSlug": "moganshan-110376463",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=110376463&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-110376463&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service Quality:Owners provide welcoming, attentive service, often assisting guests with local recommendations and free upgrades, enhancing the experience.(based on 57 reviews) Facilities and Entertainment:Offers a variety of facilities like a swimming pool and game consoles, catering to all ages and providing ample entertainment.(based on 23 reviews) Coffee:Guests praise the hand-brewed espresso and lattes. Environment and Location:Clean, spacious setting with modern decor; conveniently near Moganshan Scenic Area, offering scenic views and a relaxing atmosphere.(based on 49 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service Quality",
+        "text": "Owners provide welcoming, attentive service, often assisting guests with local recommendations and free upgrades, enhancing the experience.",
+        "count": 57
+      },
+      {
+        "topic": "Facilities and Entertainment",
+        "text": "Offers a variety of facilities like a swimming pool and game consoles, catering to all ages and providing ample entertainment.",
+        "count": 23
+      },
+      {
+        "topic": "Coffee",
+        "text": "Guests praise the hand-brewed espresso and lattes. Environment and Location:Clean, spacious setting with modern decor; conveniently near Moganshan Scenic Area, offering scenic views and a relaxing atmosphere.",
+        "count": 49
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 8, Tangzi, Fangshan Village, Daixi Town, Wuxing District, Huzhou, Zhejiang, China",
+  "priceRange": "From US$80",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant",
+    "Conference room",
+    "Playground",
+    "Kids' club"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/110376463/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0c12000lwhwjt8EAB6.jpg"
+    },
+    {
+      "src": "/images/stays/110376463/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4m12000bntk79eB58A.webp"
+    },
+    {
+      "src": "/images/stays/110376463/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0312000bntiiur38FC.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The color matching of the B&B is high-end, the room is quite large, the bedding is also OK, and it is a 10-minute drive from the town for dinner. The boss and his wife are very talkative and friendly. The...",
+      "author": "Xiaoboluonvshiya",
+      "date": "2024-04-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=110376463&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-110376463&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Clean and sanitary, well decorated, with projection, free billiards to play, swimming and hot springs when it's hot, nice view from the floor-to-ceiling windows, the boss is very welcoming and even helps to take you to Moganshan attractions, highly recommended!",
+      "author": "Guest User",
+      "date": "2024-04-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=110376463&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-110376463&trip_sub3=D19127628"
+    },
+    {
+      "quote": "This time I came to Moganshan with my 80-year-old father and chose to stay at the Twin Hot Spring Manor. The manor has only been open for about a year. The environment is very good, the facilities are very new...",
+      "author": "Guest User",
+      "date": "2024-03-14",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=110376463&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-110376463&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 112,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:53:26.642Z",
+  "source": "trip"
+}

@@ -1,0 +1,92 @@
+{
+  "id": 131946241,
+  "name": "FUFUHOME Fufu Family Homestay",
+  "seedName": "FUFUHOME Fufu Family Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-131946241",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=131946241&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-131946241&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment Location:Located in Houwu Village, a quiet place in Moganshan with beautiful scenery and less commercialization(based on 4 reviews) Hygiene:Rooms are clean and tidy, and cleaning is meticulous(based on 20 reviews) Service:Owners/shopkeepers are enthusiastic, provide travel guides, prepare breakfast in advance and meet needs(based on 19 reviews) Facilities:Room facilities are complete, and there are characteristic lights(based on 16 reviews) Overall Experience:The stay experience exceeds expectations, like a secluded paradise, with a strong atmosphere and high cost-effectiveness(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment Location",
+        "text": "Located in Houwu Village, a quiet place in Moganshan with beautiful scenery and less commercialization",
+        "count": 4
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Rooms are clean and tidy, and cleaning is meticulous",
+        "count": 20
+      },
+      {
+        "topic": "Service",
+        "text": "Owners/shopkeepers are enthusiastic, provide travel guides, prepare breakfast in advance and meet needs",
+        "count": 19
+      },
+      {
+        "topic": "Facilities",
+        "text": "Room facilities are complete, and there are characteristic lights",
+        "count": 16
+      },
+      {
+        "topic": "Overall Experience",
+        "text": "The stay experience exceeds expectations, like a secluded paradise, with a strong atmosphere and high cost-effectiveness",
+        "count": 2
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 65, Kanshangyizhutang Road, Houwu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$109",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Karaoke"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/131946241/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1j12000t5r7vkt75EC.jpg"
+    },
+    {
+      "src": "/images/stays/131946241/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5212000oe4uwziE8DC.webp"
+    },
+    {
+      "src": "/images/stays/131946241/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0i12000od7t98xDBFD.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "FUFU HOME, is a real home! We felt well taken care of and the room was super cozy, perfect for a weekend getaway. There are lots of cute places to sit outside and enjoy the fresh air and the hot...",
+      "author": "Guest User",
+      "date": "2026-04-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=131946241&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-131946241&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Very comfortable stay. The building and room was clean and well-maintained. Friendly owners who were accommodating to my needs.",
+      "author": "China living",
+      "date": "2026-03-22",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=131946241&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-131946241&trip_sub3=D19127628"
+    },
+    {
+      "quote": "We were attending a conference in Shanghai and, since it was the weekend, we decided to visit Moganshan. Although it wasn't peak tourist season, the charm of the mountains and countryside still captivated us. After some research, we booked FUFU...",
+      "author": "Olivermiao",
+      "date": "2026-03-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=131946241&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-131946241&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 10,
+    "count": 38,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:40:52.937Z",
+  "source": "trip"
+}

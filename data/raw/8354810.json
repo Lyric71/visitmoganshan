@@ -1,0 +1,86 @@
+{
+  "id": 8354810,
+  "name": "Moganshan · Yunding Castle INS Mountain Stream Trekking · Southeast Asian Style Boutique Stay",
+  "seedName": "Moganshan · Yunding Castle INS Mountain Stream Trekking · Southeast Asian Style Boutique Stay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-8354810",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8354810&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8354810&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment Location:Backed by bamboo forests and facing small streams, with excellent scenery. It has a natural oxygen bar, a comfortable environment, and is cool and quiet at night. The surrounding environment is nice(based on 5 reviews) Facilities Activities:There are large swimming pools, and activities like singing, playing mahjong, billiards are available, and the swimming pool is easy to use(based on 6 reviews) Service Attitude:The proprietress has a good service attitude(based on 14 reviews) Guest Suggestion:Some customers suggest that the hotel has old facilities, general hygiene conditions, and relatively poor front desk service(based on 3 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment Location",
+        "text": "Backed by bamboo forests and facing small streams, with excellent scenery. It has a natural oxygen bar, a comfortable environment, and is cool and quiet at night. The surrounding environment is nice",
+        "count": 5
+      },
+      {
+        "topic": "Facilities Activities",
+        "text": "There are large swimming pools, and activities like singing, playing mahjong, billiards are available, and the swimming pool is easy to use",
+        "count": 6
+      },
+      {
+        "topic": "Service Attitude",
+        "text": "The proprietress has a good service attitude",
+        "count": 14
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest that the hotel has old facilities, general hygiene conditions, and relatively poor front desk service",
+      "count": 3
+    }
+  },
+  "address": "No.1 Ganmiaowu, Miaoqian Village, Deqing, Zhejiang, China",
+  "priceRange": "From US$96",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/8354810/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3w12000t950vibF71A.jpg"
+    },
+    {
+      "src": "/images/stays/8354810/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4012000t7rl1rb8949.webp"
+    },
+    {
+      "src": "/images/stays/8354810/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20060z000000mkwaxB928.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "這家莫干山民宿很有性價比。 民宿泳池超大，還能漿板，nice！ 民宿門口有大草坪，適合團建 門口有很寬的小溪，適合溯溪、捉魚摸蝦。 民宿山川竹海環繞，風景優美 民宿房間數量多，適合團建。 民宿剛被房東接手過來，重新裝修了，整體體驗感很好",
+      "author": "Guest User",
+      "date": "2026-07-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8354810&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8354810&trip_sub3=D19127628"
+    },
+    {
+      "quote": "帶着寶寶來久負盛名的莫干山避暑，這家莫干山民宿太頂了，非常nice 房間乾淨整潔無異味，細節做的很到位。泳池大，水質清澈，非常適合親子，好孩子笑的太開心了。還有門口的小溪更絕，很寬很清涼，性價比拉滿。 鳥語花香，竹海山景鬱鬱葱葱，滿眼綠色，非常棒",
+      "author": "Guest User",
+      "date": "2026-07-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8354810&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8354810&trip_sub3=D19127628"
+    },
+    {
+      "quote": "這家莫干山民宿比較不錯，背靠竹海，面向小溪，風景很棒。 庭院與泳池超大，夏日炎炎，泳池暢遊，門前小溪很寬，非常適合夏季溯溪。 民宿裏可以唱唱歌，打打麻將，打打桌球，喝杯黃芽，莫干山當地的綠茶，閉目養神，賞賞風景，good",
+      "author": "Guest User",
+      "date": "2026-07-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8354810&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8354810&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.3,
+    "count": 58,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:38:01.895Z",
+  "source": "trip"
+}

@@ -1,0 +1,86 @@
+{
+  "id": 73663059,
+  "name": "Ear Garden Guesthouse",
+  "seedName": "Ear Garden Guesthouse",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-73663059",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=73663059&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-73663059&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment and Location:Located in a convenient position, close to the main area, square, scenic spots, etc., with a quiet environment despite being near the road, and surrounded by parks, streams, etc., facilitating travel(based on 4 reviews) Service Quality:The owners and proprietors are warm and friendly, providing thoughtful services such as arranging breakfast times according to needs(based on 42 reviews) Facilities:Complete facilities, with a swimming pool, etc., and beautiful environment(based on 14 reviews) Hygiene:Clean and tidy, exceeding expectations(based on 34 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment and Location",
+        "text": "Located in a convenient position, close to the main area, square, scenic spots, etc., with a quiet environment despite being near the road, and surrounded by parks, streams, etc., facilitating travel",
+        "count": 4
+      },
+      {
+        "topic": "Service Quality",
+        "text": "The owners and proprietors are warm and friendly, providing thoughtful services such as arranging breakfast times according to needs",
+        "count": 42
+      },
+      {
+        "topic": "Facilities",
+        "text": "Complete facilities, with a swimming pool, etc., and beautiful environment",
+        "count": 14
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Clean and tidy, exceeding expectations",
+        "count": 34
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Xijiashan, Hou Village, Liaoyuan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$64",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/73663059/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02050120008pfhvsl4EB9.jpg"
+    },
+    {
+      "src": "/images/stays/73663059/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203v120008pffmzrE85D.webp"
+    },
+    {
+      "src": "/images/stays/73663059/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206i120008pfjo482BA0.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Lovely guesthouse with big spacious comfortable rooms, wooden floors, stairs and ceilings and nice views. I really enjoyed my stay. There is a lovely garden outside for breakfast or relaxing and it is very close to the main area and...",
+      "author": "Guest User",
+      "date": "2026-05-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=73663059&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-73663059&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The service was exceptional, and the owner was incredibly warm and welcoming. The garden was immaculate, and the breakfast was delicious 😋",
+      "author": "Guest User",
+      "date": "2026-05-27",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=73663059&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-73663059&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The guest house is close to a Main Street which gets a bit busy in the evenings. However, due to being tucked away behind another building, you don’t get any street noise and are able to experience some lovely nature...",
+      "author": "Guest User",
+      "date": "2025-07-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=73663059&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-73663059&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 98,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:54:15.675Z",
+  "source": "trip"
+}

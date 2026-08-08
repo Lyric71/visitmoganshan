@@ -19,7 +19,7 @@ Between the two cities almost every first-time visitor to eastern China already 
 
 Check you have the right place first. Moganshan Road in Shanghai's Putuo District is the M50 art district, 200 km from here, and it dominates the search results.
 
-Last checked 5 August 2026. This is a routing page about trains and the order you take them in. It does not tell you what to see in Shanghai or Hangzhou, because our fact base covers the mountain and the rail corridor, not the cities. Use a city guide for those days. A TODO line marks a gap we would not guess at.
+Last checked 5 August 2026. This is a routing page about trains and the order you take them in. It does not tell you what to see in Shanghai or Hangzhou, because our fact base covers the mountain and the rail corridor, not the cities. Use a city guide for those days. A line flagged as unconfirmed marks a gap we would not guess at.
 
 ## Why the mountain goes in the middle
 
@@ -86,7 +86,7 @@ Most long-haul flights arrive at Pudong. If you have the choice, fly into Hongqi
 
 A full day in the city, then a second night.
 
-TODO: verify Shanghai sights and opening hours.
+Not confirmed: Shanghai sights and opening hours.
 
 ### Day 3: Shanghai to Moganshan
 
@@ -104,7 +104,7 @@ Your own car stops at the scenic-area boundary. You change to authorized transpo
 
 The shortest leg by a wide margin. Spend the morning on the mountain and you still get most of a day in Hangzhou. Our [Hangzhou to Moganshan](/getting-here/from-hangzhou/) page covers both directions. Xiaoshan is the airport at this end.
 
-TODO: verify Hangzhou sights and Xiaoshan transfer times.
+Not confirmed: Hangzhou sights and Xiaoshan transfer times.
 
 ## Running it in reverse
 
@@ -118,7 +118,7 @@ Backwards works just as well. Both legs are identical either way, so the choice 
 
 That third row is the one people ask about most. The order works, but you cross the same ground twice, and the Shanghai to Hangzhou leg is outside our measured set.
 
-TODO: verify Shanghai Hongqiao to Hangzhou East journey time and frequency.
+Not confirmed: Shanghai Hongqiao to Hangzhou East journey time and frequency.
 
 ## Visas: the 240-hour rule
 

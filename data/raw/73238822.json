@@ -1,0 +1,81 @@
+{
+  "id": 73238822,
+  "name": "Moganshan 6373 RV Park",
+  "seedName": "Moganshan 6373 RV Park",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-73238822",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=73238822&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-73238822&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment & Location:Praised for serene, clean surroundings, proximity to Moganshan Scenic Area, and access to green spaces for outdoor activities . Facilities:Equipped with complete amenities , entertainment options , and free breakfast.(based on 1 review) Family-Friendly Features:Suitable for children with nearby playgrounds, safe environments, and activities like rafting. Value for Money:Considered cost-effective compared to traditional hotels, with positive feedback on overall experience.(based on 2 reviews) Guest Suggestion:Some customers suggest improving room facilities maintenance (e.g., noisy toilets, leaking showerheads), providing clean towels, and basic amenities such as soap and slippers.(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Praised for serene, clean surroundings, proximity to Moganshan Scenic Area, and access to green spaces for outdoor activities . Facilities:Equipped with complete amenities , entertainment options , and free breakfast.",
+        "count": 1
+      },
+      {
+        "topic": "Family-Friendly Features",
+        "text": "Suitable for children with nearby playgrounds, safe environments, and activities like rafting. Value for Money:Considered cost-effective compared to traditional hotels, with positive feedback on overall experience.",
+        "count": 2
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving room facilities maintenance (e.g., noisy toilets, leaking showerheads), providing clean towels, and basic amenities such as soap and slippers.",
+      "count": 2
+    }
+  },
+  "address": "No. 50, Shengtangtou, Wusi Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$47",
+  "facilities": [
+    "Bar",
+    "Restaurant",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/73238822/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6912000bls6sau0B09.jpg"
+    },
+    {
+      "src": "/images/stays/73238822/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5b12000blsaqxb98CE.webp"
+    },
+    {
+      "src": "/images/stays/73238822/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0580u12000sp2dy0z8C76.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "It was a very nice experience! Me and my husband loved it, so the pets. For the ones looking for a very chill and calm weekend , also not too far from Hangzhou, it is perfect.",
+      "author": "Dani in China",
+      "date": "2024-06-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=73238822&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-73238822&trip_sub3=D19127628"
+    },
+    {
+      "quote": "We arrived at 8pm. The receptionist was friendly and told us how to use the door access control. The room was clean and tidy! It was a very good RV experience. I will stay here again next time.",
+      "author": "Guest User",
+      "date": "2024-05-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=73238822&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-73238822&trip_sub3=D19127628"
+    },
+    {
+      "quote": "On the third day of the * New Year, I suddenly decided to go to Moganshan. I found that the local hotel rooms were full, and the RV camp that I had been paying attention to was still the same...",
+      "author": "Jun-xiaojun",
+      "date": "2024-02-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=73238822&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-73238822&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.3,
+    "count": 35,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:49:51.366Z",
+  "source": "trip"
+}

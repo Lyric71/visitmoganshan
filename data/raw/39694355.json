@@ -1,0 +1,83 @@
+{
+  "id": 39694355,
+  "name": "Qing Lian THE ONE·Mogan Mountain Homestay",
+  "seedName": "Qing Lian THE ONE·Mogan Mountain Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-39694355",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=39694355&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-39694355&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment & Location:Surrounded by mountains, a stream at the entrance, and proximity to natural attractions . The setting offers serene landscapes, bamboo bridges, and opportunities for water activities . Accommodation & Facilities:Clean rooms with good water pressure, individual air conditioning, and a well-maintained swimming pool. Some rooms feature lofts or unique decor, though insulation may be subpar.(based on 5 reviews) Services & Hospitality:Owners and staff are consistently described as warm, attentive, and helpful, with a focus on personalized care .(based on 7 reviews) Accessibility:The property is located in an undeveloped village, offering a tranquil escape, though nearby shops are limited.(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Surrounded by mountains, a stream at the entrance, and proximity to natural attractions . The setting offers serene landscapes, bamboo bridges, and opportunities for water activities . Accommodation & Facilities:Clean rooms with good water pressure, individual air conditioning, and a well-maintained swimming pool. Some rooms feature lofts or unique decor, though insulation may be subpar.",
+        "count": 5
+      },
+      {
+        "topic": "Hospitality",
+        "text": "Owners and staff are consistently described as warm, attentive, and helpful, with a focus on personalized care .",
+        "count": 7
+      },
+      {
+        "topic": "Accessibility",
+        "text": "The property is located in an undeveloped village, offering a tranquil escape, though nearby shops are limited.",
+        "count": 2
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Yangwan, Fotang Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$95",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/39694355/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201g1200092xa2toE5F9.jpg"
+    },
+    {
+      "src": "/images/stays/39694355/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200y1200092xafjcC4DA.webp"
+    },
+    {
+      "src": "/images/stays/39694355/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200c15000000xr1hd52D9.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Super friendly owners. 400 meters away from the guest house is a long walking path uphill. Went about 40 minutes one way, and end was nowhere to be seen. Shower has good water pressure and instantly hot water. Individual AC...",
+      "author": "Guest User",
+      "date": "2023-09-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=39694355&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-39694355&trip_sub3=D19127628"
+    },
+    {
+      "quote": "We had an amazing 3 nights stay at 'The One' guest house. The lodge is impeccably neat and tidy with an exquisite view of the hills and valleys. There is a bridge over the river that transports you into another...",
+      "author": "VILIAM CIBIK",
+      "date": "2023-09-18",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=39694355&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-39694355&trip_sub3=D19127628"
+    },
+    {
+      "quote": "After three years, my girlfriends and I can get together for New Year's Eve. We chose a homestay with a very lively atmosphere. The boss and his wife are really nice. They waited for us to set off fireworks on...",
+      "author": "Tujinjin",
+      "date": "2024-01-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=39694355&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-39694355&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 10,
+    "count": 19,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:00:24.443Z",
+  "source": "trip"
+}

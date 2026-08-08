@@ -1,0 +1,95 @@
+{
+  "id": 2257815,
+  "name": "HOWOOLIFE",
+  "seedName": "HOWOOLIFE",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-2257815",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2257815&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2257815&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Situated in a peaceful village/natural setting, offering proximity to scenic spots, hiking trails, and mountain views.(based on 2 reviews) Rooms:Clean, spacious, and well-maintained with comfortable beds, wooden decor, and essential amenities .(based on 20 reviews) Service:Friendly and attentive hosts/guest services, with helpful travel advice and prompt assistance.(based on 20 reviews) Facilities:Includes clean swimming pools, hot springs , and simple yet sufficient breakfast options featuring local specialties.(based on 7 reviews) Environment:Serene, nature-immersive atmosphere with bamboo forests, open-air spaces, and family-friendly activities for children. Guest Suggestion: Some customers suggest the wooden furniture has a strong smell, the rooms look different from photos, and there is noticeable noise in the area.(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Situated in a peaceful village/natural setting, offering proximity to scenic spots, hiking trails, and mountain views.",
+        "count": 2
+      },
+      {
+        "topic": "Rooms",
+        "text": "Clean, spacious, and well-maintained with comfortable beds, wooden decor, and essential amenities .",
+        "count": 20
+      },
+      {
+        "topic": "Service",
+        "text": "Friendly and attentive hosts/guest services, with helpful travel advice and prompt assistance.",
+        "count": 20
+      },
+      {
+        "topic": "Facilities",
+        "text": "Includes clean swimming pools, hot springs , and simple yet sufficient breakfast options featuring local specialties.",
+        "count": 7
+      },
+      {
+        "topic": "Environment",
+        "text": "Serene, nature-immersive atmosphere with bamboo forests, open-air spaces, and family-friendly activities for children. Guest Suggestion: Some customers suggest the wooden furniture has a strong smell, the rooms look different from photos, and there is noticeable noise in the area.",
+        "count": 2
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 52, Xiwuli, Houwu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$68",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Bar",
+    "Billiards room",
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/2257815/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2b12000ankpr5j9307.jpg"
+    },
+    {
+      "src": "/images/stays/2257815/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3v12000ekhfp8s71CD.webp"
+    },
+    {
+      "src": "/images/stays/2257815/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1f12000anfsj1i060E.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Perched on the mountainside, the hotel offers expansive and incredibly pleasant views. The service is top-notch, with staff always going the extra mile for guests. We had a very comfortable stay and would definitely consider returning on our next visit.",
+      "author": "AlstonG",
+      "date": "2025-06-08",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2257815&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2257815&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Quite pleased. We always choose this B&B whenever I take clients on vacation. It perfectly meets our standards for a relaxing stay.",
+      "author": "Guest User",
+      "date": "2025-05-26",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2257815&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2257815&trip_sub3=D19127628"
+    },
+    {
+      "quote": "This place has a wonderfully unique mountain home feel. Perched on the mountain, it offers breathtaking views of the peaks across the valley. Having breakfast while enjoying that mountain panorama was pure bliss! Definitely worth a return visit!",
+      "author": "Guest User",
+      "date": "2025-02-07",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=2257815&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-2257815&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.6,
+    "count": 43,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:38:11.398Z",
+  "source": "trip"
+}

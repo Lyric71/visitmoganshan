@@ -1,0 +1,73 @@
+{
+  "id": 74009001,
+  "name": "Kashayan Lake B & B in Moganshan",
+  "seedName": "Kashayan Lake B & B in Moganshan",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-74009001",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=74009001&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-74009001&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness & Comfort:Guests consistently praised the cleanliness of rooms, bathrooms, and common areas, with attention to detail in maintenance and hygiene. Rooms are equipped with high-quality bedding and essential amenities, ensuring a restful stay.(based on 3 reviews) Ambiance & Environment:The setting is tranquil and serene, surrounded by natural scenery, trees, and mountains. The property’s design blends aesthetics with functionality, featuring artistic decor, greenery, and peaceful surroundings that contribute to a relaxing getaway.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Comfort",
+        "text": "Guests consistently praised the cleanliness of rooms, bathrooms, and common areas, with attention to detail in maintenance and hygiene. Rooms are equipped with high-quality bedding and essential amenities, ensuring a restful stay.",
+        "count": 3
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 51, Fangshan Village, Daixi, Wuxing, Deqing, Zhejiang, China",
+  "priceRange": "From US$73",
+  "facilities": [
+    "Bar",
+    "Cardroom",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/74009001/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0k12000bcuc5bgFE1C.jpg"
+    },
+    {
+      "src": "/images/stays/74009001/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3112000bcu1336F909.webp"
+    },
+    {
+      "src": "/images/stays/74009001/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5m12000bcu789b67AA.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "This is a very inn/bed&breakfast to stay. The host (Mr. Wang) is very kind, considerate, polite, generous and hospitable. He granted all our special requests (buying cakes, wines and room toiletries). He even escorted us to the plaza by using...",
+      "author": "Vene_PH",
+      "date": "2024-02-25",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=74009001&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-74009001&trip_sub3=D19127628"
+    },
+    {
+      "quote": "This B&B is amazing! The environment is quiet, the rooms are clean and cozy, and the floor-to-ceiling windows open to mountain views. The housekeepers are attentive and prepare authentic breakfasts. Watching the stars on the terrace at night and falling...",
+      "author": "Guest User",
+      "date": "2025-09-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=74009001&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-74009001&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I took my kids on a relaxing summer trip to Moganshan. The entrance was stunning. The pool was huge, easily accommodating many people. There were also plenty of lifebuoys, both large and small. The kids played in the pool for...",
+      "author": "ZERO620",
+      "date": "2025-09-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=74009001&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-74009001&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 52,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:21:02.761Z",
+  "source": "trip"
+}

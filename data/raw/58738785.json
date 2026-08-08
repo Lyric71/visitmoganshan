@@ -1,0 +1,95 @@
+{
+  "id": 58738785,
+  "name": "Moyu Shanju Resort Villa",
+  "seedName": "Moyu Shanju Resort Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-58738785",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=58738785&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-58738785&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Excellent proximity to Yucun Village, Moganshan Scenic Area, and the Moganshan Tourism Distribution Center .(based on 14 reviews) Service:Hosts are consistently described as warm, attentive, and helpful .(based on 42 reviews) Cleanliness:Rooms, bathrooms, and outdoor areas are repeatedly praised for being spotless and well-maintained.(based on 36 reviews) Facilities:Features include clean swimming pools, game rooms , children’s play areas , and barbecue setups.(based on 11 reviews) Family/Pet-Friendly:Suitable for families with children and pets . Breakfast:Complimentary and abundant, often including local specialties like porridge and small meat buns.(based on 17 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Excellent proximity to Yucun Village, Moganshan Scenic Area, and the Moganshan Tourism Distribution Center .",
+        "count": 14
+      },
+      {
+        "topic": "Service",
+        "text": "Hosts are consistently described as warm, attentive, and helpful .",
+        "count": 42
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms, bathrooms, and outdoor areas are repeatedly praised for being spotless and well-maintained.",
+        "count": 36
+      },
+      {
+        "topic": "Facilities",
+        "text": "Features include clean swimming pools, game rooms , children’s play areas , and barbecue setups.",
+        "count": 11
+      },
+      {
+        "topic": "Pet-Friendly",
+        "text": "Suitable for families with children and pets . Breakfast:Complimentary and abundant, often including local specialties like porridge and small meat buns.",
+        "count": 17
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 41, Ganjia Village, Liaoyuan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$61",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant",
+    "Water park",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/58738785/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/020691200081wjqfaF07A.jpg"
+    },
+    {
+      "src": "/images/stays/58738785/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20061h000001hlpog960F.webp"
+    },
+    {
+      "src": "/images/stays/58738785/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0r12000em6s43w09E7.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Some of the friendliest and most caring people we met throughout our trip through China! We loved and enjoyed our stay and the family running the accommodation was always trying to make our stay as pleasant as possible. Very clean...",
+      "author": "Guest User",
+      "date": "2026-08-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=58738785&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-58738785&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Hosts are amazing people, so nice and friendly! Breakfast was good, room is super clean and everything was really great! It was our second time here and we definitely plan to come back! ❤️",
+      "author": "Guest User",
+      "date": "2026-05-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=58738785&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-58738785&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Nice and quiet but walking distance to the town centre. The couple managing it is very friendly and extremely helpful. No restaurant but nice and copious breakfast (congee with buns etc)",
+      "author": "Jean-Luc Karlin",
+      "date": "2026-04-12",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=58738785&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-58738785&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 64,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:57:55.517Z",
+  "source": "trip"
+}

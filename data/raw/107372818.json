@@ -8,6 +8,36 @@
   "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=107372818&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-107372818&trip_sub3=D19127628",
   "sourceDescription": "",
   "aiSummary": "Review summary Powered by AI Environment Location:The location is excellent, close to attractions like Jiangnan Yaowu and Tianquan Mountain. The geographical position is convenient for visiting attractions and finding food.(based on 95 reviews) Decoration Style:The B&B has a unique and stylish decoration style, such as wabi-sabi style, simple yet elegant, which is in line with many users' aesthetic tastes. Facilities:Facilities are complete, with high-quality amenities like Appelles bath products, and there is a parking lot at the door.(based on 245 reviews) Service:The owner and his family are friendly and attentive, actively recommending attractions and providing detailed check-in guides and travel tips.(based on 366 reviews) Hygiene:The room is clean and tidy, and the overall hygiene is good, with no dust and a pleasant aroma.(based on 220 reviews) Breakfast:Breakfast is diverse, combining Chinese and Western styles, and is rich and delicious(based on 143 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment Location",
+        "text": "The location is excellent, close to attractions like Jiangnan Yaowu and Tianquan Mountain. The geographical position is convenient for visiting attractions and finding food.",
+        "count": 95
+      },
+      {
+        "topic": "Decoration Style",
+        "text": "The B&B has a unique and stylish decoration style, such as wabi-sabi style, simple yet elegant, which is in line with many users' aesthetic tastes. Facilities:Facilities are complete, with high-quality amenities like Appelles bath products, and there is a parking lot at the door.",
+        "count": 245
+      },
+      {
+        "topic": "Service",
+        "text": "The owner and his family are friendly and attentive, actively recommending attractions and providing detailed check-in guides and travel tips.",
+        "count": 366
+      },
+      {
+        "topic": "Hygiene",
+        "text": "The room is clean and tidy, and the overall hygiene is good, with no dust and a pleasant aroma.",
+        "count": 220
+      },
+      {
+        "topic": "Breakfast",
+        "text": "Breakfast is diverse, combining Chinese and Western styles, and is rich and delicious",
+        "count": 143
+      }
+    ],
+    "suggestion": null
+  },
   "address": "No. 23, Yaowu Village, Moganshan Town, Deqing, Zhejiang, China",
   "priceRange": "From US$90",
   "facilities": [
@@ -26,18 +56,6 @@
     {
       "src": "/images/stays/107372818/3.webp",
       "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6n12000b3kis11A1CC.webp"
-    },
-    {
-      "src": "/images/stays/107372818/4.webp",
-      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1f12000b3kdarnE210.webp"
-    },
-    {
-      "src": "/images/stays/107372818/5.webp",
-      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2e12000b3kh9urEF49.webp"
-    },
-    {
-      "src": "/images/stays/107372818/6.webp",
-      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1712000b3kknjyF924.webp"
     }
   ],
   "comments": [
@@ -68,6 +86,6 @@
     "count": 665,
     "scale": 10
   },
-  "sourcedAt": "2026-08-08T13:09:27.157Z",
+  "sourcedAt": "2026-08-08T13:46:46.758Z",
   "source": "trip"
 }

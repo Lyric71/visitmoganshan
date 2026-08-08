@@ -1,0 +1,76 @@
+{
+  "id": 7882340,
+  "name": "Stream Banks Private Hostel",
+  "seedName": "Stream Banks Private Hostel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-7882340",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=7882340&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-7882340&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service Quality:The hosts are consistently described as warm, attentive, and helpful, offering recommendations for local attractions, meals, and even assisting with luggage. Their hospitality contributes to a welcoming, almost homelike atmosphere.(based on 12 reviews) Cleanliness & Maintenance:Rooms are praised for being exceptionally clean, well-organized, and regularly maintained. Guests highlight the thorough attention to hygiene, including fresh bedding, spotless bathrooms, and overall cleanliness of the premises.(based on 8 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service Quality",
+        "text": "The hosts are consistently described as warm, attentive, and helpful, offering recommendations for local attractions, meals, and even assisting with luggage. Their hospitality contributes to a welcoming, almost homelike atmosphere.",
+        "count": 12
+      },
+      {
+        "topic": "Maintenance",
+        "text": "Rooms are praised for being exceptionally clean, well-organized, and regularly maintained. Guests highlight the thorough attention to hygiene, including fresh bedding, spotless bathrooms, and overall cleanliness of the premises.",
+        "count": 8
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Houhong, Nanlu Village, Moganshan Town, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$62",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/7882340/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200m0u000000j5ax2141D.jpg"
+    },
+    {
+      "src": "/images/stays/7882340/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1j12000jzfidbsF006.webp"
+    },
+    {
+      "src": "/images/stays/7882340/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1e12000okazanrBE9A.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "民宿主人非常熱情，看到我們有小朋友入住，主動幫我們升房，房間非常乾淨安靜，開窗就可以見到遠山，下樓就可以在家門口的小溪玩水，還有資深釣魚者早早就過來釣魚，樓下自己種的菜讓長者很是羨慕。離玩水網紅地魚鱗壩開車5分鐘到，很方便。很好的一次住宿體驗，推薦",
+      "author": "Guest User",
+      "date": "2026-06-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=7882340&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-7882340&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿乾淨且安靜。入住比較晚。老闆很耐心的等我們到。還給升級了房間。睡的很舒服。民宿院子口有小溪，可以釣魚，溯溪，露營。咖啡也不錯。是個可多住幾次的地方",
+      "author": "Guest User",
+      "date": "2026-06-15",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=7882340&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-7882340&trip_sub3=D19127628"
+    },
+    {
+      "quote": "為了小溪而來，果然不失望～～名宿停車場小鐵門出去就是小溪啦，有淺有深，還有好多看得到撈不到的小魚在你面前游來游去。民宿總體衞生乾淨，剛進去房間感覺有點沒通風的味，自己通下風就好了。我比較在意的洗澡水也挺大，温度也不難調控～。老闆老闆娘都特別熱情，有什麼問題他們馬上幫忙解決～～～一家人都玩的很開心，尤其小孩子，心心念唸的小溪是玩了一整天，心滿意足。唯一美中不足是晚上村裡不知道誰家的狗，一直叫喚，就自己幹叫叫到大半夜…",
+      "author": "Guest User",
+      "date": "2025-07-15",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=7882340&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-7882340&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 20,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:59:23.630Z",
+  "source": "trip"
+}

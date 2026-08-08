@@ -1,0 +1,76 @@
+{
+  "id": 71325325,
+  "name": "Moganshan Yuhua Xiaozhu · Su-style Garden Swimming Pool Lawn Vacation Apartment",
+  "seedName": "Moganshan Yuhua Xiaozhu · Su-style Garden Swimming Pool Lawn Vacation Apartment",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-71325325",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=71325325&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-71325325&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness and Maintenance:Rooms, bathrooms, and public areas were consistently described as spotless, with particular emphasis on the cleanliness of the swimming pool and bedding. Guests noted the absence of hygiene issues and well-maintained facilities.(based on 14 reviews) Catering and Food:The on-site dining options, including home-cooked meals by the hosts, were highly appreciated for their freshness and flavor. Special dishes like Dongpo pork and locally sourced ingredients were frequently mentioned as highlights.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Cleanliness and Maintenance",
+        "text": "Rooms, bathrooms, and public areas were consistently described as spotless, with particular emphasis on the cleanliness of the swimming pool and bedding. Guests noted the absence of hygiene issues and well-maintained facilities.",
+        "count": 14
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 12, Yuhualing, Sanqiao Village, Deqing, Zhejiang, China",
+  "priceRange": "From US$79",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Bar",
+    "Cardroom",
+    "Restaurant",
+    "Karaoke",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/71325325/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6b12000satf81aC868.jpg"
+    },
+    {
+      "src": "/images/stays/71325325/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4112000say37p70A0D.webp"
+    },
+    {
+      "src": "/images/stays/71325325/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6u12000saxnqpl08E1.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "下午來到魚花小駐民宿，老闆非常熱情，又幫拿行李，又泡了當地的“莫幹黃芽”茶。晚上的菜非常好吃，蔬菜都是民宿自己的純天然蔬菜，白天比較熱，晚上非常涼快……非常好的一家民宿",
+      "author": "Guest User",
+      "date": "2026-08-04",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=71325325&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-71325325&trip_sub3=D19127628"
+    },
+    {
+      "quote": "老闆服務熱情，還給我們準備了晚餐。房間很乾凈，酒店環境有氛圍感，可以體會到山中生活的愜意，下次還會考慮入住。",
+      "author": "Guest User",
+      "date": "2026-08-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=71325325&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-71325325&trip_sub3=D19127628"
+    },
+    {
+      "quote": "五一來莫干山遊玩，入住的魚花小駐民宿體驗感特別好！到了民宿老闆娘非常熱心的幫忙拎行李，見我們家是兩個大孩子，主動幫我們升級房間，客房一下子大了一半，並且收拾得乾淨整潔，住着格外舒心。老闆和老闆娘待人十分熱情親切，老闆娘還兼任廚師長，做的飯菜味道地道可口，吃起來暖心又暖胃，老闆泡的紅茶也格外的香。民宿庭院環境雅緻，綠植長勢繁茂，打理的生機勃勃，滿眼清新綠意。休閑設施配備齊全，有小酒吧可以開party。足球籃球乒乓球桌球羽毛球一應俱全，孩子們玩的很盡興，性價比很高，是莫干山度假優選民宿。",
+      "author": "Guest User",
+      "date": "2026-05-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=71325325&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-71325325&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 10,
+    "count": 89,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:46:53.799Z",
+  "source": "trip"
+}

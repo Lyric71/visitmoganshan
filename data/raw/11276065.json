@@ -1,0 +1,87 @@
+{
+  "id": 11276065,
+  "name": "Renli Dieyun Hot spring Holiday Hotel",
+  "seedName": "Renli Dieyun Hot spring Holiday Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-11276065",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=11276065&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-11276065&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:The hotel is conveniently located near Yu Village and Mogan Mountain, making it easy to access local attractions, hiking trails, and restaurants. The serene mountain environment offers guests a peaceful retreat with stunning views of greenery.(based on 19 reviews) Service:The staff is often commended for exceptional service, with guests noting pre-arrival communication, travel guidance, and attentive care. The dedicated butler service further enhances the personalized experience.(based on 46 reviews) Cleanliness:Guests frequently mention the cleanliness of the rooms and facilities, noting fresh linens and well-maintained environments. The overall hygiene standards are highly regarded, contributing to a comfortable and pleasant stay.(based on 22 reviews) Facilities:The hotel offers a range of facilities including a swimming pool, hot springs, and recreational activities like board games and karaoke. Guests appreciate the availability of parking and the thoughtful design elements throughout the property.(based on 15 reviews) Food:Breakfast is often highlighted as delicious and healthy, with some guests mentioning specific standout items like eggs",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "The hotel is conveniently located near Yu Village and Mogan Mountain, making it easy to access local attractions, hiking trails, and restaurants. The serene mountain environment offers guests a peaceful retreat with stunning views of greenery.",
+        "count": 19
+      },
+      {
+        "topic": "Service",
+        "text": "The staff is often commended for exceptional service, with guests noting pre-arrival communication, travel guidance, and attentive care. The dedicated butler service further enhances the personalized experience.",
+        "count": 46
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Guests frequently mention the cleanliness of the rooms and facilities, noting fresh linens and well-maintained environments. The overall hygiene standards are highly regarded, contributing to a comfortable and pleasant stay.",
+        "count": 22
+      },
+      {
+        "topic": "Facilities",
+        "text": "The hotel offers a range of facilities including a swimming pool, hot springs, and recreational activities like board games and karaoke. Guests appreciate the availability of parking and the thoughtful design elements throughout the property.",
+        "count": 15
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 24, Mogaowu, Liaoyuan Village, Deqing, Zhejiang, China",
+  "priceRange": "From US$114",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/11276065/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6z12000pinjv3wA33D.jpg"
+    },
+    {
+      "src": "/images/stays/11276065/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6c12000pimvyqxCCBE.webp"
+    },
+    {
+      "src": "/images/stays/11276065/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0e12000pin2i9v59C4.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Very cozy and warm place. Friendly staff and welcoming. Breakfast was nice too! Just a few minutes away from the city center.",
+      "author": "Michael6841",
+      "date": "2026-04-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=11276065&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-11276065&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The place is really nice. Everything was clean and comfortable. It has beautiful views and the location is very convenient. The staff made it especially nice. They are so friendly and go the extra mile. They made my birthday weekend...",
+      "author": "Guest User",
+      "date": "2025-06-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=11276065&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-11276065&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Very cozy and warm place. Friendly staff and welcoming. Breakfast was nice too! Just a few minutes away from the city center.",
+      "author": "Michael6841",
+      "date": "2026-04-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=11276065&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-11276065&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 78,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:09:24.483Z",
+  "source": "trip"
+}

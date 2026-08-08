@@ -1,0 +1,64 @@
+{
+  "id": 118910771,
+  "name": "Moganshan Dream Homestay",
+  "seedName": "Moganshan Dream Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-118910771",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=118910771&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-118910771&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Dream Homestay?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 23, Hou Village, Liaoyuan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$58",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/118910771/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4r12000dpltmqk479F.jpg"
+    },
+    {
+      "src": "/images/stays/118910771/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4h12000dplommx0707.webp"
+    },
+    {
+      "src": "/images/stays/118910771/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6312000dplqv3s485F.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "民宿老闆人特別周到細心，特別靠譜貼心。不僅主動幫我們規劃好了遊玩路線，還熱情推薦了當地地道美食，省心又舒服。隨手拍了幾張美食圖，味道品相都超讚，體驗感直接拉滿",
+      "author": "Kurama",
+      "date": "2026-05-14",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=118910771&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-118910771&trip_sub3=D19127628"
+    },
+    {
+      "quote": "整體環境特別棒，房間很大很寬敞，而且離庾村廣場很近，可以免費停車，民宿老闆的服務也很好，早上阿姨還準備了美味的早餐😋推薦推薦！！！",
+      "author": "Guest User",
+      "date": "2026-04-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=118910771&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-118910771&trip_sub3=D19127628"
+    },
+    {
+      "quote": "越野賽住的酒店，性價比不錯。服務員瞭解比賽的訴求，會做相應的安排。整體真的很方便，去起點非常近。周圍有狗狗，很好玩。",
+      "author": "Xiaomamiao",
+      "date": "2026-04-16",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=118910771&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-118910771&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 35,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:46:28.559Z",
+  "source": "trip"
+}

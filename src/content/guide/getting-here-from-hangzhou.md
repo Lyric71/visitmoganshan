@@ -34,6 +34,10 @@ Here is the part that guides leave out. The train is the easy leg. Everything af
 | Deqing station to Moganshan town, taxi or van | about 30 min | about RMB 100 | No schedule, negotiate on arrival |
 | Central Hangzhou to Moganshan, car | about 1.5 hours | Varies by operator | 60 to 63 km |
 
+<div class="vm-ad vm-ad--leaderboard" role="region" aria-label="Advertisement, scrollable horizontally" tabindex="0">
+  <iframe border="0" src="https://www.trip.com/partners/ad/SB19143938?Allianceid=9859697&SID=327673690&trip_sub1=trains-hz-dq" style="width:728px;height:90px" frameborder="0" scrolling="no" style="border:none" id="SB19143938"></iframe>
+</div>
+
 ## The train, step by step
 
 ### 1. Get to Hangzhou East
@@ -75,6 +79,10 @@ Round the car figure to about 90 minutes and you will not be far off. That is th
 
 Rail is not faster than driving on this route. It is often cheaper, and it is immune to weekend traffic, which matters more than the clock does.
 
+<div class="vm-ad vm-ad--leaderboard" role="region" aria-label="Advertisement, scrollable horizontally" tabindex="0">
+  <iframe border="0" src="https://www.trip.com/partners/ad/SB19143938?Allianceid=9859697&SID=327673690&trip_sub1=trains-hz-dq" style="width:728px;height:90px" frameborder="0" scrolling="no" style="border:none" id="SB19143938"></iframe>
+</div>
+
 ## By car or private driver
 
 The road distance is 60 to 63 km and the drive takes about an hour and a half. For two people with luggage, a car usually wins on convenience.
@@ -88,6 +96,10 @@ Timing is the catch. Weekends and public holidays load this route heavily. Over 
 Private vehicles cannot drive inside the scenic area. You transfer to local transport at one of three transfer centers: Yucun, Fatou or Houwu. They operate from 08:00 to 18:00.
 
 This is rarely stated in English-language sources, and it changes how you pack. Arriving after 18:00 with a car full of bags is a problem you can avoid by knowing about it in advance. Our page on [getting around Moganshan](/getting-here/getting-around/) covers the transfer centers and what runs between them.
+
+<div class="vm-ad vm-ad--leaderboard" role="region" aria-label="Advertisement, scrollable horizontally" tabindex="0">
+  <iframe border="0" src="https://www.trip.com/partners/ad/SB19143938?Allianceid=9859697&SID=327673690&trip_sub1=trains-hz-dq" style="width:728px;height:90px" frameborder="0" scrolling="no" style="border:none" id="SB19143938"></iframe>
+</div>
 
 ## From Hangzhou Xiaoshan Airport
 

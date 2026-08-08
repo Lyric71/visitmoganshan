@@ -1,0 +1,84 @@
+{
+  "id": 129458616,
+  "name": "Junde Li Mogan Club",
+  "seedName": "Junde Li Mogan Club",
+  "city": "Huzhou",
+  "cityId": 86,
+  "goSlug": "moganshan-129458616",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=129458616&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-129458616&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:Features beautiful bamboo forests, lawns, and an infinity pool, creating a serene and picturesque setting. The location is convenient near attractions. (based on 13 reviews) Facilities:Equipped with complete amenities like an infinity pool, children's slides, and well-decorated rooms. (based on 37 reviews) Service:Staff are attentive, helping with luggage, arranging transportation, and providing assistance. (based on 33 reviews) Room:Rooms are clean, tidy, and have comfortable bedding, ensuring a pleasant stay.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Features beautiful bamboo forests, lawns, and an infinity pool, creating a serene and picturesque setting. The location is convenient near attractions.",
+        "count": 13
+      },
+      {
+        "topic": "Facilities",
+        "text": "Equipped with complete amenities like an infinity pool, children's slides, and well-decorated rooms.",
+        "count": 37
+      },
+      {
+        "topic": "Service",
+        "text": "Staff are attentive, helping with luggage, arranging transportation, and providing assistance.",
+        "count": 33
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 3, Tangzi, Fangshan Village, Daixi Town, Wuxing District, Huzhou, Zhejiang, China",
+  "priceRange": "From US$112",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Bar",
+    "2 Restaurants",
+    "Conference room",
+    "Multi-function room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/129458616/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3b12000nbfo0fz4431.jpg"
+    },
+    {
+      "src": "/images/stays/129458616/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1w12000qviwd1yF9DB.webp"
+    },
+    {
+      "src": "/images/stays/129458616/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4712000qvj6g5c0595.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The ambiance is just perfect, every casual shot looks like it's from a magazine. The soft furnishings are thoughtfully chosen, and the details are so charming. All the fatigue from traveling just melts away here.",
+      "author": "Guest User",
+      "date": "2026-07-23",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=129458616&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-129458616&trip_sub3=D19127628"
+    },
+    {
+      "quote": "It was very clean, and the service was warm and attentive, especially the owner. They even gave us a small gift, which was a nice touch. I'll definitely come back next time.",
+      "author": "Guest User",
+      "date": "2026-06-25",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=129458616&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-129458616&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Beautiful surroundings, comfortable rooms, very satisfied! 👍 Will definitely come again! 👍👍👍",
+      "author": "Guest User",
+      "date": "2026-06-25",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=129458616&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-129458616&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 82,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:55:46.908Z",
+  "source": "trip"
+}

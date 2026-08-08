@@ -131,6 +131,19 @@ function sentences(text) {
     .filter((s) => s.split(' ').length >= 8);
 }
 
+/**
+ * Properties whose researched article absorbed them. Those entries render no
+ * page of their own, so they are not asked for a description or a note; the
+ * article is both. Read straight from the guide frontmatter rather than a
+ * second list, so the two cannot drift.
+ */
+const GUIDE_DIR = 'src/content/guide';
+const absorbed = new Set();
+for (const file of (await readdir(GUIDE_DIR).catch(() => [])).filter((f) => f.endsWith('.md'))) {
+  const parsed = splitFrontmatter(await readFile(path.join(GUIDE_DIR, file), 'utf8'));
+  if (parsed?.data?.stay_id) absorbed.add(parsed.data.stay_id);
+}
+
 const files = (await readdir(COLLECTION_DIR).catch(() => [])).filter((f) => f.endsWith('.md'));
 const byStatus = { draft: 0, published: 0 };
 const byTier = { A: 0, B: 0, C: 0 };
@@ -173,9 +186,12 @@ for (const file of files) {
     }
   }
 
-  // Description
+  // Description. Not required of a property an article already covers.
+  const isAbsorbed = absorbed.has(data.id);
   const length = (data.description ?? '').length;
-  if (length < 200 || length > 900) note(`description is ${length} characters, not 200 to 900`);
+  if (!isAbsorbed && (length < 200 || length > 900)) {
+    note(`description is ${length} characters, not 200 to 900`);
+  }
 
   const rawFile = path.join(RAW_DIR, `${data.id}.json`);
   if (await exists(rawFile)) {
@@ -188,7 +204,7 @@ for (const file of files) {
   }
 
   // Note
-  if (!data.note || data.note.length < 20) note('no honest note');
+  if (!isAbsorbed && (!data.note || data.note.length < 20)) note('no honest note');
 
   // Comments
   if (!Array.isArray(data.comments) || data.comments.length !== 3) {
@@ -232,6 +248,10 @@ for (const file of files) {
       }
       await new Promise((resolve) => setTimeout(resolve, 1500));
     }
+  }
+
+  if (isAbsorbed && data.status !== 'published') {
+    note('absorbed by an article but not published, so the article shows no gallery');
   }
 
   const status = data.status ?? 'draft';

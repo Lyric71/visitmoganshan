@@ -1,0 +1,93 @@
+{
+  "id": 1103130,
+  "name": "Floral Hotel · Yi Jia Mogan Mountain hotel",
+  "seedName": "Floral Hotel · Yi Jia Mogan Mountain hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1103130",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1103130&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1103130&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment and Location:Located near scenic areas like Biwu Longtan Scenic Area, with quiet surroundings, close to attractions such as Cangshi Coffee Shop and the scenic area entrance. The environment is pleasant with bamboo forests and natural views.(based on 26 reviews) Facilities:Equipped with complete entertainment facilities like swimming pools, billiards, table tennis; rooms are spacious, clean, some with balconies or skylights, and there are charging stations.(based on 19 reviews) Service Quality:Owners are enthusiastic and hospitable, providing good service and travel suggestions.(based on 50 reviews) Hygiene:Rooms are clean and tidy, with good hygiene standards.(based on 41 reviews) Food:Delicious meals and fresh self-produced ingredients, including home-cooked dishes that are well-liked(based on 19 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment and Location",
+        "text": "Located near scenic areas like Biwu Longtan Scenic Area, with quiet surroundings, close to attractions such as Cangshi Coffee Shop and the scenic area entrance. The environment is pleasant with bamboo forests and natural views.",
+        "count": 26
+      },
+      {
+        "topic": "Facilities",
+        "text": "Equipped with complete entertainment facilities like swimming pools, billiards, table tennis; rooms are spacious, clean, some with balconies or skylights, and there are charging stations.",
+        "count": 19
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Owners are enthusiastic and hospitable, providing good service and travel suggestions.",
+        "count": 50
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Rooms are clean and tidy, with good hygiene standards.",
+        "count": 41
+      },
+      {
+        "topic": "Food",
+        "text": "Delicious meals and fresh self-produced ingredients, including home-cooked dishes that are well-liked",
+        "count": 19
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 69, Jiangnan Biwu, Moganshan Town, Deqing, Zhejiang, 313207, China",
+  "priceRange": "From US$58",
+  "facilities": [
+    "Billiards room",
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/1103130/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200116000000znllnE652.jpg"
+    },
+    {
+      "src": "/images/stays/1103130/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200r16000000z92jaE619.webp"
+    },
+    {
+      "src": "/images/stays/1103130/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200516000000zd1xv7AB2.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Great location, very close to Biwu Scenic Area, you can just walk there. We had two kids, and they even set up the sofa bed for us, which is perfect for families with both older and younger children. The only...",
+      "author": "Guest User",
+      "date": "2026-05-05",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1103130&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1103130&trip_sub3=D19127628"
+    },
+    {
+      "quote": "A very satisfying stay! The environment was quiet, perfect for a relaxing weekend getaway. The owner was very friendly, the food was delicious, and the kids loved it. I'll definitely stay here again! I left some things in the room...",
+      "author": "Guest User",
+      "date": "2026-03-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1103130&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1103130&trip_sub3=D19127628"
+    },
+    {
+      "quote": "This is a temporary decision, arrived at more than 8 pm, because it is in the mountains, originally thought dinner is a big problem, did not expect the boss couple also very enthusiastic for us to make a lot of...",
+      "author": "Beileyeelaine",
+      "date": "2026-02-21",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1103130&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1103130&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 129,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:52:04.650Z",
+  "source": "trip"
+}

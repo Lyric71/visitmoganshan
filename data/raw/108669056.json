@@ -1,0 +1,91 @@
+{
+  "id": 108669056,
+  "name": "Moganshan Moyao Homestay",
+  "seedName": "Moganshan Moyao Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-108669056",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=108669056&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-108669056&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment and Location:The location is excellent, close to scenic spots such as Jiangnan Yaowu Scenic Area, Mogan Mountain and Anji Hello Kitty. Some rooms have floor-to-ceilings to enjoy the view. There are many activities like bamboo forest speed car, rafting, etc.(based on 22 reviews) Hygiene:The rooms are clean and tidy, with good hygiene. The facilities are new.(based on 50 reviews) Facilities:The facilities are new and complete. The rooms are large with good lighting and ventilation.(based on 4 reviews) Service:The boss is enthusiastic, provides breakfast, recommends places for play and dining, and some offer pick-up services.(based on 50 reviews) Breakfast:The breakfast is delicious and rich, cooked by the boss or their family(based on 28 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment and Location",
+        "text": "The location is excellent, close to scenic spots such as Jiangnan Yaowu Scenic Area, Mogan Mountain and Anji Hello Kitty. Some rooms have floor-to-ceilings to enjoy the view. There are many activities like bamboo forest speed car, rafting, etc.",
+        "count": 22
+      },
+      {
+        "topic": "Hygiene",
+        "text": "The rooms are clean and tidy, with good hygiene. The facilities are new.",
+        "count": 50
+      },
+      {
+        "topic": "Facilities",
+        "text": "The facilities are new and complete. The rooms are large with good lighting and ventilation.",
+        "count": 4
+      },
+      {
+        "topic": "Service",
+        "text": "The boss is enthusiastic, provides breakfast, recommends places for play and dining, and some offer pick-up services.",
+        "count": 50
+      },
+      {
+        "topic": "Breakfast",
+        "text": "The breakfast is delicious and rich, cooked by the boss or their family",
+        "count": 28
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 48, Waiyaowu, Dayao Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$59",
+  "facilities": [
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/108669056/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5112000bi3eya81387.jpg"
+    },
+    {
+      "src": "/images/stays/108669056/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5112000bi3eya81387.webp"
+    },
+    {
+      "src": "/images/stays/108669056/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6b12000bi3gp4c323A.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "We stayed in the parent-child room in Room 203. It was super clean. With the windows open and lying on the bed, we could see the scenery of the scenic spots opposite. The noodles in the morning were delicious. We...",
+      "author": "Guest User",
+      "date": "2024-09-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=108669056&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-108669056&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I went out with my friends this time and had a very happy stay. The environment of the B&B is good and the sanitary environment is very clean. The boss is also very enthusiastic. He will tell us where to...",
+      "author": "Guest User",
+      "date": "2024-07-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=108669056&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-108669056&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The B&B is clean and tidy. The breakfast is cooked by the owner’s mother. It is delicious. The location is very good. Opposite the B&B is the Jiangnan Yaowu Scenic Area and is very close to Mogan Mountain and Anji...",
+      "author": "Guest User",
+      "date": "2024-06-18",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=108669056&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-108669056&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 86,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:55:06.494Z",
+  "source": "trip"
+}

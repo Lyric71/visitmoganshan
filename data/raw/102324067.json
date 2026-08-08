@@ -1,0 +1,76 @@
+{
+  "id": 102324067,
+  "name": "Moganshan and Water Hot Spring Holiday Beauty Villa",
+  "seedName": "Moganshan and Water Hot Spring Holiday Beauty Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-102324067",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=102324067&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-102324067&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Dining Experience:Breakfast options are varied and freshly prepared, with flexibility to adjust menus based on guest preferences. The hosts excel in cooking, offering highly praised meals, including barbecue services with professional support for group events.(based on 7 reviews) Accommodation Standards:Rooms are modern, clean, and well-equipped with essential amenities. The design incorporates natural elements like large windows overlooking bamboo groves, creating a peaceful, immersive environment.(based on 4 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Dining Experience",
+        "text": "Breakfast options are varied and freshly prepared, with flexibility to adjust menus based on guest preferences. The hosts excel in cooking, offering highly praised meals, including barbecue services with professional support for group events.",
+        "count": 7
+      },
+      {
+        "topic": "Accommodation Standards",
+        "text": "Rooms are modern, clean, and well-equipped with essential amenities. The design incorporates natural elements like large windows overlooking bamboo groves, creating a peaceful, immersive environment.",
+        "count": 4
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 58, Longli, Laoling Village, Moganshan, Deqing, Zhejiang, China",
+  "priceRange": "From US$571",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/102324067/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4x12000bv1s61a8CAE.jpg"
+    },
+    {
+      "src": "/images/stays/102324067/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0582i12000sozz6tw04C7.webp"
+    },
+    {
+      "src": "/images/stays/102324067/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4x12000bv1s61a8CAE.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "房間乾淨整潔，設施設備齊全，老闆娘特別熱心，時刻關注我們的需求並積極滿足，特別感謝老闆，朋友突然鬧肚子，老闆大半夜還幫我們去買葯，還有老闆的廚藝超級贊👍👍👍，建議去的小夥伴們直接在他家享受美食！",
+      "author": "Guest User",
+      "date": "2025-08-18",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=102324067&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-102324067&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間乾淨整潔，設施設備齊全，老闆娘特別熱心，時刻關注我們的需求並積極滿足，特別感謝老闆，朋友突然鬧肚子，老闆大半夜還幫我們去買葯，還有老闆的廚藝超級贊👍👍👍，建議去的小夥伴們直接在他家享受美食！",
+      "author": "Guest User",
+      "date": "2025-08-18",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=102324067&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-102324067&trip_sub3=D19127628"
+    },
+    {
+      "quote": "非常滿意，環境非常清幽，老闆人很好很熱情，特別適合一家人來住，價格在莫干山來説也不貴，下次還要再來，夏天應該體驗更佳，很滿意！！！",
+      "author": "Guest User",
+      "date": "2024-04-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=102324067&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-102324067&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 10,
+    "count": 12,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:06:45.076Z",
+  "source": "trip"
+}

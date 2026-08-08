@@ -1,0 +1,66 @@
+{
+  "id": 31431799,
+  "name": "wake up in moganshan·A Beautiful night in the forest",
+  "seedName": "wake up in moganshan·A Beautiful night in the forest",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-31431799",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=31431799&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-31431799&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at wake up in moganshan·A Beautiful night in the forest?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 45-1, Yuyingling Shisi Village, Duihekou, Deqing, Zhejiang, China",
+  "priceRange": "From US$72",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/31431799/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6z12000e8srhmjC222.jpg"
+    },
+    {
+      "src": "/images/stays/31431799/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6q12000bs1rd8n5E9C.webp"
+    },
+    {
+      "src": "/images/stays/31431799/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5v12000b8nhkz2538E.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The hotel is not that close to International Moganshan Scenery Park but with a car at hand one can drive for only 35 minutes to there. There is no restaurant inside as featured in the description. However it is all...",
+      "author": "Guest User",
+      "date": "2024-04-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=31431799&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-31431799&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Very good and nice hotel ! Super service, nice and quiet place",
+      "author": "Guest User",
+      "date": "2024-11-09",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=31431799&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-31431799&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Attentive host, beautiful location, nice hot springs, good Chinese breakfast. I’d recommend this place to stay and come back.",
+      "author": "Iana en Sh",
+      "date": "2023-11-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=31431799&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-31431799&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.3,
+    "count": 22,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:02:11.604Z",
+  "source": "trip"
+}

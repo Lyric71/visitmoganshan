@@ -1,0 +1,75 @@
+{
+  "id": 23923666,
+  "name": "Moganshan Siyen Tea Garden Boutique Stay",
+  "seedName": "Moganshan Siyen Tea Garden Boutique Stay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-23923666",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=23923666&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-23923666&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Value & Convenience:The hotel offers competitive pricing for its amenities and location, with free services like parking and access to nearby attractions. Some guests note the convenience of being near hiking trails and the overall cost-effectiveness of the stay.(based on 4 reviews) Guest Suggestion:Some customers suggest improving hot water temperature regulation, addressing slow drainage in bathrooms, and enhancing breakfast variety.(based on 1 review)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Convenience",
+        "text": "The hotel offers competitive pricing for its amenities and location, with free services like parking and access to nearby attractions. Some guests note the convenience of being near hiking trails and the overall cost-effectiveness of the stay.",
+        "count": 4
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving hot water temperature regulation, addressing slow drainage in bathrooms, and enhancing breakfast variety.",
+      "count": 1
+    }
+  },
+  "address": "Village Group 2, Meigaowu, Ziling Village, Deqing, Zhejiang, China",
+  "priceRange": "From US$72",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/23923666/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200y12000bo61c4qB7D2.jpg"
+    },
+    {
+      "src": "/images/stays/23923666/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5k12000esej2p2D438.webp"
+    },
+    {
+      "src": "/images/stays/23923666/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4512000esejyph1582.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Great for a get away from the big city. Breakfast is OK. Very quiet surroundings - love it!",
+      "author": "Patronisateur",
+      "date": "2025-08-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=23923666&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-23923666&trip_sub3=D19127628"
+    },
+    {
+      "quote": "It’s a great experience with Siyuan Team garden! The service lady is very friendly and helpful. The whole family had a wonderful weekend and enjoyed Mogan Mountain. After we checked out, the lady reminded us that it’s super hot outside...",
+      "author": "Guest User",
+      "date": "2025-07-07",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=23923666&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-23923666&trip_sub3=D19127628"
+    },
+    {
+      "quote": "My wife and I loved this hotel. Great view, amazing staff, and the food was better than most restaurants. It was very relaxing. A big thanks to Yaoyu, the manager, for always being helpful.",
+      "author": "Guest User",
+      "date": "2024-03-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=23923666&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-23923666&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 76,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:56:19.243Z",
+  "source": "trip"
+}

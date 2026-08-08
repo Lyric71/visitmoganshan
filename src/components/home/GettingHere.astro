@@ -1,13 +1,18 @@
 ---
 import SectionHead from '../SectionHead.astro';
+import OrientationStrip from './OrientationStrip.astro';
 
 /**
- * 6.10 Getting here. Four flat cards, no images.
+ * 6.10 Getting here. Four flat cards, no images, then the orientation strip.
  *
  * This is the module the whole second half exists for. The demand that exists
  * for this destination is logistical and it comes from people already in
  * Shanghai or Hangzhou, so these four links are worth more traffic than
- * anything above the divider.
+ * anything else on the page.
+ *
+ * The orientation strip used to be a band of its own. Two of its four figures
+ * are journey times, so it reads better closing this section than standing
+ * alone: the reader gets the routes, then the numbers.
  */
 const ROUTES = [
   { title: 'From Shanghai', sub: 'train, car, transfers', href: '/getting-here/from-shanghai' },
@@ -41,6 +46,7 @@ const ROUTES = [
         ))
       }
     </ul>
+    <OrientationStrip />
   </div>
 </section>
 

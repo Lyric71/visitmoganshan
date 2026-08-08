@@ -1,0 +1,101 @@
+{
+  "id": 5900803,
+  "name": "Mogan Mountain Yinhua Wu Hot Spring Resort Guesthouse",
+  "seedName": "Mogan Mountain Yinhua Wu Hot Spring Resort Guesthouse",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5900803",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5900803&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5900803&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment and Location:The hotel is surrounded by beautiful nature, such as bamboo forests, with fresh air, suitable for a relaxing getaway(based on 16 reviews) Facilities:It is equipped with complete entertainment facilities like swimming pools, billiards, table tennis, and karaoke(based on 51 reviews) Rooms:Rooms are spacious, bright, clean and tidy, with comfortable bedding(based on 114 reviews) Service:Staff are warm, welcoming and always ready to help(based on 85 reviews) Dining:Farmhouse dishes are delicious with fresh ingredients Family Activities:Suitable for family trips, with rich parent-child facilities making children have a good time(based on 26 reviews) Guest Suggestion:Some customers suggest improving sound insulation, addressing light intrusion from skylights, and ensuring automatic parking gate functionality for a better stay.(based on 4 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment and Location",
+        "text": "The hotel is surrounded by beautiful nature, such as bamboo forests, with fresh air, suitable for a relaxing getaway",
+        "count": 16
+      },
+      {
+        "topic": "Facilities",
+        "text": "It is equipped with complete entertainment facilities like swimming pools, billiards, table tennis, and karaoke",
+        "count": 51
+      },
+      {
+        "topic": "Rooms",
+        "text": "Rooms are spacious, bright, clean and tidy, with comfortable bedding",
+        "count": 114
+      },
+      {
+        "topic": "Service",
+        "text": "Staff are warm, welcoming and always ready to help",
+        "count": 85
+      },
+      {
+        "topic": "Dining",
+        "text": "Farmhouse dishes are delicious with fresh ingredients Family Activities:Suitable for family trips, with rich parent-child facilities making children have a good time",
+        "count": 26
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving sound insulation, addressing light intrusion from skylights, and ensuring automatic parking gate functionality for a better stay.",
+      "count": 4
+    }
+  },
+  "address": "No. 1, Xiwuli, Houwu Village, Deqing, Zhejiang, China",
+  "priceRange": "From US$84",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Bar",
+    "Restaurant",
+    "Cafe",
+    "Conference room",
+    "Multi-function room",
+    "Playground",
+    "Kids' club"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5900803/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2y12000dy1nsmcF7B9.jpg"
+    },
+    {
+      "src": "/images/stays/5900803/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3g12000droo8zx9418.webp"
+    },
+    {
+      "src": "/images/stays/5900803/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1612000qrh5z0zD7BC.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "I had the time of my life at Huzhou. This hotel was just want I needed to relax and get away from the busy city. I left feeling much better than when I arrived. It was the perfect get away,...",
+      "author": "Anonymous User",
+      "date": "2026-07-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5900803&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5900803&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I booked this through a live stream, and they promised a room upgrade. True to their word, when I checked in, I got an amazing mountain-view room on the highest floor. The B&B attendant even helped me carry my luggage...",
+      "author": "Guest User",
+      "date": "2026-07-08",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5900803&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5900803&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The B&B is nicely decorated, and the transportation is quite convenient. The room is very spacious, and the complimentary dinner was pretty good. Since it's the off-season, the surroundings are a bit too quiet with not many guests around.",
+      "author": "Guest User",
+      "date": "2026-06-17",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5900803&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5900803&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.2,
+    "count": 227,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:23:47.486Z",
+  "source": "trip"
+}

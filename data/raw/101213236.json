@@ -1,0 +1,89 @@
+{
+  "id": 101213236,
+  "name": "Moganshan Xinyuanju Resort Hotel",
+  "seedName": "Moganshan Xinyuanju Resort Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-101213236",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=101213236&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-101213236&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:The hotel is conveniently located near Mogan Mountain, making it easy for guests to explore nearby attractions. It is also situated in a picturesque area, surrounded by mountains and bamboo forests, providing a serene and beautiful environment.(based on 31 reviews) Service:The service is frequently praised for being attentive and professional, with 24-hour butler service and staff who are described as warm and accommodating. Guests appreciate the thoughtful assistance provided throughout their stay.(based on 80 reviews) Facilities:The hotel boasts a variety of facilities, including clean swimming pools, game rooms, and well-equipped public spaces. Additionally, the presence of a parking garage with charging stations for electric vehicles is noted as convenient.(based on 25 reviews) Room Quality:Rooms are described as spacious, clean, and tastefully decorated, often exceeding guests' expectations. The presence of modern amenities and thoughtful touches, such as complimentary snacks and drinks, enhances the stay experience.(based on 81 reviews) Dining:Guests frequently mention the quality of the food, with both breakfast and main meals being well",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "The hotel is conveniently located near Mogan Mountain, making it easy for guests to explore nearby attractions. It is also situated in a picturesque area, surrounded by mountains and bamboo forests, providing a serene and beautiful environment.",
+        "count": 31
+      },
+      {
+        "topic": "Service",
+        "text": "The service is frequently praised for being attentive and professional, with 24-hour butler service and staff who are described as warm and accommodating. Guests appreciate the thoughtful assistance provided throughout their stay.",
+        "count": 80
+      },
+      {
+        "topic": "Facilities",
+        "text": "The hotel boasts a variety of facilities, including clean swimming pools, game rooms, and well-equipped public spaces. Additionally, the presence of a parking garage with charging stations for electric vehicles is noted as convenient.",
+        "count": 25
+      },
+      {
+        "topic": "Room Quality",
+        "text": "Rooms are described as spacious, clean, and tastefully decorated, often exceeding guests' expectations. The presence of modern amenities and thoughtful touches, such as complimentary snacks and drinks, enhances the stay experience.",
+        "count": 81
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 66 Jimiaowu, Houwu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$205",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Bar",
+    "Cardroom",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/101213236/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3612000nurh165FA4B.jpg"
+    },
+    {
+      "src": "/images/stays/101213236/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3j12000nurzd3zA0A0.webp"
+    },
+    {
+      "src": "/images/stays/101213236/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2n12000nut1f68A8F7.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Had a fantastic stay! The front desk staff, especially the lady, was super friendly and had a wonderful attitude. The location is also excellent, very convenient if you're planning to drive to Moganshan. All in all, I had a great...",
+      "author": "Zhishipaojinriluoli",
+      "date": "2026-03-17",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=101213236&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-101213236&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Having stayed in many hotels and guesthouses in Moganshan, this was a perfect experience! If you're looking for a place to completely relax, this is definitely a five-star recommendation! The hotel is conveniently located by car, nestled deep within the...",
+      "author": "Xiangyeminsuren",
+      "date": "2025-12-17",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=101213236&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-101213236&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Before leaving, we confirmed with the B&B that they would allow us to bring our dog, free of charge. Thank you so much! 🙏 They have their own underground garage with charging stations and 24/7 housekeeping service, which is excellent!...",
+      "author": "Guest User",
+      "date": "2025-08-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=101213236&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-101213236&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 179,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:49:15.419Z",
+  "source": "trip"
+}

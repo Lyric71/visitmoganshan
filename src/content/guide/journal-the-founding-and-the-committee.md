@@ -60,7 +60,7 @@ The limit of what we hold is narrow enough to set out in full.
 | It was constituted by the residents themselves | Its officers, its dues, its powers, and how it enforced anything |
 | The Management Bureau took administration back in 1928 | Whether the association survived that in any form, and for how long |
 
-TODO: verify the association's constitution, membership rules and officers. Our research turned up the founding year and the meeting date and nothing of the paperwork behind them.
+Not confirmed: the association's constitution, membership rules and officers. Our research turned up the founding year and the meeting date and nothing of the paperwork behind them.
 
 That phrase, "the first Thursday of mid-August", is the record's wording rather than ours. It is a strange way to fix a date, and without the association's own text we cannot check what it counted from. What it does show is the shape of the season. The meeting sat in the worst of the heat because that was when the membership was on the mountain rather than in a city somewhere, working.
 
@@ -139,5 +139,5 @@ They had built for a span measured in generations. They got one generation and a
 
 This piece pulls one thread and leaves the others alone. [Moganshan's hill station](/moganshan/hill-station/) is the short account of the whole colonial period, and [the longer history](/moganshan/hill-station/history/) runs the chronology past 1949. If you would rather look at the evidence than read about it, [the walking tour](/moganshan/hill-station/walking-tour/) puts the surviving houses into an order that works on foot.
 
-*Dates and figures here follow the fact base compiled 1 to 5 August 2026, last checked 7 August 2026. Where published sources disagree, the range is printed rather than a single figure, and the TODO above stays until the association's own paperwork turns up.*
+*Dates and figures here follow the fact base compiled 1 to 5 August 2026, last checked 7 August 2026. Where published sources disagree, the range is printed rather than a single figure, and the gap flagged above stays open until the association's own paperwork turns up.*
 

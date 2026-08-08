@@ -1,0 +1,88 @@
+{
+  "id": 21161582,
+  "name": "Yucun Xiaozhu·Moganshan Garden Town B&B",
+  "seedName": "Yucun Xiaozhu·Moganshan Garden Town B&B",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-21161582",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=21161582&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-21161582&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:The hotel's location is highly praised for its convenience and proximity to attractions such as Yucun Square, local trendy cafes, and restaurants. Guests appreciate easy access to dining and exploration, as well as the peaceful environment despite ongoing renovations nearby.(based on 75 reviews) Service Quality:Service is frequently described as warm, attentive, and accommodating. Staff are noted for their friendliness, helpfulness, and prompt responses to guest requests. The hotel is also pet-friendly, enhancing its appeal to guests traveling with animals.(based on 65 reviews) Facilities:Guests value the spacious, clean loft-style rooms ideal for families, along with the swimming pool, ample parking, and tasteful, stylish decor throughout the property.(based on 80 reviews) Breakfast:Breakfast is generally well-received, with specific praise for dishes like scallion oil noodles. While some guests find it simple, the overall positive dining experience is appreciated.(based on 27 reviews) Cleanliness:Cleanliness is frequently commended, with rooms and communal areas maintained to a high standard. Guests have noted spotless rooms, fresh linens, an",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "The hotel's location is highly praised for its convenience and proximity to attractions such as Yucun Square, local trendy cafes, and restaurants. Guests appreciate easy access to dining and exploration, as well as the peaceful environment despite ongoing renovations nearby.",
+        "count": 75
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Service is frequently described as warm, attentive, and accommodating. Staff are noted for their friendliness, helpfulness, and prompt responses to guest requests. The hotel is also pet-friendly, enhancing its appeal to guests traveling with animals.",
+        "count": 65
+      },
+      {
+        "topic": "Facilities",
+        "text": "Guests value the spacious, clean loft-style rooms ideal for families, along with the swimming pool, ample parking, and tasteful, stylish decor throughout the property.",
+        "count": 80
+      },
+      {
+        "topic": "Breakfast",
+        "text": "Breakfast is generally well-received, with specific praise for dishes like scallion oil noodles. While some guests find it simple, the overall positive dining experience is appreciated.",
+        "count": 27
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 118 Huangfu East Road, Yu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$92",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Cafe",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/21161582/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201a120008iwhgtj0054.jpg"
+    },
+    {
+      "src": "/images/stays/21161582/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1d12000sta6kfy4169.webp"
+    },
+    {
+      "src": "/images/stays/21161582/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3412000soe8yx22521.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Facilities: A fantastic and beautiful B&B, the loft room was very spacious. Hygiene: Extremely clean. Environment: Convenient transportation, easy access to all attractions. Service: Very good, the拌面 (banmian - a type of mixed noodles) for breakfast was delicious. Highly recommend!!!",
+      "author": "Anonymous User",
+      "date": "2026-07-15",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=21161582&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-21161582&trip_sub3=D19127628"
+    },
+    {
+      "quote": "We were a family of four, plus our cat and dog, and the room was great. Plenty of outlets, and a large and small table, plus a tatami area, which was perfect for holding all our stuff, eating, playing cards,...",
+      "author": "Guest User",
+      "date": "2026-02-20",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=21161582&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-21161582&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Traveling with our little one, this place was perfect for the whole family. Having a suite is ideal with a baby, especially since they go to bed early – sharing one room can be a hassle. However, the air conditioning...",
+      "author": "Spider_girl🐯",
+      "date": "2025-11-14",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=21161582&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-21161582&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.3,
+    "count": 241,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:23:58.007Z",
+  "source": "trip"
+}

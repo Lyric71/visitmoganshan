@@ -1,0 +1,85 @@
+{
+  "id": 96193988,
+  "name": "Mogan Xinyueju",
+  "seedName": "Mogan Xinyueju",
+  "city": "Huzhou",
+  "cityId": 86,
+  "goSlug": "moganshan-96193988",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=96193988&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-96193988&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Accommodation & Facilities:Clean, spacious rooms with large windows offering mountain or bamboo forest views. Modern amenities and well-maintained facilities .(based on 3 reviews) Culinary Experience:Highly praised cooking by hosts, with fresh, flavorful dishes . Meals are described as \"delicious,\" \"authentic,\" and \"worthwhile.\" Service & Hospitality:Hosts are consistently described as warm, attentive, and helpful .(based on 36 reviews) Family-Friendly Features:Child-friendly amenities and a welcoming atmosphere for families.(based on 4 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Facilities",
+        "text": "Clean, spacious rooms with large windows offering mountain or bamboo forest views. Modern amenities and well-maintained facilities .",
+        "count": 3
+      },
+      {
+        "topic": "Culinary Experience",
+        "text": "Highly praised cooking by hosts, with fresh, flavorful dishes . Meals are described as \"delicious,\" \"authentic,\" and \"worthwhile.\" Service & Hospitality:Hosts are consistently described as warm, attentive, and helpful .",
+        "count": 36
+      },
+      {
+        "topic": "Family-Friendly Features",
+        "text": "Child-friendly amenities and a welcoming atmosphere for families.",
+        "count": 4
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 27-1, Xieziwei, Fangshan Village, Daixi Town, Wuxing District, Huzhou, Zhejiang, China",
+  "priceRange": "From US$112",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Hot springs",
+    "Cardroom",
+    "Conference room",
+    "Playground",
+    "Kids' club"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/96193988/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0202x120009n5v536673A.jpg"
+    },
+    {
+      "src": "/images/stays/96193988/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206i120009o0axe4BA9A.webp"
+    },
+    {
+      "src": "/images/stays/96193988/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0203z120009o0b6fo9B30.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "I really liked the hotel! Nice for a family with a kids. The view from the terrace to the mountains is amazing! The food is very tasty. We ate breakfast, lunch and dinner. The rooms are stylish. The owners of...",
+      "author": "PELKHAN",
+      "date": "2025-05-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=96193988&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-96193988&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Very cost-effective, suitable for traveling with the elderly and children, and also suitable for barbecuing with friends. We get along with the boss and his family like relatives and friends. The boss is calm and shy, the wife is lively...",
+      "author": "Wujian-taoyuan",
+      "date": "2024-09-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=96193988&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-96193988&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Last weekend, I took my family to Mogan Mountain for vacation and stayed at a B&B with a rating of 4.9. The experience exceeded expectations. It was really great! This B&B gives people a warm feeling of returning to their...",
+      "author": "Qxiaomian",
+      "date": "2024-08-27",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=96193988&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-96193988&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.4,
+    "count": 67,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:20:16.986Z",
+  "source": "trip"
+}

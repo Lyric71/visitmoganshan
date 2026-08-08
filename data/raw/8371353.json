@@ -1,0 +1,87 @@
+{
+  "id": 8371353,
+  "name": "Xuxia Hot Spring Resort Meisu (Moganshan International Tourism Resort)",
+  "seedName": "Xuxia Hot Spring Resort Meisu (Moganshan International Tourism Resort)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-8371353",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8371353&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8371353&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:The hotel is situated in a serene mountainous area with breathtaking views of surrounding bamboo forests and mountains. Its remote yet accessible location offers a peaceful retreat, with nearby trails and a 10-minute taxi ride to downtown.(based on 13 reviews) Service:Staff and owners are repeatedly praised for their kindness, helpfulness, and attentiveness. They provide guidance on local trails, accommodate special requests, and ensure guests feel welcomed and comfortable throughout their stay.(based on 48 reviews) Environment:The setting is characterized by natural beauty, tranquility, and a harmonious blend of rustic charm and modern comforts. Guests appreciate the peaceful atmosphere, fresh air, and opportunities for relaxation in scenic outdoor spaces.(based on 12 reviews) Cleanliness:Rooms, bathrooms, and communal areas are highlighted as exceptionally clean and well-maintained, with frequent attention to hygiene standards, including clean pool water and sanitized facilities.(based on 21 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "The hotel is situated in a serene mountainous area with breathtaking views of surrounding bamboo forests and mountains. Its remote yet accessible location offers a peaceful retreat, with nearby trails and a 10-minute taxi ride to downtown.",
+        "count": 13
+      },
+      {
+        "topic": "Service",
+        "text": "Staff and owners are repeatedly praised for their kindness, helpfulness, and attentiveness. They provide guidance on local trails, accommodate special requests, and ensure guests feel welcomed and comfortable throughout their stay.",
+        "count": 48
+      },
+      {
+        "topic": "Environment",
+        "text": "The setting is characterized by natural beauty, tranquility, and a harmonious blend of rustic charm and modern comforts. Guests appreciate the peaceful atmosphere, fresh air, and opportunities for relaxation in scenic outdoor spaces.",
+        "count": 12
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Rooms, bathrooms, and communal areas are highlighted as exceptionally clean and well-maintained, with frequent attention to hygiene standards, including clean pool water and sanitized facilities.",
+        "count": 21
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 55, Yatanwu, Laoling Village, Moganshan Town, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$61",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/8371353/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2f12000soakzfx81B0.jpg"
+    },
+    {
+      "src": "/images/stays/8371353/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0202s120001z9koe202DD.webp"
+    },
+    {
+      "src": "/images/stays/8371353/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0204c120001zazdu57061.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Beautiful location. We had a lovely stay. The landlady cooked breakfast for us for two days, which was very nice. We really enjoyed our stay here.",
+      "author": "lolalili",
+      "date": "2026-05-16",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8371353&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8371353&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I came for an off-road event and had a great stay. When I choose a B&B, I look for three things: a clean environment, an owner who's easy to communicate with, and convenient transportation. This place ticked all the boxes....",
+      "author": "Guest User",
+      "date": "2026-04-06",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8371353&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8371353&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room was lovely, definitely a 5-star experience! The air in the mountains was so fresh, and the B&B itself had a beautiful setting. The hostess was incredibly warm and hospitable, and her service was impeccable. She even took us...",
+      "author": "Guest User",
+      "date": "2026-04-06",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=8371353&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-8371353&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.5,
+    "count": 96,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:18:15.209Z",
+  "source": "trip"
+}

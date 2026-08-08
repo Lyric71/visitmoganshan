@@ -78,7 +78,7 @@ The last mile from Deqing runs on the same clock.
 
 [Getting around Moganshan](/getting-here/getting-around/) has the detail.
 
-TODO: verify whether chartered group coaches are treated differently at the transfer centers. We have not confirmed one.
+Whether chartered group coaches are treated differently at the transfer centers is not confirmed. We have found no source that settles it.
 
 ### Property size
 
@@ -113,7 +113,7 @@ Whether that is a drawback depends on what your two days are for. [Team building
 
 ## What we cannot tell you
 
-Nothing here covers the meeting side of any Moganshan property. The research turned up no verified data, so this page prints none. Meeting room sizes, AV, conference connectivity, catering and day delegate rates are all **TODO: verify**.
+Nothing here covers the meeting side of any Moganshan property. The research turned up no verified data, so this page prints none. Meeting room sizes, AV, conference connectivity, catering and day delegate rates are all **unconfirmed**.
 
 Awkward to publish on a page meant to help you book. Better than making numbers up.
 
@@ -142,4 +142,4 @@ Moganshan works as a two-night midweek offsite for a Shanghai team, not a one-ni
 
 The venue research falls on you, property by property. [Groups and events](/groups/) collects the rest, and [Moganshan through the year](/seasons/) covers seasons.
 
-*Travel times, occupancy figures, property counts and room rates come from research carried out 1 to 5 August 2026. Every TODO marks something we could not confirm.*
+*Travel times, occupancy figures, property counts and room rates come from research carried out 1 to 5 August 2026. Every line flagged as unconfirmed marks something we could not confirm.*

@@ -41,6 +41,34 @@ const RASTER = new Set(['.webp', '.jpg', '.jpeg', '.png', '.avif']);
 const PNG_BY_DESIGN = [/^public[\\/]brand[\\/]/, /^public[\\/](icon|apple-touch-icon|og-image)/];
 const isPngByDesign = (file) => PNG_BY_DESIGN.some((pattern) => pattern.test(file));
 
+/**
+ * Tighter budgets for directories whose images are only ever rendered small.
+ *
+ * The site-wide 260 KB cap is sized for a hero. Property listing cards render
+ * their lead at about 320 CSS pixels and their thumbnails at about 107, and at
+ * 809 properties the difference between the right size and the source size is
+ * roughly 240 MB committed to this repository. That is not a judgement call to
+ * re-make every time somebody adds a capture, so it is a rule here.
+ *
+ * {n}.webp: 1 is the card lead, everything after it is a thumbnail. Rebuild the
+ * whole set from the kept originals with `npm run stays:img`.
+ */
+const BUDGETS = [
+  {
+    match: /^public[\\/]images[\\/]stays[\\/][^\\/]+[\\/]1\.webp$/,
+    label: 'property card lead',
+    maxKb: 80,
+    maxWidth: 800,
+  },
+  {
+    match: /^public[\\/]images[\\/]stays[\\/]/,
+    label: 'property card thumbnail',
+    maxKb: 30,
+    maxWidth: 400,
+  },
+];
+const budgetFor = (file) => BUDGETS.find((budget) => budget.match.test(file));
+
 async function walk(dir) {
   const out = [];
   for (const entry of await readdir(dir, { withFileTypes: true })) {
@@ -78,11 +106,18 @@ for (const file of files) {
   if (ext !== '.webp' && ext !== '.avif' && !webpStems.has(stem) && !isPngByDesign(file)) {
     problems.push(`${file}: ${ext} with no .webp sibling`);
   }
-  if (width > MAX_WIDTH) {
-    problems.push(`${file}: ${width}px wide, over the ${MAX_WIDTH}px cap`);
+  const budget = budgetFor(file);
+  const maxWidth = budget?.maxWidth ?? MAX_WIDTH;
+  const maxKb = budget?.maxKb ?? MAX_KB;
+  const against = budget ? ` for a ${budget.label}` : '';
+
+  if (width > maxWidth) {
+    problems.push(`${file}: ${width}px wide, over the ${maxWidth}px cap${against}`);
   }
-  if (kb > MAX_KB) {
-    problems.push(`${file}: ${kb.toFixed(0)} KB, over the ${MAX_KB} KB cap (${width}x${height})`);
+  if (kb > maxKb) {
+    problems.push(
+      `${file}: ${kb.toFixed(0)} KB, over the ${maxKb} KB cap${against} (${width}x${height})`,
+    );
   }
 }
 

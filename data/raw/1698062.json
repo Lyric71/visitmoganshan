@@ -1,0 +1,72 @@
+{
+  "id": 1698062,
+  "name": "cipo Moganshan Holiday Home",
+  "seedName": "cipo Moganshan Holiday Home",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-1698062",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1698062&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1698062&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Room Cleanliness and Comfort:Rooms are noted for their cleanliness and comfort, with unique designs and thoughtful layouts. The bedding is frequently mentioned as high-quality, and the overall room environment is described as neat and aesthetically pleasing.(based on 30 reviews) Guest Suggestion:Some customers suggest improving soundproofing, addressing lighting issues, and ensuring functional room features.(based on 2 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Room Cleanliness and Comfort",
+        "text": "Rooms are noted for their cleanliness and comfort, with unique designs and thoughtful layouts. The bedding is frequently mentioned as high-quality, and the overall room environment is described as neat and aesthetically pleasing.",
+        "count": 30
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving soundproofing, addressing lighting issues, and ensuring functional room features.",
+      "count": 2
+    }
+  },
+  "address": "Lingkengli, Laoling Village, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$520",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/1698062/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20050s000000i88adB1AF.jpg"
+    },
+    {
+      "src": "/images/stays/1698062/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0s12000ms4ly57733B.webp"
+    },
+    {
+      "src": "/images/stays/1698062/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0212000jihk2nq5AD6.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The upgraded version of the farmhouse, has been carefully run, but the facilities are a bit old, the bath water is hot and cold, the air conditioner is louder, the butler service is very good, on-call, enthusiasm no gifts, aunt...",
+      "author": "Hupeiwen",
+      "date": "2024-12-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1698062&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1698062&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The B&B room was more comfortable than expected. The red wine glasses and corkscrews we needed were prepared for us in advance. In particular, the butler Xiao Chen was very helpful, helping us with our luggage, ordering meals, and suggesting...",
+      "author": "Chixicandeyu",
+      "date": "2025-01-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1698062&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1698062&trip_sub3=D19127628"
+    },
+    {
+      "quote": "A few days before Christmas, we went on a breakup trip. We were super happy when we came. The housekeeper, Xiao Chen, was super nice. We contacted him before we came to arrange the time and dinner. Before we left,...",
+      "author": "Anonymous User",
+      "date": "2024-12-25",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=1698062&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-1698062&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.2,
+    "count": 190,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:23:23.615Z",
+  "source": "trip"
+}

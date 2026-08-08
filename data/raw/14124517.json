@@ -1,0 +1,67 @@
+{
+  "id": 14124517,
+  "name": "Moganshan Zhuji Mountain Lodge",
+  "seedName": "Moganshan Zhuji Mountain Lodge",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-14124517",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=14124517&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-14124517&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Design & Ambience:The property’s unique design blends local cultural elements with modern comforts, creating a cozy, home-like atmosphere. The attention to detail in decor, combined with the serene natural surroundings, contributes to a relaxing and memorable stay.",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Village Group 2, Shangjiangwan, Fatou Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$87",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/14124517/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0206j120008jgou1z2055.jpg"
+    },
+    {
+      "src": "/images/stays/14124517/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1v12000e96y35t7C33.webp"
+    },
+    {
+      "src": "/images/stays/14124517/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2d12000eb9oyvk354C.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Terrible! Absolutely terrible! The outside environment was alright, but the inside was very poor, with many unsanitary corners and a slight odor. The service was okay. I encountered a huge cockroach, which almost scared me to death.",
+      "author": "Guest User",
+      "date": "2025-05-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=14124517&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-14124517&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Overall, we were extremely satisfied with this guesthouse. From booking to check-out, every detail was handled flawlessly. In particular, their housekeeper and caregiver were warm and professional, making us feel right at home. Located at the foot of a picturesque...",
+      "author": "Guest User",
+      "date": "2024-08-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=14124517&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-14124517&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I really like the decoration design and atmosphere of the homestay here. It is very unique. It feels very relaxing to live here. All the details are very attentive. The bed is very comfortable. The owner is also very enthusiastic...",
+      "author": "Anonymous User",
+      "date": "2024-05-19",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=14124517&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-14124517&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 10,
+    "count": 12,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:05:51.930Z",
+  "source": "trip"
+}

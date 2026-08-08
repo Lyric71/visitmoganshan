@@ -1,0 +1,87 @@
+{
+  "id": 57827646,
+  "name": "Laiye Moganshan Designer Private Tang Homestay (Yucun Square)",
+  "seedName": "Laiye Moganshan Designer Private Tang Homestay (Yucun Square)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-57827646",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=57827646&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-57827646&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:The hotel is conveniently located near Yucun Square, making it easy to access eateries, shops, and local attractions. Guests appreciate the proximity, with some mentioning a walking distance of just two minutes to the square.(based on 11 reviews) Design and Ambiance:The hotel boasts a stylish and modern design, often described as photogenic and trendy. Many guests highlight the boutique aesthetic and the attention to detail in the decor, creating an inviting and comfortable atmosphere.(based on 8 reviews) Service Quality:Service is frequently praised, with staff being described as friendly and accommodating. Guests appreciate the prompt resolution of issues and the personal touches, like being greeted warmly and receiving helpful local recommendations.(based on 18 reviews) Facilities:The hotel features a photogenic pool and provides various amenities that enhance the stay. Although some facilities may not be available year-round, the overall offerings are appreciated by guests.(based on 2 reviews) Guest Suggestion: Some customers suggest improving sanitation, upgrading facilities, and adjusting pricing to better match the value offered.(based o",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "The hotel is conveniently located near Yucun Square, making it easy to access eateries, shops, and local attractions. Guests appreciate the proximity, with some mentioning a walking distance of just two minutes to the square.",
+        "count": 11
+      },
+      {
+        "topic": "Design and Ambiance",
+        "text": "The hotel boasts a stylish and modern design, often described as photogenic and trendy. Many guests highlight the boutique aesthetic and the attention to detail in the decor, creating an inviting and comfortable atmosphere.",
+        "count": 8
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Service is frequently praised, with staff being described as friendly and accommodating. Guests appreciate the prompt resolution of issues and the personal touches, like being greeted warmly and receiving helpful local recommendations.",
+        "count": 18
+      },
+      {
+        "topic": "Facilities",
+        "text": "The hotel features a photogenic pool and provides various amenities that enhance the stay. Although some facilities may not be available year-round, the overall offerings are appreciated by guests.",
+        "count": 2
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 76, Zhong Village, Liaoyuan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$112",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/57827646/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1612000aomv29wEAF9.jpg"
+    },
+    {
+      "src": "/images/stays/57827646/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200a1200099bqkquE413.webp"
+    },
+    {
+      "src": "/images/stays/57827646/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3r12000aomqgei9080.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The room was spartan and felt very cheap, with damaged and unmaintained facilities. Worst of all, both the in-room wall-mounted AC and the central air conditioning were incredibly loud, making it utterly impossible to sleep. This was the worst guesthouse...",
+      "author": "Guest User",
+      "date": "2025-08-17",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=57827646&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-57827646&trip_sub3=D19127628"
+    },
+    {
+      "quote": "We were very satisfied! The staff were exceptionally helpful and even assisted us with our laundry. The breakfast's mixed noodles were incredibly delicious. The swimming pool was also fantastic, and our kids had a wonderful time.",
+      "author": "Guest User",
+      "date": "2025-07-03",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=57827646&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-57827646&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The Wabi-sabi style courtyard is breathtaking; every step reveals a new picturesque scene. It's so photogenic, even a casual snap looks like a movie still. Being lulled to sleep by the birdsong and the gentle stream is incredibly therapeutic!",
+      "author": "Alichumo",
+      "date": "2025-06-20",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=57827646&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-57827646&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.3,
+    "count": 48,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:35:26.529Z",
+  "source": "trip"
+}

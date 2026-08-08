@@ -1,0 +1,62 @@
+{
+  "id": 43823875,
+  "name": "Moganshan Huisu · Yinshe Mountain Retreat Gathering Resort Homestay",
+  "seedName": "Moganshan Huisu · Yinshe Mountain Retreat Gathering Resort Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-43823875",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=43823875&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-43823875&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Moganshan Huisu · Yinshe Mountain Retreat Gathering Resort Homestay?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "Village Group 1, Xiantan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$33",
+  "facilities": [],
+  "images": [
+    {
+      "src": "/images/stays/43823875/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2812000leqig5s9798.jpg"
+    },
+    {
+      "src": "/images/stays/43823875/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5712000leqi2yp6755.webp"
+    },
+    {
+      "src": "/images/stays/43823875/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2812000leqig5s9798.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "非常不錯的一家民宿，老闆老闆娘都很好，我們很晚到老闆一直等着，特別貼心，性價比也很絕，下次來還要住這裏。",
+      "author": "Bayuewennuan",
+      "date": "2026-07-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=43823875&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-43823875&trip_sub3=D19127628"
+    },
+    {
+      "quote": "一個很有感覺的小院民宿。看的出來，老闆打理的很用心，佈置也很巧妙。關鍵是還可以隨時點燒烤串，味道還一級棒。有點偶遇寶藏民宿的欣喜感。室內娛樂配套也很多，下次還可以約朋友來這裏聚會。真的很棒！",
+      "author": "Guest User",
+      "date": "2026-04-28",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=43823875&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-43823875&trip_sub3=D19127628"
+    },
+    {
+      "quote": "藏在莫干山竹林裏的寶藏民宿，山野氛圍拉滿。房間乾淨温馨，推窗就是滿眼綠意，公區娛樂設施齊全，燒烤、K歌、桌球一應俱全，管家服務貼心周到，超適合朋友聚會放鬆身心！",
+      "author": "Guest User",
+      "date": "2026-04-29",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=43823875&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-43823875&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 10,
+    "count": 34,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:45:52.257Z",
+  "source": "trip"
+}

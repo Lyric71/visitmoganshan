@@ -1,0 +1,87 @@
+{
+  "id": 78194224,
+  "name": "Moganshan Morang Hotel",
+  "seedName": "Moganshan Morang Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-78194224",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=78194224&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-78194224&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:The location is excellent, being close to various attractions with convenient access by car or on foot, such as near the firefly scenic area and other spots, and easy to navigate(based on 7 reviews) Room Condition:Rooms are clean, tidy and spacious, some having unique features like skylights to view stars(based on 11 reviews) Facilities:Equipped with charging piles, free chess and card rooms, and complete facilities Environment:Surrounding environment is quiet, clean and beautiful with nice mountain and road views(based on 11 reviews) Service:The boss is enthusiastic, actively helping solve problems and introducing play guides(based on 13 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "The location is excellent, being close to various attractions with convenient access by car or on foot, such as near the firefly scenic area and other spots, and easy to navigate",
+        "count": 7
+      },
+      {
+        "topic": "Room Condition",
+        "text": "Rooms are clean, tidy and spacious, some having unique features like skylights to view stars",
+        "count": 11
+      },
+      {
+        "topic": "Facilities",
+        "text": "Equipped with charging piles, free chess and card rooms, and complete facilities Environment:Surrounding environment is quiet, clean and beautiful with nice mountain and road views",
+        "count": 11
+      },
+      {
+        "topic": "Service",
+        "text": "The boss is enthusiastic, actively helping solve problems and introducing play guides",
+        "count": 13
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 73, Langjia Village, Xiantan Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$69",
+  "facilities": [
+    "Cardroom",
+    "3 Restaurants",
+    "Multi-function room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/78194224/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02019120008taqty140BB.jpg"
+    },
+    {
+      "src": "/images/stays/78194224/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02059120008taqx8c2857.webp"
+    },
+    {
+      "src": "/images/stays/78194224/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1r12000dg52nut4CDE.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "這次入住體驗非常棒！酒店的位置絕佳，出門開車到景點距離都蠻近的，去各個景點都很方便。房間比想象中寬敞，打掃得一塵不染，床墊和枕頭特別舒服，一夜好眠。最值得稱讚的是服務，老闆笑容滿面，主動幫我們解決電車充電等問題，早餐的種類也很豐富。雪菜筍乾特別好吃😋強烈推薦！",
+      "author": "Guest User",
+      "date": "2025-10-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=78194224&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-78194224&trip_sub3=D19127628"
+    },
+    {
+      "quote": "民宿位置非常好，步行就能到螢火蟲景區。我們連續住了兩天，還去安吉轉了一圈（住莫干山比住安吉性價比高一百倍）。房間乾淨，床墊舒服，早餐也吃得舒心。另外，對於老廣來講，有棋牌室還不用預約真的是開心。（忘了拍房間照片，拿兩張風景來替）",
+      "author": "Guest User",
+      "date": "2025-08-11",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=78194224&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-78194224&trip_sub3=D19127628"
+    },
+    {
+      "quote": "和景點有一段距離，自駕距離還好，民宿自帶充電樁，老闆很熱情，房間很有特色，天窗可以看到星星，拍照很有氛圍",
+      "author": "Guest User",
+      "date": "2025-02-01",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=78194224&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-78194224&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 57,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:04:35.838Z",
+  "source": "trip"
+}

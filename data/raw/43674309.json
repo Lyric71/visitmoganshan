@@ -1,0 +1,70 @@
+{
+  "id": 43674309,
+  "name": "Zhulin Tingyu Meisu (Moganshan Xiantan Scenic Area Shop)",
+  "seedName": "Zhulin Tingyu Meisu (Moganshan Xiantan Scenic Area Shop)",
+  "city": "Huzhou",
+  "cityId": 86,
+  "goSlug": "moganshan-43674309",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=43674309&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-43674309&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness & Maintenance:The premises are consistently clean, with daily cleaning services and the use of disinfectant wipes. Guests note that bedsheets are comfortable, and the overall hygiene standards are high, with no signs of wear or neglect in common areas.(based on 44 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Maintenance",
+        "text": "The premises are consistently clean, with daily cleaning services and the use of disinfectant wipes. Guests note that bedsheets are comfortable, and the overall hygiene standards are high, with no signs of wear or neglect in common areas.",
+        "count": 44
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 27, Xieziwei, Fangshan Village, Daixi Town, Wuxing District, Huzhou, Zhejiang, China",
+  "priceRange": "From US$49",
+  "facilities": [
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/43674309/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/20051c000001co0b999FB.jpg"
+    },
+    {
+      "src": "/images/stays/43674309/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02063120009eu90nd1AEB.webp"
+    },
+    {
+      "src": "/images/stays/43674309/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200t120009eu8grv95C4.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "There are two separate, spacious and comfortable rooms with expansive views from the terrace, perfect for conserving energy for the next day's hike up the mountain. Moganshan has a unique charm even in the rain, shrouded in mist and ethereal...",
+      "author": "Guest User",
+      "date": "2026-07-10",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=43674309&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-43674309&trip_sub3=D19127628"
+    },
+    {
+      "quote": "這家民宿環境真的棒，感覺自己住在了森林裏，景色真的絕了。民宿也有游泳池，房間有浴缸，溯溪完了可以回民宿泡個熱水澡。周邊可玩的地方很多，龍鱗壩魚鱗壩瘐村廣場都離的很近，非常適合來溯溪遊玩，老闆娘很熱情，可惜時間太趕了，沒在他家吃晚飯，看了他家菜單價格也很划算。我很少認真點評一家店，但這家店在我這裏絕對是滿分",
+      "author": "Guest User",
+      "date": "2026-08-03",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=43674309&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-43674309&trip_sub3=D19127628"
+    },
+    {
+      "quote": "酒店位置是在芳山村裡，平時日常週末出遊還是不錯的，房間衞生也做的不錯，早上吃的也比較舒服，日常慢節奏遊玩很舒服，老闆人也很好，很和善，一次不錯的出遊體驗。民宿也可以要老闆做飯，吃也比較方便。",
+      "author": "Anonymous User",
+      "date": "2026-07-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=43674309&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-43674309&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 95,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:08:12.145Z",
+  "source": "trip"
+}

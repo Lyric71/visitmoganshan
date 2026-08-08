@@ -1,0 +1,66 @@
+{
+  "id": 5523497,
+  "name": "Youjian Inn",
+  "seedName": "Youjian Inn",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5523497",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5523497&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5523497&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Youjian Inn?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 18 Zhuyuan Road, Moganshan Town, Deqing, Zhejiang, 313204, China",
+  "priceRange": "From US$40",
+  "facilities": [
+    "Bar",
+    "Restaurant",
+    "Cafe"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5523497/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0584v12000sqcmily8E5A.jpg"
+    },
+    {
+      "src": "/images/stays/5523497/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0AD3z120009f912x59744.webp"
+    },
+    {
+      "src": "/images/stays/5523497/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200t0a0000004hhojA444.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "This place is like a B&B with delicious and filling breakfast, room was big and clean. Enjoyed my stay.",
+      "author": "Cloudcatcher",
+      "date": "2025-09-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5523497&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5523497&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I checked in on February 21st. After visiting Moganshan that day, I wanted to take a taxi down the mountain, but I couldn't get one after calling for a while. My child was asleep, so I gave up trying to...",
+      "author": "Zhuzhuli",
+      "date": "2026-04-18",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5523497&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5523497&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room was very cozy and the aunt was very nice. Our room came with breakfast. She made us a delicious breakfast every day. It was especially filling and filling. It's also very close to attractions, some of which are...",
+      "author": "Guest User",
+      "date": "2025-06-22",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5523497&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5523497&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 76,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:56:11.463Z",
+  "source": "trip"
+}

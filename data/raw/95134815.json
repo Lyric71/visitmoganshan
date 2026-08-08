@@ -1,0 +1,76 @@
+{
+  "id": 95134815,
+  "name": "Yunfan Mogan Designer Light Luxury Homestay",
+  "seedName": "Yunfan Mogan Designer Light Luxury Homestay",
+  "city": "Huzhou",
+  "cityId": 86,
+  "goSlug": "moganshan-95134815",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=95134815&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-95134815&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Room Comfort and Cleanliness:Rooms are described as large, clean, and well-furnished, with modern design elements that blend aesthetics and comfort. The rooms feature ample sunlight and panoramic views, providing a cozy and pleasing environment for relaxation.(based on 68 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Room Comfort and Cleanliness",
+        "text": "Rooms are described as large, clean, and well-furnished, with modern design elements that blend aesthetics and comfort. The rooms feature ample sunlight and panoramic views, providing a cozy and pleasing environment for relaxation.",
+        "count": 68
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 56, Fangshan Village, Daixi Town, Wuxing District, Huzhou, Zhejiang, China",
+  "priceRange": "From US$136",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Bar",
+    "Cardroom",
+    "Restaurant",
+    "Water park",
+    "Conference room",
+    "Playground"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/95134815/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2f12000krjakpg2AE8.jpg"
+    },
+    {
+      "src": "/images/stays/95134815/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02049120009n9x3sy51DB.webp"
+    },
+    {
+      "src": "/images/stays/95134815/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6612000co2nztt1164.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "The owner was very welcoming, and there were plenty of entertainment facilities. The pool water was also clean.",
+      "author": "Anonymous User",
+      "date": "2026-07-26",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=95134815&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-95134815&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The B&B has a great environment with simple yet stylish decor. The bedding is top-notch, really soft and clean, making for a very comfortable sleep! The guesthouse also has excellent public facilities, including a swimming pool, KTV, mahjong, and billiards,...",
+      "author": "Guest User",
+      "date": "2026-07-26",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=95134815&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-95134815&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Unexpectedly comfortable stay at Moganshan Yunfan during the Chinese New Year holiday, a last-minute decision with friends. The rooms were clean and cozy. The common areas were great for tea and karaoke, and they even set off fireworks! The owner's...",
+      "author": "Guest User",
+      "date": "2026-02-22",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Huzhou&cityId=86&hotelId=95134815&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-95134815&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 196,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:48:42.801Z",
+  "source": "trip"
+}

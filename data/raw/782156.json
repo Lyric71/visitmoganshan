@@ -1,0 +1,89 @@
+{
+  "id": 782156,
+  "name": "ARANYA MOCUN RESORT",
+  "seedName": "ARANYA MOCUN RESORT",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-782156",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=782156&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-782156&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment and Aesthetics:Guests praised the beautiful surroundings and elegant hotel design, blending French style with tea gardens and bamboo forests. The tranquil environment is ideal for relaxation and photography. Dining Experience:Breakfast was delicious and varied, with noodles and wontons as highlights. Despite some repetition over long stays, guests appreciated the quality and variety of food.(based on 49 reviews) Service Quality:Hotel staff were friendly and efficient, with front desk praised for quick service. Overall, service was attentive, often exceeding guest expectations.(based on 288 reviews) Amenities and Facilities:Guests liked the spacious rooms, quality toiletries, and well-maintained areas. The library, pool, and fitness facilities were positively noted, with design admired for attention to detail.(based on 155 reviews) Guest Suggestion:Some customers suggest improving air conditioning, enhancing breakfast offerings, and aligning room descriptions with actual accommodations.(based on 13 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment and Aesthetics",
+        "text": "Guests praised the beautiful surroundings and elegant hotel design, blending French style with tea gardens and bamboo forests. The tranquil environment is ideal for relaxation and photography. Dining Experience:Breakfast was delicious and varied, with noodles and wontons as highlights. Despite some repetition over long stays, guests appreciated the quality and variety of food.",
+        "count": 49
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Hotel staff were friendly and efficient, with front desk praised for quick service. Overall, service was attentive, often exceeding guest expectations.",
+        "count": 288
+      },
+      {
+        "topic": "Amenities and Facilities",
+        "text": "Guests liked the spacious rooms, quality toiletries, and well-maintained areas. The library, pool, and fitness facilities were positively noted, with design admired for attention to detail.",
+        "count": 155
+      }
+    ],
+    "suggestion": {
+      "topic": "Guest Suggestion",
+      "text": "Some customers suggest improving air conditioning, enhancing breakfast offerings, and aligning room descriptions with actual accommodations.",
+      "count": 13
+    }
+  },
+  "address": "Ziling Village, Moganshan Town, Deqing, Zhejiang, 313204, China",
+  "priceRange": "From US$357",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Gym",
+    "Bar",
+    "2 Restaurants",
+    "Conference room",
+    "Multi-function room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/782156/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc7412000k4zimd21374.jpg"
+    },
+    {
+      "src": "/images/stays/782156/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3b12000gxnjldv5C14.webp"
+    },
+    {
+      "src": "/images/stays/782156/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc6q12000sb7s1e3168F.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Hygiene: Clean Environment: Beautiful Service: Excellent We stayed in a family suite with two children and had a fantastic experience. The kids loved it too!",
+      "author": "Guest User",
+      "date": "2026-08-04",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=782156&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-782156&trip_sub3=D19127628"
+    },
+    {
+      "quote": "This place is truly beautiful, and the decor is exactly my style. I loved being able to see the lush green mountain views right from my room—it was so relaxing. The bed was incredibly comfortable too; I slept wonderfully every...",
+      "author": "Guest User",
+      "date": "2026-08-04",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=782156&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-782156&trip_sub3=D19127628"
+    },
+    {
+      "quote": "From the moment I walked in, the service was incredibly thoughtful. Luggage handling, room cleaning, and breakfast were all excellent and exceeded my expectations. The hotel itself is beautiful. With good maintenance, it will only get better and better.",
+      "author": "Guest User",
+      "date": "2026-08-04",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=782156&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-782156&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.3,
+    "count": 604,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:25:36.660Z",
+  "source": "trip"
+}

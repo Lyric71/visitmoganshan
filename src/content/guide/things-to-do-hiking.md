@@ -25,7 +25,7 @@ Walking is the main thing people do here, and it is what this page has to be car
 
 As of 5 August 2026 we can describe the terrain, but we cannot hand you a trail.
 
-The mountain carries a dense network of stone paths, and that much is verified. What we lack is measured routes: no distances, no gradients, no walking times, no trail names we will print. Our field check is scheduled, and until it happens every specific route here is marked TODO: verify on the ground.
+The mountain carries a dense network of stone paths, and that much is verified. What we lack is measured routes: no distances, no gradients, no walking times, no trail names we will print. Our field check is scheduled, and until it happens every specific route here is marked Not checked on the ground.
 
 We would rather show the gap than invent numbers. A wrong distance on a mountain is not harmless. If you need a route today, your guesthouse can give you one.
 
@@ -37,8 +37,8 @@ We would rather show the gap than invent numbers. A wrong distance on a mountain
 |---|---|
 | Surface | A dense network of stone paths and steps, with paved lanes |
 | Highest point | Tashan, 719 to 720 m. You do not climb all of that |
-| How far, how steep | TODO: verify on the ground |
-| Route finding | TODO: verify on the ground. Signage and English waymarking unchecked |
+| How far, how steep | Not checked on the ground |
+| Route finding | Not checked on the ground. Signage and English waymarking unchecked |
 | Remoteness | Low. You are rarely far from a road or a building |
 | Hours you can be on it | Transfer centers run 08:00 to 18:00, and they gate the scenic area |
 | Tickets | Charged, prices disputed between sources, half price in winter |
@@ -64,7 +64,7 @@ There is a reason the surface is built. Moganshan has been a summer town since t
 
 Tashan tops out at 719 to 720 meters. Ignore the 758 m figure that circulates.
 
-Seven hundred meters is a hill by the standards of the Alps or the Rockies. Altitude is not a factor here. How much height you gain depends on where the bus drops you, which we have not measured. TODO: verify on the ground.
+Seven hundred meters is a hill by the standards of the Alps or the Rockies. Altitude is not a factor here. How much height you gain depends on where the bus drops you, which we have not measured. Not checked on the ground.
 
 That makes it kinder than a wilderness trail for children and for older walkers. The paths are built, and there is no scrambling and no exposure. Steps are the limiting factor, and we have not counted them.
 
@@ -122,7 +122,7 @@ Three sources can give you one, in this order.
 ![A hand drawn sketch map of lines and arrows on paper with a pencil alongside](/images/guide/things-to-do-hiking-4.webp 'The best route advice on this mountain is still spoken, drawn on paper, and comes from where you are sleeping.')
 
 - **Your guesthouse.** The best source on this mountain. Staff walk it weekly and know which paths are closed or dug up right now. English varies from house to house. Ask the night before, not on your way out of the door.
-- **The transfer centers and scenic-area gates.** Staffed during opening hours, with signboards on the mountain. How much English any of it carries: TODO: verify on the ground.
+- **The transfer centers and scenic-area gates.** Staffed during opening hours, with signboards on the mountain. How much English any of it carries: Not checked on the ground.
 - **The [villa walking tour](/moganshan/hill-station/walking-tour/).** Six historic buildings in a reading order, with the history checked.
 
 ## When the paths get busy

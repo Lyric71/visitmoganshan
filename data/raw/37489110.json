@@ -1,0 +1,66 @@
+{
+  "id": 37489110,
+  "name": "Home away from home",
+  "seedName": "Home away from home",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-37489110",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=37489110&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-37489110&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Pet-Friendly Features:The presence of three well-behaved Shiba Inu dogs is a major attraction, with guests noting their cuteness, friendliness, and role in enhancing the stay. The property is explicitly pet-friendly, accommodating guests with animals without issues.",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 10, Geling, Fotang Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$59",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/37489110/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1p12000euaxlonBCE9.jpg"
+    },
+    {
+      "src": "/images/stays/37489110/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5n12000bcs0sxi03BC.webp"
+    },
+    {
+      "src": "/images/stays/37489110/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5r12000eub4om5DE21.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Home Away from Home — Highly Recommended! I stayed here as a solo foreign traveler, and it truly felt like home. The atmosphere is warm and welcoming from the moment you arrive. The Shiba Inu dogs are the stars of...",
+      "author": "Leksudii",
+      "date": "2025-10-13",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=37489110&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-37489110&trip_sub3=D19127628"
+    },
+    {
+      "quote": "I stayed here for one night with my pet and baby. The environment and facilities are excellent, and it's quite good for a B&B. It's also very quiet at night. There's a real lawn, a swimming pool, and an outdoor...",
+      "author": "Guest User",
+      "date": "2025-10-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=37489110&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-37489110&trip_sub3=D19127628"
+    },
+    {
+      "quote": "A very satisfying stay. The hostess was very nice, and the Shiba Inu family of three was so cute. It's pet-friendly and a warm B&B! The Yaowu Scenic Area is nearby, very convenient. I'll definitely come back next time!",
+      "author": "Guest User",
+      "date": "2025-10-08",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=37489110&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-37489110&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 229,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:02:41.955Z",
+  "source": "trip"
+}

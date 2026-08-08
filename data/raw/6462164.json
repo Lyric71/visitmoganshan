@@ -1,0 +1,66 @@
+{
+  "id": 6462164,
+  "name": "Jingting Hotel",
+  "seedName": "Jingting Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-6462164",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6462164&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6462164&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Hygiene:Most users praise that the rooms and the environment are clean. The yard, tables and chairs, and swimming pool are cleaned regularly. Service:The owners are very enthusiastic and considerate. The service attitude is good, and they are very welcoming. Facilities:There are advanced facilities, such as central air conditioning. There is also a swimming pool which is very popular among children. Activities:There are rich activities like picking tea, digging bamboo shoots, etc. according to different seasons",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 17 Fenshuiling, Lanshukeng, Deqing, Zhejiang, China",
+  "priceRange": "From US$79",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/6462164/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200414000000wdad1448E.jpg"
+    },
+    {
+      "src": "/images/stays/6462164/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200114000000xcj4j3EAD.webp"
+    },
+    {
+      "src": "/images/stays/6462164/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5i12000jz3qr0g17EE.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Super relaxed to stay a few days to unwind and recharge. The host is extremely caring and courteous- a true recommendation!!",
+      "author": "Sander666",
+      "date": "2025-05-26",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6462164&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6462164&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The rooms were spotless. The food prepared by the hostess was incredibly delicious. The guesthouse also offers tea-picking activities, and there are plenty of other fun activities. Our children had a fantastic time!",
+      "author": "Guest User",
+      "date": "2025-05-05",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6462164&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6462164&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The guesthouse is ideally located with beautiful surroundings. The owner was incredibly welcoming and patient, making our stay very enjoyable.",
+      "author": "Doudounizhendou",
+      "date": "2025-05-02",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=6462164&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-6462164&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 42,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:37:24.480Z",
+  "source": "trip"
+}

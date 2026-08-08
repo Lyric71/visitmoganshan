@@ -1,0 +1,80 @@
+{
+  "id": 56220015,
+  "name": "Yuye Moganshan Family Holiday Villa",
+  "seedName": "Yuye Moganshan Family Holiday Villa",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-56220015",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=56220015&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-56220015&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Location:Located near Yucun Square, with a short walk of a few minutes, convenient for going out to shop and eat(based on 28 reviews) Environment:Well-maintained green plants and a pleasant courtyard, full of a leisurely atmosphere Facilities:Rooms are large with spacious balconies, and there is a large garage for easy parking(based on 5 reviews) Service:Owners are warm and hospitable, responsive to guests' needs(based on 44 reviews) Pets:There are three cute dogs, adding to the enjoyment of the stay",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Location",
+        "text": "Located near Yucun Square, with a short walk of a few minutes, convenient for going out to shop and eat",
+        "count": 28
+      },
+      {
+        "topic": "Environment",
+        "text": "Well-maintained green plants and a pleasant courtyard, full of a leisurely atmosphere Facilities:Rooms are large with spacious balconies, and there is a large garage for easy parking",
+        "count": 5
+      },
+      {
+        "topic": "Service",
+        "text": "Owners are warm and hospitable, responsive to guests' needs",
+        "count": 44
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 27, Yujia, Liaoyuan Village, Deqing, Zhejiang, China",
+  "priceRange": "From US$65",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/56220015/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0205g12000945ocu558B1.jpg"
+    },
+    {
+      "src": "/images/stays/56220015/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0202b12000945n73q9721.webp"
+    },
+    {
+      "src": "/images/stays/56220015/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0200y12000945nat30F50.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Extremely satisfied, super satisfied! The room was very spacious with a huge balcony. I was immediately impressed upon entering the guesthouse; the greenery was impeccably maintained, creating a wonderful ambiance. There's a massive garage downstairs, making parking very convenient. Chatting...",
+      "author": "Guest User",
+      "date": "2026-04-04",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=56220015&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-56220015&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Pet-friendly and conveniently located.",
+      "author": "Guest User",
+      "date": "2026-06-18",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=56220015&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-56220015&trip_sub3=D19127628"
+    },
+    {
+      "quote": "we stayed for three days. family owned location super close to main street, like five minute walk to anywhere. good restaurants nearby. good wifi, lots of outlets, beautiful aesthetics and view, air conditioning is functional and adjustable, mini fridge and...",
+      "author": "Guest User",
+      "date": "2026-07-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=56220015&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-56220015&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 94,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:54:33.911Z",
+  "source": "trip"
+}

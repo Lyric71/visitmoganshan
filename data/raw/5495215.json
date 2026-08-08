@@ -1,0 +1,85 @@
+{
+  "id": 5495215,
+  "name": "Mogan Mountain House",
+  "seedName": "Mogan Mountain House",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-5495215",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5495215&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5495215&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment:Most users praised the scenic mountain location, cleanliness, and presence of a friendly host. Some noted a \"clean store\" and \"cute small dog.\"(based on 9 reviews) Service Quality:Frequent mentions of \"friendly host,\" \"good service,\" and \"warm hospitality.\"(based on 9 reviews) Facilities:Large rooms , availability of breakfast , and reasonable pricing .(based on 13 reviews) Food:Positive feedback on in-house meals, including \"delicious roasted pork with dried bamboo shoots\" and \"fresh tomato scrambled eggs.\" Guest Suggestion:Some customers suggest the cleanliness of rooms and common areas isn't up to standard, the location is disappointing, and amenities are limited and don't match online descriptions(based on 6 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment",
+        "text": "Most users praised the scenic mountain location, cleanliness, and presence of a friendly host. Some noted a \"clean store\" and \"cute small dog.\"",
+        "count": 9
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Frequent mentions of \"friendly host,\" \"good service,\" and \"warm hospitality.\"",
+        "count": 9
+      },
+      {
+        "topic": "Facilities",
+        "text": "Large rooms , availability of breakfast , and reasonable pricing .",
+        "count": 13
+      },
+      {
+        "topic": "Food",
+        "text": "Positive feedback on in-house meals, including \"delicious roasted pork with dried bamboo shoots\" and \"fresh tomato scrambled eggs.\" Guest Suggestion:Some customers suggest the cleanliness of rooms and common areas isn't up to standard, the location is disappointing, and amenities are limited and don't match online descriptions",
+        "count": 6
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Village Group 17, Houwu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$15",
+  "facilities": [
+    "Bar"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/5495215/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/200i0u000000j4ex2BC2D.jpg"
+    },
+    {
+      "src": "/images/stays/5495215/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2B0e0v000000jt9b9ED5C.webp"
+    },
+    {
+      "src": "/images/stays/5495215/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/2B0j0v000000jq2heFF64.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Awesome place to visit and do a few hikes. Nice and quiet and everyone was super friendly.",
+      "author": "Guest User",
+      "date": "2026-04-13",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5495215&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5495215&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The overall experience at Mogan Mountain House was quite mixed. While the service was truly excellent the staff were warm, responsive, and made every effort to help other aspects of the stay fell short of expectations. The cleanliness of the...",
+      "author": "Halcyon Pneuma",
+      "date": "2025-07-06",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5495215&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5495215&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Awesome place to visit and do a few hikes. Nice and quiet and everyone was super friendly.",
+      "author": "Guest User",
+      "date": "2026-04-13",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=5495215&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-5495215&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.7,
+    "count": 36,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:50:17.739Z",
+  "source": "trip"
+}

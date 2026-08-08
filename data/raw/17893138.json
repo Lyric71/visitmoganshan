@@ -1,0 +1,83 @@
+{
+  "id": 17893138,
+  "name": "Moganshan Guiya Mountain Ju Hot Spring Beauty Hotel",
+  "seedName": "Moganshan Guiya Mountain Ju Hot Spring Beauty Hotel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-17893138",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=17893138&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-17893138&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Service Quality:The service is warm and thoughtful, with staff being friendly and providing attentive assistance from check-in to check-out. (based on 28 reviews) Facilities:Facilities are new and practical, including a transparent glass swimming pool, hot springs, and a large public area with carefully designed small scenes. (based on 19 reviews) Hygiene:The accommodation is clean, tidy, and thoroughly cleaned, giving people a sense of reassurance. (based on 29 reviews)",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Service Quality",
+        "text": "The service is warm and thoughtful, with staff being friendly and providing attentive assistance from check-in to check-out.",
+        "count": 28
+      },
+      {
+        "topic": "Facilities",
+        "text": "Facilities are new and practical, including a transparent glass swimming pool, hot springs, and a large public area with carefully designed small scenes.",
+        "count": 19
+      },
+      {
+        "topic": "Hygiene",
+        "text": "The accommodation is clean, tidy, and thoroughly cleaned, giving people a sense of reassurance.",
+        "count": 29
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 47, Fangshan Village, Daixi Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$98",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Hot springs",
+    "Cardroom",
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/17893138/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc3e12000s0eqglk9402.jpg"
+    },
+    {
+      "src": "/images/stays/17893138/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2512000t1sloyg6449.webp"
+    },
+    {
+      "src": "/images/stays/17893138/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1x12000s2veiln251F.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "A friend recommended this beautiful hotel, a perfect experience, especially suitable for bringing children. You can take your children to dig bamboo shoots and pick tea leaves. The owner helped arrange a roasted whole lamb for lunch, which was very...",
+      "author": "Guest User",
+      "date": "2025-04-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=17893138&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-17893138&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Super satisfied. The service attitude of the B&B is very good. The environment also has a Chinese New Year atmosphere. The hot spring is also very comfortable. Recommended!",
+      "author": "Guest User",
+      "date": "2025-01-25",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=17893138&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-17893138&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The B&B is clean, tidy and warm, the service is considerate and attentive, the whole lawn is soft and healing, there are chestnut trees and persimmon trees in the yard for picking, and there is a huge bayberry tree in...",
+      "author": "pikachu",
+      "date": "2024-10-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=17893138&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-17893138&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 50,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:24:35.171Z",
+  "source": "trip"
+}

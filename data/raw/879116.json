@@ -1,0 +1,92 @@
+{
+  "id": 879116,
+  "name": "Mogan Mountain Tianquan Guesthouse",
+  "seedName": "Mogan Mountain Tianquan Guesthouse",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-879116",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=879116&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-879116&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Cleanliness & Maintenance:Consistently praised for spotless rooms, bathrooms, and overall hygiene.(based on 4 reviews) Location & Accessibility:Strategically situated near Moganshan Scenic Area and surrounded by leisure options.(based on 3 reviews) Ambiance & Design:Stylish, tranquil environment with panoramic views, infinity pool, and photogenic architecture.(based on 2 reviews) Service Quality:Hosts were described as warm, attentive, and knowledgeable, offering local recommendations and assistance with travel plans.(based on 2 reviews) Facilities:Includes a well-maintained infinity pool, pet-friendly policy , and free amenities like farm-to-table meals and scenic walks.(based on 2 reviews) Scenic Experience:Emphasis on natural surroundings and opportunities for relaxation .",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Maintenance",
+        "text": "Consistently praised for spotless rooms, bathrooms, and overall hygiene.",
+        "count": 4
+      },
+      {
+        "topic": "Accessibility",
+        "text": "Strategically situated near Moganshan Scenic Area and surrounded by leisure options.",
+        "count": 3
+      },
+      {
+        "topic": "Design",
+        "text": "Stylish, tranquil environment with panoramic views, infinity pool, and photogenic architecture.",
+        "count": 2
+      },
+      {
+        "topic": "Service Quality",
+        "text": "Hosts were described as warm, attentive, and knowledgeable, offering local recommendations and assistance with travel plans.",
+        "count": 2
+      },
+      {
+        "topic": "Facilities",
+        "text": "Includes a well-maintained infinity pool, pet-friendly policy , and free amenities like farm-to-table meals and scenic walks.",
+        "count": 2
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "Houwu Village, Deqing, Zhejiang, 313200, China",
+  "priceRange": "From US$74",
+  "facilities": [
+    "Restaurant",
+    "Conference room",
+    "Kids' club"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/879116/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1212000bpq2wgp8CE5.jpg"
+    },
+    {
+      "src": "/images/stays/879116/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0w12000bpqbio3C41D.webp"
+    },
+    {
+      "src": "/images/stays/879116/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4o12000bq02o7p4982.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "民宿很漂亮，四面環山，空氣很清新，來的時候陰雨天，霧氣環繞也很棒",
+      "author": "Guest User",
+      "date": "2026-03-09",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=879116&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-879116&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間乾淨整潔，舒適又衞生。老闆娘很熱心，雖然下雨天也出門迎接。無邊泳池很nice，周邊有燒烤，基本都是村裡人。",
+      "author": "Guest User",
+      "date": "2025-07-05",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=879116&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-879116&trip_sub3=D19127628"
+    },
+    {
+      "quote": "設施：非常時尚 衞生：非常乾淨 環境：優美風景好還有泳池 服務：非常棒收拾的很乾凈 下次來玩的話，還是非常的選擇，啦啦啦啦啦啦啦啦啦",
+      "author": "Kongpingxixi",
+      "date": "2025-05-20",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=879116&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-879116&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 14,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T15:05:04.677Z",
+  "source": "trip"
+}

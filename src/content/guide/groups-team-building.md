@@ -23,7 +23,7 @@ One catch, and it lands early. Moganshan has no team-building industry that our 
 
 ## No operators, and what that means
 
-We are an independent guide and take no commissions, so this is not a list we had reason to shorten. We looked and found nobody we could verify. No group rates or capacity figures either. TODO: verify both.
+We are an independent guide and take no commissions, so this is not a list we had reason to shorten. We looked and found nobody we could verify. No group rates or capacity figures either. Neither is confirmed.
 
 ![An empty grass clearing ringed by tall bamboo with morning mist lifting](/images/guide/groups-team-building-2.webp 'There is no packaged activity industry here. What the mountain offers, you have to arrange yourself.')
 
@@ -62,7 +62,7 @@ Inventory, gaps and all:
 |---|---|---|
 | Moso bamboo, over 92 percent forest cover | Walking, the spine of any day | Nothing. This part is solid |
 | Stone and packed-earth paths to 719 to 720 m | Half-day routes a mixed-fitness office can manage | Field-checked route times |
-| Laoling reservoir, south side | Kayaking and cycling | Operators, prices, seasons. TODO: verify |
+| Laoling reservoir, south side | Kayaking and cycling | Operators, prices, seasons. Not confirmed |
 | About 250 stone villas from the 1890s | A heritage walk of half a day | Which interiors are open |
 | Sword Pond | Five minutes, and a name to explain | Any documented history behind it |
 
@@ -128,4 +128,4 @@ Worth a screenshot if you are defending the number. Rooms are the line that move
 
 Beds come from guesthouses, not conference hotels, and nobody publishes capacity, so book early. [Where to stay](/where-to-stay/) covers the market. The [groups guide](/groups/) sits above this page and [corporate retreats](/groups/corporate-retreats/) covers the multi-day version.
 
-*Times, timetables, transfer center hours, temperatures, room rates and occupancy last checked 5 August 2026. TODO: verify marks a research gap, not an omission.*
+*Times, timetables, transfer center hours, temperatures, room rates and occupancy last checked 5 August 2026. An unconfirmed line marks a research gap, not an omission.*

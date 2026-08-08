@@ -1,0 +1,66 @@
+{
+  "id": 108833840,
+  "name": "Lushan Lushui Yeshe Shanshui Light Travel Resort Hotel (Jiangnan Luwu Scenic Area)",
+  "seedName": "Lushan Lushui Yeshe Shanshui Light Travel Resort Hotel (Jiangnan Luwu Scenic Area)",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-108833840",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=108833840&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-108833840&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Lushan Lushui Yeshe Shanshui Light Travel Resort Hotel (Jiangnan Luwu Scenic Area)?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 21, Jiangjuntang, Zhongyaowu, Dayao Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$81",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/108833840/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0201s12000bbl30jf8444.jpg"
+    },
+    {
+      "src": "/images/stays/108833840/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4y12000bnae3iyF10C.webp"
+    },
+    {
+      "src": "/images/stays/108833840/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5g12000bn0ch0j7AFF.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Hotel is super new and the room was amazingly decorated, with good amenities. Wifi took a while to connect but worked well after the help of the hotel staff. The downside is it’s located close to the road so not...",
+      "author": "SoloWonders",
+      "date": "2023-08-24",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=108833840&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-108833840&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The price/performance ratio is very high, the room is clean and hygienic, the boss recommended visiting nearby attractions, and the boss is very friendly and patient. He introduced the itinerary and route to me in detail, etc. The location of...",
+      "author": "Guest User",
+      "date": "2024-04-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=108833840&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-108833840&trip_sub3=D19127628"
+    },
+    {
+      "quote": "There is a balcony outside the large French window, and the scenery outside the window is unobstructed. Although it is in the mountains, there are no mosquitoes. The hotel's anti-mosquito facilities are very good and there is no need to...",
+      "author": "Guest User",
+      "date": "2024-04-23",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=108833840&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-108833840&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.8,
+    "count": 99,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T13:54:10.447Z",
+  "source": "trip"
+}

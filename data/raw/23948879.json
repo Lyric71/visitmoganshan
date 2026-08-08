@@ -1,0 +1,65 @@
+{
+  "id": 23948879,
+  "name": "Zhuyan Xiyu Hostel",
+  "seedName": "Zhuyan Xiyu Hostel",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-23948879",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=23948879&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-23948879&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "What are the check-in and check-out times at Zhuyan Xiyu Hostel?",
+  "summary": {
+    "topics": [],
+    "suggestion": null
+  },
+  "address": "No. 56, Ganmiaowu, Fatou Township, Deqing, Zhejiang, 313000, China",
+  "priceRange": "From US$53",
+  "facilities": [
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/23948879/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc1z12000aw41hpy0407.jpg"
+    },
+    {
+      "src": "/images/stays/23948879/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc5612000aw3tjrrAD3F.webp"
+    },
+    {
+      "src": "/images/stays/23948879/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc2l12000aw3wi5e2E8E.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "Good bed, with very comfortable mattress and bedding. Water pressure in the shower was excellent but not good for running a bath - might be due to the bath being upstairs in the bedroom? The Chinese breakfast offered was a...",
+      "author": "Guest User",
+      "date": "2025-04-22",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=23948879&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-23948879&trip_sub3=D19127628"
+    },
+    {
+      "quote": "Wonderful place to stay with your dogs! The owner was extremely nice — even had baijiu ready for the weekend visitors. Not to mention the view from the room was breathtaking. Would definitely stay here again!",
+      "author": "Torrian",
+      "date": "2023-08-31",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=23948879&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-23948879&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The air in the mountains is exceptionally fresh, and it's very quiet at night, making for a very comfortable stay. All photos are real shots, without filters.",
+      "author": "Guest User",
+      "date": "2026-06-09",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=23948879&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-23948879&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 8.7,
+    "count": 140,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:36:45.745Z",
+  "source": "trip"
+}

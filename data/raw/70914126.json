@@ -1,0 +1,85 @@
+{
+  "id": 70914126,
+  "name": "Moganshan Guest House",
+  "seedName": "Moganshan Guest House",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-70914126",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=70914126&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-70914126&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Environment and Location:Located in a quiet area like Houwu Village, close to scenic spots such as Jiangnan Yaowu and Yulinba. Easy to find with convenient parking. Nearby there are national hiking trails and bamboo forests for outdoor activities.(based on 8 reviews) Facilities:Rooms are spacious, some have large balconies, and facilities are complete.(based on 5 reviews) Hygiene:Rooms and overall environment are clean and tidy.(based on 12 reviews) Service:Owners are enthusiastic and thoughtful, providing helpful services like lending hoes.(based on 15 reviews) Surrounding Activities:There is a national hiking trail at the entrance for hiking, and the mountainous area is cooler than the city.",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Environment and Location",
+        "text": "Located in a quiet area like Houwu Village, close to scenic spots such as Jiangnan Yaowu and Yulinba. Easy to find with convenient parking. Nearby there are national hiking trails and bamboo forests for outdoor activities.",
+        "count": 8
+      },
+      {
+        "topic": "Facilities",
+        "text": "Rooms are spacious, some have large balconies, and facilities are complete.",
+        "count": 5
+      },
+      {
+        "topic": "Hygiene",
+        "text": "Rooms and overall environment are clean and tidy.",
+        "count": 12
+      },
+      {
+        "topic": "Service",
+        "text": "Owners are enthusiastic and thoughtful, providing helpful services like lending hoes.",
+        "count": 15
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 31 Xiwuli, Houwu Village, Moganshan Town, Deqing, Zhejiang, China",
+  "priceRange": "From US$57",
+  "facilities": [
+    "Restaurant"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/70914126/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc0m12000kxwnhss9FDB.jpg"
+    },
+    {
+      "src": "/images/stays/70914126/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/1mc4o12000dmd3cye656B.webp"
+    },
+    {
+      "src": "/images/stays/70914126/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0580p12000snr0lq75507.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "We booked three rooms for the National Day holiday. The trip from Shanghai was less than three hours, and we checked into the guesthouse for our family outing. Houwu Village is very quiet, just 10 minutes from Jiangnan Yaowu Scenic...",
+      "author": "Guest User",
+      "date": "2025-10-09",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=70914126&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-70914126&trip_sub3=D19127628"
+    },
+    {
+      "quote": "房間乾淨整潔，枕頭是乳膠的，門口好停車，環境安靜。自帶陽台打開就是風景。老闆和老闆娘很熱情，走路2分鐘有家芸豆農家菜，味道很好。",
+      "author": "Guest User",
+      "date": "2026-08-02",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=70914126&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-70914126&trip_sub3=D19127628"
+    },
+    {
+      "quote": "We booked three rooms for the National Day holiday. The trip from Shanghai was less than three hours, and we checked into the guesthouse for our family outing. Houwu Village is very quiet, just 10 minutes from Jiangnan Yaowu Scenic...",
+      "author": "Guest User",
+      "date": "2025-10-09",
+      "translated": false,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=70914126&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-70914126&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.9,
+    "count": 37,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:43:23.966Z",
+  "source": "trip"
+}

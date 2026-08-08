@@ -5,4 +5,8 @@ Allow: /
 # booking partner, so there is nothing here to crawl and nothing to index.
 Disallow: /go/
 
+# The back office. Password protected, server rendered, noindex on every route.
+# Listed here so a crawler does not spend its budget finding that out.
+Disallow: /admin
+
 Sitemap: https://www.visitmoganshan.com/sitemap-index.xml

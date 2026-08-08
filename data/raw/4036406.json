@@ -1,0 +1,88 @@
+{
+  "id": 4036406,
+  "name": "Moganshan Gunai Hot Spring Private Soup Homestay",
+  "seedName": "Moganshan Gunai Hot Spring Private Soup Homestay",
+  "city": "Deqing",
+  "cityId": 1367,
+  "goSlug": "moganshan-4036406",
+  "affiliateUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4036406&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4036406&trip_sub3=D19127628",
+  "sourceDescription": "",
+  "aiSummary": "Review summary Powered by AI Facilities:The hotel offers a wide range of facilities, including private hot springs, game rooms, and barbecue areas. Guests enjoy the comprehensive amenities such as spacious rooms with large windows, private baths, and well-stocked toiletries.(based on 80 reviews) Cleanliness:Cleanliness is consistently praised, with guests noting the well-maintained rooms and fresh, pleasant atmosphere throughout the property. The emphasis on hygiene makes for a comfortable and relaxing stay.(based on 152 reviews) Breakfast:The breakfast receives high marks for its variety and quality, with offerings that include healthy and beautifully presented options. Guests also appreciate the complimentary coffee and snacks provided during their stay.(based on 65 reviews) Family-Friendly:The hotel is recommended for family visits, with amenities that cater to children and spacious accommodations. The environment is described as safe and enjoyable for families, with plenty of activities available.(based on 97 reviews) Guest Suggestion:Some customers suggest the property is located in a remote area with limited amenities and lacks convenient access to nearby facilities.(based on",
+  "summary": {
+    "topics": [
+      {
+        "topic": "Facilities",
+        "text": "The hotel offers a wide range of facilities, including private hot springs, game rooms, and barbecue areas. Guests enjoy the comprehensive amenities such as spacious rooms with large windows, private baths, and well-stocked toiletries.",
+        "count": 80
+      },
+      {
+        "topic": "Cleanliness",
+        "text": "Cleanliness is consistently praised, with guests noting the well-maintained rooms and fresh, pleasant atmosphere throughout the property. The emphasis on hygiene makes for a comfortable and relaxing stay.",
+        "count": 152
+      },
+      {
+        "topic": "Breakfast",
+        "text": "The breakfast receives high marks for its variety and quality, with offerings that include healthy and beautifully presented options. Guests also appreciate the complimentary coffee and snacks provided during their stay.",
+        "count": 65
+      },
+      {
+        "topic": "Family-Friendly",
+        "text": "The hotel is recommended for family visits, with amenities that cater to children and spacious accommodations. The environment is described as safe and enjoyable for families, with plenty of activities available.",
+        "count": 97
+      }
+    ],
+    "suggestion": null
+  },
+  "address": "No. 138, Dongshan, Sihe Village, Moganshan Town, Deqing, Zhejiang, 313207, China",
+  "priceRange": "From US$67",
+  "facilities": [
+    "Outdoor swimming pool",
+    "Hot springs",
+    "Restaurant",
+    "Conference room"
+  ],
+  "images": [
+    {
+      "src": "/images/stays/4036406/1.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02022120008e7242e05C8.jpg"
+    },
+    {
+      "src": "/images/stays/4036406/2.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/0204l120008e7oi2l7E3B.webp"
+    },
+    {
+      "src": "/images/stays/4036406/3.webp",
+      "sourceUrl": "https://ak-d.tripcdn.com/images/02011120008e7od1j6200.webp"
+    }
+  ],
+  "comments": [
+    {
+      "quote": "I arrived past midnight, around 12 AM, after work, and the lady at the front desk was waiting for us. She patiently helped us with all sorts of issues we had in the middle of the night. The room was...",
+      "author": "Guest User",
+      "date": "2026-04-13",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4036406&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4036406&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The front desk lady was beautiful and patient, offering a warm welcome. The room had a bathtub which was very comfortable, and my little one had a great time. The hygiene was also good. Being in the mountains, there were...",
+      "author": "Guest User",
+      "date": "2026-04-13",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4036406&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4036406&trip_sub3=D19127628"
+    },
+    {
+      "quote": "The room was incredibly spacious and comfortable, not at all cramped. And the private hot spring pool, it was much bigger than it looked in the photos – easily enough room for two people without feeling crowded. Soaking in it...",
+      "author": "Guest User",
+      "date": "2026-04-05",
+      "translated": true,
+      "sourceUrl": "https://www.trip.com/hotels/detail/?cityEnName=Deqing&cityId=1367&hotelId=4036406&Allianceid=9859697&SID=327673690&trip_sub1=moganshan-4036406&trip_sub3=D19127628"
+    }
+  ],
+  "rating": {
+    "score": 9.7,
+    "count": 375,
+    "scale": 10
+  },
+  "sourcedAt": "2026-08-08T14:00:19.970Z",
+  "source": "trip"
+}

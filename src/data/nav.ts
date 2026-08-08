@@ -21,6 +21,8 @@
  * header of every page on the site. Check before you add.
  */
 
+import { TYPE_LABEL, TYPE_ORDER, typePath } from '../lib/stays';
+
 export type NavLink = {
   label: string;
   href: string;
@@ -65,6 +67,16 @@ export type NavGroup = {
    */
   faq?: NavLink;
 };
+
+/**
+ * The directory's filter, as header links. Label only: the counts belong on the
+ * page, where they sit next to the list they are counting, not in a menu a
+ * reader is scanning to leave.
+ */
+const STAY_TYPE_LINKS: NavLink[] = TYPE_ORDER.map((type) => ({
+  label: TYPE_LABEL[type],
+  href: typePath(type),
+}));
 
 export const NAV: NavGroup[] = [
   {
@@ -192,11 +204,23 @@ export const NAV: NavGroup[] = [
         ],
       },
       {
+        // Seven listings, one per kind of place, because "Moganshan villas"
+        // and "Moganshan homestays" are different searches by different people.
+        // Built from TYPE_ORDER, so a type added there appears in the header
+        // without a second edit.
         title: 'Where to stay',
+        links: STAY_TYPE_LINKS,
+      },
+      {
+        // The column beside the listings, and the reason the listings can stay
+        // listings. Each of these three explains one kind of place; the menu
+        // entry next door books it.
+        title: 'Before you book',
         links: [
           { label: 'All places to stay', href: '/where-to-stay' },
-          { label: 'Properties, one page each', href: '/where-to-stay/directory' },
           { label: 'What a minsu is', href: '/where-to-stay/minsu-explained' },
+          { label: 'Every hotel, named', href: '/where-to-stay/hotels-explained' },
+          { label: 'What a villa means here', href: '/where-to-stay/villas-explained' },
           { label: 'Seasons, month by month', href: '/seasons' },
           { label: 'Spring in Moganshan', href: '/seasons/spring' },
           { label: 'Is Moganshan worth visiting?', href: '/plan/is-moganshan-worth-visiting' },

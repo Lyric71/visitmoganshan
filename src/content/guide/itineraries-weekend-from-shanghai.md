@@ -34,7 +34,9 @@ Both are estimates, and both include getting to Hongqiao, the train and the tran
 
 ## Friday: the two clocks that decide your evening
 
-The train is the easy part. Thirteen direct services a day run from Hongqiao to Deqing in 63 to 80 minutes, second class fares roughly RMB 61 to 110. The hard part comes after you get off.
+The train is the easy part. Thirteen direct services a day run from Hongqiao to Deqing in 63 to 80 minutes, second class fares roughly RMB 61 to 110. Pick your Friday departure off the [live Hongqiao to Deqing timetable](/go/trains-shanghai-deqing/) once you know the answer to the next two paragraphs, because the hard part comes after you get off.
+
+> We may earn a commission if you book through that link, at no cost to you. [How this site is funded](/plan/disclosure/).
 
 ![A crowded evening station concourse with motion blurred commuters](/images/guide/itineraries-weekend-from-shanghai-2.webp 'The Friday train is the easy clock. The transfer at the other end is the one that decides your evening.')
 
@@ -93,7 +95,7 @@ The times assume the G1419 out and a Sunday afternoon return. Treat it as a shap
 | 15:00 | Train to Hongqiao |
 | 16:30 | Home |
 
-The Saturday 17:00 line is not padding. The transfer centers stop at 18:00 wherever you are standing. And we have not verified the last Sunday service from Deqing to Hongqiao. TODO: verify the evening timetable, on a booking app, before you go.
+The Saturday 17:00 line is not padding. The transfer centers stop at 18:00 wherever you are standing. And we have not verified the last Sunday service from Deqing to Hongqiao. Check the evening timetable on a booking app before you go.
 
 ## What to do with Saturday
 
@@ -105,9 +107,9 @@ Second, the architecture. About 250 historic villas survive in local mountain st
 
 Sword Pond, or Jianchi, is the sight most visitors list. In legend the mountain is named for the swordsmiths Mo Ye and Gan Jiang, and the pond is where their blades were quenched. This page does not dress that up as history.
 
-Opening hours and walking times between these sights are unconfirmed. TODO: verify on the ground. Your guesthouse is the fastest check.
+Opening hours and walking times between these sights are unconfirmed, and we have not checked them on the ground. Your guesthouse is the fastest check.
 
-Worth knowing before you buy a ticket. The villages and guesthouses sit outside the ticketed core, so a weekend here does not have to include one. Sword Pond and the villa streets are inside it. TODO: verify which villas.
+Worth knowing before you buy a ticket. The villages and guesthouses sit outside the ticketed core, so a weekend here does not have to include one. Sword Pond and the villa streets are inside it. Which villas that covers is not confirmed.
 
 ## What a weekend costs
 
