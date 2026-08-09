@@ -95,6 +95,32 @@ const RETIRED_ROUTES = Object.fromEntries(
   ].map((path) => [path, { status: /** @type {301} */ (301), destination: '/advertise' }]),
 );
 
+/**
+ * URLs the first build published links to, for pages that were never written.
+ *
+ * The footer, src/data/nav.ts and src/data/things-to-do.ts each carried an
+ * href to a page that did not exist in cf49562. The links are gone from the
+ * source now, but Googlebot followed all four before they were, so they sit in
+ * Search Console as crawled 404s with the reader on the wrong side of them.
+ * Deleting a bad link stops the bleeding; it does not move the crawler, and
+ * only a redirect does that.
+ *
+ * Each target is the page the label promised, not the section index: somebody
+ * who clicked "The hot springs" wants the hot springs article, and dropping
+ * them on /moganshan to find it again is a second dead end wearing a 301.
+ */
+const ORPHANED_ROUTES = Object.fromEntries(
+  /** @type {[string, string][]} */ ([
+    ['/things-to-do/villa-walking-route', '/moganshan/hill-station/walking-tour'],
+    ['/things-to-do/hot-springs', '/moganshan/hot-springs'],
+    ['/where-to-stay/private-villas', '/where-to-stay/villas'],
+    ['/accessibility', '/plan/accessibility'],
+  ]).map(([path, destination]) => [
+    path,
+    { status: /** @type {301} */ (301), destination },
+  ]),
+);
+
 // https://astro.build/config
 export default defineConfig({
   site: SITE,
@@ -103,7 +129,7 @@ export default defineConfig({
   // applying redirect rules, so path-level 301s always match.
   trailingSlash: 'never',
 
-  redirects: { ...affiliateRedirects, ...RETIRED_ROUTES },
+  redirects: { ...affiliateRedirects, ...RETIRED_ROUTES, ...ORPHANED_ROUTES },
 
   build: {
     // Stylesheets shipped as <link> tags sit on the critical path and delay
