@@ -26,7 +26,8 @@
     "stays:img": "node scripts/optimize-stay-images.mjs",
     "stays:discover": "node scripts/discover-stays.mjs",
     "admin:hash": "node scripts/admin-hash.mjs",
-    "stays:preview": "STAYS_PREVIEW=1 astro dev --host 127.0.0.1"
+    "stays:preview": "STAYS_PREVIEW=1 astro dev --host 127.0.0.1",
+    "stays:translate": "node scripts/translate-comments.mjs"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.9",

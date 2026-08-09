@@ -1,18 +1,25 @@
 ---
-import { CAPTURES, cardDescription, cardNote, cardPrice, priceBand } from '../lib/captures';
+import {
+  CAPTURES,
+  cardComment,
+  cardDescription,
+  cardPrice,
+  priceBand,
+  usdAmount,
+} from '../lib/captures';
 import { goPath, type SeedRecord } from '../lib/stays';
 
 /**
  * One property in a listing.
  *
- * Photographs, what guests say about the place, a short excerpt or two in their
- * own words, the caveat the unhappy ones raised, the score, and the link to
- * check dates. All of it captured from Trip.com and labelled as Trip.com's,
- * because none of it is ours: we have not stayed at these places and the card
- * never implies otherwise.
+ * Photographs, the score, the nightly rate, Trip.com's summary of what guests
+ * keep saying, and one excerpt in a guest's own words. All of it captured from
+ * Trip.com, because none of it is ours: we have not stayed at these places and
+ * the card never implies otherwise.
  *
- * Where a property has a page of ours, the name links to it and that page is
- * where the site's own words are.
+ * The name, the photographs and the button all go to the same place, the rates
+ * page. Where a property has a page of ours as well, it is reached through the
+ * small link in the meta line rather than through the name.
  *
  * A property with no capture yet still gets a card, with the name, the county
  * and the rates link. A skeleton that says what is missing is honest; a card
@@ -29,18 +36,21 @@ const { row, href } = Astro.props;
 const capture = CAPTURES.get(row.id);
 const images = capture?.images.slice(0, 3) ?? [];
 const blocks = capture ? cardDescription(capture) : [];
-const note = capture ? cardNote(capture) : null;
-const comment = capture?.comments[0];
+const comment = capture ? cardComment(capture) : null;
 const rating = capture?.rating;
 const price = cardPrice(capture);
 
 // The filter bar above the list reads these off the card and hides the ones
 // that do not match. They are written even when the value is missing, because
 // "unknown" is a state the filter has to be able to see rather than a gap.
+const usd = usdAmount(capture);
 const filterData = {
   'data-price-band': priceBand(capture),
   'data-reviews': rating?.count ?? 0,
-  'data-note': note ? 'yes' : 'no',
+  // The rate as a number, for sorting. Absent rather than zero on a property
+  // with no captured rate, so a cheapest-first sort cannot float it to the top
+  // on a price it never quoted.
+  ...(usd === null ? {} : { 'data-price': Math.round(usd) }),
 };
 
 const formatDate = (iso: string) =>
@@ -48,8 +58,9 @@ const formatDate = (iso: string) =>
 ---
 
 <article class="card" data-media={images.length > 0 ? 'yes' : 'no'} {...filterData}>
-  {
-    images.length > 0 && (
+  <div class="card__aside">
+    {
+      images.length > 0 && (
       /* The photographs are the link too. They are the property's own listing
          images and a reader who clicks one is asking to see the property, which
          is what the rates page is. aria-label rather than letting the three alt
@@ -73,13 +84,39 @@ const formatDate = (iso: string) =>
             decoding="async"
           />
         ))}
+        </a>
+      )
+    }
+
+    {/* The button sits with the photographs rather than at the foot of the
+        prose. It goes to the same place they do, and a reader who has decided
+        on a property from the frames should not have to scroll past two
+        paragraphs of review summary to act on it. */}
+    <p class="card__actions">
+      <a
+        class="card__cta"
+        href={goPath(row.goSlug)}
+        rel="sponsored noopener"
+        target="_blank"
+        aria-label={`Check dates for ${row.name} on Trip.com, opens in a new tab`}
+      >
+        Check dates
       </a>
-    )
-  }
+    </p>
+  </div>
 
   <div class="card__body">
     <header class="card__head">
-      <h3>{href ? <a href={href}>{row.name}</a> : row.name}</h3>
+      {/* The name goes to the rates page like the photographs do. Where we have
+          written the property up, that page is reached through the flag below
+          rather than through the name: a reader clicking a hotel's name in a
+          listing is asking for the hotel, not for our essay about it. */}
+      <h3>
+        <a href={goPath(row.goSlug)} rel="sponsored noopener" target="_blank">
+          {row.name}
+          <span class="vm-sr-only"> on Trip.com, opens in a new tab</span>
+        </a>
+      </h3>
       <p class="card__meta">
         {row.city}
         {rating && (
@@ -91,12 +128,19 @@ const formatDate = (iso: string) =>
             from {rating.count.toLocaleString('en-GB')} reviews
           </>
         )}
-        {href && <span class="card__flag">Written up</span>}
+        {href && (
+          <>
+            {' · '}
+            <a class="card__flag" href={href}>
+              Our write up
+            </a>
+          </>
+        )}
       </p>
       {/* Trip.com's cheapest nightly rate at capture, not a quote. Rates move
           daily and this one is a snapshot of a single search, which is why the
           word is "from" and why the number is never presented as ours. */}
-      {price && <p class="card__price">{price} <span class="card__price-unit">a night on Trip.com</span></p>}
+      {price && <p class="card__price">{price} <span class="card__price-unit">a night</span></p>}
     </header>
 
     {
@@ -117,20 +161,11 @@ const formatDate = (iso: string) =>
       comment && (
         <figure class="card__quote">
           <blockquote cite={comment.sourceUrl}>{comment.quote}</blockquote>
-          <figcaption>
-            {comment.author}, {formatDate(comment.date)}
-            {comment.translated && ', translated by Trip.com'}
-          </figcaption>
+          {/* No translation note. Terms carries the standing line that nothing
+              on a card is written by us and that the reviews are Trip.com's,
+              and a label repeated under eight hundred quotes is noise. */}
+          <figcaption>{comment.author}, {formatDate(comment.date)}</figcaption>
         </figure>
-      )
-    }
-
-    {
-      note && (
-        <p class="card__note">
-          <span class="card__note-label">What guests raise</span>
-          {note.text}
-        </p>
       )
     }
 
@@ -143,17 +178,6 @@ const formatDate = (iso: string) =>
       )
     }
 
-    <p class="card__actions">
-      <a
-        class="card__cta"
-        href={goPath(row.goSlug)}
-        rel="sponsored noopener"
-        target="_blank"
-        aria-label={`Check dates for ${row.name} on Trip.com, opens in a new tab`}
-      >
-        Check dates
-      </a>
-    </p>
   </div>
 </article>
 
@@ -173,15 +197,17 @@ const formatDate = (iso: string) =>
     border-bottom: 1px solid var(--color-line);
   }
 
-  /* Media left, text right, from tablet up. The image column is fixed rather
-     than fractional so every card in the list has its text starting on the same
-     vertical line, which is what makes a long list scannable.
+  /* Media left, text right, from tablet up. Both tracks are fractional so the
+     photographs grow with the viewport instead of stopping at a fixed width and
+     leaving the frames small on a wide screen. The ratio still puts every
+     card's text on the same vertical line, which is what makes a long list
+     scannable.
      A card with no capture yet has no image column at all, and its text takes
      the full width rather than sitting in an empty one. */
   @media (min-width: 720px) {
     .card[data-media='yes'] {
-      grid-template-columns: 20rem minmax(0, 1fr);
-      gap: 1.75rem;
+      grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr);
+      gap: 2rem;
       align-items: start;
     }
   }
@@ -235,6 +261,10 @@ const formatDate = (iso: string) =>
 
   /* Body ------------------------------------------------------------------- */
 
+  .card__aside {
+    min-width: 0;
+  }
+
   .card__body {
     min-width: 0;
   }
@@ -243,6 +273,13 @@ const formatDate = (iso: string) =>
     margin: 0;
     font-size: 1.125rem;
     line-height: 1.3;
+    /* Trip.com hands these over in whatever case the owner typed: nineteen are
+       already shouting, twenty-one open lowercase and sixty carry a lowercase
+       word in the middle. Uppercasing in CSS rather than in the data levels
+       them without editing anybody's name, so the property page, the link and
+       the accessible text all still carry it as written. */
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
     /* Long transliterated names run past any column; wrapping beats an ellipsis
        that hides the half you were looking for. */
     overflow-wrap: anywhere;
@@ -286,20 +323,19 @@ const formatDate = (iso: string) =>
   }
 
   .card__flag {
-    display: inline-block;
-    margin-left: 0.5rem;
-    padding: 0.1rem 0.4rem;
-    background: var(--color-mist);
-    font-size: 0.6875rem;
     font-weight: 600;
-    letter-spacing: 0.04em;
-    text-transform: uppercase;
-    color: var(--color-leaf);
+    color: var(--color-bamboo);
+    text-decoration: none;
     white-space: nowrap;
   }
 
+  .card__flag:hover,
+  .card__flag:focus-visible {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+
   .card__desc p {
-    max-width: 68ch;
     margin: 0.9rem 0 0;
     font-size: 0.9375rem;
     line-height: 1.6;
@@ -329,7 +365,6 @@ const formatDate = (iso: string) =>
 
   .card__quote blockquote {
     margin: 0;
-    max-width: 62ch;
     font-family: var(--font-display);
     font-size: 1rem;
     line-height: 1.5;
@@ -342,37 +377,18 @@ const formatDate = (iso: string) =>
     color: var(--color-muted);
   }
 
-  /* The caveat gets the leaf rule the honest note uses everywhere else on the
-     site, because that is what it is: the one part of the card arguing against
-     the button under it. */
-  .card__note {
-    max-width: 68ch;
-    margin: 1rem 0 0;
-    padding: 0.75rem 1rem;
-    border-left: 2px solid var(--color-leaf);
-    background: var(--color-mist-50);
-    font-size: 0.875rem;
-    line-height: 1.6;
-  }
-
-  .card__note-label {
-    font-weight: 600;
-  }
-
-  .card__note-label::after {
-    content: '. ';
-  }
-
   .card__pending {
-    max-width: 62ch;
     margin: 0.9rem 0 0;
     font-size: 0.875rem;
     line-height: 1.6;
     color: var(--color-muted);
   }
 
+  /* Centred under the frames, since the column above it is the photographs
+     rather than a line of prose to align a button to. */
   .card__actions {
-    margin: 1.25rem 0 0;
+    margin: 1rem 0 0;
+    text-align: center;
   }
 
   .card__cta {

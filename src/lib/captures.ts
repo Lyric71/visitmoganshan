@@ -21,6 +21,12 @@ export type CaptureComment = {
   rating?: number;
   translated: boolean;
   sourceUrl: string;
+  /**
+   * An English rendering of a quote written in Chinese, where one exists.
+   * Written by scripts/translate-comments.mjs and never by the capture: a
+   * translation is an edit, and the original stays in the record beside it.
+   */
+  quoteEn?: string;
 };
 
 export type SummaryBlock = { topic: string; text: string; count: number };
@@ -101,6 +107,29 @@ function tidy(text: string): string {
   const trimmed = text.replace(/\s+/g, ' ').replace(/\s+([.,;:!?])/g, '$1').trim();
   if (!trimmed) return trimmed;
   return /[.!?]$/.test(trimmed) ? trimmed : `${trimmed}.`;
+}
+
+const CJK = /[㐀-鿿豈-﫿぀-ヿ]/;
+
+/**
+ * The one review a card quotes, in English.
+ *
+ * Most reviews on this mountain were written in Chinese, and a card that quotes
+ * one untranslated is showing an English speaking reader a block they cannot
+ * read and a word count they cannot judge. So: an English original first, a
+ * translated Chinese one second, and nothing at all rather than a wall of
+ * characters.
+ *
+ * The order matters more than it looks. Preferring the original means the 434
+ * properties with an English review quote a guest directly, and only the ones
+ * with no English review at all fall back to a translation.
+ */
+export function cardComment(capture: Capture): CaptureComment | null {
+  const comments = capture.comments ?? [];
+  const original = comments.find((comment) => !CJK.test(comment.quote));
+  if (original) return original;
+  const rendered = comments.find((comment) => comment.quoteEn && !CJK.test(comment.quoteEn));
+  return rendered ? { ...rendered, quote: rendered.quoteEn!, translated: true } : null;
 }
 
 /** The caveat a card shows: what the guests who complained complained about. */

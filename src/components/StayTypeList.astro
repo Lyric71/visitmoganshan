@@ -29,7 +29,19 @@ interface Props {
 
 const { type, writtenUp } = Astro.props;
 
-const rows = staysOfType(type);
+/**
+ * Most reviewed first.
+ *
+ * The seed order is Trip.com's, which is theirs to arrange and not an argument
+ * about the mountain. Review count is the one ranking on these cards that is
+ * not our opinion and not the affiliate's: it says how much evidence sits
+ * behind the score, and a place with two thousand reviews is a known quantity
+ * in a way that a place with four is not. Sorted here rather than in the
+ * browser so the order is in the HTML and holds without JavaScript.
+ */
+const rows = [...staysOfType(type)].sort(
+  (a, b) => (CAPTURES.get(b.id)?.rating?.count ?? 0) - (CAPTURES.get(a.id)?.rating?.count ?? 0),
+);
 
 const unpriced = rows.filter((row) => priceBand(CAPTURES.get(row.id)) === 'unknown').length;
 ---

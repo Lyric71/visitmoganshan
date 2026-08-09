@@ -4,11 +4,9 @@ import { PRICE_BANDS } from '../lib/captures';
 /**
  * The filter bar above a listing.
  *
- * Three axes, because three is what the captured data can actually support:
- * the nightly rate Trip.com showed, how many reviews are behind the score, and
- * whether the summary carries a caveat from the guests who complained. Anything
- * else on these cards is prose, and a filter over prose is a search box
- * pretending to be a control.
+ * Two axes: the nightly rate Trip.com showed and how many reviews are behind
+ * the score. Anything else on these cards is prose, and a filter over prose is
+ * a search box pretending to be a control.
  *
  * It runs in the browser over the cards already in the page. Nothing is fetched
  * and nothing re-renders: with three hundred homestays in one list, hiding rows
@@ -57,11 +55,15 @@ const REVIEW_TIERS = [
     </div>
 
     <div class="filters__group">
-      <label class="filters__label" for="filter-note">What guests raise</label>
-      <select class="filters__select" id="filter-note" name="note">
-        <option value="">Either way</option>
-        <option value="yes">Has a caveat</option>
-        <option value="no">None recorded</option>
+      <label class="filters__label" for="filter-sort">Sort</label>
+      {/* The list already arrives most reviewed first, so that option is the
+          one selected: a control whose default disagrees with what is on the
+          page is a control that lies. */}
+      <select class="filters__select" id="filter-sort" name="sort">
+        <option value="" selected>Most reviewed</option>
+        <option value="price-asc">Rate, lowest first</option>
+        <option value="price-desc">Rate, highest first</option>
+        <option value="reviews-asc">Fewest reviews</option>
       </select>
     </div>
 
@@ -88,29 +90,67 @@ const REVIEW_TIERS = [
     // JavaScript never meets a control that does nothing.
     form.hidden = false;
 
-    // Read once. Three hundred cards times three attribute lookups per
-    // keystroke is work that does not need doing twice.
-    const rows = cards.map((el) => ({
+    // Read once. Three hundred cards times an attribute lookup each per change
+    // is work that does not need doing twice. `order` keeps the position the
+    // build put them in, which is what "our order" restores.
+    const rows = cards.map((el, order) => ({
       el,
+      order,
       band: el.getAttribute('data-price-band') || 'unknown',
       reviews: Number(el.getAttribute('data-reviews') || 0),
-      note: el.getAttribute('data-note') || 'no',
+      price: el.hasAttribute('data-price') ? Number(el.getAttribute('data-price')) : null,
     }));
 
     const plural = (n) => (n === 1 ? 'property' : 'properties');
 
+    /**
+     * Reorder the list in place.
+     *
+     * A property with no captured rate sorts to the bottom of a rate sort in
+     * either direction rather than being treated as free or as infinite, and
+     * holds its build order down there. One appendChild pass inside a fragment,
+     * so three hundred cards move in a single layout rather than three hundred.
+     */
+    const sortBy = (mode) => {
+      if (!list) return;
+      const sorted = [...rows];
+      if (mode === 'price-asc' || mode === 'price-desc') {
+        const dir = mode === 'price-asc' ? 1 : -1;
+        sorted.sort((a, b) => {
+          if (a.price === null && b.price === null) return a.order - b.order;
+          if (a.price === null) return 1;
+          if (b.price === null) return -1;
+          return (a.price - b.price) * dir || a.order - b.order;
+        });
+      } else if (mode === 'reviews-asc') {
+        sorted.sort((a, b) => a.reviews - b.reviews || a.order - b.order);
+      } else {
+        sorted.sort((a, b) => a.order - b.order);
+      }
+      const fragment = document.createDocumentFragment();
+      for (const row of sorted) fragment.appendChild(row.el);
+      list.appendChild(fragment);
+    };
+
+    let lastSort = null;
+
     const apply = () => {
       const price = form.elements.price.value;
       const reviews = Number(form.elements.reviews.value || 0);
-      const note = form.elements.note.value;
-      const active = Boolean(price || reviews || note);
+      const sort = form.elements.sort.value;
+      // Sorting is not filtering: it changes the order, never the count, so the
+      // line below must not start claiming a subset because somebody sorted.
+      const filtered = Boolean(price || reviews);
+      const active = filtered || Boolean(sort);
+
+      if (sort !== lastSort) {
+        sortBy(sort);
+        lastSort = sort;
+      }
 
       let shown = 0;
       for (const row of rows) {
-        const ok =
-          (!price || row.band === price) &&
-          (!reviews || row.reviews >= reviews) &&
-          (!note || row.note === note);
+        const ok = (!price || row.band === price) && (!reviews || row.reviews >= reviews);
         // hidden rather than display:none in a class, so the attribute is the
         // single source of truth and nothing has to fight the card's own
         // grid display rule.
@@ -118,13 +158,13 @@ const REVIEW_TIERS = [
         if (ok) shown += 1;
       }
 
-      if (list) list.setAttribute('data-filtered', active ? 'yes' : 'no');
+      if (list) list.setAttribute('data-filtered', filtered ? 'yes' : 'no');
       reset.hidden = !active;
 
-      if (!active) {
+      if (!filtered) {
         count.textContent = `Showing all ${total.toLocaleString('en-GB')}.`;
       } else if (shown === 0) {
-        count.textContent = 'Nothing matches all three. Widen one of them.';
+        count.textContent = 'Nothing matches both. Widen one of them.';
       } else {
         const parts = [`Showing ${shown.toLocaleString('en-GB')} of ${total.toLocaleString('en-GB')} ${plural(total)}`];
         // Only worth saying when the price filter is the thing doing the
