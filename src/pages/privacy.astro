@@ -9,9 +9,10 @@ import LegalPage from '../layouts/LegalPage.astro';
  * not apply, and saying that plainly is worth more than a page of boilerplate
  * that describes a company we are not.
  *
- * Anything asserted here has to stay true of the actual build. If analytics,
- * a newsletter or an embedded booking widget ever ships, this page and
- * /cookies change in the same commit.
+ * Anything asserted here has to stay true of the actual build. If a newsletter
+ * or an embedded booking widget ever ships, this page and /cookies change in
+ * the same commit. Analytics already did: Google Analytics runs for readers
+ * outside mainland China, and both pages name it.
  */
 const SECTIONS = [
   { id: 'who-we-are', label: 'Who we are' },
@@ -35,7 +36,7 @@ const SECTIONS = [
   seoTitle="Privacy · Visit Moganshan"
   description="What Visit Moganshan collects, why, who sees it and how to ask us to delete it. A static travel guide with no advertising trackers and no accounts."
   standfirst="Visit Moganshan is a travel guide, not a booking platform. We collect very little, we sell none of it, and this page says exactly what happens to what we do hold."
-  updated="2026-08-05"
+  updated="2026-08-09"
   sections={SECTIONS}
 >
   <h2 id="who-we-are">Who we are</h2>
@@ -47,7 +48,7 @@ const SECTIONS = [
   </p>
 
   <h2 id="what-we-collect">What we collect</h2>
-  <p>There are two ways your information reaches us, and only two.</p>
+  <p>There are three ways your information reaches us, and only three.</p>
   <p>
     <strong>What you send us.</strong> If you write to us, pitch a property, correct a page or make a
     trade or media enquiry, we receive whatever you put in that message: your name, your email
@@ -60,14 +61,25 @@ const SECTIONS = [
     of delivering and protecting the site. We use them to keep the site up, to size images and pages
     for the devices that actually load them, and to investigate abuse.
   </p>
+  <p>
+    <strong>What our analytics counts.</strong> If you are reading from outside mainland China, the
+    page loads Google Analytics, which sets two cookies on your device and records the page you
+    opened, roughly where in the world you were, how you arrived and what kind of device you used. It
+    is aggregate measurement: it tells us a guide was read 400 times last week and that most of those
+    readers came from a search, not who any of them were. Readers inside mainland China are not
+    measured at all, and neither is anyone whose location we cannot determine. The whole of it,
+    including how to switch it off, is set out in the <a href="/cookies">cookie policy</a>.
+  </p>
 
   <h2 id="what-we-do-not-collect">What we do not collect</h2>
   <p>
     We do not run advertising trackers, remarketing pixels or social media tracking scripts. We do
     not buy contact lists. We do not build profiles of readers, we do not sell or rent anything about
     you, and we do not ask for special category information such as health, religion or political
-    views. The site sets no cookies of its own and asks you to dismiss no banner, which is explained
-    in full in the <a href="/cookies">cookie policy</a>.
+    views. Our analytics property has Google Signals and every advertising feature switched off, so
+    nothing measured here follows you anywhere else or feeds an advertising audience. Beyond the two
+    analytics cookies, the site stores nothing on your device, which is set out in full in the
+    <a href="/cookies">cookie policy</a>.
   </p>
   <p>
     We take no payments on this site. There is no checkout here, so we never see a card number, and
@@ -84,6 +96,11 @@ const SECTIONS = [
     <li>
       To run and defend the site. Server logs support uptime, performance work, and blocking abuse
       such as scraping and attempted attacks.
+    </li>
+    <li>
+      To decide what to write next. Analytics tells us which guides are read and which are opened and
+      abandoned, which is what a page rewrite is prioritised on. It is never used to single out an
+      individual reader.
     </li>
     <li>
       To meet obligations. Correspondence connected to a commercial or contractual matter is kept as
@@ -104,8 +121,11 @@ const SECTIONS = [
   <ul>
     <li>
       <strong>Legitimate interests</strong> for replying to enquiries, keeping the guide accurate,
-      and operating and securing the site. Our interest in running a working, factual travel guide is
-      balanced against the very small amount of information involved.
+      operating and securing the site, and measuring which pages are read so we know what to improve.
+      Our interest in running a working, factual travel guide is balanced against the very small
+      amount of information involved, and the measurement is aggregate, carries no advertising use
+      and can be refused with any of the controls listed in the
+      <a href="/cookies">cookie policy</a>.
     </li>
     <li>
       <strong>Contract</strong> where we are dealing with a trade, media or commercial arrangement
@@ -122,8 +142,8 @@ const SECTIONS = [
   <p>
     Inside our company, only the people who need your message in order to act on it. Outside it, only
     service providers who make the site work, each bound by contract and confidentiality: our hosting
-    and content delivery provider, our email provider, and, where a matter requires it, professional
-    advisers such as lawyers and accountants.
+    and content delivery provider, our email provider, Google as the provider of our analytics, and,
+    where a matter requires it, professional advisers such as lawyers and accountants.
   </p>
   <p>
     We will disclose information where the law compels us to, and to protect the rights or safety of
@@ -137,7 +157,8 @@ const SECTIONS = [
     The site is hosted on servers operated by our provider and delivered worldwide from an edge
     network, so a page you load may be served from a location near you. Email and correspondence are
     held on providers whose infrastructure sits in Hong Kong, the European Economic Area and the
-    United States.
+    United States. Analytics data is processed by Google, which means it leaves Hong Kong and is held
+    on Google infrastructure including in the United States.
   </p>
   <p>
     That means information may be transferred outside your own country. Where personal data of
@@ -156,6 +177,12 @@ const SECTIONS = [
     <li>
       Server logs: retained by our hosting provider for a short operational window, typically no more
       than 30 days, unless an entry is needed for a live security investigation.
+    </li>
+    <li>
+      Analytics: event level records are kept by Google for no more than 14 months, after which only
+      the aggregate
+      reports remain. The two cookies on your own device expire two years after your last visit, and
+      clearing your browser's cookies removes them immediately.
     </li>
   </ul>
   <p>

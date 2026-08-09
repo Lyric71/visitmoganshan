@@ -82,6 +82,12 @@ const ogImageUrl = new URL(ogImage, Astro.site).href;
     <!-- Structured data and anything else a page needs in the head. Injected
          here rather than in the body so it is present before first paint. -->
     <slot name="head" />
+
+    <!-- Analytics, requested from our own domain and gated on the reader's
+         country by src/pages/ga.js.ts. A reader in mainland China is served an
+         inert stub, so no request to Google is ever made from behind the Great
+         Firewall. Loaded async and last: it must never hold up the page. -->
+    <script is:inline async src="/ga.js"></script>
   </head>
   <!-- id="top" is the target of the footer's back to top link. On <body> rather
        than on a wrapper so it returns the reader above the header, and so it

@@ -4,24 +4,25 @@ import LegalPage from '../layouts/LegalPage.astro';
 /**
  * /cookies
  *
- * The honest version of this page is four words long, so it leads with them and
- * then explains why. The rest exists for the reader who does not believe a site
- * can work without cookies, and for the day one of the categories below stops
- * being hypothetical.
+ * One measurement runs on this site and nothing else does, so the page leads
+ * with exactly what that measurement is and then accounts for everything it
+ * does not do. The rest exists for the reader who assumes any site running
+ * analytics is also running six advertising networks behind it.
  *
  * If a cookie, a pixel, a hosted script or an embed ever ships, this page is
- * part of that commit. A cookie policy that says none while one is set is worse
- * than having no policy at all.
+ * part of that commit. A cookie policy that names one script while two are
+ * loading is worse than having no policy at all.
  */
 const SECTIONS = [
   { id: 'the-short-version', label: 'The short version' },
-  { id: 'why', label: 'Why' },
+  { id: 'analytics', label: 'The one thing we measure' },
+  { id: 'inside-china', label: 'Reading from inside China' },
   { id: 'what-a-cookie-is', label: 'What a cookie is' },
-  { id: 'if-that-changes', label: 'If that changes' },
+  { id: 'what-we-do-not-set', label: 'What we do not set' },
   { id: 'other-storage', label: 'Other browser storage' },
   { id: 'third-party-content', label: 'Third party content' },
   { id: 'server-logs', label: 'Server logs' },
-  { id: 'your-browser', label: 'Your browser' },
+  { id: 'your-browser', label: 'Your browser, and how to opt out' },
   { id: 'legal', label: 'Legal framework' },
   { id: 'contact', label: 'Contact' },
 ];
@@ -30,30 +31,61 @@ const SECTIONS = [
 <LegalPage
   title="Cookies"
   seoTitle="Cookie policy · Visit Moganshan"
-  description="Visit Moganshan sets no cookies of its own, loads no third party scripts and shows no consent banner. This page explains why, and what would change if that ever stopped being true."
-  standfirst="This site sets no cookies, runs no trackers and asks you to dismiss nothing. That is a design decision, not an oversight, and this page explains what it means."
-  updated="2026-08-05"
+  description="Visit Moganshan runs one measurement, Google Analytics, and only for readers outside mainland China. No advertising trackers, no remarketing pixels, no embeds. This page names exactly what is set."
+  standfirst="One thing on this site counts you: Google Analytics, and only if you are reading from outside mainland China. Nothing else is set, and this page accounts for all of it."
+  updated="2026-08-09"
   sections={SECTIONS}
 >
   <h2 id="the-short-version">The short version</h2>
   <p>
-    As of 5 August 2026, Visit Moganshan sets no cookies of its own, loads no third party scripts,
-    runs no analytics and shows no consent banner. There is nothing on this page for you to accept,
-    reject or configure, because there is nothing being set.
+    Visit Moganshan runs Google Analytics, and nothing else. It counts pages read, roughly where in
+    the world the reader was, and how they arrived. It does not know your name, it is not connected
+    to any advertising we buy, because we buy none, and it is switched off entirely for readers
+    inside mainland China. There are no advertising trackers, no remarketing pixels, no social
+    widgets and no embedded players anywhere on this site.
   </p>
 
-  <h2 id="why">Why</h2>
+  <h2 id="analytics">The one thing we measure</h2>
   <p>
-    Not principle alone. The site is a static build with no login, no basket and no personalisation,
-    so there is no state worth storing on your machine in the first place. Every font, image, style
-    sheet and script is served from our own domain, which keeps the guide fast, keeps it loading
-    reliably inside mainland China where many third party services are unreachable, and removes the
-    only realistic route by which somebody else could watch you read.
+    Google Analytics 4, property G-RRDR1EJK35. It answers questions we cannot answer any
+    other way: which of these guides are actually read to the end, which are opened on a phone
+    halfway up the hill, which pages people leave immediately because they did not find what the
+    search result promised. That is what decides which pages get rewritten next.
   </p>
   <p>
-    A cookie banner would also be a lie in miniature. Almost every one you dismiss exists to gather
-    consent for tracking that the site chose to add. We chose not to add it, so there is nothing to
-    consent to.
+    To do it, Google Analytics sets two cookies on your device, named _ga and _ga_RRDR1EJK35. They
+    hold a randomly generated number that lets the same browser be
+    recognised on a second visit, so two visits from you are not counted as two people. They expire
+    two years after your last visit. They carry no name, no email address and nothing you typed.
+  </p>
+  <p>
+    Your IP address reaches Google as part of the request, is used to place you at roughly city
+    level, and is not retained by Google Analytics or made available to us. What we see is aggregate:
+    counts, countries, referrers, devices. We do not use Google Signals, we run no advertising or
+    remarketing features on the property, and nothing measured here is used to build an advertising
+    audience.
+  </p>
+  <p>
+    Google Analytics is operated by Google, which means this data is processed outside Hong Kong,
+    including in the United States. Google's own handling of it is covered by the
+    <a href="https://policies.google.com/privacy" rel="nofollow noopener" target="_blank"
+      >Google privacy policy</a
+    >, over which we have no control.
+  </p>
+
+  <h2 id="inside-china">Reading from inside China</h2>
+  <p>
+    If you are reading this from mainland China, none of the above is happening to you. The analytics
+    script is requested from our own domain, and our server decides per request whether to answer
+    with the real thing or with an empty file. Requests we place inside mainland China get the empty
+    file: no cookie is set, and no request to Google is made from your browser at all.
+  </p>
+  <p>
+    This is as much a performance decision as a privacy one. Google's servers are not reachable from
+    behind the Great Firewall, so a page that asks for them anyway spends its time waiting on a
+    script that will never arrive, and the reader who pays for that is usually the one on a phone and
+    a weak signal on the mountain itself. If we cannot tell where a request came from, it is treated
+    as being inside China and the measurement does not run.
   </p>
 
   <h2 id="what-a-cookie-is">What a cookie is</h2>
@@ -65,39 +97,39 @@ const SECTIONS = [
     that earned the reputation.
   </p>
 
-  <h2 id="if-that-changes">If that changes</h2>
+  <h2 id="what-we-do-not-set">What we do not set</h2>
   <p>
-    We are not promising never to set one. If the guide gains a feature that genuinely needs storage,
-    it will fall into one of these categories, and this page will be updated in the same release that
-    ships it.
+    Everything below is absent from this site today, and if any of it ever ships, this page changes
+    in the same release.
   </p>
   <ul>
     <li>
-      <strong>Strictly necessary.</strong> Required for the site to work at all: security,
-      preventing abuse, remembering a form you are part way through. These do not require your
-      consent under any regime we operate in, and we would still name them here.
+      <strong>Marketing and remarketing.</strong> Advertising trackers, conversion pixels, audience
+      builders. None, and we have no plans for any. If that ever changed they would require your
+      explicit opt in, off by default, through a real control rather than a banner engineered to be
+      accepted.
     </li>
     <li>
-      <strong>Functional.</strong> Remembering a choice you made, such as a language or a preference
-      for kilometres over miles. Set only when you make the choice.
+      <strong>Social.</strong> No like buttons, share widgets or platform pixels. The share links on
+      this site are ordinary links that do nothing until you click them.
     </li>
     <li>
-      <strong>Analytics.</strong> Counting which pages are read, so we know what to improve. If we
-      ever measure, it will be privacy first and self hosted, with no cross site identifier and
-      nothing shared with an advertising network.
+      <strong>Functional.</strong> We store no preference of yours, because the site asks you for
+      none: no language switcher, no units toggle, no theme. Anything of that kind would be set only
+      at the moment you chose it.
     </li>
     <li>
-      <strong>Marketing.</strong> Advertising and remarketing trackers. We have no plans for these.
-      If that ever changed, they would require your explicit opt in, off by default, and you would
-      meet a real consent control rather than a banner engineered to be accepted.
+      <strong>Strictly necessary.</strong> Nothing beyond the contact form's own submission, which
+      keeps no cookie afterwards. There is no login and no basket to hold open.
     </li>
   </ul>
 
   <h2 id="other-storage">Other browser storage</h2>
   <p>
     Cookies are not the only way to keep something on your device, and a policy that only mentions
-    cookies is dodging the question. We also do not use local storage, session storage, IndexedDB,
-    service workers or fingerprinting techniques of any kind.
+    cookies is dodging the question. We use no local storage, no session storage, no IndexedDB, no
+    service workers and no fingerprinting techniques of any kind. The two analytics cookies named
+    above are the whole of what this site puts on your machine.
   </p>
   <p>
     The one thing your browser does keep is its ordinary cache: copies of pages, images and fonts, so
@@ -107,10 +139,11 @@ const SECTIONS = [
 
   <h2 id="third-party-content">Third party content</h2>
   <p>
-    We embed nothing from anybody else. No hosted maps, no video players, no social widgets, no font
-    or script services, no comment platforms. Each of those is a request to another company's server
-    that carries your IP address and typically sets cookies of its own, and each is also a component
-    that can fail to load in mainland China and take part of the page with it. We link out to those
+    Apart from the analytics script, we embed nothing from anybody else. No hosted maps, no video
+    players, no social widgets, no font or script services, no comment platforms. Every font, image
+    and style sheet on this site is served from our own domain. Each embed we have declined is a
+    request to another company's server carrying your IP address, and each is also a component that
+    can fail to load in mainland China and take part of the page down with it. We link out to those
     services instead, so you decide whether to visit them.
   </p>
   <p>
@@ -126,25 +159,41 @@ const SECTIONS = [
     covered in the <a href="/privacy">privacy policy</a>.
   </p>
 
-  <h2 id="your-browser">Your browser</h2>
+  <h2 id="your-browser">Your browser, and how to opt out</h2>
   <p>
     Your browser is the final authority over storage, whatever any site claims. Every major browser
     lets you view what has been stored, delete it, and block cookies by site or across the board,
     usually under settings for privacy, content or site data. Blocking cookies entirely will break a
-    great many sites. It will not break this one.
+    great many sites. It will not break this one: nothing here depends on the analytics cookies, and
+    the guide works identically without them.
+  </p>
+  <p>
+    If you would rather not be counted, any of these is enough, and none of them costs you anything
+    on this site. Block cookies for visitmoganshan.com in your browser settings. Install Google's own
+    <a
+      href="https://tools.google.com/dlpage/gaoptout"
+      rel="nofollow noopener"
+      target="_blank">Analytics opt out add on</a
+    >, which switches the measurement off across every site that uses it. Or use any content blocker,
+    or a browser such as Safari, Firefox or Brave that blocks this class of script by default.
   </p>
 
   <h2 id="legal">Legal framework</h2>
   <p>
     We follow Hong Kong's Personal Data (Privacy) Ordinance, and we apply the standards of the
     ePrivacy rules and the UK and EU GDPR for readers in the United Kingdom and the European Economic
-    Area. Those rules require consent before non essential storage is placed on your device. We meet
-    them by not placing any.
+    Area. Those rules treat measurement cookies as non essential and expect a genuine choice about
+    them rather than a banner built to be clicked through. What we do in place of a banner is keep
+    the footprint small enough to state in full on one page: two cookies, one purpose, no advertising
+    use, no profile, and the opt outs above that we honour without asking you for anything. If you
+    are in the UK or the EEA and want that measurement removed rather than declined in your browser,
+    write to us and we will do it.
   </p>
 
   <h2 id="contact">Contact</h2>
   <p>
-    If you believe you have found a cookie or a tracker on this site, we want to know today: write to
+    If you have found a cookie or a tracker on this site that is not one of the two named above, we
+    want to know today: write to
     <a href="mailto:privacy@visitmoganshan.com">privacy@visitmoganshan.com</a>. Related pages are the
     <a href="/privacy">privacy policy</a> and the <a href="/terms">terms</a>.
   </p>
