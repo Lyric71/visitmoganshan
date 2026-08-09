@@ -4,9 +4,14 @@ import { PRICE_BANDS } from '../lib/captures';
 /**
  * The filter bar above a listing.
  *
- * Two axes: the nightly rate Trip.com showed and how many reviews are behind
- * the score. Anything else on these cards is prose, and a filter over prose is
- * a search box pretending to be a control.
+ * A name box and two axes: the nightly rate Trip.com showed and how many
+ * reviews are behind the score. Anything else on these cards is prose, and a
+ * filter over prose is a search box pretending to be a control.
+ *
+ * The name box is a genuine search box and earns its place. Three hundred and
+ * eighty homestays is more than anyone scrolls, and a reader who arrives with a
+ * property already in mind, from a message or another site, should not have to
+ * hunt for it.
  *
  * It runs in the browser over the cards already in the page. Nothing is fetched
  * and nothing re-renders: with three hundred homestays in one list, hiding rows
@@ -37,6 +42,21 @@ const REVIEW_TIERS = [
 
 <form class="filters" data-stay-filters hidden aria-label="Filter these properties">
   <div class="filters__row">
+    <div class="filters__group filters__group--name">
+      <label class="filters__label" for="filter-name">Property name</label>
+      {/* type=search rather than text, so a phone offers the right keyboard and
+          the browser draws its own clear button. No form submission: the list
+          is already in the page and there is nowhere to submit to. */}
+      <input
+        class="filters__input"
+        id="filter-name"
+        name="name"
+        type="search"
+        autocomplete="off"
+        placeholder="Search by name"
+      />
+    </div>
+
     <div class="filters__group">
       <label class="filters__label" for="filter-price">Nightly rate</label>
       <select class="filters__select" id="filter-price" name="price">
@@ -99,7 +119,21 @@ const REVIEW_TIERS = [
       band: el.getAttribute('data-price-band') || 'unknown',
       reviews: Number(el.getAttribute('data-reviews') || 0),
       price: el.hasAttribute('data-price') ? Number(el.getAttribute('data-price')) : null,
+      name: (el.getAttribute('data-name') || '').toLowerCase(),
     }));
+
+    /**
+     * A name typed in the box, reduced to the letters and digits that matter.
+     *
+     * These names arrive from Trip.com with middots, bracketed suffixes and
+     * inconsistent spacing ("Moganshan·Suishan TuttoBene·Infinity Party Pool"),
+     * so a literal substring test fails on exactly the queries a reader is most
+     * likely to type. Folding both sides to letters and digits means "naked
+     * stables" finds "naked Stables Resort" and "tuttobene" finds the row above.
+     */
+    const fold = (value) => value.toLowerCase().replace(/[^a-z0-9一-鿿]+/g, '');
+
+    for (const row of rows) row.folded = fold(row.name);
 
     const plural = (n) => (n === 1 ? 'property' : 'properties');
 
@@ -138,9 +172,11 @@ const REVIEW_TIERS = [
       const price = form.elements.price.value;
       const reviews = Number(form.elements.reviews.value || 0);
       const sort = form.elements.sort.value;
+      const typed = form.elements.name.value.trim();
+      const name = fold(typed);
       // Sorting is not filtering: it changes the order, never the count, so the
       // line below must not start claiming a subset because somebody sorted.
-      const filtered = Boolean(price || reviews);
+      const filtered = Boolean(price || reviews || name);
       const active = filtered || Boolean(sort);
 
       if (sort !== lastSort) {
@@ -150,7 +186,10 @@ const REVIEW_TIERS = [
 
       let shown = 0;
       for (const row of rows) {
-        const ok = (!price || row.band === price) && (!reviews || row.reviews >= reviews);
+        const ok =
+          (!name || row.folded.includes(name)) &&
+          (!price || row.band === price) &&
+          (!reviews || row.reviews >= reviews);
         // hidden rather than display:none in a class, so the attribute is the
         // single source of truth and nothing has to fight the card's own
         // grid display rule.
@@ -164,7 +203,12 @@ const REVIEW_TIERS = [
       if (!filtered) {
         count.textContent = `Showing all ${total.toLocaleString('en-GB')}.`;
       } else if (shown === 0) {
-        count.textContent = 'Nothing matches both. Widen one of them.';
+        // Name the thing that emptied the list. "Nothing matches" over a typed
+        // name usually means a typo, and telling somebody to widen a filter
+        // they did not touch sends them the wrong way.
+        count.textContent = name
+          ? `No property here is called "${typed}". Check the spelling, or try part of the name.`
+          : 'Nothing matches. Widen one of the filters.';
       } else {
         const parts = [`Showing ${shown.toLocaleString('en-GB')} of ${total.toLocaleString('en-GB')} ${plural(total)}`];
         // Only worth saying when the price filter is the thing doing the
@@ -179,6 +223,18 @@ const REVIEW_TIERS = [
     };
 
     form.addEventListener('change', apply);
+
+    // The name box filters as you type. `change` alone would only fire on blur,
+    // which on a search box reads as broken. A frame's delay keeps a fast typist
+    // from triggering one pass per keystroke over several hundred cards.
+    let pending = 0;
+    form.elements.name.addEventListener('input', () => {
+      cancelAnimationFrame(pending);
+      pending = requestAnimationFrame(apply);
+    });
+
+    // Enter in a single field submits the form in every browser, which would
+    // reload the page and throw the filtering away.
     form.addEventListener('submit', (event) => event.preventDefault());
     reset.addEventListener('click', () => {
       form.reset();
@@ -229,6 +285,14 @@ const REVIEW_TIERS = [
     .filters__group {
       max-width: 16rem;
     }
+
+    /* The name box takes the widest basis of the four. It holds a hotel name
+       rather than one of four fixed words, and it is the control most readers
+       will reach for first. */
+    .filters__group--name {
+      flex: 1 1 18rem;
+      max-width: 22rem;
+    }
   }
 
   .filters__label {
@@ -239,7 +303,8 @@ const REVIEW_TIERS = [
     color: var(--color-muted);
   }
 
-  .filters__select {
+  .filters__select,
+  .filters__input {
     /* 44px, the tap target floor the buttons on this site already keep to. */
     min-height: 44px;
     width: 100%;
@@ -252,7 +317,18 @@ const REVIEW_TIERS = [
     color: var(--color-ink);
   }
 
-  .filters__select:focus-visible {
+  /* Safari rounds a search field and shrinks its text by default. */
+  .filters__input {
+    -webkit-appearance: none;
+    appearance: none;
+  }
+
+  .filters__input::placeholder {
+    color: var(--color-muted);
+  }
+
+  .filters__select:focus-visible,
+  .filters__input:focus-visible {
     outline: 2px solid var(--color-bamboo);
     outline-offset: 1px;
   }

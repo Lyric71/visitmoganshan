@@ -47,6 +47,10 @@ const usd = usdAmount(capture);
 const filterData = {
   'data-price-band': priceBand(capture),
   'data-reviews': rating?.count ?? 0,
+  // The name as written, for the search box. Read from an attribute rather than
+  // from the heading because the heading is uppercased in CSS and carries a
+  // screen reader suffix, neither of which anybody types.
+  'data-name': row.name,
   // The rate as a number, for sorting. Absent rather than zero on a property
   // with no captured rate, so a cheapest-first sort cannot float it to the top
   // on a price it never quoted.
