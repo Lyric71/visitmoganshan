@@ -65,8 +65,6 @@ Thirteen services is enough choice to be useful and not enough to be casual abou
 
 Pull up the [live Shanghai Hongqiao to Deqing timetable](/go/trains-shanghai-deqing/) and read the whole day before you pick anything, because the train that suits you and the train that drops you into the shuttle gap can be forty minutes apart.
 
-> We may earn a commission if you book through that link, at no cost to you. [How this site is funded](/plan/disclosure/).
-
 > High-end guesthouse occupancy reached 94 percent over the May 2024 holiday. BeyondBorder Group Ltd research file, August 2026.
 
 ### 2. Set the destination to Deqing

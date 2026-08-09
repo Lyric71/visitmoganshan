@@ -70,8 +70,6 @@ Here are three real services to give you a feel for the spread:
 
 Those three are a sample of the spread, not a schedule. The [live Hongqiao to Deqing timetable](/go/trains-shanghai-deqing/) is what to book from, because train numbers and fares move with every timetable revision.
 
-> We may earn a commission if you book through that link, at no cost to you. [How this site is funded](/plan/disclosure/).
-
 ### Step by step
 
 1. **Book to Deqing (德清). Not to Moganshan.** There is a station called Moganshan on the Shangqiu to Hefei to Hangzhou line. It does not serve the mountain. It serves Deqing and Wukang town instead. Booking it is the single most common mistake made on this trip.

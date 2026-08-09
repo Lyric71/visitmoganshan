@@ -52,8 +52,6 @@ Three real Hongqiao services, as a sense check: G1419 leaves at 17:39 and arrive
 
 Coming from Hangzhou, the equivalent is the [live Hangzhou East to Deqing times](/go/trains-hangzhou-deqing/), where the choice is which of the sixteen daily services lands you in front of a shuttle rather than in the gap between two.
 
-> We may earn a commission if you book through either of those links, at no cost to you. [How this site is funded](/plan/disclosure/).
-
 The northern approach improved in late 2024, when the Shanghai to Suzhou to Huzhou high-speed line opened on 26 December and cut the fastest Hongqiao to Huzhou run to 55 minutes.
 
 > Train times, service counts and fares, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.

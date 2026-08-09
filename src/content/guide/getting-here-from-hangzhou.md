@@ -25,8 +25,6 @@ The high-speed train from Hangzhou East to Deqing takes 13 to 17 minutes. Sixtee
 
 The [live Hangzhou East to Deqing timetable](/go/trains-hangzhou-deqing/) is what to book from. Fares and train numbers move with every timetable revision, and on a leg this short the only thing worth choosing carefully is the departure time.
 
-> We may earn a commission if you book through that link, at no cost to you. [How this site is funded](/plan/disclosure/).
-
 Visitors tend to read that twice. Thirteen minutes is correct. Deqing station sits on the Nanjing to Hangzhou high-speed line, open since 2013, so the link is not new and does not depend on the newer Shanghai to Huzhou route.
 
 Here is the part that guides leave out. The train is the easy leg. Everything after the train takes longer than the train did.

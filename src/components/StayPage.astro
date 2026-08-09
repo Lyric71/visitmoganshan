@@ -130,10 +130,6 @@ const jsonLd = [
           Check dates on Trip.com
           <span class="vm-sr-only"> (opens in a new tab)</span>
         </a>
-        <p class="cta__disclosure">
-          We may earn a commission if you book through this link, at no cost to you.{' '}
-          <a href="/plan/disclosure">How this site is funded</a>.
-        </p>
         {/* The site-wide note covers two cases, and offering both on a page
             where only one applies tells the reader nothing. A property page
             whose every credit points at the listing says exactly that; a page
@@ -291,21 +287,11 @@ const jsonLd = [
     color: var(--color-muted);
   }
 
-  .cta__disclosure {
-    max-width: 58ch;
-    margin-top: 1rem;
-    font-size: 0.8125rem;
-    line-height: 1.6;
-    color: var(--color-muted);
-  }
-
-  .cta__disclosure a {
-    color: var(--color-bamboo);
-  }
-
+  /* The note used to follow a paragraph and now follows the button, so it
+     carries the gap the paragraph used to provide. */
   .cta__illustration {
     max-width: 58ch;
-    margin-top: 1rem;
+    margin-top: 1.75rem;
     padding-top: 1rem;
     border-top: 1px solid var(--color-line);
     font-size: 0.8125rem;

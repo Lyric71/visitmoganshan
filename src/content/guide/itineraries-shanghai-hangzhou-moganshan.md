@@ -60,8 +60,6 @@ Deqing has been on the Nanjing to Hangzhou high-speed line since 2013, so neithe
 
 If you are running the route in the order above, the leg you book last is Hangzhou to the mountain: check the [live Hangzhou East to Deqing times](/go/trains-hangzhou-deqing/) once your Hangzhou nights are fixed, because sixteen services a day means the train bends to your plan rather than the other way round.
 
-> We may earn a commission if you book through that link, at no cost to you. [How this site is funded](/plan/disclosure/).
-
 Get off at Deqing. The station called Moganshan is on a different line, serving Wukang, the county seat 20 km away.
 
 ## The five days

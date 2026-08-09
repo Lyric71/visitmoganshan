@@ -40,8 +40,6 @@ Look at the third row again. The centers shut at 18:00, but the last shuttle dow
 
 Forget the 07:30 shuttle, and the 08:40 with it. The earliest direct Hongqiao service is the D377, which leaves at 08:11 and reaches Deqing at 09:19, by which time both have gone. Thirteen services run in a day and the timetable is revised regularly, so check the [live Hongqiao to Deqing times](/go/trains-shanghai-deqing/) for your date: an earlier departure moves the whole day forward an hour. So, two ways to cover the last 30 km.
 
-> We may earn a commission if you book through that link, at no cost to you. [How this site is funded](/plan/disclosure/).
-
 ![A traveller standing between a taxi rank and a coach bay outside a station](/images/guide/itineraries-day-trip-from-shanghai-2.webp 'Shuttle or taxi. Decide before you walk out of the station, because the two exits face opposite ways.')
 
 | Option | Cost | Leaves | Reaches the town |
@@ -92,8 +90,6 @@ Based in Hangzhou? Different trip, much easier. Hangzhou East to Deqing is 13 to
 ![A half empty station platform at midday with a train waiting and doors open](/images/guide/itineraries-day-trip-from-shanghai-4.webp 'From Hangzhou the same day is far easier. Thirteen minutes of train instead of an hour.')
 
 Book it off the [live Hangzhou East to Deqing timetable](/go/trains-hangzhou-deqing/). On a day trip the departure you want is the earliest one you will actually make, since everything after it is decided by the shuttle.
-
-> We may earn a commission if you book through that link, at no cost to you. [How this site is funded](/plan/disclosure/).
 
 That short train puts the early shuttles back in reach. Sixteen services a day means the schedule below is a shape rather than a fixed clock; slot your own departure into it.
 

@@ -36,8 +36,6 @@ Both are estimates, and both include getting to Hongqiao, the train and the tran
 
 The train is the easy part. Thirteen direct services a day run from Hongqiao to Deqing in 63 to 80 minutes, second class fares roughly RMB 61 to 110. Pick your Friday departure off the [live Hongqiao to Deqing timetable](/go/trains-shanghai-deqing/) once you know the answer to the next two paragraphs, because the hard part comes after you get off.
 
-> We may earn a commission if you book through that link, at no cost to you. [How this site is funded](/plan/disclosure/).
-
 ![A crowded evening station concourse with motion blurred commuters](/images/guide/itineraries-weekend-from-shanghai-2.webp 'The Friday train is the easy clock. The transfer at the other end is the one that decides your evening.')
 
 Clock one is the Y1 tourist shuttle from the Deqing Coach Center. Seven departures a day, and the last one leaves at 16:00.

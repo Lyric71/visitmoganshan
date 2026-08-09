@@ -52,8 +52,6 @@ From Shanghai Hongqiao there are 13 direct services a day. The ride takes 63 to 
 
 From Hangzhou East it is barely a journey at all. The distance is 35 km, the fastest run is 13 minutes, and there are 16 services a day at roughly RMB 16 to 67. Pick one off the [live Hangzhou East to Deqing timetable](/go/trains-hangzhou-deqing/) with the shuttle departures below in front of you, because the wait at this end is the part that decides your afternoon.
 
-> We may earn a commission if you book through that link, at no cost to you. [How this site is funded](/plan/disclosure/).
-
 Full route detail for both approaches is in [taking the train from Shanghai](/getting-here/from-shanghai/by-train/) and [getting here from Hangzhou](/getting-here/from-hangzhou/).
 
 Look at that last example. The 17:39 arrives at 18:42. Hold that thought.
