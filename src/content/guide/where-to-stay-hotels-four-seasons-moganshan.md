@@ -38,7 +38,7 @@ That is the whole of it. The rest is missing because it was never announced:
 - room types, rates and the restaurant or spa plan
 - the architect, a construction start or a month within 2030
 
-`None of those is confirmed.` A page describing the bathrooms of a building nobody has poured concrete for would be fiction.
+A page describing the bathrooms of a building nobody has poured concrete for would be fiction.
 
 Ninety keys is small. The other names show how small:
 

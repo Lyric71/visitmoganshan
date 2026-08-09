@@ -39,7 +39,7 @@ A booking site gives you a property name and a pin, rarely which flank of the hi
 
 > Village names, characters and locations, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-Every one of them sits below the ridge, and the drive from a village to the scenic area gate is a matter of ten to thirty minutes depending on which flank you are on. The Y1 shuttle from Deqing station runs to the Moganshan tourist distribution center in the town, not into the scenic area, so the last leg from the shuttle to your door is arranged with the property.
+Every one of them sits below the ridge, and the drive to the scenic area gate depends on which flank you are on. Houwu to Yucun is about 30 minutes, which is the far end of it. The Y1 shuttle from Deqing station runs to the Moganshan tourist distribution center in the town, not into the scenic area, so the last leg from the shuttle to your door is arranged with the property.
 
 One rule cuts across all of it. Private vehicles cannot drive inside the core scenic area, so everyone changes at one of three transfer centers: Yucun, Fatou and Houwu, open 08:00 to 18:00. Two of them are villages on the list above. [Getting around Moganshan](/getting-here/getting-around/) has the shuttle times and [the Deqing station guide](/getting-here/deqing-station/) the leg before.
 

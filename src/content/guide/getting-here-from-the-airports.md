@@ -49,7 +49,7 @@ Each airport in turn now, easiest first.
 
 The airport and Shanghai Hongqiao Railway Station sit on the same site. You clear immigration and then walk to your train, without leaving the complex. No taxi, no crossing the city between the plane and the platform. That is why people call this trip easy.
 
-Allow twenty minutes or so for the walk with luggage, and follow the signs for the railway station rather than the metro.
+Follow the signs for the railway station rather than the metro, and allow more time than the signage suggests if you are pushing two cases.
 
 From there, 13 direct services a day run to Deqing. The ride takes 63 to 80 minutes and a second class seat costs roughly RMB 61 to 110, so the train you pick moves the price more than you might expect.
 

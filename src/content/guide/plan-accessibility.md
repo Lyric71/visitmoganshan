@@ -43,7 +43,7 @@ Start with the part that is most likely to work.
 
 Rail reaches Deqing in 63 to 80 minutes from Shanghai Hongqiao and 13 to 17 from Hangzhou East. Book Deqing: another station is called Moganshan and does not serve the mountain, which [the Deqing station guide](/getting-here/deqing-station/) sorts out.
 
-Stations built for that network usually carry elevators and level platform access, and assistance can generally be requested through the operator when you book. Ask for it at the point of booking rather than on the day.
+Stations built for that network usually carry elevators and level platform access. Ask about assistance at the point of booking rather than on the day, and treat the answer you get as the plan.
 
 | Last mile from Deqing station | What runs |
 |---|---|

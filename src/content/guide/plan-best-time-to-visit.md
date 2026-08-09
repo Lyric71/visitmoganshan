@@ -125,7 +125,7 @@ Then daylight. By November the 18:00 cutoff bites well before you feel like stop
 
 ## Winter, honestly
 
-If that rules our window out, there is one more answer. Winter is the contrarian pick, and we will not oversell it.
+If that rules our window out, there is one more answer. Winter is the contrarian pick, with the caveats attached.
 
 | What winter costs you | What it gives back |
 |---|---|

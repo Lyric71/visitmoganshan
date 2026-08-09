@@ -84,7 +84,7 @@ Distance explains it. Moganshan is 2 to 3 hours from Shanghai by road and about 
 
 ## Walking, and the view
 
-Start with what autumn here is not. If you came looking for Moganshan fall colors, this is a bamboo mountain. More than 92 percent of it is forest, almost all of that moso bamboo, a crop rather than the hardwood that turns red in October. Whatever hardwood there is turns in pockets, and it is not what the season is for.
+Start with what autumn here is not. If you came looking for Moganshan fall colors, this is a bamboo mountain. More than 92 percent of it is forest, almost all of that moso bamboo, a crop rather than the hardwood that turns red in October. Bamboo does not turn, and no foliage display is what this season is for.
 
 What you get instead is walking. The paths are stone and packed earth, hard work on an August afternoon and easy on a November one. Bring tread, because both turn slick in mist. [Walking and hiking in Moganshan](/things-to-do/hiking/) covers the terrain.
 

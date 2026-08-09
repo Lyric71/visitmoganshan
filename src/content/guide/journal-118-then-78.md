@@ -76,7 +76,7 @@ Sale is the easiest of the four to picture. Ease is not evidence, and the other 
 
 One thing the figures do rule out. Neither count records a building lost. Whatever happened to the forty, the houses stayed up.
 
-## What we are not going to say
+## The story that writes itself
 
 There is a version of this story that writes itself.
 

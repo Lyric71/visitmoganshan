@@ -82,7 +82,7 @@ Take the founding. E. N. Fletcher, an American Northern Baptist missionary, pick
 
 ### When the figure does not exist, we say so
 
-Neither Huzhou nor Deqing releases an inbound or foreign-visitor figure. It is the first number a DMC or an editor asks for, and we do not have it. We will not estimate it and pass that off as data.
+Neither Huzhou nor Deqing releases an inbound or foreign-visitor figure. It is the first number a DMC or an editor asks for, and it does not exist. An estimate dressed up as data is worse than the gap.
 
 > Absence of any published inbound or foreign-visitor figure for Deqing and Huzhou, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 

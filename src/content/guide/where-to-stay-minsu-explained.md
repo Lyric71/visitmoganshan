@@ -103,7 +103,7 @@ What follows from that is not fear, it is one extra message. Before you pay, wri
 
 ## English, check-in and paying
 
-Nobody publishes a survey of English levels here, so we will not pretend to one. Reason from the ownership picture instead. Around 80 percent of properties are individually owned, and in Xiantan about 90 percent are locally run. The foreign-founded yangjiale and the design-led high end are your best odds of fluent English at the door. A family house in a village of 2,000 people is not.
+Nobody publishes a survey of English levels here, so read the ownership picture instead. Around 80 percent of properties are individually owned, and in Xiantan about 90 percent are locally run. The foreign-founded yangjiale and the design-led high end are your best odds of fluent English at the door. A family house in a village of 2,000 people is not.
 
 ![A passport lying face down beside a paper registration form on a guesthouse counter](/images/guide/where-to-stay-minsu-explained-4.webp 'Registration is a legal requirement, not a formality. Some small properties still turn foreign guests away over it.')
 

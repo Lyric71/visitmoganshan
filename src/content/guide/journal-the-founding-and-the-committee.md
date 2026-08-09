@@ -137,5 +137,5 @@ They had built for a span measured in generations. They got one generation and a
 
 This piece pulls one thread and leaves the others alone. [Moganshan's hill station](/moganshan/hill-station/) is the short account of the whole colonial period, and [the longer history](/moganshan/hill-station/history/) runs the chronology past 1949. If you would rather look at the evidence than read about it, [the walking tour](/moganshan/hill-station/walking-tour/) puts the surviving houses into an order that works on foot.
 
-*Dates and figures here follow the fact base compiled 1 to 5 August 2026, last checked 7 August 2026. Where published sources disagree, the range is printed rather than a single figure, and the gap flagged above stays open until the association's own paperwork turns up.*
+*Dates and figures here follow the fact base compiled 1 to 5 August 2026, last checked 7 August 2026. Where published sources disagree, the range is printed rather than a single figure.*
 

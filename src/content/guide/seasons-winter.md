@@ -41,7 +41,7 @@ Snow brings people here, and we cannot give them what they want.
 
 ![A thin melting dusting of snow on a bamboo slope under a flat grey sky](/images/guide/seasons-winter-3.webp 'Snow happens and does not last. Booking a trip for it is booking on a coin toss.')
 
-Our research turned up no snowfall record for this mountain: no average number of snow days, nothing on depth. So we will not write that a January dusting is common. If snow is your only reason to come, pick a different mountain.
+No snowfall record is published for this mountain: no average number of snow days, nothing on depth. At 720 meters in this part of Zhejiang, a January dusting is possible rather than dependable. If snow is your only reason to come, pick a different mountain.
 
 Do not picture the opposite either. This mountain is a bamboo crop. Forest cover runs over 92 percent, mostly moso, grown to be cut and sold. How that looks in January we have no record of. What you do in the cold is what you do in May: the old hill station, the paths up to Sword Pond.
 

@@ -177,7 +177,7 @@ Our own read is that a lapse looks unlikely. The list has only ever grown, never
 | Shanghai inbound visits, 2025 | 9.36 million, of which 7.14 million were foreign nationals |
 | Zhejiang inbound overnight visitors, 2025 | 4.171 million, up 24.6 percent |
 
-Unlikely is not a booking policy, though. We have no source that says the scheme runs past 2026, and we are not going to write one.
+Unlikely is not a booking policy, though. Nothing has been legislated past 2026, so plan against the date that exists.
 
 | If you travel | What to do |
 |---|---|
