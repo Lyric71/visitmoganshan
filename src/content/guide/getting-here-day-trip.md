@@ -10,7 +10,9 @@ schema: Article
 image: /images/guide/getting-here-day-trip.webp
 image_alt: An empty city avenue at dawn with a single taxi approaching between glass towers
 word_count: 1506
-last_updated: 2026-08-05
+author: cyril-drouin
+published: 2026-08-05
+last_updated: 2026-08-08
 ---
 
 # Moganshan as a day trip from Shanghai

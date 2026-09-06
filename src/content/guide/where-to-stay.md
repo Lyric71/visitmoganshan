@@ -10,7 +10,9 @@ schema: Article
 image: /images/guide/where-to-stay.webp
 image_alt: A lit guesthouse window on a village lane at dusk with bamboo hills standing behind it
 word_count: 1893
-last_updated: 2026-08-05
+author: echo-peng
+published: 2026-08-06
+last_updated: 2026-08-08
 ---
 
 # Where to stay in Moganshan

@@ -4,6 +4,7 @@ import {
   cardComment,
   cardDescription,
   cardPrice,
+  cardPriceCny,
   priceBand,
   usdAmount,
 } from '../lib/captures';
@@ -39,6 +40,7 @@ const blocks = capture ? cardDescription(capture) : [];
 const comment = capture ? cardComment(capture) : null;
 const rating = capture?.rating;
 const price = cardPrice(capture);
+const priceCny = cardPriceCny(capture);
 
 // The filter bar above the list reads these off the card and hides the ones
 // that do not match. They are written even when the value is missing, because
@@ -143,8 +145,18 @@ const formatDate = (iso: string) =>
       </p>
       {/* Trip.com's cheapest nightly rate at capture, not a quote. Rates move
           daily and this one is a snapshot of a single search, which is why the
-          word is "from" and why the number is never presented as ours. */}
-      {price && <p class="card__price">{price} <span class="card__price-unit">a night</span></p>}
+          word is "from" and why the number is never presented as ours. The
+          yuan sits beside the dollar because yuan is what the booking is
+          settled in; the dollar is the figure an English speaking reader can
+          weigh at a glance. */}
+      {
+        price && (
+          <p class="card__price">
+            {price} <span class="card__price-unit">a night</span>
+            {priceCny && <span class="card__price-cny">{priceCny}</span>}
+          </p>
+        )
+      }
     </header>
 
     {
@@ -321,6 +333,13 @@ const formatDate = (iso: string) =>
   }
 
   .card__price-unit {
+    font-weight: 400;
+    font-size: 0.8125rem;
+    color: var(--color-muted);
+  }
+
+  .card__price-cny {
+    margin-left: 0.5rem;
     font-weight: 400;
     font-size: 0.8125rem;
     color: var(--color-muted);

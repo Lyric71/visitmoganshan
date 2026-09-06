@@ -1,6 +1,7 @@
 import type { APIRoute } from 'astro';
 
 import { checkCredentials, endSession, isConfigured, startSession } from '../../../lib/admin-auth';
+import { verifyAdminCaptcha } from '../../../lib/admin-captcha';
 
 /**
  * POST /api/admin/login and /api/admin/logout
@@ -13,6 +14,12 @@ import { checkCredentials, endSession, isConfigured, startSession } from '../../
  * The reason is deliberately vague. "Those details are not right" is all a
  * failed attempt ever gets, whichever half was wrong, because saying which one
  * turns a guess at the password into a guess at the email first.
+ *
+ * The picture puzzle is checked before the credentials and burned by the
+ * check, so every password guess costs a freshly solved picture. A failed
+ * picture is reported as such: knowing the picture was wrong says nothing
+ * about the password, and the alternative is a person who mistyped one letter
+ * being told their password is wrong.
  */
 export const prerender = false;
 
@@ -40,10 +47,17 @@ export const POST: APIRoute = async ({ request, cookies, url }) => {
   const form = await request.formData().catch(() => null);
   const email = String(form?.get('email') ?? '');
   const password = String(form?.get('password') ?? '');
+  const token = String(form?.get('captcha-token') ?? '');
+  const answer = String(form?.get('captcha') ?? '');
 
   // Paid on every attempt, before the answer is known, so a wrong password and
   // a wrong address take the same time to come back.
   await wait(DELAY_MS);
+
+  const picture = verifyAdminCaptcha(token, answer);
+  if (picture !== 'ok') {
+    return redirect(picture === 'expired' ? '/admin/login?error=expired' : '/admin/login?error=captcha');
+  }
 
   if (!checkCredentials(email, password)) {
     return redirect('/admin/login?error=1');

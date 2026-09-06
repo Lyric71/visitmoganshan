@@ -10,7 +10,9 @@ schema: TouristTrip + ItemList
 image: /images/guide/itineraries-weekend-from-shanghai.webp
 image_alt: A weekend bag on a guesthouse terrace above bamboo ridges on a Saturday morning
 word_count: 1760
-last_updated: 2026-08-05
+author: echo-peng
+published: 2026-08-06
+last_updated: 2026-08-09
 ---
 
 # A weekend in Moganshan from Shanghai

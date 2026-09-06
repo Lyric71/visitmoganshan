@@ -33,3 +33,10 @@ assets/raw/
 # src/content/stays only once it is finished; until then it is one person's
 # desk, not the repository's.
 data/drafts/
+
+# Output of the scheduled stays pass. Read it, do not ship it.
+data/logs/
+
+# editorial pipeline console output (regenerable). The run logs in
+# editorial/logs/*.md are source and stay committed.
+editorial/logs/runs/

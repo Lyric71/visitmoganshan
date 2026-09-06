@@ -16,6 +16,7 @@
     "img": "node scripts/optimize-image.mjs",
     "img:batch": "node scripts/optimize-images-batch.mjs",
     "img:audit": "node scripts/audit-images.mjs",
+    "dates:check": "node scripts/check-dates.mjs",
     "figures": "node scripts/build-figures.mjs",
     "icons": "node scripts/build-icons.mjs",
     "hooks:install": "node scripts/install-hooks.mjs",
@@ -27,7 +28,11 @@
     "stays:discover": "node scripts/discover-stays.mjs",
     "admin:hash": "node scripts/admin-hash.mjs",
     "stays:preview": "STAYS_PREVIEW=1 astro dev --host 127.0.0.1",
-    "stays:translate": "node scripts/translate-comments.mjs"
+    "stays:translate": "node scripts/translate-comments.mjs",
+    "stays:cron": "node scripts/stays-cron.mjs",
+    "stays:cron:install": "node scripts/install-stays-task.mjs",
+    "editorial:briefs": "node editorial/scripts/build-briefs.mjs",
+    "editorial:notify": "node editorial/scripts/notify-publish.mjs"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.9",

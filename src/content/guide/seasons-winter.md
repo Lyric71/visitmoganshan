@@ -10,7 +10,9 @@ schema: Article
 image: /images/guide/seasons-winter.webp
 image_alt: A frost-dusted stone path running along a bamboo slope under a cold grey sky
 word_count: 1198
-last_updated: 2026-08-06
+author: liyan-ye
+published: 2026-08-07
+last_updated: 2026-08-09
 ---
 
 # Winter in Moganshan

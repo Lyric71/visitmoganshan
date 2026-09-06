@@ -10,7 +10,9 @@ schema: Article
 image: /images/guide/seasons-spring.webp
 image_alt: Bamboo shoots pushing up through leaf litter on a worked moso slope at Moganshan
 word_count: 1603
-last_updated: 2026-08-07
+author: liyan-ye
+published: 2026-08-08
+last_updated: 2026-08-08
 ---
 
 # Spring in Moganshan

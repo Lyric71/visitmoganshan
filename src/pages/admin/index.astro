@@ -119,11 +119,30 @@ const day = (iso?: string) =>
   <section class="panel" aria-labelledby="jobs">
     <h2 id="jobs">Running the jobs</h2>
     <p class="panel__note">
-      These run on a machine with a browser, not here. A capture pass takes a couple of hours at two
-      requests at a time, which is the polite rate and not negotiable, and a serverless request has
-      about ten seconds.
+      These run on a machine with Google Chrome installed, not here. The capture scripts drive the
+      real Chrome rather than Playwright's bundled Chromium, because Trip.com serves the bundled
+      build a sign in wall. A serverless request has about ten seconds and no browser; a capture
+      pass takes a couple of hours at two requests at a time, which is the polite rate and not
+      negotiable.
+    </p>
+    <p class="panel__note">
+      A Windows scheduled task named <strong>visitmoganshan stays update</strong> runs the whole
+      pass every Sunday at 03:00 while that machine is logged on: discover, collect, re encode,
+      validate, image audit, in that order, stopping at the first failure. The one exception is
+      discovery declining because Trip.com's robots.txt disallows the listing path, which is the
+      case today: that is logged as skipped and the pass goes on to capture whatever rows still
+      have none. Each run writes a dated log to <code>data/logs/</code>. By default it leaves the result in the working tree for a
+      person to review and commit. Installed with <code>npm run stays:cron:install</code>, which
+      takes <code>--push</code> to commit and push automatically, <code>--status</code> and
+      <code>--remove</code>.
     </p>
     <dl class="jobs">
+      <dt><code>npm run stays:cron</code></dt>
+      <dd>
+        The full pass by hand, same steps and same log as the scheduled task. Add
+        <code>--dry</code> to see what discovery would add without writing anything.
+      </dd>
+
       <dt><code>npm run stays:discover</code></dt>
       <dd>
         Walk the Trip.com listings for Deqing and Huzhou and add any property that is not in the
@@ -141,10 +160,22 @@ const day = (iso?: string) =>
 
       <dt><code>npm run stays:validate</code></dt>
       <dd>Check the seed, the redirect table and every written-up entry. Run before a deploy.</dd>
+
+      <dt><code>npm run stays:prices</code></dt>
+      <dd>
+        Go back for a nightly rate on the rows whose capture came back with marketing copy in the
+        price slot. Not part of the scheduled pass; run it when the rate filter looks thin.
+      </dd>
+
+      <dt><code>npm run stays:translate</code></dt>
+      <dd>
+        Move Chinese guest reviews out to <code>data/translations/</code> for translation and
+        back in. Needs a person in the middle, so it is never scheduled.
+      </dd>
     </dl>
     <p class="panel__note">
-      Or ask Claude Code to run the <strong>stays-updater</strong> agent, which does the discover
-      pass, the capture and the re-encode in order and reports what changed.
+      Or ask Claude Code to run the <strong>stays-updater</strong> agent, which does the same
+      pass on demand and reports what changed.
     </p>
   </section>
 </AdminPage>

@@ -10,7 +10,9 @@ schema: TouristTrip
 image: /images/guide/itineraries-day-trip-from-shanghai.webp
 image_alt: An empty Chinese high-speed rail platform before dawn, with a single train waiting at the far end
 word_count: 1384
-last_updated: 2026-08-06
+author: echo-peng
+published: 2026-08-07
+last_updated: 2026-08-09
 ---
 
 # Moganshan in one day from Shanghai, hour by hour

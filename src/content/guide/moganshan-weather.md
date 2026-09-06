@@ -10,7 +10,9 @@ schema: Article
 image: /images/guide/moganshan-weather.webp
 image_alt: Mist drifting through wet bamboo above a rain darkened stone path on Moganshan
 word_count: 1400
-last_updated: 2026-08-05
+author: liyan-ye
+published: 2026-08-05
+last_updated: 2026-08-07
 ---
 
 # Moganshan weather, month by month

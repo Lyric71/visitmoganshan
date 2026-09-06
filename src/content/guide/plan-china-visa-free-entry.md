@@ -2,7 +2,7 @@
 url: /plan/china-visa-free-entry/
 title: Visa-free entry to China, explained
 seo_title: "China Visa-Free: 50 Countries, 240-Hour Transit"
-meta_description: "The two China visa-free schemes, separated: 30 days for 50 countries, 240-hour transit for 55 nationalities. Full dated list. Checked 5 August 2026."
+meta_description: "The two China visa-free schemes, separated: 30 days for 50 countries, 240-hour transit for 55 nationalities. Full dated list."
 excerpt: "Planning a China visa free itinerary: the 30-day scheme covering 50 countries with every date, the 240-hour transit rule, and which one your passport uses."
 primary_keyword: china visa free itinerary
 secondary_keywords: [china visa free 30 days, 240 hour visa free china, china visa free countries]
@@ -10,12 +10,14 @@ schema: Article
 image: /images/guide/plan-china-visa-free-entry.webp
 image_alt: A passport, a boarding pass and a phone lying on an airport arrivals counter
 word_count: 2195
-last_updated: 2026-08-05
+author: cyril-drouin
+published: 2026-08-06
+last_updated: 2026-08-09
 ---
 
 # Visa-free entry to China, explained
 
-*Last checked 5 August 2026. The 30-day scheme is written into law only to 31 December 2026.*
+*The 30-day scheme is written into law only to 31 December 2026.*
 
 Two separate schemes now let people into mainland China without a visa. They cover different passports and run for different lengths, and one of them carries a condition the other does not. Both get called visa-free in English, and that alone accounts for most of the confusion. Mixing them up is the most common planning error we see.
 

@@ -10,7 +10,9 @@ schema: Article
 image: /images/guide/things-to-do-utmb-mogan.webp
 image_alt: A steep, rough stone staircase climbing into mist through a bamboo forest
 word_count: 1050
-last_updated: 2026-08-06
+author: liyan-ye
+published: 2026-08-07
+last_updated: 2026-08-08
 ---
 
 # Ultra-Trail Mogan by UTMB

@@ -10,14 +10,16 @@ schema: Article
 image: /images/guide/plan-tickets-and-entry.webp
 image_alt: A visitor holding a ticket at the entry barrier of the Moganshan scenic area
 word_count: 1224
-last_updated: 2026-08-05
+author: cyril-drouin
+published: 2026-08-06
+last_updated: 2026-08-08
 ---
 
 # Moganshan tickets and entry
 
 The ticket on this page is for a mountain: Moganshan, in Deqing County, Huzhou prefecture, Zhejiang Province, China, about 60 km north of Hangzhou and 200 to 240 km from Shanghai. Moganshan Road, the M50 art district, is a street in Shanghai and sells no tickets.
 
-*Last checked 5 August 2026. Short answer: published Moganshan ticket prices run from RMB 50 to RMB 130, and sources disagree. [Why](#two-published-prices-that-do-not-agree).*
+*Short answer: published Moganshan ticket prices run from RMB 50 to RMB 130, and sources disagree. [Why](#two-published-prices-that-do-not-agree).*
 
 Then the question nobody asks first. Plenty of people who come here never buy one.
 
@@ -129,4 +131,3 @@ Carry your passport, not a photo. Hotels and attractions check it as routine, an
 
 Winter buys the cheapest ticket and the shortest day inside the gate. Weekends and holidays push everyone through three transfer points at once. [Best time to visit](/plan/best-time-to-visit/) works that trade, and [the planning hub](/plan/) is where to start.
 
-*Checked 5 August 2026: prices, hours and fares. Published prices conflict and must be confirmed at booking.*

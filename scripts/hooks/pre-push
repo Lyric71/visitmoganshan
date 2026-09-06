@@ -17,3 +17,12 @@ if ! node scripts/audit-images.mjs; then
   echo "Re-encode them with: npm run img <path> --out=public/images/<dir>"
   exit 1
 fi
+
+# Refuse to push an article whose text changed but whose date did not. The
+# byline prints last_updated and the structured data repeats it, so a stale
+# one is a wrong fact on the page rather than a housekeeping slip.
+if ! node scripts/check-dates.mjs; then
+  echo ""
+  echo "Push blocked: an article changed without its last_updated moving."
+  exit 1
+fi

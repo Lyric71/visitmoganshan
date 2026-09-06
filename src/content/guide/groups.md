@@ -10,7 +10,9 @@ schema: Article
 image: /images/guide/groups.webp
 image_alt: A long wooden table laid with plain ceramic bowls in a whitewashed farmhouse room, bamboo forest through the window
 word_count: 1304
-last_updated: 2026-08-06
+author: echo-peng
+published: 2026-08-07
+last_updated: 2026-08-08
 ---
 
 # Groups, offsites and celebrations

@@ -1,0 +1,130 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import SiteHeader from '../../../components/SiteHeader.astro';
+import SiteFooter from '../../../components/SiteFooter.astro';
+import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+import StayTypeList from '../../../components/StayTypeList.astro';
+import { CAPTURES } from '../../../lib/captures';
+import {
+  LISTING_PAGE_SIZE,
+  TYPE_LABEL,
+  TYPE_SLUG,
+  resolveStayHrefs,
+  staysOfType,
+  typePagesToGenerate,
+  typePageUrl,
+  typePath,
+  type SeedRecord,
+  type StayType,
+} from '../../../lib/stays';
+
+/**
+ * /where-to-stay/{resorts|villas|homestays|hotels|lodges|apartments|hostels}
+ * and /where-to-stay/{type}/{2..n}
+ *
+ * One listing per kind of place, sixty cards to a page. The first page carries
+ * the editorial intro and is the one that is indexed; the later pages are
+ * noindex, follow, with a self canonical, so the crawler reads one substantial
+ * document per type rather than one enormous one and still follows the links.
+ *
+ * The rows are sorted here, most reviewed first, before they are cut into
+ * pages, so page two really is the sixty-first onward and the order holds
+ * without JavaScript. The filter bar on a page works over that page; the /all
+ * view exists for a reader who wants to search every property by name.
+ *
+ * No collision with the property pages under the same prefix. Every stay slug
+ * ends in -{hotelId}, no type slug does, and a page number is never a slug.
+ */
+export async function getStaticPaths({ paginate }: { paginate: any }) {
+  const types = await typePagesToGenerate();
+  const writtenUp = await resolveStayHrefs();
+
+  return types.flatMap((type) => {
+    const rows = [...staysOfType(type)].sort(
+      (a, b) =>
+        (CAPTURES.get(b.id)?.rating?.count ?? 0) - (CAPTURES.get(a.id)?.rating?.count ?? 0),
+    );
+    return paginate(rows, {
+      params: { type: TYPE_SLUG[type] },
+      props: { type, writtenUp },
+      pageSize: LISTING_PAGE_SIZE,
+    });
+  });
+}
+
+interface Props {
+  type: StayType;
+  writtenUp: Map<number, string>;
+  page: {
+    data: SeedRecord[];
+    currentPage: number;
+    lastPage: number;
+    total: number;
+    start: number;
+    end: number;
+  };
+}
+
+const { type, writtenUp, page } = Astro.props as Props;
+
+const label = TYPE_LABEL[type];
+const count = page.total;
+const isFirst = page.currentPage === 1;
+const cities = new Set(staysOfType(type).map((row) => row.city));
+
+const crumbs = [
+  { label: 'Home', href: '/' },
+  { label: 'Where to stay', href: '/where-to-stay' },
+  { label, href: typePath(type) },
+  ...(isFirst ? [] : [{ label: `Page ${page.currentPage}`, href: typePageUrl(type, page.currentPage) }]),
+];
+
+const pageSuffix = isFirst ? '' : `, page ${page.currentPage} of ${page.lastPage}`;
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: `${label} around Moganshan${pageSuffix}`,
+  description: `${count} ${label.toLowerCase()} bookable around Moganshan, across ${[...cities].join(' and ')}.`,
+  url: new URL(typePageUrl(type, page.currentPage), Astro.site).href,
+  inLanguage: 'en',
+  breadcrumb: {
+    '@type': 'BreadcrumbList',
+    itemListElement: crumbs.map((crumb, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      name: crumb.label,
+      item: new URL(crumb.href, Astro.site).href.replace(/(?<!\/)\/$/, ''),
+    })),
+  },
+};
+---
+
+<Layout
+  title={`Moganshan ${label.toLowerCase()}: all ${count}${pageSuffix} · Visit Moganshan`}
+  description={`Every one of the ${count} ${label.toLowerCase()} bookable around Moganshan, named and linked, with live rates. Nothing ranked, nothing promoted.`}
+  noindex={!isFirst}
+  robots="noindex, follow"
+>
+  <Fragment slot="head">
+    {isFirst && <meta name="robots" content="index, follow, max-image-preview:large" />}
+    <Fragment set:html={`<script type="application/ld+json">${JSON.stringify(jsonLd)}</script>`} />
+  </Fragment>
+
+  <SiteHeader />
+  <Breadcrumbs crumbs={crumbs} />
+
+  <main id="main">
+    <div class="vm-container">
+      <StayTypeList
+        type={type}
+        writtenUp={writtenUp}
+        rows={page.data}
+        total={count}
+        page={{ current: page.currentPage, last: page.lastPage, start: page.start + 1, end: page.end + 1 }}
+      />
+    </div>
+  </main>
+
+  <SiteFooter />
+</Layout>

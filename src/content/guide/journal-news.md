@@ -2,7 +2,7 @@
 url: /journal/news/
 title: News and updates
 seo_title: "Moganshan News: What Changed, and When"
-meta_description: "A dated log of what is changing at Moganshan: visa rules, the new rail line, the Trip.com deal, the Four Seasons announcement. Checked 6 August 2026."
+meta_description: "A dated log of what is changing at Moganshan: visa rules, the new rail line, the Trip.com deal, the Four Seasons announcement."
 excerpt: What is changing in Moganshan and in China's entry rules, logged newest first, dated and sourced, each entry with a line on the visitor consequence.
 primary_keyword: moganshan news
 secondary_keywords: [moganshan updates, moganshan 2026, what is changing in moganshan]
@@ -10,7 +10,9 @@ schema: Blog
 image: /images/guide/journal-news.webp
 image_alt: A tower crane above the concrete frame of a half-built structure on a bamboo hillside
 word_count: 1191
-last_updated: 2026-08-06
+author: cyril-drouin
+published: 2026-08-07
+last_updated: 2026-08-08
 ---
 
 # News and updates
@@ -138,4 +140,3 @@ Nothing has been legislated past that date, so this page says nothing about 2027
 
 The date at the foot of the page moves whenever it is reviewed, and an entry goes in only when it can be dated and sourced. [Plan your trip](/plan/) covers the rest.
 
-*Checked 6 August 2026 against research completed 5 August 2026. Entry rules change without notice.*

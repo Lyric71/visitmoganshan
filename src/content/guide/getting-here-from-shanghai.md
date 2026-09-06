@@ -10,7 +10,9 @@ schema: Article + HowTo
 image: /images/guide/getting-here-from-shanghai.webp
 image_alt: The view from a car on an elevated expressway leaving a hazy Chinese city for green hills
 word_count: 1835
-last_updated: 2026-08-05
+author: cyril-drouin
+published: 2026-08-05
+last_updated: 2026-08-09
 ---
 
 # Shanghai to Moganshan

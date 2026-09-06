@@ -10,7 +10,9 @@ schema: Article + ItemList
 image: /images/guide/moganshan-hill-station-the-villas.webp
 image_alt: A shuttered stone villa with an arched veranda standing among bamboo on the hill station slope
 word_count: 1696
-last_updated: 2026-08-05
+author: cyril-drouin
+published: 2026-08-06
+last_updated: 2026-08-08
 ---
 
 # The stone villas of Moganshan

@@ -10,7 +10,9 @@ schema: Article + ItemList
 image: /images/guide/things-to-do.webp
 image_alt: A stone path junction under bamboo with a wooden signpost pointing towards the villas
 word_count: 1832
-last_updated: 2026-08-05
+author: liyan-ye
+published: 2026-08-06
+last_updated: 2026-08-08
 ---
 
 # Things to do in Moganshan
@@ -19,7 +21,7 @@ The mountain you are planning for stands in Deqing County, Huzhou prefecture, Zh
 
 Check you have the right one. Moganshan Road is the M50 art district in Putuo District, Shanghai, roughly 200 km away, and it is a city street, not a mountain.
 
-This is the hub page for what to do in Moganshan. The table below groups the attractions by theme and links to the detail pages. Last checked 5 August 2026.
+This is the hub page for what to do in Moganshan. The table below groups the attractions by theme and links to the detail pages.
 
 ## Everything, by theme
 

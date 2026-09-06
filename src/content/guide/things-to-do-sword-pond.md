@@ -10,7 +10,9 @@ schema: TouristAttraction
 image: /images/guide/things-to-do-sword-pond.webp
 image_alt: Still green water in the stone basin of Sword Pond at Moganshan, with bamboo closing in overhead
 word_count: 1568
-last_updated: 2026-08-07
+author: liyan-ye
+published: 2026-08-08
+last_updated: 2026-08-08
 ---
 
 # Sword Pond

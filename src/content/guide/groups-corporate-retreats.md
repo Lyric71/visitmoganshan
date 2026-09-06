@@ -10,7 +10,9 @@ schema: Article
 image: /images/guide/groups-corporate-retreats.webp
 image_alt: A plain wooden meeting table and closed notebooks in a stone-walled room, with forested hills through tall windows
 word_count: 1291
-last_updated: 2026-08-06
+author: echo-peng
+published: 2026-08-07
+last_updated: 2026-08-08
 ---
 
 # Corporate retreats in Moganshan

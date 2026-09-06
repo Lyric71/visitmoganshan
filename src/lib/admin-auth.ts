@@ -11,7 +11,8 @@ import type { AstroCookies } from 'astro';
  * Nothing secret is in this file or anywhere else in the repository. The email,
  * the password hash and the signing secret all come from the environment:
  *
- *   ADMIN_EMAIL           cyril.drouin@beyondbordergroup.com
+ *   ADMIN_EMAIL           comma separated list of accepted addresses, e.g.
+ *                         cyril.drouin@beyondbordergroup.com,cyril.drouin@bearingbridge.com
  *   ADMIN_PASSWORD_HASH   scrypt hash, produced by `npm run admin:hash`
  *   ADMIN_SECRET          long random string, signs the session cookie
  *
@@ -34,9 +35,20 @@ function env(name: string): string {
   return (process.env[name] || import.meta.env[name] || '').trim();
 }
 
+/**
+ * The accepted sign in addresses. One person, several mailboxes: the value is
+ * a comma separated list and any entry in it unlocks the same single account.
+ */
+function adminEmails(): string[] {
+  return env('ADMIN_EMAIL')
+    .split(',')
+    .map((value) => value.trim().toLowerCase())
+    .filter(Boolean);
+}
+
 /** True when the environment is complete enough to allow a login at all. */
 export function isConfigured(): boolean {
-  return Boolean(env('ADMIN_EMAIL') && env('ADMIN_PASSWORD_HASH') && env('ADMIN_SECRET'));
+  return Boolean(adminEmails().length && env('ADMIN_PASSWORD_HASH') && env('ADMIN_SECRET'));
 }
 
 /** Constant time string comparison that tolerates different lengths. */
@@ -146,7 +158,12 @@ export function endSession(cookies: AstroCookies): void {
 export function checkCredentials(email: string, password: string): boolean {
   if (!isConfigured()) return false;
 
-  const emailOk = sameString(email.trim().toLowerCase(), env('ADMIN_EMAIL').toLowerCase());
+  // Every address is compared, never short circuited, so the time taken does
+  // not reveal which entry matched or how far down the list it sits.
+  const candidate = email.trim().toLowerCase();
+  const emailOk = adminEmails()
+    .map((allowed) => sameString(candidate, allowed))
+    .reduce((acc, ok) => acc || ok, false);
   const passwordOk = verifyPassword(password, env('ADMIN_PASSWORD_HASH'));
   return emailOk && passwordOk;
 }

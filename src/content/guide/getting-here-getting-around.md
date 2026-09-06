@@ -10,7 +10,9 @@ schema: HowTo
 image: /images/guide/getting-here-getting-around.webp
 image_alt: A small green shuttle bus rounding a bend on a road through dense bamboo forest
 word_count: 1263
-last_updated: 2026-08-05
+author: cyril-drouin
+published: 2026-08-05
+last_updated: 2026-08-08
 ---
 
 # Getting around Moganshan

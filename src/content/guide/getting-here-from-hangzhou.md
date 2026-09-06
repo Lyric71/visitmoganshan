@@ -10,7 +10,9 @@ schema: Article + HowTo
 image: /images/guide/getting-here-from-hangzhou.webp
 image_alt: Rice paddies, a white walled village and low green hills seen from a moving train window
 word_count: 1419
-last_updated: 2026-08-05
+author: cyril-drouin
+published: 2026-08-05
+last_updated: 2026-08-09
 ---
 
 # Hangzhou to Moganshan

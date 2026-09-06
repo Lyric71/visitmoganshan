@@ -10,7 +10,9 @@ schema: Article + Place
 image: /images/guide/moganshan.webp
 image_alt: Bamboo covered ridges above a village of grey tiled roofs in the valley at Moganshan
 word_count: 1597
-last_updated: 2026-08-05
+author: cyril-drouin
+published: 2026-08-05
+last_updated: 2026-08-07
 ---
 
 # What and where Moganshan is

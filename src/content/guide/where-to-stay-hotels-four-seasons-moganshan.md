@@ -10,7 +10,9 @@ schema: Hotel
 image: /images/guide/where-to-stay-hotels-four-seasons-moganshan.webp
 image_alt: An empty cleared hillside above misted bamboo ridges, where nothing has been built yet
 word_count: 1148
-last_updated: 2026-08-06
+author: echo-peng
+published: 2026-08-07
+last_updated: 2026-08-09
 ---
 
 # Four Seasons Resort Moganshan
@@ -121,4 +123,3 @@ Booking one is mostly a calendar problem, plus one rule about arrival time.
 
 [Where to stay](/where-to-stay/) sorts the mountain by village and price band, [hotels](/where-to-stay/hotels-explained/) covers what runs as a hotel, and [luxury](/where-to-stay/luxury/) the top end.
 
-*Checked 5 August 2026, when the announcement still stood as made on 12 September 2025. Four things would change this page, none of them yet: a construction start, a real opening date, hot spring detail, proof Yu Village is Yucun.*

@@ -6,8 +6,10 @@ import Breadcrumbs from '../components/Breadcrumbs.astro';
 import StayBooking from '../components/StayBooking.astro';
 import type { StayEntry } from '../lib/stays';
 import { NAV, isCurrentGroup } from '../data/nav';
+import { authorById, authorPath, type AuthorId } from '../data/authors';
 import {
   breadcrumbsFor,
+  formatDate,
   guideJsonLd,
   readingMinutes,
   sectionLabel,
@@ -46,6 +48,15 @@ const kicker = sectionLabel(data.url);
 const minutes = readingMinutes(data.word_count);
 const siblings = siblingsOf(entry, all);
 
+// The byline. A named person, linked to the About page where the name
+// resolves to a role and a public profile, then the two dates. "Updated" only
+// appears once the page has moved since it was published: printing two equal
+// dates says nothing and looks like a template.
+const author = authorById(data.author as AuthorId);
+const publishedOn = formatDate(data.published);
+const updatedOn = formatDate(data.last_updated);
+const wasUpdated = data.last_updated.getTime() > data.published.getTime();
+
 // The FAQ hub for this page's mega-menu group. Articles carry no FAQ block of
 // their own any more, so every one of them has to hand the reader on to the
 // page where the questions for its section are answered. Suppressed on the hub
@@ -77,13 +88,22 @@ const jsonLd = guideJsonLd(entry, crumbs)
         {kicker && <p class="vm-kicker">{kicker}</p>}
         <h1>{data.title}</h1>
         <p class="standfirst">{data.excerpt}</p>
-        {
-          minutes && (
-            <p class="byline">
-              <span>{minutes} min read</span>
-            </p>
-          )
-        }
+        <p class="byline">
+          <span class="byline__author">
+            By <a href={authorPath(author)} rel="author">{author.name}</a>
+          </span>
+          <span>
+            Published <time datetime={data.published.toISOString().slice(0, 10)}>{publishedOn}</time>
+          </span>
+          {
+            wasUpdated && (
+              <span>
+                Updated <time datetime={data.last_updated.toISOString().slice(0, 10)}>{updatedOn}</time>
+              </span>
+            )
+          }
+          {minutes && <span>{minutes} min read</span>}
+        </p>
       </header>
 
       {
@@ -142,6 +162,17 @@ const jsonLd = guideJsonLd(entry, crumbs)
               onward links, on every article rather than only the ones with a
               named subject: a note that appears sometimes is a note nobody
               learns to look for. */}
+          {/* The freshness line, generated from last_updated rather than typed
+              into the body. The articles used to end with a hand written
+              "Checked 5 August 2026" paragraph, which meant the page carried
+              two dates that could disagree, and did. One field, printed twice,
+              cannot. Figures that were checked on a different day still say so
+              inline, where the figure is. */}
+          <p class="checked-note">
+            Last checked {updatedOn} by {author.name}. Prices, timetables and entry rules on this
+            mountain move without notice, so confirm anything you are booking around.
+          </p>
+
           <p class="illustration-note">
             {
               stay
@@ -235,6 +266,22 @@ const jsonLd = guideJsonLd(entry, crumbs)
     margin-top: 1.25rem;
     font-size: 0.8125rem;
     color: var(--color-muted);
+  }
+
+  .byline__author {
+    color: var(--color-ink);
+  }
+
+  .byline a {
+    color: var(--color-bamboo);
+    font-weight: 600;
+    text-decoration: none;
+  }
+
+  .byline a:hover,
+  .byline a:focus-visible {
+    text-decoration: underline;
+    text-underline-offset: 3px;
   }
 
   /* Lead image ------------------------------------------------------------ */
@@ -349,10 +396,17 @@ const jsonLd = guideJsonLd(entry, crumbs)
 
   /* Quiet, but not hidden: same treatment as the source notes the prose already
      uses for a figure it cannot stand behind, which is exactly what this is. */
-  .illustration-note {
+  .checked-note {
     margin-top: clamp(2rem, 4vw, 3rem);
     padding-top: 1rem;
     border-top: 1px solid var(--color-line);
+    font-size: 0.8125rem;
+    line-height: 1.6;
+    color: var(--color-muted);
+  }
+
+  .illustration-note {
+    margin-top: 1rem;
     font-size: 0.8125rem;
     line-height: 1.6;
     color: var(--color-muted);

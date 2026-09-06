@@ -10,7 +10,9 @@ schema: TouristTrip + ItemList
 image: /images/guide/itineraries-shanghai-hangzhou-moganshan.webp
 image_alt: A high speed train waiting at a platform with the bamboo hills of northern Zhejiang beyond the tracks
 word_count: 1830
-last_updated: 2026-08-05
+author: echo-peng
+published: 2026-08-06
+last_updated: 2026-08-09
 ---
 
 # Shanghai, Hangzhou and Moganshan in five days
@@ -19,7 +21,7 @@ Between the two cities almost every first-time visitor to eastern China already 
 
 Check you have the right place first. Moganshan Road in Shanghai's Putuo District is the M50 art district, 200 km from here, and it dominates the search results.
 
-Last checked 5 August 2026. This is a routing page about trains and the order you take them in. It does not tell you what to see in Shanghai or Hangzhou; use a city guide for those days.
+This is a routing page about trains and the order you take them in. It does not tell you what to see in Shanghai or Hangzhou; use a city guide for those days.
 
 ## Why the mountain goes in the middle
 
@@ -187,4 +189,3 @@ Two warnings before you book.
 
 Other trip shapes are on our [itineraries](/itineraries/) hub. For the Shanghai Hangzhou Moganshan version above, the [Moganshan overview](/moganshan/) explains what you are adding.
 
-*Checked 5 August 2026: rail times, shuttle departures and entry rules. Verify live timetables and current visa policy when you book.*

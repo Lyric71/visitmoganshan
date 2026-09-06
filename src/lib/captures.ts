@@ -104,7 +104,10 @@ export function cardDescription(capture: Capture): SummaryBlock[] {
  * words are left exactly as captured.
  */
 function tidy(text: string): string {
-  const trimmed = text.replace(/\s+/g, ' ').replace(/\s+([.,;:!?])/g, '$1').trim();
+  const trimmed = text
+    .replace(/\s+/g, ' ')
+    .replace(/\s+([.,;:!?])/g, '$1')
+    .trim();
   if (!trimmed) return trimmed;
   return /[.!?]$/.test(trimmed) ? trimmed : `${trimmed}.`;
 }
@@ -182,4 +185,25 @@ export function cardPrice(capture: Capture | undefined): string | null {
   const amount = usdAmount(capture);
   if (amount === null) return null;
   return `From $${Math.round(amount).toLocaleString('en-GB')}`;
+}
+
+/**
+ * The same rate in yuan, which is the currency the card is actually settled
+ * in. Where Trip.com quoted yuan this is the figure it quoted; where it quoted
+ * dollars it is the fixed-rate conversion back, rounded to the nearest ten so
+ * it does not pretend to a precision the rate never had.
+ */
+export function cnyAmount(capture: Capture | undefined): number | null {
+  const price = capture?.price;
+  if (!price || !Number.isFinite(price.amount)) return null;
+  if (price.currency === 'CNY') return Math.round(price.amount);
+  if (price.currency === 'USD') return Math.round((price.amount * CNY_PER_USD) / 10) * 10;
+  return null;
+}
+
+/** "about ¥785" beside the dollar figure, or null. */
+export function cardPriceCny(capture: Capture | undefined): string | null {
+  const amount = cnyAmount(capture);
+  if (amount === null) return null;
+  return `about ¥${amount.toLocaleString('en-GB')}`;
 }

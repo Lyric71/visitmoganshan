@@ -10,7 +10,9 @@ schema: Article
 image: /images/guide/journal-118-then-78.webp
 image_alt: Old stone villas on a Moganshan ridge, houses that changed hands between the 1920s and 1929
 word_count: 1566
-last_updated: 2026-08-07
+author: cyril-drouin
+published: 2026-08-08
+last_updated: 2026-08-09
 ---
 
 # 118, then 78

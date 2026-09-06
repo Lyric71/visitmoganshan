@@ -10,7 +10,9 @@ schema: HowTo
 image: /images/guide/getting-here-from-shanghai-by-train.webp
 image_alt: A white high speed train standing at an empty platform under a long station canopy
 word_count: 1443
-last_updated: 2026-08-05
+author: cyril-drouin
+published: 2026-08-05
+last_updated: 2026-08-09
 ---
 
 # Shanghai to Moganshan by high-speed train

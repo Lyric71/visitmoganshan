@@ -10,7 +10,9 @@ schema: Hotel
 image: /images/guide/where-to-stay-hotels-naked-castle.webp
 image_alt: A granite villa with a castellated parapet and arched windows, set into a bamboo slope
 word_count: 1096
-last_updated: 2026-08-06
+author: echo-peng
+published: 2026-08-07
+last_updated: 2026-08-08
 ---
 
 # naked Castle, Moganshan

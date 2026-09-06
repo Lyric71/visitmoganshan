@@ -14,7 +14,9 @@ word_count: 1098
 # property's gallery, guest excerpts and booking link, and suppresses
 # /where-to-stay/naked-stables-resort-901389.
 stay_id: 901389
-last_updated: 2026-08-06
+author: echo-peng
+published: 2026-08-07
+last_updated: 2026-08-08
 ---
 
 # naked Stables, Moganshan

@@ -70,10 +70,7 @@ const affiliateRedirects = Object.fromEntries(
   [
     ...affiliateSeed.map((row) => [`/go/${row.goSlug}`, row.affiliateUrl]),
     ...Object.entries(PARTNER_LINKS).map(([slug, url]) => [`/go/${slug}`, url]),
-  ].map(([path, destination]) => [
-    path,
-    { status: /** @type {302} */ (302), destination },
-  ]),
+  ].map(([path, destination]) => [path, { status: /** @type {302} */ (302), destination }]),
 );
 
 /**
@@ -115,10 +112,7 @@ const ORPHANED_ROUTES = Object.fromEntries(
     ['/things-to-do/hot-springs', '/moganshan/hot-springs'],
     ['/where-to-stay/private-villas', '/where-to-stay/villas'],
     ['/accessibility', '/plan/accessibility'],
-  ]).map(([path, destination]) => [
-    path,
-    { status: /** @type {301} */ (301), destination },
-  ]),
+  ]).map(([path, destination]) => [path, { status: /** @type {301} */ (301), destination }]),
 );
 
 // https://astro.build/config
@@ -171,10 +165,15 @@ export default defineConfig({
       // URL it is then forbidden to fetch, which is exactly how a page gets
       // indexed as a bare URL: the noindex is inside a response nobody is
       // allowed to read.
+      //
+      // The listing pages are paginated, and only the first page of each is
+      // indexed: /where-to-stay/homestays/2 and the single-page /all view carry
+      // noindex and so must stay out of the sitemap for the same reason.
       filter: (page) =>
         !/\/(search(-index\.json)?|contact\/thank-you)$/.test(page.replace(/\/$/, '')) &&
         !/\/go\//.test(page) &&
-        !/\/admin(\/|$)/.test(page.replace(/\/$/, '')),
+        !/\/admin(\/|$)/.test(page.replace(/\/$/, '')) &&
+        !/\/where-to-stay\/[a-z]+\/(\d+|all)$/.test(page.replace(/\/$/, '')),
     }),
   ],
 });

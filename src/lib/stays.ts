@@ -169,10 +169,11 @@ export const TYPE_LABEL: Record<StayType, string> = {
  * and "Moganshan homestays" are different searches by different people, and a
  * jump link inside a page of eight hundred rows ranks for neither of them.
  *
- * All seven are listings and nothing else: a heading, a count and the cards. The
- * hotels and villas URLs used to be articles with the list appended below 1,300
- * words of prose, which made two of the seven behave unlike the other five and
- * buried the thing the page is for. Those articles now live at
+ * All seven behave the same way: an editorial intro of a few hundred words on
+ * the first page (src/data/stay-types.ts), then the cards, sixty to a page. The
+ * hotels and villas URLs used to be full articles with the list appended below
+ * 1,300 words of prose, which made two of the seven behave unlike the other
+ * five and buried the thing the page is for. Those articles now live at
  * /where-to-stay/hotels-explained and /where-to-stay/villas-explained.
  */
 export const TYPE_SLUG: Record<StayType, string> = {
@@ -186,6 +187,27 @@ export const TYPE_SLUG: Record<StayType, string> = {
 };
 
 export const typePath = (type: StayType): string => `/where-to-stay/${TYPE_SLUG[type]}`;
+
+/**
+ * Cards per listing page.
+ *
+ * Sixty is a page a reader can scroll and a crawler can read as one document.
+ * The homestays list is close to four hundred rows, and served as one page it
+ * was the largest document on the site by a wide margin and the one with the
+ * least of our own writing on it. Only the first page of each listing is
+ * indexed; the rest carry noindex and are reached through the pagination and
+ * the single-page /all view, which exists so the name search still covers
+ * every property at once.
+ */
+export const LISTING_PAGE_SIZE = 60;
+
+/** The URL of one page of a listing: page 1 is the type path itself. */
+export function typePageUrl(type: StayType, page: number): string {
+  return page <= 1 ? typePath(type) : `${typePath(type)}/${page}`;
+}
+
+/** The single-page view with every property of one type, for the name search. */
+export const typeAllUrl = (type: StayType): string => `${typePath(type)}/all`;
 
 /** Every seed row for one kind of place, name-sorted. */
 export function staysOfType(type: StayType): SeedRecord[] {
@@ -263,7 +285,8 @@ export async function getRoutableStays(): Promise<StayEntry[]> {
  */
 export async function resolveStayHrefs(): Promise<Map<number, string>> {
   const hrefs = new Map<number, string>();
-  for (const entry of await getPublishedStays()) hrefs.set(entry.data.id, stayPath(entry.data.slug));
+  for (const entry of await getPublishedStays())
+    hrefs.set(entry.data.id, stayPath(entry.data.slug));
   // Second, so an article overwrites the property page rather than the reverse.
   for (const [id, url] of await getEditorialStayPages()) hrefs.set(id, url);
   return hrefs;

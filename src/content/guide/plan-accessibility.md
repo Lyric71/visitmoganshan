@@ -10,7 +10,9 @@ schema: Article
 image: /images/guide/plan-accessibility.webp
 image_alt: A stone lane climbing between village houses at the foot of Moganshan, with a shallow flight of steps where the slope steepens
 word_count: 1780
-last_updated: 2026-08-07
+author: cyril-drouin
+published: 2026-08-08
+last_updated: 2026-08-09
 ---
 
 # Getting around Moganshan with limited mobility

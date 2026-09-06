@@ -2,6 +2,7 @@ import { defineCollection } from 'astro:content';
 import { glob } from 'astro/loaders';
 // Imported straight from zod: the `z` re-export from astro:content is deprecated.
 import { z } from 'zod';
+import { AUTHOR_IDS, DEFAULT_AUTHOR } from './data/authors';
 
 /**
  * The guide collection: every editorial page on the site apart from the home
@@ -52,6 +53,23 @@ const guide = defineCollection({
      * and of the two the researched article is always the one worth keeping.
      */
     stay_id: z.number().optional(),
+    /**
+     * Who wrote it, by id from src/data/authors.ts. Printed in the byline and
+     * emitted as the Person in the structured data. Defaults to the editor so
+     * an article can never ship without a name on it.
+     */
+    author: z.enum(AUTHOR_IDS as [string, ...string[]]).default(DEFAULT_AUTHOR),
+    /**
+     * Two dates, and they mean different things.
+     *
+     * `published` is set once, when the page first goes live, and never moves.
+     * `last_updated` moves only when the body changes, and scripts/check-dates.mjs
+     * refuses a push where the body changed and the date did not. Both print in
+     * the byline and both go into the structured data. Bumping every page on
+     * the same day is worse than leaving them alone: a site where everything
+     * changed at once has told the reader nothing about what changed.
+     */
+    published: z.coerce.date(),
     last_updated: z.coerce.date(),
   }),
 });
@@ -142,7 +160,10 @@ const stays = defineCollection({
       })
       .optional(),
     affiliate: z.object({ goSlug: z.string(), url: z.url() }),
-    seo: z.object({ title: z.string().max(60), metaDescription: z.string().max(160) }),
+    seo: z.object({
+      title: z.string().max(60),
+      metaDescription: z.string().max(160),
+    }),
     status: z.enum(['draft', 'published']).default('draft'),
     /** ISO timestamp of the capture the entry was built from. */
     sourcedAt: z.string(),

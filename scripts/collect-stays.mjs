@@ -36,6 +36,7 @@ import { mkdir, readFile, writeFile, access } from 'node:fs/promises';
 import path from 'node:path';
 import process from 'node:process';
 import { pathToFileURL } from 'node:url';
+import { launchChrome } from './browser.mjs';
 import sharp from 'sharp';
 
 const SEED = 'data/seed/properties.seed.json';
@@ -595,12 +596,8 @@ async function main() {
   console.log(`Collecting ${queue.length} properties, concurrency ${OPTS.concurrency}.`);
   await assertAllowed();
 
-  const { chromium } = await import('playwright');
   // The automation flag is what triggers the sign-in wall. See captureFromListing.
-  const browser = await chromium.launch({
-    headless: !OPTS.headful,
-    args: ['--disable-blink-features=AutomationControlled'],
-  });
+  const browser = await launchChrome({ headful: OPTS.headful });
 
   const failed = [];
   let done = 0;

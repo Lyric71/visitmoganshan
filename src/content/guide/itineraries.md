@@ -10,7 +10,9 @@ schema: ItemList
 image: /images/guide/itineraries.webp
 image_alt: A rail map, a pen and a cup of green tea on a table, with the route to the mountain marked
 word_count: 1457
-last_updated: 2026-08-05
+author: echo-peng
+published: 2026-08-06
+last_updated: 2026-08-07
 ---
 
 # Moganshan itineraries
@@ -142,4 +144,3 @@ Weekends and holidays drive the crowding, and the gap between Saturday and Monda
 
 Both holiday figures were checked on 5 August 2026. Rates follow the same curve, so two shoulder-season nights can cost less than one peak Saturday. Given the choice, we take the shoulder season.
 
-*Checked 5 August 2026: rail times, shuttle times, transfer-center hours and room rates. Ticket prices conflict across sources and change by season, so confirm at booking.*

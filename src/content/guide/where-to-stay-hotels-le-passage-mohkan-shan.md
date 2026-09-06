@@ -10,7 +10,9 @@ schema: Hotel
 image: /images/guide/where-to-stay-hotels-le-passage-mohkan-shan.webp
 image_alt: A rendered and stone country house with dark shutters standing among bamboo on a hillside
 word_count: 1043
-last_updated: 2026-08-06
+author: echo-peng
+published: 2026-08-07
+last_updated: 2026-08-08
 ---
 
 # Le Passage Mohkan Shan

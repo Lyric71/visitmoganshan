@@ -10,7 +10,9 @@ schema: Article
 image: /images/guide/plan-best-time-to-visit.webp
 image_alt: A bamboo slope in April light with mist lifting off the valley floor below it
 word_count: 1637
-last_updated: 2026-08-05
+author: cyril-drouin
+published: 2026-08-06
+last_updated: 2026-08-09
 ---
 
 # The best time to visit Moganshan

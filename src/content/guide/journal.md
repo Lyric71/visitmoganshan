@@ -10,7 +10,9 @@ schema: Blog
 image: /images/guide/journal.webp
 image_alt: A film camera, a stack of unlabeled prints and an open blank notebook on a worn wooden desk
 word_count: 1120
-last_updated: 2026-08-07
+author: cyril-drouin
+published: 2026-08-07
+last_updated: 2026-08-08
 ---
 
 # The Moganshan journal

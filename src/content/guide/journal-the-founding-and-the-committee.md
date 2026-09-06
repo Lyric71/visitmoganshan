@@ -10,7 +10,9 @@ schema: Article
 image: /images/guide/journal-founding.webp
 image_alt: Stone villas on a bamboo ridge at Moganshan, the settlement founded by foreign residents in the 1890s
 word_count: 1687
-last_updated: 2026-08-07
+author: cyril-drouin
+published: 2026-08-08
+last_updated: 2026-08-09
 ---
 
 # The founding, and the committee

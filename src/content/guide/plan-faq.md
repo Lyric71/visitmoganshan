@@ -15,7 +15,9 @@ schema: Article + FAQPage
 image: /images/guide/plan-faq.webp
 image_alt: A folded paper map, a notebook, keys and a glass of tea on a table by a window onto green hills
 word_count: 1900
-last_updated: 2026-08-05
+author: cyril-drouin
+published: 2026-08-05
+last_updated: 2026-08-08
 ---
 
 # Planning questions, answered

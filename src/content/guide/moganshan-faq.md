@@ -14,7 +14,9 @@ schema: Article + FAQPage
 image: /images/guide/moganshan-faq.webp
 image_alt: A weathered wooden signpost where two forest paths meet in the bamboo on Moganshan
 word_count: 1400
-last_updated: 2026-08-05
+author: liyan-ye
+published: 2026-08-05
+last_updated: 2026-08-08
 ---
 
 # Moganshan questions and answers

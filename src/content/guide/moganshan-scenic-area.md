@@ -10,7 +10,9 @@ schema: TouristAttraction
 image: /images/guide/moganshan-scenic-area.webp
 image_alt: The ticket barrier and shuttle bay at the entrance to the Moganshan core scenic area
 word_count: 1317
-last_updated: 2026-08-05
+author: liyan-ye
+published: 2026-08-06
+last_updated: 2026-08-08
 ---
 
 # Moganshan National Scenic Area

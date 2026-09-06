@@ -46,7 +46,7 @@ if (password.length < 12) {
 }
 
 console.log('\nPaste these into .env.local and into the Vercel project settings:\n');
-console.log('ADMIN_EMAIL=cyril.drouin@beyondbordergroup.com');
+console.log('ADMIN_EMAIL=cyril.drouin@beyondbordergroup.com,cyril.drouin@bearingbridge.com');
 console.log(`ADMIN_PASSWORD_HASH=${hash(password)}`);
 console.log(`ADMIN_SECRET=${randomBytes(32).toString('base64url')}`);
 // Prefixed, so the three lines above are the only ones matching ^ADMIN_ and

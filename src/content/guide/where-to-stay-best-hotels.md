@@ -10,7 +10,9 @@ schema: Article
 image: /images/guide/where-to-stay-best-hotels.webp
 image_alt: A plain guest room with white walls, a linen-covered bed and a window open onto bamboo
 word_count: 1498
-last_updated: 2026-08-06
+author: echo-peng
+published: 2026-08-07
+last_updated: 2026-08-08
 ---
 
 # How to choose where to stay in Moganshan

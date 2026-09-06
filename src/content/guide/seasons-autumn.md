@@ -10,7 +10,9 @@ schema: Article
 image: /images/guide/seasons-autumn.webp
 image_alt: A leaf-covered stone path looking out from bamboo over a valley turning to autumn color
 word_count: 1305
-last_updated: 2026-08-06
+author: liyan-ye
+published: 2026-08-07
+last_updated: 2026-08-09
 ---
 
 # Autumn in Moganshan

@@ -24,6 +24,7 @@ import { readFile, writeFile, readdir } from 'node:fs/promises';
 import path from 'node:path';
 import process from 'node:process';
 import { pathToFileURL } from 'node:url';
+import { launchChrome } from './browser.mjs';
 
 const RAW_DIR = path.join(process.cwd(), 'data', 'raw');
 
@@ -181,11 +182,7 @@ async function main() {
     `Pricing ${queue.length} propert${queue.length === 1 ? 'y' : 'ies'} for ${checkIn} to ${checkOut}, concurrency ${OPTS.concurrency}.`,
   );
 
-  const { chromium } = await import('playwright');
-  const browser = await chromium.launch({
-    headless: !OPTS.headful,
-    args: ['--disable-blink-features=AutomationControlled'],
-  });
+  const browser = await launchChrome({ headful: OPTS.headful });
 
   let found = 0;
   let blank = 0;

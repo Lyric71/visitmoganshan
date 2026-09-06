@@ -10,7 +10,9 @@ schema: TouristTrip
 image: /images/guide/itineraries-visa-free-china.webp
 image_alt: The flat green delta countryside of eastern China seen from a moving train window
 word_count: 1609
-last_updated: 2026-08-06
+author: echo-peng
+published: 2026-08-07
+last_updated: 2026-08-08
 ---
 
 # A visa-free China trip with Moganshan in it

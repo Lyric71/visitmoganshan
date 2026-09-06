@@ -10,7 +10,9 @@ schema: Article
 image: /images/guide/moganshan-hill-station-history.webp
 image_alt: A weathered stone villa with an arched veranda standing empty in the trees at Moganshan
 word_count: 2097
-last_updated: 2026-08-05
+author: cyril-drouin
+published: 2026-08-05
+last_updated: 2026-08-08
 ---
 
 # A short history of Moganshan, 1890 to today

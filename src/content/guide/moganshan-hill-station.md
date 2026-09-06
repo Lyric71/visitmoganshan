@@ -10,7 +10,9 @@ schema: Article
 image: /images/guide/moganshan-hill-station.webp
 image_alt: Stone summer houses with tiled roofs stepping down a bamboo covered slope at Moganshan
 word_count: 1687
-last_updated: 2026-08-05
+author: cyril-drouin
+published: 2026-08-05
+last_updated: 2026-08-08
 ---
 
 # Moganshan's hill station

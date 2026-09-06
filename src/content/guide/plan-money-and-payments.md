@@ -2,7 +2,7 @@
 url: /plan/money-and-payments/
 title: Paying for things in China as a visitor
 seo_title: Paying for Things in China as a Visitor
-meta_description: "How to pay in China as a visitor: Alipay and WeChat Pay with a foreign card, cash, and what to set up before you fly. Checked 5 August 2026."
+meta_description: "How to pay in China as a visitor: Alipay and WeChat Pay with a foreign card, cash, and what to set up before you fly."
 excerpt: Foreign cards have worked in Alipay and WeChat Pay since 2023. Here is what to set up before you fly, and how paying works once you are up in the villages.
 primary_keyword: alipay for foreigners
 secondary_keywords: [china payment for tourists, wechat pay foreign card, paying in china as a tourist]
@@ -10,12 +10,13 @@ schema: Article
 image: /images/guide/plan-money-and-payments.webp
 image_alt: A phone showing a payment code propped on the wooden counter of a village guesthouse
 word_count: 1752
-last_updated: 2026-08-05
+author: cyril-drouin
+published: 2026-08-06
+last_updated: 2026-08-08
 ---
 
 # Paying for things in China as a visitor
 
-*Last checked 5 August 2026.*
 
 Our subject is Moganshan, a mountain in Deqing County, Huzhou prefecture, Zhejiang Province, about 60 km north of Hangzhou and 200 to 240 km from Shanghai. (Moganshan Road is an art district in Shanghai, and search results mix the two constantly.) This page is not about the mountain. It answers a question that comes up before anyone has picked anywhere in China at all. How do you actually pay for things? Paying in China as a tourist used to be hard. It is not hard now, but the good information about it is thin.
 

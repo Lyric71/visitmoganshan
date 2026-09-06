@@ -1,13 +1,20 @@
 ---
 import AdminPage from '../../layouts/AdminPage.astro';
 import { isConfigured, isSignedIn } from '../../lib/admin-auth';
+import { createAdminCaptcha } from '../../lib/admin-captcha';
 
 /**
  * /admin/login
  *
- * One form, posting to /api/admin/login. No client JavaScript: the browser
- * submits it, the server answers with a redirect, and the cookie the response
- * sets is HttpOnly so nothing in the page can read it.
+ * One form, posting to /api/admin/login. The browser submits it, the server
+ * answers with a redirect, and the cookie the response sets is HttpOnly so
+ * nothing in the page can read it. The only client JavaScript is the show or
+ * hide toggle on the password field, which flips the input type and nothing
+ * else; without it the form still works, the toggle just stays hidden.
+ *
+ * The picture puzzle is drawn fresh on every render of this page, server side,
+ * and posted back with a signed token. See src/lib/admin-captcha.ts for what it
+ * is and is not.
  *
  * Somebody already signed in is sent on rather than shown a form they do not
  * need.
@@ -17,9 +24,17 @@ export const prerender = false;
 if (isSignedIn(Astro.cookies)) return Astro.redirect('/admin');
 
 const params = Astro.url.searchParams;
-const failed = params.has('error');
-const unconfigured = params.get('error') === 'unconfigured' || !isConfigured();
+const error = params.get('error');
+const unconfigured = error === 'unconfigured' || !isConfigured();
 const signedOut = params.has('signed-out');
+
+const MESSAGES: Record<string, string> = {
+  captcha: 'The characters in the picture were not right. Here is a new picture.',
+  expired: 'That picture timed out. Here is a new one.',
+};
+const failure = error ? (MESSAGES[error] ?? 'Those details are not right.') : null;
+
+const captcha = unconfigured ? null : createAdminCaptcha();
 ---
 
 <AdminPage title="Sign in" showNav={false}>
@@ -47,9 +62,9 @@ const signedOut = params.has('signed-out');
       </div>
     ) : (
       <>
-        {failed && (
+        {failure && (
           <p class="msg msg--error" role="alert">
-            Those details are not right.
+            {failure}
           </p>
         )}
 
@@ -68,14 +83,51 @@ const signedOut = params.has('signed-out');
 
           <p class="field">
             <label for="password">Password</label>
+            <span class="password">
+              <input
+                id="password"
+                name="password"
+                type="password"
+                autocomplete="current-password"
+                required
+              />
+              <button
+                class="password__toggle"
+                type="button"
+                aria-controls="password"
+                aria-pressed="false"
+                hidden
+              >
+                Show
+              </button>
+            </span>
+          </p>
+
+          <div class="field captcha">
+            <label for="captcha">Type the characters in the picture</label>
+            <img
+              class="captcha__image"
+              src={captcha!.image}
+              width="320"
+              height="104"
+              alt="Six letters and digits drawn in a warped hand, for you to type"
+            />
             <input
-              id="password"
-              name="password"
-              type="password"
-              autocomplete="current-password"
+              id="captcha"
+              name="captcha"
+              type="text"
+              inputmode="text"
+              autocomplete="off"
+              autocapitalize="characters"
+              spellcheck="false"
+              maxlength="8"
               required
             />
-          </p>
+            <input type="hidden" name="captcha-token" value={captcha!.token} />
+            <p class="captcha__hint">
+              Case does not matter. <a href="/admin/login">Show a different picture</a>
+            </p>
+          </div>
 
           <p>
             <button class="vm-btn" type="submit">
@@ -87,6 +139,21 @@ const signedOut = params.has('signed-out');
     )
   }
 </AdminPage>
+
+<script>
+  const toggle = document.querySelector<HTMLButtonElement>('.password__toggle');
+  const input = document.getElementById('password') as HTMLInputElement | null;
+  if (toggle && input) {
+    toggle.hidden = false;
+    toggle.addEventListener('click', () => {
+      const show = input.type === 'password';
+      input.type = show ? 'text' : 'password';
+      toggle.textContent = show ? 'Hide' : 'Show';
+      toggle.setAttribute('aria-pressed', String(show));
+      input.focus({ preventScroll: true });
+    });
+  }
+</script>
 
 <style>
   .form {
@@ -120,6 +187,55 @@ const signedOut = params.has('signed-out');
 
   .field input:focus-visible {
     border-color: var(--color-bamboo);
+  }
+
+  .password {
+    position: relative;
+    display: block;
+  }
+
+  .password input {
+    padding-right: 4rem;
+  }
+
+  .password__toggle {
+    position: absolute;
+    top: 50%;
+    right: 0.5rem;
+    transform: translateY(-50%);
+    min-height: 32px;
+    padding: 0 0.6rem;
+    border: 0;
+    border-radius: 4px;
+    background: transparent;
+    color: var(--color-muted);
+    font: inherit;
+    font-size: 0.8125rem;
+    font-weight: 600;
+    cursor: pointer;
+  }
+
+  .password__toggle:hover,
+  .password__toggle:focus-visible {
+    color: var(--color-ink);
+    background: var(--color-mist);
+  }
+
+  .captcha__image {
+    display: block;
+    width: 100%;
+    max-width: 320px;
+    height: auto;
+    margin-bottom: 0.6rem;
+    border: 1px solid var(--color-line);
+    border-radius: 4px;
+    user-select: none;
+  }
+
+  .captcha__hint {
+    margin: 0.4rem 0 0;
+    font-size: 0.8125rem;
+    color: var(--color-muted);
   }
 
   .msg {

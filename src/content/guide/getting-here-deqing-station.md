@@ -10,7 +10,9 @@ schema: HowTo + Place
 image: /images/guide/getting-here-deqing-station.webp
 image_alt: A minibus and a line of taxis waiting outside a small modern Chinese railway station
 word_count: 1294
-last_updated: 2026-08-05
+author: cyril-drouin
+published: 2026-08-05
+last_updated: 2026-08-09
 ---
 
 # Deqing station, and the station that is not Moganshan

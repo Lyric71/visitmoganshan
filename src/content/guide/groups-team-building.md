@@ -10,7 +10,9 @@ schema: Article
 image: /images/guide/groups-team-building.webp
 image_alt: Three walkers climbing single file up an earth track through dense green bamboo
 word_count: 1199
-last_updated: 2026-08-06
+author: echo-peng
+published: 2026-08-07
+last_updated: 2026-08-08
 ---
 
 # Team building near Shanghai

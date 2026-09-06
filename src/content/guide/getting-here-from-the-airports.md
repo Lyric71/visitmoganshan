@@ -10,7 +10,9 @@ schema: Article
 image: /images/guide/getting-here-from-the-airports.webp
 image_alt: A high-speed train waiting at a platform in eastern China with a traveler and two suitcases on the platform edge
 word_count: 2100
-last_updated: 2026-08-07
+author: cyril-drouin
+published: 2026-08-08
+last_updated: 2026-08-09
 ---
 
 # Getting to Moganshan from Shanghai and Hangzhou airports

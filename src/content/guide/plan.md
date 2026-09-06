@@ -2,7 +2,7 @@
 url: /plan/
 title: Plan your trip to Moganshan
 seo_title: "Moganshan Travel Guide: Visas, Trains, Hotels"
-meta_description: "How to visit Moganshan: China entry rules, best dates, trains from Shanghai and Hangzhou, guesthouses and costs. Checked 5 August 2026."
+meta_description: "How to visit Moganshan: China entry rules, best dates, trains from Shanghai and Hangzhou, guesthouses and costs."
 excerpt: A practical Moganshan travel guide covering China entry rules, the best months, trains to Deqing, where to sleep and what to book before you go.
 primary_keyword: moganshan travel guide
 secondary_keywords: [visit moganshan, moganshan trip planning, moganshan guide]
@@ -10,12 +10,14 @@ schema: Article
 image: /images/guide/plan.webp
 image_alt: An open planning notebook and a phone timetable on a train tray table, hills passing outside
 word_count: 1678
-last_updated: 2026-08-05
+author: cyril-drouin
+published: 2026-08-06
+last_updated: 2026-08-07
 ---
 
 # Plan your trip to Moganshan
 
-*Last checked 5 August 2026. China's visa-free rules expire at the end of 2026.*
+*China's visa-free rules expire at the end of 2026.*
 
 Everything below is about one mountain: Moganshan, in Deqing County, part of Huzhou prefecture, Zhejiang Province, China, about 60 km north of Hangzhou and 200 to 240 km from Shanghai. Not Moganshan Road, the Shanghai art district that search results mix with it constantly.
 

@@ -10,6 +10,8 @@ schema: Article
 image: /images/guide/advertise.webp
 image_alt: Layered bamboo covered ridges above a small valley village, seen from a high viewpoint under cloud
 word_count: 902
+author: cyril-drouin
+published: 2026-08-08
 last_updated: 2026-08-08
 ---
 

@@ -10,7 +10,9 @@ schema: Article
 image: /images/guide/about.webp
 image_alt: An open blank notebook, a folded contour map, reading glasses and a glass of green tea on a wooden desk
 word_count: 1130
-last_updated: 2026-08-08
+author: cyril-drouin
+published: 2026-08-07
+last_updated: 2026-09-06
 ---
 
 # About this site
@@ -25,7 +27,7 @@ This page is here so you can judge how much of the rest of the site to believe.
 
 The publisher is BeyondBorder Group Ltd, registered in Hong Kong.
 
-![A desk with an open notebook, a laptop, a folded map and a cup of tea beside a window](/images/guide/about-2.webp 'The guide is researched and written by one person, funded by affiliate links and nothing else.')
+![A desk with an open notebook, a laptop, a folded map and a cup of tea beside a window](/images/guide/about-2.webp 'The guide is researched and written by three people, funded by affiliate links and advertising and nothing else.')
 
 | | |
 |---|---|
@@ -38,6 +40,22 @@ The publisher is BeyondBorder Group Ltd, registered in Hong Kong.
 Independent is an easy word to print, so here is what it covers. Nobody on the mountain reads a page before it goes live. We are not the Deqing tourism authority and do not speak for it. A property can ask us for a correction, like anyone. It cannot ask for a removal.
 
 The missing field visit is why we describe hotels without reviewing them.
+
+## Who writes it
+
+Three people write this site, and every article carries the name of the one who wrote it in the byline under its title. None of the three lives on the mountain, and none has yet stayed in a property named here, which is why the site describes and does not rate. What they bring is two decades each of working in China, and the habit of checking a figure before printing it.
+
+### Cyril Drouin
+
+Founder and editor. Twenty-five years in digital, advertising and commerce, most of them in mainland China, including a stretch as CEO of Publicis Commerce and Performance Marketing for China and North Asia. Writes the planning, transport and history pages and edits everything else. [LinkedIn](https://www.linkedin.com/in/cyril-d-68835729/).
+
+### Liyan Ye
+
+Senior director and writer. Brand and campaign work for Fortune 500 companies in China, based in Shanghai. Writes the pages on the mountain itself: the villages, the seasons, the tea, the bamboo and what there is to do. [LinkedIn](https://www.linkedin.com/in/liyanye/).
+
+### Echo Peng
+
+Senior director and writer. Eighteen years running e-commerce and digital operations for global brands in China, including as operations director at Publicis China. Writes the accommodation, itinerary and group pages, where the booking mechanics matter. [LinkedIn](https://www.linkedin.com/in/echo-peng-aa241751/).
 
 ## Funding, and what we own
 
@@ -113,7 +131,7 @@ Anything that can go stale carries a date. Ticket prices, train times, shuttle t
 
 ![A stone villa under scaffolding on a misty bamboo hillside](/images/guide/about-4.webp 'Prices, shuttle times and opening dates on this mountain move. Each page carries the date it was last checked.')
 
-Every page ends with a last-checked line, and gets re-dated when a figure moves. [Plan your trip](/plan/) collects the time-sensitive items in one place.
+Every page carries two dates under its title: the day it was published, which never moves, and the day it was last updated, which moves whenever the text does. The same last-checked line closes each article. A page cannot be pushed to the site with changed text and an unchanged date; the publishing tooling refuses it. [Plan your trip](/plan/) collects the time-sensitive items in one place.
 
 ## Corrections
 

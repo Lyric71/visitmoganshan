@@ -10,7 +10,9 @@ schema: Article
 image: /images/guide/moganshan-tea.webp
 image_alt: Rows of low tea bushes on a Moganshan slope with moso bamboo standing on the ridge above them
 word_count: 1807
-last_updated: 2026-08-07
+author: liyan-ye
+published: 2026-08-08
+last_updated: 2026-08-08
 ---
 
 # Moganshan yellow bud tea

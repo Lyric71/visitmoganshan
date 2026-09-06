@@ -10,7 +10,9 @@ schema: Article
 image: /images/guide/seasons-summer.webp
 image_alt: Bright green summer bamboo on a steep slope above a hazy forested valley
 word_count: 1391
-last_updated: 2026-08-05
+author: liyan-ye
+published: 2026-08-07
+last_updated: 2026-08-08
 ---
 
 # Summer in Moganshan

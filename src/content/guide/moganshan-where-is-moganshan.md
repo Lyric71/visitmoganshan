@@ -10,7 +10,9 @@ schema: Place
 image: /images/guide/moganshan-where-is-moganshan.webp
 image_alt: Bamboo covered ridges rolling away north of Hangzhou under a low morning haze
 word_count: 976
-last_updated: 2026-08-05
+author: cyril-drouin
+published: 2026-08-06
+last_updated: 2026-08-07
 ---
 
 # Where is Moganshan?
@@ -103,4 +105,3 @@ The guesthouses are not on the peak. They sit in villages around the base.
 
 Which one you pick matters more than the property. The [villages page](/moganshan/villages/) takes them one at a time. For what the place is like, see [what and where Moganshan is](/moganshan/).
 
-*Checked 5 August 2026: train times, shuttle departures and transfer arrangements. Timetables change without notice, so confirm before you travel.*

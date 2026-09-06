@@ -1,4 +1,5 @@
 import { getCollection, type CollectionEntry } from 'astro:content';
+import { authorById, personLd, AUTHORS, type AuthorId } from '../data/authors';
 
 export type GuideEntry = CollectionEntry<'guide'>;
 
@@ -95,7 +96,11 @@ export function readingMinutes(words: number | undefined): number | undefined {
 }
 
 export function formatDate(date: Date): string {
-  return date.toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
+  return date.toLocaleDateString('en-GB', {
+    day: 'numeric',
+    month: 'long',
+    year: 'numeric',
+  });
 }
 
 /* ==========================================================================
@@ -135,7 +140,10 @@ export function extractFaqs(body: string): Faq[] {
 
     const asBold = /^\*\*(.+\?)\*\*\s*$/.exec(first);
     if (asBold) {
-      faqs.push({ question: asBold[1]!, answer: stripMarkdown(lines.slice(1).join(' ')) });
+      faqs.push({
+        question: asBold[1]!,
+        answer: stripMarkdown(lines.slice(1).join(' ')),
+      });
       continue;
     }
 
@@ -187,7 +195,9 @@ export function guideJsonLd(entry: GuideEntry, crumbs: Crumb[]): object[] {
   const { data } = entry;
   const canonical = `${SITE}${toPath(data.url)}`;
   const wanted = data.schema.split('+').map((s) => s.trim().toLowerCase());
-  const iso = data.last_updated.toISOString().slice(0, 10);
+  const published = data.published.toISOString().slice(0, 10);
+  const modified = data.last_updated.toISOString().slice(0, 10);
+  const author = personLd(authorById(data.author as AuthorId));
 
   const blocks: object[] = [
     {
@@ -198,11 +208,15 @@ export function guideJsonLd(entry: GuideEntry, crumbs: Crumb[]): object[] {
       inLanguage: 'en',
       mainEntityOfPage: { '@type': 'WebPage', '@id': canonical },
       url: canonical,
-      datePublished: iso,
-      dateModified: iso,
-      author: PUBLISHER,
+      datePublished: published,
+      dateModified: modified,
+      author,
       publisher: PUBLISHER,
-      about: { '@type': 'Place', name: 'Moganshan', address: MOGANSHAN_ADDRESS },
+      about: {
+        '@type': 'Place',
+        name: 'Moganshan',
+        address: MOGANSHAN_ADDRESS,
+      },
     },
     {
       '@context': 'https://schema.org',
@@ -215,6 +229,15 @@ export function guideJsonLd(entry: GuideEntry, crumbs: Crumb[]): object[] {
       })),
     },
   ];
+
+  // The About page is where the bylines resolve. Every Person the articles
+  // point at is declared here in full, so the author of any page is an entity
+  // with a job title and a checkable profile rather than a name string.
+  if (toPath(data.url) === '/about') {
+    for (const person of Object.values(AUTHORS)) {
+      blocks.push({ '@context': 'https://schema.org', ...personLd(person) });
+    }
+  }
 
   if (wanted.includes('place') || wanted.includes('touristattraction')) {
     blocks.push({

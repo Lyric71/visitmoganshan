@@ -29,9 +29,15 @@ interface Props {
   total: number;
   /** How many of them have no captured rate, so the price filter cannot place them. */
   unpriced: number;
+  /**
+   * Set on a paginated page. The controls only see the cards on this page, and
+   * a reader searching for a name has to be told that and given the page where
+   * the search covers everything.
+   */
+  scope?: { total: number; allHref: string };
 }
 
-const { total, unpriced } = Astro.props;
+const { total, unpriced, scope } = Astro.props;
 
 const REVIEW_TIERS = [
   { id: '50', label: '50 or more' },
@@ -93,6 +99,15 @@ const REVIEW_TIERS = [
   <p class="filters__count" role="status" aria-live="polite" data-filter-count>
     Showing all {total.toLocaleString('en-GB')}.
   </p>
+  {
+    scope && (
+      <p class="filters__scope">
+        These controls work on the {total.toLocaleString('en-GB')} properties on this page. To search
+        all {scope.total.toLocaleString('en-GB')} by name,{' '}
+        <a href={scope.allHref}>use the single-page list</a>.
+      </p>
+    )
+  }
 </form>
 
 <script is:inline define:vars={{ total, unpriced }}>

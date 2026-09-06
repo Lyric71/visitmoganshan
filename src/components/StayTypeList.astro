@@ -2,10 +2,17 @@
 import StayCard from './StayCard.astro';
 import StayFilters from './StayFilters.astro';
 import { CAPTURES, priceBand } from '../lib/captures';
-import { TYPE_LABEL, staysOfType, type StayType } from '../lib/stays';
+import { STAY_TYPE_INTROS, renderIntro } from '../data/stay-types';
+import {
+  TYPE_LABEL,
+  typeAllUrl,
+  typePageUrl,
+  type SeedRecord,
+  type StayType,
+} from '../lib/stays';
 
 /**
- * Every property of one kind, as cards.
+ * One page of the properties of one kind, as cards.
  *
  * A card carries what Trip.com actually holds about a place: photographs, its
  * summary of what guests keep saying, one excerpt in a guest's own words, the
@@ -13,50 +20,120 @@ import { TYPE_LABEL, staysOfType, type StayType } from '../lib/stays';
  * was not a listing, it was an index, and nobody chooses where to sleep from an
  * index.
  *
- * The whole list, not a page of it. Eight hundred properties split seven ways
- * is at most a few hundred per page, every image below the fold is lazy, and
- * pagination would put the thing a reader is looking for behind a control they
- * have to guess at.
+ * Above the cards on the first page sits the one part of the page that is
+ * ours: a few hundred words on what this kind of place means on this mountain,
+ * what it costs and what to ask before paying. Without it the page was a
+ * heading and four hundred captured cards, which is a page a search engine is
+ * right to discount.
  *
- * The site writes nothing here. Where a property has a page of ours, the card
- * name links to it, and that page is where our words are.
+ * The rows arrive already sorted, most reviewed first, and already cut to a
+ * page by the route. This component does not know how many pages there are
+ * unless it is told, and when it is not told (the /all view) it renders the
+ * lot with no pagination.
  */
 interface Props {
   type: StayType;
   /** hotelId to the page we have written about it, where one exists. */
   writtenUp: Map<number, string>;
+  /** The rows for this page, in display order. */
+  rows: SeedRecord[];
+  /** How many properties of this kind there are in all. */
+  total: number;
+  /** Absent on the single-page view. `start` and `end` are 1-based row numbers. */
+  page?: { current: number; last: number; start: number; end: number };
 }
 
-const { type, writtenUp } = Astro.props;
+const { type, writtenUp, rows, total, page } = Astro.props;
 
-/**
- * Most reviewed first.
- *
- * The seed order is Trip.com's, which is theirs to arrange and not an argument
- * about the mountain. Review count is the one ranking on these cards that is
- * not our opinion and not the affiliate's: it says how much evidence sits
- * behind the score, and a place with two thousand reviews is a known quantity
- * in a way that a place with four is not. Sorted here rather than in the
- * browser so the order is in the HTML and holds without JavaScript.
- */
-const rows = [...staysOfType(type)].sort(
-  (a, b) => (CAPTURES.get(b.id)?.rating?.count ?? 0) - (CAPTURES.get(a.id)?.rating?.count ?? 0),
-);
+const label = TYPE_LABEL[type];
+const isFirst = !page || page.current === 1;
+const paginated = Boolean(page && page.last > 1);
+const intro = renderIntro(STAY_TYPE_INTROS[type], total);
 
 const unpriced = rows.filter((row) => priceBand(CAPTURES.get(row.id)) === 'unknown').length;
+
+// The pagination strip lists every page. Seven pages is the most any type
+// runs to, which is short enough to show in full rather than elide.
+const pages = page ? Array.from({ length: page.last }, (_, i) => i + 1) : [];
 ---
 
 <section class="listing">
   <header class="listing__head">
-    <h1>{TYPE_LABEL[type]} around Moganshan</h1>
-    <p class="listing__count">{rows.length.toLocaleString('en-GB')} bookable</p>
+    <h1>{label} around Moganshan</h1>
+    <p class="listing__count">{total.toLocaleString('en-GB')} bookable</p>
   </header>
 
-  <StayFilters total={rows.length} unpriced={unpriced} />
+  {
+    isFirst ? (
+      <div class="listing__intro">
+        <p class="listing__standfirst">{intro.standfirst}</p>
+        {intro.paragraphs.map((paragraph) => (
+          <p set:html={paragraph} />
+        ))}
+        <p class="listing__method">
+          The kind of place is read from the name each property gives itself on Trip.com, not from an
+          inspection of ours. Photographs, scores, summaries and quotes on the cards are captured from
+          the same listings; nothing on a card is written by us.
+        </p>
+      </div>
+    ) : (
+      <p class="listing__where">
+        Page {page!.current} of {page!.last}, properties {page!.start.toLocaleString('en-GB')} to{' '}
+        {page!.end.toLocaleString('en-GB')} of {total.toLocaleString('en-GB')}, most reviewed first.
+        The introduction to this list is on <a href={typePageUrl(type, 1)}>the first page</a>.
+      </p>
+    )
+  }
+
+  <StayFilters
+    total={rows.length}
+    unpriced={unpriced}
+    scope={paginated ? { total, allHref: typeAllUrl(type) } : undefined}
+  />
 
   <div class="cards">
     {rows.map((row) => <StayCard row={row} href={writtenUp.get(row.id)} />)}
   </div>
+
+  {
+    paginated && (
+      <nav class="pages" aria-label="Pages of this list">
+        <p class="pages__where">
+          Showing {page!.start.toLocaleString('en-GB')} to {page!.end.toLocaleString('en-GB')} of{' '}
+          {total.toLocaleString('en-GB')}
+        </p>
+        <ol role="list">
+          {page!.current > 1 && (
+            <li>
+              <a href={typePageUrl(type, page!.current - 1)} rel="prev">
+                Previous
+              </a>
+            </li>
+          )}
+          {pages.map((n) => (
+            <li>
+              {n === page!.current ? (
+                <span aria-current="page">{n}</span>
+              ) : (
+                <a href={typePageUrl(type, n)}>{n}</a>
+              )}
+            </li>
+          ))}
+          {page!.current < page!.last && (
+            <li>
+              <a href={typePageUrl(type, page!.current + 1)} rel="next">
+                Next
+              </a>
+            </li>
+          )}
+        </ol>
+        <p class="pages__all">
+          <a href={typeAllUrl(type)}>All {total.toLocaleString('en-GB')} on one page</a>, for searching by
+          name.
+        </p>
+      </nav>
+    )
+  }
 </section>
 
 <style>
@@ -80,8 +157,114 @@ const unpriced = rows.filter((row) => priceBand(CAPTURES.get(row.id)) === 'unkno
     color: var(--color-muted);
   }
 
+  /* Intro ------------------------------------------------------------------ */
+
+  /* The intro runs the full container width, the same column the cards below
+     it use, so the page reads as one column rather than a narrow read over a
+     wide grid. */
+  .listing__intro {
+    margin-top: 1.25rem;
+    text-wrap: pretty;
+  }
+
+  .listing__standfirst {
+    margin: 0 0 1rem;
+    font-size: clamp(1.0625rem, 1.6vw, 1.25rem);
+    line-height: 1.55;
+    color: var(--color-ink);
+  }
+
+  .listing__intro p {
+    line-height: 1.65;
+  }
+
+  .listing__intro p + p {
+    margin-top: 0.9rem;
+  }
+
+  .listing__intro a {
+    color: var(--color-bamboo);
+    text-underline-offset: 3px;
+  }
+
+  .listing__method {
+    font-size: 0.875rem;
+    color: var(--color-muted);
+  }
+
+  .listing__where {
+    margin-top: 1.25rem;
+    font-size: 0.9375rem;
+    line-height: 1.6;
+    color: var(--color-muted);
+  }
+
+  .listing__where a {
+    color: var(--color-bamboo);
+  }
+
   .cards {
     margin-top: clamp(1.5rem, 3vw, 2rem);
     border-top: 1px solid var(--color-line);
+  }
+
+  /* Pagination ------------------------------------------------------------- */
+
+  .pages {
+    padding-block: clamp(1.5rem, 3vw, 2rem);
+    border-top: 1px solid var(--color-line);
+  }
+
+  .pages__where,
+  .pages__all {
+    margin: 0;
+    font-size: 0.875rem;
+    font-variant-numeric: tabular-nums;
+    color: var(--color-muted);
+  }
+
+  .pages__all {
+    margin-top: 0.9rem;
+  }
+
+  .pages__all a {
+    color: var(--color-bamboo);
+    font-weight: 600;
+  }
+
+  .pages ol {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+    margin: 0.9rem 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .pages li a,
+  .pages li span {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 44px;
+    min-height: 44px;
+    padding: 0 0.85rem;
+    font-size: 0.9375rem;
+    font-variant-numeric: tabular-nums;
+    text-decoration: none;
+    color: var(--color-bamboo);
+    box-shadow: inset 0 0 0 1px var(--color-line);
+  }
+
+  .pages li a:hover,
+  .pages li a:focus-visible {
+    background: var(--color-mist-50);
+    box-shadow: inset 0 0 0 1px var(--color-bamboo);
+  }
+
+  .pages li span[aria-current] {
+    color: var(--color-ink);
+    background: var(--color-mist-50);
+    font-weight: 600;
   }
 </style>

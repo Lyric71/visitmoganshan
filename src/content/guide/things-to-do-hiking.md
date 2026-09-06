@@ -10,7 +10,9 @@ schema: Article
 image: /images/guide/things-to-do-hiking.webp
 image_alt: Worn stone steps climbing between bamboo culms on a wet Moganshan path
 word_count: 1416
-last_updated: 2026-08-05
+author: liyan-ye
+published: 2026-08-06
+last_updated: 2026-08-08
 ---
 
 # Walking and hiking in Moganshan

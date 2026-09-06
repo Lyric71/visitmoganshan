@@ -10,7 +10,9 @@ schema: Article
 image: /images/guide/seasons.webp
 image_alt: A bamboo valley under late autumn light, the ridges behind it fading into layers of haze
 word_count: 1602
-last_updated: 2026-08-05
+author: liyan-ye
+published: 2026-08-06
+last_updated: 2026-08-08
 ---
 
 # Moganshan through the year
@@ -135,4 +137,3 @@ The domestic answer has been summer since the 1890s, and for the people giving i
 
 Choose the weekday before the month. [Things to do](/things-to-do/) shows whether the shoulder-season mountain holds enough for your trip, and [the best time to visit](/plan/best-time-to-visit/) turns all this into one recommendation.
 
-*Checked 5 August 2026: temperature, holiday and ticket figures. Prices vary between sources and change by season, so confirm at booking.*

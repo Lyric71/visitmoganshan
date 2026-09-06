@@ -10,7 +10,9 @@ schema: Article + HowTo
 image: /images/guide/getting-here.webp
 image_alt: A narrow mountain road curving up through bamboo forest with a crash barrier above the valley
 word_count: 1596
-last_updated: 2026-08-05
+author: cyril-drouin
+published: 2026-08-05
+last_updated: 2026-08-09
 ---
 
 # How to get to Moganshan

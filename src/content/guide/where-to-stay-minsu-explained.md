@@ -10,7 +10,9 @@ schema: Article
 image: /images/guide/where-to-stay-minsu-explained.webp
 image_alt: A lit upstairs window of a whitewashed village guesthouse above a stone courtyard at dusk
 word_count: 1376
-last_updated: 2026-08-05
+author: echo-peng
+published: 2026-08-05
+last_updated: 2026-08-09
 ---
 
 # What a minsu is, and how it differs from a hotel

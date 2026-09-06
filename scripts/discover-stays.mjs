@@ -34,6 +34,7 @@
 import { readFile, writeFile } from 'node:fs/promises';
 import process from 'node:process';
 import { pathToFileURL } from 'node:url';
+import { launchChrome } from './browser.mjs';
 
 const SEED = 'data/seed/properties.seed.json';
 const REDIRECTS = 'data/seed/go-redirects.json';
@@ -206,11 +207,7 @@ async function main() {
   console.log(`${seed.length} properties in the list. Looking for ones that are not.`);
   await assertAllowed();
 
-  const { chromium } = await import('playwright');
-  const browser = await chromium.launch({
-    headless: !OPTS.headful,
-    args: ['--disable-blink-features=AutomationControlled'],
-  });
+  const browser = await launchChrome({ headful: OPTS.headful });
 
   const discovered = new Map();
 

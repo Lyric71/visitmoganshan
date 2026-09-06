@@ -10,7 +10,9 @@ schema: Article
 image: /images/guide/moganshan-hot-springs.webp
 image_alt: Steam rising off a rocky mountain stream at dawn below a bamboo slope
 word_count: 1047
-last_updated: 2026-08-06
+author: liyan-ye
+published: 2026-08-07
+last_updated: 2026-08-08
 ---
 
 # Hot springs at Moganshan

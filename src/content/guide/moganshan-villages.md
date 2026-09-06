@@ -10,7 +10,9 @@ schema: Place
 image: /images/guide/moganshan-villages.webp
 image_alt: Tiled village rooftops at the foot of a bamboo ridge at Moganshan, with terraced vegetable plots between the houses
 word_count: 2100
-last_updated: 2026-08-07
+author: liyan-ye
+published: 2026-08-08
+last_updated: 2026-08-09
 ---
 
 # Yucun, Xiantan and Sanjiuwu: the villages below Moganshan

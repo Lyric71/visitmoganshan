@@ -10,7 +10,9 @@ schema: ItemList
 image: /images/guide/where-to-stay-luxury.webp
 image_alt: A quiet lounge with a lit fire, a linen sofa and a full-height window onto misted bamboo
 word_count: 1305
-last_updated: 2026-08-06
+author: echo-peng
+published: 2026-08-07
+last_updated: 2026-08-08
 ---
 
 # Luxury hotels in Moganshan

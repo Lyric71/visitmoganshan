@@ -10,7 +10,9 @@ schema: Article
 image: /images/guide/plan-is-moganshan-worth-visiting.webp
 image_alt: Two wooden chairs and a glass of tea on a stone terrace above a bamboo valley
 word_count: 1500
-last_updated: 2026-08-05
+author: cyril-drouin
+published: 2026-08-05
+last_updated: 2026-08-08
 ---
 
 # Is Moganshan worth visiting?

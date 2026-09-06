@@ -10,7 +10,9 @@ schema: ItemList
 image: /images/guide/where-to-stay-hotels.webp
 image_alt: A low stone and timber guesthouse lit from inside at dusk, set into a bamboo hillside
 word_count: 1327
-last_updated: 2026-08-06
+author: echo-peng
+published: 2026-08-08
+last_updated: 2026-08-08
 ---
 
 # Every hotel in Moganshan

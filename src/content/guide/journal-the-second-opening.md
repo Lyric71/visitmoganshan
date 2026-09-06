@@ -10,7 +10,9 @@ schema: Article
 image: /images/guide/journal-second-opening.webp
 image_alt: Village guesthouses below the bamboo slopes of Moganshan, the trade that grew from the first foreign-run farmstay
 word_count: 1709
-last_updated: 2026-08-07
+author: cyril-drouin
+published: 2026-08-08
+last_updated: 2026-08-08
 ---
 
 # The second opening

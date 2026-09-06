@@ -6,6 +6,11 @@ interface Props {
   description?: string;
   /** Utility routes that must never enter the index. */
   noindex?: boolean;
+  /**
+   * The robots directive printed when noindex is set. Defaults to the strict
+   * form; a paginated listing passes "noindex, follow" so its links still count.
+   */
+  robots?: string;
   /** Social share image, relative to the site root. */
   ogImage?: string;
   /** Extra classes on <body>, for pages with their own ground colour. */
@@ -16,6 +21,7 @@ const {
   title = '',
   description = '',
   noindex = false,
+  robots = 'noindex, nofollow',
   ogImage = '/og-image.png',
   bodyClass = '',
 } = Astro.props;
@@ -34,7 +40,7 @@ const ogImageUrl = new URL(ogImage, Astro.site).href;
     <title>{title}</title>
     {description && <meta name="description" content={description} />}
     <link rel="canonical" href={canonical} />
-    {noindex && <meta name="robots" content="noindex, nofollow" />}
+    {noindex && <meta name="robots" content={robots} />}
 
     <!-- Icons. mark-favicon.svg is the reduced four culm variant, reversed on a
          bamboo plate; the seven culm primary mark fills in below 24px and must

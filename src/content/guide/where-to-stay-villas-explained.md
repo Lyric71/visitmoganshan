@@ -10,7 +10,9 @@ schema: ItemList
 image: /images/guide/where-to-stay-villas.webp
 image_alt: A whole two-storey stone and plaster house lit from inside at blue hour below a dark bamboo slope
 word_count: 1327
-last_updated: 2026-08-06
+author: echo-peng
+published: 2026-08-08
+last_updated: 2026-08-08
 ---
 
 # Private villas and whole-house stays
