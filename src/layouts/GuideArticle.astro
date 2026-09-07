@@ -3,6 +3,9 @@ import Layout from './Layout.astro';
 import SiteHeader from '../components/SiteHeader.astro';
 import SiteFooter from '../components/SiteFooter.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
+import PageHero from '../components/PageHero.astro';
+import ContentsBar from '../components/ContentsBar.astro';
+import Card from '../components/Card.astro';
 import StayBooking from '../components/StayBooking.astro';
 import type { StayEntry } from '../lib/stays';
 import { NAV, isCurrentGroup } from '../data/nav';
@@ -21,11 +24,13 @@ import {
 /**
  * The shell every guide page renders into.
  *
- * One h1, from frontmatter; the markdown body supplies h2s and below. A
- * horizontal contents strip sits above the body at every width, because these
- * pages run 1,300 to 2,100 words and a reader who arrived from a logistics
- * search wants one section, not the essay. The measure stays with the prose:
- * the strip runs the full container, the article holds its 68ch column.
+ * One h1, from frontmatter; the markdown body supplies h2s and below. The
+ * page opens the way the home page does (Cyril, 7 September 2026: every page
+ * in the magazine language): the lead photograph runs full width with the
+ * title, standfirst and byline set on it, and a sticky contents bar under it
+ * follows the reader through the h2s. These pages run 1,300 to 2,100 words
+ * and a reader who arrived from a logistics search wants one section, not
+ * the essay, so the bar stays with them the whole way down.
  *
  * Everything below the body is internal linking. Deep pages arriving from
  * search are the entire traffic model, so each one ends with a way sideways
@@ -83,73 +88,39 @@ const jsonLd = guideJsonLd(entry, crumbs)
   <Breadcrumbs crumbs={crumbs} />
 
   <main id="main">
-    <div class="vm-container">
-      <header class="head">
-        {kicker && <p class="vm-kicker">{kicker}</p>}
-        <h1>{data.title}</h1>
-        <p class="standfirst">{data.excerpt}</p>
-        <p class="byline">
-          <span class="byline__author">
-            By <a href={authorPath(author)} rel="author">{author.name}</a>
-          </span>
-          <span>
-            Published <time datetime={data.published.toISOString().slice(0, 10)}>{publishedOn}</time>
-          </span>
-          {
-            wasUpdated && (
-              <span>
-                Updated <time datetime={data.last_updated.toISOString().slice(0, 10)}>{updatedOn}</time>
-              </span>
-            )
-          }
-          {minutes && <span>{minutes} min read</span>}
-        </p>
-      </header>
-
-      {
-        data.image && (
-          <figure class="lead">
-            {/* Eager, and fetchpriority high: this is the LCP element on every
-                page that has one, and letting the browser discover it lazily
-                costs a round trip it cannot get back. */}
-            <img
-              src={data.image}
-              alt={data.image_alt ?? ''}
-              width="1600"
-              height="900"
-              loading="eager"
-              fetchpriority="high"
-              decoding="async"
-            />
-          </figure>
-        )
-      }
-
-      <div class="body">
+    <PageHero
+      title={data.title}
+      kicker={kicker}
+      standfirst={data.excerpt}
+      image={data.image}
+      imageAlt={data.image_alt}
+    >
+      <p class="opening__byline">
+        <span>
+          By <a href={authorPath(author)} rel="author">{author.name}</a>
+        </span>
+        <span>
+          Published <time datetime={data.published.toISOString().slice(0, 10)}>{publishedOn}</time>
+        </span>
         {
-          sections.length > 2 && (
-            <nav class="toc" aria-labelledby="toc-title">
-              <p class="vm-kicker" id="toc-title">
-                On this page
-              </p>
-              {/* role="list" restores the semantics Safari drops from a
-                  list-style: none list. */}
-              <ol role="list">
-                {sections.map((section, index) => (
-                  <li>
-                    <a href={`#${section.slug}`}>
-                      <span class="toc__num" aria-hidden="true">
-                        {String(index + 1).padStart(2, '0')}
-                      </span>
-                      <span class="toc__text">{section.text}</span>
-                    </a>
-                  </li>
-                ))}
-              </ol>
-            </nav>
+          wasUpdated && (
+            <span>
+              Updated <time datetime={data.last_updated.toISOString().slice(0, 10)}>{updatedOn}</time>
+            </span>
           )
         }
+        {minutes && <span>{minutes} min read</span>}
+      </p>
+    </PageHero>
 
+    {
+      sections.length > 2 && (
+        <ContentsBar items={sections.map((section) => ({ id: section.slug, label: section.text }))} />
+      )
+    }
+
+    <div class="vm-container">
+      <div class="body">
         <article class="vm-article">
           <slot />
 
@@ -185,8 +156,8 @@ const jsonLd = guideJsonLd(entry, crumbs)
 
           {
             showFaqLink && (
-              <aside class="faq">
-                <p class="vm-kicker">Still have a question?</p>
+              <aside class="faq" data-reveal>
+                <p class="faq__kicker">Still have a question?</p>
                 <p>
                   <a href={faqLink.href}>{faqLink.label}</a>
                 </p>
@@ -202,28 +173,19 @@ const jsonLd = guideJsonLd(entry, crumbs)
       {
         siblings.length > 0 && (
           <section class="more" aria-labelledby="more-title">
-            <h2 id="more-title">More in {kicker ?? 'this section'}</h2>
-            <ul>
-              {siblings.map((sibling) => (
-                <li>
-                  <a href={toPath(sibling.data.url)}>
-                    <span class="more__media">
-                      {sibling.data.image && (
-                        <img
-                          src={sibling.data.image}
-                          alt={sibling.data.image_alt ?? ''}
-                          width="300"
-                          height="200"
-                          loading="lazy"
-                          decoding="async"
-                        />
-                      )}
-                    </span>
-                    <span class="more__text">
-                      <span class="more__title">{sibling.data.title}</span>
-                      <span class="more__sub">{sibling.data.excerpt}</span>
-                    </span>
-                  </a>
+            <div class="more__head" data-reveal>
+              <h2 id="more-title">More in {kicker ?? 'this section'}</h2>
+            </div>
+            <ul class="more__grid">
+              {siblings.map((sibling, i) => (
+                <li style={`--i:${i % 4}`} data-reveal>
+                  <Card
+                    title={sibling.data.title}
+                    sub={sibling.data.excerpt}
+                    href={toPath(sibling.data.url)}
+                    image={sibling.data.image}
+                    alt={sibling.data.image_alt ?? ''}
+                  />
                 </li>
               ))}
             </ul>
@@ -237,163 +199,24 @@ const jsonLd = guideJsonLd(entry, crumbs)
 </Layout>
 
 <style>
-  /* Head ------------------------------------------------------------------ */
-
-  /* The breadcrumb strip carries its own rule, so the top padding here is the
-     gap below that rule, not the gap below the header. */
-  .head {
-    padding-block: clamp(2rem, 4vw, 3rem);
-    border-bottom: 1px solid var(--color-line);
-  }
-
-  /* Full column width for the title and the standfirst (Cyril, 7 September
-     2026). The old 22ch and 58ch caps wrapped the headline onto three lines
-     beside empty space. */
-  .head h1 {
-    text-wrap: balance;
-  }
-
-  .standfirst {
-    margin-top: 1rem;
-    font-size: clamp(1.0625rem, 1.6vw, 1.25rem);
-    line-height: 1.55;
-    color: var(--color-ink);
-  }
-
-  .byline {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.35rem 1.25rem;
-    margin-top: 1.25rem;
-    font-size: 0.8125rem;
-    color: var(--color-muted);
-  }
-
-  .byline__author {
-    color: var(--color-ink);
-  }
-
-  .byline a {
-    color: var(--color-bamboo);
-    font-weight: 600;
-    text-decoration: none;
-  }
-
-  .byline a:hover,
-  .byline a:focus-visible {
-    text-decoration: underline;
-    text-underline-offset: 3px;
-  }
-
-  /* Lead image ------------------------------------------------------------ */
-
-  /* Full container width, not the prose measure: the lead is the one image on
-     the page that is establishing the place rather than illustrating a
-     paragraph, and it earns the extra width. 16:9 rather than the 3:2 the body
-     figures use, so it never pushes the first paragraph off a phone screen. */
-  .lead {
-    margin: 0;
-    margin-top: clamp(2rem, 4vw, 3rem);
-  }
-
-  .lead img {
-    display: block;
-    width: 100%;
-    height: auto;
-    aspect-ratio: 16 / 9;
-    object-fit: cover;
-    background: var(--color-mist);
-  }
-
   /* Body ------------------------------------------------------------------ */
 
   /* min-width: 0 on the article rather than the wrapper: one wide timetable
      would otherwise stretch the body past the viewport instead of scrolling
      inside its own box. */
   .body {
-    padding-block: clamp(2rem, 4vw, 3rem);
+    padding-block: clamp(2.5rem, 5vw, 4rem) clamp(2rem, 4vw, 3rem);
   }
 
-  /* The contents strip and the prose now share one full-width column, so the
-     68ch cap the article carries by default is lifted here. */
+  /* The prose runs the full container: the contents bar and the article now
+     share one column, so the 68ch cap the article carries by default is
+     lifted here. */
   .body > .vm-article {
     min-width: 0;
     max-width: none;
   }
 
-  /* Contents index --------------------------------------------------------- */
-
-  /* Wrapping a flat row of links produced ragged, uneven columns. A ruled grid
-     instead: fixed tracks, one hairline per row, numbers running down the left
-     of each entry, so the block reads as an index rather than a stray line of
-     navigation that happened to wrap. */
-  .toc {
-    margin-bottom: clamp(2.25rem, 4vw, 3rem);
-    padding: clamp(1.25rem, 3vw, 1.75rem) clamp(1.25rem, 3vw, 2rem);
-    background: var(--color-mist-50);
-  }
-
-  .toc ol {
-    display: grid;
-    grid-template-columns: minmax(0, 1fr);
-    column-gap: clamp(1.5rem, 4vw, 3rem);
-    margin: 0;
-    padding: 0;
-    list-style: none;
-  }
-
-  @media (min-width: 640px) {
-    .toc ol {
-      grid-template-columns: repeat(2, minmax(0, 1fr));
-    }
-  }
-
-  @media (min-width: 1024px) {
-    .toc ol {
-      grid-template-columns: repeat(3, minmax(0, 1fr));
-    }
-  }
-
-  .toc li {
-    border-top: 1px solid var(--color-line);
-  }
-
-  .toc li a {
-    display: flex;
-    align-items: baseline;
-    gap: 0.75rem;
-    /* Padding, not a line-height fudge: the row has to clear 44px for a thumb
-       even though the type is 14px. */
-    padding: 0.7rem 0;
-    font-size: 0.9375rem;
-    line-height: 1.4;
-    color: var(--color-ink);
-    text-decoration: none;
-    transition: color 0.15s ease;
-  }
-
-  /* Tabular figures keep 01 and 11 the same width, so the titles start on one
-     line down every column. */
-  .toc__num {
-    flex: none;
-    font-size: 0.6875rem;
-    font-weight: 600;
-    letter-spacing: 0.08em;
-    font-variant-numeric: tabular-nums;
-    color: var(--color-leaf);
-  }
-
-  .toc li a:hover {
-    color: var(--color-bamboo);
-  }
-
-  .toc li a:hover .toc__text {
-    text-decoration: underline;
-    text-underline-offset: 3px;
-    text-decoration-thickness: 1px;
-  }
-
-  /* Illustration disclosure ------------------------------------------------ */
+  /* Notes ---------------------------------------------------------------- */
 
   /* Quiet, but not hidden: same treatment as the source notes the prose already
      uses for a figure it cannot stand behind, which is exactly what this is. */
@@ -415,11 +238,13 @@ const jsonLd = guideJsonLd(entry, crumbs)
 
   /* FAQ hub pointer -------------------------------------------------------- */
 
+  /* The same dark panel the home page uses for the month and the news. */
   .faq {
     margin-top: clamp(2rem, 4vw, 3rem);
-    padding: 1.25rem 1.5rem;
-    border-left: 2px solid var(--color-leaf);
-    background: var(--color-mist-50);
+    padding: 1.5rem 1.75rem;
+    border-radius: 14px;
+    background: var(--color-bamboo);
+    color: var(--color-mist);
   }
 
   .faq p {
@@ -430,22 +255,31 @@ const jsonLd = guideJsonLd(entry, crumbs)
     margin-top: 0.35rem;
   }
 
+  .faq__kicker {
+    font-size: 0.6875rem;
+    font-weight: 600;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--color-amber);
+  }
+
   .faq a {
     font-family: var(--font-display);
-    font-size: 1.0625rem;
-    color: var(--color-bamboo);
+    font-size: 1.375rem;
+    font-weight: 500;
+    color: #fff;
     text-decoration: none;
   }
 
   .faq a:hover {
     text-decoration: underline;
-    text-underline-offset: 3px;
+    text-underline-offset: 4px;
   }
 
   .faq__sub {
-    font-size: 0.875rem;
+    font-size: 0.9375rem;
     line-height: 1.5;
-    color: var(--color-muted);
+    color: var(--color-mist-muted);
   }
 
   /* More in this section --------------------------------------------------- */
@@ -456,77 +290,32 @@ const jsonLd = guideJsonLd(entry, crumbs)
   }
 
   .more h2 {
-    font-size: clamp(1.25rem, 2vw, 1.5rem);
-    margin-bottom: 1.5rem;
+    font-size: clamp(1.5rem, 2.6vw, 2rem);
+    letter-spacing: -0.01em;
+    margin-bottom: clamp(1.25rem, 2.5vw, 1.75rem);
   }
 
-  .more ul {
+  /* Steps 1 -> 2 -> 4 with the home page's card. A section has between two
+     and twelve siblings; four across is the widest that keeps a title on one
+     or two lines. */
+  .more__grid {
     display: grid;
-    gap: 1px;
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1.25rem;
     margin: 0;
     padding: 0;
     list-style: none;
-    background: var(--color-line);
-    border-block: 1px solid var(--color-line);
   }
 
-  @media (min-width: 768px) {
-    .more ul {
+  @media (min-width: 640px) {
+    .more__grid {
       grid-template-columns: repeat(2, minmax(0, 1fr));
     }
   }
 
-  .more li a {
-    display: flex;
-    gap: 1rem;
-    align-items: flex-start;
-    height: 100%;
-    padding: 1.125rem 1.25rem;
-    background: var(--color-paper);
-    text-decoration: none;
-  }
-
-  .more li a:hover {
-    background: var(--color-mist-50);
-  }
-
-  /* Fixed basis rather than a percentage: the two columns are different
-     widths at some viewports, and a thumbnail that changes size between them
-     reads as two different components. */
-  .more__media {
-    flex: 0 0 5.5rem;
-    aspect-ratio: 3 / 2;
-    overflow: hidden;
-    background: var(--color-mist);
-  }
-
-  .more__media img {
-    display: block;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-  }
-
-  .more li a:hover .more__media img {
-    opacity: 0.92;
-  }
-
-  .more__text {
-    min-width: 0;
-  }
-
-  .more__title {
-    display: block;
-    font-family: var(--font-display);
-    font-size: 1.0625rem;
-    color: var(--color-bamboo);
-  }
-
-  .more__sub {
-    display: block;
-    margin-top: 0.3rem;
-    font-size: 0.875rem;
-    line-height: 1.5;
-    color: var(--color-muted);
+  @media (min-width: 1024px) {
+    .more__grid {
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+    }
   }
 </style>

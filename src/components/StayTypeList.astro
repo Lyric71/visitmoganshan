@@ -1,6 +1,7 @@
 ---
 import StayCard from './StayCard.astro';
 import StayFilters from './StayFilters.astro';
+import PageHero from './PageHero.astro';
 import { CAPTURES, priceBand } from '../lib/captures';
 import { STAY_TYPE_INTROS, renderIntro } from '../data/stay-types';
 import {
@@ -57,16 +58,22 @@ const unpriced = rows.filter((row) => priceBand(CAPTURES.get(row.id)) === 'unkno
 const pages = page ? Array.from({ length: page.last }, (_, i) => i + 1) : [];
 ---
 
-<section class="listing">
-  <header class="listing__head">
-    <h1>{label} around Moganshan</h1>
-    <p class="listing__count">{total.toLocaleString('en-GB')} bookable</p>
-  </header>
+<PageHero
+  title={`${label} around Moganshan`}
+  kicker="Where to stay"
+  standfirst={isFirst ? intro.standfirst : undefined}
+>
+  <p class="opening__byline">
+    <strong>{total.toLocaleString('en-GB')} bookable</strong>
+    <span>Ordered by review count, most first</span>
+    {page && page.last > 1 && <span>Page {page.current} of {page.last}</span>}
+  </p>
+</PageHero>
 
+<section class="listing vm-container">
   {
     isFirst ? (
       <div class="listing__intro">
-        <p class="listing__standfirst">{intro.standfirst}</p>
         {intro.paragraphs.map((paragraph) => (
           <p set:html={paragraph} />
         ))}
@@ -137,41 +144,17 @@ const pages = page ? Array.from({ length: page.last }, (_, i) => i + 1) : [];
 </section>
 
 <style>
-  .listing__head {
-    display: flex;
-    align-items: baseline;
-    flex-wrap: wrap;
-    gap: 0.5rem 1rem;
-    padding-block: clamp(2rem, 4vw, 3rem) 0;
-  }
-
-  .listing__head h1 {
-    margin: 0;
-    text-wrap: balance;
-  }
-
-  .listing__count {
-    margin: 0;
-    font-size: 0.875rem;
-    font-variant-numeric: tabular-nums;
-    color: var(--color-muted);
+  .listing {
+    padding-top: clamp(2rem, 4vw, 3rem);
   }
 
   /* Intro ------------------------------------------------------------------ */
 
-  /* The intro runs the full container width, the same column the cards below
-     it use, so the page reads as one column rather than a narrow read over a
-     wide grid. */
+  /* The intro holds a reading measure: it is a few hundred words of our own
+     prose, and it is read, where the cards below are scanned. */
   .listing__intro {
-    margin-top: 1.25rem;
+    max-width: 68ch;
     text-wrap: pretty;
-  }
-
-  .listing__standfirst {
-    margin: 0 0 1rem;
-    font-size: clamp(1.0625rem, 1.6vw, 1.25rem);
-    line-height: 1.55;
-    color: var(--color-ink);
   }
 
   .listing__intro p {
@@ -204,15 +187,15 @@ const pages = page ? Array.from({ length: page.last }, (_, i) => i + 1) : [];
   }
 
   .cards {
+    display: grid;
+    gap: 1.25rem;
     margin-top: clamp(1.5rem, 3vw, 2rem);
-    border-top: 1px solid var(--color-line);
   }
 
   /* Pagination ------------------------------------------------------------- */
 
   .pages {
     padding-block: clamp(1.5rem, 3vw, 2rem);
-    border-top: 1px solid var(--color-line);
   }
 
   .pages__where,
@@ -249,22 +232,28 @@ const pages = page ? Array.from({ length: page.last }, (_, i) => i + 1) : [];
     min-width: 44px;
     min-height: 44px;
     padding: 0 0.85rem;
+    border: 1px solid var(--color-line);
+    border-radius: 999px;
+    background: var(--color-surface);
     font-size: 0.9375rem;
     font-variant-numeric: tabular-nums;
     text-decoration: none;
     color: var(--color-bamboo);
-    box-shadow: inset 0 0 0 1px var(--color-line);
+    transition:
+      border-color 180ms ease,
+      background-color 180ms ease;
   }
 
   .pages li a:hover,
   .pages li a:focus-visible {
     background: var(--color-mist-50);
-    box-shadow: inset 0 0 0 1px var(--color-bamboo);
+    border-color: var(--color-bamboo);
   }
 
   .pages li span[aria-current] {
-    color: var(--color-ink);
-    background: var(--color-mist-50);
+    color: var(--color-mist);
+    background: var(--color-bamboo);
+    border-color: var(--color-bamboo);
     font-weight: 600;
   }
 </style>

@@ -131,14 +131,26 @@ export type NewsItem = {
  * the home page reads the collection like everything else it lists, and an
  * item published by the news pipeline appears here the same build.
  */
+/**
+ * How far back the front page looks. An item older than this is history,
+ * not news, and belongs on the news index with its date. One year (Cyril,
+ * 7 September 2026, after ninety days and six months both read as too
+ * short) covers every season once and rides out a quiet winter.
+ */
+export const NEWS_WINDOW_DAYS = 365;
+
 export async function newsItems(count: number): Promise<NewsItem[]> {
   const entries = await getNewsEntries();
-  return entries.slice(0, count).map((entry) => ({
-    when: formatDate(entry.data.published),
-    iso: entry.data.published.toISOString().slice(0, 10),
-    headline: entry.data.title,
-    standfirst: entry.data.standfirst,
-    kind: KIND_LABEL[entry.data.kind],
-    href: newsPath(entry),
-  }));
+  const cutoff = Date.now() - NEWS_WINDOW_DAYS * 24 * 60 * 60 * 1000;
+  return entries
+    .filter((entry) => entry.data.published.getTime() >= cutoff)
+    .slice(0, count)
+    .map((entry) => ({
+      when: formatDate(entry.data.published),
+      iso: entry.data.published.toISOString().slice(0, 10),
+      headline: entry.data.title,
+      standfirst: entry.data.standfirst,
+      kind: KIND_LABEL[entry.data.kind],
+      href: newsPath(entry),
+    }));
 }

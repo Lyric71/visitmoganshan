@@ -35,6 +35,7 @@ import {
   effectiveFilter,
   extractLinks,
   matchTitle,
+  parseRssItems,
   scoreCandidate,
   titleHash,
   urlHash,
@@ -107,7 +108,7 @@ async function fetchPage(url, { userAgent, timeoutMs, browserHeaders }) {
 /** A challenge page rather than the listing: tiny, and all script. */
 function looksLikeWall(html) {
   if (html.length > 20_000) return false;
-  return /alicfw|onload="check()"|acw_sc__v2|__jsl_clearance|cf-challenge|_dx_captcha/i.test(html) || !/<a/i.test(html);
+  return /alicfw|onload="check\(\)"|acw_sc__v2|__jsl_clearance|cf-challenge|_dx_captcha/i.test(html) || !/<a[\s>]/i.test(html);
 }
 
 /* ==========================================================================
@@ -119,7 +120,8 @@ function isCrawlable(source) {
   if (!CRAWLABLE_KINDS.has(source.kind)) return { crawl: false, why: `kind ${source.kind}` };
   if (source.manualOnly) return { crawl: false, why: 'manual only' };
   if (source.renderedClientSide) return { crawl: false, why: 'rendered client side' };
-  if (!source.articlePattern) return { crawl: false, why: 'no article pattern' };
+  const feedOnly = source.listings.length && source.listings.every((l) => l.format === 'rss');
+  if (!source.articlePattern && !feedOnly) return { crawl: false, why: 'no article pattern' };
   if (!source.listings.length) return { crawl: false, why: 'no listings' };
   return { crawl: true };
 }
@@ -129,7 +131,7 @@ async function sweepSource(source, registry, settings, seen, now) {
   const lookback = settings.lookbackDays ?? defaults.lookbackDays;
   const cnOnly = !source.reachableFrom.includes('global');
   const timeoutMs = cnOnly ? Math.min(defaults.timeoutMs, 12_000) : defaults.timeoutMs;
-  const pattern = new RegExp(source.articlePattern);
+  const pattern = source.articlePattern ? new RegExp(source.articlePattern) : null;
   const result = { id: source.id, listings: [], candidates: [], errors: [], unreachable: false };
 
   for (const listing of source.listings) {
@@ -152,6 +154,35 @@ async function sweepSource(source, registry, settings, seen, now) {
         result.errors.push(`${listing.label}: HTTP ${page.status}`);
         continue;
       }
+      if (listing.format === 'rss') {
+        // A feed: every item is a candidate already dated by the feed, so no
+        // article pattern, no wall check (a feed has no <a> and would fail it).
+        const items = parseRssItems(page.html);
+        entry.links = items.length;
+        const perListing = new Map();
+        for (const item of items) {
+          if (pattern && !pattern.test(item.link)) continue;
+          entry.matched += 1;
+          const canonical = canonicalUrl(item.link);
+          if (perListing.has(canonical)) continue;
+          if (item.date && ageDays(item.date, now) > lookback) continue;
+          if (item.title.length < 6) continue;
+          const match = matchTitle(item.title, filter, keywords);
+          if (!match.keep) continue;
+          perListing.set(canonical, {
+            url: canonical,
+            title: item.title,
+            date: item.date,
+            matched: match.matched,
+            listing: listing.label,
+            via: item.source || null,
+          });
+        }
+        entry.kept = perListing.size;
+        result.candidates.push(...perListing.values());
+        await sleep(defaults.requestDelayMs);
+        continue;
+      }
       if (looksLikeWall(page.html)) {
         // Alibaba's WAF (Meadin), among others, answers a first request with a
         // small page of JavaScript that sets a cookie and reloads. Saying so is
@@ -165,7 +196,7 @@ async function sweepSource(source, registry, settings, seen, now) {
       entry.links = links.length;
       const perListing = new Map();
       for (const link of links) {
-        if (!pattern.test(link.href)) continue;
+        if (!pattern || !pattern.test(link.href)) continue;
         entry.matched += 1;
         const canonical = canonicalUrl(link.href);
         if (perListing.has(canonical)) {
@@ -187,6 +218,7 @@ async function sweepSource(source, registry, settings, seen, now) {
           date,
           matched: match.matched,
           listing: listing.label,
+          via: null,
         });
       }
       entry.kept = perListing.size;
@@ -326,7 +358,8 @@ function triageMarkdown({ stamp, registry, settings, results, weather, fixtures,
     for (const c of [...fresh, ...old].sort((a, b) => (b.date ?? '').localeCompare(a.date ?? ''))) {
       const status = c.isNew ? 'NEW' : c.status;
       const dup = c.duplicateOf ? ` (same headline as ${c.duplicateOf})` : '';
-      lines.push(`| ${c.date ?? 'undated'} | ${c.title.replace(/\|/g, '/')} | ${c.matched ?? 'listing'} | ${status}${dup} | ${c.url} |`);
+      const via = c.via ? ` (${c.via})` : '';
+      lines.push(`| ${c.date ?? 'undated'} | ${c.title.replace(/\|/g, '/')}${via} | ${c.matched ?? 'listing'} | ${status}${dup} | ${c.url} |`);
     }
     lines.push('');
   }
@@ -466,6 +499,7 @@ async function main() {
           title: c.title,
           title_hash: c.title_hash,
           source: c.source,
+          via: c.via ?? null,
           tier: c.tier,
           date: c.date,
           matched: c.matched,
@@ -502,6 +536,7 @@ async function main() {
         key: c.key,
         url: c.url,
         title: c.title,
+        via: c.via ?? null,
         date: c.date,
         matched: c.matched,
         tier: c.tier,

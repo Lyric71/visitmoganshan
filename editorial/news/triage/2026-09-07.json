@@ -1,6 +1,6 @@
 {
   "stamp": "2026-09-07",
-  "run": "07/09/2026, 11:20:35",
+  "run": "07/09/2026, 13:24:21",
   "settings": {
     "$comment": "Scheduling lives in data, not in the scheduler. The Windows task fires daily and reads this file first. Change the cadence or pause the agent by editing a value here; nothing needs registering again. lookbackDays overrides the registry default. dailyDraftLimit and maxDraftsPerRun cap what one Claude run may write into editorial/news/drafts. minDaysBetweenSweeps is the gate the runner checks against the last successful run in runs.json (0 means every day).",
     "paused": false,
@@ -20,249 +20,273 @@
           "key": "9b563706be992c4970b9a0507599c395841696c41ea2eba857b1155df1c9c5c0",
           "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/04/035285072.shtml",
           "title": "一群上海人，把品牌首店开在莫干山 下一步把二店开回上海",
+          "via": null,
           "date": "2026-09-04",
           "matched": null,
           "tier": 1,
-          "status": "new",
-          "score": 525,
-          "duplicateOf": null
+          "status": "drafted",
+          "score": 605,
+          "duplicateOf": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/04/035285065.shtml"
         },
         {
           "key": "e198a2797ecde38ff7a9b8e0fe284b77a85147fd1cde8280708f631917c8f4a0",
           "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/03/035284274.shtml",
           "title": "“斯巴达莫干山勇士部落”将于10月运营",
+          "via": null,
           "date": "2026-09-03",
           "matched": null,
           "tier": 1,
-          "status": "new",
-          "score": 500,
-          "duplicateOf": null
+          "status": "drafted",
+          "score": 580,
+          "duplicateOf": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/03/035284266.shtml"
         },
         {
           "key": "79408ded23e4740a8bfd2176589b8395e60ddf0cb7e3e5281a48db5c78989093",
           "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/02/035283238.shtml",
           "title": "顶级综合体验基地！10月对外开放",
+          "via": null,
           "date": "2026-09-02",
           "matched": null,
           "tier": 1,
-          "status": "new",
-          "score": 475,
+          "status": "skipped",
+          "score": 555,
           "duplicateOf": null
         },
         {
           "key": "6b432ac6d7c9473f2177381214adcb4f60d2a9b589af9f415bbb8f8c061d19ec",
           "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/01/035282014.shtml",
           "title": "喜报！德清一地入选",
+          "via": null,
           "date": "2026-09-01",
           "matched": null,
           "tier": 1,
-          "status": "new",
-          "score": 450,
+          "status": "skipped",
+          "score": 530,
           "duplicateOf": null
         },
         {
           "key": "babc096962f5bc5de325398d3d630dbd102a97dd9c909023bd010d88e20f387a",
           "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/04/035285061.shtml",
           "title": "德清“巧手”夺金",
+          "via": null,
           "date": "2026-09-04",
           "matched": "德清",
           "tier": 1,
-          "status": "new",
-          "score": 525,
+          "status": "skipped",
+          "score": 605,
           "duplicateOf": null
         },
         {
           "key": "bb568c308449473f8b8dce7eb9767fdc495f18b01a7b6b8bed938ef380d59b10",
           "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/04/035285057.shtml",
           "title": "科学有光 共创成炬 首届全国科普创作者大会今日在德清启幕",
+          "via": null,
           "date": "2026-09-04",
           "matched": "德清",
           "tier": 1,
-          "status": "new",
-          "score": 525,
+          "status": "skipped",
+          "score": 605,
           "duplicateOf": null
         },
         {
           "key": "aff5612f605de69e70176abc18828e6a6d2fd0d8f67dca78945d972cfe0be85f",
           "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/03/035284268.shtml",
           "title": "德清成立南丁格尔志愿护理服务队",
+          "via": null,
           "date": "2026-09-03",
           "matched": "德清",
           "tier": 1,
-          "status": "new",
-          "score": 500,
+          "status": "skipped",
+          "score": 580,
           "duplicateOf": null
         },
         {
           "key": "f7606541692156a75c70fb0221320ad5dc371f1ae8bef1956b6e54bd715ae633",
           "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/03/035284267.shtml",
           "title": "德清精准对接外贸企业用工需求",
+          "via": null,
           "date": "2026-09-03",
           "matched": "德清",
           "tier": 1,
-          "status": "new",
-          "score": 500,
+          "status": "skipped",
+          "score": 580,
           "duplicateOf": null
         },
         {
           "key": "1678fa32f1e4e236e6221bbf5dd8fc0a247f1b6f16b89da36f4f0569aed6a91e",
           "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/03/035284266.shtml",
           "title": "“斯巴达莫干山勇士部落”将于10月运营",
+          "via": null,
           "date": "2026-09-03",
           "matched": "莫干山",
           "tier": 1,
           "status": "skipped",
-          "score": 500,
+          "score": 580,
           "duplicateOf": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/03/035284274.shtml"
         },
         {
           "key": "07777e675a4853b24ca4d49d81dc1380f8c025e121f037c729d24697074bf2bb",
           "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/03/035284263.shtml",
           "title": "德清召开第192期 亲清直通车·政企恳谈会",
+          "via": null,
           "date": "2026-09-03",
           "matched": "德清",
           "tier": 1,
-          "status": "new",
-          "score": 500,
+          "status": "skipped",
+          "score": 580,
           "duplicateOf": null
         },
         {
           "key": "ceeb85ff33fefd00f55748cf52b75ba316845aa0816db643f7b7dffbe62c8300",
           "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/03/035284261.shtml",
           "title": "“边缘神”亮相腾讯 德清动画产业加速崛起",
+          "via": null,
           "date": "2026-09-03",
           "matched": "德清",
           "tier": 1,
-          "status": "new",
-          "score": 500,
+          "status": "skipped",
+          "score": 580,
           "duplicateOf": null
         },
         {
           "key": "6009372504da49097782fd4f842c032969fe8e301357383e404215b3b99d86a7",
           "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/03/035284259.shtml",
           "title": "向海突围 踏浪而行 德清钢材“链”接全球新航道",
+          "via": null,
           "date": "2026-09-03",
           "matched": "德清",
           "tier": 1,
-          "status": "new",
-          "score": 500,
+          "status": "skipped",
+          "score": 580,
           "duplicateOf": null
         },
         {
           "key": "d16905bdd4557975dc79fb79f3910f86b784c2895fd36fe8affb086fe721959d",
           "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/02/035283209.shtml",
           "title": "德清首届名龟交易会成效亮眼 3.5万人次观展，现场成交超1600万元",
+          "via": null,
           "date": "2026-09-02",
           "matched": "德清",
           "tier": 1,
-          "status": "new",
-          "score": 475,
+          "status": "skipped",
+          "score": 555,
           "duplicateOf": null
         },
         {
           "key": "d9dfb3ca63e80bc3d88b883ff5a299ff941506dc1d775e0cff76f570d1bbd5a4",
           "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/02/035283202.shtml",
           "title": "德清全社会用电负荷再创历史新高",
+          "via": null,
           "date": "2026-09-02",
           "matched": "德清",
           "tier": 1,
-          "status": "new",
-          "score": 475,
+          "status": "skipped",
+          "score": 555,
           "duplicateOf": null
         },
         {
           "key": "0e2e79322b2bc42de0463d0e6aa6843d51f5a93808663d5d38dfaa9a22136e27",
           "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/04/035285065.shtml",
           "title": "一群上海人，把品牌首店开在莫干山 下一步把二店开回上海",
+          "via": null,
           "date": "2026-09-04",
           "matched": "莫干山",
           "tier": 1,
           "status": "skipped",
-          "score": 525,
+          "score": 605,
           "duplicateOf": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/04/035285072.shtml"
         },
         {
           "key": "7ca56676f67e55323a3d7a6643619ab6d21ed21c042de8b2ffda4843875d9ca2",
           "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/04/035285063.shtml",
           "title": "德清个体工商户结对助学 义举温暖寒门学子",
+          "via": null,
           "date": "2026-09-04",
           "matched": "德清",
           "tier": 1,
-          "status": "new",
-          "score": 525,
+          "status": "skipped",
+          "score": 605,
           "duplicateOf": null
         },
         {
           "key": "553b69cf7a2ca6a911af65bc2a2dcb0a1bcdc9f3d5c2351e3d86d98a5a769c03",
           "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/01/035282000.shtml",
           "title": "开学季来临，德清县各小学花式迎新",
+          "via": null,
           "date": "2026-09-01",
           "matched": "德清",
           "tier": 1,
-          "status": "new",
-          "score": 450,
+          "status": "skipped",
+          "score": 530,
           "duplicateOf": null
         },
         {
           "key": "2f77ca68b920b656116a769d76f30ecf5e43f1b25d01855635e1a001e7770ce1",
           "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/01/035281999.shtml",
           "title": "德清与小金 两地少年千里同频",
+          "via": null,
           "date": "2026-09-01",
           "matched": "德清",
           "tier": 1,
-          "status": "new",
-          "score": 450,
+          "status": "skipped",
+          "score": 530,
           "duplicateOf": null
         },
         {
           "key": "3bcd29d5da8ebd2717b461824de9677ad2da9930702358a658b0e9910c104f90",
           "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/04/035285059.shtml",
           "title": "盘活沉睡资产 筑起共富地标 德清打造全市首个“一站式”综合助残服务新样板",
+          "via": null,
           "date": "2026-09-04",
           "matched": "德清",
           "tier": 1,
-          "status": "new",
-          "score": 525,
+          "status": "skipped",
+          "score": 605,
           "duplicateOf": null
         },
         {
           "key": "c3c8a2f815e4e0b09991946da73d09317938af5e2500be02be5a2cb5aeae9d63",
           "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/01/035281962.shtml",
           "title": "他们在德清“养”机器人",
+          "via": null,
           "date": "2026-09-01",
           "matched": "德清",
           "tier": 1,
-          "status": "new",
-          "score": 450,
+          "status": "skipped",
+          "score": 530,
           "duplicateOf": null
         },
         {
           "key": "d9cf7ff3a13f20fbed7a4f9f30aeacb635d35e1238e99ef020611253cc6bfc07",
           "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/02/035283237.shtml",
           "title": "杭德市域铁路今日正式试运行！杭德同城迈入轨道时代",
+          "via": null,
           "date": "2026-09-02",
           "matched": "杭德市域铁路",
           "tier": 1,
-          "status": "new",
-          "score": 475,
+          "status": "drafted",
+          "score": 555,
           "duplicateOf": null
         },
         {
           "key": "c708b9dfe55c5fd42f2c0e2ebd4883f04e9cab7aec0170e26c586d113c87ceed",
           "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/01/035282012.shtml",
           "title": "无需换乘，跨城直达！杭德市域铁路即将开通，新列车抢先体验",
+          "via": null,
           "date": "2026-09-01",
           "matched": "杭德市域铁路",
           "tier": 1,
-          "status": "new",
-          "score": 450,
+          "status": "skipped",
+          "score": 530,
           "duplicateOf": null
         }
       ]
     },
     {
       "id": "meadin",
-      "errors": [],
+      "errors": [
+        "酒店频道: anti bot challenge page (8232 bytes), open it in a browser instead"
+      ],
       "unreachable": false,
       "candidates": []
     },
@@ -282,13 +306,65 @@
       "id": "zjol-huzhou",
       "errors": [],
       "unreachable": false,
-      "candidates": []
+      "candidates": [
+        {
+          "key": "429bdee418e364ba03f554c21b2717195140eef0dc357df994aa847b111a732f",
+          "url": "https://zjnews.zjol.com.cn/zjnews/90zxw/202609/t20260904_31888773.shtml",
+          "title": "票根=门票！台州请你“一票”玩个够丨《90早新闻》来了",
+          "via": null,
+          "date": "2026-09-04",
+          "matched": "门票",
+          "tier": 2,
+          "status": "new",
+          "score": 465,
+          "duplicateOf": null
+        }
+      ]
     },
     {
       "id": "hangzhou-daily",
-      "errors": [],
+      "errors": [
+        "杭州日报数字报: anti bot challenge page (90 bytes), open it in a browser instead"
+      ],
       "unreachable": false,
-      "candidates": []
+      "candidates": [
+        {
+          "key": "787512731ccd03aa7264501367fe2ec90d2684e2ba0196f4da972c652e16f6e2",
+          "url": "https://news.hangzhou.com.cn/zjnews/content/2026-09/06/content_9299713.htm",
+          "title": "· 首届全国科普创作者大会在德清举行",
+          "via": null,
+          "date": "2026-09-06",
+          "matched": "德清",
+          "tier": 2,
+          "status": "new",
+          "score": 515,
+          "duplicateOf": null
+        },
+        {
+          "key": "e7488f7ba8998cc43dd64049e4371e6b0444e176482015c454af874e78a60ade",
+          "url": "https://ori.hangzhou.com.cn/ornews/content/2026-09/03/content_9297542.htm",
+          "title": "畅享杭州200多项文旅礼包 浙BA门票这样用最“划算”",
+          "via": null,
+          "date": "2026-09-03",
+          "matched": "门票",
+          "tier": 2,
+          "status": "new",
+          "score": 440,
+          "duplicateOf": null
+        },
+        {
+          "key": "ca23a05aaf9ccd87c2d826be839ee1e84e6481c441ee1c4ff733e564db9c157b",
+          "url": "https://ori.hangzhou.com.cn/ornews/content/2026-09/02/content_9296558.htm",
+          "title": "预计年底开通！德清至杭州无需换乘 杭德市域铁路开启试运行",
+          "via": null,
+          "date": "2026-09-02",
+          "matched": "德清",
+          "tier": 2,
+          "status": "new",
+          "score": 415,
+          "duplicateOf": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMbmZGSmRQT3JPTWhTeE9wdFJzeFczalp0WGpFMkM4T1ZvSzh3Tjg2UlFRUm0zRnFodFJKZW1YSHRxYm05QklJNDdmMXdGQi1WUWdnbkJ3RzQ1MnBrS1p3V0wwR3pTOFNnZUVyRFNyaGx1MnNzbkRmY090U2d6UQ?oc=5"
+        }
+      ]
     },
     {
       "id": "huzhou-cts",
@@ -316,13 +392,309 @@
       "candidates": []
     },
     {
+      "id": "google-news-zh",
+      "errors": [],
+      "unreachable": false,
+      "candidates": [
+        {
+          "key": "33f5567b04fe0e7094fdcfb3b4fc72c0d1e191bca4883c3499a1477715e72988",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54SUVBZi0tcDFGUlFrQVFIeDhOTWVKeTJDdGRkdTNGUy1RTWRlQ1QxS1Q3T196WU1TN2NFSnA5bmhZcldNbmJRNWdYQ05VeF9sblFhN3Bydlpldw?oc=5",
+          "title": "“轨道上的德清”加速驶来！杭德市域铁路正式开展试运行",
+          "via": "上观新闻",
+          "date": "2026-09-03",
+          "matched": null,
+          "tier": 4,
+          "status": "new",
+          "score": 280,
+          "duplicateOf": null
+        },
+        {
+          "key": "680b784267ac6d671dede4210baebd9314c9fc2c3ca6f26c3f992690a34240f0",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMbmZGSmRQT3JPTWhTeE9wdFJzeFczalp0WGpFMkM4T1ZvSzh3Tjg2UlFRUm0zRnFodFJKZW1YSHRxYm05QklJNDdmMXdGQi1WUWdnbkJ3RzQ1MnBrS1p3V0wwR3pTOFNnZUVyRFNyaGx1MnNzbkRmY090U2d6UQ?oc=5",
+          "title": "预计年底开通！德清至杭州无需换乘 杭德市域铁路开启试运行",
+          "via": "hwyst.hangzhou.com.cn",
+          "date": "2026-09-02",
+          "matched": null,
+          "tier": 4,
+          "status": "skipped",
+          "score": 255,
+          "duplicateOf": "https://ori.hangzhou.com.cn/ornews/content/2026-09/02/content_9296558.htm"
+        },
+        {
+          "key": "22e84ad337aeef4007a22076718d3eabf434af6a20f265a081ad7da22f4d152a",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KZkRGRVl1dTlRSWhJakFjcEl3MnJ3ZzVmVXFoSmFOLVVmem9NUHRsVHNpalA3YjlxUmVWSEFsODY3Z1J3b25tQnQ4akF5RnYtM01uQUFqZ1Y0UnUydUc5TXh3?oc=5",
+          "title": "杭德市域铁路预计2026年底通车 德清至杭州黄龙约40分钟",
+          "via": "观点网",
+          "date": "2026-09-02",
+          "matched": null,
+          "tier": 4,
+          "status": "new",
+          "score": 255,
+          "duplicateOf": null
+        },
+        {
+          "key": "477dd486331d1862028366c616604f7b08bc623f88788c725d2a22df4a49b321",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90bVlrcXVzUmMzMVY4TDZiMmFHM3pxLWZCYVppdFd2dC1rVWI0eWJuSjg4Qm92WkFlVDVGZUwyeWZYa2pJZ19BTkp1UGhYRFRzMmlZZW9yQTFuV0FKMjNjcG04TGliczJmM2VNZXAzVmdVMW8?oc=5",
+          "title": "杭州第三条跨市轨道，要来了",
+          "via": "浙江新闻",
+          "date": "2026-09-03",
+          "matched": null,
+          "tier": 4,
+          "status": "new",
+          "score": 280,
+          "duplicateOf": null
+        },
+        {
+          "key": "a52100a5cb9c6d04178029edc061b27d05e82c5747947b37f760b371fb4a622c",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YbEpXOHV2MHQyMG9JeTBxX2tBODdUU1o0SkNGTHpWQVV4a0dLUmVFbHFsaUxRZ2pSQlFLdmNfTWhyUmdGUDM2c2VSSW9OLUFPU0hreTQ2ZHdwMGxyQmhlNFA0SEJNd0xxNDNBYXU5SXFXbVJiQ0E?oc=5",
+          "title": "杭德市域铁路新车亮相 预计年底通车 今后从德清出发40分钟就能到达黄龙体育中心",
+          "via": "hzzx.gov.cn",
+          "date": "2026-09-01",
+          "matched": null,
+          "tier": 4,
+          "status": "new",
+          "score": 230,
+          "duplicateOf": null
+        },
+        {
+          "key": "b6acced65785e608ff1b7c3ffc26424198493dde645b4463e3b45b0d4c48b195",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BVTlTS0pCTDJsMTZoVzlNN0xHMzZnTWtubDRTMk50QVFCMVlqSnFvZkRLSzFIeWRUNUh4emh3M1pFaU9zSWZFZDZmN1cteU53U0I4Z20wMDFsZjBYbXVGVDAzMXlpby1Zc2FTQk9n?oc=5",
+          "title": "杭州地铁10号线二期、三期开启试运行 杭州至德清1小时生活圈年底实现",
+          "via": "pic.hangzhou.com.cn",
+          "date": "2026-09-05",
+          "matched": null,
+          "tier": 4,
+          "status": "new",
+          "score": 330,
+          "duplicateOf": null
+        },
+        {
+          "key": "d2a2872705aa4f383b1af0192b3620a61ee3120397f38ad0b264ccfcfd7c6e8c",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lbnVuNDExWEpBTHRXZjJUYUQxTGRBMlhLc2pWMGpsWXF6bmVhM0hTTG1lM3dkclZkS0pnVV85ckZhSnhWUXVzT0phT3QySHlSdW5vMWl6R2lhZnpJS2pHb0V6NVMwbFdVTzAzdA?oc=5",
+          "title": "湖州德清加入杭州“通勤圈”！杭德市域铁路即将开通",
+          "via": "温州新闻",
+          "date": "2026-08-31",
+          "matched": null,
+          "tier": 4,
+          "status": "new",
+          "score": 205,
+          "duplicateOf": null
+        },
+        {
+          "key": "68dc49b8b240fe2be9df25ff2ade8e348d3e47493537eca25ee3ae1ab360840e",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWmd4dVUyb2NNZkRTeTJsS0pEeEVpc01qeklscmF1bzJ3Y2lBME1pdEhld0UwNE12STVFb25sSW9hazA3eWR5NXNIa0sxSjFQNDZDUVBpcVNFd3FSUWlPS0MyYWZhaW80QVpEU3Z3TThiMm16Vkx5STBOQnBDUHY1czROVnJZUm1HdUF6UQ?oc=5",
+          "title": "无需换乘，40分钟到德清！杭德市域铁路开始试运行，车厢内这些细节亮了",
+          "via": "Sohu",
+          "date": "2026-09-02",
+          "matched": null,
+          "tier": 4,
+          "status": "new",
+          "score": 255,
+          "duplicateOf": null
+        },
+        {
+          "key": "5353be845fad2d4ed00c1b494f6615296d21c82ebf92cf39b03b1a44fd7c6506",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPV1NDczJySU1MZWJUR2JpTGdIM1hPcWczZXZNZEk1MG9fMlE3QjdObGxaTWJ3MHNpQ0lGMzV3aXcyVE51ME1VMkFuXzhwdEhzaDY2WjF6LVdfZ0RzUmd3RTVyU09YT2RvYnlydkZQX2lzQkd5VGtGX3lDMUtfUkJZenIyRkpZTk5DM2xZZQ?oc=5",
+          "title": "杭州地铁10号线二期、三期试运行，年底具备通车条件；在黄龙体育中心站乘四节编组车，可直达德清高铁站",
+          "via": "Sohu",
+          "date": "2026-09-05",
+          "matched": null,
+          "tier": 4,
+          "status": "new",
+          "score": 330,
+          "duplicateOf": null
+        },
+        {
+          "key": "af24c8cfe01a6f818345f3977ec766899bc220f81079ffb8359adde3cb13842d",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOVnRGaEhBS2lpQmV0OUFIOHQ0NmlQbm50S2w0TlNnU3RJYlVZWjhSVllOenZIX0xLaDF2RURHb1NsLTZILWVyV0FCUzJzdVdVakFsQVBB?oc=5",
+          "title": "杭德市域铁路启动试运行 杭州到德清40分钟可达西湖",
+          "via": "微博",
+          "date": "2026-09-02",
+          "matched": null,
+          "tier": 4,
+          "status": "new",
+          "score": 255,
+          "duplicateOf": null
+        },
+        {
+          "key": "c50f39342c394bbc924c71ddd4fa4abf3f505c9564979e53a05d6f6c206eb46e",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JcVA5eUQ0LWdScF9abW12MmE0azdnOTkzMEpXdDRtekk4bEduSDhzdVRIWkxXQ2duQXFJMS1oTHBGVlJVdVZBUThxWFJhLXp1Z1hudFRVbldUcHF0bmpkQWxoVTRiampDUlNVMXFEeUszOXc1VXJBOWJ0QQ?oc=5",
+          "title": "杭州地铁10号线二、三期，列车试运行！",
+          "via": "fashion.hangzhou.com.cn",
+          "date": "2026-09-07",
+          "matched": null,
+          "tier": 4,
+          "status": "new",
+          "score": 380,
+          "duplicateOf": null
+        },
+        {
+          "key": "6420a00ff3a01863213f47d49f47c149c1bbfdd55bc6bb2b99e3a851810c2e88",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82aHp0U1Q0dEVwaDRCZjBvZktlc1RTdDB4cmdsajE3ZUZ6bTFVSkFsdHlNYUZQLVR0N0prQ095dWtIS2oyd04weEh2elJXdGgyRjB5MG1tcEJpNWgtaUxFZVlYUzROakM5Y2U3Y1QyNkczY1N5V1E0?oc=5",
+          "title": "沉浸式打卡体验杭德市域铁路试运行的一天",
+          "via": "潮新闻客户端",
+          "date": "2026-09-02",
+          "matched": null,
+          "tier": 4,
+          "status": "new",
+          "score": 255,
+          "duplicateOf": null
+        }
+      ]
+    },
+    {
+      "id": "google-news-en",
+      "errors": [],
+      "unreachable": false,
+      "candidates": [
+        {
+          "key": "363c1c283513168e05e1917853533465e1219aec6a9510abc624d8b5dcf7bd4e",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdHpxdjRGR0RTbGRENEpEeGszaXVQMUoydGNyV3R4VFBIeHI3Qk5ja3pJMHE0ODBrdlk3MW1ObEtNTk5hV2VmRnN3SWRMWjNPcmRiRUVvQzc3N2JreURyVlVqQXc5YWQ2NXVSMlFqa2dkX0haV1lUbC1MZkRXcmExMU4xUQ?oc=5",
+          "title": "Moganshan Liaoyuan Theater / INCLS (One Design)",
+          "via": "ArchDaily",
+          "date": "2026-08-31",
+          "matched": null,
+          "tier": 4,
+          "status": "new",
+          "score": 205,
+          "duplicateOf": null
+        },
+        {
+          "key": "a12dc1532a9e61e2cbd6bf4f466d24d14c6374b783b02f717a5bff563e790d5e",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE80eldwckNEZ1BJTWw1Q1BMSEpXcW1IWEJiWWVZZU5PdkJlQVRJRHd6eFV5RllpTWtGUmJ3TnVBRllWb3pOd3FFbXo2TGZfcFphR3NudGxYSFdHMzYzRkZsSlJn?oc=5",
+          "title": "Railway trial operation",
+          "via": "Global Times",
+          "date": "2026-09-01",
+          "matched": null,
+          "tier": 4,
+          "status": "new",
+          "score": 230,
+          "duplicateOf": null
+        }
+      ]
+    },
+    {
+      "id": "bing-news",
+      "errors": [],
+      "unreachable": false,
+      "candidates": [
+        {
+          "key": "cde9612d0485e29788ff1fc0fe446f783e0ec4e7098f3843b2ffd3952aff6382",
+          "url": "https://sohu.com/a/1072717991_122579042",
+          "title": "双赛点决胜！石汉青崔明君 7‑6 险胜邱炮谋丁伟，CBL 联赛男双上演巅峰对决",
+          "via": "搜狐",
+          "date": "2026-09-06",
+          "matched": null,
+          "tier": 4,
+          "status": "new",
+          "score": 355,
+          "duplicateOf": null
+        },
+        {
+          "key": "00c9d02da16c798b074e6efa64e6bc60a0c5d3b318dea87d3bf695ac83a0dc01",
+          "url": "https://news.qq.com/rain/a/20260907A03TPM00",
+          "title": "探秘｜莫干山泉水为何好喝？",
+          "via": "腾讯网",
+          "date": "2026-09-06",
+          "matched": null,
+          "tier": 4,
+          "status": "new",
+          "score": 355,
+          "duplicateOf": null
+        }
+      ]
+    },
+    {
+      "id": "people-zj",
+      "errors": [],
+      "unreachable": false,
+      "candidates": []
+    },
+    {
+      "id": "hzzx",
+      "errors": [],
+      "unreachable": false,
+      "candidates": []
+    },
+    {
+      "id": "huzhou-gov",
+      "errors": [
+        "湖州要闻 德清: fetch failed",
+        "交通运输局: timeout after 12000 ms"
+      ],
+      "unreachable": true,
+      "candidates": []
+    },
+    {
+      "id": "zuicool",
+      "errors": [],
+      "unreachable": false,
+      "candidates": [
+        {
+          "key": "ac6d4dd1c109dd1e671a87ec214370694bde68232e90799edf607327882b2346",
+          "url": "https://zuicool.com/event/12546",
+          "title": "2026 UTO助力首百越野训练赛·莫干山站",
+          "via": null,
+          "date": null,
+          "matched": "莫干山",
+          "tier": 3,
+          "status": "new",
+          "score": 200,
+          "duplicateOf": null
+        }
+      ]
+    },
+    {
       "id": "traveldaily",
       "errors": [],
       "unreachable": false,
       "candidates": []
     },
     {
+      "id": "saihuitong",
+      "errors": [],
+      "unreachable": false,
+      "candidates": [
+        {
+          "key": "dacd69f1e6c8b28ce675edfaadf987bbcd1b39ce64d4d3cadd560a0bb429bb1d",
+          "url": "https://moganshan.saihuitong.com/events?mid=72300",
+          "title": "2026凯乐石莫干山跑山赛",
+          "via": null,
+          "date": null,
+          "matched": "莫干山",
+          "tier": 3,
+          "status": "new",
+          "score": 200,
+          "duplicateOf": null
+        }
+      ]
+    },
+    {
       "id": "xinhua-deqing",
+      "errors": [],
+      "unreachable": false,
+      "candidates": []
+    },
+    {
+      "id": "ezhejiang",
+      "errors": [],
+      "unreachable": false,
+      "candidates": []
+    },
+    {
+      "id": "chinadaily-huzhou",
+      "errors": [],
+      "unreachable": false,
+      "candidates": []
+    },
+    {
+      "id": "smartshanghai",
+      "errors": [],
+      "unreachable": false,
+      "candidates": []
+    },
+    {
+      "id": "ttgasia",
       "errors": [],
       "unreachable": false,
       "candidates": []
@@ -379,8 +751,24 @@
       "why": "kind manual"
     },
     {
+      "id": "utmb-mogan",
+      "why": "kind manual"
+    },
+    {
       "id": "aideqing",
       "why": "kind wechat"
+    },
+    {
+      "id": "hotel-trade-en",
+      "why": "kind manual"
+    },
+    {
+      "id": "sogou-weixin",
+      "why": "kind manual"
+    },
+    {
+      "id": "108sq-deqing",
+      "why": "kind manual"
     },
     {
       "id": "dianping",

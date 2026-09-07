@@ -14,9 +14,11 @@ import {
   extractLinks,
   matchTitle,
   newsPath,
+  parseRssItems,
   scoreCandidate,
   slugify,
   titleHash,
+  unwrapRedirect,
   validateRegistry,
 } from './news-lib.mjs';
 
@@ -142,4 +144,62 @@ test('bodyProblems catches the house rules', () => {
 test('newsPath: items by year and month, dispatches by week', () => {
   assert.equal(newsPath(good, 'shuttle-runs-later'), '/journal/news/2026/09/shuttle-runs-later');
   assert.equal(newsPath({ ...good, kind: 'dispatch', week: '2026-38' }, 'x'), '/journal/news/dispatch/2026-38');
+});
+
+test('matchTitle is case insensitive for the English terms', () => {
+  assert.equal(matchTitle('MOGANSHAN hotel opens', 'core', registry.keywords).matched, 'Moganshan');
+  assert.equal(matchTitle('New offices on Moganshan Road', 'core', registry.keywords).keep, false);
+  assert.equal(matchTitle('莫干山板材30年', 'none', registry.keywords).keep, false);
+});
+
+test('dateFromUrl reads the People\'s Daily year plus month day shape', () => {
+  const people = registry.sources.find((s) => s.id === 'people-zj');
+  assert.equal(
+    dateFromUrl('http://zj.people.com.cn/n2/2026/0907/c186327-41688348.html', people.articlePattern, people.dateFromUrl),
+    '2026-09-07',
+  );
+  assert.equal(dateFromUrl('http://zj.people.com.cn/n2/2026/09/c1-2.html', people.articlePattern, people.dateFromUrl), null);
+});
+
+test('parseRssItems reads Google News and Bing News items', () => {
+  const google = `<?xml version="1.0"?><rss version="2.0"><channel><title>x</title>
+<item><title>莫干山门票调整 - 潮新闻</title><link>https://news.google.com/rss/articles/CBMiAbc?oc=5</link>
+<pubDate>Mon, 07 Sep 2026 02:25:53 GMT</pubDate><source url="https://tidenews.com.cn">潮新闻</source></item>
+<item><title>No link here</title><pubDate>Mon, 07 Sep 2026 02:25:53 GMT</pubDate></item>
+</channel></rss>`;
+  const items = parseRssItems(google);
+  assert.equal(items.length, 1);
+  assert.deepEqual(items[0], {
+    title: '莫干山门票调整',
+    link: 'https://news.google.com/rss/articles/CBMiAbc?oc=5',
+    date: '2026-09-07',
+    source: '潮新闻',
+  });
+
+  const bing = `<rss version="2.0" xmlns:News="https://www.bing.com:443/news/search?q=x&format=rss"><channel>
+<item><title><![CDATA[探秘｜莫干山泉水为何好喝？]]></title>
+<link>http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260907A03TPM00&amp;c=1</link>
+<pubDate>Sun, 06 Sep 2026 13:14:00 GMT</pubDate><News:Source>腾讯网</News:Source></item></channel></rss>`;
+  const [item] = parseRssItems(bing);
+  assert.equal(item.link, 'https://news.qq.com/rain/a/20260907A03TPM00');
+  assert.equal(item.source, '腾讯网');
+  assert.equal(item.title, '探秘｜莫干山泉水为何好喝？');
+  assert.equal(item.date, '2026-09-06');
+
+  assert.deepEqual(parseRssItems('<html><body><a href="/x">not a feed</a></body></html>'), []);
+});
+
+test('unwrapRedirect leaves anything but a Bing tracker alone', () => {
+  assert.equal(unwrapRedirect('https://news.google.com/rss/articles/CBMiAbc?oc=5'), 'https://news.google.com/rss/articles/CBMiAbc?oc=5');
+  assert.equal(unwrapRedirect('not a url'), 'not a url');
+});
+
+test('the registry marks every feed listing and every English source as crawlable or manual', () => {
+  for (const source of registry.sources) {
+    for (const listing of source.listings ?? []) {
+      if (listing.format === 'rss') assert.ok(listing.url.startsWith('http'), `${source.id} feed url`);
+    }
+  }
+  const feeds = registry.sources.filter((s) => (s.listings ?? []).some((l) => l.format === 'rss'));
+  assert.ok(feeds.length >= 4, 'four sources carry a feed listing');
 });

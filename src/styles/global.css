@@ -451,6 +451,9 @@
     text-decoration: underline;
     text-decoration-thickness: 1px;
     text-underline-offset: 3px;
+    /* Source notes print the URL as the link text. A bare URL has no break
+       opportunity, and one long one widens the whole page on a phone. */
+    overflow-wrap: anywhere;
   }
 
   .vm-article a:hover {
@@ -476,6 +479,7 @@
   .vm-article blockquote {
     padding: 0.875rem 1.125rem;
     border-left: 3px solid var(--color-stone);
+    border-radius: 0 10px 10px 0;
     background: var(--color-mist-50);
     font-size: 0.875rem;
     line-height: 1.6;
@@ -492,6 +496,17 @@
   .vm-table {
     overflow-x: auto;
     overscroll-behavior-x: contain;
+    border: 1px solid var(--color-line);
+    border-radius: 14px;
+    background: var(--color-surface);
+  }
+
+  .vm-table :where(table) {
+    font-size: 0.9375rem;
+  }
+
+  .vm-table :where(th, td) {
+    padding-inline: 1rem;
   }
 
   .vm-article :where(table) {
@@ -562,6 +577,8 @@
     aspect-ratio: 3 / 2;
     object-fit: cover;
     background: var(--color-mist);
+    /* The same 14px frame every photograph on the site sits in. */
+    border-radius: 14px;
   }
 
   .vm-figure figcaption {

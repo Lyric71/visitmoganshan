@@ -3,6 +3,7 @@ import Layout from './Layout.astro';
 import SiteHeader from '../components/SiteHeader.astro';
 import SiteFooter from '../components/SiteFooter.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
+import PageHero from '../components/PageHero.astro';
 import { authorById, authorPath, type AuthorId } from '../data/authors';
 import { TOPIC_LABEL } from '../data/news-topics';
 import { formatDate } from '../lib/guide';
@@ -76,54 +77,41 @@ const jsonLd = newsJsonLd(entry, crumbs)
   <Breadcrumbs crumbs={crumbs} />
 
   <main id="main">
+    <PageHero
+      title={data.title}
+      kicker={kicker}
+      standfirst={data.standfirst}
+      image={data.image}
+      imageAlt={data.image_alt}
+    >
+      <p class="opening__byline">
+        <span>
+          By <a href={authorPath(author)} rel="author">{author.name}</a>
+        </span>
+        <span>
+          Published <time datetime={data.published.toISOString().slice(0, 10)}>{publishedOn}</time>
+        </span>
+        {
+          wasUpdated && (
+            <span>
+              Updated <time datetime={data.last_updated.toISOString().slice(0, 10)}>{updatedOn}</time>
+            </span>
+          )
+        }
+        {changed && <strong>{changed}</strong>}
+      </p>
+      <ul class="opening__chips" aria-label="Topics">
+        {
+          data.topics.map((topic) => (
+            <li>
+              <a href={topicPath(topic)}>{TOPIC_LABEL[topic]}</a>
+            </li>
+          ))
+        }
+      </ul>
+    </PageHero>
+
     <div class="vm-container">
-      <header class="head">
-        <p class="vm-kicker">{kicker}</p>
-        <h1>{data.title}</h1>
-        <p class="standfirst">{data.standfirst}</p>
-        <p class="byline">
-          <span class="byline__author">
-            By <a href={authorPath(author)} rel="author">{author.name}</a>
-          </span>
-          <span>
-            Published <time datetime={data.published.toISOString().slice(0, 10)}>{publishedOn}</time>
-          </span>
-          {
-            wasUpdated && (
-              <span>
-                Updated <time datetime={data.last_updated.toISOString().slice(0, 10)}>{updatedOn}</time>
-              </span>
-            )
-          }
-          {changed && <span class="byline__changed">{changed}</span>}
-        </p>
-        <ul class="topics" aria-label="Topics">
-          {
-            data.topics.map((topic) => (
-              <li>
-                <a href={topicPath(topic)}>{TOPIC_LABEL[topic]}</a>
-              </li>
-            ))
-          }
-        </ul>
-      </header>
-
-      {
-        data.image && (
-          <figure class="lead">
-            <img
-              src={data.image}
-              alt={data.image_alt ?? ''}
-              width="1600"
-              height="900"
-              loading="eager"
-              fetchpriority="high"
-              decoding="async"
-            />
-          </figure>
-        )
-      }
-
       <div class="body">
         <article class="vm-article">
           <slot />
@@ -192,11 +180,13 @@ const jsonLd = newsJsonLd(entry, crumbs)
       </div>
 
       <section class="more" aria-labelledby="more-title">
-        <h2 id="more-title">More news</h2>
+        <div data-reveal>
+          <h2 id="more-title">More news</h2>
+        </div>
         <ol class="more__list">
           {
-            more.map((item) => (
-              <li>
+            more.map((item, i) => (
+              <li style={`--i:${i}`} data-reveal>
                 <a href={newsPath(item)}>
                   <span class="more__when">
                     <time datetime={item.data.published.toISOString().slice(0, 10)}>
@@ -221,92 +211,6 @@ const jsonLd = newsJsonLd(entry, crumbs)
 </Layout>
 
 <style>
-  .head {
-    padding-block: clamp(2rem, 4vw, 3rem);
-    border-bottom: 1px solid var(--color-line);
-  }
-
-  .head h1 {
-    text-wrap: balance;
-  }
-
-  .standfirst {
-    margin-top: 1rem;
-    font-size: clamp(1.0625rem, 1.6vw, 1.25rem);
-    line-height: 1.55;
-    color: var(--color-ink);
-  }
-
-  .byline {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.35rem 1.25rem;
-    margin-top: 1.25rem;
-    font-size: 0.8125rem;
-    color: var(--color-muted);
-  }
-
-  .byline__author {
-    color: var(--color-ink);
-  }
-
-  .byline__changed {
-    color: var(--color-ink);
-    font-weight: 600;
-  }
-
-  .byline a {
-    color: var(--color-bamboo);
-    font-weight: 600;
-    text-decoration: none;
-  }
-
-  .byline a:hover,
-  .byline a:focus-visible {
-    text-decoration: underline;
-    text-underline-offset: 3px;
-  }
-
-  .topics {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.5rem;
-    margin: 1rem 0 0;
-    padding: 0;
-    list-style: none;
-  }
-
-  .topics a {
-    display: inline-block;
-    padding: 0.25rem 0.7rem;
-    border: 1px solid var(--color-line);
-    border-radius: 999px;
-    font-size: 0.75rem;
-    font-weight: 600;
-    letter-spacing: 0.04em;
-    text-transform: uppercase;
-    color: var(--color-leaf);
-    text-decoration: none;
-  }
-
-  .topics a:hover {
-    border-color: var(--color-leaf);
-  }
-
-  .lead {
-    margin: 0;
-    margin-top: clamp(2rem, 4vw, 3rem);
-  }
-
-  .lead img {
-    display: block;
-    width: 100%;
-    height: auto;
-    aspect-ratio: 16 / 9;
-    object-fit: cover;
-    background: var(--color-mist);
-  }
-
   .body {
     padding-block: clamp(2rem, 4vw, 3rem);
   }
@@ -320,9 +224,10 @@ const jsonLd = newsJsonLd(entry, crumbs)
      hurry is here for. */
   .consequence {
     margin-top: clamp(1.5rem, 3vw, 2rem);
-    padding: 1rem 1.25rem;
-    border-left: 3px solid var(--color-amber);
-    background: var(--color-mist-50);
+    padding: 1.25rem 1.5rem;
+    border-left: 4px solid var(--color-amber);
+    border-radius: 0 14px 14px 0;
+    background: var(--color-mist);
     font-size: 1.0625rem;
     line-height: 1.55;
   }
@@ -401,8 +306,14 @@ const jsonLd = newsJsonLd(entry, crumbs)
     display: grid;
     grid-template-columns: minmax(0, 1fr);
     gap: 0.2rem 1.5rem;
-    padding: 0.85rem 0;
+    padding: 0.85rem 0.5rem;
+    border-radius: 10px;
     text-decoration: none;
+    transition: background-color 180ms ease;
+  }
+
+  .more__list a:hover {
+    background: var(--color-mist-50);
   }
 
   @media (min-width: 640px) {

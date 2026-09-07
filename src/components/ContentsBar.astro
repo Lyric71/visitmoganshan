@@ -1,0 +1,191 @@
+---
+/**
+ * A sticky contents bar: the parts of a page in order, stuck under the site
+ * header, with the active one underlined as the reader scrolls.
+ *
+ * Shared by the home page (its seven sections), every guide article (its
+ * h2s), the policies and the news items. The active link follows the section
+ * in view through an IntersectionObserver on the target elements, never a
+ * scroll listener; on a phone the bar scrolls sideways and keeps the active
+ * link in view itself. Targets that do not exist on the page are skipped.
+ */
+interface Props {
+  items: { id: string; label: string }[];
+  /** Accessible name for the nav. */
+  label?: string;
+}
+
+const { items, label = 'On this page' } = Astro.props;
+---
+
+<nav class="contents" aria-label={label} data-contents>
+  <div class="vm-container">
+    <ul class="contents__list">
+      {
+        items.map((item) => (
+          <li>
+            <a href={`#${item.id}`} data-contents-link={item.id}>
+              {item.label}
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </div>
+</nav>
+
+<script>
+  for (const nav of document.querySelectorAll<HTMLElement>('[data-contents]')) {
+    const links = Array.from(nav.querySelectorAll<HTMLAnchorElement>('[data-contents-link]'));
+    if (!links.length || !('IntersectionObserver' in window)) continue;
+
+    const targets = links
+      .map((link) => document.getElementById(link.dataset.contentsLink ?? ''))
+      .filter((el): el is HTMLElement => Boolean(el));
+
+    const list = nav.querySelector<HTMLElement>('.contents__list');
+
+    // Keeps the active link in view on a phone by scrolling the list itself,
+    // never scrollIntoView: that also scrolls the window, and a smooth window
+    // scroll fired on every heading change cancels the reader's own scroll.
+    const bringIntoView = (link: HTMLElement) => {
+      if (!list || list.scrollWidth <= list.clientWidth) return;
+      const left = link.offsetLeft - (list.clientWidth - link.offsetWidth) / 2;
+      list.scrollTo({ left: Math.max(0, left), behavior: 'smooth' });
+    };
+
+    const setActive = (id: string) => {
+      for (const link of links) {
+        const active = link.dataset.contentsLink === id;
+        const was = link.hasAttribute('aria-current');
+        link.toggleAttribute('aria-current', active);
+        if (active && !was) bringIntoView(link);
+      }
+    };
+
+    // A heading is a line, a section is a block: the target that is active
+    // is the last one whose top has passed a line a third of the way down
+    // the viewport. Tracking passes rather than intersections handles both.
+    const passed = new Set<HTMLElement>();
+    const pick = () => {
+      let best: HTMLElement | null = null;
+      for (const el of targets) if (passed.has(el)) best = el;
+      if (best) {
+        setActive(best.id);
+      } else {
+        // Back above the first target: nothing is current, and the bar
+        // returns to its start so the first labels are the ones in view.
+        for (const link of links) link.removeAttribute('aria-current');
+        list?.scrollTo({ left: 0, behavior: 'smooth' });
+      }
+    };
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        for (const entry of entries) {
+          const el = entry.target as HTMLElement;
+          const above = entry.boundingClientRect.top < window.innerHeight * 0.35;
+          if (above) passed.add(el);
+          else passed.delete(el);
+        }
+        pick();
+      },
+      { rootMargin: '-35% 0px 65% 0px', threshold: 0 },
+    );
+    targets.forEach((el) => observer.observe(el));
+
+    // Marks the bar as floating over content, so it only gains its hairline
+    // and blur once it has actually stuck.
+    const sentinel = document.createElement('div');
+    sentinel.setAttribute('aria-hidden', 'true');
+    nav.before(sentinel);
+    new IntersectionObserver(
+      ([entry]) => nav.classList.toggle('is-stuck', !entry.isIntersecting),
+      { rootMargin: '-69px 0px 0px 0px', threshold: 0 },
+    ).observe(sentinel);
+  }
+</script>
+
+<style>
+  .contents {
+    position: sticky;
+    /* The site header is sticky at 68px; the bar sits directly under it. */
+    top: 68px;
+    z-index: 20;
+    background: color-mix(in srgb, var(--color-paper) 88%, transparent);
+    -webkit-backdrop-filter: blur(14px) saturate(140%);
+    backdrop-filter: blur(14px) saturate(140%);
+    border-bottom: 1px solid transparent;
+    transition: border-color 200ms ease;
+  }
+
+  .contents.is-stuck {
+    border-bottom-color: var(--color-line);
+  }
+
+  @media (prefers-reduced-transparency: reduce) {
+    .contents {
+      background: var(--color-paper);
+      backdrop-filter: none;
+    }
+  }
+
+  .contents__list {
+    display: flex;
+    gap: 0.25rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    overflow-x: auto;
+    scrollbar-width: none;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .contents__list::-webkit-scrollbar {
+    display: none;
+  }
+
+  .contents__list a {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    min-height: 48px;
+    padding: 0 0.85rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: var(--color-muted);
+    white-space: nowrap;
+    text-decoration: none;
+    transition: color 160ms ease;
+  }
+
+  .contents__list a:hover {
+    color: var(--color-bamboo);
+  }
+
+  .contents__list a::after {
+    content: '';
+    position: absolute;
+    inset: auto 0.85rem 0;
+    height: 2px;
+    background: var(--color-amber);
+    transform: scaleX(0);
+    transform-origin: center;
+    transition: transform 260ms cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  .contents__list a[aria-current] {
+    color: var(--color-bamboo);
+    font-weight: 600;
+  }
+
+  .contents__list a[aria-current]::after {
+    transform: scaleX(1);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .contents__list a::after {
+      transition: none;
+    }
+  }
+</style>

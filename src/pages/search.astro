@@ -2,6 +2,7 @@
 import Layout from '../layouts/Layout.astro';
 import SiteHeader from '../components/SiteHeader.astro';
 import SiteFooter from '../components/SiteFooter.astro';
+import PageHero from '../components/PageHero.astro';
 import { getGuideEntries, sectionLabel, SECTION_LABELS, toPath } from '../lib/guide';
 
 /**
@@ -69,15 +70,12 @@ const total = entries.length;
   <SiteHeader />
 
   <main id="main">
-    <div class="vm-container">
-      <header class="head">
-        <p class="vm-kicker">Search</p>
-        <h1>Search the guide</h1>
-        <p class="standfirst">
-          {total} pages on Moganshan: how to get here, where to stay, what there is to do and when
-          to come. Type a place, a station or a question.
-        </p>
-
+    <PageHero
+      title="Search the guide"
+      kicker="Search"
+      standfirst={`${total} pages on Moganshan: how to get here, where to stay, what there is to do and when to come. Type a place, a station or a question.`}
+    >
+      <div class="head">
         <form class="search" role="search" method="get" action="/search" data-search-form>
           <label class="sr-only" for="search-q">Search Visit Moganshan</label>
           <span class="search__field">
@@ -110,7 +108,10 @@ const total = entries.length;
         </form>
 
         <p class="search__status" data-search-status role="status" aria-live="polite"></p>
-      </header>
+      </div>
+    </PageHero>
+
+    <div class="vm-container">
 
       <!-- Results. Empty and hidden until a query matches; filled by the script
            below. Never rendered at build time, because there is no query then. -->
@@ -507,32 +508,14 @@ const total = entries.length;
 </script>
 
 <style>
-  /* Head ------------------------------------------------------------------ */
-
-  .head {
-    padding-block: clamp(2rem, 4vw, 3.25rem) clamp(1.5rem, 3vw, 2.25rem);
-  }
-
-  .head h1 {
-    max-width: 18ch;
-    text-wrap: balance;
-  }
-
-  .standfirst {
-    max-width: 52ch;
-    margin-top: 1rem;
-    font-size: clamp(1.0625rem, 1.6vw, 1.1875rem);
-    line-height: 1.55;
-    color: var(--color-muted);
-  }
-
   /* Form ------------------------------------------------------------------ */
+
 
   .search {
     display: flex;
     flex-wrap: wrap;
     gap: 0.75rem;
-    margin-top: clamp(1.5rem, 3vw, 2rem);
+    margin-top: 0.5rem;
     max-width: 46rem;
   }
 
@@ -542,7 +525,9 @@ const total = entries.length;
     align-items: center;
     flex: 1 1 18rem;
     background: var(--color-surface);
-    border: 1px solid var(--color-line);
+    border: 1px solid transparent;
+    border-radius: 999px;
+    overflow: hidden;
   }
 
   .search__field:focus-within {
@@ -607,7 +592,12 @@ const total = entries.length;
     min-height: 52px;
   }
 
+  .search__submit {
+    border-radius: 999px;
+  }
+
   .search__status {
+    color: var(--color-mist-muted);
     margin-top: 1rem;
     min-height: 1.5rem;
     font-size: 0.875rem;

@@ -23,12 +23,12 @@ const { entries, hideTopic } = Astro.props;
 
 <ol class="list" role="list">
   {
-    entries.map((entry) => {
+    entries.map((entry, i) => {
       const { data } = entry;
       const isDispatch = data.kind === 'dispatch';
       const badge = isDispatch ? KIND_LABEL.dispatch : data.kind === 'breaking' ? KIND_LABEL.breaking : null;
       return (
-        <li class="row">
+        <li class="row" style={`--i:${i % 3}`} data-reveal>
           <div class="row__when">
             <time datetime={data.published.toISOString().slice(0, 10)}>{formatDate(data.published)}</time>
             {badge && <span class:list={['row__badge', data.kind === 'breaking' && 'row__badge--breaking']}>{badge}</span>}
@@ -60,18 +60,42 @@ const { entries, hideTopic } = Astro.props;
 
 <style>
   .list {
+    display: grid;
+    gap: 1rem;
     margin: 0;
     padding: 0;
     list-style: none;
-    border-top: 1px solid var(--color-line);
   }
 
+  /* One card per item, the home page's frame: surface, hairline, 14px. */
   .row {
     display: grid;
     grid-template-columns: minmax(0, 1fr);
     gap: 0.5rem 2rem;
-    padding: clamp(1.25rem, 2.5vw, 1.75rem) 0;
-    border-bottom: 1px solid var(--color-line);
+    padding: clamp(1.25rem, 2.5vw, 1.75rem);
+    border: 1px solid var(--color-line);
+    border-radius: 14px;
+    background: var(--color-surface);
+    transition:
+      border-color 200ms ease,
+      transform 400ms cubic-bezier(0.16, 1, 0.3, 1),
+      box-shadow 400ms ease;
+  }
+
+  .row:hover {
+    border-color: var(--color-bamboo);
+    transform: translateY(-3px);
+    box-shadow: 0 22px 40px -28px color-mix(in srgb, var(--color-bamboo) 55%, transparent);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .row {
+      transition: none;
+    }
+
+    .row:hover {
+      transform: none;
+    }
   }
 
   @media (min-width: 768px) {

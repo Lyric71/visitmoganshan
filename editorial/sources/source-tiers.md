@@ -55,6 +55,26 @@ it every Wednesday for the sweep and every time a figure enters a draft.
    closure leading indicator.
 7. **澎湃新闻 澎湃浙江**. Low frequency, the only source likely to publish
    something critical worth translating.
+8. **Google News and Bing News search feeds**, Chinese and English (added
+   7 September 2026). RSS, 100 items a feed, the publisher named in each. An
+   aggregator has no tier: the publisher named in the triage table decides.
+   Most 莫干山 items in the Chinese feed are 新浪 content farm guides and are
+   dropped by the noise list in `news/sources.json`.
+9. **The provincial and Hangzhou tier** in one pass: 浙江在线 home and
+   90早新闻, 杭州网 浙江新闻 and 原创, 杭州政协网 城事 (every rail line
+   milestone), 人民网 浙江频道, 新华网 地方 and 长三角. All server side, dated.
+10. **Race platforms**: 最酷 `zuicool.com/events/newreg?type=trail-run`,
+    朗途体育 `moganshan.saihuitong.com`, and by hand `mogan.utmb.world`.
+    Authoritative for a race date and whether registration is open.
+11. **English**: Xinhua English, eZhejiang, China Daily Huzhou, SmartShanghai,
+    TTG Asia. Corroboration only; an English item never leads.
+12. **By hand, when the week calls for it**: 搜狗微信搜索 for 德清发布 and
+    莫干山旅游 posts, the 德清108 forum for traffic notices, the English hotel
+    trade press when Meadin reports a signing.
+
+The crawler runs the whole list every morning at 08:00 and writes
+`news/triage/YYYY-MM-DD.md`; the Wednesday dispatch reads the week's seven
+files instead of repeating the fetches.
 
 **Triage.** Three tests or the item is dropped: did something change, does it
 carry a date, would a visitor do anything differently.

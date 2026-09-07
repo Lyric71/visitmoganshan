@@ -1,182 +1,20 @@
 ---
+import ContentsBar from '../ContentsBar.astro';
+
 /**
- * The contents bar. Sticks under the site header once the hero has scrolled
- * past, and names the seven parts of the page in order.
- *
- * A magazine front is long, and this one is longer than most: the reader
- * needs to know what is on it and where they are. The bar answers both. The
- * active link follows the section in view (an IntersectionObserver on the
- * section elements, never a scroll listener), and on a phone the bar scrolls
- * sideways and keeps the active link in view itself.
- *
- * Every target id below is owned by the section that carries it. Add a
- * section, add a row here, and keep the order the page has.
+ * The home page contents bar: the seven parts of the front in order. The
+ * mechanics live in components/ContentsBar.astro, which every long page
+ * shares. Add a section, add a row here, and keep the order the page has.
  */
 const ITEMS = [
+  { id: 'latest', label: 'Latest' },
   { id: 'mountain', label: 'The mountain' },
   { id: 'things-to-do', label: 'Things to do' },
   { id: 'plan', label: 'Where to stay' },
   { id: 'getting-here', label: 'Getting here' },
   { id: 'places', label: 'Ten places' },
   { id: 'when-to-go', label: 'When to go' },
-  { id: 'latest', label: 'Latest' },
 ];
 ---
 
-<nav class="issue" aria-label="On this page" data-issue-nav>
-  <div class="vm-container issue__inner">
-    <ul class="issue__list">
-      {
-        ITEMS.map((item) => (
-          <li>
-            <a href={`#${item.id}`} data-issue-link={item.id}>
-              {item.label}
-            </a>
-          </li>
-        ))
-      }
-    </ul>
-  </div>
-</nav>
-
-<script>
-  const nav = document.querySelector<HTMLElement>('[data-issue-nav]');
-  const links = Array.from(nav?.querySelectorAll<HTMLAnchorElement>('[data-issue-link]') ?? []);
-
-  if (nav && links.length && 'IntersectionObserver' in window) {
-    const sections = links
-      .map((link) => document.getElementById(link.dataset.issueLink ?? ''))
-      .filter((el): el is HTMLElement => Boolean(el));
-
-    const setActive = (id: string) => {
-      for (const link of links) {
-        const active = link.dataset.issueLink === id;
-        link.toggleAttribute('aria-current', active);
-        if (active) {
-          link.scrollIntoView({ block: 'nearest', inline: 'center', behavior: 'smooth' });
-        }
-      }
-    };
-
-    // The section whose top is closest above the middle of the viewport wins.
-    // Observing a band across the middle rather than the whole viewport keeps
-    // two tall sections from both claiming the bar at once.
-    const visible = new Set<HTMLElement>();
-    const pick = () => {
-      let best: HTMLElement | null = null;
-      for (const el of visible) {
-        if (!best || el.getBoundingClientRect().top > best.getBoundingClientRect().top) best = el;
-      }
-      if (best) setActive(best.id);
-    };
-
-    const observer = new IntersectionObserver(
-      (entries) => {
-        for (const entry of entries) {
-          const el = entry.target as HTMLElement;
-          if (entry.isIntersecting) visible.add(el);
-          else visible.delete(el);
-        }
-        pick();
-      },
-      { rootMargin: '-45% 0px -45% 0px', threshold: 0 },
-    );
-    sections.forEach((el) => observer.observe(el));
-
-    // The bar is sticky; this marks it as having stuck so it can gain its
-    // hairline and blur only once it is floating over content.
-    const sentinel = document.createElement('div');
-    sentinel.setAttribute('aria-hidden', 'true');
-    nav.before(sentinel);
-    new IntersectionObserver(
-      ([entry]) => nav.classList.toggle('is-stuck', !entry.isIntersecting),
-      { rootMargin: '-69px 0px 0px 0px', threshold: 0 },
-    ).observe(sentinel);
-  }
-</script>
-
-<style>
-  .issue {
-    position: sticky;
-    /* The site header is sticky at 68px; the bar sits directly under it. */
-    top: 68px;
-    z-index: 20;
-    background: color-mix(in srgb, var(--color-paper) 88%, transparent);
-    -webkit-backdrop-filter: blur(14px) saturate(140%);
-    backdrop-filter: blur(14px) saturate(140%);
-    border-bottom: 1px solid transparent;
-    transition: border-color 200ms ease;
-  }
-
-  .issue.is-stuck {
-    border-bottom-color: var(--color-line);
-  }
-
-  @media (prefers-reduced-transparency: reduce) {
-    .issue {
-      background: var(--color-paper);
-      backdrop-filter: none;
-    }
-  }
-
-  .issue__list {
-    display: flex;
-    gap: 0.25rem;
-    margin: 0;
-    padding: 0;
-    list-style: none;
-    overflow-x: auto;
-    scrollbar-width: none;
-    -webkit-overflow-scrolling: touch;
-  }
-
-  .issue__list::-webkit-scrollbar {
-    display: none;
-  }
-
-  .issue__list a {
-    position: relative;
-    display: inline-flex;
-    align-items: center;
-    min-height: 48px;
-    padding: 0 0.85rem;
-    font-size: 0.875rem;
-    font-weight: 500;
-    color: var(--color-muted);
-    white-space: nowrap;
-    text-decoration: none;
-    transition: color 160ms ease;
-  }
-
-  .issue__list a:hover {
-    color: var(--color-bamboo);
-  }
-
-  /* The marker is a bar that grows from the centre rather than a colour swap,
-     so the eye can follow it from one label to the next. */
-  .issue__list a::after {
-    content: '';
-    position: absolute;
-    inset: auto 0.85rem 0;
-    height: 2px;
-    background: var(--color-amber);
-    transform: scaleX(0);
-    transform-origin: center;
-    transition: transform 260ms cubic-bezier(0.16, 1, 0.3, 1);
-  }
-
-  .issue__list a[aria-current] {
-    color: var(--color-bamboo);
-    font-weight: 600;
-  }
-
-  .issue__list a[aria-current]::after {
-    transform: scaleX(1);
-  }
-
-  @media (prefers-reduced-motion: reduce) {
-    .issue__list a::after {
-      transition: none;
-    }
-  }
-</style>
+<ContentsBar items={ITEMS} label="On this page" />

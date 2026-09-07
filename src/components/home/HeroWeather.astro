@@ -333,7 +333,9 @@
     }
   }
 
-  @media (min-width: 768px) {
+  /* Same 900px step as the two column row in Hero.astro: the panel only
+     becomes a fixed width column once there is room beside the copy for it. */
+  @media (min-width: 900px) {
     .wx {
       width: 17.5rem;
       flex: none;

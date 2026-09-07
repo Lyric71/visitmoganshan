@@ -109,6 +109,47 @@ Chinese characters inline on first use: the shuttle transfer centre (换乘中�
 Deqing News (德清新闻网). The source line in the frontmatter carries the
 Chinese name and the English one.
 
+## Aggregator feeds, English sources and the noise they bring
+
+Since 7 September 2026 the registry carries two kinds of source it did not
+have before, and each needs a rule.
+
+**Search feeds.** Google News (Chinese and English) and Bing News are read as
+RSS. They are aggregators, tier 4 in the registry only because the schema
+wants a number: **the publisher named in the triage table, in brackets after
+the headline, decides the tier.** A 潮新闻 item found through Google is tier
+2; a 新浪 or 搜狐 republication of a 德清发布 post is tier 4; a press release
+wire (GlobeNewswire, PR Newswire) is a brand claim. The link in the table is
+Google's redirect; WebFetch follows it, and the frontmatter `sources` entry
+carries the publisher's own URL and name, never Google's. Bing's links are
+already unwrapped to the publisher. The ledger keys on the URL it was found
+under, so the same story on a direct listing and in a feed is caught by the
+headline hash, not the URL: read the whole table before drafting, and treat
+"same headline as" as a duplicate even across sources.
+
+**Content farms.** The Chinese Google feed is two thirds machine written
+guide pieces from 新浪旅游 and 新浪财经 (莫干山...攻略, 怎么选, 怎么玩, +FAQ).
+The registry's `excludeNoise` list drops them before triage; one that gets
+through is a guide, not an item, and is skipped with the reason "guide, not
+news". The same list drops 莫干山板材 (a plywood brand), 莫干山康溪 (a
+badminton club) and Moganshan Road in Shanghai. Add a term to that list when
+a new kind of noise appears three sweeps running; never draft around it.
+
+**English sources.** Xinhua English, eZhejiang, the China Daily Huzhou
+channel, SmartShanghai, TTG Asia and the English Google feed are in the
+registry so that the site knows what the English speaking press is saying,
+which matters most for corrections. An English item never leads: it is drafted
+only when a Chinese source of tier 2 or better carries the same fact, and the
+English item goes in `sources` as corroboration. The one exception is a fact
+that exists only in English, such as a brand's own press release wording, and
+then the item says so.
+
+**Race platforms.** Zuicool, the Kailas organiser site and the UTMB site are
+authoritative for a race date and for whether registration is open, because
+they sell the places. They are tier 3 for everything else. An event page is
+one URL for the life of the race, so the ledger sees it once; when a fixture
+window opens, read the page again by hand.
+
 ## Kinds
 
 * `item`: the ordinary case, one change.

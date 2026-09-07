@@ -1,0 +1,280 @@
+---
+/**
+ * The opening of every page that is not the home page.
+ *
+ * The same composition as the home cover, shorter: a photograph running the
+ * full width with the title, the standfirst and the byline set on it, over a
+ * scrim that only darkens the lower half. Pages with no photograph (the news
+ * index, search, contact, the policies) get the same type on the bamboo
+ * ground instead, so every page on the site opens the same way and a reader
+ * moving between them never feels the house style change.
+ *
+ * The photograph is the lead image the frontmatter already carries. It is
+ * eager and fetchpriority high because it is the LCP element on every page
+ * that has one, and it keeps its width and height so the box is reserved
+ * before the file lands. On scroll it falls away more slowly than the page,
+ * as on the home cover, and only where scroll driven animations exist.
+ *
+ * The default slot sits under the standfirst and carries whatever the page
+ * needs there: a byline, topic chips, a search form.
+ */
+interface Props {
+  title: string;
+  kicker?: string;
+  standfirst?: string;
+  image?: string;
+  imageAlt?: string;
+  /** Extra class on the section, for a page that needs to hook its own rules on. */
+  class?: string;
+}
+
+const { title, kicker, standfirst, image, imageAlt = '', class: className = '' } = Astro.props;
+---
+
+<section class:list={['opening', image ? 'opening--image' : 'opening--band', className]}>
+  {
+    image && (
+      <div class="opening__media">
+        <img
+          src={image}
+          alt={imageAlt}
+          width="1600"
+          height="900"
+          loading="eager"
+          fetchpriority="high"
+          decoding="async"
+        />
+      </div>
+    )
+  }
+  <div class="vm-container opening__inner">
+    {kicker && <p class="opening__kicker">{kicker}</p>}
+    <h1 class="opening__title">{title}</h1>
+    {standfirst && <p class="opening__standfirst">{standfirst}</p>}
+    <div class="opening__extra">
+      <slot />
+    </div>
+  </div>
+</section>
+
+<style>
+  .opening {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    background: var(--color-bamboo);
+    color: var(--color-mist);
+    overflow: hidden;
+    isolation: isolate;
+  }
+
+  .opening--band {
+    padding-block: clamp(3rem, 6vw, 4.5rem) clamp(2.5rem, 5vw, 3.5rem);
+  }
+
+  .opening--image {
+    min-height: clamp(26rem, 62vh, 40rem);
+    padding-block: clamp(7rem, 14vw, 10rem) clamp(2.5rem, 5vw, 3.5rem);
+  }
+
+  .opening__media {
+    position: absolute;
+    inset: 0;
+    z-index: -2;
+  }
+
+  .opening__media img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: 50% 45%;
+    transform: scale(1.04);
+  }
+
+  @supports (animation-timeline: scroll()) {
+    .opening__media {
+      animation: opening-parallax linear both;
+      animation-timeline: scroll(root);
+      animation-range: 0 80vh;
+    }
+  }
+
+  @keyframes opening-parallax {
+    from {
+      transform: translateY(0);
+    }
+    to {
+      transform: translateY(22%);
+    }
+  }
+
+  /* Scrim: dark at the foot where the type sits, clear at the top where the
+     picture is. The band variant gets a quiet radial lift instead so it is
+     not a flat rectangle of one green. */
+  .opening--image::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+    background: linear-gradient(
+      to top,
+      color-mix(in srgb, var(--color-ink) 86%, transparent) 0%,
+      color-mix(in srgb, var(--color-ink) 58%, transparent) 30%,
+      color-mix(in srgb, var(--color-ink) 18%, transparent) 62%,
+      transparent 90%
+    );
+  }
+
+  .opening--band::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+    background: radial-gradient(
+      120% 90% at 85% 0%,
+      color-mix(in srgb, var(--color-mist) 10%, transparent) 0%,
+      transparent 55%
+    );
+  }
+
+  .opening__inner {
+    position: relative;
+  }
+
+  .opening__kicker {
+    margin-bottom: 0.9rem;
+    font-size: 0.6875rem;
+    font-weight: 600;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--color-amber);
+  }
+
+  .opening__title {
+    max-width: 24ch;
+    font-size: clamp(2.125rem, 5vw, 4rem);
+    font-weight: 500;
+    line-height: 1.05;
+    letter-spacing: -0.02em;
+    color: #fff;
+    text-wrap: balance;
+  }
+
+  .opening--image .opening__title {
+    text-shadow: 0 2px 24px color-mix(in srgb, var(--color-ink) 55%, transparent);
+  }
+
+  .opening__standfirst {
+    max-width: 62ch;
+    margin-top: 1rem;
+    font-size: clamp(1.0625rem, 1.6vw, 1.25rem);
+    line-height: 1.55;
+    color: var(--color-mist);
+    text-wrap: pretty;
+  }
+
+  .opening--image .opening__standfirst {
+    text-shadow: 0 1px 16px color-mix(in srgb, var(--color-ink) 55%, transparent);
+  }
+
+  .opening__extra:not(:empty) {
+    margin-top: 1.25rem;
+  }
+
+  /* Byline type, for the pages that put one in the slot. Global so the
+     layouts can use the class without restyling it each time. */
+  :global(.opening__byline) {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem 1.25rem;
+    font-size: 0.8125rem;
+    color: var(--color-mist-muted);
+  }
+
+  :global(.opening__byline a) {
+    color: var(--color-mist);
+    font-weight: 600;
+    text-decoration: none;
+  }
+
+  :global(.opening__byline a:hover) {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+
+  :global(.opening__byline strong) {
+    color: var(--color-mist);
+    font-weight: 600;
+  }
+
+  :global(.opening__chips) {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin: 1rem 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  :global(.opening__chips a) {
+    display: inline-flex;
+    align-items: center;
+    min-height: 32px;
+    padding: 0 0.8rem;
+    border: 1px solid color-mix(in srgb, var(--color-mist) 40%, transparent);
+    border-radius: 999px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--color-mist);
+    text-decoration: none;
+    transition: background-color 160ms ease;
+  }
+
+  :global(.opening__chips a:hover) {
+    background: color-mix(in srgb, var(--color-mist) 14%, transparent);
+  }
+
+  /* Entrance: the same rise the home hero uses, once, on load. */
+  .opening__kicker,
+  .opening__title,
+  .opening__standfirst,
+  .opening__extra {
+    animation: opening-rise 800ms cubic-bezier(0.16, 1, 0.3, 1) backwards;
+  }
+
+  .opening__title {
+    animation-delay: 80ms;
+  }
+
+  .opening__standfirst {
+    animation-delay: 200ms;
+  }
+
+  .opening__extra {
+    animation-delay: 320ms;
+  }
+
+  @keyframes opening-rise {
+    from {
+      opacity: 0;
+      transform: translateY(1rem);
+    }
+    to {
+      opacity: 1;
+      transform: none;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .opening__media,
+    .opening__kicker,
+    .opening__title,
+    .opening__standfirst,
+    .opening__extra {
+      animation: none;
+    }
+  }
+</style>

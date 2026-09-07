@@ -3,6 +3,7 @@ import Layout from '../layouts/Layout.astro';
 import SiteHeader from '../components/SiteHeader.astro';
 import SiteFooter from '../components/SiteFooter.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
+import PageHero from '../components/PageHero.astro';
 import { CONTACT_TOPICS } from '../data/contact';
 
 /**
@@ -67,17 +68,13 @@ const jsonLd = {
   <Breadcrumbs crumbs={crumbs} />
 
   <main id="main">
-    <div class="vm-container">
-      <header class="head">
-        <p class="vm-kicker">Contact</p>
-        <h1>Write to us</h1>
-        <p class="standfirst">
-          Corrections, questions the guide does not answer, a hotel or a business that belongs on
-          the site, or a press request. It reaches the editors, and we usually answer within a few
-          days.
-        </p>
-      </header>
+    <PageHero
+      title="Write to us"
+      kicker="Contact"
+      standfirst="Corrections, questions the guide does not answer, a hotel or a business that belongs on the site, or a press request. It reaches the editors, and we usually answer within a few days."
+    />
 
+    <div class="vm-container">
       <div class="grid">
         <form class="form" novalidate data-contact-form>
           <div class="field">
@@ -348,28 +345,6 @@ const jsonLd = {
 </script>
 
 <style>
-  /* Head ------------------------------------------------------------------ */
-
-  .head {
-    padding-block: clamp(2rem, 4vw, 3rem);
-    border-bottom: 1px solid var(--color-line);
-  }
-
-  .head h1 {
-    max-width: 18ch;
-    text-wrap: balance;
-  }
-
-  .standfirst {
-    max-width: 56ch;
-    margin-top: 1rem;
-    font-size: clamp(1.0625rem, 1.6vw, 1.1875rem);
-    line-height: 1.55;
-    color: var(--color-muted);
-  }
-
-  /* Body ------------------------------------------------------------------ */
-
   .grid {
     display: grid;
     grid-template-columns: minmax(0, 1fr);
@@ -387,7 +362,11 @@ const jsonLd = {
   /* Form ------------------------------------------------------------------ */
 
   .form {
-    max-width: 34rem;
+    max-width: 38rem;
+    padding: clamp(1.5rem, 3vw, 2.25rem);
+    border: 1px solid var(--color-line);
+    border-radius: 14px;
+    background: var(--color-surface);
   }
 
   .field + .field {
@@ -524,15 +503,16 @@ const jsonLd = {
 
   .aside {
     padding: clamp(1.5rem, 3vw, 1.875rem);
-    background: var(--color-mist-50);
-    border: 1px solid var(--color-line);
-    border-radius: 10px;
+    background: var(--color-bamboo);
+    border-radius: 14px;
+    color: var(--color-mist-muted);
     font-size: 0.9375rem;
     line-height: 1.6;
   }
 
   .aside h2 {
-    font-size: 1.125rem;
+    font-size: 1.25rem;
+    color: #fff;
   }
 
   .aside h2 + p {
@@ -549,11 +529,11 @@ const jsonLd = {
 
   .aside strong {
     font-weight: 600;
-    color: var(--color-bamboo);
+    color: var(--color-mist);
   }
 
   .aside a {
-    color: var(--color-bamboo);
+    color: var(--color-amber);
     text-decoration: underline;
     text-underline-offset: 3px;
   }

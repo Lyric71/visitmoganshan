@@ -20,6 +20,7 @@ const listingSchema = z.object({
   filter: z.enum(['none', 'core', 'all']).optional(),
   isSearch: z.boolean().optional(),
   renderedClientSide: z.boolean().optional(),
+  format: z.enum(['html', 'rss']).optional(),
   note: z.string().optional(),
 });
 
@@ -42,6 +43,7 @@ const sourceSchema = z
         monthGroup: z.number().int().optional(),
         dayGroup: z.number().int().optional(),
         compactGroup: z.number().int().optional(),
+        monthDayGroup: z.number().int().optional(),
         altYearGroup: z.number().int().optional(),
         altMonthGroup: z.number().int().optional(),
         altDayGroup: z.number().int().optional(),
@@ -66,8 +68,9 @@ const sourceSchema = z
         ctx.addIssue({ code: 'custom', message: `articlePattern is not a valid regex: ${error.message}` });
       }
     }
-    if (source.enabled && !source.kind && source.listings.length && !source.articlePattern) {
-      ctx.addIssue({ code: 'custom', message: 'a crawlable source needs an articlePattern' });
+    const htmlListings = source.listings.some((listing) => listing.format !== 'rss');
+    if (source.enabled && !source.kind && htmlListings && !source.articlePattern) {
+      ctx.addIssue({ code: 'custom', message: 'a crawlable source with an HTML listing needs an articlePattern' });
     }
   });
 
@@ -111,7 +114,7 @@ export const registrySchema = z
     }
     for (const [chain, steps] of Object.entries(registry.verificationChains)) {
       for (const step of steps) {
-        if (step.startsWith('phone:')) continue;
+        if (step.startsWith('phone:') || step.startsWith('note:')) continue;
         for (const id of step.split('|')) {
           if (!ids.has(id)) {
             ctx.addIssue({ code: 'custom', message: `verificationChains.${chain} names unknown source ${id}` });
@@ -210,6 +213,13 @@ export function dateFromUrl(url, pattern, spec) {
   let year = pick(spec.yearGroup);
   let month = pick(spec.monthGroup);
   let day = pick(spec.dayGroup);
+  if (spec.monthDayGroup) {
+    // People's Daily writes /n2/2026/0907/: the year on its own, month and day run together.
+    const monthDay = pick(spec.monthDayGroup);
+    if (!monthDay || !/^\d{4}$/.test(monthDay)) return null;
+    month = monthDay.slice(0, 2);
+    day = monthDay.slice(2, 4);
+  }
   if (!year && spec.altYearGroup) {
     year = pick(spec.altYearGroup);
     month = pick(spec.altMonthGroup);
@@ -249,16 +259,19 @@ export function ageDays(iso, now = new Date()) {
  * to correct.
  */
 export function matchTitle(title, filter, keywords) {
-  const text = String(title);
-  const noise = keywords.excludeNoise.find((term) => text.includes(term));
+  // Case insensitive so that "Moganshan", "MOGANSHAN" and "moganshan" in an
+  // English headline all count. Chinese terms are unaffected by lowercasing.
+  const text = String(title).toLowerCase();
+  const has = (term) => text.includes(term.toLowerCase());
+  const noise = keywords.excludeNoise.find(has);
   if (noise) return { keep: false, matched: null, noise };
   if (filter === 'none') return { keep: true, matched: null, noise: null };
 
-  const core = keywords.core.find((term) => text.includes(term));
+  const core = keywords.core.find(has);
   if (core) return { keep: true, matched: core, noise: null };
   if (filter === 'core') return { keep: false, matched: null, noise: null };
 
-  const other = [...keywords.villages, ...keywords.topics].find((term) => text.includes(term));
+  const other = [...keywords.villages, ...keywords.topics].find(has);
   return other ? { keep: true, matched: other, noise: null } : { keep: false, matched: null, noise: null };
 }
 
@@ -282,6 +295,55 @@ export function decodeEntities(text) {
     }
     return ENTITIES[code.toLowerCase()] ?? whole;
   });
+}
+
+/**
+ * The items of an RSS 2.0 feed, without an XML parser: title, link, date as
+ * ISO, and the publisher when the feed names one. Written for the two search
+ * feeds the registry uses (Google News and Bing News) and for plain site
+ * feeds; Atom is not handled, none of the registered sources use it.
+ *
+ * Google News puts the publisher at the end of the title after " - " and in a
+ * <source> element; Bing puts it in <News:Source> and hides the real article
+ * URL inside a click tracker. Both are undone here so that the candidate
+ * carries the publisher's name and, for Bing, the publisher's URL.
+ */
+export function parseRssItems(xml) {
+  const text = String(xml);
+  if (!/<rss[\s>]|<channel[\s>]/i.test(text.slice(0, 4000))) return [];
+  const field = (block, tag) => {
+    const m = new RegExp(`<${tag}(?:\\s[^>]*)?>([\\s\\S]*?)</${tag}>`, 'i').exec(block);
+    if (!m) return '';
+    return decodeEntities(m[1].replace(/^\s*<!\[CDATA\[([\s\S]*?)\]\]>\s*$/, '$1')).trim();
+  };
+  const items = [];
+  for (const [, block] of text.matchAll(/<item(?:\s[^>]*)?>([\s\S]*?)<\/item>/gi)) {
+    let title = field(block, 'title');
+    let link = unwrapRedirect(field(block, 'link') || field(block, 'guid'));
+    let source = field(block, 'source') || field(block, 'News:Source') || '';
+    if (!source) {
+      const split = title.lastIndexOf(' - ');
+      if (split > 0 && title.length - split <= 40) source = title.slice(split + 3).trim();
+    }
+    if (source && title.endsWith(` - ${source}`)) title = title.slice(0, -(source.length + 3)).trim();
+    const when = field(block, 'pubDate') || field(block, 'dc:date');
+    const parsed = when ? new Date(when) : null;
+    const date = parsed && !Number.isNaN(parsed.getTime()) ? parsed.toISOString().slice(0, 10) : null;
+    if (!title || !link) continue;
+    items.push({ title, link, date, source });
+  }
+  return items;
+}
+
+/** Bing's click tracker carries the real URL in its query string. Google's does not. */
+export function unwrapRedirect(url) {
+  try {
+    const u = new URL(url);
+    if (/bing\.com$/i.test(u.hostname) && u.searchParams.get('url')) return u.searchParams.get('url');
+  } catch {
+    /* not a URL, return as given */
+  }
+  return url;
 }
 
 export function stripTags(html) {

@@ -92,14 +92,16 @@ const PARTS = [
     min-height: 240px;
   }
 
+  /* Two by two from 640px to 1023px. Four tiles in two columns only tile
+     cleanly as an even grid: a full width lead over a pair left the fourth
+     tile alone at half width with an empty cell beside it. */
   @media (min-width: 640px) {
     .spread {
       grid-template-columns: repeat(2, minmax(0, 1fr));
     }
 
-    .spread__cell:first-child {
-      grid-column: 1 / -1;
-      min-height: 360px;
+    .spread__cell {
+      min-height: 280px;
     }
   }
 

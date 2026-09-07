@@ -191,9 +191,12 @@ without a visitor consequence, and the build fails on a `/go/` link or an em
 dash in a news body.
 
 The pipeline is BBChien's actualités agent on a static site, in
-`editorial/news/`: `sources.json` is the source registry, `sweep.mjs` the
-crawler (listing pages only, never article bodies), `triage/` its daily
-output, `drafts/` the queue, `seen.json` the ledger, `settings.json` the
+`editorial/news/`: `sources.json` is the source registry (county, municipal,
+provincial and national Chinese outlets, Google and Bing news search feeds in
+both languages, race registration platforms, the English press for
+corroboration; an aggregator item takes the tier of the publisher it names),
+`sweep.mjs` the crawler (listing pages and RSS feeds only, never article
+bodies), `triage/` its daily output, `drafts/` the queue, `seen.json` the ledger, `settings.json` the
 cadence and the pause switch. A Claude run drafts under
 `editorial/news/CLAUDE.md`; a person approves with `npm run news:approve`;
 `news-publish.mjs` moves, checks, builds, commits, pushes and emails. Nothing

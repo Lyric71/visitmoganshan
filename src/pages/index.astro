@@ -3,7 +3,6 @@ import Layout from '../layouts/Layout.astro';
 import SiteHeader from '../components/SiteHeader.astro';
 import SiteFooter from '../components/SiteFooter.astro';
 
-import HomeMotion from '../components/home/HomeMotion.astro';
 import Hero from '../components/home/Hero.astro';
 import AtAGlance from '../components/home/AtAGlance.astro';
 import IssueNav from '../components/home/IssueNav.astro';
@@ -34,8 +33,8 @@ import { websiteLd, placeLd } from '../lib/jsonld';
  * The practical half was doubled on 7 September 2026 (Cyril: "we can add much
  * more content"). Where to stay now has a second block beneath it for the
  * properties with a researched page of their own, Getting here is followed by
- * the train booking band, and the page closes with the latest guides beside
- * the news log and then an index of every page on the site. All four read
+ * the train booking band, the latest guides and the news sit directly under
+ * the cover, and the page closes with an index of every page. All four read
  * from the content collection at build time, so the publish step of the
  * editorial pipeline changes the home page without anybody editing it.
  *
@@ -54,7 +53,7 @@ import { websiteLd, placeLd } from '../lib/jsonld';
  * components"). The cover is the hero with the four figures lifted over its
  * bottom edge and a sticky contents bar under it that follows the reader down
  * the page. Every block below reveals as it enters the viewport
- * (HomeMotion.astro), the route diagram draws its legs, the month strip
+ * (components/Motion.astro), the route diagram draws its legs, the month strip
  * answers for the month under the pointer, and the four questions open one
  * at a time. Nothing loops and nothing listens to scroll events.
  *
@@ -77,12 +76,14 @@ const jsonLd = [websiteLd, placeLd]
   <SiteHeader />
 
   <main id="main">
-    <HomeMotion />
-
     {/* The cover: picture, four figures over its edge, then the contents bar. */}
     <Hero />
     <AtAGlance />
     <IssueNav />
+
+    {/* What is new comes first (Cyril, 7 September 2026): the block that
+        changes with every publish is the reason to come back to the front. */}
+    <Latest />
 
     {/* Culture */}
     <FourParts />
@@ -98,8 +99,7 @@ const jsonLd = [websiteLd, placeLd]
     <WhenToGo />
     <BeforeYouCome />
 
-    {/* Reading, once the planning is answered: what is new, then everything. */}
-    <Latest />
+    {/* Everything, once the planning is answered. */}
     <GuideIndex />
   </main>
 

@@ -4,6 +4,7 @@ import SiteHeader from '../components/SiteHeader.astro';
 import SiteFooter from '../components/SiteFooter.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
 import NewsList from '../components/NewsList.astro';
+import PageHero from '../components/PageHero.astro';
 import type { Crumb } from '../lib/guide';
 import {
   NEWS_FEED,
@@ -55,15 +56,13 @@ const years = yearsInUse(all);
   <Breadcrumbs crumbs={crumbs} />
 
   <main id="main">
-    <div class="vm-container">
-      <header class="head">
-        <p class="vm-kicker">{kicker}</p>
-        <h1>{title}</h1>
-        <div class="standfirst">
-          <slot name="intro" />
-        </div>
-      </header>
+    <PageHero title={title} kicker={kicker}>
+      <div class="intro">
+        <slot name="intro" />
+      </div>
+    </PageHero>
 
+    <div class="vm-container">
       <div class="split">
         <div class="main">
           {entries.length ? <NewsList entries={entries} hideTopic={hideTopic} /> : <p class="empty">Nothing here yet.</p>}
@@ -135,29 +134,22 @@ const years = yearsInUse(all);
 </Layout>
 
 <style>
-  .head {
-    padding-block: clamp(2rem, 4vw, 3rem);
-    border-bottom: 1px solid var(--color-line);
+  .intro {
+    max-width: 62ch;
   }
 
-  .head h1 {
-    text-wrap: balance;
-  }
-
-  .standfirst {
-    max-width: 68ch;
-    margin-top: 1rem;
-    font-size: clamp(1rem, 1.5vw, 1.125rem);
+  .intro :global(p) {
+    font-size: clamp(1rem, 1.4vw, 1.125rem);
     line-height: 1.6;
-    color: var(--color-ink);
+    color: var(--color-mist);
   }
 
-  .standfirst :global(p + p) {
+  .intro :global(p + p) {
     margin-top: 0.75rem;
   }
 
-  .standfirst :global(a) {
-    color: var(--color-bamboo);
+  .intro :global(a) {
+    color: var(--color-amber);
   }
 
   .split {
@@ -219,38 +211,59 @@ const years = yearsInUse(all);
   }
 
   .rail ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
     margin: 0;
     padding: 0;
     list-style: none;
-    border-top: 1px solid var(--color-line);
-  }
-
-  .rail li {
-    border-bottom: 1px solid var(--color-line);
   }
 
   .rail li a {
-    display: flex;
-    justify-content: space-between;
-    gap: 1rem;
-    padding: 0.55rem 0;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    min-height: 40px;
+    padding: 0 0.6rem 0 1rem;
+    border: 1px solid var(--color-line);
+    border-radius: 999px;
+    background: var(--color-surface);
     font-size: 0.9375rem;
-    color: var(--color-ink);
+    font-weight: 500;
+    color: var(--color-bamboo);
     text-decoration: none;
+    transition:
+      border-color 180ms ease,
+      background-color 180ms ease;
   }
 
   .rail li a:hover {
-    color: var(--color-bamboo);
+    border-color: var(--color-bamboo);
+    background: var(--color-mist-50);
   }
 
   .rail li a[aria-current='page'] {
-    color: var(--color-bamboo);
-    font-weight: 600;
+    border-color: var(--color-bamboo);
+    background: var(--color-bamboo);
+    color: var(--color-mist);
   }
 
   .rail__count {
-    color: var(--color-muted);
+    display: inline-flex;
+    align-items: center;
+    min-height: 24px;
+    padding: 0 0.55rem;
+    border-radius: 999px;
+    background: var(--color-mist);
+    font-size: 0.8125rem;
+    font-weight: 600;
+    color: var(--color-ink);
     font-variant-numeric: tabular-nums;
+  }
+
+  .rail li a[aria-current='page'] .rail__count {
+    background: color-mix(in srgb, var(--color-mist) 20%, transparent);
+    color: var(--color-mist);
   }
 
   .rail__note {

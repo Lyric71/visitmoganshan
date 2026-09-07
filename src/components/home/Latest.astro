@@ -11,6 +11,11 @@ import { formatDate } from '../../lib/guide';
  * as they happen, so this block changes with every publish and nobody edits
  * it. Dates are printed everywhere: most of what ranks for this destination
  * was written in 2011 and says so nowhere.
+ *
+ * The news column only carries items from the last year, NEWS_WINDOW_DAYS
+ * in lib/home.ts (Cyril, 7 September 2026: only recent news on the front). A quiet
+ * spell leaves the column with a line saying so and the link to the index,
+ * rather than padding it with last year's items.
  */
 const latest = await latestArticles(4);
 const news = await newsItems(4);
@@ -84,7 +89,15 @@ const iso = (d: Date) => d.toISOString().slice(0, 10);
           <h3 id="news-title">News</h3>
           <a class="vm-more" href="/journal/news">All the news</a>
         </div>
-        <ol class="news__list">
+        {
+          news.length === 0 && (
+            <p class="news__empty">
+              Nothing has changed on the mountain in the last year that a visitor needs to
+              know. Earlier items are on the news index.
+            </p>
+          )
+        }
+        <ol class="news__list" hidden={news.length === 0}>
           {
             news.map((item) => (
               <li>
@@ -389,6 +402,13 @@ const iso = (d: Date) => d.toISOString().slice(0, 10);
     -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
     overflow: hidden;
+  }
+
+  .news__empty {
+    margin-top: 1rem;
+    font-size: 0.9375rem;
+    line-height: 1.55;
+    color: var(--color-mist);
   }
 
   .news__note {
