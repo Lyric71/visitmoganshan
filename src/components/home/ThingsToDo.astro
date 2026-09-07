@@ -1,19 +1,21 @@
 ---
 import SectionHead from '../SectionHead.astro';
-import Card from '../Card.astro';
 import TabGroup from '../TabGroup.astro';
 import { THINGS, THING_TABS } from '../../data/things-to-do';
 
 /**
- * 6.5 Things to do.
+ * Things to do. Filter pills, then a rail of tall pictures.
  *
- * Heritage sits second, ahead of Nature. That order is deliberate: every
- * competing site leads on bamboo, and the villas are what nobody else has
- * written up properly.
+ * Portrait frames rather than the 3:2 cards the rest of the page uses: this
+ * is the one block where the pictures are the argument, and a tall frame
+ * gives each place a full page of its own on a phone. The rail scroll snaps
+ * and drags by touch, and switching a pill fades the new set in.
+ *
+ * Heritage sits second, ahead of Nature. Every competing site leads on
+ * bamboo, and the villas are what nobody else has written up properly.
  *
  * Panels are built at build time and all of them ship in the HTML. Hidden
- * panels are still indexed, so the tab UI costs nothing in crawl terms and the
- * page carries six views of the same set for the price of one request.
+ * panels are still indexed, so the tab UI costs nothing in crawl terms.
  */
 const panels = THING_TABS.map((tab) => ({
   tab,
@@ -21,42 +23,55 @@ const panels = THING_TABS.map((tab) => ({
 }));
 ---
 
-<section class="vm-section things" aria-labelledby="things-title">
+<section class="vm-section things" id="things-to-do" aria-labelledby="things-title">
   <div class="vm-container">
-    <SectionHead
-      id="things-title"
-      title="Things to do"
-      linkLabel="All 20 ideas"
-      linkHref="/things-to-do"
-    />
+    <div data-reveal>
+      <SectionHead
+        id="things-title"
+        title="Things to do"
+        lede="Twenty things, and most of them are a walk. Filter by what you came for."
+        linkLabel="All 20 ideas"
+        linkHref="/things-to-do"
+      />
+    </div>
 
-    <TabGroup id="things" label="Filter things to do" tabs={THING_TABS}>
-      {
-        panels.map(({ tab, items }, i) => (
-          <div
-            id={`things-panel-${tab.id}`}
-            role="tabpanel"
-            aria-labelledby={`things-tab-${tab.id}`}
-            tabindex="0"
-            hidden={i !== 0}
-          >
-            <ul class="grid">
-              {items.map((thing) => (
-                <li>
-                  <Card
-                    title={thing.title}
-                    sub={thing.sub}
-                    href={thing.href}
-                    image={thing.image}
-                    alt={thing.alt}
-                  />
-                </li>
-              ))}
-            </ul>
-          </div>
-        ))
-      }
-    </TabGroup>
+    <div data-reveal style="--i:1">
+      <TabGroup id="things" label="Filter things to do" tabs={THING_TABS} pills>
+        {
+          panels.map(({ tab, items }, i) => (
+            <div
+              id={`things-panel-${tab.id}`}
+              class="panel"
+              role="tabpanel"
+              aria-labelledby={`things-tab-${tab.id}`}
+              tabindex="0"
+              hidden={i !== 0}
+            >
+              <ul class="rail">
+                {items.map((thing) => (
+                  <li class="rail__item">
+                    <a class="tall" href={thing.href}>
+                      <span class="tall__media">
+                        <img
+                          src={thing.image}
+                          alt={thing.alt}
+                          width="600"
+                          height="800"
+                          loading="lazy"
+                          decoding="async"
+                        />
+                      </span>
+                      <span class="tall__title">{thing.title}</span>
+                      {thing.sub && <span class="tall__sub">{thing.sub}</span>}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          ))
+        }
+      </TabGroup>
+    </div>
   </div>
 </section>
 
@@ -65,34 +80,142 @@ const panels = THING_TABS.map((tab) => ({
     background: var(--color-mist);
   }
 
-  /* Steps 1 -> 2 -> 4. The Popular tab holds four; auto-fill resolved to three
-     columns between 1024px and 1180px and dropped the fourth onto its own row.
-     The shorter tabs (two or three items) simply fill part of a single row,
-     which they already did at the wider sizes. */
-  .grid {
+  /* A newly shown panel fades and rises. `hidden` sets display:none, so the
+     animation runs from the first frame the panel is visible. */
+  .panel:not([hidden]) {
+    animation: panel-in 420ms cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  @keyframes panel-in {
+    from {
+      opacity: 0;
+      transform: translateY(0.75rem);
+    }
+    to {
+      opacity: 1;
+      transform: none;
+    }
+  }
+
+  .rail {
     display: grid;
-    grid-template-columns: minmax(0, 1fr);
-    gap: 1.25rem;
-    margin: 0;
-    padding: 0;
+    grid-auto-flow: column;
+    grid-auto-columns: 68%;
+    gap: 0.875rem;
+    margin: 0 calc(-1 * clamp(1.25rem, 4vw, 2.5rem));
+    padding: 0 clamp(1.25rem, 4vw, 2.5rem) 0.5rem;
     list-style: none;
+    overflow-x: auto;
+    overscroll-behavior-x: contain;
+    scroll-snap-type: x mandatory;
+    scroll-padding-inline: clamp(1.25rem, 4vw, 2.5rem);
+    scrollbar-width: none;
+  }
+
+  .rail::-webkit-scrollbar {
+    display: none;
+  }
+
+  .rail__item {
+    scroll-snap-align: start;
   }
 
   @media (min-width: 640px) {
-    .grid {
-      grid-template-columns: repeat(2, minmax(0, 1fr));
+    .rail {
+      grid-auto-columns: 38%;
     }
   }
 
   @media (min-width: 1024px) {
-    .grid {
+    .rail {
+      grid-auto-flow: row;
       grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 1.25rem;
+      margin-inline: 0;
+      padding: 0;
+      overflow: visible;
     }
   }
 
-  /* The panel is focusable so keyboard users land in the content after the
-     tablist; it must not draw a permanent outline for everyone else. */
+  .tall {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    text-decoration: none;
+  }
+
+  .tall__media {
+    position: relative;
+    display: block;
+    aspect-ratio: 3 / 4;
+    border-radius: 14px;
+    overflow: hidden;
+    background: var(--color-stone);
+    box-shadow: 0 18px 40px -28px color-mix(in srgb, var(--color-bamboo) 60%, transparent);
+    transition:
+      transform 500ms cubic-bezier(0.16, 1, 0.3, 1),
+      box-shadow 500ms ease;
+  }
+
+  .tall__media img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 900ms cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  .tall:hover .tall__media,
+  .tall:focus-visible .tall__media {
+    transform: translateY(-4px);
+    box-shadow: 0 28px 50px -26px color-mix(in srgb, var(--color-bamboo) 70%, transparent);
+  }
+
+  .tall:hover .tall__media img {
+    transform: scale(1.06);
+  }
+
+  .tall__title {
+    display: block;
+    margin-top: 0.9rem;
+    font-family: var(--font-display);
+    font-size: 1.1875rem;
+    font-weight: 500;
+    line-height: 1.25;
+    color: var(--color-bamboo);
+    text-wrap: balance;
+  }
+
+  .tall:hover .tall__title {
+    text-decoration: underline;
+    text-underline-offset: 4px;
+  }
+
+  .tall__sub {
+    display: block;
+    margin-top: 0.3rem;
+    font-size: 0.9375rem;
+    line-height: 1.5;
+    color: var(--color-muted);
+  }
+
   [role='tabpanel']:focus {
     outline: none;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .panel:not([hidden]) {
+      animation: none;
+    }
+
+    .tall__media,
+    .tall__media img {
+      transition: none;
+    }
+
+    .tall:hover .tall__media,
+    .tall:hover .tall__media img {
+      transform: none;
+    }
   }
 </style>

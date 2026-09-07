@@ -1,0 +1,129 @@
+---
+import { STATS } from '../../data/stats';
+
+/**
+ * The four figures, as a strip that overlaps the bottom of the hero.
+ *
+ * These used to close Getting here as hairline tiles. Pulled up to the fold,
+ * they do the job a magazine cover's strapline does: the four numbers a
+ * reader needs before deciding to read on. Each links to the page that proves
+ * it, and none is rounded or embellished (see data/stats.ts).
+ *
+ * The digits count up when the strip reveals. The text is real and complete
+ * in the HTML; the script only animates a number that is already there.
+ */
+type Piece = { n: number | null; text: string };
+
+/** Split "63 to 80 min" into counted digits and plain text. */
+function pieces(value: string): Piece[] {
+  return value
+    .split(/(\d+)/)
+    .filter(Boolean)
+    .map((part) => (/^\d+$/.test(part) ? { n: Number(part), text: part } : { n: null, text: part }));
+}
+---
+
+<div class="glance">
+  <div class="vm-container">
+    <ul class="glance__grid" aria-label="Moganshan at a glance" data-reveal>
+      {
+        STATS.map((stat, i) => (
+          <li class="glance__cell" style={`--i:${i}`}>
+            <a href={stat.href}>
+              <span class="glance__value">
+                {pieces(stat.value).map((piece) =>
+                  piece.n === null ? piece.text : <span data-count={piece.n}>{piece.text}</span>,
+                )}
+              </span>
+              <span class="glance__label">{stat.label}</span>
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </div>
+</div>
+
+<style>
+  .glance {
+    position: relative;
+    z-index: 2;
+    /* Lifts the strip over the hero's bottom edge so the two read as one
+       composition rather than a picture followed by a box. */
+    margin-top: clamp(-2.5rem, -5vw, -4rem);
+  }
+
+  .glance__grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    background: var(--color-surface);
+    border: 1px solid var(--color-line);
+    border-radius: 14px;
+    box-shadow: 0 24px 60px -30px color-mix(in srgb, var(--color-bamboo) 45%, transparent);
+    overflow: hidden;
+  }
+
+  @media (min-width: 900px) {
+    .glance__grid {
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+    }
+  }
+
+  .glance__cell {
+    border-top: 1px solid var(--color-line);
+  }
+
+  .glance__cell:nth-child(-n + 2) {
+    border-top: 0;
+  }
+
+  .glance__cell:nth-child(even) {
+    border-left: 1px solid var(--color-line);
+  }
+
+  @media (min-width: 900px) {
+    .glance__cell {
+      border-top: 0;
+    }
+
+    .glance__cell + .glance__cell {
+      border-left: 1px solid var(--color-line);
+    }
+  }
+
+  .glance__cell a {
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+    height: 100%;
+    padding: clamp(1.1rem, 2.4vw, 1.6rem) clamp(1rem, 2.4vw, 1.5rem);
+    text-decoration: none;
+    transition: background-color 180ms ease;
+  }
+
+  .glance__cell a:hover {
+    background: var(--color-mist-50);
+  }
+
+  .glance__value {
+    font-family: var(--font-display);
+    font-size: clamp(1.5rem, 3vw, 2.125rem);
+    font-weight: 500;
+    line-height: 1.05;
+    color: var(--color-bamboo);
+    letter-spacing: -0.01em;
+  }
+
+  .glance__label {
+    font-size: 0.875rem;
+    line-height: 1.45;
+    color: var(--color-muted);
+  }
+
+  .glance__cell a:hover .glance__label {
+    color: var(--color-ink);
+  }
+</style>

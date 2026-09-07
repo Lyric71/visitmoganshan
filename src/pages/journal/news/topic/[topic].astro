@@ -1,0 +1,51 @@
+---
+import NewsIndex from '../../../../layouts/NewsIndex.astro';
+import { NEWS_TOPICS, TOPIC_INTRO, TOPIC_LABEL, type NewsTopic } from '../../../../data/news-topics';
+import { NEWS_INDEX, getNewsEntries, topicPath, type NewsEntry } from '../../../../lib/news';
+
+/**
+ * /journal/news/topic/{topic}
+ *
+ * One page per topic that has at least one item. A topic with nothing in it
+ * produces no page rather than an empty one: an empty page is a promise the
+ * site is not keeping.
+ */
+export async function getStaticPaths() {
+  const all = await getNewsEntries();
+  return NEWS_TOPICS.map((topic) => ({
+    params: { topic },
+    props: { topic, all, entries: all.filter((entry) => entry.data.topics.includes(topic)) },
+  })).filter((path) => path.props.entries.length > 0);
+}
+
+interface Props {
+  topic: NewsTopic;
+  all: NewsEntry[];
+  entries: NewsEntry[];
+}
+
+const { topic, all, entries } = Astro.props as Props;
+const label = TOPIC_LABEL[topic];
+
+const crumbs = [
+  { label: 'Home', href: '/' },
+  { label: 'Journal', href: '/journal' },
+  { label: 'News', href: NEWS_INDEX },
+  { label, href: topicPath(topic) },
+];
+---
+
+<NewsIndex
+  title={`Moganshan news: ${label.toLowerCase()}`}
+  seoTitle={`Moganshan News: ${label}`}
+  description={`${TOPIC_INTRO[topic].split('. ')[0]}. Every entry dated and sourced in Chinese.`}
+  kicker="News by topic"
+  crumbs={crumbs}
+  all={all}
+  entries={entries}
+  hideTopic={topic}
+>
+  <Fragment slot="intro">
+    <p>{TOPIC_INTRO[topic]}</p>
+  </Fragment>
+</NewsIndex>

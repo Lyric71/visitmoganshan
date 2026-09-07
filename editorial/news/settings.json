@@ -1,0 +1,9 @@
+{
+  "$comment": "Scheduling lives in data, not in the scheduler. The Windows task fires daily and reads this file first. Change the cadence or pause the agent by editing a value here; nothing needs registering again. lookbackDays overrides the registry default. dailyDraftLimit and maxDraftsPerRun cap what one Claude run may write into editorial/news/drafts. minDaysBetweenSweeps is the gate the runner checks against the last successful run in runs.json (0 means every day).",
+  "paused": false,
+  "minDaysBetweenSweeps": 0,
+  "lookbackDays": 8,
+  "dailyDraftLimit": 3,
+  "maxDraftsPerRun": 3,
+  "notify": true
+}

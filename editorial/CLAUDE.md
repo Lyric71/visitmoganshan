@@ -226,25 +226,47 @@ that denies it.
 
 ## Where a dispatch goes today
 
-The `dispatches` collection with permalinks under `/journal/news/YYYY/MM/`,
-the feed and the news sitemap are Phase 1b and 1c of the master plan, due
-16 September 2026. Until they exist, the publish step adds each dispatch as a
-new dated section at the top of `src/content/guide/journal-news.md`, in that
-page's existing entry format (a dated H2, two to four sentences, the
-blockquote source, the bold "What this means for a visitor" line), adds a
-row to the summary table at the top of that page, and moves its
-`last_updated`. The `output/dispatch-YYYY-WW.md` file keeps the structured
-frontmatter so nothing has to be rewritten when the collection lands: from
-then on the file moves to `src/content/dispatches/` unchanged and
-`journal-news.md` is left alone. When that happens, update this section.
+The `news` collection exists (7 September 2026): `src/content/news/`, routed
+by kind, with the feed at `/journal/news/feed.xml` and the Google News
+sitemap at `/journal/news/sitemap-news.xml`. A dispatch publishes as one file
+in that collection, `src/content/news/YYYY-MM-DD-dispatch-YYYY-WW.md`, with
+`kind: dispatch` and `week: "YYYY-WW"`, and lives at
+`/journal/news/dispatch/YYYY-WW`. `journal-news.md` no longer exists; the
+index at `/journal/news` is generated from the collection.
 
-Guardrails that apply either way: no `/go/` link anywhere in a dispatch; no
-item without a consequence line; no item without a dated, tiered source; a
-week with nothing material is still published, saying so; corrections are
-dated and left visible with a strikethrough, never silently removed. When an
-item changes a fact on an evergreen page, edit that page, move its
-`last_updated`, and say which dispatch caused it in the run log, all in the
-same commit.
+The frontmatter is the news shape in `news/CLAUDE.md` (title, seo_title,
+meta_description, standfirst, kind, week, topics, author, published,
+last_updated, consequence, sources, affects_pages), not the plan's `items`
+array: the items are the `##` sections of the body, each with its bold
+"What this means for a visitor" line and its blockquote source. The
+top level `consequence` names the week's most consequential change, or says
+plainly that nothing changed. The publish step moves the output file in,
+sets both dates, and the collection schema refuses a file without a dated,
+tiered source. The dispatch template says the same.
+
+The Wednesday sweep is no longer done by hand: `editorial/news/triage/`
+holds one file per day from the news crawler, and the week's seven files are
+the dispatch's sweep. Read them, then the manual check list at the foot of
+the latest one.
+
+Guardrails that apply either way: no `/go/` link anywhere in a dispatch (the
+build fails on one); no item without a consequence line; no item without a
+dated, tiered source; a week with nothing material is still published, saying
+so; corrections are dated and left visible, in the `corrections` array,
+never silently removed. When an item changes a fact on an evergreen page,
+edit that page, move its `last_updated`, list it under `affects_pages`, and
+say which dispatch caused it in the run log, all in the same commit.
+
+## The news layer, alongside this pipeline
+
+Short daily news items are a separate track with its own rules in
+`news/CLAUDE.md`: a crawler (`scripts/sweep.mjs`) reads the registry in
+`news/sources.json` every morning, a Claude run drafts at most three items
+into `news/drafts/`, a person approves each one, and a script publishes at
+midday. It shares this file's voice and absolute rules, the source tiers, the
+authors and the image rules. It never publishes without a person's approval,
+and a dispatch never duplicates an item the news layer already ran that
+week: link to it instead.
 
 ## Statistics
 
@@ -267,12 +289,12 @@ used.
 When step 4 finishes and the push succeeds, run from the repo root:
 
 ```
-node editorial/scripts/notify-publish.mjs --slug <slug> --title "<title>" --url </section/slug/> --build passed --log editorial/logs/YYYY-MM-DD.md --note "<commit hash>" --todo "<any open item>"
+node editorial/scripts/notify-publish.mjs --slug <slug> --title "<title>" --build passed --log editorial/logs/YYYY-MM-DD.md --note "<commit hash>" --todo "<any open item>"
 ```
 
 It sends one email through Resend (key in `.env.local`) to the address in the
 script (the Resend account owner's address until a sending domain is
-verified), with the live URL, build status, open TODOs and the run log path.
+verified), with the live URL (read from the published guide file by slug), build status, open TODOs and the run log path.
 Add `--dry-run` to preview. If the send fails, say so in the run log and the
 final message instead of skipping silently.
 
@@ -285,7 +307,8 @@ final message instead of skipping silently.
 | Raw images | `../assets/raw/guide/<slug>-lead.png`, `<slug>-2.png`, `-3`, `-4` (gitignored) |
 | Encoded images | `../public/images/guide/<slug>.webp`, `<slug>-2.webp`, `-3`, `-4` |
 | Published article | `../src/content/guide/<flat-name>.md`, live at the frontmatter `url` |
-| Published dispatch | see "Where a dispatch goes today" |
+| Published dispatch | `../src/content/news/YYYY-MM-DD-dispatch-YYYY-WW.md`, live at `/journal/news/dispatch/YYYY-WW` |
+| News items, the daily track | `news/` (registry, settings, ledger, triage, drafts), rules in `news/CLAUDE.md` |
 | Source ledger | `sources/verified-sources.md` |
 | Source tiers, the sweep, the fixtures, the watch items | `sources/source-tiers.md` |
 | Pre plan facts, unverified | `sources/q1-facts-unverified.md` |
@@ -337,8 +360,8 @@ wins; the plan's engineering phases close the gaps.
   converts to RMB only). Articles never use USD regardless.
 * **Navigation** has four groups (Destinations, Things to do, Itineraries,
   Plan your trip); Journal is not in it (Phase 1d).
-* **News** is one page, `/journal/news`, with eight dated entries and no
-  permalinks (Phase 1b).
+* **News** is a collection with permalinks, a feed and a news sitemap since
+  7 September 2026 (Phase 1b and 1c done); Journal is in the header (1d).
 * **The schema enum** for `author` and the `guide` collection accept only the
   fields listed in `src/content.config.ts`; the publish step must produce
   exactly that shape.

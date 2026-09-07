@@ -21,7 +21,9 @@
 import { execFileSync } from 'node:child_process';
 import { existsSync, readFileSync } from 'node:fs';
 
-const DIR = 'src/content/guide';
+// The news collection carries the same two fields under the same rules, so
+// it is checked here too rather than by a second script that would drift.
+const DIRS = ['src/content/guide', 'src/content/news'];
 const args = process.argv.slice(2);
 const baseIndex = args.indexOf('--base');
 
@@ -64,12 +66,12 @@ const today = new Date().toISOString().slice(0, 10);
 const problems = [];
 
 const changed = base
-  ? (git('diff', '--name-only', base, '--', DIR) ?? '').split('\n').filter(Boolean)
+  ? (git('diff', '--name-only', base, '--', ...DIRS) ?? '').split('\n').filter(Boolean)
   : [];
 
 // Content rules run on every file; the "did the date move" rule only on the
 // ones that differ from the base.
-const all = (git('ls-files', '--', DIR) ?? '').split('\n').filter((f) => f.endsWith('.md'));
+const all = (git('ls-files', '--', ...DIRS) ?? '').split('\n').filter((f) => f.endsWith('.md'));
 
 for (const file of all) {
   if (!existsSync(file)) continue;

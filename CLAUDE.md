@@ -179,3 +179,24 @@ rules from Cyril carry over from the sibling pipelines: when the runbook asks
 for something the repo cannot do, use what the repo has and log the
 substitution; every pipeline step runs on the most capable model available,
 never a faster or smaller mode, and images use gpt-image-2 at high quality.
+
+## The news layer (standing)
+
+`/journal/news` is a content collection (`src/content/news`), one file per
+item, breaking item or weekly dispatch, with permalinks under
+`/journal/news/YYYY/MM/{slug}` and `/journal/news/dispatch/YYYY-WW`, topic
+and year pages, an RSS feed at `/journal/news/feed.xml` and a Google News
+sitemap. The schema refuses an item without a dated, tiered Chinese source or
+without a visitor consequence, and the build fails on a `/go/` link or an em
+dash in a news body.
+
+The pipeline is BBChien's actualités agent on a static site, in
+`editorial/news/`: `sources.json` is the source registry, `sweep.mjs` the
+crawler (listing pages only, never article bodies), `triage/` its daily
+output, `drafts/` the queue, `seen.json` the ledger, `settings.json` the
+cadence and the pause switch. A Claude run drafts under
+`editorial/news/CLAUDE.md`; a person approves with `npm run news:approve`;
+`news-publish.mjs` moves, checks, builds, commits, pushes and emails. Nothing
+publishes without the approval step, and no code path may add one. The two
+scheduled tasks are in `editorial/scripts/register-tasks.ps1`; the news
+publish is the second place this repo builds automatically.

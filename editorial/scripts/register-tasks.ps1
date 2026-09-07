@@ -5,6 +5,9 @@
 
   VisitMoganshan Editorial Draft    every day at 19:30 local (Shanghai)
   VisitMoganshan Editorial Publish  every day at 06:00 local
+  VisitMoganshan News Sweep         every day at 08:00 local (sweep, then Claude drafts)
+  VisitMoganshan News Publish       every day at 12:00 local (script, no model)
+  VisitMoganshan News Poll          every 15 minutes: picks up "Run the sweep now" requests from the dashboard
 
   Both run daily and both read schedule.csv before starting Claude, so an
   evening with no slot due exits in a second. The draft runs the evening
@@ -26,16 +29,22 @@
 #>
 param(
   [string]$DraftTime = '19:30',
-  [string]$PublishTime = '06:00'
+  [string]$PublishTime = '06:00',
+  # The news layer (editorial/news). The sweep starts Claude and needs its own
+  # hour clear of the other pipelines; the news publish is a script with no
+  # model and only needs the build and the push to itself.
+  [string]$NewsSweepTime = '08:00',
+  [string]$NewsPublishTime = '12:00'
 )
 
 $ErrorActionPreference = 'Stop'
 $Runner = Join-Path $PSScriptRoot 'run-daily.ps1'
+$NewsRunner = Join-Path $PSScriptRoot 'run-news.ps1'
 $Pwsh = "$env:SystemRoot\System32\WindowsPowerShell\v1.0\powershell.exe"
 
-function Register([string]$Name, [string]$Mode, $Trigger, [bool]$Enabled) {
+function Register([string]$Name, [string]$Mode, $Trigger, [bool]$Enabled, [string]$Script = $Runner) {
   $Action = New-ScheduledTaskAction -Execute $Pwsh `
-    -Argument "-NoProfile -ExecutionPolicy Bypass -File `"$Runner`" -Mode $Mode"
+    -Argument "-NoProfile -ExecutionPolicy Bypass -File `"$Script`" -Mode $Mode"
   $Settings = New-ScheduledTaskSettingsSet `
     -ExecutionTimeLimit (New-TimeSpan -Hours 6) `
     -StartWhenAvailable `
@@ -53,4 +62,16 @@ Register 'VisitMoganshan Editorial Draft' 'draft' $DraftTrigger $true
 $PublishTrigger = New-ScheduledTaskTrigger -Daily -At $PublishTime
 Register 'VisitMoganshan Editorial Publish' 'publish' $PublishTrigger $true
 
-Get-ScheduledTask -TaskName 'VisitMoganshan Editorial *' | Format-Table TaskName, State -AutoSize
+$NewsSweepTrigger = New-ScheduledTaskTrigger -Daily -At $NewsSweepTime
+Register 'VisitMoganshan News Sweep' 'sweep' $NewsSweepTrigger $true $NewsRunner
+
+$NewsPublishTrigger = New-ScheduledTaskTrigger -Daily -At $NewsPublishTime
+Register 'VisitMoganshan News Publish' 'publish' $NewsPublishTrigger $true $NewsRunner
+
+# The poll: a repetition trigger, every fifteen minutes, indefinitely. It runs
+# git pull and exits when nothing was requested, so it is cheap; when the
+# dashboard has asked for a sweep it turns into the sweep run.
+$PollTrigger = New-ScheduledTaskTrigger -Once -At (Get-Date).Date -RepetitionInterval (New-TimeSpan -Minutes 15)
+Register 'VisitMoganshan News Poll' 'poll' $PollTrigger $true $NewsRunner
+
+Get-ScheduledTask -TaskName 'VisitMoganshan *' | Format-Table TaskName, State -AutoSize

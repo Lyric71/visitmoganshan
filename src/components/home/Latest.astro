@@ -1,0 +1,412 @@
+---
+import { latestArticles, newsItems } from '../../lib/home';
+import { formatDate } from '../../lib/guide';
+
+/**
+ * The front page: the newest guide as a full frame, the next three as a
+ * column of rows, and the news beside them.
+ *
+ * All of it is read from the content collections at build time. The guide
+ * pipeline adds one page every three days and the news pipeline adds items
+ * as they happen, so this block changes with every publish and nobody edits
+ * it. Dates are printed everywhere: most of what ranks for this destination
+ * was written in 2011 and says so nowhere.
+ */
+const latest = await latestArticles(4);
+const news = await newsItems(4);
+const [lead, ...rest] = latest;
+
+const clean = (url: string) => url.replace(/\/+$/, '');
+const iso = (d: Date) => d.toISOString().slice(0, 10);
+---
+
+<section class="vm-section latest" id="latest" aria-labelledby="latest-title">
+  <div class="vm-container">
+    <div data-reveal>
+      <h2 id="latest-title" class="latest__title">
+        <span class="vm-kicker">New on the site</span>
+        Latest guides and news
+      </h2>
+    </div>
+
+    <div class="front">
+      {
+        lead && (
+          <a class="lead" href={clean(lead.data.url)} data-reveal>
+            <img
+              src={lead.data.image}
+              alt={lead.data.image_alt}
+              width="1200"
+              height="800"
+              loading="lazy"
+              decoding="async"
+            />
+            <span class="lead__text">
+              <time class="lead__date" datetime={iso(lead.data.published)}>
+                {formatDate(lead.data.published)}
+              </time>
+              <span class="lead__title">{lead.data.title}</span>
+              <span class="lead__sub">{lead.data.excerpt}</span>
+            </span>
+          </a>
+        )
+      }
+
+      <ul class="column">
+        {
+          rest.map((entry, i) => (
+            <li style={`--i:${i + 1}`} data-reveal>
+              <a class="row" href={clean(entry.data.url)}>
+                <span class="row__media">
+                  <img
+                    src={entry.data.image}
+                    alt={entry.data.image_alt}
+                    width="400"
+                    height="267"
+                    loading="lazy"
+                    decoding="async"
+                  />
+                </span>
+                <span class="row__text">
+                  <time class="row__date" datetime={iso(entry.data.published)}>
+                    {formatDate(entry.data.published)}
+                  </time>
+                  <span class="row__title">{entry.data.title}</span>
+                </span>
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+
+      <aside class="news" aria-labelledby="news-title" data-reveal style="--i:2">
+        <div class="news__head">
+          <h3 id="news-title">News</h3>
+          <a class="vm-more" href="/journal/news">All the news</a>
+        </div>
+        <ol class="news__list">
+          {
+            news.map((item) => (
+              <li>
+                <a href={item.href}>
+                  <span class="news__meta">
+                    <span class="news__kind">{item.kind}</span>
+                    <time datetime={item.iso}>{item.when}</time>
+                  </span>
+                  <span class="news__headline">{item.headline}</span>
+                  <span class="news__standfirst">{item.standfirst}</span>
+                </a>
+              </li>
+            ))
+          }
+        </ol>
+        <p class="news__note">
+          Visa rules, the trains, who owns the guesthouses and who is building. Every item carries
+          its source and a line on what it means for a visitor.
+        </p>
+      </aside>
+    </div>
+  </div>
+</section>
+
+<style>
+  .latest__title {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    margin-bottom: clamp(1.75rem, 3vw, 2.5rem);
+    font-size: clamp(1.75rem, 3.4vw, 2.5rem);
+    letter-spacing: -0.01em;
+  }
+
+  .latest__title .vm-kicker {
+    margin: 0;
+  }
+
+  .front {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1.25rem;
+  }
+
+  @media (min-width: 900px) {
+    .front {
+      grid-template-columns: 1.25fr 1fr;
+      grid-template-areas:
+        'lead column'
+        'news news';
+      gap: 1.5rem;
+    }
+  }
+
+  @media (min-width: 1180px) {
+    .front {
+      grid-template-columns: 1.3fr 1fr 0.9fr;
+      grid-template-areas: 'lead column news';
+    }
+  }
+
+  /* --- The lead --- */
+
+  .lead {
+    grid-area: lead;
+    position: relative;
+    display: block;
+    min-height: 340px;
+    border-radius: 14px;
+    overflow: hidden;
+    background: var(--color-stone);
+    text-decoration: none;
+    isolation: isolate;
+  }
+
+  @media (min-width: 900px) {
+    .lead {
+      min-height: 100%;
+    }
+  }
+
+  .lead img {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 900ms cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  .lead::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+      to top,
+      color-mix(in srgb, var(--color-ink) 84%, transparent) 0%,
+      color-mix(in srgb, var(--color-ink) 36%, transparent) 45%,
+      transparent 72%
+    );
+  }
+
+  .lead:hover img {
+    transform: scale(1.04);
+  }
+
+  .lead__text {
+    position: absolute;
+    inset: auto 0 0;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    padding: clamp(1.25rem, 2.6vw, 1.75rem);
+  }
+
+  .lead__date {
+    font-size: 0.8125rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    color: var(--color-amber);
+  }
+
+  .lead__title {
+    font-family: var(--font-display);
+    font-size: clamp(1.5rem, 2.6vw, 2rem);
+    font-weight: 500;
+    line-height: 1.15;
+    color: #fff;
+    text-wrap: balance;
+  }
+
+  .lead__sub {
+    max-width: 52ch;
+    font-size: 0.9375rem;
+    line-height: 1.5;
+    color: var(--color-mist);
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  /* --- The column --- */
+
+  .column {
+    grid-area: column;
+    display: grid;
+    gap: 1rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  @media (min-width: 900px) {
+    .column {
+      grid-template-rows: repeat(3, minmax(0, 1fr));
+    }
+  }
+
+  .row {
+    display: grid;
+    grid-template-columns: 120px minmax(0, 1fr);
+    gap: 1rem;
+    height: 100%;
+    padding: 0.625rem;
+    border: 1px solid var(--color-line);
+    border-radius: 14px;
+    background: var(--color-surface);
+    text-decoration: none;
+    transition:
+      transform 400ms cubic-bezier(0.16, 1, 0.3, 1),
+      border-color 200ms ease,
+      box-shadow 400ms ease;
+  }
+
+  .row:hover {
+    transform: translateY(-3px);
+    border-color: var(--color-bamboo);
+    box-shadow: 0 22px 40px -28px color-mix(in srgb, var(--color-bamboo) 55%, transparent);
+  }
+
+  .row__media {
+    display: block;
+    min-height: 84px;
+    border-radius: 9px;
+    overflow: hidden;
+    background: var(--color-stone);
+  }
+
+  .row__media img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .row__text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 0.3rem;
+    padding-right: 0.5rem;
+  }
+
+  .row__date {
+    font-size: 0.8125rem;
+    color: var(--color-muted);
+  }
+
+  .row__title {
+    font-family: var(--font-display);
+    font-size: 1.0625rem;
+    font-weight: 500;
+    line-height: 1.3;
+    color: var(--color-bamboo);
+    text-wrap: balance;
+  }
+
+  /* --- News --- */
+
+  .news {
+    grid-area: news;
+    padding: 1.5rem;
+    border-radius: 14px;
+    background: var(--color-bamboo);
+    color: var(--color-mist);
+  }
+
+  .news__head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 1rem;
+  }
+
+  .news__head h3 {
+    font-family: var(--font-display);
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: #fff;
+  }
+
+  .news__head .vm-more {
+    color: var(--color-amber);
+  }
+
+  .news__list {
+    margin: 1rem 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .news__list li + li {
+    border-top: 1px solid color-mix(in srgb, var(--color-mist) 18%, transparent);
+  }
+
+  .news__list a {
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+    padding: 0.9rem 0;
+    text-decoration: none;
+    color: inherit;
+  }
+
+  .news__meta {
+    display: flex;
+    gap: 0.6rem;
+    align-items: center;
+    font-size: 0.75rem;
+    color: var(--color-mist-muted);
+  }
+
+  .news__kind {
+    padding: 0.15rem 0.5rem;
+    border-radius: 999px;
+    background: color-mix(in srgb, var(--color-amber) 22%, transparent);
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--color-amber);
+  }
+
+  .news__headline {
+    font-family: var(--font-display);
+    font-size: 1.0625rem;
+    font-weight: 500;
+    line-height: 1.3;
+    color: #fff;
+  }
+
+  .news__list a:hover .news__headline {
+    text-decoration: underline;
+    text-underline-offset: 4px;
+  }
+
+  .news__standfirst {
+    font-size: 0.875rem;
+    line-height: 1.5;
+    color: var(--color-mist-muted);
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .news__note {
+    margin-top: 1rem;
+    font-size: 0.8125rem;
+    line-height: 1.5;
+    color: var(--color-mist-muted);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .lead img,
+    .row {
+      transition: none;
+    }
+
+    .lead:hover img,
+    .row:hover {
+      transform: none;
+    }
+  }
+</style>

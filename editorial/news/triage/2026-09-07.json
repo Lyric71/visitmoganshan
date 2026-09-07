@@ -1,0 +1,398 @@
+{
+  "stamp": "2026-09-07",
+  "run": "07/09/2026, 11:20:35",
+  "settings": {
+    "$comment": "Scheduling lives in data, not in the scheduler. The Windows task fires daily and reads this file first. Change the cadence or pause the agent by editing a value here; nothing needs registering again. lookbackDays overrides the registry default. dailyDraftLimit and maxDraftsPerRun cap what one Claude run may write into editorial/news/drafts. minDaysBetweenSweeps is the gate the runner checks against the last successful run in runs.json (0 means every day).",
+    "paused": false,
+    "minDaysBetweenSweeps": 0,
+    "lookbackDays": 8,
+    "dailyDraftLimit": 3,
+    "maxDraftsPerRun": 3,
+    "notify": true
+  },
+  "sources": [
+    {
+      "id": "dqnews",
+      "errors": [],
+      "unreachable": false,
+      "candidates": [
+        {
+          "key": "9b563706be992c4970b9a0507599c395841696c41ea2eba857b1155df1c9c5c0",
+          "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/04/035285072.shtml",
+          "title": "一群上海人，把品牌首店开在莫干山 下一步把二店开回上海",
+          "date": "2026-09-04",
+          "matched": null,
+          "tier": 1,
+          "status": "new",
+          "score": 525,
+          "duplicateOf": null
+        },
+        {
+          "key": "e198a2797ecde38ff7a9b8e0fe284b77a85147fd1cde8280708f631917c8f4a0",
+          "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/03/035284274.shtml",
+          "title": "“斯巴达莫干山勇士部落”将于10月运营",
+          "date": "2026-09-03",
+          "matched": null,
+          "tier": 1,
+          "status": "new",
+          "score": 500,
+          "duplicateOf": null
+        },
+        {
+          "key": "79408ded23e4740a8bfd2176589b8395e60ddf0cb7e3e5281a48db5c78989093",
+          "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/02/035283238.shtml",
+          "title": "顶级综合体验基地！10月对外开放",
+          "date": "2026-09-02",
+          "matched": null,
+          "tier": 1,
+          "status": "new",
+          "score": 475,
+          "duplicateOf": null
+        },
+        {
+          "key": "6b432ac6d7c9473f2177381214adcb4f60d2a9b589af9f415bbb8f8c061d19ec",
+          "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/01/035282014.shtml",
+          "title": "喜报！德清一地入选",
+          "date": "2026-09-01",
+          "matched": null,
+          "tier": 1,
+          "status": "new",
+          "score": 450,
+          "duplicateOf": null
+        },
+        {
+          "key": "babc096962f5bc5de325398d3d630dbd102a97dd9c909023bd010d88e20f387a",
+          "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/04/035285061.shtml",
+          "title": "德清“巧手”夺金",
+          "date": "2026-09-04",
+          "matched": "德清",
+          "tier": 1,
+          "status": "new",
+          "score": 525,
+          "duplicateOf": null
+        },
+        {
+          "key": "bb568c308449473f8b8dce7eb9767fdc495f18b01a7b6b8bed938ef380d59b10",
+          "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/04/035285057.shtml",
+          "title": "科学有光 共创成炬 首届全国科普创作者大会今日在德清启幕",
+          "date": "2026-09-04",
+          "matched": "德清",
+          "tier": 1,
+          "status": "new",
+          "score": 525,
+          "duplicateOf": null
+        },
+        {
+          "key": "aff5612f605de69e70176abc18828e6a6d2fd0d8f67dca78945d972cfe0be85f",
+          "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/03/035284268.shtml",
+          "title": "德清成立南丁格尔志愿护理服务队",
+          "date": "2026-09-03",
+          "matched": "德清",
+          "tier": 1,
+          "status": "new",
+          "score": 500,
+          "duplicateOf": null
+        },
+        {
+          "key": "f7606541692156a75c70fb0221320ad5dc371f1ae8bef1956b6e54bd715ae633",
+          "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/03/035284267.shtml",
+          "title": "德清精准对接外贸企业用工需求",
+          "date": "2026-09-03",
+          "matched": "德清",
+          "tier": 1,
+          "status": "new",
+          "score": 500,
+          "duplicateOf": null
+        },
+        {
+          "key": "1678fa32f1e4e236e6221bbf5dd8fc0a247f1b6f16b89da36f4f0569aed6a91e",
+          "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/03/035284266.shtml",
+          "title": "“斯巴达莫干山勇士部落”将于10月运营",
+          "date": "2026-09-03",
+          "matched": "莫干山",
+          "tier": 1,
+          "status": "skipped",
+          "score": 500,
+          "duplicateOf": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/03/035284274.shtml"
+        },
+        {
+          "key": "07777e675a4853b24ca4d49d81dc1380f8c025e121f037c729d24697074bf2bb",
+          "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/03/035284263.shtml",
+          "title": "德清召开第192期 亲清直通车·政企恳谈会",
+          "date": "2026-09-03",
+          "matched": "德清",
+          "tier": 1,
+          "status": "new",
+          "score": 500,
+          "duplicateOf": null
+        },
+        {
+          "key": "ceeb85ff33fefd00f55748cf52b75ba316845aa0816db643f7b7dffbe62c8300",
+          "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/03/035284261.shtml",
+          "title": "“边缘神”亮相腾讯 德清动画产业加速崛起",
+          "date": "2026-09-03",
+          "matched": "德清",
+          "tier": 1,
+          "status": "new",
+          "score": 500,
+          "duplicateOf": null
+        },
+        {
+          "key": "6009372504da49097782fd4f842c032969fe8e301357383e404215b3b99d86a7",
+          "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/03/035284259.shtml",
+          "title": "向海突围 踏浪而行 德清钢材“链”接全球新航道",
+          "date": "2026-09-03",
+          "matched": "德清",
+          "tier": 1,
+          "status": "new",
+          "score": 500,
+          "duplicateOf": null
+        },
+        {
+          "key": "d16905bdd4557975dc79fb79f3910f86b784c2895fd36fe8affb086fe721959d",
+          "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/02/035283209.shtml",
+          "title": "德清首届名龟交易会成效亮眼 3.5万人次观展，现场成交超1600万元",
+          "date": "2026-09-02",
+          "matched": "德清",
+          "tier": 1,
+          "status": "new",
+          "score": 475,
+          "duplicateOf": null
+        },
+        {
+          "key": "d9dfb3ca63e80bc3d88b883ff5a299ff941506dc1d775e0cff76f570d1bbd5a4",
+          "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/02/035283202.shtml",
+          "title": "德清全社会用电负荷再创历史新高",
+          "date": "2026-09-02",
+          "matched": "德清",
+          "tier": 1,
+          "status": "new",
+          "score": 475,
+          "duplicateOf": null
+        },
+        {
+          "key": "0e2e79322b2bc42de0463d0e6aa6843d51f5a93808663d5d38dfaa9a22136e27",
+          "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/04/035285065.shtml",
+          "title": "一群上海人，把品牌首店开在莫干山 下一步把二店开回上海",
+          "date": "2026-09-04",
+          "matched": "莫干山",
+          "tier": 1,
+          "status": "skipped",
+          "score": 525,
+          "duplicateOf": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/04/035285072.shtml"
+        },
+        {
+          "key": "7ca56676f67e55323a3d7a6643619ab6d21ed21c042de8b2ffda4843875d9ca2",
+          "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/04/035285063.shtml",
+          "title": "德清个体工商户结对助学 义举温暖寒门学子",
+          "date": "2026-09-04",
+          "matched": "德清",
+          "tier": 1,
+          "status": "new",
+          "score": 525,
+          "duplicateOf": null
+        },
+        {
+          "key": "553b69cf7a2ca6a911af65bc2a2dcb0a1bcdc9f3d5c2351e3d86d98a5a769c03",
+          "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/01/035282000.shtml",
+          "title": "开学季来临，德清县各小学花式迎新",
+          "date": "2026-09-01",
+          "matched": "德清",
+          "tier": 1,
+          "status": "new",
+          "score": 450,
+          "duplicateOf": null
+        },
+        {
+          "key": "2f77ca68b920b656116a769d76f30ecf5e43f1b25d01855635e1a001e7770ce1",
+          "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/01/035281999.shtml",
+          "title": "德清与小金 两地少年千里同频",
+          "date": "2026-09-01",
+          "matched": "德清",
+          "tier": 1,
+          "status": "new",
+          "score": 450,
+          "duplicateOf": null
+        },
+        {
+          "key": "3bcd29d5da8ebd2717b461824de9677ad2da9930702358a658b0e9910c104f90",
+          "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/04/035285059.shtml",
+          "title": "盘活沉睡资产 筑起共富地标 德清打造全市首个“一站式”综合助残服务新样板",
+          "date": "2026-09-04",
+          "matched": "德清",
+          "tier": 1,
+          "status": "new",
+          "score": 525,
+          "duplicateOf": null
+        },
+        {
+          "key": "c3c8a2f815e4e0b09991946da73d09317938af5e2500be02be5a2cb5aeae9d63",
+          "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/01/035281962.shtml",
+          "title": "他们在德清“养”机器人",
+          "date": "2026-09-01",
+          "matched": "德清",
+          "tier": 1,
+          "status": "new",
+          "score": 450,
+          "duplicateOf": null
+        },
+        {
+          "key": "d9cf7ff3a13f20fbed7a4f9f30aeacb635d35e1238e99ef020611253cc6bfc07",
+          "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/02/035283237.shtml",
+          "title": "杭德市域铁路今日正式试运行！杭德同城迈入轨道时代",
+          "date": "2026-09-02",
+          "matched": "杭德市域铁路",
+          "tier": 1,
+          "status": "new",
+          "score": 475,
+          "duplicateOf": null
+        },
+        {
+          "key": "c708b9dfe55c5fd42f2c0e2ebd4883f04e9cab7aec0170e26c586d113c87ceed",
+          "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/01/035282012.shtml",
+          "title": "无需换乘，跨城直达！杭德市域铁路即将开通，新列车抢先体验",
+          "date": "2026-09-01",
+          "matched": "杭德市域铁路",
+          "tier": 1,
+          "status": "new",
+          "score": 450,
+          "duplicateOf": null
+        }
+      ]
+    },
+    {
+      "id": "meadin",
+      "errors": [],
+      "unreachable": false,
+      "candidates": []
+    },
+    {
+      "id": "deqing-gov",
+      "errors": [
+        "公告公示: timeout after 12000 ms",
+        "德清要闻 A: timeout after 12000 ms",
+        "德清要闻 B: timeout after 12000 ms",
+        "莫干山镇: timeout after 12000 ms",
+        "文广旅体局: timeout after 12000 ms"
+      ],
+      "unreachable": true,
+      "candidates": []
+    },
+    {
+      "id": "zjol-huzhou",
+      "errors": [],
+      "unreachable": false,
+      "candidates": []
+    },
+    {
+      "id": "hangzhou-daily",
+      "errors": [],
+      "unreachable": false,
+      "candidates": []
+    },
+    {
+      "id": "huzhou-cts",
+      "errors": [
+        "工作动态: timeout after 12000 ms",
+        "政策文件: timeout after 12000 ms"
+      ],
+      "unreachable": true,
+      "candidates": []
+    },
+    {
+      "id": "zj-cts",
+      "errors": [
+        "浙江文旅: fetch failed",
+        "政务公开: fetch failed",
+        "浙江省旅游度假区: fetch failed"
+      ],
+      "unreachable": true,
+      "candidates": []
+    },
+    {
+      "id": "ctnews",
+      "errors": [],
+      "unreachable": false,
+      "candidates": []
+    },
+    {
+      "id": "traveldaily",
+      "errors": [],
+      "unreachable": false,
+      "candidates": []
+    },
+    {
+      "id": "xinhua-deqing",
+      "errors": [],
+      "unreachable": false,
+      "candidates": []
+    }
+  ],
+  "weather": {
+    "id": "weather-moganshan",
+    "checks": [
+      {
+        "label": "莫干山镇 1日",
+        "url": "https://forecast.weather.com.cn/town/weather1dn/101210204004.shtml",
+        "status": "error",
+        "warnings": [],
+        "error": "timeout"
+      },
+      {
+        "label": "德清县 40日",
+        "url": "https://www.weather.com.cn/weather40d/101210204.shtml",
+        "status": 200,
+        "warnings": []
+      },
+      {
+        "label": "中央气象台 德清",
+        "url": "http://www.nmc.cn/publish/forecast/AZJ/deqing.html",
+        "status": 200,
+        "warnings": []
+      }
+    ]
+  },
+  "fixtures": [
+    {
+      "window": "late September",
+      "item": "莫干山会议",
+      "itemEn": "The Moganshan Conference, descendant of the 1984 meeting",
+      "source": "xinhua-deqing",
+      "priority": "MEDIUM"
+    }
+  ],
+  "manualCheck": [
+    {
+      "id": "tidenews",
+      "why": "rendered client side"
+    },
+    {
+      "id": "thepaper",
+      "why": "manual only"
+    },
+    {
+      "id": "metime007",
+      "why": "rendered client side"
+    },
+    {
+      "id": "brand-newsrooms",
+      "why": "kind manual"
+    },
+    {
+      "id": "aideqing",
+      "why": "kind wechat"
+    },
+    {
+      "id": "dianping",
+      "why": "kind confirmation"
+    },
+    {
+      "id": "ctrip",
+      "why": "kind confirmation"
+    },
+    {
+      "id": "xiaohongshu",
+      "why": "kind trend"
+    }
+  ]
+}

@@ -7,11 +7,14 @@ items, each with a mandatory visitor consequence line.
 
 ## The Wednesday sweep, in priority order
 
-Work through `../../sources/source-tiers.md`, section "The weekly sweep".
-Deqing News carries roughly 70 percent of any given week. Then Meadin for
-hotel openings and signings, the county government portal for prices and
-closures, Zhejiang Online Huzhou, Tide News, the town level weather page, and
-Thepaper Zhejiang.
+Read the week's triage files in `../../news/triage/` (one per day from the
+news crawler, each with the candidates, the weather signal and the manual
+check list), then `../../sources/source-tiers.md`, section "The weekly
+sweep", for anything the crawler cannot read. Deqing News carries roughly 70
+percent of any given week. Then Meadin for hotel openings and signings, the
+county government portal for prices and closures, Zhejiang Online Huzhou,
+Tide News, the town level weather page, and Thepaper Zhejiang. An item the
+news layer already published this week is linked, not repeated.
 
 ## Triage
 
@@ -59,35 +62,38 @@ piece. The publish step refuses a row with no `quality_passed_on`.
 
 ## Frontmatter for the output file
 
+The news collection shape (`src/content.config.ts`, mirrored in
+`editorial/scripts/news-lib.mjs`). The items are the `##` sections of the
+body; the frontmatter carries the week's headline consequence and every
+source the body cites.
+
 ```yaml
 ---
 title: "Moganshan dispatch, week NN"
+seo_title: "Moganshan News, Week NN: <the headline change>"
+meta_description: "<40 to 160 characters, no date>"
+standfirst: "<one sentence naming the week's most consequential change, or saying nothing material changed>"
+kind: dispatch
 week: "YYYY-WW"
-kind: weekly
+topics: [transport, tickets]
 author: cyril-drouin
 published: YYYY-MM-DD
-standfirst: "..."
+last_updated: YYYY-MM-DD
+consequence: "<the week's headline consequence for a visitor, or: Nothing changed this week that alters a trip; what was true last week is still true.>"
+sources:
+  - name: 德清新闻网
+    name_en: Deqing News
+    url: https://...
+    date: YYYY-MM-DD
+    tier: "1"
 affects_pages: []
-items:
-  - headline: "..."
-    event_date: "YYYY-MM-DD"
-    consequence: "..."
-    source:
-      name: "德清新闻网"
-      name_en: "Deqing News"
-      url: "https://..."
-      date: "YYYY-MM-DD"
-      tier: "1"
-    topics: [tickets]
+corrections: []
 ---
 ```
 
 ## Where it publishes
 
-Until the `dispatches` collection exists (Phase 1b of the master plan), the
-publish step adds the dispatch as a new dated section at the top of
-`src/content/guide/journal-news.md`, in that page's existing entry format,
-adds a row to its summary table, and moves its `last_updated`. Once the
-collection exists, the output file moves to
-`src/content/dispatches/YYYY-WW.md` unchanged and `journal-news.md` is left
-alone. `../../CLAUDE.md` says which applies today.
+`src/content/news/YYYY-MM-DD-dispatch-YYYY-WW.md`, live at
+`/journal/news/dispatch/YYYY-WW`, in the news index, the feed and the news
+sitemap. The publish step moves the output file in unchanged apart from the
+two dates. Never a `/go/` link: the build fails on one.

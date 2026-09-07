@@ -1,0 +1,432 @@
+---
+import AdminPage from '../../layouts/AdminPage.astro';
+import { isSignedIn } from '../../lib/admin-auth';
+
+/**
+ * /admin/news
+ *
+ * The state of the news layer as of the last build: what is waiting for
+ * review, what the last sweeps found, which sources are failing, and the
+ * commands that move things on. Read only, like the rest of /admin.
+ *
+ * The files are read at build time through import.meta.glob and bundled into
+ * the function, because editorial/ is not deployed alongside it. That makes
+ * this page a snapshot from the last deploy rather than a live console. It is
+ * still worth having: the review email carries the same commands, but a page
+ * that lists every pending draft in one place is what a reviewer opens on a
+ * phone. The live state is on the machine that runs the tasks.
+ */
+export const prerender = false;
+
+if (!isSignedIn(Astro.cookies)) return Astro.redirect('/admin/login');
+
+type Frontmatter = Record<string, any>;
+
+function parseFrontmatter(text: string): Frontmatter {
+  const match = /^---\r?\n([\s\S]*?)\r?\n---/.exec(text);
+  if (!match) return {};
+  const out: Frontmatter = {};
+  for (const line of match[1]!.split(/\r?\n/)) {
+    const m = /^([a-z_]+):\s*(.*)$/.exec(line);
+    if (m) out[m[1]!] = m[2]!.replace(/^["']|["']$/g, '');
+  }
+  return out;
+}
+
+const draftFiles = import.meta.glob('../../../editorial/news/drafts/*.md', { query: '?raw', import: 'default', eager: true }) as Record<string, string>;
+const drafts = Object.entries(draftFiles).map(([file, text]) => ({
+  file: file.split('/').pop()!,
+  data: parseFrontmatter(text),
+}));
+const pending = drafts.filter((d) => (d.data.status ?? 'pending') === 'pending');
+const approved = drafts.filter((d) => d.data.status === 'approved');
+
+const runsFile = import.meta.glob('../../../editorial/news/runs.json', { import: 'default', eager: true }) as Record<string, { runs: any[] }>;
+const runs = (Object.values(runsFile)[0]?.runs ?? []).slice(-12).reverse();
+
+const settingsFile = import.meta.glob('../../../editorial/news/settings.json', { import: 'default', eager: true }) as Record<string, any>;
+const settings = Object.values(settingsFile)[0] ?? {};
+
+const seenFile = import.meta.glob('../../../editorial/news/seen.json', { import: 'default', eager: true }) as Record<string, { items: Record<string, any> }>;
+const seen = Object.values(seenFile)[0]?.items ?? {};
+const ledger = Object.values(seen);
+const byStatus = (status: string) => ledger.filter((item) => item.status === status).length;
+
+const lastSweep = runs.find((r) => r.kind === 'sweep' && r.outcome === 'success');
+const failing = new Map<string, string[]>();
+for (const error of lastSweep?.errors ?? []) {
+  const [id, ...rest] = String(error).split(': ');
+  failing.set(id!, [...(failing.get(id!) ?? []), rest.join(': ')]);
+}
+
+const requestFiles = import.meta.glob('../../../editorial/news/requests/*.json', { import: 'default', eager: true }) as Record<string, { requestedAt?: string }>;
+const requests = Object.values(requestFiles)
+  .map((r) => r.requestedAt)
+  .filter((iso): iso is string => Boolean(iso))
+  .sort()
+  .reverse();
+
+// The outcome of the button, carried back in the query string by the route.
+const sweepOutcome = Astro.url.searchParams.get('sweep');
+const sweepDetail = Astro.url.searchParams.get('detail');
+const OUTCOME_TEXT: Record<string, string> = {
+  started: 'The sweep is running on this machine. Its console output goes to editorial/logs/runs; the drafts email follows when Claude is done, usually within half an hour.',
+  queued: 'The request is on its way. It was committed to main and the machine picks it up on its next poll, within fifteen minutes; this page shows it under "Requested" once the site has redeployed.',
+  failed: 'The sweep could not be started.',
+};
+
+const when = (iso?: string) =>
+  iso ? new Date(iso).toLocaleString('en-GB', { timeZone: 'Asia/Shanghai', hour12: false, dateStyle: 'medium', timeStyle: 'short' }) : 'never';
+---
+
+<AdminPage title="News">
+  {
+    sweepOutcome && (
+      <p class:list={['banner', sweepOutcome === 'failed' && 'banner--bad']} role="status">
+        {OUTCOME_TEXT[sweepOutcome] ?? sweepOutcome}
+        {sweepDetail && <span class="banner__detail"> {sweepDetail}</span>}
+      </p>
+    )
+  }
+
+  <section class="actions" aria-label="Run the sweep">
+    <form method="post" action="/api/admin/news-sweep">
+      <button type="submit">Run the sweep now</button>
+    </form>
+    <p class="actions__note">
+      Starts the crawler and the drafting run outside the 08:00 schedule, ignoring the pause flag.
+      On the machine that runs the tasks it starts at once; from the live site it is queued through
+      a commit on main and picked up within fifteen minutes. Nothing is published either way: the
+      drafts wait for approval as usual.
+      {
+        requests.length > 0 && (
+          <span class="actions__pending">
+            {' '}Requested and not yet picked up: {requests.map((iso) => when(iso)).join('; ')}.
+          </span>
+        )
+      }
+    </p>
+  </section>
+
+  <section class="stats" aria-label="The news layer at a glance">
+    <div class="stat">
+      <p class="stat__num">{pending.length}</p>
+      <p class="stat__label">draft{pending.length === 1 ? '' : 's'} waiting for review</p>
+    </div>
+    <div class="stat">
+      <p class="stat__num">{approved.length}</p>
+      <p class="stat__label">approved, waiting for the publish run</p>
+    </div>
+    <div class="stat">
+      <p class="stat__num">{settings.paused ? 'Paused' : 'Active'}</p>
+      <p class="stat__label">
+        sweep {settings.maxDraftsPerRun} per run, {settings.dailyDraftLimit} per day, {settings.lookbackDays} day lookback
+      </p>
+    </div>
+    <div class="stat">
+      <p class="stat__num">{when(lastSweep?.started)}</p>
+      <p class="stat__label">last successful sweep, Shanghai time</p>
+    </div>
+  </section>
+
+  <section class="panel" aria-labelledby="pending">
+    <h2 id="pending">Waiting for review</h2>
+    {
+      pending.length === 0 ? (
+        <p class="panel__note">Nothing is waiting. The next sweep runs at 08:00 Shanghai time.</p>
+      ) : (
+        <ul class="drafts">
+          {pending.map((d) => (
+            <li>
+              <p class="draft__title">{d.data.title}</p>
+              <p class="draft__meta">
+                {d.data.kind} · {d.data.topics} · {d.data.author} · {d.data.published}
+              </p>
+              <p class="draft__sub">{d.data.standfirst}</p>
+              <p class="draft__sub">
+                <strong>For a visitor:</strong> {d.data.consequence}
+              </p>
+              <p class="draft__cmd">
+                <code>npm run news:approve -- {d.file.replace(/\.md$/, '')}</code>
+                <code>npm run news:approve -- {d.file.replace(/\.md$/, '')} --reject "reason"</code>
+              </p>
+            </li>
+          ))}
+        </ul>
+      )
+    }
+    {
+      approved.length > 0 && (
+        <p class="panel__note">
+          Approved and waiting: {approved.map((d) => d.data.title).join('; ')}. The publish run at
+          12:00 moves them.
+        </p>
+      )
+    }
+  </section>
+
+  <section class="panel" aria-labelledby="ledger">
+    <h2 id="ledger">The ledger</h2>
+    <ul class="facts">
+      <li><strong>{ledger.length}</strong> candidates seen in the last 120 days</li>
+      <li><strong>{byStatus('new')}</strong> new, not yet decided</li>
+      <li><strong>{byStatus('drafted')}</strong> drafted</li>
+      <li><strong>{byStatus('published')}</strong> published</li>
+      <li><strong>{byStatus('rejected')}</strong> rejected by a person</li>
+      <li><strong>{byStatus('skipped')}</strong> skipped by the agent, each with a reason in the file</li>
+    </ul>
+  </section>
+
+  <section class="panel" aria-labelledby="sources">
+    <h2 id="sources">Sources failing on the last sweep</h2>
+    {
+      failing.size === 0 ? (
+        <p class="panel__note">Every crawlable source answered.</p>
+      ) : (
+        <table>
+          <thead>
+            <tr>
+              <th scope="col">Source</th>
+              <th scope="col">What happened</th>
+            </tr>
+          </thead>
+          <tbody>
+            {[...failing.entries()].map(([id, errors]) => (
+              <tr>
+                <th scope="row">{id}</th>
+                <td>{errors.join('; ')}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      )
+    }
+    <p class="panel__note">
+      The county and provincial portals answer only from inside China and time out from this
+      machine on most days. That is expected; the triage file lists them under manual check.
+    </p>
+  </section>
+
+  <section class="panel" aria-labelledby="runs">
+    <h2 id="runs">Recent runs</h2>
+    <table>
+      <thead>
+        <tr>
+          <th scope="col">Started</th>
+          <th scope="col">Kind</th>
+          <th scope="col">Outcome</th>
+          <th scope="col">Detail</th>
+        </tr>
+      </thead>
+      <tbody>
+        {
+          runs.map((r) => (
+            <tr>
+              <td>{when(r.started)}</td>
+              <td>{r.kind}</td>
+              <td>{r.outcome}{r.skipReason ? ` (${r.skipReason})` : ''}</td>
+              <td>
+                {r.kind === 'sweep' && r.outcome === 'success'
+                  ? `${r.candidates} candidates, ${r.newCandidates} new, ${r.errors?.length ?? 0} source errors`
+                  : r.slugs
+                    ? r.slugs.join(', ')
+                    : r.error
+                      ? String(r.error).slice(0, 160)
+                      : ''}
+              </td>
+            </tr>
+          ))
+        }
+      </tbody>
+    </table>
+  </section>
+
+  <section class="panel" aria-labelledby="jobs">
+    <h2 id="jobs">Running the jobs</h2>
+    <p class="panel__note">
+      Two Windows scheduled tasks on the machine that holds the keys: <strong>VisitMoganshan News
+      Sweep</strong> at 08:00 (the crawler, then Claude drafts) and <strong>VisitMoganshan News
+      Publish</strong> at 12:00 (a script that moves approved drafts, checks, builds, commits,
+      pushes and emails). The morning between them is the review window. Registered with
+      <code>editorial\scripts\register-tasks.ps1</code>. The rules the agent drafts under are in
+      <code>editorial/news/CLAUDE.md</code>.
+    </p>
+    <dl class="jobs">
+      <dt><code>npm run news:sweep -- --force</code></dt>
+      <dd>The crawler alone, ignoring the pause flag. Writes today's triage file.</dd>
+      <dt><code>npm run news:approve -- --list</code></dt>
+      <dd>What is waiting, with its status.</dd>
+      <dt><code>npm run news:publish -- --dry</code></dt>
+      <dd>What the publish run would move, and why it would refuse anything.</dd>
+      <dt><code>npm run news:test</code></dt>
+      <dd>The unit tests for the sweep's logic.</dd>
+    </dl>
+  </section>
+</AdminPage>
+
+<style>
+  .banner {
+    margin: 0 0 1.25rem;
+    padding: 0.85rem 1.1rem;
+    border-left: 3px solid var(--color-leaf);
+    background: var(--color-surface);
+    font-size: 0.9375rem;
+    line-height: 1.5;
+  }
+
+  .banner--bad {
+    border-left-color: var(--color-amber);
+  }
+
+  .banner__detail {
+    color: var(--color-muted);
+  }
+
+  .actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem 1.5rem;
+    align-items: flex-start;
+    margin-bottom: 1.5rem;
+  }
+
+  .actions button {
+    padding: 0.65rem 1.1rem;
+    border: 0;
+    border-radius: 4px;
+    background: var(--color-bamboo);
+    color: var(--color-mist);
+    font: inherit;
+    font-weight: 600;
+    cursor: pointer;
+  }
+
+  .actions button:hover {
+    background: var(--color-bamboo-90);
+  }
+
+  .actions__note {
+    flex: 1 1 24rem;
+    margin: 0;
+    font-size: 0.875rem;
+    line-height: 1.5;
+    color: var(--color-muted);
+  }
+
+  .actions__pending {
+    color: var(--color-ink);
+    font-weight: 600;
+  }
+
+  .stats {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 1rem;
+    margin-bottom: 2rem;
+  }
+
+  .stat {
+    padding: 1rem 1.25rem;
+    background: var(--color-surface);
+    border: 1px solid var(--color-line);
+  }
+
+  .stat__num {
+    margin: 0;
+    font-family: var(--font-display);
+    font-size: 1.75rem;
+    line-height: 1.1;
+  }
+
+  .stat__label {
+    margin: 0.35rem 0 0;
+    font-size: 0.8125rem;
+    color: var(--color-muted);
+  }
+
+  .panel {
+    margin-bottom: 2rem;
+    padding: 1.25rem 1.5rem;
+    background: var(--color-surface);
+    border: 1px solid var(--color-line);
+  }
+
+  .panel h2 {
+    font-size: 1.125rem;
+    margin: 0 0 0.75rem;
+  }
+
+  .panel__note {
+    font-size: 0.9375rem;
+    line-height: 1.55;
+    color: var(--color-muted);
+  }
+
+  .drafts {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .drafts li {
+    padding: 1rem 0;
+    border-top: 1px solid var(--color-line);
+  }
+
+  .draft__title {
+    margin: 0;
+    font-family: var(--font-display);
+    font-size: 1.125rem;
+  }
+
+  .draft__meta {
+    margin: 0.25rem 0 0;
+    font-size: 0.8125rem;
+    color: var(--color-muted);
+  }
+
+  .draft__sub {
+    margin: 0.5rem 0 0;
+    font-size: 0.9375rem;
+    line-height: 1.5;
+  }
+
+  .draft__cmd {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem 1.5rem;
+    margin: 0.6rem 0 0;
+    font-size: 0.8125rem;
+  }
+
+  .facts {
+    margin: 0;
+    padding-left: 1.1rem;
+    font-size: 0.9375rem;
+    line-height: 1.7;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.875rem;
+  }
+
+  th,
+  td {
+    padding: 0.5rem 0.6rem;
+    text-align: left;
+    vertical-align: top;
+    border-bottom: 1px solid var(--color-line);
+  }
+
+  .jobs dt {
+    margin-top: 0.75rem;
+  }
+
+  .jobs dd {
+    margin: 0.2rem 0 0;
+    font-size: 0.9375rem;
+    color: var(--color-muted);
+  }
+</style>

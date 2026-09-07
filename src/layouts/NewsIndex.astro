@@ -1,0 +1,262 @@
+---
+import Layout from './Layout.astro';
+import SiteHeader from '../components/SiteHeader.astro';
+import SiteFooter from '../components/SiteFooter.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import NewsList from '../components/NewsList.astro';
+import type { Crumb } from '../lib/guide';
+import {
+  NEWS_FEED,
+  NEWS_INDEX,
+  archivePath,
+  topicPath,
+  topicsInUse,
+  yearsInUse,
+  type NewsEntry,
+} from '../lib/news';
+
+/**
+ * The shell for every news listing: the index and its later pages, the topic
+ * pages, the year archives.
+ *
+ * One column of items beside a rail of ways to cut the list differently. The
+ * rail reads from the whole collection, not the page, so a topic with items
+ * on page three is still offered on page one. Only the first index page and
+ * the topic and year pages are indexable; a later page of the index carries
+ * noindex, follow, the same rule the stay listings use.
+ */
+interface Props {
+  title: string;
+  seoTitle: string;
+  description: string;
+  kicker?: string;
+  crumbs: Crumb[];
+  /** The whole collection, for the rail. */
+  all: NewsEntry[];
+  /** The rows on this page. */
+  entries: NewsEntry[];
+  hideTopic?: string;
+  noindex?: boolean;
+  pagination?: { current: number; last: number; prev?: string; next?: string };
+}
+
+const { title, seoTitle, description, kicker = 'News', crumbs, all, entries, hideTopic, noindex = false, pagination } = Astro.props;
+
+const topics = topicsInUse(all);
+const years = yearsInUse(all);
+---
+
+<Layout title={seoTitle} description={description} noindex={noindex} robots="noindex, follow">
+  <Fragment slot="head">
+    {!noindex && <meta name="robots" content="index, follow, max-image-preview:large" />}
+  </Fragment>
+
+  <SiteHeader />
+  <Breadcrumbs crumbs={crumbs} />
+
+  <main id="main">
+    <div class="vm-container">
+      <header class="head">
+        <p class="vm-kicker">{kicker}</p>
+        <h1>{title}</h1>
+        <div class="standfirst">
+          <slot name="intro" />
+        </div>
+      </header>
+
+      <div class="split">
+        <div class="main">
+          {entries.length ? <NewsList entries={entries} hideTopic={hideTopic} /> : <p class="empty">Nothing here yet.</p>}
+
+          {
+            pagination && pagination.last > 1 && (
+              <nav class="pages" aria-label="Pages">
+                {pagination.prev ? <a href={pagination.prev}>Newer</a> : <span aria-hidden="true" />}
+                <span class="pages__count">
+                  Page {pagination.current} of {pagination.last}
+                </span>
+                {pagination.next ? <a href={pagination.next}>Older</a> : <span aria-hidden="true" />}
+              </nav>
+            )
+          }
+        </div>
+
+        <aside class="rail" aria-label="Browse the news">
+          <section>
+            <h2 class="rail__title">By topic</h2>
+            <ul>
+              {
+                topics.map((row) => (
+                  <li>
+                    <a href={topicPath(row.topic)} aria-current={row.topic === hideTopic ? 'page' : undefined}>
+                      {row.label} <span class="rail__count">{row.count}</span>
+                    </a>
+                  </li>
+                ))
+              }
+            </ul>
+          </section>
+          <section>
+            <h2 class="rail__title">By year</h2>
+            <ul>
+              {
+                years.map((row) => (
+                  <li>
+                    <a href={archivePath(row.year)}>
+                      {row.year} <span class="rail__count">{row.count}</span>
+                    </a>
+                  </li>
+                ))
+              }
+            </ul>
+          </section>
+          <section>
+            <h2 class="rail__title">Follow</h2>
+            <ul>
+              <li>
+                <a href={NEWS_FEED}>RSS feed</a>
+              </li>
+              <li>
+                <a href={NEWS_INDEX}>All news</a>
+              </li>
+            </ul>
+            <p class="rail__note">
+              News here is narrow: something changed, and the change carries a date. A restated
+              press release does not qualify. Every item names its Chinese source, with the date
+              and the tier, and ends with what it means for a visitor.
+            </p>
+          </section>
+        </aside>
+      </div>
+    </div>
+  </main>
+
+  <SiteFooter />
+</Layout>
+
+<style>
+  .head {
+    padding-block: clamp(2rem, 4vw, 3rem);
+    border-bottom: 1px solid var(--color-line);
+  }
+
+  .head h1 {
+    text-wrap: balance;
+  }
+
+  .standfirst {
+    max-width: 68ch;
+    margin-top: 1rem;
+    font-size: clamp(1rem, 1.5vw, 1.125rem);
+    line-height: 1.6;
+    color: var(--color-ink);
+  }
+
+  .standfirst :global(p + p) {
+    margin-top: 0.75rem;
+  }
+
+  .standfirst :global(a) {
+    color: var(--color-bamboo);
+  }
+
+  .split {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    gap: clamp(2rem, 4vw, 3rem);
+    padding-block: clamp(2rem, 4vw, 3rem);
+  }
+
+  @media (min-width: 1024px) {
+    .split {
+      grid-template-columns: minmax(0, 2.2fr) minmax(240px, 1fr);
+    }
+  }
+
+  .main {
+    min-width: 0;
+  }
+
+  .empty {
+    color: var(--color-muted);
+  }
+
+  .pages {
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 1.5rem;
+    font-size: 0.9375rem;
+  }
+
+  .pages a {
+    color: var(--color-bamboo);
+    font-weight: 600;
+    text-decoration: none;
+  }
+
+  .pages a:last-child {
+    text-align: right;
+  }
+
+  .pages__count {
+    color: var(--color-muted);
+  }
+
+  .rail section + section {
+    margin-top: 1.75rem;
+  }
+
+  .rail__title {
+    font-family: var(--font-body);
+    font-size: 0.6875rem;
+    font-weight: 600;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--color-bamboo);
+    margin: 0 0 0.5rem;
+  }
+
+  .rail ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    border-top: 1px solid var(--color-line);
+  }
+
+  .rail li {
+    border-bottom: 1px solid var(--color-line);
+  }
+
+  .rail li a {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 0.55rem 0;
+    font-size: 0.9375rem;
+    color: var(--color-ink);
+    text-decoration: none;
+  }
+
+  .rail li a:hover {
+    color: var(--color-bamboo);
+  }
+
+  .rail li a[aria-current='page'] {
+    color: var(--color-bamboo);
+    font-weight: 600;
+  }
+
+  .rail__count {
+    color: var(--color-muted);
+    font-variant-numeric: tabular-nums;
+  }
+
+  .rail__note {
+    margin-top: 1rem;
+    font-size: 0.875rem;
+    line-height: 1.55;
+    color: var(--color-muted);
+  }
+</style>

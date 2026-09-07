@@ -1,0 +1,437 @@
+---
+import Layout from './Layout.astro';
+import SiteHeader from '../components/SiteHeader.astro';
+import SiteFooter from '../components/SiteFooter.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import { authorById, authorPath, type AuthorId } from '../data/authors';
+import { TOPIC_LABEL } from '../data/news-topics';
+import { formatDate } from '../lib/guide';
+import {
+  KIND_LABEL,
+  NEWS_FEED,
+  NEWS_INDEX,
+  eventLine,
+  newsCrumbs,
+  newsJsonLd,
+  newsPath,
+  topicPath,
+  weekLabel,
+  type NewsEntry,
+} from '../lib/news';
+
+/**
+ * The shell for one news item, breaking item or weekly dispatch.
+ *
+ * Shorter than a guide page and built around three things a guide page does
+ * not have: the date the thing changed, which is printed separately from the
+ * date we published; the consequence line, which the layout prints from
+ * frontmatter so an item cannot ship without one; and the sources block,
+ * which names each Chinese source with its date and tier and links to it.
+ * The citation list is the whole credibility of the page and it sits in the
+ * markup as a list, not a footnote.
+ *
+ * Corrections print in full, dated, below the body. An item is never edited
+ * silently: the original stays and the amendment is added.
+ */
+interface Props {
+  entry: NewsEntry;
+  /** The other items to offer at the foot, newest first, this one excluded. */
+  more: NewsEntry[];
+}
+
+const { entry, more } = Astro.props;
+const { data } = entry;
+
+const crumbs = newsCrumbs(entry);
+const author = authorById(data.author as AuthorId);
+const publishedOn = formatDate(data.published);
+const updatedOn = formatDate(data.last_updated);
+const wasUpdated = data.last_updated.getTime() > data.published.getTime();
+const changed = eventLine(entry);
+const kicker = data.kind === 'dispatch' ? `${KIND_LABEL.dispatch}, ${weekLabel(data.week)}` : KIND_LABEL[data.kind];
+const title = data.seo_title ?? `${data.title} | Visit Moganshan`;
+
+const TIER_LABEL: Record<string, string> = {
+  '1': 'tier 1, source of record',
+  '2': 'tier 2, dated regional or trade press',
+  '3': 'tier 3, reported',
+  '4': 'tier 4, promotional, as a tip',
+  own: 'our own desk research',
+};
+
+const jsonLd = newsJsonLd(entry, crumbs)
+  .map((block) => `<script type="application/ld+json">${JSON.stringify(block)}</script>`)
+  .join('\n');
+---
+
+<Layout title={title} description={data.meta_description} ogImage={data.image}>
+  <Fragment slot="head">
+    <meta name="robots" content="index, follow, max-image-preview:large" />
+    <meta property="article:published_time" content={data.published.toISOString()} />
+    <meta property="article:modified_time" content={data.last_updated.toISOString()} />
+    <Fragment set:html={jsonLd} />
+  </Fragment>
+
+  <SiteHeader />
+  <Breadcrumbs crumbs={crumbs} />
+
+  <main id="main">
+    <div class="vm-container">
+      <header class="head">
+        <p class="vm-kicker">{kicker}</p>
+        <h1>{data.title}</h1>
+        <p class="standfirst">{data.standfirst}</p>
+        <p class="byline">
+          <span class="byline__author">
+            By <a href={authorPath(author)} rel="author">{author.name}</a>
+          </span>
+          <span>
+            Published <time datetime={data.published.toISOString().slice(0, 10)}>{publishedOn}</time>
+          </span>
+          {
+            wasUpdated && (
+              <span>
+                Updated <time datetime={data.last_updated.toISOString().slice(0, 10)}>{updatedOn}</time>
+              </span>
+            )
+          }
+          {changed && <span class="byline__changed">{changed}</span>}
+        </p>
+        <ul class="topics" aria-label="Topics">
+          {
+            data.topics.map((topic) => (
+              <li>
+                <a href={topicPath(topic)}>{TOPIC_LABEL[topic]}</a>
+              </li>
+            ))
+          }
+        </ul>
+      </header>
+
+      {
+        data.image && (
+          <figure class="lead">
+            <img
+              src={data.image}
+              alt={data.image_alt ?? ''}
+              width="1600"
+              height="900"
+              loading="eager"
+              fetchpriority="high"
+              decoding="async"
+            />
+          </figure>
+        )
+      }
+
+      <div class="body">
+        <article class="vm-article">
+          <slot />
+
+          {
+            data.kind !== 'dispatch' && (
+              <p class="consequence">
+                <strong>What this means for a visitor:</strong> {data.consequence}
+              </p>
+            )
+          }
+
+          {
+            data.corrections.length > 0 && (
+              <section class="corrections" aria-labelledby="corrections-title">
+                <h2 id="corrections-title">Corrections</h2>
+                <ul>
+                  {data.corrections.map((correction) => (
+                    <li>
+                      <time datetime={correction.date.toISOString().slice(0, 10)}>{formatDate(correction.date)}</time>
+                      : {correction.text}
+                    </li>
+                  ))}
+                </ul>
+              </section>
+            )
+          }
+
+          <section class="sources" aria-labelledby="sources-title">
+            <h2 id="sources-title">Sources</h2>
+            <ul>
+              {
+                data.sources.map((source) => (
+                  <li>
+                    <span lang="zh-Hans">{source.name}</span> ({source.name_en}),{' '}
+                    <time datetime={source.date.toISOString().slice(0, 10)}>{formatDate(source.date)}</time>,{' '}
+                    {TIER_LABEL[source.tier] ?? `tier ${source.tier}`}.{' '}
+                    <a href={source.url} rel="nofollow noopener noreferrer" target="_blank">
+                      Read the original
+                    </a>
+                  </li>
+                ))
+              }
+            </ul>
+            <p class="sources__note">
+              Tiers follow the site's source rules: the county portal, the scenic area's own channel
+              and the statistics bureaus are the record; regional and trade press are dated fact;
+              anything promotional is a tip until confirmed.
+            </p>
+          </section>
+
+          <p class="checked-note">
+            Last checked {updatedOn} by {author.name}. Prices, timetables and entry rules on this
+            mountain move without notice, so confirm anything you are booking around.
+          </p>
+
+          {
+            data.image && (
+              <p class="illustration-note">
+                Photographs on this site are representative illustrations, not documentary images of
+                the specific building, property or service described.
+              </p>
+            )
+          }
+        </article>
+      </div>
+
+      <section class="more" aria-labelledby="more-title">
+        <h2 id="more-title">More news</h2>
+        <ol class="more__list">
+          {
+            more.map((item) => (
+              <li>
+                <a href={newsPath(item)}>
+                  <span class="more__when">
+                    <time datetime={item.data.published.toISOString().slice(0, 10)}>
+                      {formatDate(item.data.published)}
+                    </time>
+                  </span>
+                  <span class="more__title">{item.data.title}</span>
+                </a>
+              </li>
+            ))
+          }
+        </ol>
+        <p class="more__links">
+          <a class="vm-more" href={NEWS_INDEX}>All news</a>
+          <a class="vm-more" href={NEWS_FEED}>RSS feed</a>
+        </p>
+      </section>
+    </div>
+  </main>
+
+  <SiteFooter />
+</Layout>
+
+<style>
+  .head {
+    padding-block: clamp(2rem, 4vw, 3rem);
+    border-bottom: 1px solid var(--color-line);
+  }
+
+  .head h1 {
+    text-wrap: balance;
+  }
+
+  .standfirst {
+    margin-top: 1rem;
+    font-size: clamp(1.0625rem, 1.6vw, 1.25rem);
+    line-height: 1.55;
+    color: var(--color-ink);
+  }
+
+  .byline {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem 1.25rem;
+    margin-top: 1.25rem;
+    font-size: 0.8125rem;
+    color: var(--color-muted);
+  }
+
+  .byline__author {
+    color: var(--color-ink);
+  }
+
+  .byline__changed {
+    color: var(--color-ink);
+    font-weight: 600;
+  }
+
+  .byline a {
+    color: var(--color-bamboo);
+    font-weight: 600;
+    text-decoration: none;
+  }
+
+  .byline a:hover,
+  .byline a:focus-visible {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+
+  .topics {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin: 1rem 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .topics a {
+    display: inline-block;
+    padding: 0.25rem 0.7rem;
+    border: 1px solid var(--color-line);
+    border-radius: 999px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--color-leaf);
+    text-decoration: none;
+  }
+
+  .topics a:hover {
+    border-color: var(--color-leaf);
+  }
+
+  .lead {
+    margin: 0;
+    margin-top: clamp(2rem, 4vw, 3rem);
+  }
+
+  .lead img {
+    display: block;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+    background: var(--color-mist);
+  }
+
+  .body {
+    padding-block: clamp(2rem, 4vw, 3rem);
+  }
+
+  .body > .vm-article {
+    min-width: 0;
+  }
+
+  /* The consequence line. Left rule in the accent, the same treatment the
+     guide pages give a source note, because it is the one line a reader in a
+     hurry is here for. */
+  .consequence {
+    margin-top: clamp(1.5rem, 3vw, 2rem);
+    padding: 1rem 1.25rem;
+    border-left: 3px solid var(--color-amber);
+    background: var(--color-mist-50);
+    font-size: 1.0625rem;
+    line-height: 1.55;
+  }
+
+  .corrections,
+  .sources {
+    margin-top: clamp(2rem, 4vw, 3rem);
+    padding-top: 1.25rem;
+    border-top: 1px solid var(--color-line);
+  }
+
+  .corrections h2,
+  .sources h2 {
+    font-size: 1.125rem;
+    margin: 0 0 0.75rem;
+  }
+
+  .sources ul,
+  .corrections ul {
+    margin: 0;
+    padding-left: 1.1rem;
+    font-size: 0.9375rem;
+    line-height: 1.6;
+  }
+
+  .sources li + li,
+  .corrections li + li {
+    margin-top: 0.5rem;
+  }
+
+  .sources__note {
+    margin-top: 0.9rem;
+    font-size: 0.8125rem;
+    line-height: 1.6;
+    color: var(--color-muted);
+  }
+
+  .checked-note {
+    margin-top: clamp(2rem, 4vw, 3rem);
+    padding-top: 1rem;
+    border-top: 1px solid var(--color-line);
+    font-size: 0.8125rem;
+    line-height: 1.6;
+    color: var(--color-muted);
+  }
+
+  .illustration-note {
+    margin-top: 1rem;
+    font-size: 0.8125rem;
+    line-height: 1.6;
+    color: var(--color-muted);
+  }
+
+  .more {
+    padding-block: clamp(2.5rem, 5vw, 4rem);
+    border-top: 1px solid var(--color-line);
+  }
+
+  .more h2 {
+    font-size: clamp(1.25rem, 2vw, 1.5rem);
+    margin-bottom: 1rem;
+  }
+
+  .more__list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    border-top: 1px solid var(--color-line);
+  }
+
+  .more__list li {
+    border-bottom: 1px solid var(--color-line);
+  }
+
+  .more__list a {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    gap: 0.2rem 1.5rem;
+    padding: 0.85rem 0;
+    text-decoration: none;
+  }
+
+  @media (min-width: 640px) {
+    .more__list a {
+      grid-template-columns: 11rem minmax(0, 1fr);
+      align-items: baseline;
+    }
+  }
+
+  .more__when {
+    font-size: 0.8125rem;
+    color: var(--color-muted);
+    font-variant-numeric: tabular-nums;
+  }
+
+  .more__title {
+    font-family: var(--font-display);
+    font-size: 1.0625rem;
+    color: var(--color-bamboo);
+  }
+
+  .more__list a:hover .more__title {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+
+  .more__links {
+    display: flex;
+    gap: 2rem;
+    margin-top: 1.25rem;
+  }
+</style>

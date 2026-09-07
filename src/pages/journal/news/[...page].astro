@@ -1,0 +1,68 @@
+---
+import NewsIndex from '../../../layouts/NewsIndex.astro';
+import { NEWS_INDEX, NEWS_PAGE_SIZE, getNewsEntries, indexPageUrl, type NewsEntry } from '../../../lib/news';
+
+/**
+ * /journal/news and /journal/news/{2..n}
+ *
+ * The news index, newest first, twenty to a page. Page one is the indexable
+ * document; later pages are noindex, follow so their links still count.
+ *
+ * This replaces the single markdown page that used to sit at this URL with
+ * eight entries and no permalinks. Those entries now live in the collection
+ * under their real event dates, which is where a search for any one of them
+ * should land.
+ */
+export async function getStaticPaths({ paginate }: { paginate: any }) {
+  const all = await getNewsEntries();
+  return paginate(all, { pageSize: NEWS_PAGE_SIZE, props: { all } });
+}
+
+interface Props {
+  all: NewsEntry[];
+  page: { data: NewsEntry[]; currentPage: number; lastPage: number; total: number };
+}
+
+const { all, page } = Astro.props as Props;
+const isFirst = page.currentPage === 1;
+
+const crumbs = [
+  { label: 'Home', href: '/' },
+  { label: 'Journal', href: '/journal' },
+  { label: 'News', href: NEWS_INDEX },
+  ...(isFirst ? [] : [{ label: `Page ${page.currentPage}`, href: indexPageUrl(page.currentPage) }]),
+];
+
+const pagination = {
+  current: page.currentPage,
+  last: page.lastPage,
+  prev: page.currentPage > 1 ? indexPageUrl(page.currentPage - 1) : undefined,
+  next: page.currentPage < page.lastPage ? indexPageUrl(page.currentPage + 1) : undefined,
+};
+---
+
+<NewsIndex
+  title={isFirst ? 'Moganshan news: what changed, and when' : `Moganshan news, page ${page.currentPage}`}
+  seoTitle={isFirst ? 'Moganshan News: What Changed, and When' : `Moganshan News, Page ${page.currentPage}`}
+  description="A dated log of what is changing at Moganshan: tickets, the shuttle, the trains, visa rules, openings and closures, each item sourced in Chinese and ending with what it means for a visitor."
+  crumbs={crumbs}
+  all={all}
+  entries={page.data}
+  noindex={!isFirst}
+  pagination={pagination}
+>
+  <Fragment slot="intro">
+    <p>
+      What is changing in Moganshan (莫干山) and in China's entry rules, logged newest first. Every
+      entry carries its Chinese source with a date and a tier, and ends with one line on what it
+      means for a visitor. The mountain is in Deqing County, Huzhou, Zhejiang, 60 km from Hangzhou
+      and 200 to 240 km from Shanghai. Search for Moganshan news and Shanghai results come first;
+      those belong to Moganshan Road, the gallery street in Putuo District, and none of it appears
+      here.
+    </p>
+    <p>
+      News here is narrow: something changed, and the change carries a date. A restated press
+      release does not qualify. The longer pieces are in the <a href="/journal">journal</a>.
+    </p>
+  </Fragment>
+</NewsIndex>

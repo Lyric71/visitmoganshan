@@ -237,6 +237,49 @@ export const NAV: NavGroup[] = [
     },
     faq: { label: 'Planning questions, answered', href: '/plan/faq' },
   },
+
+  {
+    // The news layer and the long reads. Promoted into the header on
+    // 7 September 2026 (master plan, Part 4.7): the dated, sourced news index
+    // is the one format no competitor in this niche operates, and it was
+    // reachable only from a home page block.
+    label: 'Journal',
+    href: '/journal/news',
+    allLabel: 'All the news',
+    match: ['/journal'],
+    columns: [
+      {
+        title: 'News',
+        links: [
+          { label: 'What changed, and when', href: '/journal/news', sub: 'dated and sourced' },
+          // Topic pages exist only for topics with at least one item, so a
+          // link here has to point at one that has filled. Tickets comes in
+          // once the first ticket item runs.
+          { label: 'Transport', href: '/journal/news/topic/transport' },
+          { label: 'Visas and entry rules', href: '/journal/news/topic/entry-rules' },
+          { label: 'Openings and closures', href: '/journal/news/topic/openings' },
+          { label: 'RSS feed', href: '/journal/news/feed.xml' },
+        ],
+      },
+      {
+        title: 'Long reads',
+        links: [
+          { label: 'The journal', href: '/journal' },
+          { label: 'The founding, and the committee', href: '/journal/the-founding-and-the-committee' },
+          { label: '118, then 78', href: '/journal/118-then-78' },
+          { label: 'The second opening', href: '/journal/the-second-opening' },
+        ],
+      },
+    ],
+    feature: {
+      href: '/journal/news',
+      image: '/images/guide/journal-news.webp',
+      alt: 'A tower crane above the concrete frame of a half built structure on a bamboo hillside',
+      kicker: 'What changed',
+      title: 'Moganshan news',
+      sub: 'Visa rules, the trains, the shuttle, who is building',
+    },
+  },
 ];
 
 /** True when `path` sits inside this group. */

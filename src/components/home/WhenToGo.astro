@@ -1,42 +1,65 @@
 ---
 import SectionHead from '../SectionHead.astro';
-import { MONTHS, MONTH_LEGEND } from '../../data/months';
+import { MONTHS, MONTH_LEGEND, SEASON_PAGE } from '../../data/months';
 
 /**
- * 6.12 When to go.
+ * When to go. Twelve months on one row, and a panel that answers for the
+ * month under the pointer.
  *
- * Twelve chips on ONE row at every viewport down to 320px. Wrapping into two
- * rows of six stops it reading as a year and turns it into a grid of unrelated
- * labels, so the chips shrink instead: the month abbreviation is three glyphs
- * and survives it.
+ * The strip is a set of buttons. Hovering or focusing one, or tapping it on a
+ * phone, fills the panel beside it with the month's status and the season
+ * guide to read; the panel starts on the current month, so the block answers
+ * "what is it like now" before the reader touches anything. Twelve chips stay
+ * on ONE row at every viewport down to 320px: wrapping into two rows of six
+ * stops it reading as a year.
  *
  * Colour never carries the meaning alone. Each chip states its status in the
- * accessible name and the legend below spells all three out.
+ * accessible name, the panel prints it, and the legend spells all three out.
  */
 const legendOrder = ['good', 'busy', 'quiet'] as const;
+const now = new Date().getMonth();
 ---
 
-<section class="vm-section when" aria-labelledby="when-title">
+<section class="vm-section when" id="when-to-go" aria-labelledby="when-title">
   <div class="vm-container">
-    <SectionHead
-      id="when-title"
-      title="When to go"
-      linkLabel="Month by month"
-      linkHref="/seasons"
-    />
+    <div data-reveal>
+      <SectionHead
+        id="when-title"
+        title="When to go"
+        lede="Spring and autumn are the answer. Summer is why the hill station exists, and also when the whole of Shanghai has the same idea."
+        linkLabel="Month by month"
+        linkHref="/seasons"
+      />
+    </div>
 
-    <ul class="months">
-      {
-        MONTHS.map((month) => (
-          <li class={`months__chip months__chip--${month.status}`}>
-            <span aria-hidden="true">{month.m}</span>
-            <span class="sr-only">
-              {month.m}, {MONTH_LEGEND[month.status]}
-            </span>
-          </li>
-        ))
-      }
-    </ul>
+    <div class="year" data-reveal style="--i:1" data-months>
+      <div class="months" role="group" aria-label="Months of the year">
+        {
+          MONTHS.map((month, i) => (
+            <button
+              type="button"
+              class={`chip chip--${month.status}`}
+              data-month={i}
+              data-name={month.name}
+              data-status={MONTH_LEGEND[month.status]}
+              data-season={month.season}
+              aria-pressed={i === now ? 'true' : 'false'}
+              aria-label={`${month.name}, ${MONTH_LEGEND[month.status]}`}
+            >
+              <span aria-hidden="true">{month.m}</span>
+            </button>
+          ))
+        }
+      </div>
+
+      <div class="panel" data-month-panel aria-live="polite">
+        <p class="panel__month" data-panel-name>{MONTHS[now].name}</p>
+        <p class="panel__status" data-panel-status>{MONTH_LEGEND[MONTHS[now].status]}</p>
+        <a class="vm-more" data-panel-link href={SEASON_PAGE[MONTHS[now].season].href}>
+          {SEASON_PAGE[MONTHS[now].season].label}
+        </a>
+      </div>
+    </div>
 
     <ul class="legend">
       {
@@ -51,57 +74,167 @@ const legendOrder = ['good', 'busy', 'quiet'] as const;
   </div>
 </section>
 
+<script>
+  const SEASON: Record<string, { label: string; href: string }> = {
+    spring: { label: 'Spring in Moganshan', href: '/seasons/spring' },
+    summer: { label: 'Summer in Moganshan', href: '/seasons/summer' },
+    autumn: { label: 'Autumn in Moganshan', href: '/seasons/autumn' },
+    winter: { label: 'Winter in Moganshan', href: '/seasons/winter' },
+  };
+
+  const root = document.querySelector<HTMLElement>('[data-months]');
+  const chips = Array.from(root?.querySelectorAll<HTMLButtonElement>('[data-month]') ?? []);
+  const name = root?.querySelector<HTMLElement>('[data-panel-name]');
+  const status = root?.querySelector<HTMLElement>('[data-panel-status]');
+  const link = root?.querySelector<HTMLAnchorElement>('[data-panel-link]');
+  const panel = root?.querySelector<HTMLElement>('[data-month-panel]');
+
+  if (root && chips.length && name && status && link && panel) {
+    const show = (chip: HTMLButtonElement) => {
+      for (const other of chips) other.setAttribute('aria-pressed', String(other === chip));
+      const season = SEASON[chip.dataset.season ?? ''];
+      name.textContent = chip.dataset.name ?? '';
+      status.textContent = chip.dataset.status ?? '';
+      if (season) {
+        link.href = season.href;
+        link.textContent = season.label;
+      }
+      // Restart the panel's settle animation for the new month.
+      panel.classList.remove('is-new');
+      void panel.offsetWidth;
+      panel.classList.add('is-new');
+    };
+
+    for (const chip of chips) {
+      chip.addEventListener('pointerenter', () => show(chip));
+      chip.addEventListener('focus', () => show(chip));
+      chip.addEventListener('click', () => {
+        show(chip);
+        // A tap on a phone both selects and travels; a hover on a desktop
+        // only selects, and the link beside it travels.
+        if (window.matchMedia('(hover: none)').matches) link.click();
+      });
+    }
+  }
+</script>
+
 <style>
-  .sr-only {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    padding: 0;
-    margin: -1px;
-    overflow: hidden;
-    clip-path: inset(50%);
-    white-space: nowrap;
+  .when {
+    background: var(--color-paper);
   }
 
-  .when {
-    background: var(--color-mist);
+  .year {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1.25rem;
+  }
+
+  @media (min-width: 900px) {
+    .year {
+      grid-template-columns: minmax(0, 1fr) 280px;
+      gap: 1.5rem;
+      align-items: stretch;
+    }
   }
 
   .months {
     display: grid;
     grid-template-columns: repeat(12, minmax(0, 1fr));
     gap: 3px;
-    margin: 0;
-    padding: 0;
-    list-style: none;
   }
 
-  .months__chip {
+  .chip {
     display: grid;
     place-items: center;
     /* Height, not padding: twelve equal blocks read as a calendar bar. */
-    min-height: 52px;
+    min-height: 64px;
     padding-inline: 2px;
-    border-radius: 5px;
+    border: 2px solid transparent;
+    border-radius: 8px;
+    font-family: var(--font-body);
     font-size: clamp(0.6875rem, 1.6vw, 0.875rem);
     font-weight: 600;
     letter-spacing: 0.01em;
     text-align: center;
+    cursor: pointer;
+    transition:
+      transform 300ms cubic-bezier(0.16, 1, 0.3, 1),
+      border-color 200ms ease;
   }
 
-  .months__chip--good {
+  @media (min-width: 900px) {
+    .chip {
+      min-height: 100%;
+    }
+  }
+
+  .chip:hover {
+    transform: translateY(-3px);
+  }
+
+  .chip[aria-pressed='true'] {
+    border-color: var(--color-bamboo);
+    transform: translateY(-3px);
+  }
+
+  .chip--good {
     background: color-mix(in srgb, var(--color-leaf) 18%, transparent);
     color: var(--color-leaf);
   }
 
-  .months__chip--busy {
-    background: color-mix(in srgb, var(--color-amber) 22%, transparent);
+  .chip--busy {
+    background: color-mix(in srgb, var(--color-amber) 24%, transparent);
     color: var(--color-ink);
   }
 
-  .months__chip--quiet {
+  .chip--quiet {
     background: var(--color-stone);
     color: var(--color-muted);
+  }
+
+  .panel {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 0.25rem;
+    min-height: 120px;
+    padding: 1.25rem 1.5rem;
+    border-radius: 14px;
+    background: var(--color-bamboo);
+    color: var(--color-mist);
+  }
+
+  .panel.is-new {
+    animation: panel-settle 420ms cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  @keyframes panel-settle {
+    from {
+      opacity: 0.6;
+      transform: translateY(0.35rem);
+    }
+    to {
+      opacity: 1;
+      transform: none;
+    }
+  }
+
+  .panel__month {
+    font-family: var(--font-display);
+    font-size: 1.75rem;
+    font-weight: 500;
+    line-height: 1.1;
+    color: #fff;
+  }
+
+  .panel__status {
+    font-size: 0.9375rem;
+    color: var(--color-mist-muted);
+  }
+
+  .panel .vm-more {
+    margin-top: 0.5rem;
+    color: var(--color-amber);
   }
 
   .legend {
@@ -144,11 +277,22 @@ const legendOrder = ['good', 'busy', 'quiet'] as const;
       gap: 2px;
     }
 
-    .months__chip {
-      min-height: 46px;
-      /* At 320px the row is the constraint, not the glyph. Tighten the tracking
-         before letting anything wrap. */
+    .chip {
+      min-height: 52px;
       letter-spacing: -0.02em;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .chip,
+    .chip:hover,
+    .chip[aria-pressed='true'] {
+      transition: none;
+      transform: none;
+    }
+
+    .panel.is-new {
+      animation: none;
     }
   }
 </style>

@@ -246,13 +246,14 @@ const jsonLd = guideJsonLd(entry, crumbs)
     border-bottom: 1px solid var(--color-line);
   }
 
+  /* Full column width for the title and the standfirst (Cyril, 7 September
+     2026). The old 22ch and 58ch caps wrapped the headline onto three lines
+     beside empty space. */
   .head h1 {
-    max-width: 22ch;
     text-wrap: balance;
   }
 
   .standfirst {
-    max-width: 58ch;
     margin-top: 1rem;
     font-size: clamp(1.0625rem, 1.6vw, 1.25rem);
     line-height: 1.55;

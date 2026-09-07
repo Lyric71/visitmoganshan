@@ -32,7 +32,12 @@
     "stays:cron": "node scripts/stays-cron.mjs",
     "stays:cron:install": "node scripts/install-stays-task.mjs",
     "editorial:briefs": "node editorial/scripts/build-briefs.mjs",
-    "editorial:notify": "node editorial/scripts/notify-publish.mjs"
+    "editorial:notify": "node editorial/scripts/notify-publish.mjs",
+    "news:sweep": "node editorial/scripts/sweep.mjs",
+    "news:approve": "node editorial/scripts/news-approve.mjs",
+    "news:publish": "node editorial/scripts/news-publish.mjs",
+    "news:notify": "node editorial/scripts/news-notify.mjs",
+    "news:test": "node --test editorial/scripts/news-lib.test.mjs"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.9",

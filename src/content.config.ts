@@ -3,6 +3,7 @@ import { glob } from 'astro/loaders';
 // Imported straight from zod: the `z` re-export from astro:content is deprecated.
 import { z } from 'zod';
 import { AUTHOR_IDS, DEFAULT_AUTHOR } from './data/authors';
+import { NEWS_TOPICS } from './data/news-topics';
 
 /**
  * The guide collection: every editorial page on the site apart from the home
@@ -170,4 +171,77 @@ const stays = defineCollection({
   }),
 });
 
-export const collections = { guide, stays };
+/**
+ * The news collection: one file per news item, breaking item or weekly
+ * dispatch, at /journal/news/YYYY/MM/{slug} and /journal/news/dispatch/YYYY-WW.
+ *
+ * Files arrive here through editorial/scripts/news-publish.mjs, which moves an
+ * approved draft out of editorial/news/drafts and refuses anything this schema
+ * would refuse, so the two are kept field for field in step (the draft side is
+ * draftFrontmatterSchema in editorial/scripts/news-lib.mjs). The schema is the
+ * editorial contract: an item without a dated, tiered source or without a
+ * visitor consequence is not an item, and the build says so rather than a
+ * reviewer having to remember to.
+ *
+ * The filename is YYYY-MM-DD-{slug}.md; the slug is the id with the date
+ * prefix removed, and the URL takes its year and month from `published`.
+ */
+const newsSource = z.object({
+  /** Chinese name of the publisher, e.g. 德清新闻网. */
+  name: z.string().min(1),
+  name_en: z.string().min(1),
+  url: z.url(),
+  date: z.coerce.date(),
+  /** Per editorial/sources/source-tiers.md. "own" is our own desk research. */
+  tier: z.enum(['1', '2', '3', '4', 'own']),
+});
+
+const news = defineCollection({
+  loader: glob({ base: './src/content/news', pattern: '**/*.md' }),
+  schema: z
+    .object({
+      title: z.string().min(10).max(120),
+      seo_title: z.string().max(60).optional(),
+      meta_description: z.string().min(40).max(160),
+      /** Under the h1, and the summary on the index and the home page. */
+      standfirst: z.string().min(40).max(320),
+      kind: z.enum(['item', 'breaking', 'dispatch']).default('item'),
+      /** ISO week, dispatches only, e.g. "2026-38". Also the permalink. */
+      week: z.string().regex(/^d{4}-d{2}$/).optional(),
+      topics: z.array(z.enum(NEWS_TOPICS)).min(1).max(4),
+      author: z.enum(AUTHOR_IDS as [string, ...string[]]).default(DEFAULT_AUTHOR),
+      published: z.coerce.date(),
+      last_updated: z.coerce.date(),
+      /** When the thing changed or was announced, which is not the publish date. */
+      event_date: z.coerce.date().optional(),
+      /** One sentence to the visitor. Mandatory: no consequence, no item. */
+      consequence: z.string().min(20).max(400),
+      sources: z.array(newsSource).min(1),
+      /** Evergreen pages whose facts this item changes. */
+      affects_pages: z.array(z.string().startsWith('/')).default([]),
+      /** Dated amendments, printed in full. Never a silent edit. */
+      corrections: z.array(z.object({ date: z.coerce.date(), text: z.string().min(5) })).default([]),
+      image: z.string().startsWith('/images/').optional(),
+      image_alt: z.string().min(8).optional(),
+      /** Where the sweep found it. Kept for the ledger, not printed. */
+      origin: z
+        .object({ source_id: z.string(), url: z.url(), url_hash: z.string().optional() })
+        .optional(),
+    })
+    .superRefine((data, ctx) => {
+      if (data.kind === 'dispatch' && !data.week) {
+        ctx.addIssue({ code: 'custom', path: ['week'], message: 'a dispatch needs its week' });
+      }
+      if (data.kind !== 'dispatch' && !data.event_date) {
+        ctx.addIssue({ code: 'custom', path: ['event_date'], message: 'an item needs its event date' });
+      }
+      if (Boolean(data.image) !== Boolean(data.image_alt)) {
+        ctx.addIssue({ code: 'custom', path: ['image'], message: 'image and image_alt travel together' });
+      }
+      if (data.last_updated.getTime() < data.published.getTime()) {
+        ctx.addIssue({ code: 'custom', path: ['last_updated'], message: 'last_updated precedes published' });
+      }
+    }),
+});
+
+export const collections = { guide, stays, news };

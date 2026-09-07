@@ -1,0 +1,54 @@
+{
+  "$comment": "One record per sweep or publish run, newest last, capped at the last 90. A skipped run (paused, gated) is recorded too: without a trace of the passes that did nothing, a paused agent is indistinguishable from a broken one.",
+  "runs": [
+    {
+      "kind": "sweep",
+      "started": "2026-09-07T03:17:32.145Z",
+      "outcome": "success",
+      "sourcesQueried": 10,
+      "candidates": 22,
+      "newCandidates": 22,
+      "unreachable": [
+        "deqing-gov",
+        "huzhou-cts",
+        "zj-cts"
+      ],
+      "errors": [
+        "deqing-gov: 公告公示: timeout after 12000 ms",
+        "deqing-gov: 德清要闻 A: timeout after 12000 ms",
+        "deqing-gov: 德清要闻 B: timeout after 12000 ms",
+        "deqing-gov: 莫干山镇: timeout after 12000 ms",
+        "deqing-gov: 文广旅体局: timeout after 12000 ms",
+        "huzhou-cts: 工作动态: timeout after 12000 ms",
+        "huzhou-cts: 政策文件: timeout after 12000 ms",
+        "zj-cts: 浙江文旅: fetch failed",
+        "zj-cts: 政务公开: fetch failed",
+        "zj-cts: 浙江省旅游度假区: fetch failed"
+      ],
+      "triage": "editorial/news/triage/2026-09-07.md",
+      "finished": "2026-09-07T03:20:35.822Z",
+      "durationMs": 183677
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-07T03:35:38.109Z",
+      "finished": "2026-09-07T03:35:38.126Z",
+      "outcome": "skipped",
+      "skipReason": "nothing approved"
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-07T03:36:07.801Z",
+      "finished": "2026-09-07T03:36:07.833Z",
+      "outcome": "skipped",
+      "skipReason": "nothing approved"
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-07T04:22:03.827Z",
+      "finished": "2026-09-07T04:22:03.855Z",
+      "outcome": "skipped",
+      "skipReason": "nothing approved"
+    }
+  ]
+}

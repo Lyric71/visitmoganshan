@@ -1,0 +1,93 @@
+---
+/**
+ * The home page motion layer.
+ *
+ * Three things, all driven by IntersectionObserver rather than a scroll
+ * listener, and all switched off under prefers-reduced-motion:
+ *
+ * 1. Reveal. Any element carrying data-reveal fades and rises into place the
+ *    first time it enters the viewport. A group of siblings staggers by the
+ *    --i custom property each one sets. The hidden state is only applied once
+ *    the inline script below has marked <html data-motion>, so with scripting
+ *    off every element is simply visible.
+ *
+ * 2. Count up. A number inside [data-count] runs from zero to its value when
+ *    its block reveals. Used for the at a glance figures, where a figure that
+ *    settles reads as measured rather than typed.
+ *
+ * 3. Draw. Any element with data-draw gets the is-in class on reveal, which
+ *    its own stylesheet uses to run a line or a bar to full length. The route
+ *    diagram in Getting here draws its three legs this way.
+ *
+ * Why motion at all: every block on this page is a list of places to go
+ * next, and a list that arrives in sequence is read in sequence. Nothing here
+ * loops, and nothing moves after it has arrived.
+ */
+---
+
+<script is:inline>
+  // Runs before first paint so the reveal styles can never hide content from
+  // a reader whose scripts do not load. Reduced motion opts out entirely.
+  if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+    document.documentElement.setAttribute('data-motion', '');
+  }
+</script>
+
+<script>
+  const root = document.documentElement;
+
+  if (root.hasAttribute('data-motion') && 'IntersectionObserver' in window) {
+    const ease = (t: number) => 1 - Math.pow(1 - t, 3);
+
+    const countUp = (el: HTMLElement) => {
+      const target = Number(el.dataset.count ?? el.textContent);
+      if (!Number.isFinite(target)) return;
+      const start = performance.now();
+      const duration = 900 + Math.min(target, 200) * 2;
+      const step = (now: number) => {
+        const t = Math.min(1, (now - start) / duration);
+        el.textContent = String(Math.round(ease(t) * target));
+        if (t < 1) requestAnimationFrame(step);
+      };
+      requestAnimationFrame(step);
+    };
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        for (const entry of entries) {
+          if (!entry.isIntersecting) continue;
+          const el = entry.target as HTMLElement;
+          el.classList.add('is-in');
+          el.querySelectorAll<HTMLElement>('[data-count]').forEach(countUp);
+          observer.unobserve(el);
+        }
+      },
+      { rootMargin: '0px 0px -12% 0px', threshold: 0.08 },
+    );
+
+    document
+      .querySelectorAll<HTMLElement>('[data-reveal], [data-draw]')
+      .forEach((el) => observer.observe(el));
+  }
+</script>
+
+<style is:global>
+  [data-motion] [data-reveal] {
+    opacity: 0;
+    transform: translateY(1.5rem);
+    transition:
+      opacity 700ms cubic-bezier(0.16, 1, 0.3, 1),
+      transform 700ms cubic-bezier(0.16, 1, 0.3, 1);
+    transition-delay: calc(var(--i, 0) * 70ms);
+  }
+
+  [data-motion] [data-reveal].is-in {
+    opacity: 1;
+    transform: none;
+  }
+
+  /* Numbers that count up must not jitter the layout while they run. */
+  [data-count] {
+    font-variant-numeric: tabular-nums;
+  }
+</style>

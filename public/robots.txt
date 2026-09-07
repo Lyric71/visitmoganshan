@@ -10,3 +10,6 @@ Disallow: /go/
 Disallow: /admin
 
 Sitemap: https://www.visitmoganshan.com/sitemap-index.xml
+# The Google News sitemap, a rolling 48 hour window of news items. Not in the
+# index above because @astrojs/sitemap writes that index itself.
+Sitemap: https://www.visitmoganshan.com/journal/news/sitemap-news.xml

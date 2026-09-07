@@ -1,0 +1,190 @@
+---
+import { TOPIC_LABEL } from '../data/news-topics';
+import { formatDate } from '../lib/guide';
+import { KIND_LABEL, newsPath, topicPath, weekLabel, type NewsEntry } from '../lib/news';
+
+/**
+ * The news list, shared by the index, the topic pages and the year archives.
+ *
+ * A ruled list rather than cards: a news index is scanned by date, and a date
+ * in a fixed column is what makes that scan work. Each row carries the date,
+ * the headline, the standfirst and the consequence line, so a reader who never
+ * opens the item still leaves with the fact and what it means for them. The
+ * whole row is not one link; the topics are their own.
+ */
+interface Props {
+  entries: NewsEntry[];
+  /** Pass the topic when the list is already filtered to it, to drop the chip. */
+  hideTopic?: string;
+}
+
+const { entries, hideTopic } = Astro.props;
+---
+
+<ol class="list" role="list">
+  {
+    entries.map((entry) => {
+      const { data } = entry;
+      const isDispatch = data.kind === 'dispatch';
+      const badge = isDispatch ? KIND_LABEL.dispatch : data.kind === 'breaking' ? KIND_LABEL.breaking : null;
+      return (
+        <li class="row">
+          <div class="row__when">
+            <time datetime={data.published.toISOString().slice(0, 10)}>{formatDate(data.published)}</time>
+            {badge && <span class:list={['row__badge', data.kind === 'breaking' && 'row__badge--breaking']}>{badge}</span>}
+          </div>
+          <div class="row__text">
+            <h3 class="row__title">
+              <a href={newsPath(entry)}>{isDispatch ? `${data.title}` : data.title}</a>
+            </h3>
+            {isDispatch && data.week && <p class="row__week">{weekLabel(data.week)}</p>}
+            <p class="row__sub">{data.standfirst}</p>
+            <p class="row__consequence">
+              <strong>For a visitor:</strong> {data.consequence}
+            </p>
+            <ul class="row__topics" aria-label="Topics">
+              {data.topics
+                .filter((topic) => topic !== hideTopic)
+                .map((topic) => (
+                  <li>
+                    <a href={topicPath(topic)}>{TOPIC_LABEL[topic]}</a>
+                  </li>
+                ))}
+            </ul>
+          </div>
+        </li>
+      );
+    })
+  }
+</ol>
+
+<style>
+  .list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    border-top: 1px solid var(--color-line);
+  }
+
+  .row {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    gap: 0.5rem 2rem;
+    padding: clamp(1.25rem, 2.5vw, 1.75rem) 0;
+    border-bottom: 1px solid var(--color-line);
+  }
+
+  @media (min-width: 768px) {
+    .row {
+      grid-template-columns: 11rem minmax(0, 1fr);
+    }
+  }
+
+  .row__when {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    align-items: center;
+    font-size: 0.8125rem;
+    color: var(--color-muted);
+    font-variant-numeric: tabular-nums;
+  }
+
+  @media (min-width: 768px) {
+    .row__when {
+      flex-direction: column;
+      align-items: flex-start;
+      padding-top: 0.35rem;
+    }
+  }
+
+  .row__badge {
+    display: inline-block;
+    padding: 0.15rem 0.5rem;
+    border-radius: 999px;
+    background: var(--color-mist);
+    font-size: 0.6875rem;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--color-bamboo);
+  }
+
+  .row__badge--breaking {
+    background: var(--color-amber);
+    color: var(--color-ink);
+  }
+
+  .row__text {
+    min-width: 0;
+  }
+
+  .row__title {
+    margin: 0;
+    font-family: var(--font-display);
+    font-size: clamp(1.125rem, 1.8vw, 1.375rem);
+    font-weight: 500;
+    line-height: 1.3;
+  }
+
+  .row__title a {
+    color: var(--color-bamboo);
+    text-decoration: none;
+  }
+
+  .row__title a:hover {
+    text-decoration: underline;
+    text-underline-offset: 4px;
+  }
+
+  .row__week {
+    margin: 0.2rem 0 0;
+    font-size: 0.8125rem;
+    color: var(--color-muted);
+  }
+
+  .row__sub {
+    margin: 0.5rem 0 0;
+    font-size: 0.9375rem;
+    line-height: 1.55;
+    color: var(--color-ink);
+  }
+
+  .row__consequence {
+    margin: 0.6rem 0 0;
+    font-size: 0.9375rem;
+    line-height: 1.55;
+    color: var(--color-muted);
+  }
+
+  .row__consequence strong {
+    color: var(--color-ink);
+    font-weight: 600;
+  }
+
+  .row__topics {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin: 0.75rem 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .row__topics a {
+    display: inline-block;
+    padding: 0.15rem 0.55rem;
+    border: 1px solid var(--color-line);
+    border-radius: 999px;
+    font-size: 0.6875rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--color-leaf);
+    text-decoration: none;
+  }
+
+  .row__topics a:hover {
+    border-color: var(--color-leaf);
+  }
+</style>

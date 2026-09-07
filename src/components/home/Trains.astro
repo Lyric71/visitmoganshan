@@ -1,0 +1,273 @@
+---
+import SectionHead from '../SectionHead.astro';
+import { goPath } from '../../lib/stays';
+
+/**
+ * Train tickets.
+ *
+ * Rail is the one thing every visitor books before they arrive, and the two
+ * searches almost all of them run are Shanghai to Deqing and Hangzhou to
+ * Deqing. Each route gets a figure, a fare band and a button to the live
+ * timetable through the tracked /go/ slugs in astro.config.mjs, so the home
+ * page sends a reader to book without pasting a partner URL into the markup.
+ *
+ * The station warning is the most valuable sentence on the page. A railway
+ * station called Moganshan exists, it is on a different line, and it does not
+ * serve the mountain. Every figure here comes from the by train article and
+ * carries that article's checked date; when the article moves, this block
+ * moves with it.
+ *
+ * Dark band, on purpose. This sits between two paper sections and is the one
+ * transactional block on the page, so it gets the contrast the hero has.
+ */
+const CHECKED = '5 August 2026';
+
+const ROUTES = [
+  {
+    from: 'Shanghai Hongqiao',
+    to: 'Deqing',
+    time: '63 to 80 min',
+    services: '13 direct trains a day',
+    fare: 'RMB 61 to 110, second class',
+    go: goPath('trains-shanghai-deqing'),
+    guide: { label: 'The Shanghai rail guide', href: '/getting-here/from-shanghai/by-train' },
+  },
+  {
+    from: 'Hangzhou East',
+    to: 'Deqing',
+    time: '13 to 17 min',
+    services: '16 trains a day',
+    fare: 'RMB 16 to 67, second class',
+    go: goPath('trains-hangzhou-deqing'),
+    guide: { label: 'The Hangzhou guide', href: '/getting-here/from-hangzhou' },
+  },
+];
+
+const AFTER = [
+  {
+    title: 'Deqing, not Moganshan',
+    text: 'Moganshan railway station is on another line and does not serve the mountain. Set the destination to Deqing.',
+    href: '/getting-here/deqing-station',
+  },
+  {
+    title: 'Book on your passport',
+    text: 'Tickets are tied to the document used to buy them. The name and number must match the passport you carry that day.',
+    href: '/getting-here/from-shanghai/by-train',
+  },
+  {
+    title: 'The last 30 km',
+    text: 'The Y1 shuttle from Deqing station runs seven times a day for RMB 10, with a gap from 10:40 to 13:00. A taxi is about RMB 100.',
+    href: '/getting-here/deqing-station',
+  },
+];
+---
+
+<section class="vm-section trains" aria-labelledby="trains-title">
+  <div class="vm-container">
+    <div data-reveal>
+      <SectionHead
+        id="trains-title"
+        kicker="Train tickets"
+        title="Book the train to Deqing"
+        lede="Rail is the one thing every visitor books before arriving. Two routes, live times, and the three things that go wrong."
+        linkLabel="Every way in"
+        linkHref="/getting-here"
+        reversed
+      />
+    </div>
+
+    <ul class="routes">
+      {
+        ROUTES.map((route, i) => (
+          <li class="route" style={`--i:${i + 1}`} data-reveal>
+            <p class="route__from">
+              {route.from} <span aria-hidden="true">→</span>
+              <span class="vm-sr-only">to</span> {route.to}
+            </p>
+            <p class="route__time">{route.time}</p>
+            <p class="route__meta">{route.services}</p>
+            <p class="route__meta">{route.fare}</p>
+            <div class="route__actions">
+              <a
+                class="vm-btn"
+                href={route.go}
+                rel="sponsored noopener"
+                target="_blank"
+                aria-label={`Check live times and book ${route.from} to ${route.to} on Trip.com, opens in a new tab`}
+              >
+                Check times and book
+              </a>
+              <a class="route__guide" href={route.guide.href}>{route.guide.label}</a>
+            </div>
+          </li>
+        ))
+      }
+    </ul>
+
+    <ul class="after" data-reveal style="--i:3">
+      {
+        AFTER.map((item) => (
+          <li>
+            <a href={item.href}>
+              <h3>{item.title}</h3>
+              <p>{item.text}</p>
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+
+    <p class="trains__note">
+      Times, service counts and fares as checked on {CHECKED}. Timetables change with every
+      revision, so read the live list before you pick a train. Booking links go to Trip.com and
+      earn this site a commission at no cost to you.
+    </p>
+  </div>
+</section>
+
+<style>
+  .trains {
+    background: var(--color-bamboo);
+    color: var(--color-mist);
+  }
+
+  .routes {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  @media (min-width: 720px) {
+    .routes {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 1.25rem;
+    }
+  }
+
+  .route {
+    display: flex;
+    flex-direction: column;
+    padding: 1.5rem 1.5rem 1.625rem;
+    border: 1px solid color-mix(in srgb, var(--color-mist) 28%, transparent);
+    border-radius: 14px;
+    background: color-mix(in srgb, var(--color-mist) 6%, transparent);
+    transition: background-color 200ms ease;
+  }
+
+  .route:hover {
+    background: color-mix(in srgb, var(--color-mist) 10%, transparent);
+  }
+
+  .route__from {
+    font-size: 0.9375rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    color: var(--color-mist);
+  }
+
+  .route__time {
+    margin-top: 0.5rem;
+    font-family: var(--font-display);
+    font-size: clamp(2rem, 4vw, 2.75rem);
+    font-weight: 500;
+    line-height: 1.05;
+    color: var(--color-amber);
+    font-variant-numeric: tabular-nums;
+  }
+
+  .route__meta {
+    margin-top: 0.35rem;
+    font-size: 0.9375rem;
+    line-height: 1.5;
+    color: var(--color-mist-muted);
+  }
+
+  .route__meta + .route__meta {
+    margin-top: 0.1rem;
+  }
+
+  .route__actions {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.75rem 1.25rem;
+    margin-top: 1.25rem;
+  }
+
+  .route__guide {
+    font-size: 0.9375rem;
+    font-weight: 600;
+    color: var(--color-mist);
+    text-underline-offset: 4px;
+  }
+
+  /* Three flat notes under the two routes, hairlines rather than more boxes. */
+  .after {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    margin: clamp(1.75rem, 4vw, 2.5rem) 0 0;
+    padding: 0;
+    list-style: none;
+    border-top: 1px solid color-mix(in srgb, var(--color-mist) 28%, transparent);
+  }
+
+  @media (min-width: 720px) {
+    .after {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+  }
+
+  .after li {
+    border-bottom: 1px solid color-mix(in srgb, var(--color-mist) 28%, transparent);
+  }
+
+  .after a {
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+    height: 100%;
+    padding: 1.25rem 1.25rem 1.25rem 0;
+    text-decoration: none;
+    color: inherit;
+  }
+
+  @media (min-width: 720px) {
+    .after li + li {
+      border-left: 1px solid color-mix(in srgb, var(--color-mist) 28%, transparent);
+    }
+
+    .after li + li a {
+      padding-left: 1.5rem;
+    }
+  }
+
+  .after a:hover h3 {
+    text-decoration: underline;
+    text-underline-offset: 4px;
+  }
+
+  .after h3 {
+    font-family: var(--font-display);
+    font-size: 1.0625rem;
+    font-weight: 500;
+    line-height: 1.35;
+    color: var(--color-mist);
+  }
+
+  .after p {
+    font-size: 0.9375rem;
+    line-height: 1.55;
+    color: var(--color-mist-muted);
+  }
+
+  .trains__note {
+    max-width: 68ch;
+    margin-top: 1.5rem;
+    font-size: 0.8125rem;
+    line-height: 1.55;
+    color: var(--color-mist-muted);
+  }
+</style>

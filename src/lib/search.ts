@@ -1,4 +1,6 @@
 import { getGuideEntries, sectionLabel, toPath } from './guide';
+import { TOPIC_LABEL } from '../data/news-topics';
+import { getNewsEntries, newsPath } from './news';
 
 /**
  * The search index.
@@ -42,6 +44,19 @@ const BODY_CHARS = 6000;
 
 export async function buildSearchIndex(): Promise<SearchDoc[]> {
   const entries = await getGuideEntries();
+  const news = await getNewsEntries();
+
+  // News items are short, so the whole body fits under the cap; the
+  // consequence line is appended because it is the sentence a searcher for
+  // "shuttle" or "visa" most wants to see in a snippet.
+  const newsDocs: SearchDoc[] = news.map((entry) => ({
+    t: entry.data.title,
+    u: newsPath(entry),
+    e: entry.data.standfirst,
+    s: 'News',
+    k: entry.data.topics.map((topic) => TOPIC_LABEL[topic]).join(' '),
+    b: `${toPlainText(entry.body ?? '')} ${entry.data.consequence}`.slice(0, BODY_CHARS),
+  }));
 
   return entries
     .map((entry) => {
@@ -55,6 +70,7 @@ export async function buildSearchIndex(): Promise<SearchDoc[]> {
         b: toPlainText(entry.body ?? '').slice(0, BODY_CHARS),
       };
     })
+    .concat(newsDocs)
     .sort((a, b) => a.u.localeCompare(b.u));
 }
 

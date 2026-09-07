@@ -7,17 +7,22 @@
  * Run from the repo root:
  *
  *   node editorial/scripts/notify-publish.mjs --slug <slug> --title "<title>"
- *        --url </path/> [--to <email>] [--build passed|failed]
+ *        [--url </path/>] [--to <email>] [--build passed|failed]
  *        [--log editorial/logs/YYYY-MM-DD.md] [--todo "<text>"]... [--note "<text>"]
  *
- * The site is English only, so there is one live URL. --url is the frontmatter
- * `url` of the published guide file (or the news page for a dispatch).
+ * The site is English only, so there is one live URL. It is read from the
+ * frontmatter `url` of the guide file in src/content/guide whose url ends in
+ * the slug, so --url is normally not needed. Do not pass --url from Git Bash:
+ * MSYS rewrites any argument that starts with "/" into a Windows path
+ * ("C:/Program Files/Git/plan/..."), which is exactly what happened on the
+ * first publish. If --url is given anyway, that mangling is repaired here.
  *
  * RESEND_API_KEY is read from .env.local / .env in the current directory or
  * from the environment. Pass --dry-run to print the email without sending.
  */
 
-import { existsSync, readFileSync } from 'node:fs';
+import { existsSync, readFileSync, readdirSync } from 'node:fs';
+import path from 'node:path';
 
 const SITE = 'https://www.visitmoganshan.com';
 // Resend testing mode delivers only to the account owner's own address. Once
@@ -59,6 +64,30 @@ function parseArgs(argv) {
   return out;
 }
 
+/** The frontmatter url of the guide file whose url ends in the slug. */
+function urlFromGuide(slug) {
+  const dir = path.join('src', 'content', 'guide');
+  if (!existsSync(dir)) return null;
+  for (const file of readdirSync(dir)) {
+    if (!file.endsWith('.md')) continue;
+    const m = readFileSync(path.join(dir, file), 'utf8').match(/^url:\s*(\S+)/m);
+    if (m && m[1].replace(/\/$/, '').endsWith(`/${slug}`)) return m[1];
+  }
+  return null;
+}
+
+/** Undo the MSYS path rewrite: keep only the part from the first site section. */
+function repairUrl(u) {
+  if (!u) return u;
+  if (/^[A-Za-z]:[\\/]/.test(u)) {
+    const m = u
+      .replace(/\\/g, '/')
+      .match(/\/(plan|moganshan|things-to-do|where-to-stay|getting-here|itineraries|seasons|groups|journal|about)(\/.*)?$/);
+    return m ? m[0] : u;
+  }
+  return u;
+}
+
 function esc(s) {
   return String(s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]);
 }
@@ -68,12 +97,13 @@ async function main() {
   const args = parseArgs(process.argv.slice(2));
   if (!args.slug || !args.title) {
     console.error(
-      'Usage: node editorial/scripts/notify-publish.mjs --slug <slug> --title "<title>" --url </path/> [options]',
+      'Usage: node editorial/scripts/notify-publish.mjs --slug <slug> --title "<title>" [options]',
     );
     process.exit(2);
   }
   const to = args.to || DEFAULT_TO;
-  const live = args.url ? `${SITE}${args.url.replace(/\/$/, '')}` : 'not reported';
+  const url = urlFromGuide(args.slug) || repairUrl(args.url);
+  const live = url ? `${SITE}${url.replace(/\/$/, '')}` : 'not reported';
   const when = new Date().toLocaleString('en-GB', { timeZone: 'Asia/Shanghai', hour12: false });
 
   const lines = [
@@ -98,7 +128,7 @@ async function main() {
   <table style="width:100%;border-collapse:collapse;font-size:14px;">
     ${row('Slug', esc(args.slug))}
     ${row('Time (Shanghai)', esc(when))}
-    ${row('Live URL', args.url ? `<a href="${live}" style="color:#3E6B48;">${esc(live)}</a>` : 'not reported')}
+    ${row('Live URL', url ? `<a href="${live}" style="color:#3E6B48;">${esc(live)}</a>` : 'not reported')}
     ${row('Build', esc(args.build || 'not reported'))}
     ${row('Run log', esc(args.log || 'not reported'))}
   </table>

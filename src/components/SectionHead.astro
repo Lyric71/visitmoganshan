@@ -1,28 +1,35 @@
 ---
 /**
- * Section heading with a right-aligned "more" link.
+ * Section heading with a right-aligned "more" link and an optional lede.
  *
  * The heading is always an h2 and always carries the id that its enclosing
  * <section aria-labelledby> points at, so the page outline stays intact for
  * screen readers and for the outline Google builds from it.
+ *
+ * The lede stacks under the heading rather than floating beside it: one
+ * sentence, at most two, that says what the block is for. It is what turns a
+ * row of cards into a spread with an argument.
  */
 interface Props {
   id: string;
   title: string;
   kicker?: string;
+  /** One or two sentences under the heading. */
+  lede?: string;
   linkLabel?: string;
   linkHref?: string;
   /** Mist type on a dark band. */
   reversed?: boolean;
 }
 
-const { id, title, kicker, linkLabel, linkHref, reversed = false } = Astro.props;
+const { id, title, kicker, lede, linkLabel, linkHref, reversed = false } = Astro.props;
 ---
 
 <div class:list={['head', reversed && 'head--reversed']}>
-  <div>
+  <div class="head__text">
     {kicker && <p class:list={['vm-kicker', reversed && 'vm-kicker--reversed']}>{kicker}</p>}
     <h2 id={id}>{title}</h2>
+    {lede && <p class="head__lede">{lede}</p>}
   </div>
   {
     linkHref && linkLabel && (
@@ -37,17 +44,35 @@ const { id, title, kicker, linkLabel, linkHref, reversed = false } = Astro.props
   .head {
     display: flex;
     flex-wrap: wrap;
-    align-items: baseline;
+    align-items: flex-end;
     justify-content: space-between;
     gap: 0.25rem 2rem;
     margin-bottom: clamp(1.75rem, 3vw, 2.5rem);
   }
 
   .head h2 {
+    font-size: clamp(1.75rem, 3.4vw, 2.5rem);
+    letter-spacing: -0.01em;
     text-wrap: balance;
+  }
+
+  .head__text {
+    max-width: 62ch;
+  }
+
+  .head__lede {
+    margin-top: 0.75rem;
+    font-size: clamp(1rem, 1.4vw, 1.125rem);
+    line-height: 1.55;
+    color: var(--color-muted);
+    text-wrap: pretty;
   }
 
   .head--reversed h2 {
     color: var(--color-mist);
+  }
+
+  .head--reversed .head__lede {
+    color: var(--color-mist-muted);
   }
 </style>

@@ -1,0 +1,1 @@
+# Sweep requests from the dashboard land here as JSON files and are removed by the machine that handles them (run-news.ps1 -Mode poll).

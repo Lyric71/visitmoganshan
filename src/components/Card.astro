@@ -88,6 +88,27 @@ const dims = { width: Math.round(w * 400), height: Math.round(h * 400) };
 </a>
 
 <style>
+  /* The picture opens slightly under the pointer. The card itself stays
+     still: the border darkening is the click affordance, the picture moving
+     is the invitation. */
+  .vm-card__media img {
+    transition: transform 900ms cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  .vm-card:hover .vm-card__media img {
+    transform: scale(1.05);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .vm-card__media img {
+      transition: none;
+    }
+
+    .vm-card:hover .vm-card__media img {
+      transform: none;
+    }
+  }
+
   .card__meta {
     margin-top: 0.4rem;
     font-size: 0.8125rem;

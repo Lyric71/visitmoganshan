@@ -1,0 +1,240 @@
+---
+import { articlesBySection } from '../../lib/home';
+import { SECTION_LABELS } from '../../lib/guide';
+
+/**
+ * The whole guide, section by section: every guide page on the site, listed
+ * by its section in nav order, with the landing page first.
+ *
+ * Sixty pages today and one more every three days, all read from the
+ * collection, so the block is never out of date and never has to be edited.
+ * Each section is a native <details>: on a phone the eight sections collapse
+ * to eight headings the reader opens as wanted, and from 1024px the script
+ * opens them all and the summaries stop being controls, so the block reads
+ * as four columns of links. Every link is in the HTML either way.
+ */
+const sections = await articlesBySection();
+const ordered = [...sections].sort(
+  (a, b) => SECTION_LABELS.indexOf(a.label) - SECTION_LABELS.indexOf(b.label),
+);
+const total = ordered.reduce((sum, section) => sum + section.entries.length, 0);
+---
+
+<section class="vm-section index" aria-labelledby="index-title">
+  <div class="vm-container">
+    <div class="head" data-reveal>
+      <h2 id="index-title">Every page, all {total} of them</h2>
+      <a class="vm-more" href="/search">Search the site</a>
+    </div>
+
+    <div class="columns" data-index>
+      {
+        ordered.map((section, i) => (
+          <details class="col" style={`--i:${i}`} data-reveal>
+            <summary class="col__title">
+              <a href={section.href}>{section.label}</a>
+              <span class="col__count">{section.entries.length}</span>
+              <span class="col__mark" aria-hidden="true" />
+            </summary>
+            <ul class="col__list">
+              {section.entries.map((entry) => (
+                <li>
+                  <a href={entry.data.url.replace(/\/+$/, '')}>{entry.data.title}</a>
+                </li>
+              ))}
+            </ul>
+          </details>
+        ))
+      }
+    </div>
+  </div>
+</section>
+
+<script>
+  // Wide screens show all eight columns open; narrow ones collapse them. The
+  // switch is live, so a rotated tablet gets the right state either way.
+  const cols = Array.from(document.querySelectorAll<HTMLDetailsElement>('[data-index] details'));
+  const wide = window.matchMedia('(min-width: 1024px)');
+  const apply = () => {
+    for (const col of cols) col.open = wide.matches;
+  };
+  apply();
+  wide.addEventListener('change', apply);
+
+  // A click on the section name inside the summary should travel, not toggle.
+  for (const col of cols) {
+    col.querySelector('summary a')?.addEventListener('click', (event) => event.stopPropagation());
+  }
+</script>
+
+<style>
+  .index {
+    border-top: 1px solid var(--color-line);
+  }
+
+  .head {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 0.25rem 2rem;
+    margin-bottom: clamp(1.5rem, 3vw, 2.25rem);
+  }
+
+  .head h2 {
+    font-size: clamp(1.75rem, 3.4vw, 2.5rem);
+    letter-spacing: -0.01em;
+  }
+
+  .columns {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    gap: 0 2.5rem;
+  }
+
+  @media (min-width: 640px) {
+    .columns {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .columns {
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 2.5rem;
+    }
+  }
+
+  .col {
+    border-bottom: 1px solid var(--color-line);
+  }
+
+  @media (min-width: 1024px) {
+    .col {
+      border-bottom: 0;
+    }
+  }
+
+  .col__title {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    min-height: 56px;
+    padding: 0.5rem 0;
+    cursor: pointer;
+    list-style: none;
+  }
+
+  .col__title::-webkit-details-marker {
+    display: none;
+  }
+
+  .col__title a {
+    font-family: var(--font-display);
+    font-size: 1.1875rem;
+    font-weight: 500;
+    color: var(--color-bamboo);
+    text-decoration: none;
+  }
+
+  .col__title a:hover {
+    text-decoration: underline;
+    text-underline-offset: 4px;
+  }
+
+  .col__count {
+    padding: 0.1rem 0.5rem;
+    border-radius: 999px;
+    background: var(--color-mist);
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: var(--color-ink);
+    font-variant-numeric: tabular-nums;
+  }
+
+  .col__mark {
+    position: relative;
+    margin-left: auto;
+    width: 10px;
+    height: 10px;
+    border-right: 2px solid var(--color-muted);
+    border-bottom: 2px solid var(--color-muted);
+    transform: rotate(45deg);
+    transition: transform 300ms cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  .col[open] .col__mark {
+    transform: rotate(225deg);
+  }
+
+  @media (min-width: 1024px) {
+    .col__title {
+      min-height: 0;
+      padding: 0 0 0.6rem;
+      border-bottom: 1px solid var(--color-line);
+      cursor: default;
+      pointer-events: none;
+    }
+
+    .col__title a {
+      pointer-events: auto;
+    }
+
+    .col__mark {
+      display: none;
+    }
+  }
+
+  .col__list {
+    margin: 0;
+    padding: 0.25rem 0 1.25rem;
+    list-style: none;
+    animation: col-in 320ms cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  @keyframes col-in {
+    from {
+      opacity: 0;
+      transform: translateY(-0.3rem);
+    }
+    to {
+      opacity: 1;
+      transform: none;
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .col__list {
+      padding: 0.75rem 0 0;
+      animation: none;
+    }
+  }
+
+  .col__list li + li {
+    margin-top: 0.5rem;
+  }
+
+  .col__list a {
+    font-size: 0.9375rem;
+    line-height: 1.5;
+    color: var(--color-ink);
+    text-decoration: none;
+    text-wrap: pretty;
+  }
+
+  .col__list a:hover {
+    color: var(--color-bamboo);
+    text-decoration: underline;
+    text-underline-offset: 4px;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .col__mark {
+      transition: none;
+    }
+
+    .col__list {
+      animation: none;
+    }
+  }
+</style>

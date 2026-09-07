@@ -1,0 +1,32 @@
+---
+import { render } from 'astro:content';
+import NewsArticle from '../../../../../layouts/NewsArticle.astro';
+import { getNewsEntries, newsSlug } from '../../../../../lib/news';
+
+/**
+ * /journal/news/YYYY/MM/{slug}
+ *
+ * One news item, one permalink. The year and month come from `published`, so
+ * the URL is settled the day the item goes live and never moves; a correction
+ * is added to the item, not published as a new one.
+ */
+export async function getStaticPaths() {
+  const all = await getNewsEntries();
+  return all
+    .filter((entry) => entry.data.kind !== 'dispatch')
+    .map((entry) => {
+      const iso = entry.data.published.toISOString();
+      return {
+        params: { year: iso.slice(0, 4), month: iso.slice(5, 7), slug: newsSlug(entry) },
+        props: { entry, more: all.filter((other) => other.id !== entry.id).slice(0, 6) },
+      };
+    });
+}
+
+const { entry, more } = Astro.props;
+const { Content } = await render(entry);
+---
+
+<NewsArticle entry={entry} more={more}>
+  <Content />
+</NewsArticle>

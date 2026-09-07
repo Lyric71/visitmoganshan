@@ -1,0 +1,29 @@
+---
+import { render } from 'astro:content';
+import NewsArticle from '../../../../layouts/NewsArticle.astro';
+import { getNewsEntries } from '../../../../lib/news';
+
+/**
+ * /journal/news/dispatch/YYYY-WW
+ *
+ * The weekly dispatch, one per Thursday from 17 September 2026, at the URL the
+ * editorial schedule has carried since the plan was written. A week with
+ * nothing material is still a dispatch, and says so.
+ */
+export async function getStaticPaths() {
+  const all = await getNewsEntries();
+  return all
+    .filter((entry) => entry.data.kind === 'dispatch' && entry.data.week)
+    .map((entry) => ({
+      params: { week: entry.data.week },
+      props: { entry, more: all.filter((other) => other.id !== entry.id).slice(0, 6) },
+    }));
+}
+
+const { entry, more } = Astro.props;
+const { Content } = await render(entry);
+---
+
+<NewsArticle entry={entry} more={more}>
+  <Content />
+</NewsArticle>

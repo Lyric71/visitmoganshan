@@ -1,31 +1,63 @@
 ---
 import SectionHead from '../SectionHead.astro';
-import { ITINERARIES } from '../../data/itineraries';
 
 /**
- * 6.11 Ready-made itineraries.
+ * Ready made itineraries, as three rows with the length of the trip set
+ * large. The number is the thing a reader is choosing between, so it leads.
  *
- * Card one says "and why we would not" and it stays that way. The day trip is
- * the page where length of stay gets won, and the honest answer about a five
- * hour round trip is what earns the second night.
+ * Row one says "and why we would not" and it stays that way. The day trip
+ * is the page where length of stay gets won, and the honest answer about a
+ * five hour round trip is what earns the second night.
  */
+const ITINERARIES = [
+  {
+    length: '1',
+    unit: 'day',
+    title: 'One day from Shanghai',
+    sub: 'and why we would not',
+    href: '/getting-here/day-trip',
+  },
+  {
+    length: '2',
+    unit: 'nights',
+    title: 'A weekend, two nights',
+    sub: 'the one most people want',
+    href: '/itineraries/weekend-from-shanghai',
+  },
+  {
+    length: '5',
+    unit: 'days',
+    title: 'Shanghai, Hangzhou, Moganshan',
+    sub: 'the three together, in the right order',
+    href: '/itineraries/shanghai-hangzhou-moganshan',
+  },
+];
 ---
 
 <section class="vm-section" aria-labelledby="itineraries-title">
   <div class="vm-container">
-    <SectionHead
-      id="itineraries-title"
-      title="Ready-made itineraries"
-      linkLabel="All itineraries"
-      linkHref="/itineraries"
-    />
-    <ol class="itins">
+    <div data-reveal>
+      <SectionHead
+        id="itineraries-title"
+        title="How long to come for"
+        linkLabel="All itineraries"
+        linkHref="/itineraries"
+      />
+    </div>
+    <ol class="rows">
       {
-        ITINERARIES.map((itinerary) => (
-          <li>
-            <a href={itinerary.href}>
-              <h3>{itinerary.title}</h3>
-              <p>{itinerary.sub}</p>
+        ITINERARIES.map((itinerary, i) => (
+          <li style={`--i:${i}`} data-reveal>
+            <a class="row" href={itinerary.href}>
+              <span class="row__length">
+                <span class="row__number">{itinerary.length}</span>
+                <span class="row__unit">{itinerary.unit}</span>
+              </span>
+              <span class="row__text">
+                <span class="row__title">{itinerary.title}</span>
+                <span class="row__sub">{itinerary.sub}</span>
+              </span>
+              <span class="row__arrow" aria-hidden="true">→</span>
             </a>
           </li>
         ))
@@ -35,43 +67,100 @@ import { ITINERARIES } from '../../data/itineraries';
 </section>
 
 <style>
-  .itins {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr));
-    gap: 1rem;
+  .rows {
     margin: 0;
     padding: 0;
     list-style: none;
-    counter-reset: none;
+    border-top: 1px solid var(--color-line);
   }
 
-  .itins a {
+  .rows li {
+    border-bottom: 1px solid var(--color-line);
+  }
+
+  .row {
+    position: relative;
+    display: grid;
+    grid-template-columns: 5.5rem minmax(0, 1fr) auto;
+    align-items: center;
+    gap: 1rem 1.5rem;
+    padding: 1.25rem 0.5rem;
+    text-decoration: none;
+    transition: background-color 200ms ease;
+  }
+
+  @media (min-width: 720px) {
+    .row {
+      grid-template-columns: 8rem minmax(0, 1fr) auto;
+      padding: 1.5rem 1rem;
+    }
+  }
+
+  .row:hover {
+    background: var(--color-mist-50);
+  }
+
+  .row__length {
+    display: flex;
+    align-items: baseline;
+    gap: 0.35rem;
+  }
+
+  .row__number {
+    font-family: var(--font-display);
+    font-size: clamp(2.5rem, 5vw, 3.75rem);
+    font-weight: 500;
+    line-height: 0.9;
+    color: var(--color-bamboo);
+    letter-spacing: -0.02em;
+  }
+
+  .row__unit {
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: var(--color-muted);
+  }
+
+  .row__text {
     display: flex;
     flex-direction: column;
-    height: 100%;
-    padding: 1.5rem 1.25rem;
-    background: var(--color-stone);
-    border-radius: 10px;
-    text-decoration: none;
-    transition: background-color 180ms ease;
+    gap: 0.2rem;
   }
 
-  .itins a:hover {
-    background: color-mix(in srgb, var(--color-stone) 82%, var(--color-bamboo));
-  }
-
-  .itins h3 {
+  .row__title {
     font-family: var(--font-display);
-    font-size: 1.1875rem;
+    font-size: clamp(1.25rem, 2.2vw, 1.625rem);
     font-weight: 500;
-    line-height: 1.3;
+    line-height: 1.2;
+    color: var(--color-bamboo);
     text-wrap: balance;
   }
 
-  .itins p {
-    margin-top: 0.3rem;
+  .row__sub {
     font-size: 0.9375rem;
-    line-height: 1.5;
-    color: color-mix(in srgb, var(--color-ink) 68%, transparent);
+    color: var(--color-muted);
+  }
+
+  .row__arrow {
+    font-size: 1.5rem;
+    color: var(--color-bamboo);
+    transform: translateX(-0.5rem);
+    opacity: 0.35;
+    transition:
+      transform 400ms cubic-bezier(0.16, 1, 0.3, 1),
+      opacity 200ms ease;
+  }
+
+  .row:hover .row__arrow {
+    transform: none;
+    opacity: 1;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .row__arrow {
+      transition: none;
+      transform: none;
+      opacity: 1;
+    }
   }
 </style>

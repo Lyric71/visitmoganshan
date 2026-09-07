@@ -93,7 +93,9 @@ continues when each step passes:
    `feat(news): publish dispatch <week>`), `git push origin main`. Vercel
    deploys from main, so the push is what puts the piece live.
 9. `node editorial/scripts/notify-publish.mjs` with the slug, the title, the
-   URL, the build result, the log path and the commit hash in `--note`.
+   build result, the log path and the commit hash in `--note`. Never
+   `--url`: the script reads it from the guide file, and Git Bash mangles a
+   leading slash.
 
 A failed audit, date check, `astro check` or build means no commit, no push,
 the row stays at `image_ready`, and the email reports the failure with the
@@ -199,6 +201,13 @@ and the full model are all here, and a cloud routine has none of them.
 |---|---|---|---|
 | VisitMoganshan Editorial Draft | every day 19:30 | `run-daily.ps1 -Mode draft`: steps 0 to 3 for every row due tomorrow, stops at `image_ready` | enabled |
 | VisitMoganshan Editorial Publish | every day 06:00 | `run-daily.ps1 -Mode publish`: publishes every `image_ready` row whose date has arrived, builds, commits, pushes, emails | enabled |
+| VisitMoganshan News Sweep | every day 08:00 | `run-news.ps1 -Mode sweep`: the crawler, then a Claude run that drafts at most three news items into `news/drafts/` and emails the list | enabled |
+| VisitMoganshan News Publish | every day 12:00 | `run-news.ps1 -Mode publish`: a script, no model; moves every approved draft in, checks, builds, commits, pushes, emails | enabled |
+| VisitMoganshan News Poll | every 15 minutes | `run-news.ps1 -Mode poll`: pulls main, and when the dashboard's "Run the sweep now" button has left a request, runs the sweep | enabled |
+
+The news layer has its own runbook in `news/CLAUDE.md`. Approve a draft
+with `npm run news:approve -- <slug>`, reject with `--reject "reason"`,
+pause with `"paused": true` in `news/settings.json`.
 
 Both tasks read `schedule.csv` first and exit in a second when nothing is
 due, so the daily trigger costs nothing on the two evenings in three with no

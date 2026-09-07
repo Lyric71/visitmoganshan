@@ -2,126 +2,212 @@
 import SectionHead from '../SectionHead.astro';
 
 /**
- * 6.13 Before you come. Four flat cards, no images.
+ * Before you come: four questions as an accordion, one open at a time.
  *
- * The last card asks whether the place is worth visiting and links to an honest
- * answer. Keeping that question on the home page rather than burying it is the
- * cheapest credibility the site will ever buy, and it is a real query with real
- * volume that no incumbent answers straight.
+ * Each row is a native <details>, so it opens with no script and is read by
+ * a crawler in full. The script only closes the others when one opens and
+ * lets the panel ease to its height. The last question asks whether the
+ * place is worth visiting and links to an honest answer: keeping that on the
+ * home page is the cheapest credibility the site will ever buy.
  */
 const ITEMS = [
   {
-    title: 'Visa-free entry to China',
-    sub: '50 countries, plus the 240-hour transit rule',
+    q: 'Do I need a visa?',
+    a: 'Fifty countries enter visa free for 30 days, and most others can use the 240 hour transit rule. American passports are not on the list.',
+    label: 'Visa free entry to China',
     href: '/plan/china-visa-free-entry',
   },
   {
-    title: 'Paying for things',
-    sub: 'Alipay and WeChat with a foreign card',
+    q: 'How do I pay for things?',
+    a: 'Alipay and WeChat Pay both take a foreign card now. Cash still works, and a small guesthouse may prefer it.',
+    label: 'Paying for things',
     href: '/plan/money-and-payments',
   },
   {
-    title: 'Tickets and entry',
-    sub: 'what the scenic area actually costs',
+    q: 'What does the mountain cost to enter?',
+    a: 'The scenic area sells a ticket, the villages below it do not, and the sources disagree about the price. What we could confirm is on the page.',
+    label: 'Tickets and entry',
     href: '/plan/tickets-and-entry',
   },
   {
-    title: 'Is it worth visiting?',
-    sub: 'an honest answer',
+    q: 'Is it worth visiting?',
+    a: 'For two nights from Shanghai, yes. For a day trip, honestly, not really. The page says why.',
+    label: 'An honest answer',
     href: '/plan/is-moganshan-worth-visiting',
   },
 ];
 ---
 
-<section class="vm-section" aria-labelledby="before-title">
-  <div class="vm-container">
-    <SectionHead
-      id="before-title"
-      title="Before you come"
-      linkLabel="Plan your trip"
-      linkHref="/plan"
-    />
-    <ul class="flat">
+<section class="vm-section before" aria-labelledby="before-title">
+  <div class="vm-container before__inner">
+    <div class="before__head" data-reveal>
+      <SectionHead
+        id="before-title"
+        title="Before you come"
+        lede="The four questions every first visit asks, answered in a sentence, with the full page one tap away."
+        linkLabel="Plan your trip"
+        linkHref="/plan"
+      />
+    </div>
+
+    <div class="faq" data-faq>
       {
-        ITEMS.map((item) => (
-          <li>
-            <a href={item.href}>
-              <h3>{item.title}</h3>
-              <p>{item.sub}</p>
-            </a>
-          </li>
+        ITEMS.map((item, i) => (
+          <details class="faq__item" style={`--i:${i}`} data-reveal open={i === 0}>
+            <summary class="faq__q">
+              <span>{item.q}</span>
+              <span class="faq__mark" aria-hidden="true" />
+            </summary>
+            <div class="faq__a">
+              <p>{item.a}</p>
+              <a class="vm-more" href={item.href}>
+                {item.label}
+              </a>
+            </div>
+          </details>
         ))
       }
-    </ul>
+    </div>
   </div>
 </section>
 
+<script>
+  // One open at a time. Native <details> allows several; a list of four short
+  // answers reads better as a single moving panel.
+  const faq = document.querySelector<HTMLElement>('[data-faq]');
+  const items = Array.from(faq?.querySelectorAll<HTMLDetailsElement>('details') ?? []);
+  for (const item of items) {
+    item.addEventListener('toggle', () => {
+      if (!item.open) return;
+      for (const other of items) if (other !== item) other.open = false;
+    });
+  }
+</script>
+
 <style>
-  /* Steps 1 -> 2 -> 4, so the four items never sit three-up with one orphan.
-     See Journal.astro. */
-  .flat {
-    display: grid;
-    grid-template-columns: minmax(0, 1fr);
-    gap: 0;
-    margin: 0;
-    padding: 0;
-    list-style: none;
-    border-top: 1px solid var(--color-line);
+  .before {
+    background: var(--color-mist);
   }
 
-  @media (min-width: 640px) {
-    .flat {
-      grid-template-columns: repeat(2, minmax(0, 1fr));
-    }
+  .before__inner {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1rem 3rem;
   }
 
   @media (min-width: 1024px) {
-    .flat {
-      grid-template-columns: repeat(4, minmax(0, 1fr));
+    .before__inner {
+      grid-template-columns: 1fr 1.4fr;
+      align-items: start;
     }
   }
 
-  /* Hairline rules rather than four more boxes. The page already carries three
-     card modules below the divider and a fourth would turn into wallpaper. */
-  .flat li {
-    border-bottom: 1px solid var(--color-line);
+  .faq {
+    border-top: 1px solid color-mix(in srgb, var(--color-ink) 14%, transparent);
   }
 
-  .flat a {
+  .faq__item {
+    border-bottom: 1px solid color-mix(in srgb, var(--color-ink) 14%, transparent);
+  }
+
+  .faq__q {
     display: flex;
-    flex-direction: column;
-    gap: 0.25rem;
-    height: 100%;
-    padding: 1.25rem 1rem 1.25rem 0;
-    text-decoration: none;
-  }
-
-  .flat a:hover h3 {
-    text-decoration: underline;
-    text-underline-offset: 4px;
-  }
-
-  .flat h3 {
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    min-height: 64px;
+    padding: 1rem 0;
     font-family: var(--font-display);
-    font-size: 1.0625rem;
+    font-size: clamp(1.125rem, 1.8vw, 1.375rem);
     font-weight: 500;
-    line-height: 1.35;
-    text-wrap: balance;
+    color: var(--color-bamboo);
+    cursor: pointer;
+    list-style: none;
   }
 
-  .flat p {
-    font-size: 0.9375rem;
-    line-height: 1.5;
-    color: var(--color-muted);
+  .faq__q::-webkit-details-marker {
+    display: none;
   }
 
-  @media (min-width: 720px) {
-    .flat li + li a {
-      padding-left: 1.5rem;
+  /* A plus that turns into a minus: two bars, one of which rotates away. */
+  .faq__mark {
+    position: relative;
+    flex: none;
+    width: 28px;
+    height: 28px;
+    border: 1px solid var(--color-bamboo);
+    border-radius: 50%;
+    transition: background-color 200ms ease;
+  }
+
+  .faq__mark::before,
+  .faq__mark::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 12px;
+    height: 2px;
+    background: var(--color-bamboo);
+    transform: translate(-50%, -50%);
+    transition:
+      transform 300ms cubic-bezier(0.16, 1, 0.3, 1),
+      background-color 200ms ease;
+  }
+
+  .faq__mark::after {
+    transform: translate(-50%, -50%) rotate(90deg);
+  }
+
+  .faq__item[open] .faq__mark {
+    background: var(--color-bamboo);
+  }
+
+  .faq__item[open] .faq__mark::before,
+  .faq__item[open] .faq__mark::after {
+    background: var(--color-mist);
+  }
+
+  .faq__item[open] .faq__mark::after {
+    transform: translate(-50%, -50%) rotate(0deg);
+  }
+
+  .faq__a {
+    padding: 0 3rem 1.5rem 0;
+    animation: faq-in 380ms cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  .faq__a p {
+    max-width: 58ch;
+    font-size: 1rem;
+    line-height: 1.6;
+    color: var(--color-ink);
+    text-wrap: pretty;
+  }
+
+  .faq__a .vm-more {
+    margin-top: 0.25rem;
+  }
+
+  @keyframes faq-in {
+    from {
+      opacity: 0;
+      transform: translateY(-0.4rem);
+    }
+    to {
+      opacity: 1;
+      transform: none;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .faq__a {
+      animation: none;
     }
 
-    .flat li + li {
-      border-left: 1px solid var(--color-line);
+    .faq__mark::before,
+    .faq__mark::after {
+      transition: none;
     }
   }
 </style>

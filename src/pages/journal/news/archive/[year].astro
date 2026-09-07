@@ -1,0 +1,50 @@
+---
+import NewsIndex from '../../../../layouts/NewsIndex.astro';
+import { NEWS_INDEX, archivePath, getNewsEntries, yearsInUse, type NewsEntry } from '../../../../lib/news';
+
+/**
+ * /journal/news/archive/YYYY
+ *
+ * Everything published in one year, newest first. The index pages roll off
+ * the front; this is where an item from two years ago is still one hop from
+ * a page a crawler can find.
+ */
+export async function getStaticPaths() {
+  const all = await getNewsEntries();
+  return yearsInUse(all).map(({ year }) => ({
+    params: { year: String(year) },
+    props: { year, all, entries: all.filter((entry) => entry.data.published.getUTCFullYear() === year) },
+  }));
+}
+
+interface Props {
+  year: number;
+  all: NewsEntry[];
+  entries: NewsEntry[];
+}
+
+const { year, all, entries } = Astro.props as Props;
+
+const crumbs = [
+  { label: 'Home', href: '/' },
+  { label: 'Journal', href: '/journal' },
+  { label: 'News', href: NEWS_INDEX },
+  { label: String(year), href: archivePath(year) },
+];
+---
+
+<NewsIndex
+  title={`Moganshan news in ${year}`}
+  seoTitle={`Moganshan News in ${year}`}
+  description={`Every dated change logged for Moganshan in ${year}: tickets, transport, entry rules, openings and events, each sourced in Chinese with what it means for a visitor.`}
+  kicker="News by year"
+  crumbs={crumbs}
+  all={all}
+  entries={entries}
+>
+  <Fragment slot="intro">
+    <p>
+      {entries.length} {entries.length === 1 ? 'entry' : 'entries'} from {year}, newest first.
+    </p>
+  </Fragment>
+</NewsIndex>

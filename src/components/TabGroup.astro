@@ -19,12 +19,18 @@ interface Props {
   /** Accessible name for the tablist, e.g. "Filter things to do". */
   label: string;
   tabs: readonly { id: string; label: string }[];
+  /**
+   * Segmented pills on a tinted track instead of underlined text. The pills
+   * read as a control on a page of photographs, where an underline gets lost
+   * between the pictures.
+   */
+  pills?: boolean;
 }
 
-const { id, label, tabs } = Astro.props;
+const { id, label, tabs, pills = false } = Astro.props;
 ---
 
-<div class="tabs" data-tabgroup={id}>
+<div class:list={['tabs', pills && 'tabs--pills']} data-tabgroup={id}>
   <div class="tabs__list" role="tablist" aria-label={label}>
     {
       tabs.map((tab, i) => (
@@ -149,5 +155,40 @@ const { id, label, tabs } = Astro.props;
     inset: auto 0.55rem -3px;
     height: 2px;
     background: var(--color-bamboo);
+  }
+
+  /* --- Pills --- */
+
+  .tabs--pills .tabs__list {
+    display: inline-flex;
+    max-width: 100%;
+    gap: 0.25rem;
+    padding: 0.25rem;
+    border: 0;
+    border-radius: 999px;
+    background: color-mix(in srgb, var(--color-ink) 6%, transparent);
+  }
+
+  .tabs--pills .tabs__tab {
+    min-height: 40px;
+    padding: 0.4rem 1rem;
+    border-radius: 999px;
+    transition:
+      color 140ms ease,
+      background-color 220ms cubic-bezier(0.16, 1, 0.3, 1),
+      box-shadow 220ms ease;
+  }
+
+  .tabs--pills .tabs__tab[aria-selected='true'] {
+    background: var(--color-surface);
+    box-shadow: 0 2px 10px -4px color-mix(in srgb, var(--color-ink) 30%, transparent);
+  }
+
+  .tabs--pills .tabs__tab[aria-selected='true']::after {
+    display: none;
+  }
+
+  .tabs--pills .tabs__tab:active {
+    transform: scale(0.98);
   }
 </style>

@@ -137,7 +137,9 @@ editorial/logs, editorial/schedule.csv, editorial/sources) and commit on main
 with a conventional commit message (feat(guide): publish <slug>, or
 feat(news): publish dispatch <week>), then git push origin main. Only after
 the push succeeds, run node editorial/scripts/notify-publish.mjs with the
-slug, title, url, build result, log path and the commit hash in --note.
+slug, title, build result, log path and the commit hash in --note. Do not
+pass --url: the script reads the URL from the guide file by slug, and Git
+Bash rewrites a leading slash into a Windows path.
 This run is unattended: never ask a question. If any check, the build or the
 push fails, do not commit (or do not push), leave the row at image_ready, put
 the error in the run log and send the email with --build failed and the error

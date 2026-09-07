@@ -54,6 +54,16 @@ const ogImageUrl = new URL(ogImage, Astro.site).href;
     <link rel="icon" href="/mark-favicon.svg" type="image/svg+xml" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <link rel="manifest" href="/site.webmanifest" />
+
+    <!-- The news feed, discoverable from every page: a reader who lands on a
+         guide page and wants to follow what changes should not have to find
+         the news index first. -->
+    <link
+      rel="alternate"
+      type="application/rss+xml"
+      title="Visit Moganshan: news"
+      href="/journal/news/feed.xml"
+    />
     <meta name="theme-color" content="#1F4A3C" />
 
     <!-- The two faces that render above the fold. Other weights load on demand. -->

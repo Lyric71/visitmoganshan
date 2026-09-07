@@ -3,16 +3,22 @@ import Layout from '../layouts/Layout.astro';
 import SiteHeader from '../components/SiteHeader.astro';
 import SiteFooter from '../components/SiteFooter.astro';
 
+import HomeMotion from '../components/home/HomeMotion.astro';
 import Hero from '../components/home/Hero.astro';
+import AtAGlance from '../components/home/AtAGlance.astro';
+import IssueNav from '../components/home/IssueNav.astro';
 import FourParts from '../components/home/FourParts.astro';
 import ThingsToDo from '../components/home/ThingsToDo.astro';
-import Journal from '../components/home/Journal.astro';
 import WhereToStay from '../components/home/WhereToStay.astro';
+import FeaturedStays from '../components/home/FeaturedStays.astro';
 import GettingHere from '../components/home/GettingHere.astro';
+import Trains from '../components/home/Trains.astro';
 import PlacesToVisit from '../components/home/PlacesToVisit.astro';
 import Itineraries from '../components/home/Itineraries.astro';
 import WhenToGo from '../components/home/WhenToGo.astro';
 import BeforeYouCome from '../components/home/BeforeYouCome.astro';
+import Latest from '../components/home/Latest.astro';
+import GuideIndex from '../components/home/GuideIndex.astro';
 import PlanBar from '../components/home/PlanBar.astro';
 
 import { websiteLd, placeLd } from '../lib/jsonld';
@@ -25,13 +31,32 @@ import { websiteLd, placeLd } from '../lib/jsonld';
  * its own, so the top half has to make somebody want to come and the bottom
  * half has to answer every practical question without making them leave.
  *
- * The journal sits at the end rather than in the culture half. It is the one
- * block on the page nobody arrives needing, so it reads better as what is left
- * to browse once every practical question has been answered.
+ * The practical half was doubled on 7 September 2026 (Cyril: "we can add much
+ * more content"). Where to stay now has a second block beneath it for the
+ * properties with a researched page of their own, Getting here is followed by
+ * the train booking band, and the page closes with the latest guides beside
+ * the news log and then an index of every page on the site. All four read
+ * from the content collection at build time, so the publish step of the
+ * editorial pipeline changes the home page without anybody editing it.
  *
- * The ten places slider sits below Getting here rather than above the divider.
- * A reader who has just read how to arrive is choosing what to do with the
- * day, and that is the question the slider answers.
+ * The journal block that used to close the page is gone, at Cyril's request
+ * on the same day: a long read section with no cadence cannot be kept up, and
+ * a "from the journal" strip showing the same three pieces for a year says
+ * so. The journal pages themselves still exist and the news log under them is
+ * what the Latest block lists.
+ *
+ * The ten places slider sits below the train band rather than above the
+ * divider. A reader who has just read how to arrive is choosing what to do
+ * with the day, and that is the question the slider answers.
+ *
+ * Redesigned as a magazine front on 7 September 2026 (Cyril: "more a trip,
+ * tourism magazine", "less flat", "JS effects for scrolling and inside the UI
+ * components"). The cover is the hero with the four figures lifted over its
+ * bottom edge and a sticky contents bar under it that follows the reader down
+ * the page. Every block below reveals as it enters the viewport
+ * (HomeMotion.astro), the route diagram draws its legs, the month strip
+ * answers for the month under the pointer, and the four questions open one
+ * at a time. Nothing loops and nothing listens to scroll events.
  *
  * Exactly one h1 on the page, and it is the single word "Moganshan".
  */
@@ -52,22 +77,30 @@ const jsonLd = [websiteLd, placeLd]
   <SiteHeader />
 
   <main id="main">
-    {/* Culture */}
+    <HomeMotion />
+
+    {/* The cover: picture, four figures over its edge, then the contents bar. */}
     <Hero />
+    <AtAGlance />
+    <IssueNav />
+
+    {/* Culture */}
     <FourParts />
     <ThingsToDo />
 
     {/* Practical. Where to stay is the hinge, and carries #plan. */}
+    <FeaturedStays />
     <WhereToStay />
     <GettingHere />
+    <Trains />
     <PlacesToVisit />
     <Itineraries />
     <WhenToGo />
     <BeforeYouCome />
 
-    {/* The journal closes the page: reading, once the planning is answered. */}
-    <Journal />
-
+    {/* Reading, once the planning is answered: what is new, then everything. */}
+    <Latest />
+    <GuideIndex />
   </main>
 
   <SiteFooter />

@@ -30,6 +30,7 @@ const SECTIONS: Record<string, string> = {
   plan: 'Plan your trip',
   seasons: 'Seasons',
   groups: 'Groups',
+  journal: 'Journal',
 };
 
 export function sectionLabel(url: string): string | undefined {
