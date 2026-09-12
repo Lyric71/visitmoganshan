@@ -115,6 +115,56 @@
       "triage": "editorial/news/triage/2026-09-07.md",
       "finished": "2026-09-07T05:24:21.335Z",
       "durationMs": 281194
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-09-12T00:04:38.765Z",
+      "outcome": "success",
+      "sourcesQueried": 22,
+      "candidates": 40,
+      "newCandidates": 33,
+      "unreachable": [
+        "deqing-gov",
+        "huzhou-cts",
+        "zj-cts",
+        "huzhou-gov"
+      ],
+      "errors": [
+        "meadin: 酒店频道: anti bot challenge page (8232 bytes), open it in a browser instead",
+        "deqing-gov: 公告公示: timeout after 12000 ms",
+        "deqing-gov: 德清要闻 A: timeout after 12000 ms",
+        "deqing-gov: 德清要闻 B: timeout after 12000 ms",
+        "deqing-gov: 莫干山镇: timeout after 12000 ms",
+        "deqing-gov: 文广旅体局: timeout after 12000 ms",
+        "hangzhou-daily: 杭州日报数字报: anti bot challenge page (90 bytes), open it in a browser instead",
+        "huzhou-cts: 工作动态: timeout after 12000 ms",
+        "huzhou-cts: 政策文件: timeout after 12000 ms",
+        "zj-cts: 浙江文旅: fetch failed",
+        "zj-cts: 政务公开: fetch failed",
+        "zj-cts: 浙江省旅游度假区: fetch failed",
+        "huzhou-gov: 湖州要闻 德清: fetch failed",
+        "huzhou-gov: 交通运输局: timeout after 12000 ms"
+      ],
+      "triage": "editorial/news/triage/2026-09-12.md",
+      "finished": "2026-09-12T00:09:34.633Z",
+      "durationMs": 295868
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-12T04:00:02.875Z",
+      "finished": "2026-09-12T04:01:15.550Z",
+      "outcome": "success",
+      "slugs": [
+        "hangzhou-to-deqing-rail-line-begins-trial-running",
+        "spartan-moganshan-base-opens-in-october",
+        "three-or-cafes-open-in-moganshan-town"
+      ],
+      "paths": [
+        "/journal/news/2026/09/hangzhou-to-deqing-rail-line-begins-trial-running",
+        "/journal/news/2026/09/spartan-moganshan-base-opens-in-october",
+        "/journal/news/2026/09/three-or-cafes-open-in-moganshan-town"
+      ],
+      "durationMs": 72675
     }
   ]
 }
