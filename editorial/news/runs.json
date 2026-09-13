@@ -165,6 +165,156 @@
         "/journal/news/2026/09/three-or-cafes-open-in-moganshan-town"
       ],
       "durationMs": 72675
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-09-12T04:29:15.538Z",
+      "outcome": "success",
+      "sourcesQueried": 22,
+      "candidates": 41,
+      "newCandidates": 2,
+      "unreachable": [
+        "deqing-gov",
+        "huzhou-cts",
+        "zj-cts",
+        "huzhou-gov"
+      ],
+      "errors": [
+        "meadin: 酒店频道: anti bot challenge page (8232 bytes), open it in a browser instead",
+        "deqing-gov: 公告公示: timeout after 12000 ms",
+        "deqing-gov: 德清要闻 A: timeout after 12000 ms",
+        "deqing-gov: 德清要闻 B: timeout after 12000 ms",
+        "deqing-gov: 莫干山镇: timeout after 12000 ms",
+        "deqing-gov: 文广旅体局: timeout after 12000 ms",
+        "hangzhou-daily: 杭州日报数字报: anti bot challenge page (90 bytes), open it in a browser instead",
+        "hangzhou-daily: 杭州网 浙江新闻: fetch failed",
+        "huzhou-cts: 工作动态: timeout after 12000 ms",
+        "huzhou-cts: 政策文件: timeout after 12000 ms",
+        "zj-cts: 浙江文旅: fetch failed",
+        "zj-cts: 政务公开: fetch failed",
+        "zj-cts: 浙江省旅游度假区: fetch failed",
+        "huzhou-gov: 湖州要闻 德清: fetch failed",
+        "huzhou-gov: 交通运输局: timeout after 12000 ms"
+      ],
+      "triage": "editorial/news/triage/2026-09-12.md",
+      "finished": "2026-09-12T04:34:16.945Z",
+      "durationMs": 301407
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-09-12T05:10:35.307Z",
+      "outcome": "success",
+      "sourcesQueried": 22,
+      "candidates": 41,
+      "newCandidates": 0,
+      "unreachable": [
+        "deqing-gov",
+        "huzhou-cts",
+        "zj-cts",
+        "huzhou-gov"
+      ],
+      "errors": [
+        "meadin: 酒店频道: anti bot challenge page (8232 bytes), open it in a browser instead",
+        "deqing-gov: 公告公示: timeout after 12000 ms",
+        "deqing-gov: 德清要闻 A: timeout after 12000 ms",
+        "deqing-gov: 德清要闻 B: timeout after 12000 ms",
+        "deqing-gov: 莫干山镇: timeout after 12000 ms",
+        "deqing-gov: 文广旅体局: timeout after 12000 ms",
+        "hangzhou-daily: 杭州日报数字报: anti bot challenge page (90 bytes), open it in a browser instead",
+        "huzhou-cts: 工作动态: timeout after 12000 ms",
+        "huzhou-cts: 政策文件: timeout after 12000 ms",
+        "zj-cts: 浙江文旅: fetch failed",
+        "zj-cts: 政务公开: fetch failed",
+        "zj-cts: 浙江省旅游度假区: fetch failed",
+        "huzhou-gov: 湖州要闻 德清: fetch failed",
+        "huzhou-gov: 交通运输局: timeout after 12000 ms"
+      ],
+      "triage": "editorial/news/triage/2026-09-12.md",
+      "finished": "2026-09-12T05:15:08.319Z",
+      "durationMs": 273012
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-12T05:18:54.330Z",
+      "finished": "2026-09-12T05:18:54.370Z",
+      "outcome": "skipped",
+      "skipReason": "nothing approved"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-09-13T00:00:02.602Z",
+      "outcome": "success",
+      "sourcesQueried": 22,
+      "candidates": 26,
+      "newCandidates": 0,
+      "unreachable": [],
+      "errors": [
+        "meadin: 酒店频道: anti bot challenge page (8234 bytes), open it in a browser instead",
+        "deqing-gov: 莫干山镇: HTTP 404",
+        "deqing-gov: 文广旅体局: HTTP 404",
+        "hangzhou-daily: 杭州日报数字报: anti bot challenge page (90 bytes), open it in a browser instead",
+        "google-news-zh: 莫干山: fetch failed",
+        "google-news-zh: 德清 文旅: fetch failed",
+        "google-news-zh: 杭德市域铁路: fetch failed",
+        "google-news-en: Moganshan: fetch failed",
+        "google-news-en: Deqing Zhejiang: fetch failed",
+        "google-news-en: Hangzhou Deqing rail: fetch failed",
+        "chinadaily-huzhou: Media center: fetch failed"
+      ],
+      "triage": "editorial/news/triage/2026-09-13.md",
+      "finished": "2026-09-13T00:02:41.379Z",
+      "durationMs": 158777
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-09-13T01:41:00.821Z",
+      "outcome": "success",
+      "sourcesQueried": 22,
+      "candidates": 41,
+      "newCandidates": 4,
+      "unreachable": [
+        "deqing-gov",
+        "huzhou-cts",
+        "zj-cts",
+        "huzhou-gov"
+      ],
+      "errors": [
+        "meadin: 酒店频道: anti bot challenge page (8232 bytes), open it in a browser instead",
+        "deqing-gov: 公告公示: timeout after 12000 ms",
+        "deqing-gov: 德清要闻 A: timeout after 12000 ms",
+        "deqing-gov: 德清要闻 B: timeout after 12000 ms",
+        "deqing-gov: 莫干山镇: timeout after 12000 ms",
+        "deqing-gov: 文广旅体局: timeout after 12000 ms",
+        "hangzhou-daily: 杭州日报数字报: anti bot challenge page (90 bytes), open it in a browser instead",
+        "hangzhou-daily: 杭州网 浙江新闻: fetch failed",
+        "huzhou-cts: 工作动态: timeout after 12000 ms",
+        "huzhou-cts: 政策文件: timeout after 12000 ms",
+        "zj-cts: 浙江文旅: fetch failed",
+        "zj-cts: 政务公开: fetch failed",
+        "zj-cts: 浙江省旅游度假区: fetch failed",
+        "huzhou-gov: 湖州要闻 德清: fetch failed",
+        "huzhou-gov: 交通运输局: timeout after 12000 ms"
+      ],
+      "triage": "editorial/news/triage/2026-09-13.md",
+      "finished": "2026-09-13T01:46:17.079Z",
+      "durationMs": 316258
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-13T01:54:40.024Z",
+      "finished": "2026-09-13T01:55:50.828Z",
+      "outcome": "success",
+      "slugs": [
+        "deqing-fiba-3x3-world-tour-tickets",
+        "kailas-moganshan-skyrace-dates",
+        "uto-moganshan-trail-race-registration"
+      ],
+      "paths": [
+        "/journal/news/2026/09/deqing-fiba-3x3-world-tour-tickets",
+        "/journal/news/2026/09/kailas-moganshan-skyrace-dates",
+        "/journal/news/2026/09/uto-moganshan-trail-race-registration"
+      ],
+      "durationMs": 70804
     }
   ]
 }

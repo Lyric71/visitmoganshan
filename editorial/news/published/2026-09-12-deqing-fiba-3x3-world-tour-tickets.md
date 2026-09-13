@@ -28,7 +28,7 @@ origin:
   url: https://dqnews.zjol.com.cn/dqnews/system/2026/09/09/035288323.shtml
   title_zh: "世界第一乌布队强势来袭，中国德清队主场迎战 2026FIBA三人篮球大师赛中秋开赛"
   url_hash: df681b5fe54156940c09cfaebd80a4c10de88818c606e0283585ad1b9a288440
-status: pending
+status: "approved"
 ---
 
 Tickets are now on sale for the Deqing stop of the FIBA 3x3 World Tour,
