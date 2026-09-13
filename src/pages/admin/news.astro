@@ -5,16 +5,15 @@ import { isSignedIn } from '../../lib/admin-auth';
 /**
  * /admin/news
  *
- * The state of the news layer as of the last build: what is waiting for
- * review, what the last sweeps found, which sources are failing, and the
- * commands that move things on. Read only, like the rest of /admin.
+ * The state of the news layer as of the last build: what is live, what the
+ * last sweeps found, which sources are failing, and the controls that remove
+ * a live item when an admin needs to.
  *
  * The files are read at build time through import.meta.glob and bundled into
  * the function, because editorial/ is not deployed alongside it. That makes
  * this page a snapshot from the last deploy rather than a live console. It is
- * still worth having: the review email carries the same commands, but a page
- * that lists every pending draft in one place is what a reviewer opens on a
- * phone. The live state is on the machine that runs the tasks.
+ * still worth having: an admin can unpublish a live item in place. The live
+ * state remains on the machine that runs the editorial tasks.
  */
 export const prerender = false;
 
@@ -33,13 +32,11 @@ function parseFrontmatter(text: string): Frontmatter {
   return out;
 }
 
-const draftFiles = import.meta.glob('../../../editorial/news/drafts/*.md', { query: '?raw', import: 'default', eager: true }) as Record<string, string>;
-const drafts = Object.entries(draftFiles).map(([file, text]) => ({
+const liveFiles = import.meta.glob('../../content/news/*.md', { query: '?raw', import: 'default', eager: true }) as Record<string, string>;
+const published = Object.entries(liveFiles).map(([file, text]) => ({
   file: file.split('/').pop()!,
   data: parseFrontmatter(text),
-}));
-const pending = drafts.filter((d) => (d.data.status ?? 'pending') === 'pending');
-const approved = drafts.filter((d) => d.data.status === 'approved');
+})).sort((a, b) => String(b.data.published ?? '').localeCompare(String(a.data.published ?? '')));
 
 const runsFile = import.meta.glob('../../../editorial/news/runs.json', { import: 'default', eager: true }) as Record<string, { runs: any[] }>;
 const runs = (Object.values(runsFile)[0]?.runs ?? []).slice(-12).reverse();
@@ -69,10 +66,17 @@ const requests = Object.values(requestFiles)
 // The outcome of the button, carried back in the query string by the route.
 const sweepOutcome = Astro.url.searchParams.get('sweep');
 const sweepDetail = Astro.url.searchParams.get('detail');
+const reviewOutcome = Astro.url.searchParams.get('review');
+const reviewDetail = Astro.url.searchParams.get('detail');
 const OUTCOME_TEXT: Record<string, string> = {
   started: 'The sweep is running on this machine. Its console output goes to editorial/logs/runs; the drafts email follows when Claude is done, usually within half an hour.',
   queued: 'The request is on its way. It was committed to main and the machine picks it up on its next poll, within fifteen minutes; this page shows it under "Requested" once the site has redeployed.',
   failed: 'The sweep could not be started.',
+};
+const REVIEW_OUTCOME_TEXT: Record<string, string> = {
+  unpublished: 'The item was unpublished and saved in the editorial archive.',
+  queued: 'The unpublish request is queued for the editorial machine. It will be applied as soon as the machine picks up the request.',
+  failed: 'The unpublish request was not applied.',
 };
 
 const when = (iso?: string) =>
@@ -88,6 +92,14 @@ const when = (iso?: string) =>
       </p>
     )
   }
+  {
+    reviewOutcome && (
+      <p class:list={['banner', reviewOutcome === 'failed' && 'banner--bad']} role="status">
+        {REVIEW_OUTCOME_TEXT[reviewOutcome] ?? reviewOutcome}
+        {reviewDetail && <span class="banner__detail"> {reviewDetail}</span>}
+      </p>
+    )
+  }
 
   <section class="actions" aria-label="Run the sweep">
     <form method="post" action="/api/admin/news-sweep">
@@ -96,8 +108,8 @@ const when = (iso?: string) =>
     <p class="actions__note">
       Starts the crawler and the drafting run outside the 08:00 schedule, ignoring the pause flag.
       On the machine that runs the tasks it starts at once; from the live site it is queued through
-      a commit on main and picked up within fifteen minutes. Nothing is published either way: the
-      drafts wait for approval as usual.
+      a commit on main and picked up within fifteen minutes. Valid drafts are published automatically
+      at the end of the run.
       {
         requests.length > 0 && (
           <span class="actions__pending">
@@ -110,12 +122,8 @@ const when = (iso?: string) =>
 
   <section class="stats" aria-label="The news layer at a glance">
     <div class="stat">
-      <p class="stat__num">{pending.length}</p>
-      <p class="stat__label">draft{pending.length === 1 ? '' : 's'} waiting for review</p>
-    </div>
-    <div class="stat">
-      <p class="stat__num">{approved.length}</p>
-      <p class="stat__label">approved, waiting for the publish run</p>
+      <p class="stat__num">{published.length}</p>
+      <p class="stat__label">news item{published.length === 1 ? '' : 's'} currently live</p>
     </div>
     <div class="stat">
       <p class="stat__num">{settings.paused ? 'Paused' : 'Active'}</p>
@@ -129,14 +137,14 @@ const when = (iso?: string) =>
     </div>
   </section>
 
-  <section class="panel" aria-labelledby="pending">
-    <h2 id="pending">Waiting for review</h2>
+  <section class="panel" aria-labelledby="published">
+    <h2 id="published">Published news</h2>
     {
-      pending.length === 0 ? (
-        <p class="panel__note">Nothing is waiting. The next sweep runs at 08:00 Shanghai time.</p>
+      published.length === 0 ? (
+        <p class="panel__note">No news item is live.</p>
       ) : (
         <ul class="drafts">
-          {pending.map((d) => (
+          {published.map((d) => (
             <li>
               <p class="draft__title">{d.data.title}</p>
               <p class="draft__meta">
@@ -146,21 +154,13 @@ const when = (iso?: string) =>
               <p class="draft__sub">
                 <strong>For a visitor:</strong> {d.data.consequence}
               </p>
-              <p class="draft__cmd">
-                <code>npm run news:approve -- {d.file.replace(/\.md$/, '')}</code>
-                <code>npm run news:approve -- {d.file.replace(/\.md$/, '')} --reject "reason"</code>
-              </p>
+              <form class="draft__actions" method="post" action="/api/admin/news-review" onsubmit="return confirm('Unpublish this news item? It will be removed from the public site and kept in the editorial archive.');">
+                <input type="hidden" name="slug" value={d.file.replace(/\.md$/, '')} />
+                <button class="draft__unpublish" type="submit" name="action" value="unpublish">Unpublish</button>
+              </form>
             </li>
           ))}
         </ul>
-      )
-    }
-    {
-      approved.length > 0 && (
-        <p class="panel__note">
-          Approved and waiting: {approved.map((d) => d.data.title).join('; ')}. The publish run at
-          12:00 moves them.
-        </p>
       )
     }
   </section>
@@ -172,7 +172,7 @@ const when = (iso?: string) =>
       <li><strong>{byStatus('new')}</strong> new, not yet decided</li>
       <li><strong>{byStatus('drafted')}</strong> drafted</li>
       <li><strong>{byStatus('published')}</strong> published</li>
-      <li><strong>{byStatus('rejected')}</strong> rejected by a person</li>
+      <li><strong>{byStatus('unpublished')}</strong> unpublished by an admin</li>
       <li><strong>{byStatus('skipped')}</strong> skipped by the agent, each with a reason in the file</li>
     </ul>
   </section>
@@ -244,18 +244,17 @@ const when = (iso?: string) =>
   <section class="panel" aria-labelledby="jobs">
     <h2 id="jobs">Running the jobs</h2>
     <p class="panel__note">
-      Two Windows scheduled tasks on the machine that holds the keys: <strong>VisitMoganshan News
-      Sweep</strong> at 08:00 (the crawler, then Claude drafts) and <strong>VisitMoganshan News
-      Publish</strong> at 12:00 (a script that moves approved drafts, checks, builds, commits,
-      pushes and emails). The morning between them is the review window. Registered with
+      The machine that holds the keys runs <strong>VisitMoganshan News Sweep</strong> at 08:00. It
+      crawls, drafts and publishes valid news automatically. <strong>VisitMoganshan News Publish</strong>
+      at 12:00 is a safety run for anything the morning process could not finish. Registered with
       <code>editorial\scripts\register-tasks.ps1</code>. The rules the agent drafts under are in
       <code>editorial/news/CLAUDE.md</code>.
     </p>
     <dl class="jobs">
       <dt><code>npm run news:sweep -- --force</code></dt>
       <dd>The crawler alone, ignoring the pause flag. Writes today's triage file.</dd>
-      <dt><code>npm run news:approve -- --list</code></dt>
-      <dd>What is waiting, with its status.</dd>
+      <dt><code>node editorial/scripts/news-unpublish.mjs &lt;slug&gt;</code></dt>
+      <dd>Removes one live item and preserves an editorial archive copy.</dd>
       <dt><code>npm run news:publish -- --dry</code></dt>
       <dd>What the publish run would move, and why it would refuse anything.</dd>
       <dt><code>npm run news:test</code></dt>
@@ -391,12 +390,33 @@ const when = (iso?: string) =>
     line-height: 1.5;
   }
 
-  .draft__cmd {
+  .draft__actions {
     display: flex;
     flex-wrap: wrap;
-    gap: 0.5rem 1.5rem;
+    gap: 0.5rem;
     margin: 0.6rem 0 0;
-    font-size: 0.8125rem;
+    align-items: center;
+  }
+
+  .draft__actions button {
+    padding: 0.48rem 0.8rem;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    font: inherit;
+    font-size: 0.875rem;
+    font-weight: 600;
+    cursor: pointer;
+  }
+
+  .draft__unpublish {
+    border-color: var(--color-line) !important;
+    background: transparent;
+    color: var(--color-ink);
+  }
+
+  .draft__unpublish:hover {
+    border-color: var(--color-amber) !important;
+    color: var(--color-amber);
   }
 
   .facts {

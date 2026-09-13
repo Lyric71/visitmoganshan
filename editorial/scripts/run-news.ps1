@@ -13,7 +13,7 @@
              Nothing is published. Runs every morning; settings.json decides
              whether the sweep actually fetches (paused, gate).
     publish  Runs editorial/scripts/news-publish.mjs, a plain script with no
-             model: moves every approved draft whose date has arrived into
+             model: moves every ready draft whose date has arrived into
              src/content/news, runs the four checks and the build, commits,
              pushes, emails. Runs every midday.
     poll     Every fifteen minutes. Pulls main and looks for request files in
@@ -23,10 +23,8 @@
              the sweep mode with -Force. Exits in a second when there is
              nothing, so the frequent trigger costs nothing.
 
-  Between the two is the review window. Approve with
-    npm run news:approve -- <slug>
-  or reject with
-    npm run news:approve -- <slug> --reject "reason"
+  News drafts publish automatically after the sweep. An admin can later
+  remove a live item with `node editorial/scripts/news-unpublish.mjs <slug>`.
 
   Both modes write their console output to editorial/logs/runs/<date>-news-<mode>.txt.
 
@@ -59,14 +57,39 @@ if ($Mode -eq 'poll') {
   $ErrorActionPreference = 'Stop'
   $Requests = Get-ChildItem (Join-Path $Repo 'editorial\news\requests') -Filter '*.json' -ErrorAction SilentlyContinue
   if (-not $Requests) { exit 0 }
-  $RunLog = Join-Path $RunLogDir "$Stamp-news-sweep-requested.txt"
-  "$(Get-Date -Format s) $($Requests.Count) sweep request(s) from the dashboard: $($Requests.Name -join ', ')" | Out-File $RunLog -Append -Encoding utf8
+  $RunLog = Join-Path $RunLogDir "$Stamp-news-dashboard-requested.txt"
+  "$(Get-Date -Format s) $($Requests.Count) dashboard request(s): $($Requests.Name -join ', ')" | Out-File $RunLog -Append -Encoding utf8
+  $RunSweep = $false
+  $ChangedPaths = @('editorial/news/requests')
+  foreach ($Request in $Requests) {
+    try {
+      $Payload = Get-Content $Request.FullName -Raw | ConvertFrom-Json
+      if ($Payload.kind -eq 'sweep') {
+        $RunSweep = $true
+      } elseif ($Payload.kind -eq 'review') {
+        $Slug = [string]$Payload.slug
+        $Action = [string]$Payload.action
+        $Reason = [string]$Payload.reason
+        if ($Slug -notmatch '^[a-z0-9][a-z0-9-]*$' -or $Action -ne 'unpublish') {
+          throw "invalid review request"
+        }
+        "$(Get-Date -Format s) unpublish requested for $Slug" | Out-File $RunLog -Append -Encoding utf8
+        & node editorial/scripts/news-unpublish.mjs $Slug 2>&1 | Out-File $RunLog -Append -Encoding utf8
+        if ($LASTEXITCODE -ne 0) { throw "news unpublish command exited $LASTEXITCODE" }
+      } else {
+        throw "unknown request kind $($Payload.kind)"
+      }
+    } catch {
+      "$(Get-Date -Format s) could not apply $($Request.Name): $($_.Exception.Message)" | Out-File $RunLog -Append -Encoding utf8
+    }
+  }
   $Requests | Remove-Item -Force
   $ErrorActionPreference = 'Continue'
-  & git -C $Repo add -- editorial/news/requests 2>&1 | Out-Null
-  & git -C $Repo commit -q -m 'chore(news): sweep request picked up by the machine' 2>&1 | Out-Null
+  & git -C $Repo add -- $ChangedPaths 2>&1 | Out-Null
+  & git -C $Repo commit -q -m 'chore(news): dashboard request applied' 2>&1 | Out-Null
   & git -C $Repo push -q origin main 2>&1 | Out-Null
   $ErrorActionPreference = 'Stop'
+  if (-not $RunSweep) { exit 0 }
   $Mode = 'sweep'
   $Force = $true
 }
@@ -102,9 +125,8 @@ if (-not (Test-Path $Triage)) {
   exit 0
 }
 
-# 2. The drafting run. Always the best available model, never a faster or
-#    smaller mode.
-$Model = 'claude-fable-5-1'
+# 2. The shared runner uses Fable, Opus, GPT-6 Astra, then GPT-5.6 Sol.
+$Model = 'fable'
 $Prompt = @"
 Draft the news items that are due from today's sweep.
 
@@ -114,14 +136,14 @@ The triage file is editorial/news/triage/$Stamp.md (the same data is in
 $Stamp.json). Apply the three tests to every candidate marked NEW, then the
 verification chain for its fact type. Write at most the budget in
 editorial/news/settings.json into editorial/news/drafts, each as a complete
-file in the news frontmatter shape with status: pending, each with a lead
+file in the news frontmatter shape with status: ready, each with a lead
 image generated through /generate-image-openai at high quality under the
 site's candid photograph rules, encoded into public/images/news with npm run
 img and audited. Run /content-quality-us on each draft under the British
 English override. Mark every candidate you decided against in
 editorial/news/seen.json with status skipped and a reason a person can read.
-Append what you did to editorial/logs/$Stamp.md. When done, run
-node editorial/scripts/news-notify.mjs --mode drafts --triage editorial/news/triage/$Stamp.md
+Append what you did to editorial/logs/$Stamp.md. Do not send a draft-review
+email: the runner publishes ready drafts next.
 Do not publish, do not build, do not commit. This run is unattended: never ask
 a question, decide from the rules and write the decision in the run log. A day
 with nothing worth drafting is a normal day: say so in the log, mark the
@@ -132,24 +154,15 @@ if ($Force) { $Prompt += "`n`nMANUAL TEST RUN: the sweep gate was ignored. Say s
 
 $PromptFile = Join-Path $RunLogDir "$Stamp-news-sweep.prompt.txt"
 [System.IO.File]::WriteAllText($PromptFile, $Prompt, (New-Object System.Text.UTF8Encoding($false)))
-$Claude = (Get-Command claude).Source
-$Cmd = "type `"$PromptFile`" | `"$Claude`" -p --model $Model --dangerously-skip-permissions --output-format text >> `"$RunLog`" 2>&1"
-
-$MaxAttempts = 3
-$Attempt = 0
-do {
-  $Attempt++
-  if ($Attempt -gt 1) {
-    "$(Get-Date -Format s) retry $Attempt of $MaxAttempts after a transient API error, waiting 5 minutes" | Out-File $RunLog -Append -Encoding utf8
-    Start-Sleep -Seconds 300
-  }
+$AgentRunner = 'C:\Users\cyril\Project\automation\scripts\Invoke-ProjectAgent.ps1'
+$Code = & $AgentRunner -Repo $Repo -PromptFile $PromptFile -RunLog $RunLog -RunName 'VisitMoganshan news sweep'
+if ($Code -eq 0) {
+  "$(Get-Date -Format s) publishing ready news drafts" | Out-File $RunLog -Append -Encoding utf8
   $ErrorActionPreference = 'Continue'
-  & cmd.exe /d /c $Cmd
+  & cmd.exe /d /c "node editorial/scripts/news-publish.mjs --force >> `"$RunLog`" 2>&1"
   $Code = $LASTEXITCODE
   $ErrorActionPreference = 'Stop'
-  $Tail = (Get-Content $RunLog -Tail 5 -ErrorAction SilentlyContinue) -join "`n"
-  $Transient = $Code -ne 0 -and $Tail -match 'API Error: (529|500|502|503|504|429)|Overloaded|overloaded_error|rate limit'
-} while ($Transient -and $Attempt -lt $MaxAttempts)
+}
 
 "$(Get-Date -Format s) end news sweep exit $Code" | Out-File $RunLog -Append -Encoding utf8
 exit $Code

@@ -481,7 +481,7 @@ export const draftFrontmatterSchema = z
     origin: z
       .object({ source_id: z.string(), url: z.string().url(), title_zh: z.string().optional(), url_hash: z.string().optional() })
       .optional(),
-    status: z.enum(['pending', 'approved', 'rejected']).default('pending'),
+    status: z.enum(['ready', 'approved', 'pending', 'rejected']).default('ready'),
     rejection_reason: z.string().optional(),
   })
   .superRefine((data, ctx) => {

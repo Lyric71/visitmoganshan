@@ -122,6 +122,42 @@ checks. -->
 
 ## Places, stays, seasons, trails (semi-stable)
 
+### FIBA 3x3 World Tour Deqing dates
+* Value: 26 and 27 September 2026
+* As of: September 2026
+* Source: Deqing News (德清新闻网), corroborated by the International Basketball Federation (国际篮球联合会)
+* Tier: 2 for Deqing News; 1 for FIBA's own calendar
+* URL: https://dqnews.zjol.com.cn/dqnews/system/2026/09/09/035288323.shtml and https://www.fiba.basketball/en/news/two-new-world-tours-and-more-challengers-added-to-fiba-3x3-mens-pro-circuit-2026-season
+* Verified 1: 2026-09-12 (both pages fetched; Deqing News gave the venue and ticket sale, FIBA confirmed the two dates)
+* Verified 2: 2026-09-12 (both pages fetched again; the dates remained present)
+* Shelf life: volatile, through 27 September 2026
+* Used in: deqing-fiba-3x3-world-tour-tickets
+* Notes: Deqing News says ticket stubs unlock visitor offers but gives no price, value, conditions or booking link. The draft does not invent them.
+
+### UTO Moganshan trail training race entry
+* Value: 6 October 2026 at 07:30; 22.65 km and 1,379 metres of climb; RMB 218 until 10:00 on 15 September, then RMB 258
+* As of: October 2026 event page
+* Source: Zuicool race registration platform (最酷)
+* Tier: 3, authoritative for the race date, registration status and fee
+* URL: https://zuicool.com/event/12546
+* Verified 1: 2026-09-12 (page fetched; date, start time, distance, climb, six hour limit, fees and open registration confirmed)
+* Verified 2: 2026-09-12 (page fetched again; the same details remained present)
+* Shelf life: volatile, through 6 October 2026
+* Used in: uto-moganshan-trail-race-registration
+* Notes: the page has no publication date; its dated fact is the event itself. It says registration may close when full. No road closure notice was present.
+
+### Kailas Moganshan Skyrace weekend
+* Value: 23 to 25 October 2026; registration closed
+* As of: October 2026 event page
+* Source: Letour Sports (朗途体育), the race organiser
+* Tier: 3, authoritative for the race date and registration status
+* URL: https://moganshan.saihuitong.com/events?mid=72300
+* Verified 1: 2026-09-12 (page fetched; 23 to 25 October dates, 10 km to 100 km categories and closed registration confirmed)
+* Verified 2: 2026-09-12 (page fetched again; the same details remained present)
+* Shelf life: volatile, through 25 October 2026
+* Used in: kailas-moganshan-skyrace-dates
+* Notes: the page has no publication date; its dated fact is the event itself. No start map or traffic notice was present.
+
 ## History and culture (evergreen)
 
 ## Our own research

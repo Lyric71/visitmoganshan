@@ -108,8 +108,8 @@ until the scheduled task or a person moves them.
 
 | Track | When | Draft run | Publish run |
 |---|---|---|---|
-| Core slot n | 14 September 2026 plus 3 x (n minus 1) days | the evening before, 19:30 | that morning, 06:00 |
-| Weekly dispatch | every Thursday from 17 September 2026 | Wednesday 19:30, after the sweep | Thursday 06:00 |
+| Core slot n | 14 September 2026 plus 3 x (n minus 1) days | the evening before, 22:00 | that night, 03:30 |
+| Weekly dispatch | every Thursday from 17 September 2026 | Wednesday 22:00, after the sweep | Thursday 03:30 |
 
 Seasonal pieces publish four to six weeks before the season they describe.
 Slots may be swapped within a quarter to follow news or weather. Never move
@@ -163,7 +163,7 @@ Then check the length. Being 25 percent under target means a section was
 skipped. Then open the four images in `public/images/guide/`. No face, no
 text, no logo, no wrong season, and each caption true of its frame.
 
-To hold a piece, set its row to `blocked` before 06:00 with the reason in
+To hold a piece, set its row to `blocked` before 03:30 with the reason in
 `notes`. To pause everything:
 
 ```
@@ -199,22 +199,23 @@ and the full model are all here, and a cloud routine has none of them.
 
 | Task | When (Shanghai) | What | Default |
 |---|---|---|---|
-| VisitMoganshan Editorial Draft | every day 19:30 | `run-daily.ps1 -Mode draft`: steps 0 to 3 for every row due tomorrow, stops at `image_ready` | enabled |
-| VisitMoganshan Editorial Publish | every day 06:00 | `run-daily.ps1 -Mode publish`: publishes every `image_ready` row whose date has arrived, builds, commits, pushes, emails | enabled |
-| VisitMoganshan News Sweep | every day 08:00 | `run-news.ps1 -Mode sweep`: the crawler, then a Claude run that drafts at most three news items into `news/drafts/` and emails the list | enabled |
-| VisitMoganshan News Publish | every day 12:00 | `run-news.ps1 -Mode publish`: a script, no model; moves every approved draft in, checks, builds, commits, pushes, emails | enabled |
-| VisitMoganshan News Poll | every 15 minutes | `run-news.ps1 -Mode poll`: pulls main, and when the dashboard's "Run the sweep now" button has left a request, runs the sweep | enabled |
+| VisitMoganshan Editorial Draft | every day 22:00 | `run-daily.ps1 -Mode draft`: steps 0 to 3 for every row due tomorrow, stops at `image_ready` | enabled |
+| VisitMoganshan Editorial Publish | every day 03:30 | `run-daily.ps1 -Mode publish`: publishes every `image_ready` row whose date has arrived, builds, commits, pushes, emails | enabled |
+| VisitMoganshan News Sweep | Tuesday and Friday 08:00 | `run-news.ps1 -Mode sweep`: the crawler, then a Claude run that drafts and automatically publishes at most three news items | enabled |
+| VisitMoganshan News Publish | every day 12:00 | `run-news.ps1 -Mode publish`: a safety script, no model; moves any ready draft in, checks, builds, commits, pushes, emails | enabled |
+| VisitMoganshan News Poll | every 30 minutes, 08:00 to 22:00 | `run-news.ps1 -Mode poll`: pulls main, and when the dashboard's "Run the sweep now" button has left a request, runs the sweep | enabled |
 
-The news layer has its own runbook in `news/CLAUDE.md`. Approve a draft
-with `npm run news:approve -- <slug>`, reject with `--reject "reason"`,
+The news layer has its own runbook in `news/CLAUDE.md`. News publishes
+automatically after the sweep. Unpublish a live item with
+`npm run news:unpublish -- <slug>`,
 pause with `"paused": true` in `news/settings.json`.
 
 Both tasks read `schedule.csv` first and exit in a second when nothing is
 due, so the daily trigger costs nothing on the two evenings in three with no
 slot. The hours sit outside the other four pipelines on this machine
-(ChinaWebFoundry 07:00 and 10:00, BBChien 09:00 and 13:00, TheRedScroll
-11:00 and 13:00, TheChinaPath 15:00 and 17:30) so no two pipelines run the
-Claude CLI at once.
+(ChinaWebFoundry 01:30 and 05:30, BBChien 00:00 and 05:00, TheRedScroll
+00:30 and 04:00, TheChinaPath 01:00 and 04:30); every pipeline now runs at night, so
+Claude CLI sessions can overlap between 00:00 and 05:30.
 
 Scripts live in `editorial/scripts/`. `register-tasks.ps1` creates or updates
 both tasks. Each run writes its console output to
@@ -224,7 +225,7 @@ soon as the machine is back.
 
 **Sleep kills a run in progress.** A draft with four images takes an hour to
 two, and an evening with two rows due takes longer. The machine must stay
-awake from 19:30 until the draft finishes and be awake again at 06:00. Set
+awake from 22:00 until the draft finishes and be awake again at 03:30. Set
 the power plan to never sleep on AC. The runner retries transient API errors
 up to three times, five minutes apart, on the same model.
 

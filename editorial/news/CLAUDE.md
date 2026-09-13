@@ -8,9 +8,9 @@ relative to the repo root.
 
 The design is BBChien's actualités agent, moved onto a static site: a crawler
 finds candidates, the model writes an original treatment of the ones that
-matter, every draft waits in a queue, a person approves, a script publishes.
-**Nothing reaches the site without a person changing `status: pending` to
-`status: approved`.** There is no path around that and you must not build one.
+matter, and a script publishes valid drafts at the end of the run. **A person
+does not approve news before publication.** An admin can unpublish a live item
+when needed; the removed copy stays in the editorial archive.
 
 ## The files
 
@@ -20,8 +20,8 @@ matter, every draft waits in a queue, a person approves, a script publishes.
 | Cadence, budgets, pause switch | `editorial/news/settings.json` |
 | Ledger of every candidate seen | `editorial/news/seen.json` |
 | Today's triage (the sweep's output) | `editorial/news/triage/YYYY-MM-DD.md` and `.json` |
-| Drafts waiting for review | `editorial/news/drafts/<YYYY-MM-DD>-<slug>.md` |
-| Rejected, with the reason | `editorial/news/rejected/` |
+| Drafts ready to publish | `editorial/news/drafts/<YYYY-MM-DD>-<slug>.md` |
+| Unpublished archive | `editorial/news/unpublished/` |
 | Published copies of drafts | `editorial/news/published/` |
 | Run records | `editorial/news/runs.json` |
 | Lead images | raw PNG in `assets/raw/news/`, encoded webp in `public/images/news/` |
@@ -190,7 +190,7 @@ origin:
   url: https://dqnews.zjol.com.cn/dqnews/system/2026/09/05/035285000.shtml
   title_zh: 莫干山景交末班车延至21:30
   url_hash: 9b563706be992c4970b9a0507599c395841696c41ea2eba857b1155df1c9c5c0
-status: pending
+status: ready
 ---
 
 The body. 150 to 450 words. No H1.
@@ -218,18 +218,17 @@ by the collection schema at build time:
   editorial pipeline's next run takes them (they must move `last_updated`
   in the same commit that changes the fact).
 * `origin`: the ledger key, so the publish run can close the entry.
-* `status`: `pending` when you write it. Only a person sets `approved`.
+* `status`: `ready` when you write it. The news runner publishes ready drafts
+  after the sweep finishes.
 * Never a `/go/` link. Never a dollar figure. Never a "Checked" line.
 
 ## After you
 
-The reviewer reads the email, opens the file, edits it in place, and runs
-`npm run news:approve -- <slug>` or `npm run news:approve -- <slug> --reject
-"reason"`. The publish task at midday moves every approved draft whose date
-has arrived, runs the four checks and the build, commits, pushes and emails
-the live URLs. A rejected draft is kept in `editorial/news/rejected/` with the
-reason, and its ledger entry says `rejected` so the same story is not drafted
-twice.
+The runner publishes each valid ready draft after the sweep, runs the four
+checks and the build, commits, pushes and emails the live URLs. An admin who
+needs to remove an item runs `node editorial/scripts/news-unpublish.mjs <slug>`
+or uses `/admin/news`; the item moves to `editorial/news/unpublished/` and its
+ledger entry says `unpublished`.
 
 To pause the whole layer: set `"paused": true` in `settings.json`, or
 `Disable-ScheduledTask -TaskName 'VisitMoganshan News Sweep'`.

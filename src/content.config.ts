@@ -175,8 +175,8 @@ const stays = defineCollection({
  * The news collection: one file per news item, breaking item or weekly
  * dispatch, at /journal/news/YYYY/MM/{slug} and /journal/news/dispatch/YYYY-WW.
  *
- * Files arrive here through editorial/scripts/news-publish.mjs, which moves an
- * approved draft out of editorial/news/drafts and refuses anything this schema
+ * Files arrive here through editorial/scripts/news-publish.mjs, which moves a
+ * ready draft out of editorial/news/drafts and refuses anything this schema
  * would refuse, so the two are kept field for field in step (the draft side is
  * draftFrontmatterSchema in editorial/scripts/news-lib.mjs). The schema is the
  * editorial contract: an item without a dated, tiered source or without a

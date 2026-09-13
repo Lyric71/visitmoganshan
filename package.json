@@ -34,7 +34,7 @@
     "editorial:briefs": "node editorial/scripts/build-briefs.mjs",
     "editorial:notify": "node editorial/scripts/notify-publish.mjs",
     "news:sweep": "node editorial/scripts/sweep.mjs",
-    "news:approve": "node editorial/scripts/news-approve.mjs",
+    "news:unpublish": "node editorial/scripts/news-unpublish.mjs",
     "news:publish": "node editorial/scripts/news-publish.mjs",
     "news:notify": "node editorial/scripts/news-notify.mjs",
     "news:test": "node --test editorial/scripts/news-lib.test.mjs"

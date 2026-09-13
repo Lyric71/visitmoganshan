@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Publish every approved news draft whose date has arrived.
+// Publish every ready news draft whose date has arrived.
 //
 //   node editorial/scripts/news-publish.mjs [--dry] [--no-push] [--force] [--only <slug>]
 //
@@ -8,7 +8,7 @@
 // a move, a set of checks, a build and a commit, and a script does that the
 // same way every morning. In order, and it stops at the first failure:
 //
-//   1. read editorial/news/drafts, keep status: approved, published <= today
+//   1. read editorial/news/drafts, keep status: ready, published <= today
 //      (--force ignores the date, --only takes one slug)
 //   2. validate each draft: the frontmatter schema, the body rules, the image
 //      on disk when one is named, no duplicate permalink
@@ -23,7 +23,7 @@
 //
 // --dry does steps 1 to 2 and prints what would happen. --no-push commits and
 // stops. A failure at 4 removes the copied files again so the working tree is
-// clean, leaves the drafts as approved, records the run and emails the error.
+// clean, leaves the drafts ready, records the run and emails the error.
 
 import { spawnSync } from 'node:child_process';
 import { copyFileSync, existsSync, mkdirSync, readdirSync, readFileSync, unlinkSync, writeFileSync } from 'node:fs';
@@ -114,7 +114,10 @@ function collect() {
     const { data, body } = splitFrontmatter(text, parseYaml);
     const slug = file.replace(/\.md$/, '').replace(/^\d{4}-\d{2}-\d{2}-/, '');
     if (ONLY && slug !== ONLY && file.replace(/\.md$/, '') !== ONLY) continue;
-    if (data.status !== 'approved') {
+    // `approved` is accepted only to drain drafts created under the former
+    // manual-review workflow. New drafts are written as `ready` and publish
+    // automatically at the end of the sweep.
+    if (!['ready', 'approved'].includes(data.status)) {
       log(`skip ${file}: status is ${data.status ?? 'pending'}`);
       continue;
     }
@@ -172,8 +175,11 @@ function main() {
   const started = Date.now();
   const picked = collect();
   if (!picked.length) {
-    log('nothing to publish: no approved draft whose date has arrived.');
-    recordRun({ kind: 'publish', started: new Date(started).toISOString(), finished: new Date().toISOString(), outcome: 'skipped', skipReason: 'nothing approved' });
+    log('nothing to publish: no ready draft whose date has arrived.');
+    recordRun({ kind: 'publish', started: new Date(started).toISOString(), finished: new Date().toISOString(), outcome: 'skipped', skipReason: 'nothing ready' });
+    // A dashboard request names one item. Treat a missing or invalid target as
+    // a failure so its caller never tells the reviewer it was published.
+    if (ONLY) process.exitCode = 1;
     return;
   }
   for (const item of picked) log(`ready: ${item.file} -> ${item.permalink}`);
@@ -186,7 +192,7 @@ function main() {
   const slugs = picked.map((i) => i.slug);
   const fail = (step, out) => {
     for (const w of written) if (existsSync(w.target)) unlinkSync(w.target);
-    log(`stopped at "${step}". The copied files were removed; the drafts stay approved.`);
+    log(`stopped at "${step}". The copied files were removed; the drafts stay ready.`);
     recordRun({ kind: 'publish', started: new Date(started).toISOString(), finished: new Date().toISOString(), outcome: 'error', step, slugs, error: out.slice(-2000) });
     notify(['--mode', 'failed', '--note', `Stopped at ${step} for ${slugs.join(', ')}.\n\n${out.slice(-3000)}`]);
     process.exit(1);
@@ -218,7 +224,23 @@ function main() {
   recordRun({ kind: 'publish', started: new Date(started).toISOString(), finished: new Date().toISOString(), outcome: 'success', slugs, paths: written.map((w) => newsPath(w.item.data, w.item.slug)), durationMs: Date.now() - started });
 
   const branch = git('branch', '--show-current').out || 'main';
-  git('add', '--', 'src/content/news', 'editorial/news', 'public/images/news');
+  // Stage only the records and files belonging to this publish. The newsroom
+  // can have another sweep or a reviewer working in parallel, and a one-item
+  // dashboard release must not absorb their uncommitted work.
+  const staged = [
+    ...written.flatMap((w) => [
+      path.relative(ROOT, w.target),
+      path.join('editorial', 'news', 'drafts', w.item.file),
+      path.join('editorial', 'news', 'published', w.item.file),
+    ]),
+    path.join('editorial', 'news', 'seen.json'),
+    path.join('editorial', 'news', 'runs.json'),
+    ...written
+      .map((w) => w.item.data.image)
+      .filter(Boolean)
+      .map((image) => path.join('public', String(image).replace(/^\//, ''))),
+  ];
+  git('add', '--', ...new Set(staged));
   const message = `feat(news): publish ${slugs.join(', ')}`;
   const commit = git('commit', '-m', message);
   if (commit.code !== 0) {

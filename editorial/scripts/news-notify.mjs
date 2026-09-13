@@ -8,11 +8,8 @@
  *   node editorial/scripts/news-notify.mjs --mode failed --note "<error>" [--dry-run]
  *
  * `drafts` reads editorial/news/drafts and lists what is waiting, with the
- * command that approves or rejects each one. It carries no signed publish link
- * on purpose, the same decision BBChien made: a news item is read and usually
- * corrected before it goes out, and that is not a decision to take from an
- * email. `published` lists the live URLs after a publish run. `failed` reports
- * a publish run that stopped.
+ * status of the automatic publishing run. `published` lists the live URLs
+ * after a publish run. `failed` reports a publish run that stopped.
  *
  * The email is a convenience. A Resend failure exits non zero so the run log
  * records it, but the caller must never let it undo a publish that succeeded.
@@ -82,21 +79,18 @@ function readDir(dir) {
 
 function draftsEmail(args) {
   const drafts = readDir(DRAFTS);
-  const pending = drafts.filter((d) => (d.data.status ?? 'pending') === 'pending');
-  const approved = drafts.filter((d) => d.data.status === 'approved');
-  const subject = pending.length
-    ? `[Visit Moganshan] ${pending.length} news draft${pending.length === 1 ? '' : 's'} to review`
-    : approved.length
-      ? `[Visit Moganshan] ${approved.length} news draft${approved.length === 1 ? '' : 's'} approved, waiting for the publish run`
+  const ready = drafts.filter((d) => d.data.status === 'ready');
+  const subject = ready.length
+    ? `[Visit Moganshan] ${ready.length} news draft${ready.length === 1 ? '' : 's'} ready to publish`
       : '[Visit Moganshan] news sweep ran, nothing drafted';
   const lines = [];
   const html = [];
 
-  lines.push(pending.length ? `The sweep ran and ${pending.length} draft${pending.length === 1 ? ' is' : 's are'} waiting. Nothing is published: each one waits for your approval.` : 'The sweep ran. No draft was written this time.');
+  lines.push(ready.length ? `The sweep ran and ${ready.length} draft${ready.length === 1 ? ' is' : 's are'} ready. The automatic publish step follows.` : 'The sweep ran. No draft was written this time.');
   html.push(`<p style="font-size:15px;line-height:1.6;margin:0 0 16px;">${esc(lines[0])}</p>`);
-  for (const d of pending) {
+  for (const d of ready) {
     const sources = (d.data.sources ?? []).map((s) => `${s.name} (${s.name_en}), ${s.date}, tier ${s.tier}`).join('; ');
-    lines.push('', `${d.data.title}`, `  kind ${d.data.kind}, topics ${(d.data.topics ?? []).join(', ')}, ${d.data.author}`, `  ${d.data.standfirst}`, `  Consequence: ${d.data.consequence}`, `  Sources: ${sources}`, `  File: editorial/news/drafts/${d.file}`, `  Approve: npm run news:approve -- ${d.slug}`, `  Reject:  npm run news:approve -- ${d.slug} --reject "reason"`);
+    lines.push('', `${d.data.title}`, `  kind ${d.data.kind}, topics ${(d.data.topics ?? []).join(', ')}, ${d.data.author}`, `  ${d.data.standfirst}`, `  Consequence: ${d.data.consequence}`, `  Sources: ${sources}`, `  File: editorial/news/drafts/${d.file}`);
     html.push(`<div style="margin:0 0 20px;padding:14px 16px;border-left:3px solid #3E6B48;background:#F4F6F4;">
       <p style="font-size:16px;font-weight:600;margin:0 0 6px;">${esc(d.data.title)}</p>
       <p style="font-size:13px;color:#5C5C5C;margin:0 0 8px;">${esc(d.data.kind)} · ${esc((d.data.topics ?? []).join(', '))} · ${esc(d.data.author)}</p>
@@ -104,12 +98,7 @@ function draftsEmail(args) {
       <p style="font-size:14px;line-height:1.55;margin:0 0 8px;"><strong>What this means for a visitor:</strong> ${esc(d.data.consequence)}</p>
       <p style="font-size:13px;color:#5C5C5C;margin:0 0 8px;">Sources: ${esc(sources)}</p>
       <p style="font-size:13px;margin:0;"><code>editorial/news/drafts/${esc(d.file)}</code></p>
-      <p style="font-size:13px;margin:6px 0 0;">Approve: <code>npm run news:approve -- ${esc(d.slug)}</code><br>Reject: <code>npm run news:approve -- ${esc(d.slug)} --reject "reason"</code></p>
     </div>`);
-  }
-  if (approved.length) {
-    lines.push('', `Already approved, waiting for the publish run: ${approved.map((d) => d.slug).join(', ')}`);
-    html.push(`<p style="font-size:14px;color:#5C5C5C;">Already approved, waiting for the publish run: ${esc(approved.map((d) => d.slug).join(', '))}</p>`);
   }
   if (args.triage) {
     lines.push('', `Triage file: ${args.triage}`);
