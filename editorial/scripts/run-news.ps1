@@ -1,7 +1,8 @@
 <#
 .SYNOPSIS
   Runs the Visit Moganshan news layer: the sweep and drafting run, or the
-  publish run. Registered as two Windows scheduled tasks by register-tasks.ps1.
+  publish run. Registered as scheduled tasks by register-tasks.ps1, the poll
+  among them but disabled.
 
 .DESCRIPTION
   Modes:
@@ -10,18 +11,20 @@
              triage file, apply the three tests and the verification chains,
              write at most the budget of drafts into editorial/news/drafts,
              each with its lead image, then send the "drafts to review" email.
-             Nothing is published. Runs every morning; settings.json decides
+             Nothing is published. Runs every third morning; settings.json decides
              whether the sweep actually fetches (paused, gate).
     publish  Runs editorial/scripts/news-publish.mjs, a plain script with no
              model: moves every ready draft whose date has arrived into
              src/content/news, runs the four checks and the build, commits,
              pushes, emails. Runs every midday.
-    poll     Every fifteen minutes. Pulls main and looks for request files in
-             editorial/news/requests, written by the "Run the sweep now"
-             button on /admin/news when the site is on Vercel. If any are
-             there, removes them, commits and pushes that removal, then runs
-             the sweep mode with -Force. Exits in a second when there is
-             nothing, so the frequent trigger costs nothing.
+    poll     The scheduled task for this mode is disabled since
+             13 September 2026 and nothing runs it automatically. Kept because
+             it is still the way to apply a request queued from the live site,
+             by hand. Pulls main and looks for request files in
+             editorial/news/requests, written by the buttons on /admin/news
+             when the site is on Vercel. If any are there, removes them,
+             commits and pushes that removal, then runs the sweep mode with
+             -Force. Exits in a second when there is nothing.
 
   News drafts publish automatically after the sweep. An admin can later
   remove a live item with `node editorial/scripts/news-unpublish.mjs <slug>`.
@@ -50,8 +53,8 @@ New-Item -ItemType Directory -Force $RunLogDir | Out-Null
 $RunLog = Join-Path $RunLogDir "$Stamp-news-$Mode$(if ($Force) {'-forced'} else {''}).txt"
 
 if ($Mode -eq 'poll') {
-  # Quiet unless there is something to do: a log line every fifteen minutes
-  # would bury the runs that matter.
+  # Quiet unless there is something to do: a run that finds nothing writes
+  # no log line, so it cannot bury the runs that matter.
   $ErrorActionPreference = 'Continue'
   & git -C $Repo pull --ff-only --quiet origin main 2>&1 | Out-Null
   $ErrorActionPreference = 'Stop'

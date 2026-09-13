@@ -261,7 +261,7 @@ say which dispatch caused it in the run log, all in the same commit.
 
 Short daily news items are a separate track with its own rules in
 `news/CLAUDE.md`: a crawler (`scripts/sweep.mjs`) reads the registry in
-`news/sources.json` every morning, a Claude run drafts at most three items
+`news/sources.json` every third morning, a Claude run drafts at most three items
 into `news/drafts/`, a person approves each one, and a script publishes at
 midday. It shares this file's voice and absolute rules, the source tiers, the
 authors and the image rules. It never publishes without a person's approval,

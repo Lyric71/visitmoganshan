@@ -19,11 +19,13 @@ import { isSignedIn } from '../../../lib/admin-auth';
  *
  *   On Vercel: it commits a request file to editorial/news/requests/ on main
  *   through the GitHub contents API, using GITHUB_TOKEN and GITHUB_REPO from
- *   the environment. The machine polls main every fifteen minutes (the
- *   VisitMoganshan News Poll task), finds the request, removes it, and runs
- *   the sweep. Git is already the transport between the site and the machine,
- *   so the request travels the same way the content does; the push also
- *   redeploys the site, which is how the dashboard comes to show the request.
+ *   the environment. Git is already the transport between the site and the
+ *   machine, so the request travels the same way the content does; the push
+ *   also redeploys the site, which is how the dashboard comes to show the
+ *   request. The VisitMoganshan News Poll task used to pull main every
+ *   fifteen minutes and act on those files; it is disabled since
+ *   13 September 2026, so a request queued this way now waits for somebody to
+ *   run the sweep on the machine. The dashboard says so.
  *
  * A form post behind the admin cookie, with the origin checked, and a 303 back
  * to the dashboard carrying the outcome in the query string.

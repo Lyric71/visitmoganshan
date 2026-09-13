@@ -233,11 +233,13 @@ ledger entry says `unpublished`.
 To pause the whole layer: set `"paused": true` in `settings.json`, or
 `Disable-ScheduledTask -TaskName 'VisitMoganshan News Sweep'`.
 
-To run a sweep outside the schedule: the "Run the sweep now" button on
-`/admin/news`. On the machine it starts `run-news.ps1 -Mode sweep -Force`
-at once. From the live site it commits a request file to
+To run a sweep outside the schedule: `npm run news:sweep -- --force`, or the
+"Run the sweep now" button on `/admin/news` when the dashboard is open on the
+machine itself, which starts `run-news.ps1 -Mode sweep -Force` at once.
+
+From the live site that button only commits a request file to
 `editorial/news/requests/` through the GitHub API (`GITHUB_TOKEN` and
-`GITHUB_REPO` on Vercel), and the `VisitMoganshan News Poll` task, every
-fifteen minutes, pulls main, removes the file, pushes, and runs the sweep.
-A request file you find in that folder is one the machine has not reached
-yet; leave it.
+`GITHUB_REPO` on Vercel). The `VisitMoganshan News Poll` task used to pull
+main every fifteen minutes and act on those files, and it has been disabled
+since 13 September 2026, so nothing picks them up now. A request file in that
+folder is a request nobody has run: run the sweep by hand and delete it.

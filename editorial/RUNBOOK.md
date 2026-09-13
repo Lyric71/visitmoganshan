@@ -201,9 +201,9 @@ and the full model are all here, and a cloud routine has none of them.
 |---|---|---|---|
 | VisitMoganshan Editorial Draft | every day 22:00 | `run-daily.ps1 -Mode draft`: steps 0 to 3 for every row due tomorrow, stops at `image_ready` | enabled |
 | VisitMoganshan Editorial Publish | every day 03:30 | `run-daily.ps1 -Mode publish`: publishes every `image_ready` row whose date has arrived, builds, commits, pushes, emails | enabled |
-| VisitMoganshan News Sweep | Tuesday and Friday 08:00 | `run-news.ps1 -Mode sweep`: the crawler, then a Claude run that drafts and automatically publishes at most three news items | enabled |
+| VisitMoganshan News Sweep | every third day 08:00 | `run-news.ps1 -Mode sweep`: the crawler, then a Claude run that drafts and automatically publishes at most three news items | enabled |
 | VisitMoganshan News Publish | every day 12:00 | `run-news.ps1 -Mode publish`: a safety script, no model; moves any ready draft in, checks, builds, commits, pushes, emails | enabled |
-| VisitMoganshan News Poll | every 30 minutes, 08:00 to 22:00 | `run-news.ps1 -Mode poll`: pulls main, and when the dashboard's "Run the sweep now" button has left a request, runs the sweep | enabled |
+| VisitMoganshan News Poll | never, the task is disabled | `run-news.ps1 -Mode poll`: pulls main, and when the dashboard's "Run the sweep now" button has left a request, runs the sweep | **disabled** since 13 September 2026 |
 
 The news layer has its own runbook in `news/CLAUDE.md`. News publishes
 automatically after the sweep. Unpublish a live item with

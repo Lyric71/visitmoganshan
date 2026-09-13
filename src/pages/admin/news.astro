@@ -70,12 +70,12 @@ const reviewOutcome = Astro.url.searchParams.get('review');
 const reviewDetail = Astro.url.searchParams.get('detail');
 const OUTCOME_TEXT: Record<string, string> = {
   started: 'The sweep is running on this machine. Its console output goes to editorial/logs/runs; the drafts email follows when Claude is done, usually within half an hour.',
-  queued: 'The request is on its way. It was committed to main and the machine picks it up on its next poll, within fifteen minutes; this page shows it under "Requested" once the site has redeployed.',
+  queued: 'The request was committed to main and this page shows it under "Requested" once the site has redeployed. Nothing picks it up on its own: the poll task is disabled, so the sweep has to be started on the editorial machine.',
   failed: 'The sweep could not be started.',
 };
 const REVIEW_OUTCOME_TEXT: Record<string, string> = {
   unpublished: 'The item was unpublished and saved in the editorial archive.',
-  queued: 'The unpublish request is queued for the editorial machine. It will be applied as soon as the machine picks up the request.',
+  queued: 'The unpublish request was committed to main. Nothing picks it up on its own: the poll task is disabled, so it has to be applied on the editorial machine with npm run news:unpublish -- <slug>.',
   failed: 'The unpublish request was not applied.',
 };
 
@@ -106,14 +106,15 @@ const when = (iso?: string) =>
       <button type="submit">Run the sweep now</button>
     </form>
     <p class="actions__note">
-      Starts the crawler and the drafting run outside the 08:00 schedule, ignoring the pause flag.
-      On the machine that runs the tasks it starts at once; from the live site it is queued through
-      a commit on main and picked up within fifteen minutes. Valid drafts are published automatically
-      at the end of the run.
+      Starts the crawler and the drafting run outside the three day schedule, ignoring the pause
+      flag. On the machine that runs the tasks it starts at once and valid drafts are published
+      automatically at the end of the run. From the live site it only leaves a request on main:
+      the poll task that used to collect those is disabled, so somebody has to run the sweep on
+      the machine.
       {
         requests.length > 0 && (
           <span class="actions__pending">
-            {' '}Requested and not yet picked up: {requests.map((iso) => when(iso)).join('; ')}.
+            {' '}Requested and waiting for a manual run: {requests.map((iso) => when(iso)).join('; ')}.
           </span>
         )
       }
