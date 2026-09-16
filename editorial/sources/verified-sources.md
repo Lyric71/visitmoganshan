@@ -57,7 +57,7 @@ checks. -->
 * Verified 1: 2026-09-06 (page fetched, date 2025-12-04 15:53, wording 从2018年11月30日起，在8：00到17：30 confirmed)
 * Verified 2: 2026-09-06 (page fetched again, same wording present)
 * Shelf life: volatile, 3 months
-* Used in: private-car-ban-on-moganshan
+* Used in: private-car-ban-on-moganshan, moganshan-shuttle-system
 * Notes: the county portal page announcing the 2018 launch (http://www.deqing.gov.cn/art/2018/12/3/art_1229212604_55188688.html) timed out from outside China on 6 September 2026 and could not be checked; it would be the tier 1 citation. A tier 3 forum answer (Autohome, 22 September 2025) gives 07:00 to 17:00; logged below as a disagreement.
 
 ### The in park guest exception to the car rule
@@ -81,7 +81,7 @@ checks. -->
 * Verified 1: 2026-09-06
 * Verified 2: 2026-09-06
 * Shelf life: volatile, 3 months
-* Used in: private-car-ban-on-moganshan
+* Used in: private-car-ban-on-moganshan, moganshan-shuttle-system
 * Notes: disagrees with the 08:00 to 18:00 the existing getting around and tickets pages give from the August 2026 desk check. Slot 2 should reconcile. The 2019 Sohu report gives 08:00 to 17:00 for the transfer window and a 17:30 last descent at Fatou.
 
 ### Transfer centre launch: parking spaces and shuttle fare
@@ -93,7 +93,7 @@ checks. -->
 * Verified 1: 2026-09-06 (page dated 2018-12-07, 35元/人往返, 下山单程18元/人, 500个停车位 confirmed)
 * Verified 2: 2026-09-06 (fetched again, present)
 * Shelf life: volatile, 3 months (the fare); the space count is semi-stable
-* Used in: private-car-ban-on-moganshan
+* Used in: private-car-ban-on-moganshan, moganshan-shuttle-system
 * Notes: a 9,870 m² building figure from a search snippet is not on the page and is not used. The tier 1 county portal version is unreachable from here (see above).
 
 ### Parking tariff at the Yucun and Fatou transfer points
@@ -105,7 +105,7 @@ checks. -->
 * Verified 1: 2026-09-06 (both pages fetched, all five bands present on both)
 * Verified 2: 2026-09-06 (both fetched again, present)
 * Shelf life: volatile, 3 months
-* Used in: private-car-ban-on-moganshan
+* Used in: private-car-ban-on-moganshan, moganshan-shuttle-system
 * Notes: published as "reported, not confirmed". Replace with a county price notice when one can be reached. Sohu also names the three transfer points and their routes (Yucun via 古天池 to 荫山街; Fatou via 后坞 and 牛头岗 to 华亭).
 
 ### Car rule hours, disagreeing forum answer
@@ -119,6 +119,42 @@ checks. -->
 * Shelf life: volatile, 3 months
 * Used in: private-car-ban-on-moganshan
 * Notes: logged as a disagreement with the tier 2 08:00 to 17:30 figure; the article prints both.
+
+### Two themed shuttle lines from the transfer centre, and their fare
+* Value: RMB 5 per trip on both. 凯乐石号 (Kailas) runs between Biwu Dragon Pool at Xiantan and the Wusi village pool resort, calling at Nanlu, the Sihe fish scale weir, Junanli and Yucun, 08:00 to 17:40. 斯巴达号 (Spartan) runs between the transfer centre and Jiangnan Yaowu, calling at Laoling reservoir, naked Valley, Ziling and Houwu, 08:00 to 16:20. Both ran May to October, Saturdays, Sundays and public holidays. Opened 21 June 2025.
+* As of: June 2025
+* Source: Deqing News (德清新闻网), reporters 陈明月 and 蔡俊
+* Tier: 2
+* URL: https://dqnews.zjol.com.cn/dqnews/system/2025/06/24/034991600.shtml
+* Verified 1: 2026-09-16 (page fetched, dated 2025-06-24, 票价均为5元/人次, 8:00至17:40, 8:00至16:20, both line names and the 6月21日 opening confirmed on the page)
+* Verified 2: 2026-09-16 (page fetched again, every string still present)
+* Shelf life: volatile, 3 months
+* Used in: moganshan-shuttle-system
+* Notes: the report covers the 2025 season only. No dated source confirms either line ran in 2026 and the article says so. This is the only tier 2 shuttle fare on the mountain that is less than six years old.
+
+### The RMB 130 Moganshan day: entry, transfer coach and loop bus
+* Value: entry RMB 80 per person, coach up and down RMB 35 per person, loop bus between the sights RMB 15 per person, RMB 130 in total. Indoor sights 08:30 to 16:30.
+* As of: June 2020
+* Source: Youxiake (游侠客), guide by 金二思
+* Tier: 3
+* URL: https://www.youxiake.com/gonglue/view?id=4306
+* Verified 1: 2026-09-16 (page fetched, 莫干山门票80元/人, 上下接驳车35元/人, 循环景交车15元/人 confirmed; the page's own JSON gives pubDate 2020-06-22T08:00:00 and author 金二思; view count 7.43万)
+* Verified 2: 2026-09-16 (page fetched again, same strings and same pubDate)
+* Shelf life: volatile, 3 months, but the underlying figures are already six years old
+* Used in: moganshan-shuttle-system
+* Notes: the page is currently headlined as a 2026 guide and ranks near the top of the Chinese results, while its metadata date is 22 June 2020. Cite it as a June 2020 figure and never as a current one. It corroborates the RMB 35 return fare announced at the 2018 launch.
+
+### Transfer fares, last bus down, luggage store and dog cages, August 2019 visit
+* Value: coach 35元/人往返 from the transfer centre to Yinshan Street; loop bus inside the scenic area 15元/人, valid that day; last coach down from Yinshan Street 17:00; free luggage storage at the transfer centre service desk; free cages at the service centre for large dogs, which may not go up; small carriers hired against a returnable deposit
+* As of: August 2019 (the visit the account describes)
+* Source: Youxiake community (游侠客社区), trip report by 喵喵酱旅行
+* Tier: 3
+* URL: https://bbs.youxiake.com/y/1022265.html
+* Verified 1: 2026-09-16 (page fetched, 35元/人往返, 15元/人，当天有效, 免费寄存, 大笼子, 最后一班下山车是17:00 and the author name confirmed on the page)
+* Verified 2: 2026-09-16 (page fetched again, every string still present)
+* Shelf life: volatile, 3 months, on an account already seven years old
+* Used in: moganshan-shuttle-system
+* Notes: the page carries no publication date anywhere in its HTML or metadata. It dates itself in its own text, 我是19年8月旺季去的 and 2019年8月最新路线, and is cited only as a trip report describing an August 2019 visit, never as a current fact. The luggage claim contradicts our own desk research of 1 to 5 August 2026, which found no left luggage service at the transfer centres and is what /getting-here/getting-around/ says; the article prints both and resolves neither. Slot 006 should settle it.
 
 ## Places, stays, seasons, trails (semi-stable)
 
