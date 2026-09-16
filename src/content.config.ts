@@ -207,7 +207,7 @@ const news = defineCollection({
       standfirst: z.string().min(40).max(320),
       kind: z.enum(['item', 'breaking', 'dispatch']).default('item'),
       /** ISO week, dispatches only, e.g. "2026-38". Also the permalink. */
-      week: z.string().regex(/^d{4}-d{2}$/).optional(),
+      week: z.string().regex(/^\d{4}-\d{2}$/).optional(),
       topics: z.array(z.enum(NEWS_TOPICS)).min(1).max(4),
       author: z.enum(AUTHOR_IDS as [string, ...string[]]).default(DEFAULT_AUTHOR),
       published: z.coerce.date(),

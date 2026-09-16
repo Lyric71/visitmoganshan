@@ -329,6 +329,172 @@
       "finished": "2026-09-13T04:00:03.664Z",
       "outcome": "skipped",
       "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-09-14T01:47:55.864Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-09-14T01:47:55.890Z",
+      "durationMs": 26
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-14T01:47:57.883Z",
+      "finished": "2026-09-14T01:47:57.918Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-14T04:00:07.144Z",
+      "finished": "2026-09-14T04:00:07.215Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-09-14T07:35:16.856Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-09-14T07:35:16.918Z",
+      "durationMs": 62
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-14T07:35:20.908Z",
+      "finished": "2026-09-14T07:35:20.960Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-09-14T12:02:14.419Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-09-14T12:02:14.445Z",
+      "durationMs": 26
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-14T12:02:16.735Z",
+      "finished": "2026-09-14T12:02:16.769Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-15T04:00:08.004Z",
+      "finished": "2026-09-15T04:00:08.105Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-09-15T04:54:36.322Z",
+      "outcome": "success",
+      "sourcesQueried": 22,
+      "candidates": 34,
+      "newCandidates": 9,
+      "unreachable": [
+        "deqing-gov",
+        "huzhou-cts",
+        "zj-cts",
+        "huzhou-gov"
+      ],
+      "errors": [
+        "meadin: 酒店频道: anti bot challenge page (8232 bytes), open it in a browser instead",
+        "deqing-gov: 公告公示: timeout after 12000 ms",
+        "deqing-gov: 德清要闻 A: timeout after 12000 ms",
+        "deqing-gov: 德清要闻 B: timeout after 12000 ms",
+        "deqing-gov: 莫干山镇: timeout after 12000 ms",
+        "deqing-gov: 文广旅体局: timeout after 12000 ms",
+        "hangzhou-daily: 杭州日报数字报: anti bot challenge page (90 bytes), open it in a browser instead",
+        "huzhou-cts: 工作动态: timeout after 12000 ms",
+        "huzhou-cts: 政策文件: timeout after 12000 ms",
+        "zj-cts: 浙江文旅: fetch failed",
+        "zj-cts: 政务公开: fetch failed",
+        "zj-cts: 浙江省旅游度假区: fetch failed",
+        "huzhou-gov: 湖州要闻 德清: fetch failed",
+        "huzhou-gov: 交通运输局: timeout after 12000 ms"
+      ],
+      "triage": "editorial/news/triage/2026-09-15.md",
+      "finished": "2026-09-15T04:59:39.124Z",
+      "durationMs": 302802
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-15T05:05:08.660Z",
+      "finished": "2026-09-15T05:05:08.685Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-15T05:05:09.628Z",
+      "finished": "2026-09-15T05:05:09.653Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-09-16T02:08:23.692Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-09-16T02:08:23.767Z",
+      "durationMs": 75
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-09-16T02:10:37.811Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-09-16T02:10:37.823Z",
+      "durationMs": 12
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-16T02:10:40.181Z",
+      "finished": "2026-09-16T02:10:40.205Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-16T04:30:46.958Z",
+      "finished": "2026-09-16T04:30:46.997Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-09-16T04:36:56.140Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-09-16T04:36:56.169Z",
+      "durationMs": 29
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-16T04:36:57.196Z",
+      "finished": "2026-09-16T04:36:57.227Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-09-16T12:40:00.267Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-09-16T12:40:00.293Z",
+      "durationMs": 26
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-16T12:40:02.847Z",
+      "finished": "2026-09-16T12:40:02.913Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
     }
   ]
 }
