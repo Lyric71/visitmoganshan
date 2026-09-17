@@ -495,6 +495,94 @@
       "finished": "2026-09-16T12:40:02.913Z",
       "outcome": "skipped",
       "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-09-17T03:50:25.343Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-09-17T03:50:25.384Z",
+      "durationMs": 41
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-17T03:50:28.075Z",
+      "finished": "2026-09-17T03:50:28.175Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-09-17T14:41:10.629Z",
+      "outcome": "success",
+      "sourcesQueried": 22,
+      "candidates": 33,
+      "newCandidates": 17,
+      "unreachable": [
+        "deqing-gov",
+        "huzhou-cts",
+        "zj-cts",
+        "huzhou-gov"
+      ],
+      "errors": [
+        "meadin: 酒店频道: anti bot challenge page (8232 bytes), open it in a browser instead",
+        "deqing-gov: 公告公示: timeout after 12000 ms",
+        "deqing-gov: 德清要闻 A: timeout after 12000 ms",
+        "deqing-gov: 德清要闻 B: timeout after 12000 ms",
+        "deqing-gov: 莫干山镇: timeout after 12000 ms",
+        "deqing-gov: 文广旅体局: timeout after 12000 ms",
+        "hangzhou-daily: 杭州日报数字报: anti bot challenge page (90 bytes), open it in a browser instead",
+        "huzhou-cts: 工作动态: timeout after 12000 ms",
+        "huzhou-cts: 政策文件: timeout after 12000 ms",
+        "zj-cts: 浙江文旅: fetch failed",
+        "zj-cts: 政务公开: fetch failed",
+        "zj-cts: 浙江省旅游度假区: fetch failed",
+        "huzhou-gov: 湖州要闻 德清: fetch failed",
+        "huzhou-gov: 交通运输局: timeout after 12000 ms"
+      ],
+      "triage": "editorial/news/triage/2026-09-17.md",
+      "finished": "2026-09-17T14:46:16.343Z",
+      "durationMs": 305714
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-17T15:07:02.249Z",
+      "finished": "2026-09-17T15:08:08.434Z",
+      "outcome": "error",
+      "slugs": [
+        "chestnut-picking-runs-to-mid-october",
+        "kaiyuan-senbo-mine-pit-due-in-october"
+      ],
+      "paths": [
+        "/journal/news/2026/09/chestnut-picking-runs-to-mid-october",
+        "/journal/news/2026/09/kaiyuan-senbo-mine-pit-due-in-october"
+      ],
+      "durationMs": 66185,
+      "step": "commit",
+      "error": "git add aborted on editorial/news/drafts/<file>, a pathspec that matches neither a file on disk nor an index entry, so nothing was staged and git commit reported \"no changes added to commit\". The checks and the build had all passed. Rolled back by the following run: the two files were removed from src/content/news and the drafts restored."
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-09-17T15:08:10.880Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-09-17T15:08:10.897Z",
+      "durationMs": 17
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-17T15:13:23.113Z",
+      "finished": "2026-09-17T15:14:09.718Z",
+      "outcome": "success",
+      "slugs": [
+        "chestnut-picking-runs-to-mid-october",
+        "kaiyuan-senbo-mine-pit-due-in-october"
+      ],
+      "paths": [
+        "/journal/news/2026/09/chestnut-picking-runs-to-mid-october",
+        "/journal/news/2026/09/kaiyuan-senbo-mine-pit-due-in-october"
+      ],
+      "durationMs": 46605
     }
   ]
 }
