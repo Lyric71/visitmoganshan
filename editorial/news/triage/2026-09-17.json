@@ -1,0 +1,666 @@
+{
+  "stamp": "2026-09-17",
+  "run": "17/09/2026, 22:46:16",
+  "settings": {
+    "$comment": "Scheduling lives in data, not in the scheduler. The Windows task reads this file before it fetches anything. Change the cadence or pause the agent by editing a value here; nothing needs registering again. lookbackDays overrides the registry default. dailyDraftLimit and maxDraftsPerRun cap what one Claude run may write into editorial/news/drafts. minDaysBetweenSweeps is the gate the runner checks against the last successful run in runs.json (0 means every day). The cadence itself is the three day trigger in editorial/scripts/register-tasks.ps1; the gate here is a floor under it, kept one day short of the interval so ordinary scheduling jitter cannot make a scheduled sweep fall through it, and so a run started by hand or by the dashboard the day after a sweep does not crawl the same listing pages again. A forced run ignores it.",
+    "paused": false,
+    "minDaysBetweenSweeps": 2,
+    "lookbackDays": 8,
+    "dailyDraftLimit": 3,
+    "maxDraftsPerRun": 3,
+    "notify": true
+  },
+  "sources": [
+    {
+      "id": "dqnews",
+      "errors": [],
+      "unreachable": false,
+      "candidates": [
+        {
+          "key": "5b630c66bf9a7513b65b88ff33503b0769d75ab55601545258f57181dda9f968",
+          "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/17/035293730.shtml",
+          "title": "德清金秋板栗游升温 采摘期持续至10月中旬",
+          "via": null,
+          "date": "2026-09-17",
+          "matched": null,
+          "tier": 1,
+          "status": "new",
+          "score": 600,
+          "duplicateOf": null
+        },
+        {
+          "key": "d751720147cfd504488877e1cae93a40e2ce10a7081a3e7dd4b346098a44b3a3",
+          "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/16/035293125.shtml",
+          "title": "矿坑“星”生 文旅焕新",
+          "via": null,
+          "date": "2026-09-16",
+          "matched": null,
+          "tier": 1,
+          "status": "new",
+          "score": 575,
+          "duplicateOf": null
+        },
+        {
+          "key": "98a5e2b1574bd52d2abd6c5a557d2ab64d896fdf45b51b22b597f2e025afd7f2",
+          "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/15/035292425.shtml",
+          "title": "山水田园皆入画 美丽乡村正焕新",
+          "via": null,
+          "date": "2026-09-15",
+          "matched": null,
+          "tier": 1,
+          "status": "new",
+          "score": 550,
+          "duplicateOf": null
+        },
+        {
+          "key": "45f980e2aa806c243244a9b24f592889c466b73db1bdd440cf197047a34bde82",
+          "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/14/035291748.shtml",
+          "title": "塔山兴农食用菌场灵芝丰收",
+          "via": null,
+          "date": "2026-09-14",
+          "matched": null,
+          "tier": 1,
+          "status": "skipped",
+          "score": 565,
+          "duplicateOf": null
+        },
+        {
+          "key": "767549201a675c754ce6f8bdd5d2b2caf7ebdaffa0555b42ad640f7e26ef28ba",
+          "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/10/035288883.shtml",
+          "title": "生态研学进山林",
+          "via": null,
+          "date": "2026-09-10",
+          "matched": null,
+          "tier": 1,
+          "status": "skipped",
+          "score": 625,
+          "duplicateOf": null
+        },
+        {
+          "key": "62fdeab3557b7b8c876013416ff85b5eba390bddc1e8c5bc9a418ae132433e78",
+          "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/09/035288334.shtml",
+          "title": "银龄巧手做花灯",
+          "via": null,
+          "date": "2026-09-09",
+          "matched": null,
+          "tier": 1,
+          "status": "skipped",
+          "score": 600,
+          "duplicateOf": null
+        },
+        {
+          "key": "f862ca13ae64e56bececd88e1860db135c0284ebd82b15666fe243ba4f194cce",
+          "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/17/035293702.shtml",
+          "title": "县领导督导莫干山高新区安全生产工作",
+          "via": null,
+          "date": "2026-09-17",
+          "matched": "莫干山",
+          "tier": 1,
+          "status": "new",
+          "score": 600,
+          "duplicateOf": null
+        },
+        {
+          "key": "45b63963cd9451083eb543efb7cc58f57260499a5387bd98ff27dafa19ee4cb1",
+          "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/17/035293701.shtml",
+          "title": "德清召开第194期 亲清直通车·政企恳谈会",
+          "via": null,
+          "date": "2026-09-17",
+          "matched": "德清",
+          "tier": 1,
+          "status": "new",
+          "score": 600,
+          "duplicateOf": null
+        },
+        {
+          "key": "21a45fb4e4b5a421bbc280cd4a1f1b04f5235ae0279de4400978482069d3d12f",
+          "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/17/035293700.shtml",
+          "title": "学员来自52个国家 德清“链”接全球地信资源",
+          "via": null,
+          "date": "2026-09-17",
+          "matched": "德清",
+          "tier": 1,
+          "status": "new",
+          "score": 600,
+          "duplicateOf": null
+        },
+        {
+          "key": "ced5cbe67602dded7d0eb4019ead221c4ffa08c2ae1aae9bc8e1fd52879ec4ff",
+          "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/17/035293699.shtml",
+          "title": "德清46名新兵奔赴军营",
+          "via": null,
+          "date": "2026-09-17",
+          "matched": "德清",
+          "tier": 1,
+          "status": "new",
+          "score": 600,
+          "duplicateOf": null
+        },
+        {
+          "key": "357bd920afab48636587253febd9b21a690a5a38ba4af9603c0b4333d5ce2113",
+          "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/17/035293698.shtml",
+          "title": "汇聚全球智囊 共商发展蓝图 联合国全球地理信息知识与创新中心“两委会”会议在德清召开",
+          "via": null,
+          "date": "2026-09-17",
+          "matched": "德清",
+          "tier": 1,
+          "status": "new",
+          "score": 600,
+          "duplicateOf": null
+        },
+        {
+          "key": "1b436f51ce7564254b35a7fcb065fbd9fdd1ddc78dcddf4709935acd814833a7",
+          "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/16/035293103.shtml",
+          "title": "县领导督导莫干山高新区治水治气百日攻坚行动",
+          "via": null,
+          "date": "2026-09-16",
+          "matched": "莫干山",
+          "tier": 1,
+          "status": "new",
+          "score": 575,
+          "duplicateOf": null
+        },
+        {
+          "key": "cecc0f0d403873a60c72056feb0fee33527ee41db4b800a384627b23100074b8",
+          "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/16/035293102.shtml",
+          "title": "联合国综合地理空间信息框架知识传播与能力建设研讨班在德清开班",
+          "via": null,
+          "date": "2026-09-16",
+          "matched": "德清",
+          "tier": 1,
+          "status": "new",
+          "score": 575,
+          "duplicateOf": null
+        },
+        {
+          "key": "35fd0a9b9e410e79b13ee5a4a49c89407d377945928fc593a5aa8c244e92c357",
+          "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/17/035293711.shtml",
+          "title": "凌晨“钩车门”盗走4万余元 德清公安跨省追击一网打尽",
+          "via": null,
+          "date": "2026-09-17",
+          "matched": "德清",
+          "tier": 1,
+          "status": "new",
+          "score": 600,
+          "duplicateOf": null
+        },
+        {
+          "key": "4d5036735675ab2c0ca883ad51d7a46aa2f50a3c86da4f215b2aa5190a4e5fcf",
+          "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/17/035293708.shtml",
+          "title": "德清金秋板栗游升温 采摘期持续至10月中旬",
+          "via": null,
+          "date": "2026-09-17",
+          "matched": "德清",
+          "tier": 1,
+          "status": "skipped",
+          "score": 600,
+          "duplicateOf": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/17/035293730.shtml"
+        },
+        {
+          "key": "4490c26ff7729f63e5d990ea8adb88604cd2a9b61e55536396cb216cfd351444",
+          "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/14/035291743.shtml",
+          "title": "男子潜逃境外五年 德清警方成功劝返偷越国（边）境嫌疑人",
+          "via": null,
+          "date": "2026-09-14",
+          "matched": "德清",
+          "tier": 1,
+          "status": "skipped",
+          "score": 565,
+          "duplicateOf": null
+        },
+        {
+          "key": "fb38a261fd13af6a17269d49f6700d809ec074e72e305812c5c83fcc0c43c99e",
+          "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/15/035292414.shtml",
+          "title": "我武生物新药临床获批 德清药企瞄准“它经济”新赛道",
+          "via": null,
+          "date": "2026-09-15",
+          "matched": "德清",
+          "tier": 1,
+          "status": "new",
+          "score": 550,
+          "duplicateOf": null
+        },
+        {
+          "key": "54ab50ff07cd72cdb7d7d7f999876dba3c9212df144977623397379ac7051fcc",
+          "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/14/035291726.shtml",
+          "title": "中秋临近 月饼热销 德清食品企业抢抓“节令经济”",
+          "via": null,
+          "date": "2026-09-14",
+          "matched": "德清",
+          "tier": 1,
+          "status": "skipped",
+          "score": 565,
+          "duplicateOf": null
+        },
+        {
+          "key": "154d15f4994cdc4501b5b194e73d9a310be015fd69f469b62c31a9cb8726f919",
+          "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/09/035288307.shtml",
+          "title": "旧厂房“换”出新酒店 阜溪低效用地再开发的德清实践",
+          "via": null,
+          "date": "2026-09-09",
+          "matched": "德清",
+          "tier": 1,
+          "status": "skipped",
+          "score": 600,
+          "duplicateOf": null
+        },
+        {
+          "key": "4ae18aa710f932a7603a9b351f1085c95e32ce3619a1d60e65a6f16bb7f130cf",
+          "url": "https://dqnews.zjol.com.cn/dqnews/system/2026/09/11/035289524.shtml",
+          "title": "德清“三跳”为何能让中国音乐学院投下“幸福的种子”",
+          "via": null,
+          "date": "2026-09-11",
+          "matched": "德清",
+          "tier": 1,
+          "status": "skipped",
+          "score": 650,
+          "duplicateOf": null
+        }
+      ]
+    },
+    {
+      "id": "meadin",
+      "errors": [
+        "酒店频道: anti bot challenge page (8232 bytes), open it in a browser instead"
+      ],
+      "unreachable": false,
+      "candidates": []
+    },
+    {
+      "id": "deqing-gov",
+      "errors": [
+        "公告公示: timeout after 12000 ms",
+        "德清要闻 A: timeout after 12000 ms",
+        "德清要闻 B: timeout after 12000 ms",
+        "莫干山镇: timeout after 12000 ms",
+        "文广旅体局: timeout after 12000 ms"
+      ],
+      "unreachable": true,
+      "candidates": []
+    },
+    {
+      "id": "zjol-huzhou",
+      "errors": [],
+      "unreachable": false,
+      "candidates": [
+        {
+          "key": "e1ee3e25339a70e103fb2a154a9cb5c54b0db0d6aec82981dcbca9add842c8b4",
+          "url": "https://zjnews.zjol.com.cn/zjnews/90zxw/202609/t20260915_31909824.shtml",
+          "title": "送票福利！喜剧新专场门票等你来拿丨《90早新闻》来了",
+          "via": null,
+          "date": "2026-09-15",
+          "matched": "门票",
+          "tier": 2,
+          "status": "skipped",
+          "score": 490,
+          "duplicateOf": null
+        }
+      ]
+    },
+    {
+      "id": "hangzhou-daily",
+      "errors": [
+        "杭州日报数字报: anti bot challenge page (90 bytes), open it in a browser instead"
+      ],
+      "unreachable": false,
+      "candidates": [
+        {
+          "key": "daa352e234a28824507094ebd5d8d1a7e704d4bc37b14ff00fd712adf090f5e9",
+          "url": "https://news.hangzhou.com.cn/zjnews/content/2026-09/16/content_9308508.htm",
+          "title": "· 盘活低效空间，升级运营服务，迭代产品内容！“有机更新”擦亮德清下渚湖文旅名片",
+          "via": null,
+          "date": "2026-09-16",
+          "matched": "德清",
+          "tier": 2,
+          "status": "new",
+          "score": 475,
+          "duplicateOf": null
+        },
+        {
+          "key": "7227265ecd108d3aa32e76e5a73f9f3d2ca683f8f28dbe44a4aaf6ada3788ff8",
+          "url": "https://ori.hangzhou.com.cn/ornews/content/2026-09/17/content_9309516.htm",
+          "title": "国企赋能乡村振兴 下姜村凭一间民宿闯出共富新路径",
+          "via": null,
+          "date": "2026-09-17",
+          "matched": "民宿",
+          "tier": 2,
+          "status": "new",
+          "score": 500,
+          "duplicateOf": null
+        },
+        {
+          "key": "7e78116f4744f11cc64a3e204f522f5d014767e0b0e6fb95449cdd011d657982",
+          "url": "https://ori.hangzhou.com.cn/ornews/content/2026-09/16/content_9308694.htm",
+          "title": "把富春江岸变成嘉年华 杭州超级杯门票更享文旅福利",
+          "via": null,
+          "date": "2026-09-16",
+          "matched": "门票",
+          "tier": 2,
+          "status": "new",
+          "score": 475,
+          "duplicateOf": null
+        }
+      ]
+    },
+    {
+      "id": "huzhou-cts",
+      "errors": [
+        "工作动态: timeout after 12000 ms",
+        "政策文件: timeout after 12000 ms"
+      ],
+      "unreachable": true,
+      "candidates": []
+    },
+    {
+      "id": "zj-cts",
+      "errors": [
+        "浙江文旅: fetch failed",
+        "政务公开: fetch failed",
+        "浙江省旅游度假区: fetch failed"
+      ],
+      "unreachable": true,
+      "candidates": []
+    },
+    {
+      "id": "ctnews",
+      "errors": [],
+      "unreachable": false,
+      "candidates": []
+    },
+    {
+      "id": "google-news-zh",
+      "errors": [],
+      "unreachable": false,
+      "candidates": [
+        {
+          "key": "b527129769c169b6a62eac2614d2b97e4fb9565c10e65785a7135a5e7ff761fb",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd3lKSkhOU3dnb1BOUEcxbkQzQ1doRl9Kc0NIekZZZEdNN3RQbnViUzY0WllBNVpTZDhZNm9BZ2VWaEZKR2p3NHhBSFloaEZodlllc0RhVUl5cW5JaWxBSlYwVVNtSUJWNWx6RE5RR3A1QjNOWkFZanh6SEdlbHMzSkx6SXc?oc=5",
+          "title": "去莫干山要带薄外套吗",
+          "via": "cj.sina.cn",
+          "date": "2026-09-13",
+          "matched": null,
+          "tier": 4,
+          "status": "skipped",
+          "score": 240,
+          "duplicateOf": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVlVSbVRvTlF4d29fTFBCMnVtX0tKLWF4Qm9xdl9yYW5ZQXd3bmkxLUNhWnZjT1o2UVFZcVQ0VG9ieHEyakl6U19ON2xmWGZZNzJsODd3SVIxMkFiaFRWTmttSkVhc0xOWTJKVnllQ3pyZ0JZYmYxeHJYNWtXZFp1azNWNHU?oc=5"
+        },
+        {
+          "key": "8d264edae68ae50d9de87086cfc8850a29fc84f59118fcd37a8e7f6d6b49cefc",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa3J0RFBPcmxjZkc4UGNDR3pybVN1MTltVlZvZVRpMEd1MUpoVU5uLTZ0MEtwOHBxQnJPaVlXc1REUTJjZUl6cGJYR0NZdGpCdnJjdUxNY25IQU5ic2E1WkozczV4akxvSHVwejBiU2xmcUxsbWYxSkI5Ync1Y0NkakNFSkE5ZC04V3h3U1BDQVlOeXpGYWg2dA?oc=5",
+          "title": "1.1亿爆改！德清近郊这家酒店火了",
+          "via": "finance.sina.cn",
+          "date": "2026-09-12",
+          "matched": null,
+          "tier": 4,
+          "status": "skipped",
+          "score": 295,
+          "duplicateOf": null
+        },
+        {
+          "key": "568343032b91682a65981dced5e3afb2a3b5993a96224b89d635476e27f5af43",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE14Z25rdjJ0TmZPa25oeW5QNk1yOEljMGVBWU8xNl9VVVhBcUNRYjZINXhreU9CSlo0ZmlDSGs5Vk40cWVLQmZ0TVNlSkNlVjZzR1NZdS1UWldiMTQycDQxbkNhMktaVTZGYmMzRlozekJIRk9fZVVr?oc=5",
+          "title": "杭德市域铁路德清高铁站入站即山水，2个通道可直达换乘高铁",
+          "via": "潮新闻客户端",
+          "date": "2026-09-09",
+          "matched": null,
+          "tier": 4,
+          "status": "skipped",
+          "score": 340,
+          "duplicateOf": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX0UzSG5Gei16V0ViRnB2TTZDa2VRYlhKeFNxZGNSUWxpT3IwUjJsRlVsUkhQM29jcFRyVnREYXFSZjFndU9QVlB0Q3IwNEplME4yN293QlRQRzF5Qmp0UHNGbURuZWVCVm9FN0toSWJmZkJvWUxLTzY1d3pjMERYMzB6TU1QVjdYbE9FMw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "google-news-en",
+      "errors": [],
+      "unreachable": false,
+      "candidates": []
+    },
+    {
+      "id": "bing-news",
+      "errors": [],
+      "unreachable": false,
+      "candidates": [
+        {
+          "key": "728c31ba031120c7a425f4821da371bb8735db3c3890416c11c7b437e25a441a",
+          "url": "https://sohu.com/a/1073632716_120924137",
+          "title": "国际大牌酒店，“组团”涌进莫干山！",
+          "via": "搜狐",
+          "date": "2026-09-09",
+          "matched": null,
+          "tier": 4,
+          "status": "skipped",
+          "score": 340,
+          "duplicateOf": null
+        },
+        {
+          "key": "f6bbc984c22a1322b493b92621c5255975f9ce79a4e5b23dae6c6ef2ade4638e",
+          "url": "https://finance.sina.com.cn/wm/2026-09-13/doc-inirrtkn5855804.shtml",
+          "title": "越野卡丁车、采摘园……莫干山又多一打卡地！",
+          "via": "新浪财经",
+          "date": "2026-09-12",
+          "matched": null,
+          "tier": 4,
+          "status": "skipped",
+          "score": 295,
+          "duplicateOf": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DZDVpNDNTQjFrQmFkMXV0Si1RUVBnaTJRZ1pMQkwtc2tKdlExMll3Y2czalAwLUZEcERPMmFteU9Pc0xITzN2V1hYUTZweEwxZGktenlqX1h1RjgxdGNBMkFCVWtCSnM2UkRKZmc3dlBSUWdSdlE?oc=5"
+        },
+        {
+          "key": "d327c85593819fc7ed7112b8cc0502b391521691defe9c579e268432bd266aac",
+          "url": "https://finance.sina.com.cn/wm/2026-09-15/doc-inirwfqk3970292.shtml",
+          "title": "莫干山这个郊野公园，10月对外开放！",
+          "via": "新浪财经",
+          "date": "2026-09-14",
+          "matched": null,
+          "tier": 4,
+          "status": "skipped",
+          "score": 305,
+          "duplicateOf": null
+        },
+        {
+          "key": "2a3d54d60792838f84f5cc38b139cd23d730021103ec0cdd2d2ad817a799110a",
+          "url": "https://sohu.com/a/1075389596_121106994",
+          "title": "德清奇幻谷获评国家4A级旅游景区，走起~",
+          "via": "搜狐",
+          "date": "2026-09-13",
+          "matched": null,
+          "tier": 4,
+          "status": "skipped",
+          "score": 280,
+          "duplicateOf": null
+        }
+      ]
+    },
+    {
+      "id": "people-zj",
+      "errors": [],
+      "unreachable": false,
+      "candidates": []
+    },
+    {
+      "id": "hzzx",
+      "errors": [],
+      "unreachable": false,
+      "candidates": []
+    },
+    {
+      "id": "huzhou-gov",
+      "errors": [
+        "湖州要闻 德清: fetch failed",
+        "交通运输局: timeout after 12000 ms"
+      ],
+      "unreachable": true,
+      "candidates": []
+    },
+    {
+      "id": "zuicool",
+      "errors": [],
+      "unreachable": false,
+      "candidates": [
+        {
+          "key": "ac6d4dd1c109dd1e671a87ec214370694bde68232e90799edf607327882b2346",
+          "url": "https://zuicool.com/event/12546",
+          "title": "2026 UTO助力首百越野训练赛·莫干山站",
+          "via": null,
+          "date": null,
+          "matched": "莫干山",
+          "tier": 3,
+          "status": "published",
+          "score": 360,
+          "duplicateOf": null
+        }
+      ]
+    },
+    {
+      "id": "traveldaily",
+      "errors": [],
+      "unreachable": false,
+      "candidates": []
+    },
+    {
+      "id": "saihuitong",
+      "errors": [],
+      "unreachable": false,
+      "candidates": [
+        {
+          "key": "dacd69f1e6c8b28ce675edfaadf987bbcd1b39ce64d4d3cadd560a0bb429bb1d",
+          "url": "https://moganshan.saihuitong.com/events?mid=72300",
+          "title": "2026凯乐石莫干山跑山赛",
+          "via": null,
+          "date": null,
+          "matched": "莫干山",
+          "tier": 3,
+          "status": "published",
+          "score": 360,
+          "duplicateOf": null
+        }
+      ]
+    },
+    {
+      "id": "xinhua-deqing",
+      "errors": [],
+      "unreachable": false,
+      "candidates": []
+    },
+    {
+      "id": "ezhejiang",
+      "errors": [],
+      "unreachable": false,
+      "candidates": []
+    },
+    {
+      "id": "chinadaily-huzhou",
+      "errors": [],
+      "unreachable": false,
+      "candidates": []
+    },
+    {
+      "id": "smartshanghai",
+      "errors": [],
+      "unreachable": false,
+      "candidates": []
+    },
+    {
+      "id": "ttgasia",
+      "errors": [],
+      "unreachable": false,
+      "candidates": []
+    }
+  ],
+  "weather": {
+    "id": "weather-moganshan",
+    "checks": [
+      {
+        "label": "莫干山镇 1日",
+        "url": "https://forecast.weather.com.cn/town/weather1dn/101210204004.shtml",
+        "status": 200,
+        "warnings": []
+      },
+      {
+        "label": "德清县 40日",
+        "url": "https://www.weather.com.cn/weather40d/101210204.shtml",
+        "status": 200,
+        "warnings": []
+      },
+      {
+        "label": "中央气象台 德清",
+        "url": "http://www.nmc.cn/publish/forecast/AZJ/deqing.html",
+        "status": 200,
+        "warnings": []
+      }
+    ]
+  },
+  "fixtures": [
+    {
+      "window": "late September",
+      "item": "莫干山会议",
+      "itemEn": "The Moganshan Conference, descendant of the 1984 meeting",
+      "source": "xinhua-deqing",
+      "priority": "MEDIUM"
+    },
+    {
+      "window": "late October",
+      "item": "凯乐石莫干山跑山赛",
+      "itemEn": "Kailas Moganshan Skyrace",
+      "source": "https://moganshan.saihuitong.com/",
+      "priority": "HIGH"
+    },
+    {
+      "window": "7 to 10 days before each Golden Week",
+      "item": "黄金周节目单",
+      "itemEn": "Golden Week programme",
+      "source": "aideqing",
+      "priority": "HIGH"
+    }
+  ],
+  "manualCheck": [
+    {
+      "id": "tidenews",
+      "why": "rendered client side"
+    },
+    {
+      "id": "thepaper",
+      "why": "manual only"
+    },
+    {
+      "id": "metime007",
+      "why": "rendered client side"
+    },
+    {
+      "id": "brand-newsrooms",
+      "why": "kind manual"
+    },
+    {
+      "id": "utmb-mogan",
+      "why": "kind manual"
+    },
+    {
+      "id": "aideqing",
+      "why": "kind wechat"
+    },
+    {
+      "id": "hotel-trade-en",
+      "why": "kind manual"
+    },
+    {
+      "id": "sogou-weixin",
+      "why": "kind manual"
+    },
+    {
+      "id": "108sq-deqing",
+      "why": "kind manual"
+    },
+    {
+      "id": "dianping",
+      "why": "kind confirmation"
+    },
+    {
+      "id": "ctrip",
+      "why": "kind confirmation"
+    },
+    {
+      "id": "xiaohongshu",
+      "why": "kind trend"
+    }
+  ]
+}

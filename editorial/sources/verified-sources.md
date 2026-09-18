@@ -194,6 +194,31 @@ checks. -->
 * Used in: kailas-moganshan-skyrace-dates
 * Notes: the page has no publication date; its dated fact is the event itself. No start map or traffic notice was present.
 
+### Moganshan town chestnut picking season 2026
+* Value: chestnut picking in the Moganshan town villages runs to about 15 October 2026; the Gaofeng village grove is about 30 mu (2 hectares) of trees roughly 70 years old, leased from the village in 2024 by Zhou Xudong (周旭东), with weekend footfall peaking at about 400 people a day
+* As of: 17 September 2026
+* Source: 德清新闻网 (Deqing News), reporter Xu Shengyu (徐晟昱)
+* Tier: 2, the county paper. The county portal (deqing.gov.cn) timed out on every listing from this machine during the 17 September sweep, so the tier 1 check was not made.
+* URL: https://dqnews.zjol.com.cn/dqnews/system/2026/09/17/035293730.shtml
+* Verified 1: 2026-09-17 (page fetched and decoded as GBK; the 15 October end date, Gaofeng village, the 70 year old trees, the 2024 lease, the 30 mu figure and the 400 a day weekend peak all present)
+* Verified 2: 2026-09-17 (page fetched again through a separate request; every one of those strings still present)
+* Shelf life: volatile, through 15 October 2026
+* Used in: chestnut-picking-runs-to-mid-october
+* Notes: the report names private businesses and carries no price, opening time or booking number. The same article appeared under a second URL (035293708) with an identical body; the sweep caught it as a duplicate. The picking window overlaps the Mid-Autumn holiday from 25 September and the National Day holiday from 1 October.
+
+### Interstellar Mine Pit at the Kaiyuan Senbo resort
+* Value: an attraction built inside a disused quarry at 莫干山开元森泊度假乐园, under construction, trial running expected in October 2026; no day and no price published
+* As of: 16 September 2026
+* Source: 德清新闻网 (Deqing News) and 杭州网 (Hangzhou.com.cn), reporter Liao Ying
+* Tier: 2 for both. A tier 1 confirmation was not available: the county portal and the Huzhou and Zhejiang culture and tourism bureaus all timed out or failed from this machine on 17 September.
+* URL: https://dqnews.zjol.com.cn/dqnews/system/2026/09/16/035293125.shtml and https://news.hangzhou.com.cn/zjnews/content/2026-09/16/content_9308508.htm
+* Verified 1: 2026-09-17 (both pages fetched; 星际矿坑, 开元森泊 and the 10月试运营 trial running date confirmed on the first, and Song Taowei, the 11 September site visit, the RMB 8 million figure, 奇幻谷, 天际森谷 and 下渚湖街道 on the second)
+* Verified 2: 2026-09-17 (both pages fetched again through a separate request; every string still present)
+* Shelf life: volatile, through 31 October 2026
+* Used in: kaiyuan-senbo-mine-pit-due-in-october
+* Notes: October is the developer's month, not a confirmed opening. The Deqing News item is a photograph with four lines of caption, well under the 600 character floor on its own; it is cited only because the Hangzhou.com.cn report carries the same project at length and the two agree. The Hangzhou report also gives visitor and revenue figures for the four scenic areas of Xiazhu Lake subdistrict for January to August 2026. Those are the subdistrict's own numbers, not a statistics bureau's, so under the source tiers they were not used as a count and are not logged here as a figure.
+
+
 ## History and culture (evergreen)
 
 ## Our own research

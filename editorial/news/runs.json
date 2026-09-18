@@ -583,6 +583,50 @@
         "/journal/news/2026/09/kaiyuan-senbo-mine-pit-due-in-october"
       ],
       "durationMs": 46605
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-17T15:14:27.807Z",
+      "finished": "2026-09-17T15:14:27.854Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-18T01:02:50.597Z",
+      "finished": "2026-09-18T01:02:50.661Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-09-18T01:10:48.053Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-09-18T01:10:48.079Z",
+      "durationMs": 26
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-18T01:10:50.379Z",
+      "finished": "2026-09-18T01:10:50.411Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-09-18T02:32:49.538Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-09-18T02:32:49.565Z",
+      "durationMs": 27
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-18T02:32:52.483Z",
+      "finished": "2026-09-18T02:32:52.528Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
     }
   ]
 }
