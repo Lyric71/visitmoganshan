@@ -240,7 +240,20 @@ function main() {
       .filter(Boolean)
       .map((image) => path.join('public', String(image).replace(/^\//, ''))),
   ];
-  git('add', '--', ...new Set(staged));
+  // `git add` aborts the whole batch on one pathspec that matches nothing, and
+  // stages none of the others. The drafts path is exactly that case: a draft
+  // written by the drafting run has never been tracked, and by the time this
+  // line runs it has already been moved into published/, so git has neither a
+  // file nor an index entry to match. Keep a path only when it is on disk or
+  // in the index.
+  const tracked = (p) => git('ls-files', '--error-unmatch', '--', p).code === 0;
+  const stageable = [...new Set(staged)].filter((p) => existsSync(path.join(ROOT, p)) || tracked(p));
+  const added = stageable.length ? git('add', '--', ...stageable) : { code: 1, err: 'nothing to stage' };
+  if (added.code !== 0) {
+    log(`staging failed: ${added.err || added.out}`);
+    notify(['--mode', 'failed', '--note', `Checks passed but nothing could be staged:\n${added.err || added.out}`]);
+    process.exit(added.code);
+  }
   const message = `feat(news): publish ${slugs.join(', ')}`;
   const commit = git('commit', '-m', message);
   if (commit.code !== 0) {
