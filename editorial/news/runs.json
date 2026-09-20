@@ -627,6 +627,88 @@
       "finished": "2026-09-18T02:32:52.528Z",
       "outcome": "skipped",
       "skipReason": "nothing ready"
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-18T04:00:03.948Z",
+      "finished": "2026-09-18T04:00:03.995Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-09-18T07:12:51.692Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-09-18T07:12:51.704Z",
+      "durationMs": 12
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-18T07:12:54.500Z",
+      "finished": "2026-09-18T07:12:54.533Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-09-18T23:54:26.584Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-09-18T23:54:26.609Z",
+      "durationMs": 25
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-18T23:54:29.371Z",
+      "finished": "2026-09-18T23:54:29.432Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-09-19T00:00:03.091Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-09-19T00:00:03.111Z",
+      "durationMs": 20
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-19T04:00:04.153Z",
+      "finished": "2026-09-19T04:00:04.201Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-09-19T05:22:38.287Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-09-19T05:22:38.308Z",
+      "durationMs": 21
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-19T05:22:40.211Z",
+      "finished": "2026-09-19T05:22:40.248Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-09-19T05:30:36.659Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-09-19T05:30:36.688Z",
+      "durationMs": 29
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-19T05:30:39.204Z",
+      "finished": "2026-09-19T05:30:39.247Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
     }
   ]
 }
