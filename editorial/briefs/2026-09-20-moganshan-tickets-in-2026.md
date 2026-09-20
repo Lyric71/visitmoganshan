@@ -58,7 +58,7 @@ first. They override any conflicting rule inside the skill.
 
 ## Chinese sources named in the calendar
 
-deqing.gov.cn; 0572-8412345 phone check; Ctrip sight 135799
+deqing.gov.cn; Ctrip sight 135799; 0572-8412345 is an unverified phone lead, not a completed source check. No call was made and no reachable dated written source confirmed this number in the 19 September 2026 research.
 
 Pull these first. Every figure still goes through the tier check for its fact
 type and both validation checks before it enters the draft.

@@ -156,6 +156,114 @@ checks. -->
 * Used in: moganshan-shuttle-system
 * Notes: the page carries no publication date anywhere in its HTML or metadata. It dates itself in its own text, 我是19年8月旺季去的 and 2019年8月最新路线, and is cited only as a trip report describing an August 2019 visit, never as a current fact. The luggage claim contradicts our own desk research of 1 to 5 August 2026, which found no left luggage service at the transfer centres and is what /getting-here/getting-around/ says; the article prints both and resolves neither. Slot 006 should settle it.
 
+### Moganshan scenic area gate ticket, adult, and the advance price
+* Value: RMB 80 at the window (随买随用), RMB 70 bought for the following day (可买明日), RMB 40 student, RMB 40 for ages 60 to 69
+* As of: September 2023
+* Source: Huzhou Bendibao (湖州本地宝)
+* Tier: 3. No tier 1 or tier 2 source for a Moganshan ticket price could be reached from this machine; see Notes.
+* URL: http://huzhou.bendibao.com/tour/2021123/3560.shtm
+* Verified 1: 2026-09-19 (page fetched, dated 2023-09-21 14:06 on the page; 成人票（随买随用）：80元/张, 成人票（可买明日）：70元/张, 学生票：40元/张, 老人票：40元/张 all present)
+* Verified 2: 2026-09-19 (first re-fetch returned HTTP 500 to a plain client; re-fetched with browser headers and every string was still present, together with the page date)
+* Shelf life: volatile, 3 months
+* Used in: moganshan-tickets-in-2026
+* Notes: corroborated at a different date by Youxiake, 22 June 2020, which gives the same RMB 80 gate price. Two tier 3 guides agreeing is not a price notice and the article says so. The same page gives 换乘费用：35元/人往返 and 上山首班车：上午8：00；下山末班车：下午17：00, logged below. Replace with a county price notice when deqing.gov.cn can be reached.
+
+### Moganshan concessions: free entry and half price
+* Value: free for children under 1.2 m or under 6, for anyone aged 70 and over on production of an identity document, and for Zhejiang teachers with 30 or more years of service; half price for full time students to undergraduate level and for ages 60 to 69
+* As of: September 2023
+* Source: Huzhou Bendibao (湖州本地宝)
+* Tier: 3
+* URL: http://huzhou.bendibao.com/tour/2021123/3560.shtm
+* Verified 1: 2026-09-19 (身高1.2m（含1.2m）以下或6周岁（含6周岁，凭有效证件）以下儿童, 70周岁（含）以上的老年人, 浙江省30年（含）以上教龄教师 all present)
+* Verified 2: 2026-09-19 (re-fetched with browser headers, all present)
+* Shelf life: volatile, 3 months
+* Used in: moganshan-tickets-in-2026
+* Notes: the concession is on the gate ticket only. No source found gives a child discount on the transfer coach or the loop bus. An undated Bendibao page on the same site gives a 1.1 m threshold instead of 1.2 m; it carries no date anywhere and under SPEC.md is not a source, so that disagreement is not printed.
+
+### First bus up and last bus down at the transfer centre
+* Value: first bus up 08:00, last bus down 17:00
+* As of: September 2023
+* Source: Huzhou Bendibao (湖州本地宝)
+* Tier: 3
+* URL: http://huzhou.bendibao.com/tour/2021123/3560.shtm
+* Verified 1: 2026-09-19 (上山首班车：上午8：00；下山末班车：下午17：00 present)
+* Verified 2: 2026-09-19 (re-fetched with browser headers, present)
+* Shelf life: volatile, 3 months
+* Used in: moganshan-tickets-in-2026
+* Notes: an independent second dated source for the 17:00 last bus down that Tide News read off the Houwu board in December 2025, and the third dated source overall after the August 2019 Youxiake community trip report. Three sources across seven years all give 17:00, which is why the article tells the reader to work backwards from it.
+
+### Indoor sights opening hours
+* Value: 08:30 to 16:30
+* As of: June 2020
+* Source: Youxiake (游侠客), guide by 金二思
+* Tier: 3
+* URL: https://www.youxiake.com/gonglue/view?id=4306
+* Verified 1: 2026-09-16 (logged with the RMB 130 entry, as part of the same page)
+* Verified 2: 2026-09-19 (page re-fetched; 莫干山室内景点：8：30-16：30 present, written with full width colons)
+* Shelf life: volatile, 3 months
+* Used in: moganshan-tickets-in-2026, moganshan-shuttle-system
+* Notes: split out from the RMB 130 entry above because the tickets piece cites the hours separately in its clock table.
+
+### Guests booked inside the scenic area still buy a ticket
+* Value: a guest with a booking inside the boundary takes the reservation and the registered number plate to the Fatou transfer centre, collects a self drive pass (通行证) and buys a scenic area ticket, then drives in and out on the S304
+* As of: September 2019
+* Source: 德清新闻网 (Deqing News), reporter 张志炜
+* Tier: 2
+* URL: https://dqnews.zjol.com.cn/dqnews/system/2019/09/30/031939856.shtml
+* Verified 1: 2026-09-19 (page fetched and decoded as GBK; 换取自驾上山的通行证，并购买风景名胜区门票 and 从304省道自驾进入 both present, page dated 2019-09-30)
+* Verified 2: 2026-09-19 (fetched again through a separate request, both strings still present)
+* Shelf life: this is a procedure rather than a figure; treat as semi-stable and recheck at the quarterly revision
+* Used in: moganshan-tickets-in-2026
+* Notes: the same report names all three transfer centres (庾村, 筏头, 后坞) and says the resort opened company, school and station car parks in Yucun free of charge over that National Day holiday. The procedure is seven years old and the access rules have moved since; the article prints it as the shape of the arrangement rather than as today's paperwork.
+
+### Several separately ticketed places are all sold as Moganshan
+* Value: Jiangnan Yaowu (江南瑶坞) at Dayao village began trial operation on 30 March 2024 with its own gate, RMB 2 billion invested, 2,500 mu, and more than 10,000 online ticket orders sold before opening; residents of Dayao, Houwu and Fotang villages had free entry April to June 2024 and half price July to September, activity items excluded. Deqing Yucun scenic area (4A) and Deqing Houwu village scenic area (3A) are listed as scenic areas in their own right.
+* As of: March 2024 and June 2023
+* Source: 德清新闻网 (Deqing News), reporter 陈明月; and 浙江在线 (Zhejiang Online)
+* Tier: 2 for both
+* URL: https://dqnews.zjol.com.cn/dqnews/system/2024/03/29/034579428.shtml and https://zjnews.zjol.com.cn/zjnews/202306/t20230609_25838009.shtml
+* Verified 1: 2026-09-19 (Deqing News decoded as GBK, 3月30日, 试营业, 门票销售量已经超过一万单, 免景区门票, 半价优惠, 大瑶村 all present; Zhejiang Online gives 德清庾村景区 4A 德清县莫干山镇燎原村 and 德清后坞（村）景区 3A 德清县莫干山镇后坞村 on the roll headed 湖州6月考生免费游景区名单 with the note 6月凭高考、中考准考证免首道门票)
+* Verified 2: 2026-09-19 (both re-fetched; every string still present. Note that a first string test for 后坞景区 missed because the page writes it 后坞（村）景区 with the bracketed character, and the citation was rewritten to match the page)
+* Shelf life: semi-stable, 6 months
+* Used in: moganshan-tickets-in-2026
+* Notes: this is the mechanism behind most of the ticket price disagreement. A figure quoted for "Moganshan" may be pricing a different gate entirely.
+
+### The 2026 seasonal tariff that cannot be confirmed
+* Value: claimed at RMB 100 peak, RMB 80 shoulder and RMB 50 low season at the gate, with RMB 85 and RMB 65 online
+* As of: September 2026
+* Source: 新浪 (Sina), account 追剧的羊
+* Tier: 4. Logged as announced, never as fact.
+* URL: https://k.sina.cn/article_7879776540_1d5abd91c06801yaxg.html
+* Verified 1: 2026-09-19 (page fetched, published 2026-09-18 and updated 2026-09-19; the tariff figures present, the page names Trip.com 攻略 and 百度攻略综合 as its sources, and the page carries the line 内容由AI生成, content generated by AI)
+* Verified 2: 2026-09-19 (fetched again; 内容由AI生成 and the figures still present)
+* Shelf life: volatile, 3 months, and it is a claim rather than a figure
+* Used in: moganshan-tickets-in-2026
+* Notes: this and its sibling pages are the top of the Chinese search results for the 2026 tariff and are already on the noise list in editorial/news/sources.json. sources/source-tiers.md records that the 2026 tariff could not be confirmed from an authoritative source, and nothing found on 19 September 2026 changes that. The tariff is plausible (see the 2022 discount entry below) but unsourced, and the article prints it as a dated tier 4 claim with the AI notice quoted.
+
+### Dated seasonal ticket discount, 2022, expired
+* Value: from 10 June 2022 to 31 December 2022 the scenic area charged 60 percent of the gate price in June, October, November and December, and 80 percent from July to September
+* As of: 2022
+* Source: Huzhou Bendibao (湖州本地宝), on its related article list
+* Tier: 3
+* URL: http://huzhou.bendibao.com/tour/2021123/3560.shtm (related headlines on the page)
+* Verified 1: 2026-09-19 (headline text 自2022年6月10日至2022年12月31日止执行门票优惠政策，6月、10月、11月、12月门市价6折优惠，7月、8月、9月门市价8折优惠 present on the page)
+* Verified 2: 2026-09-19 (re-fetched with browser headers, present)
+* Shelf life: expired, kept as evidence rather than as a current figure
+* Used in: none yet
+* Notes: not printed in moganshan-tickets-in-2026, for length. It matters because it is the only dated proof in the record that this scenic area really does run seasonal pricing, which is why the unsourced 2026 tariff is plausible without being publishable. Pick it up at the quarterly revision of the tickets page if the article gains room.
+
+### No official Moganshan price is reachable from outside China
+* Value: on 19 September 2026 deqing.gov.cn and huzhou.gov.cn timed out at 25 and at 40 seconds and dropped the socket on a second client; zj-mgs.com returned HTTP 403 from a WAF on every path and user agent; web.archive.org redirected to an empty body; the Ctrip sight listing returned HTTP 432 from a bot wall
+* As of: 19 September 2026
+* Source: BeyondBorder Group Ltd desk research
+* Tier: our own work, cited as ours
+* URL: none
+* Verified 1: 2026-09-19 (each route tried from this machine and the response code or failure recorded)
+* Verified 2: 2026-09-19 (each route tried again on a second client)
+* Shelf life: volatile, 3 months
+* Used in: moganshan-tickets-in-2026
+* Notes: the third consecutive run to record the same wall. Slot 002 recorded it on 16 September and slot 001 on 6 September. Nobody calls the ticket line (Cyril, 6 September 2026), so the written record is the only route left, and the article makes that limitation its subject rather than hiding it.
+
 ## Places, stays, seasons, trails (semi-stable)
 
 ### FIBA 3x3 World Tour Deqing dates

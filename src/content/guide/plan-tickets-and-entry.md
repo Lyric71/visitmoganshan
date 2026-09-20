@@ -12,7 +12,7 @@ image_alt: A visitor holding a ticket at the entry barrier of the Moganshan scen
 word_count: 1224
 author: cyril-drouin
 published: 2026-08-06
-last_updated: 2026-08-08
+last_updated: 2026-09-20
 ---
 
 # Moganshan tickets and entry
@@ -42,6 +42,8 @@ Your plan decides this, so settle it before shopping on price.
 | The villa walk through the old hill station | Partly. Some of the route is inside the gate |
 
 The [scenic area page](/moganshan/scenic-area/) has the full split.
+
+For the dated Chinese sources behind the disagreement, read [Moganshan tickets in 2026](/plan/moganshan-tickets-in-2026/), including the reported last bus times.
 
 ## Two published prices that do not agree
 
