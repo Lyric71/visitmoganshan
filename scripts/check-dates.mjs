@@ -62,7 +62,19 @@ const normalise = (body) =>
     .trim();
 
 const base = resolveBase();
-const today = new Date().toISOString().slice(0, 10);
+
+// Today is Shanghai's today, not the runner's and not UTC's. The publish task
+// fires at 03:30 Shanghai on the morning of a row's publish_date, which is
+// still the previous day in UTC, so a UTC "today" rejected every correctly
+// dated article for eight hours a day. The dates in this repository are the
+// editorial calendar's dates, and that calendar runs on Shanghai time.
+const today = new Intl.DateTimeFormat('en-CA', {
+  timeZone: 'Asia/Shanghai',
+  year: 'numeric',
+  month: '2-digit',
+  day: '2-digit',
+}).format(new Date());
+
 const problems = [];
 
 const changed = base
