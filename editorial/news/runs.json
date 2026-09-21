@@ -709,6 +709,68 @@
       "finished": "2026-09-19T05:30:39.247Z",
       "outcome": "skipped",
       "skipReason": "nothing ready"
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-20T04:00:07.526Z",
+      "finished": "2026-09-20T04:00:07.618Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-21T02:37:48.050Z",
+      "finished": "2026-09-21T02:37:48.095Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-09-21T02:37:49.048Z",
+      "outcome": "success",
+      "sourcesQueried": 22,
+      "candidates": 34,
+      "newCandidates": 21,
+      "unreachable": [
+        "deqing-gov",
+        "huzhou-cts",
+        "zj-cts",
+        "huzhou-gov"
+      ],
+      "errors": [
+        "meadin: 酒店频道: anti bot challenge page (8232 bytes), open it in a browser instead",
+        "deqing-gov: 公告公示: timeout after 12000 ms",
+        "deqing-gov: 德清要闻 A: timeout after 12000 ms",
+        "deqing-gov: 德清要闻 B: timeout after 12000 ms",
+        "deqing-gov: 莫干山镇: timeout after 12000 ms",
+        "deqing-gov: 文广旅体局: timeout after 12000 ms",
+        "hangzhou-daily: 杭州日报数字报: anti bot challenge page (90 bytes), open it in a browser instead",
+        "huzhou-cts: 工作动态: timeout after 12000 ms",
+        "huzhou-cts: 政策文件: timeout after 12000 ms",
+        "zj-cts: 浙江文旅: fetch failed",
+        "zj-cts: 政务公开: fetch failed",
+        "zj-cts: 浙江省旅游度假区: fetch failed",
+        "huzhou-gov: 湖州要闻 德清: fetch failed",
+        "huzhou-gov: 交通运输局: timeout after 12000 ms"
+      ],
+      "triage": "editorial/news/triage/2026-09-21.md",
+      "finished": "2026-09-21T02:42:46.436Z",
+      "durationMs": 297388
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-21T03:00:41.148Z",
+      "finished": "2026-09-21T03:01:50.635Z",
+      "outcome": "success",
+      "slugs": [
+        "moganshan-1910-pool-reopens-as-a-cafe",
+        "osmanthus-in-flower-on-moganshan"
+      ],
+      "paths": [
+        "/journal/news/2026/09/moganshan-1910-pool-reopens-as-a-cafe",
+        "/journal/news/2026/09/osmanthus-in-flower-on-moganshan"
+      ],
+      "durationMs": 69487
     }
   ]
 }
