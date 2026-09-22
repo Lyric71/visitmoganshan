@@ -264,6 +264,19 @@ checks. -->
 * Used in: moganshan-tickets-in-2026
 * Notes: the third consecutive run to record the same wall. Slot 002 recorded it on 16 September and slot 001 on 6 September. Nobody calls the ticket line (Cyril, 6 September 2026), so the written record is the only route left, and the article makes that limitation its subject rather than hiding it.
 
+### Moganshan National Day traffic arrangement, as run in 2019
+* Value: over the 2019 National Day holiday, visitors entered the scenic area through three transfer centres, at Yucun (庾村), Fatou (筏头) and Houwu (后坞); a guest booked at a property inside the boundary took the booking confirmation and a registered plate to the Fatou centre, collected a self drive pass (通行证), bought a scenic area ticket and drove in and out on the S304 (304省道), parking only at the property's own car park and not driving to sightsee inside; the resort opened company, station and school car parks in Yucun to visitors free of charge; construction vehicles were banned inside the resort area west of the G104 (104国道以西) from 30 September to 7 October, and bamboo lorries and tractors from 1 to 7 October; the notice forecast the Moganshan area congested from 2 to 5 October
+* As of: 30 September 2019
+* Source: 德清新闻网 (Deqing News), reporter Zhang Zhiwei (张志炜)
+* Tier: 2. The county government portal (deqing.gov.cn), which would be the tier 1 source for a traffic notice, has not loaded from this machine on any attempt during September 2026.
+* URL: https://dqnews.zjol.com.cn/dqnews/system/2019/09/30/031939856.shtml
+* Verified 1: 2026-09-22 (page fetched and decoded as GBK; 庾村, 筏头, 后坞村, 报备车牌, 通行证, 304省道, 104国道以西, the 30 September to 7 October construction vehicle ban, 10月2~5日 and 免费停放 all present)
+* Verified 2: 2026-09-22 (page fetched again through a separate request with a different user agent; every one of those strings still present)
+* Shelf life: this is a 2019 document and does not expire, but it is not this year's rules and must never be printed as them
+* Used in: national-day-on-moganshan
+* Notes: seven years old and cited as the shape of the arrangement, not as the 2026 rules. No 2026 equivalent has been published anywhere reachable. Nobody on this desk rings the ticket line, so the disagreement between this and current practice is printed rather than resolved.
+
+
 ## Places, stays, seasons, trails (semi-stable)
 
 ### FIBA 3x3 World Tour Deqing dates
@@ -327,6 +340,68 @@ checks. -->
 * Notes: October is the developer's month, not a confirmed opening. The Deqing News item is a photograph with four lines of caption, well under the 600 character floor on its own; it is cited only because the Hangzhou.com.cn report carries the same project at length and the two agree. The Hangzhou report also gives visitor and revenue figures for the four scenic areas of Xiazhu Lake subdistrict for January to August 2026. Those are the subdistrict's own numbers, not a statistics bureau's, so under the source tiers they were not used as a count and are not logged here as a figure.
 
 
+### Moganshan 1910 swimming pool restored as a café
+* Value: the swimming pool on Moganshan was built in 1910 and, on the Moganshan Administration's own surviving records, was the earliest public swimming pool in Zhejiang and was used for competitions at the time; it and the adjoining old building had been sealed up for years, were restored during 2026, had mountain spring water piped back in, and are now on a trial opening (试营业) as a café run by the team behind Bund No. 5 (外滩5号) in Shanghai
+* As of: 20 September 2026
+* Source: 德清新闻网 (Deqing News), reporter Chen Mingyue (陈明月), corroborated on the 1910 date by 上观新闻 (Shanghai Observer)
+* Tier: 2 for both. The county portal (deqing.gov.cn) timed out on all five listings during the 21 September sweep, so no tier 1 check was made. Dianping, which is step two of the openings chain, returned a Meituan verification wall.
+* URL: https://dqnews.zjol.com.cn/dqnews/system/2026/09/20/035294937.shtml and https://www.shobserver.cn/wx/detail.do?id=839677
+* Verified 1: 2026-09-21 (page fetched and decoded as GBK; 1910, 浙江省最早的公共泳池, 外滩5号, 试营业, 莫干山管理局, 山泉活水 and 老照片 all present)
+* Verified 2: 2026-09-21 (both pages fetched again through separate requests; every string still present, and 上观新闻 still carries 1910年，莫干山就建成户外标准泳池 under its 8 January 2025 date)
+* Shelf life: volatile while the opening is on trial; recheck before the end of 2026
+* Used in: moganshan-1910-pool-reopens-as-a-cafe
+* Notes: no opening hours, no prices, no start date for the trial and nothing on whether the pool may be swum in. The "earliest in Zhejiang" claim rests on the administration's own archive alone; 上观新闻 corroborates only the 1910 build date, as an 户外标准泳池. The date sits earlier than our own hill station pages, which put public pools on the mountain in the 1930s.
+
+### Osmanthus flowering window on Moganshan, 2026
+* Value: osmanthus (桂花) was in flower at Luhuadang Park (芦花荡公园) inside the scenic area on the morning of 16 September 2026; the mountain carries more than seven hundred osmanthus trees across 金桂, 银桂 and 四季桂 varieties; the concentrated flowering runs from mid September to early November; the named viewing points are Luhuadang Park and Sword Pool (剑池); the mountain flowers before the county town because the altitude brings the cold nights the plant needs
+* As of: 18 September 2026
+* Source: 德清新闻网 (Deqing News), reporters Chen Mingyue (陈明月) and Liu Yang (刘洋)
+* Tier: 2, the county paper, and it is the only source. No second source exists: a Chinese web search for the tree count and the window returned nothing but 新浪 content farm guides. The county portal timed out on all five listings during the 21 September sweep, and the 中国天气网 town page 101210204004, the usual temperature check, returned HTTP 403.
+* URL: https://dqnews.zjol.com.cn/dqnews/system/2026/09/18/035294234.shtml
+* Verified 1: 2026-09-21 (page fetched and decoded as GBK; 芦花荡公园, 七百多株, 金桂, 银桂, 四季桂, 9月中旬到11月初, 剑池, 9月16日 and 海拔高 all present)
+* Verified 2: 2026-09-21 (page fetched again through a separate request; every string still present)
+* Shelf life: volatile, through 10 November 2026
+* Used in: osmanthus-in-flower-on-moganshan
+* Notes: the tree count and the flowering window are the paper's figures, not a bureau's, and are published here as such. Both named viewing points are inside the ticketed scenic area. The window overlaps the National Day holiday from 1 October.
+
+
+### 2026 Mid Autumn and National Day holiday dates
+* Value: Mid Autumn 25 to 27 September 2026, three days; National Day 1 to 7 October 2026, seven days; Sunday 20 September and Saturday 10 October 2026 are worked as ordinary days
+* As of: 4 November 2025
+* Source: 国务院办公厅 (State Council General Office), notice 国办发明电〔2025〕7号, in the State Council gazette
+* Tier: 1
+* URL: https://www.gov.cn/gongbao/2025/issue_12406/202511/content_7048922.html
+* Verified 1: 2026-09-22 (page fetched; 国办发明电〔2025〕7号, 9月25日（周五）至27日（周日）放假, 10月1日（周四）至7日（周三）放假调休 and 9月20日（周日）、10月10日（周六）上班 all present)
+* Verified 2: 2026-09-22 (page fetched again through a separate request with a different user agent; the same strings present)
+* Shelf life: fixed for 2026, does not move
+* Used in: national-day-on-moganshan
+* Notes: the two holidays are separate blocks in 2026, unlike the single eight day run of 2025. The worked Saturday of 10 October is the useful part for a visitor: it leaves the first ordinary weekend after the holiday as a single Sunday.
+
+### Deqing and Moganshan scenic area visitors, 2023 Mid Autumn and National Day holiday
+* Value: Deqing county received 1,619,100 visitors (161.91万人次) over the merged 2023 holiday, up 65.6 percent on 2022 and 32.68 percent on 2019, with tourism revenue of RMB 1.99 billion (19.9亿元); the Moganshan scenic area received more than 63,000 (6.3万人次) of them and took RMB 4.701 million (470.1万元) in ticket revenue; occupancy passed 90 percent at Junanli (郡安里), naked Valley (裸心谷) and Mantian (缦田), and one sixty room guesthouse was full from 1 to 4 October
+* As of: 8 October 2023
+* Source: 杭州日报 (Hangzhou Daily), reporter Wang Hao (汪浩), carried on 杭州网 (Hangzhou Net)
+* Tier: 2, with a chain deviation recorded below
+* URL: https://news.hangzhou.com.cn/zjnews/content/2023-10/08/content_8626889.htm
+* Verified 1: 2026-09-22 (page fetched; 161.91万人次, 19.9亿元, 6.3万人次, 470.1万元, 郡安里、裸心谷、缦田…入住率超过90%, 60间客房，10月1日至4日都是满房 and the 2023-10-08 07:40 timestamp all present)
+* Verified 2: 2026-09-22 (page fetched again through a separate request with a different user agent; the same strings present)
+* Shelf life: a 2023 holiday figure, historical, does not expire, but it is three years old and must be dated wherever it is used
+* Used in: national-day-on-moganshan
+* Notes: CHAIN DEVIATION, recorded deliberately. source-tiers.md routes visitor numbers to the Huzhou or Zhejiang bureau only, because county and marketing sources inflate. No bureau release carries the county and scenic area split this figure turns on, and a search for a Huzhou municipal cross check produced one candidate (潮新闻 3435962) which on fetch turned out to be Hangzhou, not Huzhou, and was discarded. The figures are therefore used as county figures relayed by a municipal paper, they are named as such in the article, and the direction of the bias is stated: inflating the county total shrinks the scenic area's share, so the ratio the piece rests on survives the caveat. Do not reuse either number as a bureau count.
+
+### Deqing visitors, 2026 Labour Day holiday
+* Value: 2.3 million visitors (230万人次) to Deqing county over the 2026 Labour Day holiday, up 7.76 percent year on year, with nearly 130,000 hotel and guesthouse check ins (近13万人次)
+* As of: 7 May 2026
+* Source: 德清新闻网 (Deqing News)
+* Tier: 2, with the same chain deviation as the 2023 entry above
+* URL: https://dqnews.zjol.com.cn/dqnews/system/2026/05/07/035205816.shtml
+* Verified 1: 2026-09-22 (page fetched and decoded as GBK; 230万人次, 同比增长7.76% and 酒店民宿登记入住近13万人次 all present)
+* Verified 2: 2026-09-22 (page fetched again through a separate request with a different user agent; the same strings present)
+* Shelf life: a 2026 holiday figure, historical, does not expire
+* Used in: national-day-on-moganshan
+* Notes: the county's own 据统计 figure carried by the county paper, not a bureau release; see the deviation note on the 2023 entry. The report carries no Moganshan scenic area figure and none was inferred from it.
+
+
 ## History and culture (evergreen)
 
 ## Our own research
@@ -335,6 +410,19 @@ checks. -->
 per compiled figure (a count across listings, a comparison across sources),
 with the method and the date. Cited in copy as "BeyondBorder Group Ltd
 primary research, <dates>". -->
+
+### Implied ticket yield at the Moganshan gate, 2023 holiday
+* Value: about RMB 75 per visitor, from RMB 4.701 million of ticket revenue divided by more than 63,000 visitors over the 2023 Mid Autumn and National Day holiday; consistent with an RMB 80 gate ticket once concessions are taken out
+* As of: 22 September 2026
+* Source: BeyondBorder Group Ltd primary research, 22 September 2026, arithmetic on the 杭州日报 figures logged above
+* Tier: our own, from one tier 2 release
+* URL: n/a, derived
+* Verified 1: 2026-09-22 (both inputs come from a single article, a single holiday and a single release, so the division is internally consistent)
+* Verified 2: 2026-09-22 (arithmetic rechecked against the re-fetched page)
+* Shelf life: tied to the 2023 figures, historical
+* Used in: national-day-on-moganshan
+* Notes: printed in the article as our arithmetic, not as a published figure. It is a yield, not a tariff, and must never be quoted as the price of a ticket.
+
 
 ## Retired
 
