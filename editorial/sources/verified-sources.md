@@ -277,6 +277,31 @@ checks. -->
 * Notes: seven years old and cited as the shape of the arrangement, not as the 2026 rules. No 2026 equivalent has been published anywhere reachable. Nobody on this desk rings the ticket line, so the disagreement between this and current practice is printed rather than resolved.
 
 
+### Hangzhou to Deqing railway: wayfinding installed, no opening date
+* Value: 76 wayfinding sign positions being installed around Chunhui Park station (春晖公园站); boards going up on Quyuan Road (曲园路) on 18 September 2026; no opening date for the line published
+* As of: September 2026
+* Source: Deqing News (德清新闻网), reporter Lu Yanling (陆彦伶)
+* Tier: 2
+* URL: https://dqnews.zjol.com.cn/dqnews/system/2026/09/20/035294933.shtml
+* Verified 1: 2026-09-23 (page fetched in GB18030 and read in Chinese; date, sign count and station name confirmed)
+* Verified 2: 2026-09-23 (re-fetched, HTTP 200, same headline and same 时间 date)
+* Shelf life: volatile, 3 months, and it expires the day an opening date is published
+* Used in: dispatch-2026-39
+* Notes: the report says 通车临近, opening is close, and gives no date. The county signs the line as a metro (地铁) although it is branded a suburban railway (市域铁路). Never print an opening date from this source; it carries none. Standing watch item.
+
+### Chunxu Commercial Centre opens at the new station before the line runs
+* Value: first six tenants open 24 September 2026 at Chunxu Commercial Centre (春序商业中心), the TOD complex at Chunhui Park station; named tenants include a Hema discount format, a fried dumpling shop, a Yunnan noodle shop and a 7-Eleven
+* As of: September 2026
+* Source: Deqing News (德清新闻网), reporter Lu Yanling (陆彦伶)
+* Tier: 2
+* URL: https://dqnews.zjol.com.cn/dqnews/system/2026/09/21/035295746.shtml
+* Verified 1: 2026-09-23 (fetched and read in Chinese; date and tenant list confirmed)
+* Verified 2: 2026-09-23 (re-fetched, HTTP 200, unchanged)
+* Shelf life: volatile, 3 months
+* Used in: dispatch-2026-39
+* Notes: the retail opens ahead of the railway and the report still gives no opening date for the line, which is the point worth carrying forward. 率先亮相 means the stores debut, not that leases were signed.
+
+
 ## Places, stays, seasons, trails (semi-stable)
 
 ### FIBA 3x3 World Tour Deqing dates
@@ -400,6 +425,55 @@ checks. -->
 * Shelf life: a 2026 holiday figure, historical, does not expire
 * Used in: national-day-on-moganshan
 * Notes: the county's own 据统计 figure carried by the county paper, not a bureau release; see the deviation note on the 2023 entry. The report carries no Moganshan scenic area figure and none was inferred from it.
+
+
+### New venues at Qinlao village, Moganshan town
+* Value: Long Talk (长谭), a coffee and light lunch stop in a former horse paddock, and Beimoting (杯莫亭), a tea post beside the Jingxiantan (惊险潭) waterfall opened in 2026, both trading; a 3,000 square metre car showroom and restaurant in a silk mill idle for ten years still being fitted out; Beimoting expected to return about RMB 200,000 a year to the village collective
+* As of: September 2026
+* Source: Deqing News (德清新闻网), reporter Chen Mingyue (陈明月)
+* Tier: 2
+* URL: https://dqnews.zjol.com.cn/dqnews/system/2026/09/21/035295754.shtml
+* Verified 1: 2026-09-23 (fetched and read in Chinese; venue names, status and the RMB figure confirmed)
+* Verified 2: 2026-09-23 (re-fetched, HTTP 200, unchanged)
+* Shelf life: volatile, 3 months; a trading venue in a village of this kind can close without notice
+* Used in: dispatch-2026-39
+* Notes: no opening hours and no prices are published for either venue, so neither may be given. The village collective figures (about RMB 200,000 from Beimoting, a floor of RMB 300,000 and about 50 jobs from the car centre) are village revenue, never a visitor price. The second phase, a farm of about 170 mu, had not started.
+
+### Moganshan Yellow Bud moves from single bud green to a yellow tea range
+* Value: a Tea Research Institute of the Chinese Academy of Agricultural Sciences (中国农业科学院茶叶研究所) expert workstation and a Moganshan yellow tea school opened in Moganshan town in early summer 2026; picking extended past Guyu (谷雨, about 20 April) rather than stopping before Qingming; farms Shiyi (石颐) and Shuangfeng (双丰) doubled output and sales over three years; four grades beyond the single bud now sold (屋脊头, 知春, 梅笺, 秋白), one of them an autumn pick
+* As of: September 2026
+* Source: Deqing News (德清新闻网), reporter Lu Yanling (陆彦伶) with intern Xu Yizhang (许益彰)
+* Tier: 2
+* URL: https://dqnews.zjol.com.cn/dqnews/system/2026/09/22/035296333.shtml
+* Verified 1: 2026-09-23 (fetched and read in Chinese; workstation, picking window, farm names and grade names confirmed)
+* Verified 2: 2026-09-23 (re-fetched, HTTP 200, unchanged)
+* Shelf life: semi-stable, 6 months
+* Used in: dispatch-2026-39
+* Notes: the useful correction is that most tea sold as 莫干黄芽 has been made as a green tea, because menhuang (闷黄) is slow and easy to ruin. The report's 1000 公斤 sales figure is ambiguous between one farm and the group, so it was not printed. This entry contradicts the season table on /moganshan/tea/, which still has the pick coarsening after about 20 April.
+
+### Golden rain trees on Yangshuwan Road, Wukang
+* Value: golden rain trees (栾树) on Yangshuwan Road (杨树湾路) in Wukang (武康街道) at peak on 18 September 2026, flowers and seed capsules on the branch together for a viewing period of close to a month
+* As of: September 2026
+* Source: Deqing News (德清新闻网), reporter Cai Jun (蔡俊)
+* Tier: 2
+* URL: https://dqnews.zjol.com.cn/dqnews/system/2026/09/20/035294946.shtml
+* Verified 1: 2026-09-23 (fetched and read in Chinese; road, species, date and the near month window confirmed)
+* Verified 2: 2026-09-23 (re-fetched, HTTP 200, unchanged)
+* Shelf life: volatile, 3 months; the window itself closes in October 2026
+* Used in: dispatch-2026-39
+* Notes: in the county town, not on the mountain, and it is a live road rather than a park. The near month window is the source's general statement about the species; the first half of October reading is our arithmetic from 18 September and is printed as such.
+
+### No Moganshan Golden Week programme published as at 23 September 2026
+* Value: no visitor programme for the 2026 Mid Autumn and National Day holiday had been published for Moganshan; what the county had published was a security deployment meeting held 21 September 2026
+* As of: September 2026
+* Source: Deqing News (德清新闻网), reporter Shen Yuxiang (沈宇翔), for the meeting; absence of a programme is BeyondBorder Group Ltd primary research, 23 September 2026
+* Tier: 2 for the meeting, own for the absence
+* URL: https://dqnews.zjol.com.cn/dqnews/system/2026/09/22/035296337.shtml
+* Verified 1: 2026-09-23 (meeting report fetched and read in Chinese; searched for a holiday programme and found none reachable)
+* Verified 2: 2026-09-23 (meeting report re-fetched, HTTP 200, unchanged)
+* Shelf life: expires the moment a programme is published, and the fixture list expects one seven to ten days before the holiday
+* Used in: dispatch-2026-39
+* Notes: an absence is only ever as strong as the reach of the search, and tier 1 (deqing.gov.cn, the Huzhou and Zhejiang bureaus) has been unreachable from this machine on every run. The dispatch says "anywhere we can reach" for exactly that reason. The meeting report names no road, no closure and no hour.
 
 
 ## History and culture (evergreen)

@@ -12,7 +12,7 @@ image_alt: Rows of low tea bushes on a Moganshan slope with moso bamboo standing
 word_count: 1807
 author: liyan-ye
 published: 2026-08-08
-last_updated: 2026-08-08
+last_updated: 2026-09-24
 ---
 
 # Moganshan yellow bud tea
@@ -25,18 +25,18 @@ One thing to say up front. This is not a mountain with a visitor tea farm at the
 
 ## What yellow tea is
 
-The six are not six flavors. They are six processing routes, and the leaf can come from the same plant.
+The six are not six flavours. They are six processing routes, and the leaf can come from the same plant.
 
 | Class | Chinese | How it is made | One you may know |
 |---|---|---|---|
 | Green | 绿茶 | Heated early to stop oxidation | Longjing, from Hangzhou |
 | Yellow | 黄茶 | The green method, plus a smothering step | Huangya, "yellow bud" |
 | White | 白茶 | Withered and dried, barely handled | Silver Needle |
-| Oolong | 乌龙茶 | Partly oxidized, then roasted | Tieguanyin |
-| Black | 红茶 | Fully oxidized. Chinese calls it red tea | Keemun |
+| Oolong | 乌龙茶 | Partly oxidised, then roasted | Tieguanyin |
+| Black | 红茶 | Fully oxidised. Chinese calls it red tea | Keemun |
 | Dark | 黑茶 | Aged, with microbial fermentation | Pu-erh |
 
-The step that makes yellow tea yellow is menhuang (闷黄), roughly "sealing yellow". After the leaf is heated to stop it oxidizing, exactly as green tea is, it gets wrapped or piled while still warm and damp, then left alone for hours. In that trapped heat it yellows a little and the grassy edge comes off.
+The step that makes yellow tea yellow is menhuang (闷黄), roughly "sealing yellow". After the leaf is heated to stop it oxidising, exactly as green tea is, it gets wrapped or piled while still warm and damp, then left alone for hours. In that trapped heat it yellows a little and the grassy edge comes off.
 
 In the cup that reads as roundness. Beside a green tea off the same bush, the yellow is softer and sweeter, without the raw-vegetable note that puts people off green tea. The liquor is pale gold, not pale green.
 
@@ -78,7 +78,7 @@ Tea generally does well with cool nights and diffuse light, on soil that drains.
 
 The [bamboo forest](/moganshan/bamboo-forest/) page covers the crop that owns the rest of the ground.
 
-![Rows of tea bushes on a terraced slope at Moganshan, with new buds showing pale against the darker mature leaf](/images/guide/tea-2.webp 'A bud tea is picked from the top few centimeters of the bush. Everything below that line is a cheaper product from the same plant.')
+![Rows of tea bushes on a terraced slope at Moganshan, with new buds showing pale against the darker mature leaf](/images/guide/tea-2.webp 'A bud tea is picked from the top few centimetres of the bush. Everything below that line is a cheaper product from the same plant.')
 
 ## The season
 
@@ -88,9 +88,13 @@ Bud teas are a spring crop, and the calendar marker in Chinese practice is Qingm
 |---|---|---|---|
 | Mingqian | 明前 | Before Qingming, about 4 to 5 April | The premium pick, priced like it |
 | Yuqian | 雨前 | Before Guyu, about 20 April | Still spring leaf, noticeably cheaper |
-| Later | | After about 20 April | The pick coarsens and the price falls away |
+| After Guyu | 谷雨后 | After about 20 April | Now picked for the wider yellow tea range, at prices that have held roughly steady |
 
 The local window moves with the weather rather than the calendar, so a cold March pushes everything back a week or two.
+
+The calendar itself is changing. Most tea sold as 莫干黄芽 has in fact been made as a green tea, because the menhuang step is slow and easy to ruin. Growers are now making more of it as a yellow tea, picking from before Qingming to past Guyu, and selling four teas beyond the single bud, among them Zhichun (知春) and Qiubai (秋白). The county tea association says output has doubled while prices have stayed roughly where they were.
+
+> 德清新闻网 (Deqing News), 22 September 2026, tier 2. https://dqnews.zjol.com.cn/dqnews/system/2026/09/22/035296333.shtml
 
 All of which points at April, a good month here for reasons unrelated to tea: mid-range rooms at RMB 300 to 500 outside the holiday week, and bamboo shoots on every guesthouse menu. Dodge the first week of May, the May Day holiday, when high-end occupancy has run as high as 94 percent. The [seasons guide](/seasons/) has the rest of the year.
 
@@ -120,13 +124,13 @@ If the answer to the first two is no, that is useful rather than a failure. The 
 
 Expect a tall glass rather than a pot, the leaf left sitting in the water, and somebody refilling it from a thermos all afternoon. You do not order a second one, and nothing goes in it.
 
-Day visitors have a harder time, since the guesthouse route is closed to them. Yucun is the place to try, and where a day trip lands anyway: the square, the market, the restaurants, the scenic-area gateway. It is the likeliest spot on this mountain to find tea sold and poured, and it is a matter of walking the square rather than following an address. The [villages guide](/moganshan/villages/) covers what each village has.
+Day visitors have a harder time, since the guesthouse route is closed to them. Yucun is the place to try, and where a day trip lands anyway: the square, the market, the restaurants, the scenic area gateway. It is the likeliest spot on this mountain to find tea sold and poured, and it is a matter of walking the square rather than following an address. The [villages guide](/moganshan/villages/) covers what each village has.
 
-Timing is the other constraint. Private vehicles cannot enter the scenic area, and the three transfer centers run 08:00 to 18:00. The villages have no evening economy either. So tea outdoors is a daytime thing, and after dark it happens in your guesthouse or not at all.
+Timing is the other constraint. Private vehicles cannot enter the scenic area, and the three transfer centres run 08:00 to 18:00. The villages have no evening economy either. So tea outdoors is a daytime thing, and after dark it happens in your guesthouse or not at all.
 
 One warning. Booking platforms sell tea ceremonies and picking experiences all over China, and the Moganshan listings of that kind are thinly run at best. Book them through your property on arrival rather than prepaying from home.
 
-> Guesthouse numbers, ownership share, transfer center hours and the absence of an evening economy, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
+> Guesthouse numbers, ownership share, transfer centre hours and the absence of an evening economy, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
 ![A glass of pale gold yellow tea on a guesthouse table at Moganshan, leaf still in the water](/images/guide/tea-4.webp 'Water off the boil rather than on it. Bud teas scorch at 100 °C, which is the single most common mistake made with them outside China.')
 
