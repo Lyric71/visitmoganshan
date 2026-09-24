@@ -771,6 +771,218 @@
         "/journal/news/2026/09/osmanthus-in-flower-on-moganshan"
       ],
       "durationMs": 69487
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-21T04:00:03.547Z",
+      "finished": "2026-09-21T04:00:03.586Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-21T10:44:22.961Z",
+      "finished": "2026-09-21T10:44:23.001Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-09-21T10:44:23.950Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-09-21T10:44:23.976Z",
+      "durationMs": 26
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-21T10:47:55.832Z",
+      "finished": "2026-09-21T10:47:55.872Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-09-22T00:48:43.909Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-09-22T00:48:43.994Z",
+      "durationMs": 85
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-22T00:50:29.596Z",
+      "finished": "2026-09-22T00:50:29.640Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-09-22T00:50:30.596Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-09-22T00:50:30.609Z",
+      "durationMs": 13
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-22T01:14:10.503Z",
+      "finished": "2026-09-22T01:14:10.529Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-09-22T01:14:11.442Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-09-22T01:14:11.462Z",
+      "durationMs": 20
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-22T03:14:02.295Z",
+      "finished": "2026-09-22T03:14:02.351Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-09-22T03:14:03.645Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-09-22T03:14:03.663Z",
+      "durationMs": 18
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-22T04:00:06.437Z",
+      "finished": "2026-09-22T04:00:06.527Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-09-22T07:09:51.610Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-09-22T07:09:51.637Z",
+      "durationMs": 27
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-22T07:09:53.930Z",
+      "finished": "2026-09-22T07:09:53.980Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-09-22T07:42:46.524Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-09-22T07:42:46.537Z",
+      "durationMs": 13
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-22T07:42:47.634Z",
+      "finished": "2026-09-22T07:42:47.672Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-09-22T11:46:13.304Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-09-22T11:46:13.359Z",
+      "durationMs": 55
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-22T11:46:16.063Z",
+      "finished": "2026-09-22T11:46:16.119Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-23T01:30:22.395Z",
+      "finished": "2026-09-23T01:30:22.457Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-09-23T01:50:31.524Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-09-23T01:50:31.551Z",
+      "durationMs": 27
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-23T04:00:02.409Z",
+      "finished": "2026-09-23T04:00:02.443Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-24T02:26:25.265Z",
+      "finished": "2026-09-24T02:26:25.318Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-09-24T02:26:30.788Z",
+      "outcome": "success",
+      "sourcesQueried": 22,
+      "candidates": 37,
+      "newCandidates": 28,
+      "unreachable": [
+        "deqing-gov",
+        "huzhou-cts",
+        "zj-cts",
+        "huzhou-gov"
+      ],
+      "errors": [
+        "meadin: 酒店频道: anti bot challenge page (8235 bytes), open it in a browser instead",
+        "deqing-gov: 公告公示: timeout after 12000 ms",
+        "deqing-gov: 德清要闻 A: timeout after 12000 ms",
+        "deqing-gov: 德清要闻 B: timeout after 12000 ms",
+        "deqing-gov: 莫干山镇: timeout after 12000 ms",
+        "deqing-gov: 文广旅体局: timeout after 12000 ms",
+        "hangzhou-daily: 杭州日报数字报: anti bot challenge page (90 bytes), open it in a browser instead",
+        "hangzhou-daily: 杭州网 浙江新闻: fetch failed",
+        "huzhou-cts: 工作动态: timeout after 12000 ms",
+        "huzhou-cts: 政策文件: timeout after 12000 ms",
+        "zj-cts: 浙江文旅: fetch failed",
+        "zj-cts: 政务公开: fetch failed",
+        "zj-cts: 浙江省旅游度假区: fetch failed",
+        "ctnews: 时政: fetch failed",
+        "huzhou-gov: 湖州要闻 德清: fetch failed",
+        "huzhou-gov: 交通运输局: timeout after 12000 ms",
+        "ttgasia: Site feed: timeout after 20000 ms"
+      ],
+      "triage": "editorial/news/triage/2026-09-24.md",
+      "finished": "2026-09-24T02:32:07.492Z",
+      "durationMs": 336704
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-24T02:43:17.449Z",
+      "finished": "2026-09-24T02:44:29.696Z",
+      "outcome": "success",
+      "slugs": [
+        "deqing-publishes-its-golden-week-programme"
+      ],
+      "paths": [
+        "/journal/news/2026/09/deqing-publishes-its-golden-week-programme"
+      ],
+      "durationMs": 72247
     }
   ]
 }
