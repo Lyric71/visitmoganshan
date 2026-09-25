@@ -165,7 +165,7 @@ checks. -->
 * Verified 1: 2026-09-19 (page fetched, dated 2023-09-21 14:06 on the page; 成人票（随买随用）：80元/张, 成人票（可买明日）：70元/张, 学生票：40元/张, 老人票：40元/张 all present)
 * Verified 2: 2026-09-19 (first re-fetch returned HTTP 500 to a plain client; re-fetched with browser headers and every string was still present, together with the page date)
 * Shelf life: volatile, 3 months
-* Used in: moganshan-tickets-in-2026
+* Used in: moganshan-tickets-in-2026, yucun
 * Notes: corroborated at a different date by Youxiake, 22 June 2020, which gives the same RMB 80 gate price. Two tier 3 guides agreeing is not a price notice and the article says so. The same page gives 换乘费用：35元/人往返 and 上山首班车：上午8：00；下山末班车：下午17：00, logged below. Replace with a county price notice when deqing.gov.cn can be reached.
 
 ### Moganshan concessions: free entry and half price
@@ -213,7 +213,7 @@ checks. -->
 * Verified 1: 2026-09-19 (page fetched and decoded as GBK; 换取自驾上山的通行证，并购买风景名胜区门票 and 从304省道自驾进入 both present, page dated 2019-09-30)
 * Verified 2: 2026-09-19 (fetched again through a separate request, both strings still present)
 * Shelf life: this is a procedure rather than a figure; treat as semi-stable and recheck at the quarterly revision
-* Used in: moganshan-tickets-in-2026
+* Used in: moganshan-tickets-in-2026, yucun
 * Notes: the same report names all three transfer centres (庾村, 筏头, 后坞) and says the resort opened company, school and station car parks in Yucun free of charge over that National Day holiday. The procedure is seven years old and the access rules have moved since; the article prints it as the shape of the arrangement rather than as today's paperwork.
 
 ### Several separately ticketed places are all sold as Moganshan
@@ -225,7 +225,7 @@ checks. -->
 * Verified 1: 2026-09-19 (Deqing News decoded as GBK, 3月30日, 试营业, 门票销售量已经超过一万单, 免景区门票, 半价优惠, 大瑶村 all present; Zhejiang Online gives 德清庾村景区 4A 德清县莫干山镇燎原村 and 德清后坞（村）景区 3A 德清县莫干山镇后坞村 on the roll headed 湖州6月考生免费游景区名单 with the note 6月凭高考、中考准考证免首道门票)
 * Verified 2: 2026-09-19 (both re-fetched; every string still present. Note that a first string test for 后坞景区 missed because the page writes it 后坞（村）景区 with the bracketed character, and the citation was rewritten to match the page)
 * Shelf life: semi-stable, 6 months
-* Used in: moganshan-tickets-in-2026
+* Used in: moganshan-tickets-in-2026, yucun
 * Notes: this is the mechanism behind most of the ticket price disagreement. A figure quoted for "Moganshan" may be pricing a different gate entirely.
 
 ### The 2026 seasonal tariff that cannot be confirmed
@@ -473,8 +473,176 @@ checks. -->
 * Verified 2: 2026-09-23 (meeting report re-fetched, HTTP 200, unchanged)
 * Shelf life: expires the moment a programme is published, and the fixture list expects one seven to ten days before the holiday
 * Used in: dispatch-2026-39
-* Notes: an absence is only ever as strong as the reach of the search, and tier 1 (deqing.gov.cn, the Huzhou and Zhejiang bureaus) has been unreachable from this machine on every run. The dispatch says "anywhere we can reach" for exactly that reason. The meeting report names no road, no closure and no hour.
+* Notes: an absence is only ever as strong as the reach of the search, and tier 1 (deqing.gov.cn, the Huzhou and Zhejiang bureaus) has been unreachable from this machine on every run. The dispatch says "anywhere we can reach" for exactly that reason. The meeting report names no road, no closure and no hour. Expired 24 September 2026: Deqing News published the county's holiday programme that day (next entry), used in the news item deqing-publishes-its-golden-week-programme.
 
+
+### Deqing Mid Autumn and National Day programme, 2026
+* Value: Mogan Yujie (莫干·庾街) autumn festival 25 to 27 September and 1 to 7 October 2026 (autumn produce and crafts market, a Qinling exhibition, a dusk concert); chestnut picking at 梦也·弥宫, 莫干山静谧山居, 象月湖国际休闲度假谷 and 郡安里, among others; Mid Autumn moon viewing at 莫干山居图 and 江南瑶坞; boats and bird watching at Xiazhu Lake wetland park over National Day; daily street dance and more than 30 market stalls at Xinshi old town, a new show on its water stage from 3 October
+* As of: 24 September 2026
+* Source: 德清新闻网 (Deqing News), reporter Xu Shengyu (徐晟昱), 24 September 2026
+* Tier: 2. No tier 1 notice reachable: the deqing.gov.cn news listings load client side and returned a 6 KB shell; a plain request to the same columns returned HTTP 403.
+* URL: https://dqnews.zjol.com.cn/dqnews/system/2026/09/24/035297909.shtml
+* Verified 1: 2026-09-24 (fetched with curl and decoded from GB18030; read whole in Chinese)
+* Verified 2: 2026-09-24 (fetched again in a separate request; 9月25日至27日及10月1日至7日, 郡安里, 10月3日起 and 30余个 all present)
+* Shelf life: volatile, through 7 October 2026
+* Used in: deqing-publishes-its-golden-week-programme, yucun
+* Notes: no prices, hours, booking channel or ticketing given for any event; the item says so. Whether the guesthouse events are open to non guests is not stated.
+
+### Mogan Yujie is inside the Yucun scenic area, opened 1 May 2024
+* Value: 莫干·庾街 lies inside the Yucun (庾村) 4A scenic area of the Moganshan International Tourism Resort; phase one opened on 1 May 2024
+* As of: 6 May 2024
+* Source: 德清县人民政府 (Deqing County People's Government), news column, reprinting 德清新闻网
+* Tier: 1 (county portal)
+* URL: http://www.deqing.gov.cn/art/2024/5/6/art_1229212604_59073099.html
+* Verified 1: 2026-09-24 (fetched with a browser user agent, HTTP 200; 庾村4A级景区内 and 5月1日上午 present)
+* Verified 2: 2026-09-24 (fetched again; both strings present)
+* Shelf life: semi-stable, location and opening date historical
+* Used in: deqing-publishes-its-golden-week-programme
+* Notes: the investment and floor area figures on the same page were not used. Individual county portal article pages load from here with a browser user agent even when the column listings do not.
+
+### Moganshan Republic library: branch hours as last published
+* Value: the Moganshan Republic branch (莫干山民国分馆) of the Deqing County Library opens 09:00 to 16:30, closed all day Monday
+* As of: January 2023 (notice dated 8 January 2023, effective 9 January)
+* Source: Deqing County Library (德清县图书馆)
+* Tier: 1 (the library's own channel)
+* URL: http://www.dqlib.com.cn/news/newsdetail/5266
+* Verified 1: 2026-09-25 (fetched with a Chrome user agent; 莫干山民国分馆, 09:00-16:30 and 周一全天闭馆 present)
+* Verified 2: 2026-09-25 (fetched again with a Safari user agent; all strings present, plus 2023年1月8日)
+* Shelf life: volatile, 3 months, and already three years old: print as the last published hours, never as current
+* Used in: yucun
+* Notes: the library's Mid Autumn 2026 notice (next entry but one) does not list any branch, so these hours may no longer apply after the June 2026 change of operator.
+
+### Moganshan Republic library now run by a poetry bookshop
+* Value: the 1932 hall (1932年礼堂) that houses the Moganshan Republic library is now run by 泡芙云诗歌书店 (Paofuyun poetry bookshop), which added a themed bookshop, a small exhibition room, coffee and tea and a crafts area while keeping the core Republic collection
+* As of: 15 June 2026
+* Source: Deqing County Library (德清县图书馆), notice set as an image
+* Tier: 1
+* URL: http://www.dqlib.com.cn/news/newsdetail/8241
+* Verified 1: 2026-09-25 (page fetched; body is a single PNG at img.dqlib.com.cn/ContentDelivery/20260616/02AC62CD...png, downloaded and read in full: 1932年礼堂改造, 泡芙云诗歌书店, 正式接手其运营, 主题书店、微型展厅、咖啡茶饮与文创区)
+* Verified 2: 2026-09-25 (page fetched again with a second user agent; title 1932年礼堂改造的诗歌图书馆, date 2026-06-15 and the same image reference present)
+* Shelf life: semi-stable, 6 months
+* Used in: yucun
+* Notes: no hours, no admission terms and no street address in the notice. Zhejiang Online (3 November 2025, entry below) separately reports a 泡芙云 bookshop on Mogan Yujie ten times the size of its closed Shanghai shop; whether that is the same premises is not stated.
+
+### Deqing County Library Mid Autumn 2026 arrangements name no branch
+* Value: the notice for 25 to 27 September 2026 lists the main library (09:00 to 20:30) and three city reading rooms (09:00 to 23:00), closed Monday 28 September, normal hours from 29 September; no branch, the Moganshan one included, is named
+* As of: 23 September 2026
+* Source: Deqing County Library (德清县图书馆), notice set as an image
+* Tier: 1
+* URL: http://www.dqlib.com.cn/news/newsdetail/8428
+* Verified 1: 2026-09-25 (image downloaded and read in full)
+* Verified 2: 2026-09-25 (page fetched again; title 中秋节开放安排, date 2026-09-23 and the same image reference present)
+* Shelf life: through 28 September 2026
+* Used in: yucun
+* Notes: an absence in one notice, printed as that and nothing more. The January 2023 notice named six branches including 莫干山民国分馆.
+
+### The Moganshan Republic library: opening year and holdings
+* Value: opened in 2016; more than 600 titles and 20,000 issues of Republic era periodicals; about 10,000 books on the Republic period
+* As of: August 2020
+* Source: Tencent News (腾讯新闻), travel column by 塞外小野
+* Tier: 3
+* URL: https://news.qq.com/rain/a/20200816A0AL8D00
+* Verified 1: 2026-09-25 (2016年开馆, 600余种20000余期民国报刊, 一万册 present)
+* Verified 2: 2026-09-25 (fetched again; strings present, plus 不花门票也能玩转莫干山 in the title, 老汽车站, 笋干烧肉 and 野菜)
+* Shelf life: semi-stable; the holdings may have moved with the June 2026 change of operator
+* Used in: yucun
+* Notes: this is the "腾讯 庾村免费玩" source the calendar names. Also used, at tier 3, for the old bus station as an exhibit and for two local dishes. It says Yucun can be enjoyed without buying a ticket; no tier 1 or 2 source states an admission policy for Yucun either way.
+
+### Yucun rural reform and the 1932 park
+* Value: Huang Fu (黄郛, 1880 to 1936), former head of foreign affairs in the Republican government and mayor of Shanghai, retired to Moganshan in 1931 and began a rural reform (trees, water storage, a school, a library, a livestock farm); his widow Shen Yiyun (沈亦云) continued it to 1949; he is buried in Yucun; the reform's silkworm egg farm (蚕种场) has 11 buildings, leased with other land by Zhu Shengxuan (朱胜萱) from 2011 (a 20 year lease, 2011 to 2031) and opened as the 庾村 cultural market in October 2013; the architect 庄慎 built the bamboo awnings on a budget of RMB 100,000; paths laid with river pebbles
+* As of: January 2015
+* Source: The Paper (澎湃新闻), 市政厅 column, Zhu Shengxuan's lecture of 2 December 2014 edited by 蒋晓娟
+* Tier: 2
+* URL: https://m.thepaper.cn/newsDetail_forward_1294947
+* Verified 1: 2026-09-25 (1931年黄郛携家人退隐莫干山, 坚持到1949年, 11间蚕种场房舍, 2013年10月时，一期园区开放, 此村葬有民国高官黄郛, 10万元, 庄慎 present)
+* Verified 2: 2026-09-25 (fetched again with a second user agent; every string present)
+* Shelf life: evergreen for the history; the park's current tenants are not covered
+* Used in: yucun
+* Notes: first person account by the developer, published by The Paper's own column rather than a contributor account, hence tier 2 for the facts, not for his opinions. The 1936 construction date for the farm buildings appears only in a county propaganda department feature (德清文明网, 16 March 2023, tier 4) and is not used.
+
+### Yucun street, square, old bus station and the 1916 journey
+* Value: the old Moganshan bus station (莫干山老车站) at the junction of Huangfu East Road and Huangfu Road, on a stretch rebuilt as a Republic style street with a photo studio, a cloth shoe shop, cafés and restaurants; the Yucun central square beside it; the cultural park of 11 buildings, mostly Huang Fu's silkworm farm, near the square; in 1916 Shanghai to Moganshan took 14 hours by train and steamboat
+* As of: November 2019
+* Source: Zhejiang Online (浙江在线), reporter 甘居鹏
+* Tier: 2
+* URL: https://town.zjol.com.cn/czyc/201911/t20191121_11385215.shtml
+* Verified 1: 2026-09-25 (莫干山老车站, 黄郛东路与黄郛路, 民国风情街, 庾村中心广场, 11座建筑, 14个小时 present)
+* Verified 2: 2026-09-25 (fetched again; all strings plus 老式照相馆 present)
+* Shelf life: semi-stable, 6 months
+* Used in: yucun
+* Notes: the same page calls the park the first rural cultural creative park in China; that superlative is not repeated.
+
+### White Cloud art museum
+* Value: 白云美术馆 opened in 2017 in the 1930s silkworm farm buildings at Yucun; ground floor public gallery, five loft rooms upstairs for artists or guests; self financing (自负盈亏) in 2022
+* As of: December 2022
+* Source: The Paper (澎湃新闻), reporter 钱雪儿, as republished by China Youth Online (中青在线)
+* Tier: 2
+* URL: http://m.cyol.com/gb/articles/2022-12/12/content_X5WbnlCp2d.html
+* Verified 1: 2026-09-25 (2017年, 一层是公共艺术展厅, 五个独立的LOFT空间, 自负盈亏 present)
+* Verified 2: 2026-09-25 (fetched again; all present)
+* Shelf life: semi-stable, 6 months
+* Used in: yucun
+* Notes: no hours and no admission terms on the page.
+
+### Mogan Yujie: cost, length, phases, visits, the art museum building, the hostel
+* Value: inside the Yucun 4A scenic area; about RMB 1.17 billion; a 1.6 km street along the Fuxi (阜溪); phase one opened 1 May 2024, phase two (energy community, waterside commercial street, garden market, youth space) 1 October 2025; 250,000 visits over the 2025 National Day and Mid Autumn holiday, up 280 percent; the Moganshan Art Museum's main building is a converted 1980s metalwork factory; a youth hostel of about 2,000 m² under construction, due 2026; more than 60 brands; a youth canteen; the 泡芙云 bookshop reopened here at ten times the size of its closed Shanghai shop; a Nanjing live music room (漾应的火塘)
+* As of: 3 November 2025
+* Source: Zhejiang Online (浙江在线)
+* Tier: 2
+* URL: https://zjnews.zjol.com.cn/zjnews/202511/t20251103_31322043.shtml
+* Verified 1: 2026-09-25 (25万人次, 同比增长280%, 1.6公里, 11.7亿元, 今年10月1日，二期, 金属件加工厂, 计划2026年投入使用 present)
+* Verified 2: 2026-09-25 (fetched again; those plus 2000平方米, 60余家品牌, 青年食堂, 水岸商业街, 10倍, 漾应的火塘 present)
+* Shelf life: semi-stable, 6 months; the visit figure is holiday specific
+* Used in: yucun
+* Notes: TIER DEVIATION for the visit count: source-tiers.md routes visitor numbers to the Huzhou or Zhejiang bureau only. This one is printed by the provincial press without a named source; the article says so and calls it a local tally, and it must never be reused as a bureau count.
+
+### Mogan Yujie: the Fuxi, the bridges and residents' noise complaints
+* Value: the Fuxi rises at Sword Pond (剑池) and flows through Mogaowu (莫干坞) to Yucun; an international concept design competition for seven bridges over the Fuxi (阜溪七桥); event music drew complaints from residents, especially older ones, at first; phase one opened 1 May 2024
+* As of: 27 December 2024
+* Source: Tide News (潮新闻), reporters 鲁玲彦 and 徐文罡, interview with the Yujie operating company's general manager 凌娜
+* Tier: 2
+* URL: https://tidenews.com.cn/news.html?id=3000331
+* Verified 1: 2026-09-25 (阜溪，源起莫干山剑池，流经莫干坞至庾村 and 背景音乐嘈杂一度引发居民尤其是老年人的不满 present)
+* Verified 2: 2026-09-25 (fetched again; both strings plus 七桥 and 2024-12-27 present)
+* Shelf life: semi-stable, 6 months
+* Used in: yucun
+* Notes: the operator's own account of the complaints; printed as what the operator said.
+
+### Moganshan Art Museum opening
+* Value: opened 28 September 2024 at No. 150 Mogan Yujie (莫干·庾街150号), organised with Rong Bao Zhai and the Deqing culture and tourism group
+* As of: 1 October 2024
+* Source: Southern Metropolis Daily (南方都市报), culture desk, on its N视频 app
+* Tier: 2
+* URL: https://m.mp.oeeee.com/a/BAAFRD0000202409301005536.html
+* Verified 1: 2026-09-25 (9月28日, 正式开馆, 莫干·庾街150号 present)
+* Verified 2: 2026-09-25 (fetched again; all present)
+* Shelf life: semi-stable; the address and date are historical
+* Used in: yucun
+* Notes: no hours or admission terms.
+
+### Yucun "three treasures" before the rebuild
+* Value: before the government's Republic style renovation, pig liver noodles (猪肝面), sesame cakes (烧饼) and cloth shoes (老布鞋) were called Yucun's three treasures (庾村三宝)
+* As of: October 2018
+* Source: The Paper (澎湃新闻), 湃客 contributor column
+* Tier: 3
+* URL: https://www.thepaper.cn/newsDetail_forward_2502086
+* Verified 1: 2026-09-25 (猪肝面, 烧饼, 老布鞋, 庾村三宝, 2018-10-09 present)
+* Verified 2: 2026-09-25 (fetched again; all present)
+* Shelf life: historical
+* Used in: yucun
+* Notes: a contributor account, so tier 3; no restaurant named in it is printed as trading.
+
+### Anji's 余村 as a Best Tourism Village
+* Value: 余村 in Anji County named among the first UN World Tourism Organization Best Tourism Villages on 2 December 2021
+* As of: 2 December 2021
+* Source: Ministry of Culture and Tourism (文化和旅游部)
+* Tier: 1
+* URL: https://www.mct.gov.cn/whzx/whyw/202112/t20211202_929544.htm
+* Verified 1: 2026-09-25 (中国浙江余村, 最佳旅游乡村, 发布时间 2021-12-02 present)
+* Verified 2: 2026-09-25 (fetched again; all present)
+* Shelf life: evergreen
+* Used in: yucun
+* Notes: used only to separate Anji's 余村 from Moganshan's 庾村. Zhejiang Online, 3 December 2021, says the same at tier 2.
 
 ## History and culture (evergreen)
 
@@ -497,6 +665,18 @@ primary research, <dates>". -->
 * Used in: national-day-on-moganshan
 * Notes: printed in the article as our arithmetic, not as a published figure. It is a yield, not a tariff, and must never be quoted as the price of a ticket.
 
+
+### Yucun addresses across the affiliate listings
+* Value: of 809 captured listings, 73 give a Liaoyuan village (燎原村) address and 24 a Huangfu East or West Road (黄郛东路, 黄郛西路) address; of the 20 whose names carry "Yucun Square", "Yucun Plaza", "Yu Village Plaza" or "Yucun Guangchang", 2 give Huangfu Road, 7 another town street, 9 a hamlet (Mogaowu, Zhong village, Ganjia, Nanlu, Qian village, Huangshaling) and 2 an address outside Moganshan town (Daixi Town, Wuxing District; Qiyuan village); 6 further listings give "Yu Village, Fatou Village"
+* As of: captures of 8 August 2026, compiled 25 September 2026
+* Source: BeyondBorder Group Ltd primary research, from the Trip.com captures in data/raw/
+* Tier: own
+* URL: n/a, derived from data/raw/{hotelId}.json address fields
+* Verified 1: 2026-09-25 (regex count over all 809 capture files)
+* Verified 2: 2026-09-25 (recounted and each of the 20 "Square" listings read by hand)
+* Shelf life: semi-stable; recount when the stays collector runs again
+* Used in: yucun
+* Notes: addresses only. No OTA price, rating or review figure is used. Listing addresses are as the property gave them to the OTA and are not independently checked.
 
 ## Retired
 
