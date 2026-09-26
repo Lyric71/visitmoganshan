@@ -128,8 +128,8 @@ if (-not (Test-Path $Triage)) {
   exit 0
 }
 
-# 2. The shared runner uses Fable, Opus, GPT-6 Astra, then GPT-5.6 Sol.
-$Model = 'fable'
+# 2. The shared runner uses Opus 5.5, then Fable, GPT-6 Astra and GPT-5.6 Sol as fallbacks.
+$Model = 'claude-opus-5-5'
 $Prompt = @"
 Draft the news items that are due from today's sweep.
 

@@ -87,8 +87,8 @@ if (-not $Due) {
 }
 $DueIds = ($Due | ForEach-Object { $_.brief_id }) -join ', '
 
-# The shared runner uses: Fable, Opus, GPT-6 Astra, then GPT-5.6 Sol.
-$Model = 'fable'
+# The shared runner uses: Opus 5.5, then Fable, GPT-6 Astra and GPT-5.6 Sol as fallbacks.
+$Model = 'claude-opus-5-5'
 
 if ($Mode -eq 'draft') {
   $Prompt = @"

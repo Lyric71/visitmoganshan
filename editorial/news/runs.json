@@ -3,55 +3,6 @@
   "runs": [
     {
       "kind": "sweep",
-      "started": "2026-09-07T03:17:32.145Z",
-      "outcome": "success",
-      "sourcesQueried": 10,
-      "candidates": 22,
-      "newCandidates": 22,
-      "unreachable": [
-        "deqing-gov",
-        "huzhou-cts",
-        "zj-cts"
-      ],
-      "errors": [
-        "deqing-gov: 公告公示: timeout after 12000 ms",
-        "deqing-gov: 德清要闻 A: timeout after 12000 ms",
-        "deqing-gov: 德清要闻 B: timeout after 12000 ms",
-        "deqing-gov: 莫干山镇: timeout after 12000 ms",
-        "deqing-gov: 文广旅体局: timeout after 12000 ms",
-        "huzhou-cts: 工作动态: timeout after 12000 ms",
-        "huzhou-cts: 政策文件: timeout after 12000 ms",
-        "zj-cts: 浙江文旅: fetch failed",
-        "zj-cts: 政务公开: fetch failed",
-        "zj-cts: 浙江省旅游度假区: fetch failed"
-      ],
-      "triage": "editorial/news/triage/2026-09-07.md",
-      "finished": "2026-09-07T03:20:35.822Z",
-      "durationMs": 183677
-    },
-    {
-      "kind": "publish",
-      "started": "2026-09-07T03:35:38.109Z",
-      "finished": "2026-09-07T03:35:38.126Z",
-      "outcome": "skipped",
-      "skipReason": "nothing approved"
-    },
-    {
-      "kind": "publish",
-      "started": "2026-09-07T03:36:07.801Z",
-      "finished": "2026-09-07T03:36:07.833Z",
-      "outcome": "skipped",
-      "skipReason": "nothing approved"
-    },
-    {
-      "kind": "publish",
-      "started": "2026-09-07T04:22:03.827Z",
-      "finished": "2026-09-07T04:22:03.855Z",
-      "outcome": "skipped",
-      "skipReason": "nothing approved"
-    },
-    {
-      "kind": "sweep",
       "started": "2026-09-07T05:07:17.055Z",
       "outcome": "success",
       "sourcesQueried": 22,
@@ -983,6 +934,65 @@
         "/journal/news/2026/09/deqing-publishes-its-golden-week-programme"
       ],
       "durationMs": 72247
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-24T04:00:05.610Z",
+      "finished": "2026-09-24T04:00:05.675Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-24T09:02:21.621Z",
+      "finished": "2026-09-24T09:02:21.664Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-09-24T09:02:23.485Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-09-24T09:02:23.515Z",
+      "durationMs": 30
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-24T09:03:35.203Z",
+      "finished": "2026-09-24T09:03:35.245Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-09-25T00:00:03.489Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-09-25T00:00:03.515Z",
+      "durationMs": 26
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-25T00:37:05.584Z",
+      "finished": "2026-09-25T00:37:05.639Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-09-25T01:10:52.948Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-09-25T01:10:52.961Z",
+      "durationMs": 13
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-25T04:00:04.577Z",
+      "finished": "2026-09-25T04:00:04.620Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
     }
   ]
 }
