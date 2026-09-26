@@ -117,7 +117,10 @@ for (const file of changed) {
   if (normalise(old.body) !== normalise(now.body)) {
     const oldUpdated = field(old.fm, 'last_updated');
     const newUpdated = field(now.fm, 'last_updated');
-    if (oldUpdated === newUpdated)
+    // A second edit on the day the date already names is honest: there is no
+    // later date to move to. A correction to a piece published this morning is
+    // the usual case.
+    if (oldUpdated === newUpdated && newUpdated !== today)
       problems.push(`${file}: body changed but last_updated is still ${newUpdated}`);
   }
 }

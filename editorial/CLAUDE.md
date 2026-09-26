@@ -162,7 +162,8 @@ and never invent one. The `/go/` table is built in `astro.config.mjs` from
 | `go/train-hangzhou-deqing` | `/go/trains-hangzhou-deqing` | exists in `PARTNER_LINKS` |
 | `go/stay-<property>` | `/go/moganshan-<hotelId>` | look the property up by name in the seed; the goSlug is `moganshan-<id>` |
 | `go/stays-all` | link `/where-to-stay/` (internal) | no storefront slug exists yet; add one in Phase 2a before using an affiliate link here |
-| `go/stays-village-<village>` | link the village page or `/where-to-stay/` (internal) | the nine village slugs are Phase 2a of the master plan; leave `TODO: affiliate slug stays-village-<x>` in the asset brief |
+| `go/stays-village-yucun` | `/go/stays-village-yucun` | exists in `PARTNER_LINKS`: Trip.com's list of hotels near the Yucun scenic area |
+| `go/stays-village-<village>` | link the village page or `/where-to-stay/` (internal) | the other eight village slugs are Phase 2a of the master plan; leave `TODO: affiliate slug stays-village-<x>` in the asset brief |
 | `go/tickets-moganshan` | none | no ticket slug exists; leave `TODO: affiliate slug tickets-moganshan` and publish without |
 
 Per pillar placement is in the brief (Part 5.7 of the master plan). P4 Food,

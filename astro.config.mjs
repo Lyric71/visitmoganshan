@@ -64,6 +64,10 @@ const PARTNER_LINKS = {
     'https://www.trip.com/trains/tt-common/ttlist?departurecitycode=CN001AOH&arrivalcitycode=CN001DRH&Allianceid=9859697&SID=327673690&trip_sub1=train-sh-dq&trip_sub3=D19143728',
   'trains-hangzhou-deqing':
     'https://www.trip.com/trains/tt-common/ttlist?departurecitycode=CN001HGH&arrivalcitycode=CN001DRH&Allianceid=9859697&SID=327673690&trip_sub1=trains-hz-dq&trip_sub3=D19144281',
+  // Village storefronts (master plan Part 5.7). Trip.com's own landing page
+  // for hotels near the Yucun scenic area, city 1367, landmark 22839738.
+  'stays-village-yucun':
+    'https://www.trip.com/hotels/deqing-yucun-scenic-area-mogan-mountain/hotels-c1367m22839738/?Allianceid=9859697&SID=327673690&trip_sub1=stays-village-yucun',
 };
 
 const affiliateRedirects = Object.fromEntries(

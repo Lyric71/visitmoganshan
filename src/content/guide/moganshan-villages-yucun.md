@@ -316,7 +316,9 @@ and each listing shows the live one.
 
 Most of these listings are minsu (民宿), small family guesthouses; [what a minsu
 is](/where-to-stay/minsu-explained/) explains what that means for a booking.
-Everything else is on [where to stay](/where-to-stay/).
+Trip.com keeps its own [list of places to stay near
+Yucun](/go/stays-village-yucun/) for the long tail, and [where to
+stay](/where-to-stay/) covers the rest of the mountain.
 
 ## A walk through Yucun
 
