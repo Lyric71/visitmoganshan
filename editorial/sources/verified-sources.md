@@ -81,7 +81,7 @@ checks. -->
 * Verified 1: 2026-09-06
 * Verified 2: 2026-09-06
 * Shelf life: volatile, 3 months
-* Used in: private-car-ban-on-moganshan, moganshan-shuttle-system
+* Used in: private-car-ban-on-moganshan, moganshan-shuttle-system, where-to-leave-your-bags
 * Notes: disagrees with the 08:00 to 18:00 the existing getting around and tickets pages give from the August 2026 desk check. Slot 2 should reconcile. The 2019 Sohu report gives 08:00 to 17:00 for the transfer window and a 17:30 last descent at Fatou.
 
 ### Transfer centre launch: parking spaces and shuttle fare
@@ -153,7 +153,7 @@ checks. -->
 * Verified 1: 2026-09-16 (page fetched, 35元/人往返, 15元/人，当天有效, 免费寄存, 大笼子, 最后一班下山车是17:00 and the author name confirmed on the page)
 * Verified 2: 2026-09-16 (page fetched again, every string still present)
 * Shelf life: volatile, 3 months, on an account already seven years old
-* Used in: moganshan-shuttle-system
+* Used in: moganshan-shuttle-system, where-to-leave-your-bags
 * Notes: the page carries no publication date anywhere in its HTML or metadata. It dates itself in its own text, 我是19年8月旺季去的 and 2019年8月最新路线, and is cited only as a trip report describing an August 2019 visit, never as a current fact. The luggage claim contradicts our own desk research of 1 to 5 August 2026, which found no left luggage service at the transfer centres and is what /getting-here/getting-around/ says; the article prints both and resolves neither. Slot 006 should settle it.
 
 ### Moganshan scenic area gate ticket, adult, and the advance price
@@ -301,6 +301,65 @@ checks. -->
 * Used in: dispatch-2026-39
 * Notes: the retail opens ahead of the railway and the report still gives no opening date for the line, which is the point worth carrying forward. 率先亮相 means the stores debut, not that leases were signed.
 
+### Deqing station lockers: in the waiting area, behind security
+* Value: self service lockers (brand 旅途易购) in the waiting areas of 18 Yangtze delta stations, Deqing among them; usable only after passing security into the waiting area; the large compartment takes a wheeled case; paid by scanning a code with WeChat or Alipay. No price printed for Deqing.
+* As of: July 2018
+* Source: Zhejiang Online (浙江在线), reporter Zhang Fan (张帆)
+* Tier: 2
+* URL: https://zjnews.zjol.com.cn/zjnews/201807/t20180709_7732143.shtml
+* Verified 1: 2026-09-28 (page fetched, dated 2018年07月09日; 德清, 旅客须通过安检后进入候车区域才能寄存物品, 大格口可以寄存拉杆箱, 微信或支付宝 present)
+* Verified 2: 2026-09-28 (fetched again, every string still present)
+* Shelf life: volatile, 3 months, on a report already eight years old; nothing since confirms the lockers are still there
+* Used in: where-to-leave-your-bags
+* Notes: the page prints compartment sizes in 厘米 that are plainly millimetres (929 厘米 high); never use the sizes. Replace with a railway or county source that dates the lockers after 2018 as soon as one can be reached.
+
+### Station lockers: ID and ticket already checked; Hangzhou East fees in 2018
+* Value: under the same China Railway Shanghai Group scheme, a bag reaches the locker after security with the passenger's ID and ticket already checked; Deqing listed among the first 17 stations after Hangzhou East; at Hangzhou East, RMB 10 per 8 hours small and RMB 20 per 8 hours large; Hangzhou East also had a staffed left luggage office on the arrivals level that asked for documents
+* As of: August 2018
+* Source: Hangzhou Daily (杭州日报), reporter Wang Danping (汪丹萍), on Hangzhou Net (杭州网)
+* Tier: 2
+* URL: https://hznews.hangzhou.com.cn/chengshi/content/2018-08/03/content_7046403.htm
+* Verified 1: 2026-09-28 (发布时间：2018-08-03, 身份证及车票也已通过查验, 德清, 小格口每8小时收费10元，大格口每8小时收费20元 present)
+* Verified 2: 2026-09-28 (fetched again, present)
+* Shelf life: volatile, 3 months, on an eight year old report
+* Used in: where-to-leave-your-bags (the ID and ticket check only; the Hangzhou East fees were cut as eight years old and about another station)
+* Notes: the fees are Hangzhou East's, never Deqing's.
+
+### Deqing coach centre beside the station
+* Value: the county coach centre (客运中心) opened for trial operation in August 2018, joined to the high speed station by an 80 m covered walkway; its opening report lists ticketing, buses, taxis, offices, long distance coaches, shops and tourist distribution, and names no left luggage
+* As of: August 2018
+* Source: Zhejiang Online, Living in Hangzhou (浙江在线·住在杭州网)
+* Tier: 2
+* URL: https://zzhz.zjol.com.cn/hhpd/hzls/201808/t20180822_8073148.shtml
+* Verified 1: 2026-09-28 (page dated 2018-08-22 09:57; 一条长80米的连廊将高铁站和客运中心连接在一起 present; no 寄存 on the page)
+* Verified 2: 2026-09-28 (fetched again, present)
+* Shelf life: the walkway is semi-stable, 6 months; the absence of left luggage is only what the opening report lists
+* Used in: where-to-leave-your-bags
+* Notes: the Huzhou government copy of the same report (huzhou.gov.cn art_1229213494_55067358) timed out and would be tier 1.
+
+### Transfer centre services announced at launch
+* Value: ticketing, enquiries, waiting, meetings and dining, shopping (票务、咨询、候车、会议餐饮、购物); no luggage store in the list
+* As of: December 2018
+* Source: Deqing Culture and Tourism (德清文旅), reproduced on 163.com
+* Tier: 4 (cite only as what was announced)
+* URL: https://m.163.com/dy/article/E2EU8TUV0518SHA7.html
+* Verified 1: 2026-09-28 (可提供票务、咨询、候车、会议餐饮、购物等服务 present, page dated 2018-12-07)
+* Verified 2: 2026-09-28 (fetched again, present)
+* Shelf life: a launch announcement, does not expire, but says nothing about today
+* Used in: where-to-leave-your-bags
+* Notes: same page as the launch parking and fare entry above.
+
+### Hangzhou Metro luggage lockers and their fees
+* Value: self service lockers at 39 metro stations, 42 points, 398 compartments, including the metro station at Hangzhou East; from 1 October 2024 the first 30 minutes are free, then RMB 2, 4 and 5 an hour (small, medium, large), capped at RMB 12, 24 and 30 per 24 hours; the six large lockers at the Hangzhou East metro station were full by about 09:00 on 1 October 2024; the report sets no maximum stay
+* As of: October 2024
+* Source: Zhejiang Online (浙江在线), reporter Zhu Yifan (祝依凡)
+* Tier: 2
+* URL: https://zjnews.zjol.com.cn/yc/qmt/202410/t20241001_30560309.shtml
+* Verified 1: 2026-09-28 (39座车站42个点位398个柜格, 首半小时免费, 小柜每小时收费2元、中柜每小时收费4元、大柜每小时收费5元, 小柜12元、中柜24元、大柜30元, 今天9点左右，6个大柜就被存满了 present)
+* Verified 2: 2026-09-28 (fetched again, every string present)
+* Shelf life: volatile, 3 months, on a report now two years old
+* Used in: where-to-leave-your-bags
+* Notes: a Hangzhou Metro operator page with current fees would be the tier 1 replacement. The Hangzhou culture and tourism bureau's October 2024 page on free station luggage services (wgly.hangzhou.gov.cn art_1229471480_58957448) did not load inside 300 seconds and is not used.
 
 ## Places, stays, seasons, trails (semi-stable)
 
@@ -677,6 +736,18 @@ primary research, <dates>". -->
 * Shelf life: semi-stable; recount when the stays collector runs again
 * Used in: yucun
 * Notes: addresses only. No OTA price, rating or review figure is used. Listing addresses are as the property gave them to the OTA and are not independently checked.
+
+### No left luggage service found at the transfer centres, August 2026
+* Value: no left luggage service at the transfer centres
+* As of: 1 to 5 August 2026
+* Source: BeyondBorder Group Ltd desk research, 1 to 5 August 2026, as printed on /getting-here/getting-around/ ("The transfer centers run no left-luggage service") and cited on /plan/moganshan-shuttle-system/
+* Tier: own
+* URL: n/a, our own pages
+* Verified 1: 2026-09-28 (the sentence confirmed on src/content/guide/getting-here-getting-around.md and the citation on plan-moganshan-shuttle-system.md)
+* Verified 2: 2026-09-28 (both files read again before the draft was finished)
+* Shelf life: volatile, 3 months, so it lapses in early November 2026
+* Used in: moganshan-shuttle-system, where-to-leave-your-bags
+* Notes: logged on 28 September 2026 because it was cited twice without an entry. The method of the August check is not recorded anywhere in the repo; the articles cite it as desk research and never as a visit or a call. It contradicts the August 2019 Youxiake trip report, and both are printed.
 
 ## Retired
 
