@@ -17,7 +17,7 @@ image_alt: A folded paper map, a notebook, keys and a glass of tea on a table by
 word_count: 1900
 author: cyril-drouin
 published: 2026-08-05
-last_updated: 2026-08-08
+last_updated: 2026-09-29
 ---
 
 # Planning questions, answered
@@ -82,7 +82,7 @@ Only outside the scenic area. Private vehicles do not enter the core, and a taxi
 
 ### What happens to my luggage at the transfer center?
 
-It moves with you. You take your bags off the vehicle that brought you and onto scenic-area transport. There is no left-luggage arrangement we can confirm, so plan to carry everything.
+It moves with you. You take your bags off the vehicle that brought you and onto scenic area transport. The record on leaving them splits: a 2019 trip report describes a free desk at Yucun, while the 2018 launch listing and our own 2026 check found none, and the lockers at Deqing station sit behind security. [Where to leave your bags](/plan/where-to-leave-your-bags/) sets out each record with its date. Plan to carry everything.
 
 ## Moving around once you are here
 

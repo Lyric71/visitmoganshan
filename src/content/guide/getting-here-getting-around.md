@@ -9,25 +9,25 @@ secondary_keywords: [moganshan bus, moganshan taxi, moganshan transfer center]
 schema: HowTo
 image: /images/guide/getting-here-getting-around.webp
 image_alt: A small green shuttle bus rounding a bend on a road through dense bamboo forest
-word_count: 1263
+word_count: 1350
 author: cyril-drouin
 published: 2026-08-05
-last_updated: 2026-08-08
+last_updated: 2026-09-29
 ---
 
 # Getting around Moganshan
 
-Here is the rule that catches nearly every visitor. Private vehicles cannot drive inside the scenic area. Your taxi, your rental car or your friend's car stops at a transfer center, and you carry on from there on scenic-area transport.
+Here is the rule that catches nearly every visitor. Private vehicles cannot drive inside the scenic area. Your taxi, your rental car or your friend's car stops at a transfer centre, and you carry on from there on scenic area transport.
 
-The area in question is the core of Moganshan, about 20 km² of it, on a mountain in Deqing County, in Huzhou prefecture, Zhejiang Province, roughly 60 km north of Hangzhou. The main peak, Tashan, stands 719 to 720 meters high.
+The area in question is the core of Moganshan, about 20 km² of it, on a mountain in Deqing County, in Huzhou prefecture, Zhejiang Province, roughly 60 km north of Hangzhou. The main peak, Tashan, stands 719 to 720 metres high.
 
 There are three of them: Yucun, Fatou and Houwu. All three run 08:00 to 18:00.
 
-Almost no English-language page mentions this. Most people learn it at the barrier.
+Almost no English language page mentions this. Most people learn it at the barrier.
 
-## The three transfer centers
+## The three transfer centres
 
-| Transfer center | What it is | Hours |
+| Transfer centre | What it is | Hours |
 |---|---|---|
 | **Yucun** (庾村) | Main gateway at the foot of the mountain. Square, market, restaurants, the "1932" culture park. | 08:00 to 18:00 |
 | **Fatou** | The third official transfer point, on its own road approach. | 08:00 to 18:00 |
@@ -35,19 +35,19 @@ Almost no English-language page mentions this. Most people learn it at the barri
 
 ![A car park and waiting shelter at the foot of a bamboo mountain with a shuttle bus leaving](/images/guide/getting-here-getting-around-2.webp 'Private cars stop here. Everything above this point moves by shuttle, on foot, or not at all.')
 
-> Scenic-area vehicle restriction and transfer center hours, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
+> Scenic area vehicle restriction and transfer centre hours, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
 Two things follow from those hours. Arrive after 18:00 and the system has shut for the day. Set off before 08:00 and it has not started.
 
 If you do land after 18:00, what happens next depends on where you are sleeping. A guesthouse outside the boundary can still be reached by taxi. A guesthouse inside it cannot, so message the property before you board your train, and be ready to spend the night in Wukang, the county seat about 20 km away, and go up in the morning.
 
-The restriction covers the core scenic area. Guesthouse villages sit at various points around the slopes, and some are outside the line altogether. So the question worth asking is not where the transfer center is. It is which side of the boundary your bed is on. Ask the property. They field that question every week.
+The restriction covers the core scenic area. Guesthouse villages sit at various points around the slopes, and some are outside the line altogether. So the question worth asking is not where the transfer centre is. It is which side of the boundary your bed is on. Ask the property. They field that question every week.
 
 ## Do you actually need a car?
 
 For most visitors, no.
 
-A car earns its keep if you are staying in an outlying village, traveling with small children, or trying to see several villages in two days. It stops earning anything at the scenic area boundary.
+A car earns its keep if you are staying in an outlying village, travelling with small children, or trying to see several villages in two days. It stops earning anything at the scenic area boundary.
 
 If your plan is a guesthouse, some walking, a couple of sights and a lot of sitting still, skip it. Take the train to Deqing, cover the last stretch by shuttle or taxi, and let the property handle the rest. The [Deqing station guide](/getting-here/deqing-station/) covers that leg, and [how to get to Moganshan](/getting-here/) covers the whole chain.
 
@@ -57,7 +57,7 @@ Moganshan is not one settlement. It is a mountain with villages around it, each 
 
 | Village | Chinese | What it is |
 |---|---|---|
-| Yucun | 庾村 | Main hub at the foot. Market, restaurants, the main scenic-area gateway. |
+| Yucun | 庾村 | Main hub at the foot. Market, restaurants, the main scenic area gateway. |
 | Xiantan | 仙潭村 | Northern foot. About 135 guesthouses in a village of under 2,000 people. |
 | Laoling | 劳岭村 | South. Reservoir, kayaking, cycling. |
 | Sanjiuwu | 三九坞 | Where naked Home Village opened in 2007. |
@@ -65,9 +65,9 @@ Moganshan is not one settlement. It is a mountain with villages around it, each 
 | Dazaowu | 大造坞 | Most remote. Rice paddies, Dadouwu reservoir. |
 | Wukang | 武康 | Deqing county seat, about 20 km away. Rail and services. |
 
-Yucun is the practical center of gravity, and if you move between villages you will probably pass through it. The [villages guide](/moganshan/villages/) sets out what each one is like to stay in.
+Yucun is the practical centre of gravity, and if you move between villages you will probably pass through it. The [villages guide](/moganshan/villages/) sets out what each one is like to stay in.
 
-Village-to-village travel happens by road. Outside the restricted core that means a car, a taxi or a guesthouse pickup. Houwu to Yucun runs about 30 minutes, which is roughly the outside edge; villages on the same flank sit closer together.
+Travel between villages happens by road. Outside the restricted core that means a car, a taxi or a guesthouse pickup. Houwu to Yucun runs about 30 minutes, which is roughly the outside edge; villages on the same flank sit closer together.
 
 ## Walking
 
@@ -89,23 +89,23 @@ A taxi or van from Deqing station to Moganshan town costs about RMB 100 and take
 
 | Y1 shuttle | Detail |
 |---|---|
-| Route | Deqing Coach Center to the Moganshan tourist distribution center |
+| Route | Deqing Coach Centre to the Moganshan tourist distribution centre |
 | Fare | RMB 10 |
 | Journey | 30 to 40 minutes |
 | Departures | 07:30, 08:40, 09:40, 10:40, 13:00, 15:00, 16:00 |
 | Return runs | 08:40 to 17:00 |
 
-Seven departures is the entire service. The gap between 10:40 and 13:00 is real, and so is the 16:00 finish. Those two numbers matter more than the fare.
+Seven departures is the entire service. The gap between 10:40 and 13:00 is real, and so is the 16:00 finish. Those two numbers matter more than the fare. The timetable and fares were last checked on 5 August 2026, and they change without notice, so confirm the departure your plan depends on before you travel.
 
-One warning about apps. Moganshan Road (莫干山路) is the M50 art district in Shanghai, roughly 200 km from the mountain, and the names collide constantly. Check what your ride-hailing app actually selected before you confirm.
+One warning about apps. Moganshan Road (莫干山路) is the M50 art district in Shanghai, roughly 200 km from the mountain, and the names collide constantly. Check what your ride hailing app actually selected before you confirm.
 
 ## Guesthouse pickups
 
 Ask. That is the whole strategy.
 
-The mountain has around 1,000 minsu (民宿), the Chinese term for a small owner-run guesthouse. In a village like Xiantan roughly 90 percent are locally run, so practice varies from door to door.
+The mountain has around 1,000 minsu (民宿), the Chinese term for a small guesthouse run by its owner. In a village like Xiantan roughly 90 percent are locally run, so practice varies from door to door.
 
-Message the property before you book your train. Give them your arrival time and ask two things: which transfer center serves you, and whether someone can meet you there.
+Message the property before you book your train. Give them your arrival time and ask two things: which transfer centre serves you, and whether someone can meet you there.
 
 ## Cycling
 
@@ -117,19 +117,21 @@ Bikes are arranged through the guesthouses down at Laoling rather than from a re
 
 For an international visitor arriving with suitcases, this is the single biggest friction point on the whole trip.
 
-![A suitcase at the bottom of a long flight of uneven stone steps climbing into bamboo](/images/guide/getting-here-getting-around-4.webp 'The last hundred meters to a guesthouse is often steps. Pack for carrying, not for wheeling.')
+![A suitcase at the bottom of a long flight of uneven stone steps climbing into bamboo](/images/guide/getting-here-getting-around-4.webp 'The last hundred metres to a guesthouse is often steps. Pack for carrying, not for wheeling.')
 
-Picture the chain. Pudong to Hongqiao. Hongqiao to Deqing, 63 to 80 minutes. Deqing to Moganshan town, another 30 to 40. Then a transfer center, where the bags come off one vehicle and go onto another. Then the last stretch to the property, which may involve steps.
+Picture the chain. Pudong to Hongqiao. Hongqiao to Deqing, 63 to 80 minutes. Deqing to Moganshan town, another 30 to 40. Then a transfer centre, where the bags come off one vehicle and go onto another. Then the last stretch to the property, which may involve steps.
 
-That is four handling points with two cases, and at least one of them is outdoors. Your bags move with you the whole way. The transfer centers run no left-luggage service, so plan to carry everything you bring.
+That is four handling points with two cases, and at least one of them is outdoors. Your bags move with you the whole way, because nobody can promise you a place to leave them.
+
+The record on left luggage splits. When the Yucun transfer centre opened in December 2018, its published list of services named no luggage store, and our own desk research in August 2026 found no left luggage service there. A Chinese trip report from August 2019, though, says the service desk kept bags free of charge. The desk may still do so without advertising it, or it may have stopped. The lockers at Deqing station stand inside the waiting hall, behind security, so they are no use until you hold a ticket out.
+
+[Where to leave your bags](/plan/where-to-leave-your-bags/) prints each of those records with its date and source, and the priced lockers in Hangzhou. Plan to carry everything you bring, and treat a desk that says yes as a bonus.
 
 A few things genuinely help:
 
-- Arrive between 09:00 and 16:00, so the transfer center is open and the shuttle is still running.
+- Arrive between 09:00 and 16:00, so the transfer centre is open and the shuttle is still running.
 - Tell the property how many bags you have and how big they are, before you arrive.
 - If you are coming back through Shanghai or Hangzhou anyway, leave the large case there.
-- Book two nights rather than one. The transfer costs the same either way, and on a one-night trip it dominates.
+- Book two nights rather than one. The transfer costs the same either way, and on a one night trip it dominates.
 
-[Where to stay](/where-to-stay/) starts with that trade-off rather than with the properties.
-
-*Shuttle times, fares and transfer center hours last checked 5 August 2026. Hours and timetables change without notice, so confirm the ones your plan depends on before you travel.*
+[Where to stay](/where-to-stay/) starts with that trade off rather than with the properties.
