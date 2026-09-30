@@ -45,7 +45,7 @@
     "@astrojs/vercel": "^11.0.11",
     "@tailwindcss/vite": "^4.3.3",
     "astro": "^7.3.5",
-    "dotenv": "^17.4.2",
+    "dotenv": "^18.0.4",
     "resend": "^6.31.0",
     "tailwindcss": "^4.3.3"
   },
