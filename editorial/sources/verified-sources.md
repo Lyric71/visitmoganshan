@@ -361,6 +361,42 @@ checks. -->
 * Used in: where-to-leave-your-bags
 * Notes: a Hangzhou Metro operator page with current fees would be the tier 1 replacement. The Hangzhou culture and tourism bureau's October 2024 page on free station luggage services (wgly.hangzhou.gov.cn art_1229471480_58957448) did not load inside 300 seconds and is not used.
 
+### Hangzhou to Deqing railway: end of year target repeated, trains delivered
+* Value: the county culture and tourism bureau (县文广旅体局) said on 22 September 2026, at a campaign launch in Hangzhou, that the line is expected to open by the end of 2026 (预计将于今年年底贯通运营); 18 of 21 trains (84 cars) in the Wuyang depot (舞阳车辆基地) by late September, all 21 due by the end of October 2026; nine stations ending at Deqing high speed station, through running onto Hangzhou Metro Line 10; still no opening date and no fare
+* As of: 22 to 29 September 2026
+* Source: Deqing News (德清新闻网), 24 September 2026 (the bureau statement) and 28 September 2026, reporter Lu Yanling (陆彦伶), the depot; FM93 Zhejiang Traffic Radio (浙江交通之声), 29 September 2026, carried by Deqing News, headline 年底通车
+* Tier: 2 (all three). The bureau is tier 1 but its statement is relayed by the paper; deqing.gov.cn timed out at 40 seconds on 30 September 2026, so no tier 1 page was reachable
+* URL: https://dqnews.zjol.com.cn/dqnews/system/2026/09/24/035297943.shtml ; https://dqnews.zjol.com.cn/dqnews/system/2026/09/28/035301847.shtml ; https://dqnews.zjol.com.cn/dqnews/system/2026/09/29/035303205.shtml
+* Verified 1: 2026-09-30 (all three fetched in GB18030 and read in Chinese; 年底贯通运营, 18列, 21列, 10月底, 9座车站, 德清高铁站, 10号线 present)
+* Verified 2: 2026-09-30 (re-fetched with a different user agent, HTTP 200, same 时间 dates, every string still present)
+* Shelf life: volatile, 3 months, and it expires the day an opening date is published
+* Used in: dispatch-2026-40
+* Notes: a target, not a date. Never print "opens in December" from these. Supersedes nothing: the 20 September wayfinding entry above still stands. The same 24 September report launched a digital map of more than 80 places inside the WeChat account 文旅德清, menu 文旅地图, Chinese only.
+
+### Chunxu Commercial Centre trading, free parking during the trial
+* Value: first tenants trading at Chunxu Commercial Centre (春序商业中心) above Chunhui Park station in Wukang, the Hema 超盒算NB store among them; free parking in the underground car park during trial operation
+* As of: September 2026
+* Source: Deqing News (德清新闻网)
+* Tier: 2
+* URL: https://dqnews.zjol.com.cn/dqnews/system/2026/09/28/035301856.shtml
+* Verified 1: 2026-09-30 (fetched and read in Chinese; 正式开门迎客, 超盒算, 免费停车 present)
+* Verified 2: 2026-09-30 (re-fetched, HTTP 200, unchanged)
+* Shelf life: volatile, 3 months
+* Used in: dispatch-2026-40
+* Notes: confirms the 21 September entry above, which announced the opening.
+
+### Deqing station on Mid Autumn day 2026
+* Value: about 12,000 arrivals and departures on 25 September 2026 (about 6,200 arriving, 5,800 departing), about 1,500 above an ordinary day; no stranding or congestion reported; some Hangzhou travellers left from Deqing because Hangzhou East tickets had sold out
+* As of: 25 September 2026
+* Source: Deqing News (德清新闻网), quoting the Deqing station passenger manager of the Jiaxing railway district
+* Tier: 2
+* URL: https://dqnews.zjol.com.cn/dqnews/system/2026/09/28/035301872.shtml
+* Verified 1: 2026-09-30 (fetched and read in Chinese; 1.2万, 1500, 滞留, 杭州东站 present)
+* Verified 2: 2026-09-30 (re-fetched, HTTP 200, unchanged)
+* Shelf life: historical, one day's count
+* Used in: dispatch-2026-40
+* Notes: a station count from the operator via the paper, not a visitor figure.
+
 ## Places, stays, seasons, trails (semi-stable)
 
 ### FIBA 3x3 World Tour Deqing dates
@@ -702,6 +738,54 @@ checks. -->
 * Shelf life: evergreen
 * Used in: yucun
 * Notes: used only to separate Anji's 余村 from Moganshan's 庾村. Zhejiang Online, 3 December 2021, says the same at tier 2.
+
+### Moganshan resort guests over Mid Autumn 2026, and a hotel full for National Day
+* Value: more than 12,000 guest stays (入住客人超12000人次) at the Moganshan resort (莫干山度假区) over Mid Autumn, 25 to 27 September 2026; one pet friendly hotel (Omito Hotel) full for Mid Autumn and for National Day, furthest booking in March 2027; the Mogan Yujie festival, about 30 stalls, runs to 7 October
+* As of: 25 to 27 September 2026
+* Source: Deqing News (德清新闻网), reporter Chen Mingyue (陈明月)
+* Tier: 2. TIER DEVIATION: visitor numbers should come from the Huzhou or Zhejiang bureau; this is 据统计 with no counter named, printed as the paper's figure and said to be so
+* URL: https://dqnews.zjol.com.cn/dqnews/system/2026/09/28/035301859.shtml
+* Verified 1: 2026-09-30 (fetched and read in Chinese; 12000, 满房, 2027年3月, 10月7日, 30余个 present)
+* Verified 2: 2026-09-30 (re-fetched, HTTP 200, unchanged)
+* Shelf life: historical
+* Used in: dispatch-2026-40
+* Notes: one hotel's booking state is an anecdote, never evidence that the mountain is full. The hotel was not named in the dispatch.
+
+### Taiqiu sweet persimmon picking at Wusi village, 2026
+* Value: Huahua Shijie (花花世界) base, Wusi village (五四村), Moganshan town; about 70 mu of trees, about 20,000 kg expected in the first fruiting year; on sale from late September to the end of October at RMB 20 to 40 per kg at the base; picking open to the public from National Day
+* As of: September 2026
+* Source: Deqing News (德清新闻网)
+* Tier: 2
+* URL: https://dqnews.zjol.com.cn/dqnews/system/2026/09/29/035303196.shtml
+* Verified 1: 2026-09-30 (fetched and read in Chinese; 五四村, 70亩, 2万公斤, 20元至40元, 10月底, 国庆起 present)
+* Verified 2: 2026-09-30 (re-fetched, HTTP 200, unchanged)
+* Shelf life: volatile, expires at the end of October 2026
+* Used in: dispatch-2026-40
+* Notes: a farm's own price as reported, not a tariff. No hours and no pick your own price published.
+
+### Moganshan guesthouses adapted for older guests, and the licensed count
+* Value: about a third of Moganshan's guesthouses have completed age friendly adaptation (grab rails in bathrooms, non slip floors, emergency call devices, less oil and salt); nearly 900 licensed guesthouses (近900家合规民宿) around Moganshan
+* As of: September 2026
+* Source: Deqing News (德清新闻网), 29 September 2026, the share; Xinhua News Agency (新华社, 新华网浙江), 29 September 2026, the count
+* Tier: 2 (both)
+* URL: https://dqnews.zjol.com.cn/dqnews/system/2026/09/29/035303176.shtml ; http://www.zj.xinhuanet.com/20260929/2bb0c09f3dc547deb5beb818d6b25693/c.html
+* Verified 1: 2026-09-30 (both fetched and read in Chinese; 三分之一, 适老化, 扶手, 紧急呼叫; 900家合规民宿 and the 2026-09-29 date present)
+* Verified 2: 2026-09-30 (both re-fetched, HTTP 200, unchanged)
+* Shelf life: semi-stable, 6 months
+* Used in: dispatch-2026-40
+* Notes: never multiply the two. The share and the count come from different reports and may not rest on the same list; no adapted house is named. The same Deqing News piece gives 452,000 wellness stay bookings for Deqing in the first half of 2026, a county figure not used under the visitor numbers rule.
+
+### Ginkgo nut warning, Deqing, autumn 2026
+* Value: Song Jindong (宋金东), head of gastroenterology at the county people's hospital, warns against collecting and eating roadside ginkgo nuts (白果): toxin in the kernel, small amounts cause numb lips, nausea and stomach pain, larger amounts trembling and fits, children more affected; the fresh flesh causes a rash after hours to two days; roadside nuts take up heavy metals
+* As of: 24 September 2026
+* Source: Deqing News (德清新闻网)
+* Tier: 2
+* URL: https://dqnews.zjol.com.cn/dqnews/system/2026/09/24/035297964.shtml
+* Verified 1: 2026-09-30 (fetched and read in Chinese; 宋金东, 银杏, 手套, 两天 present)
+* Verified 2: 2026-09-30 (re-fetched, HTTP 200, unchanged)
+* Shelf life: evergreen as advice, seasonal as news
+* Used in: dispatch-2026-40
+* Notes: about town streets and parks, not the scenic area.
 
 ## History and culture (evergreen)
 
