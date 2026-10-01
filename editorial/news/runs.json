@@ -2,222 +2,6 @@
   "$comment": "One record per sweep or publish run, newest last, capped at the last 90. A skipped run (paused, gated) is recorded too: without a trace of the passes that did nothing, a paused agent is indistinguishable from a broken one.",
   "runs": [
     {
-      "kind": "publish",
-      "started": "2026-09-15T04:00:08.004Z",
-      "finished": "2026-09-15T04:00:08.105Z",
-      "outcome": "skipped",
-      "skipReason": "nothing ready"
-    },
-    {
-      "kind": "sweep",
-      "started": "2026-09-15T04:54:36.322Z",
-      "outcome": "success",
-      "sourcesQueried": 22,
-      "candidates": 34,
-      "newCandidates": 9,
-      "unreachable": [
-        "deqing-gov",
-        "huzhou-cts",
-        "zj-cts",
-        "huzhou-gov"
-      ],
-      "errors": [
-        "meadin: 酒店频道: anti bot challenge page (8232 bytes), open it in a browser instead",
-        "deqing-gov: 公告公示: timeout after 12000 ms",
-        "deqing-gov: 德清要闻 A: timeout after 12000 ms",
-        "deqing-gov: 德清要闻 B: timeout after 12000 ms",
-        "deqing-gov: 莫干山镇: timeout after 12000 ms",
-        "deqing-gov: 文广旅体局: timeout after 12000 ms",
-        "hangzhou-daily: 杭州日报数字报: anti bot challenge page (90 bytes), open it in a browser instead",
-        "huzhou-cts: 工作动态: timeout after 12000 ms",
-        "huzhou-cts: 政策文件: timeout after 12000 ms",
-        "zj-cts: 浙江文旅: fetch failed",
-        "zj-cts: 政务公开: fetch failed",
-        "zj-cts: 浙江省旅游度假区: fetch failed",
-        "huzhou-gov: 湖州要闻 德清: fetch failed",
-        "huzhou-gov: 交通运输局: timeout after 12000 ms"
-      ],
-      "triage": "editorial/news/triage/2026-09-15.md",
-      "finished": "2026-09-15T04:59:39.124Z",
-      "durationMs": 302802
-    },
-    {
-      "kind": "publish",
-      "started": "2026-09-15T05:05:08.660Z",
-      "finished": "2026-09-15T05:05:08.685Z",
-      "outcome": "skipped",
-      "skipReason": "nothing ready"
-    },
-    {
-      "kind": "publish",
-      "started": "2026-09-15T05:05:09.628Z",
-      "finished": "2026-09-15T05:05:09.653Z",
-      "outcome": "skipped",
-      "skipReason": "nothing ready"
-    },
-    {
-      "kind": "sweep",
-      "started": "2026-09-16T02:08:23.692Z",
-      "outcome": "skipped",
-      "skipReason": "gate",
-      "finished": "2026-09-16T02:08:23.767Z",
-      "durationMs": 75
-    },
-    {
-      "kind": "sweep",
-      "started": "2026-09-16T02:10:37.811Z",
-      "outcome": "skipped",
-      "skipReason": "gate",
-      "finished": "2026-09-16T02:10:37.823Z",
-      "durationMs": 12
-    },
-    {
-      "kind": "publish",
-      "started": "2026-09-16T02:10:40.181Z",
-      "finished": "2026-09-16T02:10:40.205Z",
-      "outcome": "skipped",
-      "skipReason": "nothing ready"
-    },
-    {
-      "kind": "publish",
-      "started": "2026-09-16T04:30:46.958Z",
-      "finished": "2026-09-16T04:30:46.997Z",
-      "outcome": "skipped",
-      "skipReason": "nothing ready"
-    },
-    {
-      "kind": "sweep",
-      "started": "2026-09-16T04:36:56.140Z",
-      "outcome": "skipped",
-      "skipReason": "gate",
-      "finished": "2026-09-16T04:36:56.169Z",
-      "durationMs": 29
-    },
-    {
-      "kind": "publish",
-      "started": "2026-09-16T04:36:57.196Z",
-      "finished": "2026-09-16T04:36:57.227Z",
-      "outcome": "skipped",
-      "skipReason": "nothing ready"
-    },
-    {
-      "kind": "sweep",
-      "started": "2026-09-16T12:40:00.267Z",
-      "outcome": "skipped",
-      "skipReason": "gate",
-      "finished": "2026-09-16T12:40:00.293Z",
-      "durationMs": 26
-    },
-    {
-      "kind": "publish",
-      "started": "2026-09-16T12:40:02.847Z",
-      "finished": "2026-09-16T12:40:02.913Z",
-      "outcome": "skipped",
-      "skipReason": "nothing ready"
-    },
-    {
-      "kind": "sweep",
-      "started": "2026-09-17T03:50:25.343Z",
-      "outcome": "skipped",
-      "skipReason": "gate",
-      "finished": "2026-09-17T03:50:25.384Z",
-      "durationMs": 41
-    },
-    {
-      "kind": "publish",
-      "started": "2026-09-17T03:50:28.075Z",
-      "finished": "2026-09-17T03:50:28.175Z",
-      "outcome": "skipped",
-      "skipReason": "nothing ready"
-    },
-    {
-      "kind": "sweep",
-      "started": "2026-09-17T14:41:10.629Z",
-      "outcome": "success",
-      "sourcesQueried": 22,
-      "candidates": 33,
-      "newCandidates": 17,
-      "unreachable": [
-        "deqing-gov",
-        "huzhou-cts",
-        "zj-cts",
-        "huzhou-gov"
-      ],
-      "errors": [
-        "meadin: 酒店频道: anti bot challenge page (8232 bytes), open it in a browser instead",
-        "deqing-gov: 公告公示: timeout after 12000 ms",
-        "deqing-gov: 德清要闻 A: timeout after 12000 ms",
-        "deqing-gov: 德清要闻 B: timeout after 12000 ms",
-        "deqing-gov: 莫干山镇: timeout after 12000 ms",
-        "deqing-gov: 文广旅体局: timeout after 12000 ms",
-        "hangzhou-daily: 杭州日报数字报: anti bot challenge page (90 bytes), open it in a browser instead",
-        "huzhou-cts: 工作动态: timeout after 12000 ms",
-        "huzhou-cts: 政策文件: timeout after 12000 ms",
-        "zj-cts: 浙江文旅: fetch failed",
-        "zj-cts: 政务公开: fetch failed",
-        "zj-cts: 浙江省旅游度假区: fetch failed",
-        "huzhou-gov: 湖州要闻 德清: fetch failed",
-        "huzhou-gov: 交通运输局: timeout after 12000 ms"
-      ],
-      "triage": "editorial/news/triage/2026-09-17.md",
-      "finished": "2026-09-17T14:46:16.343Z",
-      "durationMs": 305714
-    },
-    {
-      "kind": "publish",
-      "started": "2026-09-17T15:07:02.249Z",
-      "finished": "2026-09-17T15:08:08.434Z",
-      "outcome": "error",
-      "slugs": [
-        "chestnut-picking-runs-to-mid-october",
-        "kaiyuan-senbo-mine-pit-due-in-october"
-      ],
-      "paths": [
-        "/journal/news/2026/09/chestnut-picking-runs-to-mid-october",
-        "/journal/news/2026/09/kaiyuan-senbo-mine-pit-due-in-october"
-      ],
-      "durationMs": 66185,
-      "step": "commit",
-      "error": "git add aborted on editorial/news/drafts/<file>, a pathspec that matches neither a file on disk nor an index entry, so nothing was staged and git commit reported \"no changes added to commit\". The checks and the build had all passed. Rolled back by the following run: the two files were removed from src/content/news and the drafts restored."
-    },
-    {
-      "kind": "sweep",
-      "started": "2026-09-17T15:08:10.880Z",
-      "outcome": "skipped",
-      "skipReason": "gate",
-      "finished": "2026-09-17T15:08:10.897Z",
-      "durationMs": 17
-    },
-    {
-      "kind": "publish",
-      "started": "2026-09-17T15:13:23.113Z",
-      "finished": "2026-09-17T15:14:09.718Z",
-      "outcome": "success",
-      "slugs": [
-        "chestnut-picking-runs-to-mid-october",
-        "kaiyuan-senbo-mine-pit-due-in-october"
-      ],
-      "paths": [
-        "/journal/news/2026/09/chestnut-picking-runs-to-mid-october",
-        "/journal/news/2026/09/kaiyuan-senbo-mine-pit-due-in-october"
-      ],
-      "durationMs": 46605
-    },
-    {
-      "kind": "publish",
-      "started": "2026-09-17T15:14:27.807Z",
-      "finished": "2026-09-17T15:14:27.854Z",
-      "outcome": "skipped",
-      "skipReason": "nothing ready"
-    },
-    {
-      "kind": "publish",
-      "started": "2026-09-18T01:02:50.597Z",
-      "finished": "2026-09-18T01:02:50.661Z",
-      "outcome": "skipped",
-      "skipReason": "nothing ready"
-    },
-    {
       "kind": "sweep",
       "started": "2026-09-18T01:10:48.053Z",
       "outcome": "skipped",
@@ -844,6 +628,189 @@
       "skipReason": "gate",
       "finished": "2026-09-29T02:14:03.233Z",
       "durationMs": 24
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-09-29T02:42:57.556Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-09-29T02:42:57.587Z",
+      "durationMs": 31
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-29T04:00:05.903Z",
+      "finished": "2026-09-29T04:00:05.972Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-29T10:05:58.427Z",
+      "finished": "2026-09-29T10:05:58.737Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-29T10:07:46.524Z",
+      "finished": "2026-09-29T10:07:46.572Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-09-29T10:09:23.858Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-09-29T10:09:23.883Z",
+      "durationMs": 25
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-09-29T10:10:24.570Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-09-29T10:10:24.610Z",
+      "durationMs": 40
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-30T01:11:18.208Z",
+      "finished": "2026-09-30T01:11:18.251Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-09-30T01:11:21.010Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-09-30T01:11:21.104Z",
+      "durationMs": 94
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-30T04:00:06.520Z",
+      "finished": "2026-09-30T04:00:06.589Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-30T05:33:54.977Z",
+      "finished": "2026-09-30T05:33:55.047Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-09-30T05:33:58.359Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-09-30T05:33:58.387Z",
+      "durationMs": 28
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-30T07:52:01.735Z",
+      "finished": "2026-09-30T07:52:01.847Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-09-30T07:52:05.345Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-09-30T07:52:05.402Z",
+      "durationMs": 57
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-30T10:05:53.770Z",
+      "finished": "2026-09-30T10:05:53.814Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-09-30T10:05:56.342Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-09-30T10:05:56.359Z",
+      "durationMs": 17
+    },
+    {
+      "kind": "publish",
+      "started": "2026-09-30T10:11:41.729Z",
+      "finished": "2026-09-30T10:11:41.765Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-09-30T10:11:44.221Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-09-30T10:11:44.236Z",
+      "durationMs": 15
+    },
+    {
+      "kind": "publish",
+      "started": "2026-10-01T00:46:18.498Z",
+      "finished": "2026-10-01T00:46:18.545Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-10-01T00:51:32.163Z",
+      "outcome": "success",
+      "sourcesQueried": 22,
+      "candidates": 37,
+      "newCandidates": 28,
+      "unreachable": [
+        "deqing-gov",
+        "huzhou-cts",
+        "zj-cts",
+        "huzhou-gov"
+      ],
+      "errors": [
+        "meadin: 酒店频道: anti bot challenge page (8234 bytes), open it in a browser instead",
+        "deqing-gov: 公告公示: timeout after 12000 ms",
+        "deqing-gov: 德清要闻 A: timeout after 12000 ms",
+        "deqing-gov: 德清要闻 B: timeout after 12000 ms",
+        "deqing-gov: 莫干山镇: timeout after 12000 ms",
+        "deqing-gov: 文广旅体局: timeout after 12000 ms",
+        "hangzhou-daily: 杭州日报数字报: anti bot challenge page (90 bytes), open it in a browser instead",
+        "huzhou-cts: 工作动态: timeout after 12000 ms",
+        "huzhou-cts: 政策文件: timeout after 12000 ms",
+        "zj-cts: 浙江文旅: fetch failed",
+        "zj-cts: 政务公开: fetch failed",
+        "zj-cts: 浙江省旅游度假区: fetch failed",
+        "huzhou-gov: 湖州要闻 德清: fetch failed",
+        "huzhou-gov: 交通运输局: timeout after 12000 ms",
+        "traveldaily: TD日报: HTTP 502"
+      ],
+      "triage": "editorial/news/triage/2026-10-01.md",
+      "finished": "2026-10-01T00:56:39.186Z",
+      "durationMs": 307023
+    },
+    {
+      "kind": "publish",
+      "started": "2026-10-01T01:09:59.757Z",
+      "finished": "2026-10-01T01:10:50.972Z",
+      "outcome": "success",
+      "slugs": [
+        "cold-air-brings-rain-then-autumn-to-the-holiday",
+        "tiankeng-mijing-opens-on-trial-in-fotang"
+      ],
+      "paths": [
+        "/journal/news/2026/10/cold-air-brings-rain-then-autumn-to-the-holiday",
+        "/journal/news/2026/10/tiankeng-mijing-opens-on-trial-in-fotang"
+      ],
+      "durationMs": 51215
     }
   ]
 }
