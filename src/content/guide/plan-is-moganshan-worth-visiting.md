@@ -9,10 +9,10 @@ secondary_keywords: [moganshan worth it, should i visit moganshan]
 schema: Article
 image: /images/guide/plan-is-moganshan-worth-visiting.webp
 image_alt: Two wooden chairs and a glass of tea on a stone terrace above a bamboo valley
-word_count: 1500
+word_count: 1494
 author: cyril-drouin
 published: 2026-08-05
-last_updated: 2026-08-08
+last_updated: 2026-10-02
 ---
 
 # Is Moganshan worth visiting?
@@ -104,7 +104,7 @@ Most readers are choosing between Moganshan and more nights in the city they are
 
 The water towns and bamboo counties nearby are a different trip, and this site covers Deqing County rather than ranking the region.
 
-The trade-off is simple. Hangzhou gives you more to do. Moganshan gives you fewer people, cooler air and better sleep. In July and August that is an easy call. In February it is harder, though winter tickets are half price and January averages 1.4 °C.
+The trade-off is simple. Hangzhou gives you more to do. Moganshan gives you fewer people, cooler air and better sleep. In July and August that is an easy call. In February it is harder, and January averages 1.4 °C.
 
 ## Worth it for you? A verdict by traveler type
 

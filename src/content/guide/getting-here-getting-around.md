@@ -2,46 +2,84 @@
 url: /getting-here/getting-around/
 title: Getting around Moganshan
 seo_title: "Getting Around Moganshan: Shuttles and Transfers"
-meta_description: Private cars cannot drive inside the Moganshan scenic area. You change at Yucun, Fatou or Houwu, 08:00 to 18:00. Shuttles, taxis, walking, luggage.
-excerpt: Private vehicles cannot enter the scenic area. You transfer at Yucun, Fatou or Houwu. Here is how to move between villages, plus the luggage problem.
+meta_description: Private cars cannot drive into the Moganshan scenic area from 08:00 to 17:30. You change at Yucun, Fatou or Houwu. Shuttles, taxis, walking, luggage.
+excerpt: Private vehicles cannot enter the scenic area from 08:00 to 17:30. You transfer at Yucun, Fatou or Houwu. Here is how to move between villages, plus the luggage problem.
 primary_keyword: moganshan shuttle
-secondary_keywords: [moganshan bus, moganshan taxi, moganshan transfer center]
+secondary_keywords: [moganshan bus, moganshan taxi, moganshan transfer centre]
 schema: HowTo
 image: /images/guide/getting-here-getting-around.webp
 image_alt: A small green shuttle bus rounding a bend on a road through dense bamboo forest
-word_count: 1350
+word_count: 1516
 author: cyril-drouin
 published: 2026-08-05
-last_updated: 2026-09-29
+last_updated: 2026-10-02
 ---
 
 # Getting around Moganshan
 
-Here is the rule that catches nearly every visitor. Private vehicles cannot drive inside the scenic area. Your taxi, your rental car or your friend's car stops at a transfer centre, and you carry on from there on scenic area transport.
+Here is the rule that catches nearly every visitor. Between 08:00 and 17:30, private vehicles cannot drive into the scenic area. Your taxi, your rental car or your friend's car stops at a transfer centre, and you carry on from there on scenic area transport.
 
 The area in question is the core of Moganshan, about 20 km² of it, on a mountain in Deqing County, in Huzhou prefecture, Zhejiang Province, roughly 60 km north of Hangzhou. The main peak, Tashan, stands 719 to 720 metres high.
 
-There are three of them: Yucun, Fatou and Houwu. All three run 08:00 to 18:00.
+The written record names three transfer centres: Yucun, Fatou and Houwu. The last shuttle down, on the one recent timetable in print, leaves at 17:00.
 
 Almost no English language page mentions this. Most people learn it at the barrier.
 
-## The three transfer centres
+## The transfer centres, two or three
 
-| Transfer centre | What it is | Hours |
+| Transfer centre | What it is | Where |
 |---|---|---|
-| **Yucun** (庾村) | Main gateway at the foot of the mountain. Square, market, restaurants, the "1932" culture park. | 08:00 to 18:00 |
-| **Fatou** | The third official transfer point, on its own road approach. | 08:00 to 18:00 |
-| **Houwu** (后坞) | Quiet western village, about 30 minutes from Yucun. | 08:00 to 18:00 |
+| **Yucun** (庾村) | Main gateway at the foot of the mountain, the Moganshan tourist transfer centre (莫干山旅游集散换乘中心). Square, market, restaurants, the "1932" culture park. | Off Huangfu East Road |
+| **Fatou** (筏头) | Transfer centre on its own road approach. | On the provincial road S304 |
+| **Houwu** (后坞) | Quiet western village, about 30 minutes from Yucun. | Off the S304 |
 
 ![A car park and waiting shelter at the foot of a bamboo mountain with a shuttle bus leaving](/images/guide/getting-here-getting-around-2.webp 'Private cars stop here. Everything above this point moves by shuttle, on foot, or not at all.')
 
-> Scenic area vehicle restriction and transfer centre hours, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
+> Three transfer points, their locations and routes, Sohu Travel (搜狐旅游,
+> 权哥探店), 2 July 2019, tier 3.
+> https://www.sohu.com/a/324235488_357973
 
-Two things follow from those hours. Arrive after 18:00 and the system has shut for the day. Set off before 08:00 and it has not started.
+Ask the scenic area and you may be told two. When Tide News (潮新闻) drove up in December 2025, a member of staff said two transfer points were set up when the road closed to cars in 2018. The written record has said three since 2019. The [shuttle system page](/plan/moganshan-shuttle-system/) sets out both accounts.
 
-If you do land after 18:00, what happens next depends on where you are sleeping. A guesthouse outside the boundary can still be reached by taxi. A guesthouse inside it cannot, so message the property before you board your train, and be ready to spend the night in Wukang, the county seat about 20 km away, and go up in the morning.
+> A staff member's account of two transfer points set up in 2018, Tide News
+> (潮新闻), 4 December 2025, tier 2.
+> https://tidenews.com.cn/news.html?id=3315585
 
-The restriction covers the core scenic area. Guesthouse villages sit at various points around the slopes, and some are outside the line altogether. So the question worth asking is not where the transfer centre is. It is which side of the boundary your bed is on. Ask the property. They field that question every week.
+## The hours, and where they disagree
+
+Four readings of the clock circulate. They are not the same thing.
+
+| What | Hours | Source and date |
+|---|---|---|
+| The car ban | 08:00 to 17:30 | Tide News, December 2025 |
+| The shuttle at Houwu | 08:30 to 17:00, last up 16:30, last down 17:00 | Tide News, December 2025 |
+| The car ban, one forum answer | 07:00 to 17:00 | Autohome, September 2025 |
+| The transfer centres, our own check | 08:00 to 18:00 | BeyondBorder Group Ltd desk research, August 2026 |
+
+> Private vehicles change to scenic area buses between 08:00 and 17:30, and
+> the Houwu board gave a last bus down at 17:00, Tide News (潮新闻),
+> 4 December 2025, tier 2. https://tidenews.com.cn/news.html?id=3315585
+
+> Shuttle hours at Houwu, departing when full or every 30 minutes, Tide News
+> (潮新闻), 4 December 2025, tier 2, and the 07:00 to 17:00 forum answer,
+> Autohome (汽车之家), 22 September 2025, tier 3.
+> https://tidenews.com.cn/news.html?id=3315585
+> https://www.autohome.com.cn/ask/18981801.html
+
+> Transfer centre hours of 08:00 to 18:00, BeyondBorder Group Ltd desk
+> research, 1 to 5 August 2026.
+
+This page uses 08:00 to 17:30, the window a newsroom printed after being stopped on the road. Our own 18:00 came from a desk check of listings, not a dated source. The [private car ban page](/plan/private-car-ban-on-moganshan/) has the rule in full, and the [tickets page](/plan/moganshan-tickets-in-2026/) lines up every published hour against the prices.
+
+Two things follow. The last bus down, not the barrier, ends a day on the mountain, and it leaves half an hour before the road reopens. Work backwards from 17:00.
+
+The edges are open. On the December 2025 reading, a car can drive in before 08:00 or after 17:30 with no booking. So a taxi arriving late can take you up to a bed inside the boundary. Message the property before you board your train anyway. If the answer is vague, be ready to spend the night in Wukang, the county seat about 20 km away, and go up in the morning.
+
+The restriction covers the core scenic area. Guesthouse villages sit at various points around the slopes, and some are outside the line altogether. So the question worth asking is not where the transfer centre is. It is which side of the boundary your bed is on. Ask the property. They field that question every week. A guest booked inside the gate, with a parking reservation made through the property, may drive in at any time of day.
+
+> Guests holding an in park accommodation booking and a parking reservation
+> may drive in at any time, Tide News (潮新闻), 4 December 2025, tier 2.
+> https://tidenews.com.cn/news.html?id=3315585
 
 ## Do you actually need a car?
 
@@ -129,7 +167,7 @@ The record on left luggage splits. When the Yucun transfer centre opened in Dece
 
 A few things genuinely help:
 
-- Arrive between 09:00 and 16:00, so the transfer centre is open and the shuttle is still running.
+- Reach the transfer centre by 16:00. The last bus up at Houwu left at 16:30 on the December 2025 board.
 - Tell the property how many bags you have and how big they are, before you arrive.
 - If you are coming back through Shanghai or Hangzhou anyway, leave the large case there.
 - Book two nights rather than one. The transfer costs the same either way, and on a one night trip it dominates.

@@ -17,7 +17,7 @@ import {
   sponsoredAffiliateLinks,
 } from './src/lib/markdown.mjs';
 
-// TODO: replace with the production domain before the first deploy.
+// The production domain.
 const SITE = 'https://www.visitmoganshan.com';
 
 /**
@@ -68,6 +68,17 @@ const PARTNER_LINKS = {
   // for hotels near the Yucun scenic area, city 1367, landmark 22839738.
   'stays-village-yucun':
     'https://www.trip.com/hotels/deqing-yucun-scenic-area-mogan-mountain/hotels-c1367m22839738/?Allianceid=9859697&SID=327673690&trip_sub1=stays-village-yucun',
+  // The whole mountain storefront: Trip.com's hotel list for the Moganshan
+  // International Tourist Resort zone, city 1367, zone 97576386, which takes in
+  // the scenic area and the villages below it. Trip.com has no per village
+  // list for Xiantan, Houwu, Laoling, Beihu or Biwu, so those briefs link the
+  // village page internally (editorial/CLAUDE.md, "Affiliate slugs").
+  'stays-all':
+    'https://www.trip.com/hotels/deqing-hotels-list-1367/zone97576386/?Allianceid=9859697&SID=327673690&trip_sub1=stays-all',
+  // Trip.com's attraction page for the scenic area, POI 97439, which sells the
+  // entry ticket.
+  'tickets-moganshan':
+    'https://www.trip.com/travel-guide/attraction/deqing/moganshan-national-park-97439/?Allianceid=9859697&SID=327673690&trip_sub1=tickets-moganshan',
 };
 
 const affiliateRedirects = Object.fromEntries(

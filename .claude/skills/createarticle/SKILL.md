@@ -354,11 +354,11 @@ datePublished: YYYY-MM-DD
 
 <!-- ASSET BRIEF
 TABLES: <list, with the data each needs>
-MAP / GPX: <for trail pieces: what the map must show, the GPX to produce, TODO if the pipeline does not exist yet>
+MAP / GPX: <for trail pieces: what the map must show and the GPX to produce; until the GPX pipeline exists, "none shipped" and the stage start and end points in English and Chinese>
 INTERNAL LINKS: <anchor text> -> <url>, one per line, all verified to exist
 AFFILIATE: <the /go/ slug used and where, or none, with the pillar rule quoted>
-OPEN TODOS: <markers left in the body>
-AFFECTS PAGES: <existing evergreen pages this piece contradicts or updates, if any>
+CLOSED ITEMS: <each question the run met and how it was closed: sourced, cut, page fixed, brief amended, watch item filed. Never an open TODO>
+AFFECTS PAGES: <existing evergreen pages this piece contradicts or updates, if any; the publish step edits every one in the same commit>
 -->
 ```
 
@@ -377,6 +377,7 @@ AFFECTS PAGES: <existing evergreen pages this piece contradicts or updates, if a
 * Internal links verified, affiliate slug verified or none
 * Three figure lines placed in the body, four prompts appended
 * Ledger appended with both check dates
+* Zero TODO, FIXME or TBD markers anywhere in the file, the asset brief included
 * Present the file path and a one line summary
 
 ## Relationship to content-quality-us

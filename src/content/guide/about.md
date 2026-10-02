@@ -9,10 +9,10 @@ secondary_keywords: [visitmoganshan, moganshan guide publisher, independent moga
 schema: Article
 image: /images/guide/about.webp
 image_alt: An open blank notebook, a folded contour map, reading glasses and a glass of green tea on a wooden desk
-word_count: 1130
+word_count: 1143
 author: cyril-drouin
 published: 2026-08-07
-last_updated: 2026-09-06
+last_updated: 2026-10-02
 ---
 
 # About this site
@@ -90,7 +90,7 @@ Scenic-area ticket prices are the clearest case. Two published sets circulate an
 
 > Both published scenic-area ticket ranges, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-We cannot reconcile them. So [the planning pages](/plan/) print both and name the conflict. Check the price when you book. Printing one set alone would make us look more certain than we are.
+We cannot reconcile them. So [Moganshan tickets in 2026](/plan/moganshan-tickets-in-2026/) prints both, names the conflict, and sets the dated Chinese record beside them: RMB 80 at the window. Check the price when you book. Printing one set alone would make us look more certain than we are.
 
 ### Where a date is uncertain, we publish the range
 

@@ -9,10 +9,10 @@ secondary_keywords: [moganshan day trip, is moganshan a good day trip, moganshan
 schema: Article
 image: /images/guide/getting-here-day-trip.webp
 image_alt: An empty city avenue at dawn with a single taxi approaching between glass towers
-word_count: 1506
+word_count: 1510
 author: cyril-drouin
 published: 2026-08-05
-last_updated: 2026-08-08
+last_updated: 2026-10-02
 ---
 
 # Moganshan as a day trip from Shanghai
@@ -79,7 +79,7 @@ Two warnings on that table. The 15:45 line is not padding. Getting back to the t
 
 Second, check the last evening service from Deqing back to Hongqiao on a booking app before you leave, and hold a seat on it. Missing it turns a tight day into an unplanned night.
 
-Scenic-area ticket prices vary by source and season. One source gives RMB 120 online and RMB 130 at the gate, another RMB 50 off-season and RMB 80 in peak. Winter tickets are half price. Check at booking rather than trusting any single number, including ours.
+Published scenic area ticket prices run from RMB 50 to RMB 130 depending on the source and season, and the most recent dated window price is RMB 80. [Moganshan tickets in 2026](/plan/moganshan-tickets-in-2026/) has every figure with its source. Check at booking rather than trusting any single number, including ours.
 
 ## What a day trip cannot reach
 

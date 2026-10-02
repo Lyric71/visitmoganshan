@@ -9,10 +9,10 @@ secondary_keywords: [moganshan weather forecast, moganshan temperature, best tim
 schema: Article
 image: /images/guide/moganshan-weather.webp
 image_alt: Mist drifting through wet bamboo above a rain darkened stone path on Moganshan
-word_count: 1400
+word_count: 1407
 author: liyan-ye
 published: 2026-08-05
-last_updated: 2026-08-07
+last_updated: 2026-10-02
 ---
 
 # Moganshan weather, month by month
@@ -65,7 +65,7 @@ Mist suits the [bamboo forest](/moganshan/bamboo-forest/) better than hard sun d
 
 | Month | Temperature | Crowds | Verdict |
 |---|---|---|---|
-| January | Coldest. Mean 1.4 °C | Very low | Cold and empty. Half-price tickets |
+| January | Coldest. Mean 1.4 °C | Very low | Cold and empty |
 | February | Cold, easing late | Low | Still winter. The paths are yours |
 | March | Cool, warming week by week | Low to medium | Shoulder season opens. Bamboo shoots |
 | April | Mild. Comfortable walking | Medium | One of the best months. Aim for a weekday |
@@ -78,7 +78,7 @@ Mist suits the [bamboo forest](/moganshan/bamboo-forest/) better than hard sun d
 | November | Cool, crisp | Low | Clear late autumn. Fine walking, almost nobody there |
 | December | Cold | Very low | Winter proper. Cheap, bare, quiet |
 
-Scenic-area tickets are half price in winter. Sources disagree on which months that covers and on the base price, so confirm it at booking rather than trusting any number, ours included.
+Published scenic area ticket prices run from RMB 50 to RMB 130 depending on the source and season, and the most recent dated window price is RMB 80. Confirm the figure at booking rather than trusting any number, ours included. [Moganshan tickets in 2026](/plan/moganshan-tickets-in-2026/) has every source.
 
 Crowd levels above are our estimate, based on the holiday and weekday patterns set out below. The table gives the shape of the year, not a given Tuesday.
 
@@ -100,7 +100,7 @@ If July or August are your only options, go, and book early. If your dates move,
 
 Winter is cold. January averages 1.4 °C, the bamboo looks stripped rather than lush, and the villages go very quiet.
 
-The trade is real. Tickets are half price, and mid-range rooms run about RMB 300 to 500 off-season against RMB 1,000 or more at peak. You can walk for an hour without meeting anyone. If you want the mountain rather than the scene, this is when you get it. The [where to stay](/where-to-stay/) page has rates by season.
+The trade is real. Mid range rooms run about RMB 300 to 500 off season against RMB 1,000 or more at peak. You can walk for an hour without meeting anyone. If you want the mountain rather than the scene, this is when you get it. The [where to stay](/where-to-stay/) page has rates by season.
 
 ## Crowds move more than the thermometer
 
@@ -121,4 +121,4 @@ So pick the weekday first and the month second. A cold Monday in December beats 
 
 ![A daypack, rain shell, fleece, umbrella and walking shoes laid out on a bed](/images/guide/moganshan-weather-4.webp 'A layer more than the forecast suggests, and something waterproof, in every month of the year.')
 
-*Temperature figures, crowd data and the half-price winter ticket last checked 5 August 2026. Ticket prices conflict between sources and change, so confirm at booking.*
+*Temperature figures and crowd data last checked 5 August 2026. Ticket prices conflict between sources and change, so confirm at booking.*

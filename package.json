@@ -17,6 +17,7 @@
     "img:batch": "node scripts/optimize-images-batch.mjs",
     "img:audit": "node scripts/audit-images.mjs",
     "dates:check": "node scripts/check-dates.mjs",
+    "todos:check": "node scripts/check-todos.mjs",
     "figures": "node scripts/build-figures.mjs",
     "icons": "node scripts/build-icons.mjs",
     "hooks:install": "node scripts/install-hooks.mjs",

@@ -679,11 +679,11 @@ CN sources: deqing.gov.cn notices; 腾讯 交通管制 pieces; 游侠客 攻略
 **2 · 17 Sep · P1 Practicals** · The Moganshan shuttle system: both transfer centres, both fares, last bus down  
 `moganshan shuttle bus / moganshan transfer centre` · 1,500w · `go/tickets-moganshan`  
 CN sources: 游侠客; 当旅网 避坑攻略; 德清新闻网  
-> Yucun and Houwu centres, 35 RMB return + 15 RMB internal, free luggage store, free dog kennels. Nothing in English covers this.
+> Yucun and Houwu centres, 35 RMB return + 15 RMB internal. Free luggage storage and free dog cages rest on one August 2019 trip report (Youxiake, tier 3) and the 2018 launch list names neither; print them as that dated record, not as fact. Nothing in English covers this.
 
 **3 · 20 Sep · P1 Practicals** · Moganshan tickets in 2026: what you pay, what you don't, and why every source disagrees  
 `moganshan tickets / moganshan entrance fee` · 1,800w · `go/tickets-moganshan`  
-CN sources: deqing.gov.cn; 0572-8412345 phone check; Ctrip sight 135799  
+CN sources: deqing.gov.cn; Ctrip sight 135799; 0572-8412345 is an unverified phone lead, not a completed source check. No call was made and no reachable dated written source confirmed this number in the 19 September 2026 research.  
 > Publish the disagreement, not a single number. Four English sources give four answers. Dated, sourced, RMB. Quarterly revision.
 
 **4 · 23 Sep · P6 Seasons** · National Day on Moganshan: the crowd calendar, the road closures, and whether to go  
@@ -704,7 +704,7 @@ CN sources: 游侠客; 换乘中心 signage
 **7 · 2 Oct · P6 Seasons** · Moganshan red leaves: where the maples are and when they turn  
 `moganshan autumn / moganshan red leaves` · 1,500w · `go/stays-all`  
 CN sources: 腾讯 秋色红叶攻略; 德清新闻网  
-> Publish 6 weeks before peak (mid-Nov). Villa 62's 500-year maple, Queen's Hotel, Xuguang terrace, Wulingcun.
+> Publish 6 weeks before peak. Peak is late November into early December: the festival opened 1 Nov 2023, 12 Nov 2024 and 18 Nov 2025, and in 2025 the best colour arrived in December. Queen's Hotel, Xuguang terrace, Wulingcun, the villa gardens. The bureau counts 10,000+ maples with the oldest over 500 years but names no tree; the Villa 62 '500-year maple' is one 2021 Tencent trip account, and Tide News (Dec 2025) calls the Villa 62 tree a hundred year maple.
 
 **8 · 5 Oct · P2 Villages** · Xiantan: the village with 135 guesthouses  
 `xiantan village moganshan` · 1,600w · `go/stays-village-xiantan`  
@@ -761,10 +761,10 @@ CN sources: 新华网 问茶莫干山; 德清新闻网 茶王赛
 CN sources: Chinese guides treating them as a pair  
 > TOP COMPARISON TARGET. Frommer's bundles them and nobody actually compares them.
 
-**19 · 7 Nov · P5 History** · Villa 62 and the five-hundred-year maple  
+**19 · 7 Nov · P5 History** · Villa 62 and its maple: how old is the tree?  
 `moganshan villas / villa 62 moganshan` · 1,300w · no affiliate  
 CN sources: 腾讯 红叶攻略; 武陵村 sources  
-> Ties history to the autumn traffic. The 'little Kyoto' shot.
+> Ties history to the autumn traffic. The 'little Kyoto' shot. The age is disputed, so the piece publishes the dispute: a 2021 Tencent trip account says more than 500 years; Tide News (Dec 2025) calls it a hundred year maple and puts the 'king of maples' at No. 274; the bureau says the oldest of its 10,000+ maples is over 500 but names no tree. Never state the Villa 62 tree is 500 years old. Link /seasons/moganshan-red-leaves/, which already sets out the three accounts.
 
 **20 · 10 Nov · P1 Practicals** · eSIM, VPN and data on the mountain: what works in the bamboo  
 `china esim / vpn moganshan` · 1,400w · no affiliate  
@@ -801,10 +801,10 @@ CN sources: Y1旅游专线; K111 timetables
 CN sources: 中国日报 第八届莫干山会议; academic sources  
 > Arguably the most historically significant thing that happened here and near-invisible in English travel writing.
 
-**27 · 1 Dec · P1 Practicals** · Moganshan with a dog: the free kennels nobody mentions  
+**27 · 1 Dec · P1 Practicals** · Moganshan with a dog: what the record says about the transfer centre kennels  
 `moganshan pet friendly / dog friendly moganshan` · 1,200w · `go/stays-all`  
 CN sources: 换乘中心 services; 宠物友好民宿 listings  
-> Free large-dog kennels and rentable carriers at the transfer centre. Fast-growing Chinese category.
+> Large dogs cannot ride up; the only record of free dog cages and lent carriers at the transfer centre is an August 2019 trip report (Youxiake, tier 3), already printed as a disagreement on /plan/moganshan-shuttle-system/. Find a newer dated source or publish that gap; never state the kennels exist today. Fast-growing Chinese category.
 
 **28 · 4 Dec · P3 Trails** · Dayangli loop: 9.8km through the Crouching Tiger bamboo  
 `moganshan bamboo forest walk / dayangli` · 1,800w · no affiliate  

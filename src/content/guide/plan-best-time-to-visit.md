@@ -9,10 +9,10 @@ secondary_keywords: [when to visit moganshan, moganshan best season, moganshan c
 schema: Article
 image: /images/guide/plan-best-time-to-visit.webp
 image_alt: A bamboo slope in April light with mist lifting off the valley floor below it
-word_count: 1637
+word_count: 1650
 author: cyril-drouin
 published: 2026-08-06
-last_updated: 2026-08-09
+last_updated: 2026-10-02
 ---
 
 # The best time to visit Moganshan
@@ -65,8 +65,8 @@ The year itself, month by month. The verdict column answers one question: would 
 
 | Month | Why you would come | The catch | Verdict |
 |---|---|---|---|
-| January | Half-price tickets, empty paths | Mean 1.4 °C, near freezing | Solitude, not a first visit |
-| February | Half-price tickets, easing late | Cold, and quiet with it | Fine if you came to walk |
+| January | Empty paths | Mean 1.4 °C, near freezing | Solitude, not a first visit |
+| February | Low crowds, the cold easing late | Cold, and quiet with it | Fine if you came to walk |
 | March | Shoulder season opens, bamboo shoots | Unsettled | Worth it midweek |
 | April | Mild walking, low volume | Fills up late in the month | In our window. Book it |
 | May | Spring at its strongest | Week one is a national holiday | In our window, from week two |
@@ -131,15 +131,15 @@ If that rules our window out, there is one more answer. Winter is the contrarian
 
 | What winter costs you | What it gives back |
 |---|---|
-| A January mean of 1.4 °C, close to freezing | Scenic-area tickets at half price |
+| A January mean of 1.4 °C, close to freezing | The lowest price in both published ticket sets |
 | A bare mountain, not a lush one | Mid-range rooms at RMB 300 to 500, against RMB 1,000+ at peak |
 | Villages that go quiet after dark | An hour's walk without meeting anyone |
 
 The last of those is the one people underrate. No money buys an empty path in October.
 
-> Room rate bands and the half-price winter ticket, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
+> Room rate bands and both published ticket sets, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-Ticket prices conflict between sources, and so does the discount window. Confirm both at booking. [Tickets and entry](/plan/tickets-and-entry/) sets out the ranges instead of picking one.
+Ticket prices conflict between sources, and the dated Chinese guides print one price all year, RMB 80 at the window. Confirm it at booking. [Moganshan tickets in 2026](/plan/moganshan-tickets-in-2026/) sets out every figure instead of picking one.
 
 ## The order to decide in
 

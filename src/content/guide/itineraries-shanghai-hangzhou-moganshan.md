@@ -9,10 +9,10 @@ secondary_keywords: [shanghai hangzhou moganshan, yangtze delta itinerary, china
 schema: TouristTrip + ItemList
 image: /images/guide/itineraries-shanghai-hangzhou-moganshan.webp
 image_alt: A high speed train waiting at a platform with the bamboo hills of northern Zhejiang beyond the tracks
-word_count: 1830
+word_count: 1854
 author: echo-peng
 published: 2026-08-06
-last_updated: 2026-08-09
+last_updated: 2026-10-02
 ---
 
 # Shanghai, Hangzhou and Moganshan in five days
@@ -165,7 +165,7 @@ Avoid the Golden Weeks. High-end guesthouse occupancy hit 94 percent over the Ma
 
 > Holiday occupancy and footfall figures for May 2024 and National Day 2025, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-Winter scenic-area tickets are half price. Published prices conflict across sources, so check the figure when you book.
+Published scenic area ticket prices run from RMB 50 to RMB 130 depending on the source and season, and the most recent dated window price is RMB 80, so check the figure when you book. [Moganshan tickets in 2026](/plan/moganshan-tickets-in-2026/) has every source.
 
 ## Where to sleep on the mountain
 

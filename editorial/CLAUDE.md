@@ -60,8 +60,30 @@ log. Do not stall, do not invent a tool, do not ask. Examples already
 settled: email goes through Resend (the contact form's provider); images go
 to `public/images/guide/`; the price table and crowd calendar components are
 markdown tables until the components exist; a trail piece publishes its prose
-with a `TODO: GPX` marker until the GPX pipeline exists; the dispatch goes
-where the section below says.
+and its sourced fact strip without a map or GPX (and without any marker for
+them) until the GPX pipeline exists; the dispatch goes where the section below
+says. A substitution is a settled decision, not an open item: it is logged
+once and never carried as a TODO.
+
+## Nothing is left open
+
+A run never leaves a TODO, an "open item", a "for a person" list or a "Phase
+2a" deferral, in a file, a log, the schedule notes or the email. Every item
+the run meets is closed inside the run:
+
+| What the run finds | How it is closed, in the same run |
+|---|---|
+| A fact it cannot source at its tier | Cut the claim. The log says which section is thinner. No marker in the file. |
+| An existing page the piece contradicts or outdates | The publish step edits that page (fact, link to the new piece, British spelling, no punctuation hyphens), moves its `last_updated`, and commits it with the piece. Core pieces and dispatches alike. |
+| A brief or master plan row the research proved wrong | Amend the row in `../content-drafts/moganshan-build-spec_1.md`, rerun `node editorial/scripts/build-briefs.mjs`, delete a brief file whose slug changed, and fix every later row that repeats the error. |
+| A missing `/go/` slug | Use the table under "Affiliate slugs". If a Trip.com destination can be verified, add the slug to `PARTNER_LINKS` in the same run and add a row to that table. |
+| Something not yet announced (a festival date, an opening) | Add a dated row to "Annual fixtures" or "Standing watch items" in `sources/source-tiers.md`. The sweep picks it up; the email does not carry it. |
+| A better source that is unreachable today | Cite the best source that passed both checks, and add the retry to "Standing watch items". |
+| Something only Cyril can decide | Stop before publishing, set the row to `blocked`, and say so in the log and the email. Never publish with it open. |
+
+`npm run todos:check` fails on a TODO, FIXME, TBD or XXX anywhere in
+`src/content`, the pre push hook and both publish steps run it, and
+`notify-publish.mjs` refuses to send an email that carries one.
 
 ## Model quality: no compromise
 
@@ -161,14 +183,14 @@ and never invent one. The `/go/` table is built in `astro.config.mjs` from
 | `go/train-shanghai-deqing` | `/go/trains-shanghai-deqing` | exists in `PARTNER_LINKS` |
 | `go/train-hangzhou-deqing` | `/go/trains-hangzhou-deqing` | exists in `PARTNER_LINKS` |
 | `go/stay-<property>` | `/go/moganshan-<hotelId>` | look the property up by name in the seed; the goSlug is `moganshan-<id>` |
-| `go/stays-all` | link `/where-to-stay/` (internal) | no storefront slug exists yet; add one in Phase 2a before using an affiliate link here |
+| `go/stays-all` | `/go/stays-all` | exists in `PARTNER_LINKS`: Trip.com's hotel list for the Moganshan International Tourist Resort zone (city 1367, zone 97576386) |
 | `go/stays-village-yucun` | `/go/stays-village-yucun` | exists in `PARTNER_LINKS`: Trip.com's list of hotels near the Yucun scenic area |
-| `go/stays-village-<village>` | link the village page or `/where-to-stay/` (internal) | the other eight village slugs are Phase 2a of the master plan; leave `TODO: affiliate slug stays-village-<x>` in the asset brief |
-| `go/tickets-moganshan` | none | no ticket slug exists; leave `TODO: affiliate slug tickets-moganshan` and publish without |
+| `go/stays-village-<village>` | link the village page internally, plus `/go/stays-all` or property deep links (`/go/moganshan-<hotelId>`) for rooms | settled: Trip.com has no hotel list for Xiantan, Houwu, Laoling, Beihu or Biwu (checked 2 October 2026), so these slugs are never created and never raised again. If Trip.com publishes a village landmark list (`hotels-c1367m<id>`), add the slug the way `stays-village-yucun` was added |
+| `go/tickets-moganshan` | `/go/tickets-moganshan` | exists in `PARTNER_LINKS`: Trip.com's attraction page for the scenic area (POI 97439), which sells the entry ticket. Never quote a price from it |
 
 Per pillar placement is in the brief (Part 5.7 of the master plan). P4 Food,
-P5 History and P9 Dispatches carry none. When a slug is missing, the piece
-publishes without it and the TODO goes in the email.
+P5 History and P9 Dispatches carry none. Every slug a brief can name resolves
+through this table, so a missing slug is never an open item.
 
 ## Voice
 
@@ -290,12 +312,14 @@ used.
 When step 4 finishes and the push succeeds, run from the repo root:
 
 ```
-node editorial/scripts/notify-publish.mjs --slug <slug> --title "<title>" --build passed --log editorial/logs/YYYY-MM-DD.md --note "<commit hash>" --todo "<any open item>"
+node editorial/scripts/notify-publish.mjs --slug <slug> --title "<title>" --build passed --log editorial/logs/YYYY-MM-DD.md --note "<commit hash>"
 ```
 
 It sends one email through Resend (key in `.env.local`) to the address in the
 script (the Resend account owner's address until a sending domain is
-verified), with the live URL (read from the published guide file by slug), build status, open TODOs and the run log path.
+verified), with the live URL (read from the published guide file by slug), build status and the run log path.
+It has no open items section and refuses `--todo`: what the run closed is in
+the run log.
 Add `--dry-run` to preview. If the send fails, say so in the run log and the
 final message instead of skipping silently.
 

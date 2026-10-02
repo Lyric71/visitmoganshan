@@ -9,14 +9,14 @@ secondary_keywords: [moganshan red leaves]
 schema: Article
 image: /images/guide/moganshan-red-leaves.webp
 image_alt: Red maple leaves against a green wall of bamboo above a wet stone path, an old stone villa half hidden behind
-word_count: 1649
+word_count: 1659
 author: liyan-ye
 published: 2026-10-02
 last_updated: 2026-10-02
 pillar: P6
 slot: 7
 freshness_tier: semi-stable
-affiliate_slug: none
+affiliate_slug: stays-all
 sources:
   - name: 德清新闻网
     name_en: Deqing News
@@ -67,9 +67,9 @@ sources:
 
 # Moganshan red leaves: where the maples are and when they turn
 
-Moganshan is a bamboo mountain, and bamboo does not turn. Our own guide to
-Moganshan autumn says so, and adds that "no foliage display is what this
-season is for". That misses about ten thousand trees. The scenic area counts
+Moganshan is a bamboo mountain, and bamboo does not turn. It is easy to
+conclude, as our own autumn guide once did, that colour is not what this
+season is for. That misses about ten thousand trees. The scenic area counts
 more than 10,000 red maples, and for three years running it has held a
 festival for them. The catch is timing. The maples turn in the second half of
 November and hold into December, well after the October holiday. Plan for the
@@ -284,5 +284,6 @@ the maples have turned or not, and midweek is quieter. Nobody has published a
 visitor count for the festival weeks that we can find. [Autumn on
 Moganshan](/seasons/autumn/) sets November against the rest of the season.
 
-Stays near the villas and in the villages below are on [where to
-stay](/where-to-stay/).
+Rooms near the villas and in the villages below are listed [on
+Trip.com](/go/stays-all/), and [where to stay](/where-to-stay/) sets the
+villages side by side.

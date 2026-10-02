@@ -9,14 +9,14 @@ secondary_keywords: [moganshan transfer centre]
 schema: Article
 image: /images/guide/moganshan-shuttle-system.webp
 image_alt: A coach with its door open at a roadside shelter below a bamboo slope, a wet road in front and cloud sitting on the ridge
-word_count: 1647
+word_count: 1659
 author: cyril-drouin
 published: 2026-09-17
-last_updated: 2026-09-17
+last_updated: 2026-10-02
 pillar: P1
 slot: 2
 freshness_tier: volatile
-affiliate_slug: none
+affiliate_slug: tickets-moganshan
 sources:
   - name: 德清新闻网
     name_en: Deqing News
@@ -145,8 +145,9 @@ the sign by reporters in December 2025.
 
 A trip report from an August 2019 visit gives the same last departure from
 the top, 17:00 from Yinshan Street (荫山街), in high summer. Our own desk check in
-August 2026 gave the centres a longer day, 08:00 to 18:00, and that figure
-sits on two of our pages. Three readings from three different dates, and the
+August 2026 gave the centres a longer day, 08:00 to 18:00, which no dated
+source repeats; our other pages now use the 08:00 to 17:30 window Tide News
+printed. Three readings from three different dates, and the
 seasonal calendar behind them is not published where a visitor can reach
 it.
 
@@ -205,8 +206,8 @@ returnable deposit. No other account says so.
 > report by 喵喵酱旅行, tier 3, undated page, dated by its own account.
 > https://bbs.youxiake.com/y/1022265.html
 
-Our own check in August 2026 found no left luggage service, and that is what
-the getting around page says today. Both cannot be right. Either the service
+Our own check in August 2026 found no left luggage service. Both cannot be
+right. Either the service
 closed in the seven years between, or our check missed a desk that does not
 advertise itself in English. Nobody here has rung the scenic area to settle
 it.
@@ -233,4 +234,6 @@ train to [Deqing station](/getting-here/deqing-station/), Y1 bus or taxi to
 the transfer centre, coach up, loop bus at the top, then all of it reversed
 before the last departure. Work backwards from 17:00, not forwards from
 breakfast. The [tickets and entry page](/plan/tickets-and-entry/) has what
-the gate costs, and the [planning FAQ](/plan/faq/) answers what is left.
+the gate costs, [Trip.com lists the ticket](/go/tickets-moganshan/) for
+anyone who wants it booked before the queue, and the [planning
+FAQ](/plan/faq/) answers what is left.

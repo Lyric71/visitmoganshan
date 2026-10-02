@@ -4,10 +4,10 @@ slot: 19
 publish_date: 2026-11-07
 pillar: P5
 pillar_name: "History and culture"
-title: "Villa 62 and the five-hundred-year maple"
-url: /journal/villa-62-and-the-five-hundred-year/
-output_file: output/villa-62-and-the-five-hundred-year.md
-guide_file: src/content/guide/journal-villa-62-and-the-five-hundred-year.md
+title: "Villa 62 and its maple: how old is the tree?"
+url: /journal/villa-62-and-its-maple/
+output_file: output/villa-62-and-its-maple.md
+guide_file: src/content/guide/journal-villa-62-and-its-maple.md
 primary_keyword: "moganshan villas"
 secondary_keywords: ["villa 62 moganshan"]
 word_target: 1300
@@ -18,7 +18,7 @@ template: article
 status: not_started
 ---
 
-# BRIEF 019: Villa 62 and the five-hundred-year maple
+# BRIEF 019: Villa 62 and its maple: how old is the tree?
 
 Run with the house `createarticle` skill. Read `../CLAUDE.md` and `../SPEC.md`
 first. They override any conflicting rule inside the skill.
@@ -37,10 +37,10 @@ first. They override any conflicting rule inside the skill.
 |---|---|
 | Slot | 19 of 122, publishes 7 Nov 2026 (Sat) |
 | Pillar | P5, History and culture |
-| Working H1 | Villa 62 and the five-hundred-year maple |
-| URL | `/journal/villa-62-and-the-five-hundred-year/` (default, move it by editing `url` in the draft) |
-| Output file | `output/villa-62-and-the-five-hundred-year.md` |
-| Published file | `src/content/guide/journal-villa-62-and-the-five-hundred-year.md` |
+| Working H1 | Villa 62 and its maple: how old is the tree? |
+| URL | `/journal/villa-62-and-its-maple/` (default, move it by editing `url` in the draft) |
+| Output file | `output/villa-62-and-its-maple.md` |
+| Published file | `src/content/guide/journal-villa-62-and-its-maple.md` |
 | Primary keyword | `moganshan villas` |
 | Secondary keywords | `villa 62 moganshan` |
 | Body length | 1,300 words, body only, within 10 percent |
@@ -52,7 +52,7 @@ first. They override any conflicting rule inside the skill.
 
 ## The angle
 
-> Ties history to the autumn traffic. The 'little Kyoto' shot.
+> Ties history to the autumn traffic. The 'little Kyoto' shot. The age is disputed, so the piece publishes the dispute: a 2021 Tencent trip account says more than 500 years; Tide News (Dec 2025) calls it a hundred year maple and puts the 'king of maples' at No. 274; the bureau says the oldest of its 10,000+ maples is over 500 but names no tree. Never state the Villa 62 tree is 500 years old. Link /seasons/moganshan-red-leaves/, which already sets out the three accounts.
 
 ## Chinese sources named in the calendar
 
@@ -97,7 +97,7 @@ bar and the image is regenerated.
 * [ ] Affiliate placement follows the pillar rule; every /go/ slug verified to exist
 * [ ] Four image prompts appended (lead plus three figures), each with alt, caption and the heading it follows
 * [ ] `seo_title` under 60 characters, `meta_description` under 155, `excerpt` under 40 words, all counted
-* [ ] Saved as `output/villa-62-and-the-five-hundred-year.md`
+* [ ] Saved as `output/villa-62-and-its-maple.md`
 * [ ] content-quality-us run with the British English override, all 18 passes shown
 * [ ] Four images generated, looked at, each a real life candid photograph with real life defects and none AI perfect, encoded under the audit caps, saved to `public/images/guide/`
 * [ ] `schedule.csv` row updated, `logs/YYYY-MM-DD.md` written

@@ -9,10 +9,10 @@ secondary_keywords: [moganshan best hotels, where to stay moganshan, moganshan h
 schema: Article
 image: /images/guide/where-to-stay-best-hotels.webp
 image_alt: A plain guest room with white walls, a linen-covered bed and a window open onto bamboo
-word_count: 1498
+word_count: 1504
 author: echo-peng
 published: 2026-08-07
-last_updated: 2026-08-08
+last_updated: 2026-10-02
 ---
 
 # How to choose where to stay in Moganshan
@@ -62,7 +62,7 @@ Distance is one thing. Access is another, and this rule catches people out.
 | Three transfer centers: Yucun, Fatou and Houwu | The property you book decides which |
 | All three run 08:00 to 18:00 | Land at Deqing at seven and they shut an hour ago |
 
-Tickets cost extra and published prices disagree. One source gives RMB 120 online, RMB 130 at the gate. Another gives RMB 50 off season, RMB 80 at peak. Winter is half price, so check when you book.
+Tickets cost extra and published prices disagree. They run from RMB 50 to RMB 130 depending on the source and season, and the most recent dated window price is RMB 80. [Moganshan tickets in 2026](/plan/moganshan-tickets-in-2026/) has every figure, so check when you book.
 
 > Ticket prices from conflicting sources, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 

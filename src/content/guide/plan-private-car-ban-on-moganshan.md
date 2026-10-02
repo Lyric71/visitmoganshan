@@ -9,14 +9,14 @@ secondary_keywords: [can you drive up moganshan]
 schema: Article
 image: /images/guide/private-car-ban-on-moganshan.webp
 image_alt: A queue of cars on a wet mountain road under bamboo, brake lights on, with a turn around sign ahead
-word_count: 1753
+word_count: 1760
 author: cyril-drouin
 published: 2026-09-07
-last_updated: 2026-09-07
+last_updated: 2026-10-02
 pillar: P1
 slot: 1
 freshness_tier: volatile
-affiliate_slug: none
+affiliate_slug: stays-all
 sources:
   - name: 潮新闻
     name_en: Tide News
@@ -143,9 +143,9 @@ provincial road S304 and at Houwu (后坞).
 
 The Yucun centre opened with the rule, with 500 parking spaces and a shuttle
 at RMB 35 return or RMB 18 single down, the county's tourism account said in
-December 2018. Whether that launch fare still holds is for a separate piece
-on the shuttle system; until then the
-[getting around page](/getting-here/getting-around/) has the board.
+December 2018. Whether that launch fare still holds is taken up on [the
+shuttle system page](/plan/moganshan-shuttle-system/), which prints every
+fare with its age.
 
 > Transfer centre opened with 500 parking spaces and a RMB 35 return shuttle
 > fare, as announced by Deqing Culture and Tourism (德清文旅), 7 December
@@ -210,9 +210,9 @@ Three sets of times circulate and they are not the same thing.
 The 08:00 to 17:30 window was printed by a newsroom that had just been
 stopped on the road, so it is the one this page uses. The shuttle window
 inside it decides your day: a last bus down at 17:00 puts a day tripper off
-the mountain before the road reopens to cars. The 18:00 figure on our own
-getting around page came from a desk check of listings and will be
-reconciled when the shuttle piece runs. Nobody here has walked the road or rung the ticket
+the mountain before the road reopens to cars. The 18:00 figure came from
+our own desk check of listings, not a dated source, and our other pages now
+use 08:00 to 17:30. Nobody here has walked the road or rung the ticket
 line, 0572 8412345, which answers in Chinese.
 
 ![A hand holding a phone with a map app open, blurred, in front of a windscreen with rain on it and a bamboo slope beyond](/images/guide/private-car-ban-on-moganshan-4.webp 'Chinese map apps route to the transfer centre by default. One routing you to the summit at midday has not heard about the rule.')
@@ -239,6 +239,7 @@ Outside means Yucun, Xiantan, Laoling, Houwu and the rest, where most
 foreign visitors sleep. Listings rarely say which. Ask the property
 whether it can register a car for daytime entry. A yes settles it. A vague
 answer means outside.
-[Where to stay](/where-to-stay/) sorts the properties by type, and the
+[Where to stay](/where-to-stay/) sorts the properties by type, the
 [hotels explained page](/where-to-stay/hotels-explained/) covers the named
-hotels.
+hotels, and [Trip.com lists rooms](/go/stays-all/) across the mountain and
+the villages below it.

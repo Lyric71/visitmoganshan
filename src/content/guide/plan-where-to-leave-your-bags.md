@@ -9,10 +9,10 @@ secondary_keywords: []
 schema: Article
 image: /images/guide/where-to-leave-your-bags.webp
 image_alt: A traveller seen from behind pulling a wheeled suitcase across a wet forecourt towards a low transport building, bamboo hills in cloud behind
-word_count: 989
+word_count: 990
 author: cyril-drouin
 published: 2026-09-29
-last_updated: 2026-09-29
+last_updated: 2026-10-02
 pillar: P1
 slot: 6
 freshness_tier: volatile
@@ -135,7 +135,8 @@ and take theirs.
 > page, dated by its own account. https://bbs.youxiake.com/y/1022265.html
 
 Our own desk research in early August 2026 found no left luggage service
-there, as the [getting around page](/getting-here/getting-around/) says.
+there. The [getting around page](/getting-here/getting-around/) prints both
+readings.
 
 > No left luggage service at the transfer centres, BeyondBorder Group Ltd
 > desk research, 1 to 5 August 2026.

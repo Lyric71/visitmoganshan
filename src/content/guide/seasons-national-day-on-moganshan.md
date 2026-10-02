@@ -9,10 +9,10 @@ secondary_keywords: [golden week moganshan]
 schema: Article
 image: /images/guide/national-day-on-moganshan.webp
 image_alt: A queue of cars backed up on a wet county road below a bamboo ridge, seen through a rain flecked windscreen
-word_count: 1591
+word_count: 1601
 author: liyan-ye
 published: 2026-09-23
-last_updated: 2026-09-23
+last_updated: 2026-10-02
 pillar: P6
 slot: 4
 freshness_tier: volatile
@@ -234,4 +234,5 @@ explains why no holiday tariff can be quoted.
 
 On rooms the only useful advice is early. By late September the question is not
 which guesthouse but whether anything is left. [Where to
-stay](/where-to-stay/) lists what the mountain has, by type and by village.
+stay](/where-to-stay/) lists what the mountain has, by type and by village,
+and [Trip.com shows what is still free](/go/stays-all/) across the mountain.

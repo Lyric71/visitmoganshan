@@ -9,10 +9,10 @@ secondary_keywords: [moganshan in summer, moganshan in winter, moganshan spring 
 schema: Article
 image: /images/guide/seasons.webp
 image_alt: A bamboo valley under late autumn light, the ridges behind it fading into layers of haze
-word_count: 1602
+word_count: 1604
 author: liyan-ye
 published: 2026-08-06
-last_updated: 2026-08-08
+last_updated: 2026-10-02
 ---
 
 # Moganshan through the year
@@ -97,11 +97,11 @@ The trade is still a good one.
 
 | What winter costs you | What it gives you |
 |---|---|
-| Cold, near freezing in January | Scenic-area tickets at half price |
+| Cold, near freezing in January | The lowest price in both published ticket sets |
 | Short hours and some closures | Rooms at the bottom of their range |
 | Short daylight against an 18:00 transfer | Paths to yourself |
 
-Come in winter if you want quiet more than comfort. Do not come expecting a village that is still awake at nine. [Winter in Moganshan](/seasons/winter/) covers the closures, the half-price ticket and the light.
+Come in winter if you want quiet more than comfort. Do not come expecting a village that is still awake at nine. [Winter in Moganshan](/seasons/winter/) covers the closures, the ticket and the light.
 
 ## The two Golden Weeks
 

@@ -1,25 +1,25 @@
 ---
 url: /plan/tickets-and-entry/
 title: Moganshan tickets and entry
-seo_title: "Moganshan Tickets: Prices, Entry and the 18:00 Wall"
-meta_description: "Moganshan tickets: two published price sets conflict, RMB 50 to RMB 130. Most visitors never need one. Transfer centers run 08:00 to 18:00."
+seo_title: "Moganshan Tickets: Prices, Entry and the Last Bus Down"
+meta_description: "Moganshan tickets: published prices run from RMB 50 to RMB 130 and sources disagree. Most visitors never need one. Plan around a 17:00 last bus down."
 excerpt: Published Moganshan ticket prices conflict badly, from RMB 50 to RMB 130. Most visitors never buy one, because villages and guesthouses sit outside the gate.
 primary_keyword: moganshan tickets
 secondary_keywords: [moganshan entrance fee, moganshan ticket price, moganshan scenic area ticket]
 schema: Article
 image: /images/guide/plan-tickets-and-entry.webp
 image_alt: A visitor holding a ticket at the entry barrier of the Moganshan scenic area
-word_count: 1224
+word_count: 1760
 author: cyril-drouin
 published: 2026-08-06
-last_updated: 2026-09-20
+last_updated: 2026-10-02
 ---
 
 # Moganshan tickets and entry
 
 The ticket on this page is for a mountain: Moganshan, in Deqing County, Huzhou prefecture, Zhejiang Province, China, about 60 km north of Hangzhou and 200 to 240 km from Shanghai. Moganshan Road, the M50 art district, is a street in Shanghai and sells no tickets.
 
-*Short answer: published Moganshan ticket prices run from RMB 50 to RMB 130, and sources disagree. [Why](#two-published-prices-that-do-not-agree).*
+*Short answer: published Moganshan ticket prices run from RMB 50 to RMB 130, and the dated record puts the window price at RMB 80. [Why they disagree](#two-published-prices-that-do-not-agree).*
 
 Then the question nobody asks first. Plenty of people who come here never buy one.
 
@@ -43,11 +43,11 @@ Your plan decides this, so settle it before shopping on price.
 
 The [scenic area page](/moganshan/scenic-area/) has the full split.
 
-For the dated Chinese sources behind the disagreement, read [Moganshan tickets in 2026](/plan/moganshan-tickets-in-2026/), including the reported last bus times.
+For every dated Chinese source behind the disagreement, with its tier, read [Moganshan tickets in 2026](/plan/moganshan-tickets-in-2026/).
 
 ## Two published prices that do not agree
 
-Two sets of prices circulate for the same Moganshan scenic area ticket. They do not overlap, and neither one can be printed here as the answer.
+Two sets of prices circulate for the same Moganshan scenic area ticket. They do not overlap, and neither one traces to an official source.
 
 | Adult ticket | Higher published set | Lower published set |
 |---|---|---|
@@ -55,66 +55,165 @@ Two sets of prices circulate for the same Moganshan scenic area ticket. They do 
 | Off season or winter | Half price, RMB 60 to 65 by our arithmetic | RMB 50 |
 | Online discount stated | Yes, RMB 10 | Not stated |
 
-> Both published ticket ranges, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
+> The two published price sets, from RMB 50 to RMB 130, BeyondBorder Group
+> Ltd desk research, 1 to 5 August 2026.
 
-The top of one set is more than twice the bottom of the other. Nobody misreads a price by that much, so something else is going on. One set is probably older than the other, or prices something narrower than the core, a single sight or a shuttle fare. Neither traces to an official source.
+The dated Chinese record is narrower. Two guides, three years apart, put the adult ticket at the window at RMB 80. The later one gave RMB 70 for a ticket bought the day before. The buses are extra.
 
-Budget RMB 130 per adult. Anything cheaper is money back, and you should confirm the figure when you book. Three places beat any website.
+| Item | Figure | Source and date | Tier |
+|---|---|---|---|
+| Adult ticket at the window | RMB 80 | Huzhou Bendibao, September 2023, and Youxiake, June 2020 | 3 |
+| Adult ticket bought for the next day | RMB 70 | Huzhou Bendibao, September 2023 | 3 |
+| Coach up and back down | RMB 35 | Huzhou Bendibao, September 2023 | 3 |
+| Loop bus at the top, valid that day | RMB 15 | Youxiake, June 2020 | 3 |
+| Seasonal tariff of RMB 100, 80 and 50 | Claimed, never confirmed | Sina account, September 2026 | 4 |
+
+> Adult, advance, student and senior ticket prices and the RMB 35 transfer
+> coach fare, Huzhou Bendibao (湖州本地宝), 21 September 2023, tier 3.
+> http://huzhou.bendibao.com/tour/2021123/3560.shtm
+
+> Entry at RMB 80, coach up and down at RMB 35, the loop bus at RMB 15,
+> RMB 130 in total, Youxiake (游侠客), guide by 金二思, 22 June 2020, tier 3.
+> https://www.youxiake.com/gonglue/view?id=4306
+
+Two guides agreeing is not a price notice. On 19 September 2026 the county and municipal portals timed out and the resort's own website refused every request, so no official figure could be reached from outside China.
+
+> Fetch results for every tier 1 ticket source, BeyondBorder Group Ltd desk
+> research, 19 September 2026.
+
+The seasonal tariff at the top of the Chinese search results is no better. It sits on a page whose own footer says the content was generated by AI.
+
+> A seasonal tariff of RMB 100, 80 and 50, and online prices of RMB 85 and
+> RMB 65, on a page carrying the notice 内容由AI生成, content generated by AI,
+> Sina (新浪), 18 September 2026, tier 4, cited as a claim and never as a
+> price. https://k.sina.cn/article_7879776540_1d5abd91c06801yaxg.html
+
+Some of the spread is people pricing different places under one name. Yucun (庾村) and Houwu (后坞) are scenic areas in their own right, and appear on official lists under their own names.
+
+> Deqing Yucun scenic area, rated 4A, and Deqing Houwu village scenic area,
+> rated 3A, listed separately on the Huzhou roll of sites waiving the first
+> gate ticket for exam candidates in June 2023, Zhejiang Online (浙江在线),
+> 9 June 2023, tier 2.
+> https://zjnews.zjol.com.cn/zjnews/202306/t20230609_25838009.shtml
+
+Budget RMB 130 a head for the gate and both buses. Anything less is change back, and you should confirm the figure when you book. Three places beat any website.
 
 | Where to check | What it tells you |
 |---|---|
 | Your guesthouse | Sells them all season |
 | The official WeChat or Alipay channel | The online price |
-| The transfer center counter | The gate price, today |
+| The transfer centre counter | The gate price, today |
 
 ## Why the entrance fee is the small number
 
-Put the worst case next to the rest of the bill. A mid-range guesthouse runs RMB 300 to 500 a night off-season and passes RMB 1,000 in peak. High-end starts near RMB 1,500. A RMB 130 ticket is a rounding error against that.
+Overpay at the gate and you are out RMB 50, the width of the disagreement. Miss the last bus down and you lose the evening.
 
 So the conflict is annoying without being expensive, and the thing that will really cost you is the clock.
 
-## The transfer centers and the 18:00 wall
+## The transfer centres and the last bus down
 
-One constraint never shows up in the price. Private vehicles cannot drive inside the scenic area. That rule shapes every visit, and English sources almost never print it. You leave the car at one of three transfer centers below.
+One constraint never shows up in the price. Between 08:00 and 17:30 a private car cannot drive into the scenic area. The rule has been in force since 30 November 2018, and English sources almost never print it. You leave the car at a transfer centre below and go on by shuttle.
 
-![Empty seats under a canopy at a transfer centre as a shuttle pulls away](/images/guide/plan-tickets-and-entry-3.webp 'The eighteen hundred wall is firmer than the ticket price, and far more likely to ruin a day.')
+> Vehicle transfer rule, 08:00 to 17:30 daily, in force since 30 November
+> 2018, Tide News (潮新闻), 4 December 2025, tier 2.
+> https://tidenews.com.cn/news.html?id=3315585
 
-| Transfer center | Where it is | Hours |
+![Empty seats under a canopy at a transfer centre as a shuttle pulls away](/images/guide/plan-tickets-and-entry-3.webp 'The last bus down is firmer than the ticket price, and far more likely to ruin a day.')
+
+How many transfer centres there are depends on who you ask. A member of staff told Tide News in December 2025 that two were set up when the road closed in 2018. The written record has said three since 2019.
+
+> A staff member's account of two transfer points set up in 2018, Tide News
+> (潮新闻), 4 December 2025, tier 2.
+> https://tidenews.com.cn/news.html?id=3315585
+
+| Transfer point | Where it is | Route up, as reported in 2019 |
 |---|---|---|
-| Yucun | Main gateway, foot of the mountain | 08:00 to 18:00 |
-| Fatou | The third approach, away from the two villages | 08:00 to 18:00 |
-| Houwu | Western village, 30 minutes from Yucun | 08:00 to 18:00 |
+| Yucun | The main transfer centre, foot of the mountain | The back of the mountain, to Yinshan Street |
+| Fatou | On the provincial road S304 | The front of the mountain, via Houwu, to Huating |
+| Houwu | Houwu village, off the S304 | Joins the Fatou route |
 
-> Private-vehicle rule and transfer center hours, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
+> Three transfer points, their locations and routes, Sohu Travel (搜狐旅游,
+> 权哥探店), 2 July 2019, tier 3.
+> https://www.sohu.com/a/324235488_357973
 
-Ten hours sounds generous. Look at what falls outside the window, starting with sunrise at Xuguang.
+The published hours disagree as badly as the prices. Five readings, four dates, and no seasonal calendar behind them.
 
-Last entry, last transfer down and gate close are three different deadlines, and 18:00 is quoted for all of them. Treat it as the time to be out.
+| What | The reading | Source and date |
+|---|---|---|
+| Cars barred from the road | 08:00 to 17:30 | Tide News, December 2025 |
+| Shuttle at Houwu, in winter | 08:30 to 17:00, last up 16:30, last down 17:00 | Tide News, December 2025 |
+| First bus up, last bus down | 08:00 and 17:00 | Huzhou Bendibao, September 2023 |
+| Indoor sights | 08:30 to 16:30 | Youxiake, June 2020 |
+| Transfer centres | 08:00 to 18:00 | BeyondBorder Group Ltd desk research, August 2026 |
 
-Day trips get tighter. One worked example, on the Y1 shuttle from Deqing Coach Center.
+> Private vehicles change to scenic area buses between 08:00 and 17:30, and
+> the Houwu board gave a last bus down at 17:00, Tide News (潮新闻),
+> 4 December 2025, tier 2. https://tidenews.com.cn/news.html?id=3315585
+
+> A first bus up at 08:00 and a last bus down at 17:00, Huzhou Bendibao
+> (湖州本地宝), 21 September 2023, tier 3.
+> http://huzhou.bendibao.com/tour/2021123/3560.shtm
+
+> Indoor sights open 08:30 to 16:30, Youxiake (游侠客), guide by 金二思,
+> 22 June 2020, tier 3. https://www.youxiake.com/gonglue/view?id=4306
+
+> Transfer centre hours of 08:00 to 18:00, BeyondBorder Group Ltd desk
+> research, 1 to 5 August 2026.
+
+The 08:00 to 17:30 window was printed by a newsroom that had just been stopped on the road. The 18:00 figure came from our own desk check of listings. Both dated readings of the last bus down say 17:00. Work backwards from that and none of the disagreements can reach you.
+
+A room inside the gate changes the road, not the ticket. A guest with a booking there, plus a parking reservation, may drive in at any hour. In 2019 the county paper had such guests buy a scenic area ticket as well, at the Fatou transfer centre. The [private car ban page](/plan/private-car-ban-on-moganshan/) has the detail.
+
+> Guests holding an in park accommodation booking and a parking reservation
+> may drive in at any time, Tide News (潮新闻), 4 December 2025, tier 2.
+> https://tidenews.com.cn/news.html?id=3315585
+
+> Guests booked inside the scenic area collect a self drive pass at the Fatou
+> transfer centre and buy a scenic area ticket before driving in on the S304,
+> Deqing News (德清新闻网), reporter 张志炜, 30 September 2019, tier 2.
+> https://dqnews.zjol.com.cn/dqnews/system/2019/09/30/031939856.shtml
+
+Day trips get tighter. One worked example, on the Y1 shuttle from the Deqing Coach Centre.
 
 | Step | Clock |
 |---|---|
 | Y1 leaves, RMB 10, seven a day | 09:40 |
 | Reaches Moganshan town, outside the core | 10:10 to 10:20 |
-| Transfer center window | 08:00 to 18:00 |
+| Last bus down, both dated readings | 17:00 |
 | Transfer up, look around, reverse it | What is left |
 
-[Getting around Moganshan](/getting-here/getting-around/) has the full board.
+[Getting around Moganshan](/getting-here/getting-around/) has the Y1 board, and the [shuttle system page](/plan/moganshan-shuttle-system/) has the coach, the loop bus and every timetable in print.
 
-## Three things to settle at the counter
+## Concessions, and two things to settle at the counter
 
-Ask these in the same message that asks the price, because none of them is printed anywhere useful.
+Discount rules are the most stable part of the record. They go by height and age, applied at the window against a document rather than a booking.
+
+| Who | What they pay |
+|---|---|
+| Under 1.2 m tall, or under 6 | Free |
+| Aged 70 and over, with identity document | Free |
+| Zhejiang teachers with 30 years of service | Free |
+| Full time students to undergraduate level | Half, RMB 40 |
+| Aged 60 to 69, with identity document | Half, RMB 40 |
+
+> Free and half price entry rules by height, age, student status and teaching
+> service, Huzhou Bendibao (湖州本地宝), 21 September 2023, tier 3.
+> http://huzhou.bendibao.com/tour/2021123/3560.shtm
+
+The concession is on the gate ticket only. The coach and the loop bus are charged separately, and no source we found gives a child discount on either. Carry the document itself; a photograph will not do.
+
+Two things no dated source settles. Ask them in the same message that asks the price.
 
 | Ask | Why it matters |
 |---|---|
-| Child, student and senior concessions | Chinese scenic areas commonly discount by height or by age, and the discount is applied at the window rather than online |
 | Whether the ticket is single or multiple entry, and for how long | It decides whether you can come down for lunch and go back up |
 | Whether the named sights are covered | Sword Pond, Chiang Kai-shek's villa and the art museum may sit under the main ticket or charge separately |
 
 ## Buying it, and what to have ready
 
-Assume you do need a ticket. Buying one is easy, provided you did one thing before you left. The RMB 10 online discount implies advance sale, and those sales run through Alipay and WeChat Pay, which foreign cards can be bound to. Do that setup at home, because the line at Yucun is a bad place to find out it does not work. [Money and payments](/plan/money-and-payments/) has it.
+Assume you do need a ticket. Buying one is easy, provided you did one thing before you left. The only advance discount in the dated record is ten yuan, RMB 70 the day before against RMB 80 at the window. Advance sales run through Alipay and WeChat Pay, which foreign cards can be bound to. Do that setup at home, because the line at Yucun is a bad place to find out it does not work. [Money and payments](/plan/money-and-payments/) has it.
+
+To book ahead online, [Trip.com lists the scenic area ticket](/go/tickets-moganshan/). Compare the price it shows with the dated figures above before you pay.
 
 ![A small ticket window with a glass hatch and metal tray in a stone kiosk](/images/guide/plan-tickets-and-entry-4.webp 'Take a passport and a working payment app. Published prices disagree, so take the difference in cash too.')
 
@@ -126,10 +225,11 @@ Carry your passport, not a photo. Hotels and attractions check it as routine, an
 |---|---|---|
 | July to August | Peak under both sets | Mean 24.1 °C, 6 to 7 °C cooler than Shanghai and Hangzhou |
 | Winter | Cheapest under both | January mean 1.4 °C, short day |
-| Golden Weeks | Peak | 94 percent high-end occupancy, May 2024, counting beds only |
+| Golden Weeks | Peak | 94 percent high end occupancy, May 2024, counting beds only |
 | Mondays | No change | The quietest day of the week at the gate |
 
 > Seasonal ticket rules and temperature figures, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-Winter buys the cheapest ticket and the shortest day inside the gate. Weekends and holidays push everyone through three transfer points at once. [Best time to visit](/plan/best-time-to-visit/) works that trade, and [the planning hub](/plan/) is where to start.
+Only the two published sets and the machine written tariff split the price by season. The dated guides print one price all year.
 
+Winter buys the cheapest ticket and the shortest day inside the gate. Weekends and holidays push everyone through the same transfer points at once. [Best time to visit](/plan/best-time-to-visit/) works that trade, and [the planning hub](/plan/) is where to start.

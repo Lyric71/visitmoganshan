@@ -9,10 +9,10 @@ secondary_keywords: [240 hour visa free china itinerary, china visa free 30 days
 schema: TouristTrip
 image: /images/guide/itineraries-visa-free-china.webp
 image_alt: The flat green delta countryside of eastern China seen from a moving train window
-word_count: 1609
+word_count: 1621
 author: echo-peng
 published: 2026-08-07
-last_updated: 2026-08-08
+last_updated: 2026-10-02
 ---
 
 # A visa-free China trip with Moganshan in it
@@ -147,7 +147,7 @@ Three things still go wrong.
 |---|---|
 | Paying for anything | Load a foreign card into Alipay or WeChat Pay before you fly, never in an airport queue. See [money and payments](/plan/money-and-payments/) |
 | Rooms on holiday dates | High-end occupancy reached 94 percent across the May 2024 holiday. Book early |
-| The scenic-area ticket | Prices conflict across sources, and winter is half price. Check at booking |
+| The scenic area ticket | Published prices run from RMB 50 to RMB 130, and the latest dated window price is RMB 80. See [Moganshan tickets in 2026](/plan/moganshan-tickets-in-2026/) |
 
 Beds here are mostly minsu (民宿), small owner-run guesthouses, about 1,000 of them in September 2025. No village has an evening economy, so dinner is wherever you sleep. [Where to stay](/where-to-stay/) compares them.
 

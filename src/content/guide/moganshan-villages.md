@@ -9,10 +9,10 @@ secondary_keywords: [yucun moganshan, xiantan moganshan, sanjiuwu, where to stay
 schema: Place
 image: /images/guide/moganshan-villages.webp
 image_alt: Tiled village rooftops at the foot of a bamboo ridge at Moganshan, with terraced vegetable plots between the houses
-word_count: 2100
+word_count: 2091
 author: liyan-ye
 published: 2026-08-08
-last_updated: 2026-09-26
+last_updated: 2026-10-02
 ---
 
 # Yucun, Xiantan and Sanjiuwu: the villages below Moganshan
@@ -55,7 +55,9 @@ The same concentration is why people leave it. Yucun takes the crowds first, and
 
 > Yucun footfall during National Day 2025, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-Two name traps attach to this village, and both cost money. Anji County has its own Yucun, written 余村, which won a UN Tourism Best Tourism Village award in 2021. Different characters, different county. Moganshan has never won it, and search results mix the two constantly.
+Two name traps attach to this village, and both cost money. Anji County has its own Yucun, written 余村, which the UN World Tourism Organization named a Best Tourism Village in 2021. Different characters, different county. Moganshan has never won it, and search results mix the two constantly.
+
+> Anji's 余村 among the first Best Tourism Villages named on 2 December 2021, Ministry of Culture and Tourism (文化和旅游部), 2 December 2021, tier 1. https://www.mct.gov.cn/whzx/whyw/202112/t20211202_929544.htm
 
 The second is newer. Four Seasons announced a 90 key resort on 12 September 2025, opening 2030, and gave the site as Yu Village. The English name is close enough to this Yucun to be confusing and the resort is five years off either way, so it should not weigh on a booking made now.
 
@@ -89,7 +91,7 @@ That history has one practical effect on your booking. The foreign founded end o
 
 It stays a small village. Nobody comes here for a square or a choice of restaurants, and the property you book is the whole of the evening.
 
-![The approach road climbing toward Moganshan through bamboo, with a village visible on the valley floor below](/images/guide/villages-3.webp 'The valley floor is where the guesthouses are. The ridge above holds the old hill station, and the road between them is the transfer nobody plans for.')
+![The approach road climbing towards Moganshan through bamboo, with a village visible on the valley floor below](/images/guide/villages-3.webp 'The valley floor is where the guesthouses are. The ridge above holds the old hill station, and the road between them is the transfer nobody plans for.')
 
 ## Laoling, Houwu and Dazaowu
 
@@ -155,5 +157,5 @@ Otherwise it is a car, a taxi or a guesthouse pickup. Ask the property to arrang
 
 Which leaves the decision where it started. Pick Yucun if you have one night or no car, and Xiantan if you want the choice. Anywhere else, solve dinner and transport before you book. The [hill station](/moganshan/hill-station/) on the ridge above is where everybody converges anyway.
 
-*Village figures, rate bands and footfall last checked 5 August 2026. Transfer centre hours and shuttle timings change without notice, so confirm what your arrival depends on.*
+*Transfer centre hours and shuttle timings change without notice, so confirm what your arrival depends on.*
 

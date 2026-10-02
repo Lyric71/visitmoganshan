@@ -12,12 +12,12 @@ image_alt: Rows of low tea bushes on a Moganshan slope with moso bamboo standing
 word_count: 1807
 author: liyan-ye
 published: 2026-08-08
-last_updated: 2026-09-24
+last_updated: 2026-10-02
 ---
 
 # Moganshan yellow bud tea
 
-Yellow tea is the class most visitors have never knowingly drunk. Chinese practice sorts tea into six, and green, black and oolong are the three that travel. Most people who hear "yellow" assume it means green tea gone a bit pale. That gets it backward. It is a separate class with a step in it green tea never gets.
+Yellow tea is the class most visitors have never knowingly drunk. Chinese practice sorts tea into six, and green, black and oolong are the three that travel. Most people who hear "yellow" assume it means green tea gone a bit pale. That gets it backwards. It is a separate class with a step in it green tea never gets.
 
 The tea attached to this mountain is a yellow bud tea, huangya. Moganshan is in Deqing County, part of Huzhou prefecture in Zhejiang Province, about 60 km north of Hangzhou and 200 to 240 km from Shanghai. Zhejiang is famous for a green tea, Longjing, grown by West Lake in Hangzhou, so a yellow tea an hour up the road is the quieter story. (Moganshan Road is a Shanghai art district, 200 km off, and it owns the search results.)
 
@@ -34,11 +34,11 @@ The six are not six flavours. They are six processing routes, and the leaf can c
 | White | 白茶 | Withered and dried, barely handled | Silver Needle |
 | Oolong | 乌龙茶 | Partly oxidised, then roasted | Tieguanyin |
 | Black | 红茶 | Fully oxidised. Chinese calls it red tea | Keemun |
-| Dark | 黑茶 | Aged, with microbial fermentation | Pu-erh |
+| Dark | 黑茶 | Aged, with microbial fermentation | Pu'er |
 
 The step that makes yellow tea yellow is menhuang (闷黄), roughly "sealing yellow". After the leaf is heated to stop it oxidising, exactly as green tea is, it gets wrapped or piled while still warm and damp, then left alone for hours. In that trapped heat it yellows a little and the grassy edge comes off.
 
-In the cup that reads as roundness. Beside a green tea off the same bush, the yellow is softer and sweeter, without the raw-vegetable note that puts people off green tea. The liquor is pale gold, not pale green.
+In the cup that reads as roundness. Beside a green tea off the same bush, the yellow is softer and sweeter, without the raw vegetable note that puts people off green tea. The liquor is pale gold, not pale green.
 
 Menhuang costs hours and is easy to ruin, which is why yellow is the smallest of the six by volume.
 
@@ -68,7 +68,7 @@ Height and climate put a ceiling on what a seller can claim.
 
 | The measure | The figure | What it means for tea |
 |---|---|---|
-| Main peak, Tashan | 719 to 720 m | No high-mountain tea. Everything grows below about 720 m |
+| Main peak, Tashan | 719 to 720 m | No high mountain tea. Everything grows below about 720 m |
 | Annual mean | 13.3 °C | A cool site, so a slow spring flush |
 | July to August mean | 24.1 °C, 6 to 7 °C under Shanghai and Hangzhou | Cool nights, and mist is common on the ridge |
 
@@ -82,7 +82,7 @@ The [bamboo forest](/moganshan/bamboo-forest/) page covers the crop that owns th
 
 ## The season
 
-Bud teas are a spring crop, and the calendar marker in Chinese practice is Qingming, the tomb-sweeping festival that falls around 4 or 5 April.
+Bud teas are a spring crop, and the calendar marker in Chinese practice is Qingming, the tomb sweeping festival that falls around 4 or 5 April.
 
 | Pick | Chinese | When | What it costs |
 |---|---|---|---|
@@ -96,7 +96,7 @@ The calendar itself is changing. Most tea sold as 莫干黄芽 has in fact been 
 
 > 德清新闻网 (Deqing News), 22 September 2026, tier 2. https://dqnews.zjol.com.cn/dqnews/system/2026/09/22/035296333.shtml
 
-All of which points at April, a good month here for reasons unrelated to tea: mid-range rooms at RMB 300 to 500 outside the holiday week, and bamboo shoots on every guesthouse menu. Dodge the first week of May, the May Day holiday, when high-end occupancy has run as high as 94 percent. The [seasons guide](/seasons/) has the rest of the year.
+All of which points at April, a good month here for reasons unrelated to tea: mid range rooms at RMB 300 to 500 outside the holiday week, and bamboo shoots on every guesthouse menu. Dodge the first week of May, the May Day holiday, when occupancy at the top end of the market has run as high as 94 percent. The [seasons guide](/seasons/) has the rest of the year.
 
 > Spring room rates and May Day occupancy, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
@@ -136,14 +136,14 @@ One warning. Booking platforms sell tea ceremonies and picking experiences all o
 
 ## Buying it without being fleeced
 
-Say you liked it enough to take some home. Two counters can sell this tea at very different prices, and the difference is usually the pick. Grades run downward from the bud.
+Say you liked it enough to take some home. Two counters can sell this tea at very different prices, and the difference is usually the pick. Grades run downwards from the bud.
 
 - All bud, no leaf. The top pick, slowest to harvest, most expensive
 - One bud, one leaf
 - One bud, two leaves
 - Below that you are into leaf, a different product at a different price
 
-A tourist-grade box is easy to spot once somebody points it out. Big carton, heavy packaging, a small net weight printed on the back, no harvest year, no producer name, sold at a gate or a gift counter. The box is most of what you are paying for, which holds at every Chinese scenic site.
+A box made for the tourist trade is easy to spot once somebody points it out. Big carton, heavy packaging, a small net weight printed on the back, no harvest year, no producer name, sold at a gate or a gift counter. The box is most of what you are paying for, which holds at every Chinese scenic site.
 
 | Check | What a good answer looks like |
 |---|---|
@@ -156,5 +156,5 @@ Prices for a small yellow tea swing with the year, the grade and the counter, so
 
 If the mountain itself is your open question, start with [what and where Moganshan is](/moganshan/), and [things to do](/things-to-do/) has the rest of the list.
 
-*Tea processing and grading, and the Qingming calendar, are standard reference rather than our own research. Room rates, temperature means and holiday occupancy were last checked on 5 August 2026.*
+*Tea processing and grading, and the Qingming calendar, are standard reference rather than our own research.*
 

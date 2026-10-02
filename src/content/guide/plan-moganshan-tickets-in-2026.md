@@ -9,14 +9,14 @@ secondary_keywords: [moganshan entrance fee]
 schema: Article
 image: /images/guide/moganshan-tickets-in-2026.webp
 image_alt: People waiting from behind at a low barrier where a narrow road enters dense bamboo under grey cloud
-word_count: 1980
+word_count: 2002
 author: cyril-drouin
 published: 2026-09-20
-last_updated: 2026-09-20
+last_updated: 2026-10-02
 pillar: P1
 slot: 3
 freshness_tier: volatile
-affiliate_slug: none
+affiliate_slug: tickets-moganshan
 sources:
   - name: 德清新闻网
     name_en: Deqing News
@@ -276,6 +276,8 @@ the contradiction rather than the tidy answer.
 Ask your guesthouse, which sells tickets all season, or the desk at the
 transfer centre, which quotes the gate price on the day. Either settles it
 faster than any website, this one included, which is why this page goes back
-through its sources each quarter. The
+through its sources each quarter. To book ahead
+online, [Trip.com lists the scenic area ticket](/go/tickets-moganshan/);
+compare the price it shows with the figures above before you pay. The
 [tickets and entry page](/plan/tickets-and-entry/) is the short version, and
 the [planning FAQ](/plan/faq/) takes what is left.

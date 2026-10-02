@@ -52,7 +52,7 @@ first. They override any conflicting rule inside the skill.
 
 ## The angle
 
-> Publish 6 weeks before peak (mid-Nov). Villa 62's 500-year maple, Queen's Hotel, Xuguang terrace, Wulingcun.
+> Publish 6 weeks before peak. Peak is late November into early December: the festival opened 1 Nov 2023, 12 Nov 2024 and 18 Nov 2025, and in 2025 the best colour arrived in December. Queen's Hotel, Xuguang terrace, Wulingcun, the villa gardens. The bureau counts 10,000+ maples with the oldest over 500 years but names no tree; the Villa 62 '500-year maple' is one 2021 Tencent trip account, and Tide News (Dec 2025) calls the Villa 62 tree a hundred year maple.
 
 ## Chinese sources named in the calendar
 

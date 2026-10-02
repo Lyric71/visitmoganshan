@@ -4,7 +4,7 @@ slot: 27
 publish_date: 2026-12-01
 pillar: P1
 pillar_name: "Access and practicals"
-title: "Moganshan with a dog: the free kennels nobody mentions"
+title: "Moganshan with a dog: what the record says about the transfer centre kennels"
 url: /plan/moganshan-with-a-dog/
 output_file: output/moganshan-with-a-dog.md
 guide_file: src/content/guide/plan-moganshan-with-a-dog.md
@@ -19,7 +19,7 @@ no_calls: true
 status: not_started
 ---
 
-# BRIEF 027: Moganshan with a dog: the free kennels nobody mentions
+# BRIEF 027: Moganshan with a dog: what the record says about the transfer centre kennels
 
 Run with the house `createarticle` skill. Read `../CLAUDE.md` and `../SPEC.md`
 first. They override any conflicting rule inside the skill.
@@ -38,7 +38,7 @@ first. They override any conflicting rule inside the skill.
 |---|---|
 | Slot | 27 of 122, publishes 1 Dec 2026 (Tue) |
 | Pillar | P1, Access and practicals |
-| Working H1 | Moganshan with a dog: the free kennels nobody mentions |
+| Working H1 | Moganshan with a dog: what the record says about the transfer centre kennels |
 | URL | `/plan/moganshan-with-a-dog/` (default, move it by editing `url` in the draft) |
 | Output file | `output/moganshan-with-a-dog.md` |
 | Published file | `src/content/guide/plan-moganshan-with-a-dog.md` |
@@ -53,7 +53,7 @@ first. They override any conflicting rule inside the skill.
 
 ## The angle
 
-> Free large-dog kennels and rentable carriers at the transfer centre. Fast-growing Chinese category.
+> Large dogs cannot ride up; the only record of free dog cages and lent carriers at the transfer centre is an August 2019 trip report (Youxiake, tier 3), already printed as a disagreement on /plan/moganshan-shuttle-system/. Find a newer dated source or publish that gap; never state the kennels exist today. Fast-growing Chinese category.
 
 ## Chinese sources named in the calendar
 

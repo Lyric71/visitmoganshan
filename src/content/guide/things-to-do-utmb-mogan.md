@@ -9,10 +9,10 @@ secondary_keywords: [ultra trail mogan, moganshan trail race, utmb china]
 schema: Article
 image: /images/guide/things-to-do-utmb-mogan.webp
 image_alt: A steep, rough stone staircase climbing into mist through a bamboo forest
-word_count: 1050
+word_count: 1056
 author: liyan-ye
 published: 2026-08-07
-last_updated: 2026-08-08
+last_updated: 2026-10-02
 ---
 
 # Ultra-Trail Mogan by UTMB
@@ -104,7 +104,7 @@ Scenic-area tickets are charged, and published prices disagree.
 |---|---|
 | One | RMB 120 online, RMB 130 at the gate |
 | The other | RMB 50 off-season, RMB 80 at peak |
-| Both | Half price in winter |
+| Dated Chinese guides, 2020 and 2023 | RMB 80 at the window |
 
 Whether a race entry covers the gate is a question for the organizer, not the ticket office.
 

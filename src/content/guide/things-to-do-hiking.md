@@ -9,10 +9,10 @@ secondary_keywords: [moganshan hiking trails, moganshan walking, hiking near sha
 schema: Article
 image: /images/guide/things-to-do-hiking.webp
 image_alt: Worn stone steps climbing between bamboo culms on a wet Moganshan path
-word_count: 1416
+word_count: 1424
 author: liyan-ye
 published: 2026-08-06
-last_updated: 2026-08-08
+last_updated: 2026-10-02
 ---
 
 # Walking and hiking in Moganshan
@@ -41,7 +41,7 @@ That means the route is decided on the day rather than in advance. Your guesthou
 | Route finding | Signboards at the transfer centers and junctions, largely in Chinese |
 | Remoteness | Low. You are rarely far from a road or a building |
 | Hours you can be on it | Transfer centers run 08:00 to 18:00, and they gate the scenic area |
-| Tickets | Charged, prices disputed between sources, half price in winter |
+| Tickets | Charged. Published prices run from RMB 50 to RMB 130, and the latest dated window price is RMB 80 |
 | Company | Quiet midweek, Mondays most of all. Weekends and Golden Week are the opposite |
 
 ![A stone stepped path with a handrail climbing steeply through bamboo](/images/guide/things-to-do-hiking-2.webp 'This is stepped path walking, not trail walking. The surface is made, and it is relentlessly up or down.')
@@ -77,7 +77,7 @@ The height buys you temperature, not difficulty. July and August average 24.1 °
 | Season | On the mountain | For walking |
 |---|---|---|
 | July to August | 24.1 °C mean, 6 to 7 °C cooler than Shanghai and Hangzhou | Peak season, humid, carry water |
-| January | 1.4 °C mean, close to freezing | Quiet, half-price tickets, cold hands |
+| January | 1.4 °C mean, close to freezing | Quiet, cold hands |
 | Spring and autumn | Between the two, annual mean 13.3 °C | The promoted shoulder seasons |
 
 ![Wet mossy stone steps with water running across them and a walking shoe on the edge](/images/guide/things-to-do-hiking-3.webp 'Wet stone with moss on it is the actual hazard here. Grip matters far more than ankle support.')

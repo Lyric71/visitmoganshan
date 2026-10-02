@@ -14,7 +14,8 @@
 //      on disk when one is named, no duplicate permalink
 //   3. set published and last_updated (today unless the draft names a date
 //      that has passed), strip status and origin, write into src/content/news
-//   4. npm run img:audit, npm run dates:check, npm run check, npm run build.
+//   4. npm run img:audit, npm run dates:check, npm run todos:check, npm run check,
+//      npm run build.
 //      This scheduled run is the explicit build request the root CLAUDE.md
 //      requires; nothing else in the news layer builds.
 //   5. git add the news files, the drafts folder, the ledger and the runs
@@ -199,7 +200,7 @@ function main() {
   };
 
   const npm = process.platform === 'win32' ? 'npm.cmd' : 'npm';
-  for (const [label, script] of [['image audit', 'img:audit'], ['date check', 'dates:check'], ['astro check', 'check'], ['build', 'build']]) {
+  for (const [label, script] of [['image audit', 'img:audit'], ['date check', 'dates:check'], ['todo check', 'todos:check'], ['astro check', 'check'], ['build', 'build']]) {
     const { code, out } = run(label, npm, ['run', script]);
     if (code !== 0) fail(label, out);
   }

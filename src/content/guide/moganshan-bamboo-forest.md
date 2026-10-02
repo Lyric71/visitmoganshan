@@ -9,10 +9,10 @@ secondary_keywords: [china bamboo forest, moganshan bamboo, bamboo forest near s
 schema: TouristAttraction
 image: /images/guide/moganshan-bamboo-forest.webp
 image_alt: A narrow earth track running between dense moso bamboo culms in the Moganshan forest
-word_count: 1465
+word_count: 1455
 author: liyan-ye
 published: 2026-08-05
-last_updated: 2026-08-08
+last_updated: 2026-10-02
 ---
 
 # The bamboo forest at Moganshan
@@ -85,7 +85,7 @@ Those places are usually short, groomed and singular: a lane you walk down, phot
 
 | Month | What the bamboo is doing | How busy |
 |---|---|---|
-| January | Green, still, cold. January mean 1.4 °C | Quietest of the year. Scenic-area tickets half price in winter |
+| January | Green, still, cold. January mean 1.4 °C | Quietest of the year |
 | February | Wet ground, dull light, no new growth | Quiet |
 | March | Shoots start to push up, weather depending | Quiet on weekdays, weekends filling |
 | April | Shoot season and the freshest green of the year | Busy weekends, promoted shoulder season |
@@ -96,7 +96,7 @@ Those places are usually short, groomed and singular: a lane you walk down, phot
 | September | Heat starts to ease, light lengthens | Busy weekends |
 | October | Clear late-autumn light, the best walking month for many people | National Day Golden Week is the other spike |
 | November | Cool, clear, low sun in the stands | Quieter, good value |
-| December | Cold and empty | Quiet. Winter tickets half price |
+| December | Cold and empty | Quiet |
 
 > Temperature means, seasonal patterns and holiday demand, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 

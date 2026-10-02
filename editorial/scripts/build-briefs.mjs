@@ -209,9 +209,11 @@ tail. Emits Place schema.`,
   trail: `Trail template (Part 5.4). Route stage by stage; a fact strip with distance,
 elevation gain, surface, and honest timing for a fit and an unfit walker;
 what to carry; when not to go; an embedded map and a downloadable GPX; an
-elevation profile. Emits HowTo and Place schema. Where the GPX pipeline does
-not exist yet, leave a marked TODO for the map and the file and publish the
-prose; the fact strip still has to carry real numbers with sources.`,
+elevation profile. Emits HowTo and Place schema. Until the GPX pipeline
+exists the piece ships without a map, a GPX or an elevation profile, and
+without any placeholder or TODO marker for them: each stage names its start
+and end points in English and Chinese so a reader can find them in a map app,
+and the fact strip still has to carry real numbers with sources.`,
   comparison: `Comparison template (Part 5.4). Why the confusion exists; a side by side
 table; getting to each; cost of each; who should choose which; doing both.
 The table is the first screen.`,
@@ -584,7 +586,10 @@ for (let w = 0; w < 52; w++) {
 
 schedule.sort((a, b) => a[0].localeCompare(b[0]) || a[2].localeCompare(b[2]));
 
-write(
+// The dispatch template has been corrected by hand since this generator first
+// wrote it (no h1, no repeated standfirst, the news collection frontmatter), so
+// it is written only when missing. Edit templates/dispatch.md directly.
+if (!existsSync(path.join(TEMPLATES, 'dispatch.md'))) write(
   path.join(TEMPLATES, 'dispatch.md'),
   `# Template: weekly dispatch
 
@@ -682,7 +687,9 @@ alone. \`../../CLAUDE.md\` says which applies today.
 `,
 );
 
-const csv = [HEADER, ...schedule].map((r) => r.map(csvCell).join(',')).join('\n') + '\n';
+// schedule.csv has always started with a byte order mark (Excel opens it as
+// UTF 8 that way); keep it.
+const csv = '﻿' + [HEADER, ...schedule].map((r) => r.map(csvCell).join(',')).join('\n') + '\n';
 write(SCHEDULE, csv);
 
 console.log(

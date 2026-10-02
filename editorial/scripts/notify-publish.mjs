@@ -8,7 +8,12 @@
  *
  *   node editorial/scripts/notify-publish.mjs --slug <slug> --title "<title>"
  *        [--url </path/>] [--to <email>] [--build passed|failed]
- *        [--log editorial/logs/YYYY-MM-DD.md] [--todo "<text>"]... [--note "<text>"]
+ *        [--log editorial/logs/YYYY-MM-DD.md] [--note "<text>"]
+ *
+ * There is no --todo. A publishing job closes every item it finds inside the
+ * run (editorial/CLAUDE.md, "Nothing is left open"), so the email reports what
+ * was done and never carries an open item. Passing --todo, or a TODO in any
+ * other argument, is refused before anything is sent.
  *
  * The site is English only, so there is one live URL. It is read from the
  * frontmatter `url` of the guide file in src/content/guide whose url ends in
@@ -43,7 +48,7 @@ function loadEnv() {
 }
 
 function parseArgs(argv) {
-  const out = { todo: [] };
+  const out = {};
   for (let i = 0; i < argv.length; i++) {
     const a = argv[i];
     if (!a.startsWith('--')) continue;
@@ -57,8 +62,7 @@ function parseArgs(argv) {
       out[key] = true;
       continue;
     }
-    if (key === 'todo') out.todo.push(val);
-    else out[key] = val;
+    out[key] = val;
     i++;
   }
   return out;
@@ -101,6 +105,12 @@ async function main() {
     );
     process.exit(2);
   }
+  if ('todo' in args || Object.values(args).some((v) => typeof v === 'string' && /\bTODO\b/.test(v))) {
+    console.error(
+      'notify-publish: refused. A publishing job leaves no open item; close it in the run, then notify.',
+    );
+    process.exit(2);
+  }
   const to = args.to || DEFAULT_TO;
   const url = urlFromGuide(args.slug) || repairUrl(args.url);
   const live = url ? `${SITE}${url.replace(/\/$/, '')}` : 'not reported';
@@ -115,7 +125,6 @@ async function main() {
     `Build: ${args.build || 'not reported'}`,
     `Run log: ${args.log || 'not reported'}`,
   ];
-  if (args.todo.length) lines.push('', 'Open TODOs:', ...args.todo.map((t) => `  * ${t}`));
   if (args.note) lines.push('', `Note: ${args.note}`);
   const text = lines.join('\n');
 
@@ -132,7 +141,6 @@ async function main() {
     ${row('Build', esc(args.build || 'not reported'))}
     ${row('Run log', esc(args.log || 'not reported'))}
   </table>
-  ${args.todo.length ? `<p style="font-size:14px;margin:24px 0 8px;color:#5C5C5C;">Open TODOs</p><ul style="font-size:14px;line-height:1.6;margin:0;padding-left:20px;">${args.todo.map((t) => `<li>${esc(t)}</li>`).join('')}</ul>` : ''}
   ${args.note ? `<p style="font-size:14px;line-height:1.6;margin:24px 0 0;">${esc(args.note)}</p>` : ''}
 </div>`;
 

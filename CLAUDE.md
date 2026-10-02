@@ -173,6 +173,17 @@ the three body figures, then the publish step (move into `src/content/guide/`,
 `img:audit`, `dates:check`, `astro check`, build, commit, push) from the
 scheduled morning task, then one email through `editorial/scripts/notify-publish.mjs`.
 
+**Nothing is left open (standing, from Cyril, 2 October 2026).** No
+publishing job, guide or news, leaves a TODO, an open item, a "for a person"
+list or a "Phase 2a" deferral in a file, a log, the schedule notes or the
+email. Each item is closed in the run: the fact sourced or the claim cut, the
+contradicted page fixed in the same commit, the brief amended at the master
+plan and regenerated, the slug created or resolved through the settled table,
+a future date filed as a watch item in `editorial/sources/source-tiers.md`.
+The table is in `editorial/CLAUDE.md`, "Nothing is left open".
+`npm run todos:check` enforces it in the pre push hook and both publish steps,
+and `notify-publish.mjs` refuses a `--todo`.
+
 The scheduled publish run is the one place this repo builds automatically; it
 is the explicit request the "build only when asked" rule needs. Two standing
 rules from Cyril carry over from the sibling pipelines: when the runbook asks

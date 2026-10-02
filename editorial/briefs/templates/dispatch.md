@@ -23,12 +23,11 @@ date, would a visitor do anything differently.
 
 ## Output shape
 
+The body starts at the first item. No h1 (the layout owns it, and the
+validator refuses one) and no standfirst paragraph (it lives in the
+`standfirst` frontmatter field and the layout prints it).
+
 ```markdown
-# Moganshan dispatch, week NN
-
-[Standfirst: one sentence naming the week's most consequential change, or
-plainly saying nothing material changed.]
-
 ## [Item headline]
 
 [Two to four sentences. What changed. When. What is now different.]

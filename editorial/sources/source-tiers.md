@@ -99,6 +99,7 @@ frontmatter, added by a person and drafted with `Draft brief B<date>.`
 | Date | Fixture | Source | Priority |
 |---|---|---|---|
 | 28 Sep 2026 | Golden Week programme drops, 7 to 10 days before each Golden Week | 德清发布 / 爱德清 / 潮新闻 | HIGH |
+| 25 Oct 2026 | Red maple season (红枫季) opening date; the three so far opened 1 November 2023, 12 November 2024 and 18 November 2025. A news item carries the date, and the same run adds it to `/seasons/moganshan-red-leaves/` | 莫干山管理局 via 德清新闻网 / 潮新闻 | HIGH |
 | 20 Jan 2027 | The 2027 race calendar: the annual sports presser publishes the full year in one article | 德清新闻网 `dqnews.zjol.com.cn/dqnews/xwzx/sznews/` | HIGH |
 | 27 Jan 2027 | Spring Festival programme drops, 7 to 10 days before the holiday | 德清发布 / 爱德清 | MEDIUM |
 | 10 Feb 2027 | The ten openings for 2027, the resort's 新春第一会 | deqing.gov.cn col1229212604 | HIGH |
@@ -129,6 +130,7 @@ Facts with a known expiry, checked without waiting for news.
 | Shuttle hours and last bus down | Varies seasonally, extended to 21:30 in summer 2025 | Seasonally |
 | Moganshan Lodge operating status | Still listed by Lonely Planet and TripAdvisor, likely defunct | Once, then close out |
 | Spartan base at Jun An Li | Announced for Q4 2026 | Quarterly until confirmed trading |
+| Tier 1 notices behind a block | The car ban's 2018 launch notice and the transfer notice 《关于景区交通换乘的公告》 are cited from tier 2 and tier 4 copies because deqing.gov.cn timed out and zj-mgs.com returns 403 to every client; `/plan/private-car-ban-on-moganshan/` and `/plan/moganshan-shuttle-system/` carry the lower tier citations | At each quarterly volatile revision: fetch twice, and when both succeed swap the citation in the same run |
 
 ## Revision cadence by freshness tier (Part 2.5)
 

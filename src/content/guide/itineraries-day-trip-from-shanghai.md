@@ -9,10 +9,10 @@ secondary_keywords: [shanghai day trip moganshan, one day moganshan itinerary, m
 schema: TouristTrip
 image: /images/guide/itineraries-day-trip-from-shanghai.webp
 image_alt: An empty Chinese high-speed rail platform before dawn, with a single train waiting at the far end
-word_count: 1384
+word_count: 1390
 author: echo-peng
 published: 2026-08-07
-last_updated: 2026-08-09
+last_updated: 2026-10-02
 ---
 
 # Moganshan in one day from Shanghai, hour by hour
@@ -81,7 +81,7 @@ The first is 09:35. Everything before it is a chain with no slack. A slow ride t
 
 The second is 15:45, the row people argue with. It reads an hour too early until you try it. Getting back takes longer than the map suggests, and you cannot reach the town without clearing a transfer center. That is why 18:00 matters even though your shuttle leaves at 17:00. Hold it even when the afternoon goes well. Movement up there is on [getting around Moganshan](/getting-here/getting-around/), the ticketed core on the [scenic area](/moganshan/scenic-area/) page.
 
-Ticket prices also disagree: RMB 120 online and RMB 130 at the gate in one source, RMB 50 off-season and RMB 80 in peak in another. Winter is half price. Check when booking.
+Ticket prices also disagree. Published figures run from RMB 50 to RMB 130 depending on the source and season, and the most recent dated window price is RMB 80. [Moganshan tickets in 2026](/plan/moganshan-tickets-in-2026/) has them all. Check when booking.
 
 > Scenic-area ticket ranges as given by both sources, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 

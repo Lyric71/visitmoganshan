@@ -26,3 +26,11 @@ if ! node scripts/check-dates.mjs; then
   echo "Push blocked: an article changed without its last_updated moving."
   exit 1
 fi
+
+# Refuse to push published content that still carries a TODO. A publishing
+# job closes what it finds inside the run; nothing ships as a marker.
+if ! node scripts/check-todos.mjs; then
+  echo ""
+  echo "Push blocked: a TODO, FIXME, TBD or XXX marker in src/content."
+  exit 1
+fi

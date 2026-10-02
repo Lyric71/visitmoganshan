@@ -9,10 +9,10 @@ secondary_keywords: [moganshan weekend, two nights in moganshan, weekend trip fr
 schema: TouristTrip + ItemList
 image: /images/guide/itineraries-weekend-from-shanghai.webp
 image_alt: A weekend bag on a guesthouse terrace above bamboo ridges on a Saturday morning
-word_count: 1760
+word_count: 1769
 author: echo-peng
 published: 2026-08-06
-last_updated: 2026-08-09
+last_updated: 2026-10-02
 ---
 
 # A weekend in Moganshan from Shanghai
@@ -124,7 +124,7 @@ Two people sharing a room, in RMB.
 
 Those totals are our arithmetic on the published bands. Nobody sells this as a package. And note what the columns really compare, because the bands split by season and never by day of the week. The right-hand column is a peak-season room, and calling it a measured Saturday premium would be a stretch.
 
-Ticket prices do not agree across sources. One gives RMB 120 online and RMB 130 at the gate. Another gives RMB 50 off-season and RMB 80 in peak. Winter is half price. Check at booking rather than trusting any single number, ours included. Prices checked 5 August 2026.
+Ticket prices do not agree across sources. Published figures run from RMB 50 to RMB 130 depending on the source and season, and the most recent dated window price is RMB 80. [Moganshan tickets in 2026](/plan/moganshan-tickets-in-2026/) has every figure with its date. Check at booking rather than trusting any single number, ours included.
 
 > Both published scenic-area ticket ranges, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
@@ -172,7 +172,7 @@ A minsu is a small, owner-run guesthouse. Staying near Yucun saves transfer time
 |---|---|---|
 | July to August | Mean 24.1 °C, 6 to 7 °C cooler than Shanghai and Hangzhou | The historic season and still the busiest |
 | Spring and clear late autumn | Bamboo shoots, green meadows, then clear air | The promoted shoulder seasons, which is another way of saying fewer people |
-| Winter | Cold. January mean 1.4 °C | Ticket is half price |
+| Winter | Cold. January mean 1.4 °C | The lowest price in both published ticket sets |
 | Golden Weeks | May Day, National Day | Skip them |
 
 The place exists because of that summer gap. More in [seasons](/seasons/).

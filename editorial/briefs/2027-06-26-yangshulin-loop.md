@@ -66,9 +66,11 @@ type and both validation checks before it enters the draft.
 Trail template (Part 5.4). Route stage by stage; a fact strip with distance,
 elevation gain, surface, and honest timing for a fit and an unfit walker;
 what to carry; when not to go; an embedded map and a downloadable GPX; an
-elevation profile. Emits HowTo and Place schema. Where the GPX pipeline does
-not exist yet, leave a marked TODO for the map and the file and publish the
-prose; the fact strip still has to carry real numbers with sources.
+elevation profile. Emits HowTo and Place schema. Until the GPX pipeline
+exists the piece ships without a map, a GPX or an elevation profile, and
+without any placeholder or TODO marker for them: each stage names its start
+and end points in English and Chinese so a reader can find them in a map app,
+and the fact strip still has to carry real numbers with sources.
 
 ## Shell
 

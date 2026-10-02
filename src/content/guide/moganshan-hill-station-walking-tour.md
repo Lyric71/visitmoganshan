@@ -9,10 +9,10 @@ secondary_keywords: [moganshan villa walk, moganshan heritage villas, self guide
 schema: HowTo + TouristTrip
 image: /images/guide/moganshan-hill-station-walking-tour.webp
 image_alt: Worn stone steps climbing between mossy garden walls towards a villa gatepost
-word_count: 1568
+word_count: 1574
 author: cyril-drouin
 published: 2026-08-05
-last_updated: 2026-08-08
+last_updated: 2026-10-02
 ---
 
 # The Moganshan villa walk: a self-guided route
@@ -37,7 +37,7 @@ Four things shape the day more than the route does.
 
 **The transfer rule.** Private vehicles cannot drive inside the scenic area. You change at one of three transfer centers, Yucun, Fatou or Houwu, and they run 08:00 to 18:00. Arrive at 19:00 and the system has closed. [Getting around Moganshan](/getting-here/getting-around/) explains how the transfers work.
 
-**Tickets.** Sources disagree on the price. One gives RMB 120 online and RMB 130 at the gate. Another gives RMB 50 off-season and RMB 80 at peak. Winter is half price. Check the figure when you book, rather than trusting any published number, including ours.
+**Tickets.** Sources disagree on the price. Published figures run from RMB 50 to RMB 130 depending on the source and season, and the most recent dated window price is RMB 80. [Moganshan tickets in 2026](/plan/moganshan-tickets-in-2026/) has every figure. Check it when you book, rather than trusting any published number, including ours.
 
 **Weather.** July and August average 24.1 °C, which is 6 to 7 °C cooler than Shanghai and Hangzhou. January averages 1.4 °C. Bring a layer in either season.
 

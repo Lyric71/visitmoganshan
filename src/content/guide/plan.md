@@ -9,10 +9,10 @@ secondary_keywords: [visit moganshan, moganshan trip planning, moganshan guide]
 schema: Article
 image: /images/guide/plan.webp
 image_alt: An open planning notebook and a phone timetable on a train tray table, hills passing outside
-word_count: 1678
+word_count: 1676
 author: cyril-drouin
 published: 2026-08-06
-last_updated: 2026-08-07
+last_updated: 2026-10-02
 ---
 
 # Plan your trip to Moganshan
@@ -65,7 +65,7 @@ Summer is the reason Moganshan exists. July and August average 24.1 °C, about 6
 |---|---|---|
 | July to August | The cool air, at a 24.1 °C mean | Core season. Book early |
 | Spring and late autumn | Bamboo shoots, then clear air and good walking | May Day spikes; short autumn days against an 18:00 transfer cutoff |
-| Winter | Empty paths, half-price tickets | January averages 1.4 °C |
+| Winter | Empty paths | January averages 1.4 °C |
 
 The two Golden Weeks, the May Day and National Day holidays, are worth avoiding if your dates can move. High-end guesthouse occupancy reached 94 percent over the May 2024 holiday, and daily footfall in Yucun during National Day 2025 ran 30 to 40 percent above normal. Weekends are busy too, and Mondays run the quietest of the week. The [best time to visit](/plan/best-time-to-visit/) page goes month by month.
 

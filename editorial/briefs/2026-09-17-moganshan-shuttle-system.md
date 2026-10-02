@@ -53,7 +53,7 @@ first. They override any conflicting rule inside the skill.
 
 ## The angle
 
-> Yucun and Houwu centres, 35 RMB return + 15 RMB internal, free luggage store, free dog kennels. Nothing in English covers this.
+> Yucun and Houwu centres, 35 RMB return + 15 RMB internal. Free luggage storage and free dog cages rest on one August 2019 trip report (Youxiake, tier 3) and the 2018 launch list names neither; print them as that dated record, not as fact. Nothing in English covers this.
 
 ## Chinese sources named in the calendar
 

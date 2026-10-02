@@ -13,10 +13,10 @@ secondary_keywords:
 schema: Article + FAQPage
 image: /images/guide/moganshan-faq.webp
 image_alt: A weathered wooden signpost where two forest paths meet in the bamboo on Moganshan
-word_count: 1400
+word_count: 1411
 author: liyan-ye
 published: 2026-08-05
-last_updated: 2026-08-08
+last_updated: 2026-10-02
 ---
 
 # Moganshan questions and answers
@@ -91,7 +91,7 @@ Half a day at a slow pace, over roughly four kilometres of lane and steps. It is
 
 ### Is the Moganshan bamboo forest free to enter?
 
-The core scenic area charges. Prices vary between sources and change with the season, with half price in winter, so check when you book rather than trusting a figure you read online. Bamboo outside the core area, around the guesthouse villages, is simply there.
+The core scenic area charges. Published prices run from RMB 50 to RMB 130 depending on the source and season, and the most recent dated window price is RMB 80, so check when you book rather than trusting a figure you read online. [Moganshan tickets in 2026](/plan/moganshan-tickets-in-2026/) has every source. Bamboo outside the core area, around the guesthouse villages, is simply there.
 
 ### When is the best time to visit the bamboo forest?
 
@@ -121,7 +121,7 @@ About 6 to 7 °C in summer, with a July and August mean of 24.1 °C. One source 
 
 ### Is Moganshan cold in winter?
 
-Yes. January averages 1.4 °C, close to freezing. Some sources say nearer 3.5 °C. You need a proper coat either way. The reward is half-price tickets and empty paths.
+Yes. January averages 1.4 °C, close to freezing. Some sources say nearer 3.5 °C. You need a proper coat either way. The reward is empty paths.
 
 ### Can I trust a Moganshan weather forecast?
 
@@ -131,4 +131,4 @@ Partly. Most apps report Deqing or Wukang, down in the valley about 20 km away. 
 
 The May Day and National Day holidays, then summer weekends. Monday is the quietest day.
 
-*Historic figures, temperature data, crowd patterns and the half-price winter ticket last checked 5 August 2026. Villa counts and ticket prices conflict between sources, so we give ranges rather than single numbers and you should confirm prices at booking.*
+*Historic figures, temperature data and crowd patterns last checked 5 August 2026. Villa counts and ticket prices conflict between sources, so we give ranges rather than single numbers and you should confirm prices at booking.*

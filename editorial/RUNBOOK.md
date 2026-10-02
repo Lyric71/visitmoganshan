@@ -79,21 +79,28 @@ continues when each step passes:
 4. Sets `published` and `last_updated` to the row's `publish_date`. The
    pre push hook refuses a date in the future, which is why the publish runs
    on the morning of that date and not the evening before.
-5. For a dispatch, does what `CLAUDE.md` "Where a dispatch goes today" says,
-   and edits any page named in `affects_pages`, moving its `last_updated`.
-6. `npm run img:audit`, `npm run dates:check`, `npm run check`, then
+5. For a dispatch, does what `CLAUDE.md` "Where a dispatch goes today" says.
+   For every piece, core or dispatch, edits each page named in
+   `affects_pages` or under AFFECTS PAGES in the asset brief: corrects the
+   fact the piece contradicts, links the new piece where the topic comes up,
+   brings the page to British spelling with no punctuation hyphens, and moves
+   its `last_updated`. Nothing is flagged for a person; the edited pages go in
+   the same commit.
+6. `npm run img:audit`, `npm run dates:check`, `npm run todos:check`,
+   `npm run check`, then
    `npm run build`. The scheduled publish run is the explicit request for a
    build that the root `CLAUDE.md` requires; nothing else in this pipeline
    builds.
 7. Sets the row to `published` with `published_on`.
 8. `git add` of everything the piece touched (the guide file, the four
-   images, any evergreen page a dispatch updated, `editorial/output`,
+   images, every evergreen page step 5 updated, `editorial/output`,
    `editorial/logs`, `editorial/schedule.csv`, `editorial/sources`), one
    commit on main (`feat(guide): publish <slug>` or
    `feat(news): publish dispatch <week>`), `git push origin main`. Vercel
    deploys from main, so the push is what puts the piece live.
 9. `node editorial/scripts/notify-publish.mjs` with the slug, the title, the
-   build result, the log path and the commit hash in `--note`. Never
+   build result, the log path and the commit hash in `--note`. There is no
+   `--todo`: the script refuses one, because nothing is left open. Never
    `--url`: the script reads it from the guide file, and Git Bash mangles a
    leading slash.
 
@@ -186,7 +193,8 @@ Disable-ScheduledTask -TaskName 'VisitMoganshan Editorial Publish'
 | Image generation fails | Check `OPENAI_API_KEY` in `.env.local`. Retry once with a lightly reworded prompt. Row stays at `quality_passed`. |
 | `npm run img:audit` fails | An image is over 260 KB or 2000 px. Encode again with a lower `--webp-quality`, then `--max-width`. |
 | `npm run dates:check` fails | `published` or `last_updated` is in the future or an edited page's date did not move. Fix the date; never move `published`. |
-| A brief's affiliate slug does not exist | Expected until Phase 2a. The piece publishes without and the TODO is in the email. Add the slug to `PARTNER_LINKS` in `astro.config.mjs`, then add the link and move `last_updated`. |
+| A brief's affiliate slug does not exist | Resolve it through the "Affiliate slugs" table in `CLAUDE.md`, which settles every slug a brief can name. A new one: verify the Trip.com destination, add it to `PARTNER_LINKS` in `astro.config.mjs` and a row to that table in the same run. Never a TODO, never in the email. |
+| `npm run todos:check` fails | A TODO, FIXME, TBD or XXX sits in `src/content`. Close it in the run: source the fact or cut the claim. |
 | The build fails | No commit, no push, row stays `image_ready`, error in the email. Fix and rerun `Publish <slug>`. |
 | No publish email arrived | Run the notify script again with `--dry-run` to see the payload, then without. Check `RESEND_API_KEY` in `.env.local`. |
 

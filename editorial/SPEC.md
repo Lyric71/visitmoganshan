@@ -164,8 +164,9 @@ The exact shape is in the house `createarticle` skill.
    file path, the alt, the caption (figures only), the heading it follows
    (figures only) and one prose prompt.
 2. **SCHEMA.** Type, breadcrumb, author id, datePublished.
-3. **ASSET BRIEF.** Tables, map and GPX, internal links, affiliate, open
-   TODOs, pages this piece affects.
+3. **ASSET BRIEF.** Tables, map and GPX, internal links, affiliate, closed
+   items (each question the run met and how it was closed), pages this piece
+   affects. Never an open TODO: see `CLAUDE.md`, "Nothing is left open".
 
 ## SEO
 
@@ -266,12 +267,13 @@ Verify each by counting or checking, not by assuming.
 
 ## When to stop and ask
 
-Draft without pausing, with five exceptions. In each case, write the draft up
-to that point, leave a clear marker, flag it in the log, and set the row's
-status as stated.
+Draft without pausing, with five exceptions. In each case, say what happened
+in the log and set the row's status as stated. Never leave a marker in the
+file: a run closes what it meets or stops (`CLAUDE.md`, "Nothing is left
+open").
 
-1. **A required figure cannot be sourced at its tier.** Cut the claim, mark
-   `TODO: unsourced claim removed`, say which section is thinner. Continue.
+1. **A required figure cannot be sourced at its tier.** Cut the claim and say
+   in the log which section is thinner. No marker in the file. Continue.
 2. **The piece's central figure cannot be sourced** (the tariff for the
    tickets piece, the fare for the shuttle piece). Set the row to `blocked`
    with the reason. Nothing publishes around a hole in its own subject.
