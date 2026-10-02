@@ -833,6 +833,147 @@ primary research, <dates>". -->
 * Used in: moganshan-shuttle-system, where-to-leave-your-bags
 * Notes: logged on 28 September 2026 because it was cited twice without an entry. The method of the August check is not recorded anywhere in the repo; the articles cite it as desk research and never as a visit or a call. It contradicts the August 2019 Youxiake trip report, and both are printed.
 
+### Deqing National Day 2026 forecast and autumn onset
+* Value: county weekly mean 26.6 °C against a normal 22.1 °C (week to 30 September 2026); daily forecast for 1 to 7 October 2026 (1 Oct 21 to 24 °C, showers; 2 Oct 19 to 21 °C, showers; 3 Oct 18 to 23 °C, showers turning to moderate or heavy rain; 4 Oct 19 to 23 °C, light rain, gusts force 6; 5 Oct 16 to 24 °C; 6 Oct 13 to 25 °C; 7 Oct 14 to 26 °C); autumn onset rule, five day running mean below 22 °C; 2025 onset 19 October, the latest on record; 30 September rainstorm risk medium for Moganshan town, low elsewhere
+* As of: 30 September 2026
+* Source: 德清新闻网 (Deqing News), reporter Yang Lizhu (杨丽竹), citing the county weather station (县气象台)
+* Tier: 2
+* URL: https://dqnews.zjol.com.cn/dqnews/system/2026/09/30/035303884.shtml
+* Verified 1: 2026-10-01 (article read whole)
+* Verified 2: 2026-10-01 (fetched again after the draft was finished, every figure found)
+* Shelf life: the forecast expires 7 October 2026; the 2025 onset date and the 22 °C rule do not expire
+* Used in: news item cold-air-brings-rain-then-autumn-to-the-holiday
+* Notes: county town figures, not the mountain. The 2025 onset date and the 22 °C rule are leads for /seasons/autumn/, which says no autumn figure is published.
+
+### China Weather Network seven day forecast for Deqing, 1 October 2026
+* Value: 1 Oct light rain then cloudy, 19 to 25 °C; 2 Oct cloudy, 19 to 23 °C; 3 Oct light rain, 19 to 25 °C; 4 Oct light rain, 17 to 22 °C; 5 Oct sunny, 12 to 23 °C; 6 Oct sunny, 12 to 24 °C; 7 Oct sunny, 14 to 26 °C
+* As of: 1 October 2026
+* Source: 中国天气网 (China Weather Network, China Meteorological Administration), Deqing county page 101210204; the National Meteorological Centre page nmc.cn/publish/forecast/AZJ/deqing.html gave the same figures
+* Tier: 1 (the national forecaster's own public channel, and the leading indicator named in source-tiers.md)
+* URL: https://www.weather.com.cn/weather/101210204.shtml
+* Verified 1: 2026-10-01 (read with the NMC page as a second reading)
+* Verified 2: 2026-10-01 (fetched again after the draft was finished, unchanged)
+* Shelf life: expires the day it is read; cited only as the forecast of 1 October
+* Used in: news item cold-air-brings-rain-then-autumn-to-the-holiday
+* Notes: disagrees with the county station on 3 October (light rain against moderate to heavy) and on the lows of 5 and 6 October (12 °C against 16 and 13 °C); the item prints both. The town level page 101210204004 renders its figures client side and could not be read.
+
+### Tiankeng Mijing, Fotang village, trial opening
+* Value: trial opening (试营业) of 天坑秘境 in 佛堂村, Moganshan town; reporter visit 29 September 2026; phase one about 9 mu; phase two planned for next year with rafting, 30 mu in total; built from the village's disused kindergarten and old power station; operator Chen Mengye (陈梦烨) from Shaoxing
+* As of: 30 September 2026
+* Source: 德清新闻网 (Deqing News), reporter Chen Mingyue (陈明月)
+* Tier: 2
+* URL: https://dqnews.zjol.com.cn/dqnews/system/2026/09/30/035303876.shtml
+* Verified 1: 2026-10-01 (article read whole)
+* Verified 2: 2026-10-01 (fetched again after the draft was finished, every figure found)
+* Shelf life: volatile; recheck when a formal opening or phase two is reported
+* Used in: news item tiankeng-mijing-opens-on-trial-in-fotang
+* Notes: step two of the opening chain was not completed. Dianping returned a verification wall, Baidu returned a verification page, and a web search found no other coverage. The item says it rests on the reporter's visit alone. No price, hours or address published.
+
+### Moganshan red maple festival dates, 2023
+* Value: first Moganshan red maple festival (首届红枫节) opened 1 November 2023, set to run two months
+* As of: November 2023
+* Source: China Daily website (中国日报网), relaying China.com.cn (中国网)
+* Tier: 2
+* URL: https://cn.chinadaily.com.cn/a/202311/02/WS65436631a310d5acd876d141.html
+* Verified 1: 2026-10-01 (11月1日, 首届红枫节, 持续两个月 present; page date 2023-11-02)
+* Verified 2: 2026-10-01 (fetched again before the draft was finished, all three strings present)
+* Shelf life: evergreen as a dated historical fact
+* Used in: moganshan-red-leaves
+* Notes: the China Daily page credits 江西网络广播电视台 at the head and 中国网 at the foot; cited as China Daily relaying China.com.cn.
+
+### Moganshan red maple count and the second festival, 2024
+* Value: second festival opened 12 November 2024, run by the Moganshan Management Bureau (莫干山管理局), to run more than a month; check in points at the visitor centre, Xuguang terrace (旭光台), the Thousand Maples Sunset Pavilion (千枫夕照亭) and the conference site; the bureau: more than 10,000 red maples, more than 100 over a century old, the oldest over 500 years; golden larch (金钱松), ginkgo and plane trees at their best at the same time
+* As of: November 2024
+* Source: Deqing News (德清新闻网), reporter 陈明月
+* Tier: 2
+* URL: https://dqnews.zjol.com.cn/dqnews/system/2024/11/13/034801734.shtml
+* Verified 1: 2026-10-01 (read in Chinese through curl and iconv from GB18030; 11月12日, 上万棵红枫, 树龄超过百年的红枫有上百棵, 最古老的已有500多岁, 持续一个多月, 金钱松 present)
+* Verified 2: 2026-10-01 (fetched again, all present)
+* Shelf life: semi-stable, 6 months; the count is the bureau's own and repeated unchanged in December 2025 (Hangzhou Net, below)
+* Used in: moganshan-red-leaves
+* Notes: the count is the bureau's figure relayed by a tier 2 paper, never an independent survey. It does not say which tree is the oldest.
+
+### Red maple festival photographs, 2024
+* Value: maples photographed at Xuguang terrace (aerial), the Luhuadang hotel platform (芦花荡饭店平台, aerial), Villa 62 and on the steps of No. 92 Yiyuan (颐园)
+* As of: November 2024
+* Source: China News Service (中国新闻网)
+* Tier: 2
+* URL: https://www.chinanews.com.cn/tp/2024/11-13/10318612.shtml
+* Verified 1: 2026-10-01 (旭光台, 芦花荡饭店平台, 62号别墅的红枫, 92号别墅颐园台阶, 航拍 present)
+* Verified 2: 2026-10-01 (fetched again, all present)
+* Shelf life: evergreen as a dated record of where the trees are
+* Used in: moganshan-red-leaves
+
+### Third red maple season, 2025, and the named trees
+* Value: third season opened 18 November 2025; viewing points named by the scenic area: Xuguang terrace, the Thousand Maples Sunset Pavilion, No. 62 Fengjuan Valley (枫鹃谷); a "hundred year" maple (百年红枫) in front of Villa 62; the "king of maples" (枫树王) in the yard of No. 274; old maples at No. 92 Yiyuan; a shuttle special route from 161号松坞 via Xuguang terrace, Wuling village, Baiyun Shanguan, the conference site and Dakeng to the exhibition hall and Yinshan Street
+* As of: November 2025
+* Source: Tide News (潮新闻), relayed by China News Service (中新网)
+* Tier: 2
+* URL: https://www.chinanews.com.cn/sh/2025/11-18/9636841.shtml
+* Verified 1: 2026-10-01 (11月18日, 第三届红枫季, 62号别墅前的百年红枫, 274号别墅院子里的, 92号颐园的古枫 present)
+* Verified 2: 2026-10-01 (fetched again, all present plus 161号松坞 and 白云山馆)
+* Shelf life: semi-stable, 6 months
+* Used in: moganshan-red-leaves
+* Notes: the page writes the pavilion 千峰夕照亭 once and 千枫夕照亭 once, and 62号 once as 枫鹊谷; every other source uses 千枫 and 枫鹃谷. It names Mao's lodging as 161号松坞 where the tier 4 route list gives 126号; not printed.
+
+### Red maples at their best in December 2025
+* Value: maples entering their best in December 2025 (进入12月，枫叶迎来了最佳观赏期), season to mid December; scenic area figures repeated: more than 10,000 red maples, more than 100 over a century, the oldest over 500
+* As of: December 2025
+* Source: Hangzhou Net (杭州网), from Tide News, reporter 方可人
+* Tier: 2
+* URL: https://travel.hangzhou.com.cn/lyzx/content/2025-12/05/content_9138035.html
+* Verified 1: 2026-10-01 (进入12月, 持续至12月中旬, 上万棵红枫, 最古老的已有五百多岁 present)
+* Verified 2: 2026-10-01 (fetched again, all present)
+* Shelf life: evergreen as a dated record of the 2025 season
+* Used in: moganshan-red-leaves
+
+### Red leaf colouring thresholds
+* Value: most red leaf species start turning when the daily minimum falls below 10 °C and turn fully at 0 to 5 °C; a day to night range above 10 °C helps; a wet growing season delays the turn; a north wind can scatter the leaves; 红叶 covers several species (鸡爪槭, 枫香树, 三角枫, 乌桕)
+* As of: October 2025
+* Source: China Weather (中国天气网), on CCTV News (央视网)
+* Tier: 2
+* URL: https://news.cctv.com/2025/10/23/ARTIofIm3U44p18MbloKnzE6251023.shtml
+* Verified 1: 2026-10-01 (最低气温降至10℃以下, 0℃至5℃时，叶子会全部变红, 昼夜温差大于10℃, 降水量较多 present)
+* Verified 2: 2026-10-01 (fetched again, all present, plus 枫香树 and 鸡爪槭)
+* Shelf life: evergreen (a general rule, not a forecast)
+* Used in: moganshan-red-leaves
+* Notes: the piece does not name Moganshan. Tiered 2 as a dated national weather service article republished by CCTV; China Weather's own forecast pages are logged separately at tier 1.
+
+### The 2021 Tencent autumn account (the calendar's 腾讯 秋色红叶攻略)
+* Value: 2021 loop bus from Yinshan Street stopping first at the Queen's Hotel (皇后饭店, old buildings and maples), then Xuguang terrace (old maples by the Qingliang pavilion) and Wuling village (old maples nearby); a maple over 500 years old (500多年历史古枫树) in Villa 62 with tea tables under it; colour slowly unfolding (慢慢上演) on 5 December 2021; autumn Moganshan called a "little Kyoto" (小京都)
+* As of: December 2021
+* Source: Tencent News (腾讯新闻), travel writer 先森不讲李
+* Tier: 3
+* URL: https://news.qq.com/rain/a/20211205A08VZZ00
+* Verified 1: 2026-10-01 (pubtime 2021-12-05 22:05; 第一站是皇后饭店, 旭光台上的古枫树, 500多年历史古枫树 present)
+* Verified 2: 2026-10-01 (fetched again, plus 小京都 and 慢慢上演)
+* Shelf life: evergreen as a dated trip account; never a current fact
+* Used in: moganshan-red-leaves
+* Notes: the source of the brief's angle (Villa 62's 500 year maple, Queen's Hotel, Xuguang terrace, Wuling village). The 500 year claim for Villa 62 conflicts with Tide News, November 2025, which calls the Villa 62 tree a hundred year maple; the article prints both. The writer's opinion of Dakeng is review language and is not used.
+
+### 2025 maple walking routes and the last bus down, as announced
+* Value: four walking routes from Yinshan Street for the 2025 season (route 1 to the Thousand Maples Sunset Pavilion; route 2 to the No. 274 king of maples and Gangtou Road; route 3 past Luhuadang, old No. 100, the stele forest, Nos. 48 and 410 to the Linshu hotel; route 4 past No. 208, Gangtou Road, Nos. 161 and 126, Huating, 62 and 92); route 3 walking times 5, 8, 1, 1, 10, 10, 1 and 5 minutes between stops; a century old ginkgo at No. 95, five minutes from Yinshan Street; last bus down from Yinshan Street about 17:00; maples at their best by 28 November 2025
+* As of: November 2025
+* Source: 诗画浙江游浙里, a Zhejiang tourism promotion account, on Tencent News (腾讯新闻)
+* Tier: 4
+* URL: https://view.inews.qq.com/a/20251128A06OQU00
+* Verified 1: 2026-10-01 (路线一 to 路线四, 274号枫树王, 荫山街下山末班车为17：00左右, 已进入最佳观赏期 present)
+* Verified 2: 2026-10-01 (fetched again, plus 林墅酒店, 百年银杏, 95号, 5分钟)
+* Shelf life: semi-stable, 6 months; cite only as what was announced
+* Used in: moganshan-red-leaves
+
+### Last bus down and the car rule, reused for the red leaves piece
+* Value: see the Tide News, 4 December 2025 entries above (last bus down 17:00 at Houwu; cars change to the shuttle from 08:00 to 17:30 unless booked inside with a parking reservation)
+* As of: December 2025
+* Source: Tide News (潮新闻)
+* Tier: 2
+* URL: https://tidenews.com.cn/news.html?id=3315585
+* Verified 1: 2026-09-06 (as logged above)
+* Verified 2: 2026-10-01 (fetched again: 下山末班车为17:00, 8：00到17：30, 停车预约 present; the headline and first paragraph show the article is about a red leaf trip, a visitor stopped on the road on 1 December 2025)
+* Shelf life: volatile, 3 months from this check
+* Used in: moganshan-red-leaves
+* Notes: logged as a cross reference so the red leaves use is on record; the figures themselves are in the existing entries.
+
 ## Retired
 
 <!-- Entries past their shelf life that were replaced. Kept for the record. -->
