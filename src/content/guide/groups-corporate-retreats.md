@@ -12,7 +12,7 @@ image_alt: A plain wooden meeting table and closed notebooks in a stone-walled r
 word_count: 1291
 author: echo-peng
 published: 2026-08-07
-last_updated: 2026-08-08
+last_updated: 2026-10-05
 ---
 
 # Corporate retreats in Moganshan
@@ -61,9 +61,9 @@ Up to here it reads like an easy yes. None of these three appear on a booking pa
 
 ### The 08:00 to 18:00 window
 
-No private vehicle enters the core scenic area. Everyone changes at one of three transfer centers, at Yucun, Fatou and Houwu, all running 08:00 to 18:00.
+No private vehicle enters the core scenic area. Everyone changes at one of three transfer centres, at Yucun, Fatou and Houwu, all running 08:00 to 18:00.
 
-For one traveler that is an inconvenience. With thirty people on a coach, it becomes the schedule.
+For one traveller that is an inconvenience. With thirty people on a coach, it becomes the schedule.
 
 **If your rooms are inside the boundary, your group needs to clear central Shanghai by about 14:30.**
 
@@ -80,11 +80,14 @@ The last mile from Deqing runs on the same clock.
 
 [Getting around Moganshan](/getting-here/getting-around/) has the detail.
 
-A chartered coach is treated like any other private vehicle at the transfer centers, so build the change of vehicle into the arrival plan rather than hoping the charter gets waved through.
+A chartered coach is treated like any other private vehicle at the transfer centres, so build the change of vehicle into the arrival plan rather than hoping the charter gets waved through.
 
 ### Property size
 
-This is the number to run first. Roughly 1,000 guesthouses share more than 10,000 beds. That is about ten each, and about 80 percent are owned by one household. Xiantan shows it: about 135 guesthouses among under 2,000 residents.
+This is the number to run first. Roughly 1,000 guesthouses share more than 10,000 beds. That is about ten each, and about 80 percent are owned by one household. [Xiantan](/moganshan/villages/xiantan/) shows it: more than 150 guesthouses among about 2,000 residents.
+
+> 166 guesthouses in Xiantan, People's Daily (人民日报), 12 June 2023, tier 2.
+> https://www.crnews.net/zt/srxxzjqwgcjy/zqbwjsyy/955610_20230612122458.html
 
 A 40-person group does not book a guesthouse here. It books three, or one of the few large properties.
 

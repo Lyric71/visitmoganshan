@@ -12,7 +12,7 @@ image_alt: A lit upstairs window of a whitewashed village guesthouse above a sto
 word_count: 1376
 author: echo-peng
 published: 2026-08-05
-last_updated: 2026-08-09
+last_updated: 2026-10-05
 ---
 
 # What a minsu is, and how it differs from a hotel
@@ -29,9 +29,16 @@ A minsu (民宿) is a small guesthouse, usually owned and run by the family behi
 
 The scale is easy to work out from local numbers. Spread roughly 10,000 beds over about 1,000 properties and the average comes out near ten beds each. Compare that with the Crowne Plaza Deqing Moganshan, which has about 340 rooms and sits down in Wukang town rather than on the mountain at all.
 
-Ownership follows the same pattern. About 80 percent of properties are individually owned. In Xiantan, the densest guesthouse village on the mountain, about 135 minsu serve a village of under 2,000 people, and roughly 90 percent of them are run by locals.
+Ownership follows the same pattern. About 80 percent of properties are individually owned. In [Xiantan](/moganshan/villages/xiantan/), the densest guesthouse village on the mountain, more than 150 minsu serve a village of about 2,000 people, and in 2019 roughly 90 percent of them were run by locals.
 
 > Property counts, bed capacity and ownership share, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
+
+> 166 guesthouses in Xiantan, People's Daily (人民日报), 12 June 2023, tier 2.
+> https://www.crnews.net/zt/srxxzjqwgcjy/zqbwjsyy/955610_20230612122458.html
+
+> 90 percent of Xiantan's guesthouses run by locals, Shanghai Observer (上观新闻),
+> 3 April 2019, tier 2.
+> https://www.shobserver.cn/wx/detail.do?id=142561
 
 That is the difference in one line. A hotel is a company with a building. A minsu is usually a household with spare rooms, and the person who checks you in may also be the person who bought the mattress.
 
@@ -59,7 +66,7 @@ In practice a yangjiale is still a minsu. The label just tells you where the des
 
 The local government capped bed capacity at about 10,000 in late 2017 and made approvals harder to get. Actual stock has drifted past the cap since.
 
-Two decades of that curve explain most of what you will notice on the ground. Some properties are twenty years into the trade. Others opened last spring because the neighbors did.
+Two decades of that curve explain most of what you will notice on the ground. Some properties are twenty years into the trade. Others opened last spring because the neighbours did.
 
 ## What the price bands actually buy
 
@@ -119,10 +126,10 @@ Bring your passport for check-in. It is what the registration the directive talk
 
 Occupancy on this mountain ran around 70 percent before 2021. In 2024 it was about 55 percent. The high-end segment held up better, at 68 percent in 2025.
 
-Payback periods stretched from three to five years out to five to eight. Labor eats 30 to 40 percent of revenue.
+Payback periods stretched from three to five years out to five to eight. Labour eats 30 to 40 percent of revenue.
 
 None of that is your problem directly. It becomes your problem in one way. Quality varies enormously, because many owners built into a boom that has since cooled, and no rating system holds the middle of the market to a standard. Read recent reviews. Look at photographs of the room, not the terrace.
 
-One more warning, about arrival. Private vehicles cannot drive inside the scenic area, so you change at a transfer center. [Getting around](/getting-here/getting-around/) covers it, and it is worth reading before you book a bed you cannot easily reach.
+One more warning, about arrival. Private vehicles cannot drive inside the scenic area, so you change at a transfer centre. [Getting around](/getting-here/getting-around/) covers it, and it is worth reading before you book a bed you cannot easily reach.
 
 *Rates, occupancy figures and property counts last checked 5 August 2026. Prices move sharply between weekday and weekend, so confirm the night you actually want before you plan around a number.*

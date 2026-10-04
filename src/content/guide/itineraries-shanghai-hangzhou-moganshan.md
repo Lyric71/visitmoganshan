@@ -12,7 +12,7 @@ image_alt: A high speed train waiting at a platform with the bamboo hills of nor
 word_count: 1854
 author: echo-peng
 published: 2026-08-06
-last_updated: 2026-10-02
+last_updated: 2026-10-05
 ---
 
 # Shanghai, Hangzhou and Moganshan in five days
@@ -33,7 +33,7 @@ Deqing station falls between the two cities, so the mountain belongs second. Slo
 | Zhejiang | 4.171 million overnight visitors, up 24.6 percent |
 | Hangzhou | 1.44 million, up 26.5 percent |
 
-Both ends of this China 5 day itinerary are already among the country's busiest places for foreign travelers. The middle is not.
+Both ends of this China 5 day itinerary are already among the country's busiest places for foreign travellers. The middle is not.
 
 > Inbound visitor figures for 2025 for Shanghai, Zhejiang and Hangzhou, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
@@ -100,7 +100,7 @@ Watch the shuttle gap at the far end. The Y1 has no departure between 10:40 and 
 
 The one full day. The villa walk, the bamboo paths and Sword Pond are the core of it.
 
-Your own car stops at the scenic-area boundary. You change to authorized transport at one of three transfer centers, Yucun, Fatou and Houwu, open 08:00 to 18:00. Be back through before six.
+Your own car stops at the scenic-area boundary. You change to authorised transport at one of three transfer centres, Yucun, Fatou and Houwu, open 08:00 to 18:00. Be back through before six.
 
 ### Day 5: Moganshan to Hangzhou
 
@@ -120,7 +120,7 @@ That third row is the one people ask about most. The order works, but you cross 
 
 ## Visas: the 240-hour rule
 
-Many travelers on this exact route can enter China without applying for a visa.
+Many travellers on this exact route can enter China without applying for a visa.
 
 | The 240-hour rule | |
 |---|---|
@@ -143,7 +143,7 @@ Separately, 50 countries hold unilateral visa-free access as of February 2026, w
 
 Your train stops about 30 km short of the mountain. People underestimate that stretch.
 
-The Y1 tourist shuttle, done up as a Republican-era tram, leaves from the Deqing Coach Center next to the station.
+The Y1 tourist shuttle, done up as a Republican-era tram, leaves from the Deqing Coach Centre next to the station.
 
 | Y1 shuttle | |
 |---|---|
@@ -176,7 +176,7 @@ Moganshan runs on minsu (民宿), small owner-run guesthouses, and yangjiale (�
 | Village | What it gives you on a one-night stop |
 |---|---|
 | Yucun | The hub. Market square, restaurants, the scenic-area gateway, shortest transfer |
-| Xiantan | Roughly 135 minsu among under 2,000 residents, so the widest choice and the most price competition |
+| [Xiantan](/moganshan/villages/xiantan/) | More than 150 minsu among about 2,000 residents, so the widest choice and the most price competition |
 
 Our [where to stay](/where-to-stay/) page compares them. Given the occupancy above, book holiday dates far ahead.
 

@@ -12,7 +12,7 @@ image_alt: A lit guesthouse window on a village lane at dusk with bamboo hills s
 word_count: 1893
 author: echo-peng
 published: 2026-08-06
-last_updated: 2026-08-08
+last_updated: 2026-10-05
 ---
 
 # Where to stay in Moganshan
@@ -36,10 +36,10 @@ The villages sit around the foot of the mountain, not on top of it, and the dist
 | Village | Chinese | What it is | Book it if |
 |---|---|---|---|
 | Yucun | 庾村 | Main hub at the foot of the mountain. Square, market, restaurants, the "1932" culture park, main scenic-area gateway. | First visit, no car, one night |
-| Xiantan | 仙潭村 | Northern foot. Densest guesthouse village, with about 135 minsu among under 2,000 residents, roughly 90 percent locally run. | You want choice and price competition |
+| [Xiantan](/moganshan/villages/xiantan/) | 仙潭村 | Northern foot. Densest guesthouse village, with more than 150 minsu among about 2,000 residents, roughly 90 percent locally run in 2019. | You want choice and price competition |
 | Laoling | 劳岭村 | South side. Reservoir, kayaking, cycling. One of the earliest farmstay clusters. | You want the water and bikes |
 | Sanjiuwu | 三九坞 | Where naked Home Village opened in 2007, the first yangjiale here. | You are shopping the foreign-founded end |
-| Houwu | 后坞 | Quiet, west side, about 30 minutes from Yucun. Also one of the three transfer centers. | You want quiet and have transport |
+| Houwu | 后坞 | Quiet, west side, about 30 minutes from Yucun. Also one of the three transfer centres. | You want quiet and have transport |
 | Dazaowu | 大造坞 | The most remote. Rice paddies and the Dadouwu reservoir. | You want the most remote option |
 | Wukang | 武康 | Deqing county seat, about 20 km away. The rail and services town, not the mountain. | You arrive late, or want a normal hotel |
 
@@ -47,7 +47,10 @@ The villages sit around the foot of the mountain, not on top of it, and the dist
 
 Yucun is the safe first choice, because the main gateway and most of the restaurants are there. It is also the busiest. Over National Day 2025, daily footfall ran 30 to 40 percent above normal.
 
-Xiantan is where it gets interesting. About 135 guesthouses compete inside a village of under 2,000 residents, and that density produces the price range you see online. It is mostly guesthouses rather than a village with guesthouses in it.
+Xiantan is where it gets interesting. More than 150 guesthouses compete inside a village of about 2,000 residents, and that density produces the price range you see online. It is mostly guesthouses rather than a village with guesthouses in it. [Xiantan on its own](/moganshan/villages/xiantan/) weighs it against Yucun.
+
+> 166 guesthouses in Xiantan, People's Daily (人民日报), 12 June 2023, tier 2.
+> https://www.crnews.net/zt/srxxzjqwgcjy/zqbwjsyy/955610_20230612122458.html
 
 The others are quieter, and quiet costs something. Without a car, a village 30 minutes from Yucun is one you will not leave after 6 pm, which makes your guesthouse your restaurant.
 
@@ -60,8 +63,8 @@ This matters more than the train timetable does.
 | The rule | What it means for you |
 |---|---|
 | Private vehicles cannot drive inside the scenic area | You change vehicles on the way in. Your own car gets you between villages, not past that line |
-| Three transfer centers: Yucun, Fatou and Houwu | The village you booked decides which you use |
-| Open 08:00 to 18:00, all three | Reach Deqing at seven in the evening and your first night works around closed centers |
+| Three transfer centres: Yucun, Fatou and Houwu | The village you booked decides which you use |
+| Open 08:00 to 18:00, all three | Reach Deqing at seven in the evening and your first night works around closed centres |
 
 [Getting around](/getting-here/getting-around/) has the shuttle times.
 
@@ -141,7 +144,7 @@ This last part is about the business rather than your trip, and it decides what 
 | Share individually owned | about 80 percent |
 | Bed cap set in late 2017 | about 10,000, since drifted past |
 | Payback period | stretched from 3 to 5 years out to 5 to 8 |
-| Labor, as a share of revenue | 30 to 40 percent |
+| Labour, as a share of revenue | 30 to 40 percent |
 | Consolidation, March 2025 | Trip.com took 67.04 percent of Dalezhiye: 28 properties, 556 rooms, average rate about RMB 1,300 |
 
 > Occupancy and ownership figures, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.

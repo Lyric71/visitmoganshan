@@ -12,12 +12,12 @@ image_alt: Bamboo covered ridges above a village of grey tiled roofs in the vall
 word_count: 1597
 author: cyril-drouin
 published: 2026-08-05
-last_updated: 2026-08-07
+last_updated: 2026-10-05
 ---
 
 # What and where Moganshan is
 
-Moganshan is a mountain in Deqing County, part of Huzhou prefecture, in Zhejiang Province, China. It stands about 60 km north of Hangzhou and somewhere between 200 and 240 km from Shanghai. The main peak, Tashan, is 719 to 720 meters high. Bamboo covers more than 92 percent of the slopes.
+Moganshan is a mountain in Deqing County, part of Huzhou prefecture, in Zhejiang Province, China. It stands about 60 km north of Hangzhou and somewhere between 200 and 240 km from Shanghai. The main peak, Tashan, is 719 to 720 metres high. Bamboo covers more than 92 percent of the slopes.
 
 In Chinese it is 莫干山, written in English as Moganshan or Mount Mogan. That is the geographic answer, and it belongs at the top, because the name causes real confusion online.
 
@@ -72,7 +72,7 @@ Most visitors sleep in a village, not on the peak. All of these sit in Moganshan
 | Village | Chinese | What it is |
 |---|---|---|
 | Yucun | 庾村 | The main hub at the foot of the mountain. Square, market, restaurants, the 1932 culture park, and the main scenic-area gateway. |
-| Xiantan | 仙潭村 | Northern foot. The densest guesthouse village: about 135 minsu in a village of under 2,000 people, roughly 90 percent locally run. |
+| [Xiantan](/moganshan/villages/xiantan/) | 仙潭村 | Northern foot. The densest guesthouse village: more than 150 minsu in a village of about 2,000 people, roughly 90 percent locally run in 2019. |
 | Laoling | 劳岭村 | South side. Reservoir, kayaking, cycling. One of the first farmstay clusters. |
 | Sanjiuwu | 三九坞 | Where naked Home Village opened in 2007. |
 | Houwu | 后坞 | Quiet, on the west side, about 30 minutes from Yucun. |
@@ -117,7 +117,7 @@ Tatler Asia calls Moganshan "the Hamptons of China". The New York Times put it o
 
 ## Getting there, briefly
 
-High-speed trains reach Deqing in 63 to 80 minutes from Shanghai Hongqiao, and in 13 to 17 minutes from Hangzhou East. From there you cover the last stretch by shuttle bus or taxi, about 30 to 40 minutes. If you are heading into the core scenic area, you then change vehicles again at one of three transfer centers: Yucun, Fatou or Houwu. They run 08:00 to 18:00.
+High-speed trains reach Deqing in 63 to 80 minutes from Shanghai Hongqiao, and in 13 to 17 minutes from Hangzhou East. From there you cover the last stretch by shuttle bus or taxi, about 30 to 40 minutes. If you are heading into the core scenic area, you then change vehicles again at one of three transfer centres: Yucun, Fatou or Houwu. They run 08:00 to 18:00.
 
 Full routes, fares and door-to-door estimates are on the [getting here](/getting-here/) page.
 

@@ -12,7 +12,7 @@ image_alt: A steep, rough stone staircase climbing into mist through a bamboo fo
 word_count: 1056
 author: liyan-ye
 published: 2026-08-07
-last_updated: 2026-10-02
+last_updated: 2026-10-05
 ---
 
 # Ultra-Trail Mogan by UTMB
@@ -43,7 +43,7 @@ The organizer has the course. What follows is the ground it runs over.
 
 ![A steep rooted forest trail climbing a mountain shoulder with a runner far ahead](/images/guide/things-to-do-utmb-mogan-2.webp 'The ground is steep, stepped and often wet. It is a climbing course, not a fast one.')
 
-The high point is Tashan, at 719 to 720 meters. The 758 m you may see quoted is wrong. Nothing here is alpine. Nobody blows up on altitude, and a road is never far.
+The high point is Tashan, at 719 to 720 metres. The 758 m you may see quoted is wrong. Nothing here is alpine. Nobody blows up on altitude, and a road is never far.
 
 Over 92 percent of the mountain is forest, nearly all of it moso bamboo, a commercial crop cut for poles and dug for shoots. About 20 km² of that is the core scenic area, threaded by stone paths and steps laid from the 1890s to move summer families between villas.
 
@@ -68,12 +68,15 @@ The harder problem is not the running. Before anyone adds a race, this mountain 
 | High-end occupancy, May 2024 holiday | 94 percent |
 | Yucun footfall, National Day 2025 | 30 to 40 percent above normal |
 | Guesthouses around the mountain, September 2025 | about 1,000 |
-| Of those, in Xiantan village | about 135 |
+| Of those, in Xiantan village | more than 150 (166 in June 2023) |
 | Mid-range room, off-season | RMB 300 to 500 |
 | Mid-range room, peak | RMB 1,000 or more |
 | The quiet day | Monday |
 
 > Holiday occupancy, footfall, guesthouse counts and room rates, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
+
+> 166 guesthouses in Xiantan, People's Daily (人民日报), 12 June 2023, tier 2.
+> https://www.crnews.net/zt/srxxzjqwgcjy/zqbwjsyy/955610_20230612122458.html
 
 That looks like plenty until a race weekend meets a holiday weekend.
 
@@ -89,14 +92,14 @@ Two clocks run against you.
 
 | Deadline | What it is |
 |---|---|
-| 16:00 | Last Y1 shuttle from Deqing Coach Center. RMB 10, 30 to 40 minutes, seven daily |
-| 08:00 to 18:00 | Transfer centers at Yucun, Fatou and Houwu. Private cars cannot enter the scenic area |
+| 16:00 | Last Y1 shuttle from Deqing Coach Centre. RMB 10, 30 to 40 minutes, seven daily |
+| 08:00 to 18:00 | Transfer centres at Yucun, Fatou and Houwu. Private cars cannot enter the scenic area |
 
 Those hours decide when your race day can start and end.
 
-> Y1 timings and transfer center hours, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
+> Y1 timings and transfer centre hours, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-A taxi is about RMB 100 and 30 minutes, and still cannot get you past a shut transfer center. Arrive after 18:00 the night before a race and you spend it solving a problem. Send your guesthouse the train number before you travel, not after.
+A taxi is about RMB 100 and 30 minutes, and still cannot get you past a shut transfer centre. Arrive after 18:00 the night before a race and you spend it solving a problem. Send your guesthouse the train number before you travel, not after.
 
 Scenic-area tickets are charged, and published prices disagree.
 

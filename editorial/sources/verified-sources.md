@@ -974,6 +974,155 @@ primary research, <dates>". -->
 * Used in: moganshan-red-leaves
 * Notes: logged as a cross reference so the red leaves use is on record; the figures themselves are in the existing entries.
 
+### Spartan Race Moganshan 2026, days, courses and registration window
+* Value: 2026斯巴达勇士赛莫干山站 on Saturday 7 and Sunday 8 November 2026 at 莫干山国际旅游度假区, Deqing; registration open (报名中), closing 2026-10-31 23:59:59, first come first served while places last (先报先得，额满即止); four courses, 5 km with 20 obstacles, 10 km with 25, 21 km with 30, 50 km with 60; 50 km starts 7 November only, 08:30 elite and 09:00 age group; waves from 08:30 on both days, the last at 15:00 on 7 November; elite and age group categories on the 21 km and 50 km only; no entry fee shown (the fee fields read 0.00); organiser text mentions the Moganshan only bamboo carry obstacle (毛竹搬运) from earlier editions
+* As of: 3 October 2026
+* Source: 最酷 (Zuicool), the registration platform, event page and registration page
+* Tier: 3 (authoritative for a race date and for whether registration is open, per `news/CLAUDE.md`)
+* URL: https://reg.zuicool.com/11858 (event page https://zuicool.com/event/51279)
+* Verified 1: 2026-10-03 (event page read whole, then the registration page for the closing time)
+* Verified 2: 2026-10-03 (registration page fetched again after the quality pass: 报名中, 2026年11月7日星期六 ~ 2026年11月8日星期日, 2026年10月31日 23:59:59, the 50 km start times and 毛竹搬运 present)
+* Shelf life: until 8 November 2026; reconfirm two weeks out (fixture row, 24 October)
+* Used in: news item spartan-race-moganshan-set-for-7-and-8-november
+* Notes: the page names no start village, course map, spectator area or fee. The children's race reported by Deqing News is not listed.
+
+### Spartan Race Moganshan 2025 turnout and the 2026 return, county figure
+* Value: the Spartan and Moganshan partnership in its third year; last year's race brought more than 2,000 families and more than 4,000 participants to the resort (超过2000组家庭及4000余名参与者); the Spartan Race and children's race return to the resort in November 2026
+* As of: 3 September 2026
+* Source: 德清新闻网 (Deqing News), reporter Chen Mingyue (陈明月)
+* Tier: 2
+* URL: https://dqnews.zjol.com.cn/dqnews/system/2026/09/03/035284274.shtml
+* Verified 1: 2026-09-07 (read for the Spartan base item)
+* Verified 2: 2026-10-03 (fetched again, GB18030 page: 第三年, 超过2000组家庭及4000余名参与者, 今年11月 and 儿童赛 present)
+* Shelf life: the turnout is the county's figure for the 2025 race, cite as such; the November return is superseded by the registration page for the days
+* Used in: news items spartan-moganshan-base-opens-in-october and spartan-race-moganshan-set-for-7-and-8-november
+* Notes: a county figure, not an independent count; both items say so.
+
+### Xiantan in 2019: area, people, 135 guesthouses, local operators, pools and discounting
+* Value: Xiantan (仙潭村), on the northern foot of Moganshan, 11.8 km², under 2,000 people (不到2000人), 135 guesthouses (开出了135家民宿), 90 percent run by locals and 80 percent opened by returning villagers; at least 20 new guesthouses a year after 大乐之野 opened in 2013, the first "in the real sense"; before that villagers set out round tables (圆台面) for passing visitors; most Moganshan guesthouse pools small and shallow, not much bigger than a bath; some owners discounting RMB 1,000 rooms to RMB 500; Shen Jiangrong (沈蒋荣) against a glass walkway because more than 30 coaches would end the quiet, "our biggest selling point"
+* As of: April 2019
+* Source: Shanghai Observer (上观新闻), reporters 于量, 孔令君, 张骥鸿
+* Tier: 2
+* URL: https://www.shobserver.cn/wx/detail.do?id=142561
+* Verified 1: 2026-10-04 (page read in Chinese; 不到2000人, 开出了135家民宿, 90%由当地人经营, 11.8平方公里, 圆台面, 玻璃栈道, 最大的卖点, 比浴缸大不了多少 and 2019-04-03 present)
+* Verified 2: 2026-10-04 (fetched again after the draft, every string still present)
+* Shelf life: semi-stable, 6 months; the counts are 2019 counts and are cited only as such
+* Used in: xiantan
+* Notes: this is the origin of the "about 135 guesthouses in a village under 2,000" line that 19 site pages print as current. Later counts are in the next three entries.
+
+### Xiantan in 2021: 158 guesthouses, 2,100 residents, restaurants and cafés
+* Value: 158 guesthouses (158家民宿); 10 restaurants, 5 farms, 2 cafés and 1 milk tea shop; resident population over 2,100 (常住人口已达2100多), up from under 1,000 before guesthouses; 572 households, about 80 percent earning from guesthouses; a stream side footpath (人行步道) laid that year; 3A scenic village; Mofan (莫梵) opened 1 May 2015
+* As of: November 2021
+* Source: The Paper (澎湃新闻), reporter 彭艳秋
+* Tier: 2
+* URL: https://www.thepaper.cn/newsDetail_forward_15128835
+* Verified 1: 2026-10-04 (read on the Tencent relay and the original; 莫干山北麓, 158家民宿, 2100多, 人行步道, 咖啡馆2家, 2021-11-11 present)
+* Verified 2: 2026-10-04 (original fetched again; the same strings and 农场5家 present)
+* Shelf life: semi-stable, 6 months; dated counts
+* Used in: xiantan
+
+### Xiantan in 2023: 166 guesthouses, visitors, restaurants, the art museum
+* Value: 160 plus and 166 guesthouses (166家特色精品民宿); about 150,000 visitors a year (年接待游客15万人次, the village's own figure, not a bureau count); 10 restaurants, 7 cafés, 3 tent camps; the art museum, 文杏里 bookroom and an outdoor centre opened in 2023; a thousand year yew; Xiantan markets with Nanlu and Sihe as 大仙潭
+* As of: June 2023
+* Source: People's Daily (人民日报), reporters 罗珊珊 and 窦瀚洋, relayed by China Rural (中国农网)
+* Tier: 2
+* URL: https://www.crnews.net/zt/srxxzjqwgcjy/zqbwjsyy/955610_20230612122458.html
+* Verified 1: 2026-10-04 (166家, 160多家, 15万人次, 7家咖啡馆, 餐厅10家, 仙潭美术馆, 千年的红豆杉, 大仙潭 present)
+* Verified 2: 2026-10-04 (fetched again, every string present)
+* Shelf life: semi-stable, 6 months; the visitor figure is a village figure and is printed with that label
+* Used in: xiantan
+
+### Xiantan art museum and the Da Xiantan count, 2024
+* Value: "大仙潭村" with more than 150 guesthouses (150多家民宿); the Xiantan art museum (仙潭美术馆), 850 m² on three floors, its resident artist 邓辉华 showing more than 30 works over National Day 2024
+* As of: October 2024
+* Source: Xinmin Evening News (新民晚报), on Tencent News
+* Tier: 2
+* URL: https://view.inews.qq.com/a/20241008A046CM00
+* Verified 1: 2026-10-04 (150多家民宿的大仙潭村, 850平米, 三层, 30多幅 present)
+* Verified 2: 2026-10-04 (fetched again, every string present)
+* Shelf life: semi-stable, 6 months
+* Used in: xiantan
+* Notes: the county's own notice (deqing.gov.cn, 19 April 2023, 莫干山镇又添文化地标, about 855 m² and a 2,000 m² flower field) timed out; covered by the standing watch row for tier 1 notices behind a block.
+
+### Moganshan guesthouses: Xiantan's growth, the pool, occupancy and price cutting
+* Value: seven guesthouses in Xiantan when Mofan opened, more than 120 two years later, the most of any village in Moganshan town; Mofan built for RMB 2.6 million with nine rooms; its 26 year old manager: the family built the first pool here "and now it's standard"; houses alike in architecture, decoration and activities; Moganshan average guesthouse occupancy about 70 percent before 2021 and about 55 percent in 2024 (公开资料显示, no source named); price wars since 2024; one owner: thinner margins leave no money for upkeep
+* As of: March 2025
+* Source: Xinhua Daily Telegraph (新华每日电讯), on Xinhua (新华网)
+* Tier: 2
+* URL: http://www.news.cn/local/20250319/6f3d6119568c45df9f68e7585d6a97c8/c.html
+* Verified 1: 2026-10-04 (只有7家民宿, 120多家, 民宿最多的村, 现在成了标配, 70%, 55%左右, 价格战, 大同小异 present)
+* Verified 2: 2026-10-04 (fetched again, every string present)
+* Shelf life: semi-stable, 6 months; the occupancy figures are Xinhua's, with no named source, and are printed that way
+* Used in: xiantan
+
+### Biwu Dragon Pool run and ticketed by a county company since late 2023
+* Value: since the second half of 2023 德供文旅, under the Deqing County supply and marketing cooperative, has spent more than RMB 8 million on Biwu Dragon Pool (碧坞龙潭) and the Nanlu weir; tickets sold as agent through Douyin, Kuaishou, Meituan and Ctrip (代理售票); about 85,000 visitors in 2024, over 60 percent from Hangzhou and Shanghai (the operator's figure); revenue over RMB 3 million
+* As of: March 2025
+* Source: Deqing News (德清新闻网), chief reporter 倪忆雪
+* Tier: 2
+* URL: http://dqnews.zjol.com.cn/dqnews/system/2025/03/13/034904107.shtml
+* Verified 1: 2026-10-04 (page decoded as GB18030; 2023年下半年, 800余万元, 代理售票, 8.5万人, 携程 present)
+* Verified 2: 2026-10-04 (fetched again, every string present)
+* Shelf life: volatile for the ticketing, 3 months
+* Used in: xiantan
+* Notes: no tier 1 or 2 source prints a ticket price. Every figure found (RMB 38, 40, 60, 80 to 120) is an OTA or a content farm and is not used.
+
+### Xiantan's reading room, screenwriters and breakfast café, 2026
+* Value: Xiantan called "莫干山民宿第一村"; guesthouses grew from none to 100 plus after 2013; more than 30 screenwriters (30多位知名编剧) under the 莫干山编剧村 sign; the old village school now 甲野书房·文杏里; the 北野 café serving breakfast
+* As of: March 2026
+* Source: China News Service (中国新闻网), 胡丰盛
+* Tier: 2
+* URL: https://www.chinanews.com.cn/sh/2026/03-03/10580234.shtml
+* Verified 1: 2026-10-04 (read on the Sina relay and the original; every string present)
+* Verified 2: 2026-10-04 (original fetched again, every string present)
+* Shelf life: semi-stable, 6 months
+* Used in: xiantan
+
+### The 15 km spring walk from Houwu or Xiantan to Yucun, and Xiantan's rapeseed field
+* Value: route 2 of the 2019 spring walks, 杜鹃花 (15公里): 后坞村（或仙潭村）, 天泉山, 怪石角, 大坑, 中华山, 芦花荡公园, 剑池 (蒋公道), 庾村广场; Xiantan's rapeseed field a viewing spot in the same programme
+* As of: April 2019
+* Source: Zhejiang Online (浙江在线), Huzhou channel
+* Tier: 2
+* URL: https://huzhou.zjol.com.cn/qy/dqx18223/201904/t20190405_9837182.shtml
+* Verified 1: 2026-10-04 (15公里, the full route string, 庾村广场, 仙潭村的油菜花海, 蒋公道 present)
+* Verified 2: 2026-10-04 (fetched again, every string present)
+* Shelf life: evergreen for the route as published; the piece calls it a desk route
+* Used in: xiantan
+
+### Fishman's Xiantan weekend, June 2023
+* Value: chose "sleepy Xiantan Village" over Yu Village, "the lively town seat", for quiet; Xiantan "just around 2000 people"; Moganshan "around 10km away"; his host opened in 2003 as the fifth villager to do so, in the old Biwu village since merged into Xiantan, and renamed the house 郎为乔木; the Biwu Longtan path had "no ticket gate, and no entrance fee"
+* As of: July 2023 (visit in June 2023)
+* Source: David Fishman, Crossing the River by Feeling the Stones (Substack)
+* Tier: 3
+* URL: https://www.feelingthestones.com/p/weekend-getaways-perfected-escaping
+* Verified 1: 2026-10-04 (every quoted string and datePublished 2023-07-05 present; curl needs --ssl-no-revoke on this machine)
+* Verified 2: 2026-10-04 (fetched again, every string present)
+* Shelf life: reported experience, cite as dated; the free entry is superseded by the Deqing News 2025 entry above
+* Used in: xiantan
+
+### Xiantan listings in the captured Trip.com set
+* Value: of 809 captured listings, 114 give a Xiantan address and 15 more only the old Biwu name (129); by part of the village Biwu 33, Langjia 19, the Xiaoyu road 7, another named hamlet 29, a group number or the village name only 41; 98 list a restaurant, 55 an outdoor pool, 4 hot springs; Liaoyuan, Yucun's administrative village, 73; two listings named for Xiantan give addresses in Daixi, Wuxing District
+* As of: August 2026
+* Source: BeyondBorder Group Ltd primary research, captured 8 August 2026, compiled 4 October 2026 (data/raw/*.json)
+* Tier: own
+* URL: none (repository data)
+* Verified 1: 2026-10-04 (counted by script from the captures)
+* Verified 2: 2026-10-04 (counted again with the final address rules)
+* Shelf life: until the next capture
+* Used in: xiantan
+
+### Kailas shuttle and the three transfer centres, reused for the Xiantan piece
+* Value: see the Deqing News entries of 24 June 2025 (the Kailas line from Biwu Dragon Pool at Xiantan, weekends and holidays May to October 2025, 08:00 to 17:40, RMB 5) and 30 September 2019 (transfer centres at Yucun, Fatou and Houwu) above
+* As of: June 2025 and September 2019
+* Source: Deqing News (德清新闻网)
+* Tier: 2
+* URL: https://dqnews.zjol.com.cn/dqnews/system/2025/06/24/034991600.shtml and https://dqnews.zjol.com.cn/dqnews/system/2019/09/30/031939856.shtml
+* Verified 1: as logged above
+* Verified 2: 2026-10-04 (both fetched again; 凯乐石号, 5元, 17:40, 5月至10月每周六、周日及节假日, 碧坞龙潭; 庾村, 筏头, 后坞 present)
+* Shelf life: volatile, 3 months from this check
+* Used in: xiantan
+* Notes: logged as a cross reference so the Xiantan use is on record.
+
 ## Retired
 
 <!-- Entries past their shelf life that were replaced. Kept for the record. -->

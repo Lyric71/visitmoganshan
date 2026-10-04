@@ -706,10 +706,10 @@ CN sources: 游侠客; 换乘中心 signage
 CN sources: 腾讯 秋色红叶攻略; 德清新闻网  
 > Publish 6 weeks before peak. Peak is late November into early December: the festival opened 1 Nov 2023, 12 Nov 2024 and 18 Nov 2025, and in 2025 the best colour arrived in December. Queen's Hotel, Xuguang terrace, Wulingcun, the villa gardens. The bureau counts 10,000+ maples with the oldest over 500 years but names no tree; the Villa 62 '500-year maple' is one 2021 Tencent trip account, and Tide News (Dec 2025) calls the Villa 62 tree a hundred year maple.
 
-**8 · 5 Oct · P2 Villages** · Xiantan: the village with 135 guesthouses  
+**8 · 5 Oct · P2 Villages** · Xiantan: the guesthouse village, and whether to stay there rather than Yucun  
 `xiantan village moganshan` · 1,600w · `go/stays-village-xiantan`  
-CN sources: 新华网 德清; Feeling the Stones Substack  
-> The homestay capital. Fishman's reporting says stay here, not Yucun. Test that claim.
+CN sources: 新华网 德清; Feeling the Stones Substack; 上观新闻 2019; 澎湃新闻 2021; 人民日报 2023  
+> The homestay capital. Fishman's reporting says stay here, not Yucun. Test that claim. The 135 guesthouse figure is the Shanghai Observer's count of 3 April 2019; later tier 2 counts are 158 (The Paper, 2021) and 166 (People's Daily, 2023). Print the series with dates, never 135 as current.
 
 **9 · 8 Oct · P1 Practicals** · Paying for things on Moganshan: Alipay, WeChat Pay, and whether cash still works  
 `alipay foreign card china / moganshan payments` · 1,400w · no affiliate  

@@ -12,7 +12,7 @@ image_alt: A weekend bag on a guesthouse terrace above bamboo ridges on a Saturd
 word_count: 1769
 author: echo-peng
 published: 2026-08-06
-last_updated: 2026-10-02
+last_updated: 2026-10-05
 ---
 
 # A weekend in Moganshan from Shanghai
@@ -40,9 +40,9 @@ The train is the easy part. Thirteen direct services a day run from Hongqiao to 
 
 ![A crowded evening station concourse with motion blurred commuters](/images/guide/itineraries-weekend-from-shanghai-2.webp 'The Friday train is the easy clock. The transfer at the other end is the one that decides your evening.')
 
-Clock one is the Y1 tourist shuttle from the Deqing Coach Center. Seven departures a day, and the last one leaves at 16:00.
+Clock one is the Y1 tourist shuttle from the Deqing Coach Centre. Seven departures a day, and the last one leaves at 16:00.
 
-Clock two is the transfer centers. No private vehicle goes inside the scenic area, so everyone changes at Yucun, Fatou or Houwu, and those three run 08:00 to 18:00.
+Clock two is the transfer centres. No private vehicle goes inside the scenic area, so everyone changes at Yucun, Fatou or Houwu, and those three run 08:00 to 18:00.
 
 Your Friday comes down to which of the two you can still catch.
 
@@ -50,11 +50,11 @@ Your Friday comes down to which of the two you can still catch.
 |---|---|---|
 | By about 14:30 | About 15:45 | The 16:00 Y1 shuttle, RMB 10 |
 | By about 16:00 | About 17:15 | Taxi only, about RMB 100, but you clear the 18:00 transfer window |
-| 17:39 (G1419) | 18:42 | Taxi only. Transfer centers closed |
+| 17:39 (G1419) | 18:42 | Taxi only. Transfer centres closed |
 
 The itinerary below uses the third row, because that is the train people leaving an office catch. It works, so long as your bed is not inside the scenic area, and very few are. A taxi reaches the door in 30 minutes for RMB 100.
 
-> Train times, shuttle departures and transfer-center hours, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
+> Train times, shuttle departures and transfer centre hours, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
 A second Friday warning, and it is about food. Chinese domestic reporting records no evening economy in these villages: no night market, little late-night food. Arrive at 19:30 and the village is shut. Send the guesthouse your train number and ask them to hold dinner.
 
@@ -77,11 +77,11 @@ The times assume the G1419 out and a Sunday afternoon return. Treat it as a shap
 |---|---|
 | 07:30 | A bamboo path near the village, before the day buses |
 | 09:00 | Breakfast |
-| 09:45 | Your nearest transfer center, most likely Yucun. They open at 08:00 |
+| 09:45 | Your nearest transfer centre, most likely Yucun. They open at 08:00 |
 | 10:15 | The villa streets and Sword Pond |
 | 12:30 | Lunch in Yucun, at the square or the 1932 culture park |
 | 14:00 | Luhuadang Park, or the Bai and Yun Art Museum |
-| 17:00 | Out through the transfer center before 18:00 |
+| 17:00 | Out through the transfer centre before 18:00 |
 | 19:00 | Dinner at your guesthouse |
 
 ### Sunday
@@ -95,7 +95,7 @@ The times assume the G1419 out and a Sunday afternoon return. Treat it as a shap
 | 15:00 | Train to Hongqiao |
 | 16:30 | Home |
 
-The Saturday 17:00 line is not padding. The transfer centers stop at 18:00 wherever you are standing. Check the Sunday evening timetable out of Deqing on a booking app before you go, and hold a seat on it.
+The Saturday 17:00 line is not padding. The transfer centres stop at 18:00 wherever you are standing. Check the Sunday evening timetable out of Deqing on a booking app before you go, and hold a seat on it.
 
 ## What to do with Saturday
 
@@ -161,7 +161,7 @@ On a two-night trip the village matters more than the guesthouse.
 | Village | What it gives you over two nights |
 |---|---|
 | Yucun | The hub at the foot of the mountain. Square, market, main gateway, shortest transfers |
-| Xiantan | The densest guesthouse village, on the north side: about 135 minsu among under 2,000 residents |
+| [Xiantan](/moganshan/villages/xiantan/) | The densest guesthouse village, on the north side: more than 150 minsu among about 2,000 residents |
 | Houwu | Quieter, about 30 minutes out. On a short trip that is time spent twice |
 
 A minsu is a small, owner-run guesthouse. Staying near Yucun saves transfer time on both days. On a short trip that beats quiet. See [where to stay](/where-to-stay/) and [getting around Moganshan](/getting-here/getting-around/).
@@ -177,4 +177,4 @@ A minsu is a small, owner-run guesthouse. Staying near Yucun saves transfer time
 
 The place exists because of that summer gap. More in [seasons](/seasons/).
 
-*Train times, shuttle departures, transfer-center hours and room-rate bands were verified on 5 August 2026. Ticket prices conflict across sources and change by season, so confirm at booking.*
+*Train times, shuttle departures, transfer centre hours and room-rate bands were verified on 5 August 2026. Ticket prices conflict across sources and change by season, so confirm at booking.*

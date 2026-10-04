@@ -12,7 +12,7 @@ image_alt: A film camera, a stack of unlabeled prints and an open blank notebook
 word_count: 1120
 author: cyril-drouin
 published: 2026-08-07
-last_updated: 2026-08-08
+last_updated: 2026-10-05
 ---
 
 # The Moganshan journal
@@ -50,7 +50,7 @@ The journal is the other half. Moganshan stories do not fit a planning page: the
 | Interviews | Guesthouse owners, hoteliers and officials, in their own words |
 | News | Dated items: openings, closures, timetable and rule changes |
 
-The interview list starts in Xiantan, where about 135 guesthouses serve fewer than 2,000 residents, nine in ten of them locally run.
+The interview list starts in [Xiantan](/moganshan/villages/xiantan/), where more than 150 guesthouses serve about 2,000 residents, nine in ten of them locally run when last counted in 2019.
 
 News gets its own index at [Moganshan news](/journal/news/), so a reader checking whether the Y1 shuttle still leaves at 07:30 need not scroll past an essay. News here is narrow: something changed, and the change carries a date. A restated press release does not qualify.
 

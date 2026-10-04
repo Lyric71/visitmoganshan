@@ -12,7 +12,7 @@ image_alt: A visitor holding a ticket at the entry barrier of the Moganshan scen
 word_count: 1760
 author: cyril-drouin
 published: 2026-08-06
-last_updated: 2026-10-02
+last_updated: 2026-10-05
 ---
 
 # Moganshan tickets and entry
@@ -23,7 +23,7 @@ The ticket on this page is for a mountain: Moganshan, in Deqing County, Huzhou p
 
 Then the question nobody asks first. Plenty of people who come here never buy one.
 
-The villages sit at the foot of the mountain, and so do almost all of the roughly 1,000 guesthouses. Xiantan alone holds about 135 in a village of under 2,000 people. The restaurants are down there too. What the ticket covers is the protected core above, the Moganshan National Scenic Area, and you can spend a whole weekend below it without ever needing one.
+The villages sit at the foot of the mountain, and so do almost all of the roughly 1,000 guesthouses. [Xiantan](/moganshan/villages/xiantan/) alone holds more than 150 in a village of about 2,000 people. The restaurants are down there too. What the ticket covers is the protected core above, the Moganshan National Scenic Area, and you can spend a whole weekend below it without ever needing one.
 
 ## Do you actually need a ticket?
 

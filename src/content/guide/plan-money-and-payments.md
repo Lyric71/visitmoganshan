@@ -12,7 +12,7 @@ image_alt: A phone showing a payment code propped on the wooden counter of a vil
 word_count: 1752
 author: cyril-drouin
 published: 2026-08-06
-last_updated: 2026-08-08
+last_updated: 2026-10-05
 ---
 
 # Paying for things in China as a visitor
@@ -66,7 +66,7 @@ Do this at home, while you still have your usual phone signal and your bank's nu
 |---|---|---|
 | 1 | Install Alipay, WeChat or both | Two weeks out |
 | 2 | Bind a card from your own bank inside the app | Same day you install |
-| 3 | Tell your bank you are traveling to China | Same week you install |
+| 3 | Tell your bank you are travelling to China | Same week you install |
 | 4 | Make one small test payment at home | As soon as the card binds |
 | 5 | Get some RMB cash as a backup | Before you leave, or at the airport |
 | 6 | Carry your passport | Every day in China |
@@ -117,7 +117,7 @@ Cars stop at the scenic-area boundary, so you change to a shuttle at Yucun, Fato
 
 Money is only half of this anxiety. The other half is being turned away when you arrive.
 
-A joint directive of 24 May 2024 bars hotels from refusing a foreign guest for lack of a special license. It came jointly from the Ministry of Public Security, the Ministry of Commerce and the National Immigration Administration. The rule is not ambiguous. Refusals are reported in practice anyway.
+A joint directive of 24 May 2024 bars hotels from refusing a foreign guest for lack of a special licence. It came jointly from the Ministry of Public Security, the Ministry of Commerce and the National Immigration Administration. The rule is not ambiguous. Refusals are reported in practice anyway.
 
 The gap between the rule and the room is what you plan around. Ask in writing, before the deposit, whether the property can register a foreign passport. The question feels insulting to send. Send it anyway, because the version where you find out at the door is worse. Moganshan runs on minsu (民宿), small owner-run guesthouses, rather than hotels. [What a minsu is](/where-to-stay/minsu-explained/) explains why they vary so much on this.
 
@@ -151,7 +151,7 @@ Moganshan is rural, and its guesthouses are scattered across a set of villages.
 | Village | Where | What is there |
 |---|---|---|
 | Yucun | Foot of the mountain | Main hub. Market square and the scenic-area gateway |
-| Xiantan | North | About 135 guesthouses in a village of under 2,000 people, about 90 percent locally run |
+| [Xiantan](/moganshan/villages/xiantan/) | North | More than 150 guesthouses in a village of about 2,000 people, about 90 percent locally run in 2019 |
 | Laoling | South | Reservoir, kayaking, cycling |
 | Houwu | West | Quiet. About 30 minutes from Yucun |
 | Dazaowu | The most remote | Rice paddies and the Dadouwu reservoir |
@@ -159,7 +159,7 @@ Moganshan is rural, and its guesthouses are scattered across a set of villages.
 
 There were about 1,000 guesthouses across the area as of September 2025, roughly 80 percent individually owned.
 
-Ownership is the thing to hold on to. These are not chain properties with a head office standardizing the card terminal. Two guesthouses on the same lane can work nothing alike. Do not assume a terminal, and do not assume the one that exists takes your bank's card. [The villages](/moganshan/villages/) sets out which is which, and [where to stay](/where-to-stay/) sorts out the properties.
+Ownership is the thing to hold on to. These are not chain properties with a head office standardising the card terminal. Two guesthouses on the same lane can work nothing alike. Do not assume a terminal, and do not assume the one that exists takes your bank's card. [The villages](/moganshan/villages/) sets out which is which, and [where to stay](/where-to-stay/) sorts out the properties.
 
 Deqing knows how to host people. Its guesthouse sector takes over 7 million guests a year on revenue above RMB 3 billion. None of that means the owner of a small house in Dazaowu has ever seen a card from your bank.
 

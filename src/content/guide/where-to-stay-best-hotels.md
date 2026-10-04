@@ -12,7 +12,7 @@ image_alt: A plain guest room with white walls, a linen-covered bed and a window
 word_count: 1504
 author: echo-peng
 published: 2026-08-07
-last_updated: 2026-10-02
+last_updated: 2026-10-05
 ---
 
 # How to choose where to stay in Moganshan
@@ -33,7 +33,7 @@ For the record, this site sells no sponsored listings or featured placements, an
 
 What we can offer is a Moganshan hotel comparison built on five checkable things. Get them wrong and you rarely end up in a bad room. You end up in a fine room in the wrong village, on a night that cost double.
 
-## One: the village, and its distance from a transfer center
+## One: the village, and its distance from a transfer centre
 
 Moganshan is not a town with hotels in it. It is a mountain ringed by villages, and which one you book decides the day.
 
@@ -44,8 +44,8 @@ Mostly it comes down to dinner. Chinese reporting keeps landing on the same gap:
 | Village | The short version |
 |---|---|
 | Yucun (庾村) | The hub. Market, restaurants, main gateway |
-| Xiantan (仙潭村) | Northern foot, about 135 guesthouses |
-| Houwu (后坞) | West, 30 minutes out. Also a transfer center |
+| [Xiantan](/moganshan/villages/xiantan/) (仙潭村) | Northern foot, more than 150 guesthouses |
+| Houwu (后坞) | West, 30 minutes out. Also a transfer centre |
 | Wukang (武康) | County seat, 20 km off. Not the mountain |
 
 > Village profiles and guesthouse counts, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
@@ -59,14 +59,14 @@ Distance is one thing. Access is another, and this rule catches people out.
 | The rule | What it costs you |
 |---|---|
 | No private vehicle drives inside the scenic area | You change vehicles on the way in |
-| Three transfer centers: Yucun, Fatou and Houwu | The property you book decides which |
+| Three transfer centres: Yucun, Fatou and Houwu | The property you book decides which |
 | All three run 08:00 to 18:00 | Land at Deqing at seven and they shut an hour ago |
 
 Tickets cost extra and published prices disagree. They run from RMB 50 to RMB 130 depending on the source and season, and the most recent dated window price is RMB 80. [Moganshan tickets in 2026](/plan/moganshan-tickets-in-2026/) has every figure, so check when you book.
 
 > Ticket prices from conflicting sources, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-Two questions settle the rest: which transfer center serves the property, and does anyone meet guests. Shuttle times are on [getting around](/getting-here/getting-around/).
+Two questions settle the rest: which transfer centre serves the property, and does anyone meet guests. Shuttle times are on [getting around](/getting-here/getting-around/).
 
 ## Three: price, against what the market actually charges
 
@@ -115,16 +115,19 @@ For a Golden Week, book early and expect the peak band. At 94 percent the choice
 
 None of the five weighs the same for everyone. The third column is what you can leave to chance.
 
-| If you are | Prioritize | Worry less about |
+| If you are | Prioritise | Worry less about |
 |---|---|---|
 | First visit, no car, one night | Yucun, walking distance to gateway and food | Brand |
 | Arriving after 18:00 | Wukang, or a property that collects guests | The view on night one |
 | A couple, two or three nights | Half board, and what gets served | Key count |
 | A group of six or more | Key count, and whether one house holds you | Which village sounds better |
-| Going in a Golden Week | Booking date, then transfer center | Price band, set for you |
+| Going in a Golden Week | Booking date, then transfer centre | Price band, set for you |
 | On a budget, dates flexible | Midweek off season in Xiantan | Peak-season names |
 
-Xiantan earns its row on density. About 135 guesthouses among under 2,000 residents is the closest thing to price competition.
+Xiantan earns its row on density. More than 150 guesthouses among about 2,000 residents is the closest thing to price competition.
+
+> 166 guesthouses in Xiantan, People's Daily (人民日报), 12 June 2023, tier 2.
+> https://www.crnews.net/zt/srxxzjqwgcjy/zqbwjsyy/955610_20230612122458.html
 
 That table is the framework. The rest is vocabulary.
 

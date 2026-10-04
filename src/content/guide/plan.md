@@ -12,7 +12,7 @@ image_alt: An open planning notebook and a phone timetable on a train tray table
 word_count: 1676
 author: cyril-drouin
 published: 2026-08-06
-last_updated: 2026-10-02
+last_updated: 2026-10-05
 ---
 
 # Plan your trip to Moganshan
@@ -112,7 +112,7 @@ The names worth knowing, plus one that catches people out:
 | Four Seasons | 2030 | 90 | Announced 12 September 2025, Yu Village |
 | Crowne Plaza Deqing Moganshan | | About 340 | In Wukang town, 20 km away. Not on the mountain |
 
-Pick the village before the property, since that shapes the trip more than the room does. Yucun is the main hub, with the market square and the scenic-area gateway. Xiantan holds about 135 guesthouses in a village of under 2,000 people. Laoling has the reservoir and the cycling, and Houwu and Dazaowu are the quiet ones. [Where to stay](/where-to-stay/) sorts them out.
+Pick the village before the property, since that shapes the trip more than the room does. Yucun is the main hub, with the market square and the scenic-area gateway. [Xiantan](/moganshan/villages/xiantan/) holds more than 150 guesthouses in a village of about 2,000 people. Laoling has the reservoir and the cycling, and Houwu and Dazaowu are the quiet ones. [Where to stay](/where-to-stay/) sorts them out.
 
 > Guesthouse counts and rate bands, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
@@ -149,9 +149,9 @@ Everything above is bookable from a laptop. This part is not. The rule almost no
 
 Plan the day inside that window. An evening arrival at Deqing will not get you up the hill.
 
-> Private-vehicle rule and transfer-center hours, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
+> Private-vehicle rule and transfer centre hours, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-Count your transfers honestly. Even a smooth run from Shanghai means a train, then a 30 to 40 minute road leg before you reach a transfer center. Two swaps after the train is why a Shanghai day trip disappoints.
+Count your transfers honestly. Even a smooth run from Shanghai means a train, then a 30 to 40 minute road leg before you reach a transfer centre. Two swaps after the train is why a Shanghai day trip disappoints.
 
 Next to the room, getting here is close to free: the fares above are two figures, the bed three or four. Scenic-area tickets we cannot price, because the published figures conflict.
 

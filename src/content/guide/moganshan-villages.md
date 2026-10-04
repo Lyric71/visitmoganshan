@@ -12,7 +12,7 @@ image_alt: Tiled village rooftops at the foot of a bamboo ridge at Moganshan, wi
 word_count: 2091
 author: liyan-ye
 published: 2026-08-08
-last_updated: 2026-10-02
+last_updated: 2026-10-05
 ---
 
 # Yucun, Xiantan and Sanjiuwu: the villages below Moganshan
@@ -69,17 +69,24 @@ The second is newer. Four Seasons announced a 90 key resort on 12 September 2025
 
 If Yucun is the safe answer, Xiantan is the one with the most doors.
 
-Xiantan (仙潭村) sits on the northern foot and is the densest guesthouse village here: about 135 minsu inside a village of under 2,000 people, roughly 90 percent of them run by locals. A minsu (民宿) is a small guesthouse, usually run by the family that owns it.
+Xiantan (仙潭村) sits on the northern foot and is the densest guesthouse village here: more than 150 minsu inside a village of about 2,000 people. In 2019 roughly 90 percent of them were run by locals. A minsu (民宿) is a small guesthouse, usually run by the family that owns it.
 
 It is not a village with guesthouses in it. It is mostly guesthouses, with a village still attached.
 
-For you, that density is a price story. With 135 owners competing in one small place, the range widens. Off season, mid range rooms run RMB 300 to 500 a night. On a summer Saturday, or during a Golden Week, meaning the national holidays around 1 May and 1 October, the same room passes RMB 1,000. The local trade puts its top end threshold at RMB 1,500.
+For you, that density is a price story. With more than 150 owners competing in one small place, the range widens. Off season, mid range rooms run RMB 300 to 500 a night. On a summer Saturday, or during a Golden Week, meaning the national holidays around 1 May and 1 October, the same room passes RMB 1,000. The local trade puts its top end threshold at RMB 1,500.
 
-> Rate bands and Xiantan guesthouse figures, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
+> Rate bands, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
+
+> 166 guesthouses in Xiantan, People's Daily (人民日报), 12 June 2023, tier 2.
+> https://www.crnews.net/zt/srxxzjqwgcjy/zqbwjsyy/955610_20230612122458.html
+
+> 90 percent of Xiantan's guesthouses run by locals, Shanghai Observer (上观新闻),
+> 3 April 2019, tier 2.
+> https://www.shobserver.cn/wx/detail.do?id=142561
 
 The density has a cost nobody writes down. Ninety percent locally run also means lower odds of fluent English at the door than at the design led end of the market. Message the property before you pay and you will know inside a day.
 
-[What a minsu is](/where-to-stay/minsu-explained/) covers what booking one involves, including whether foreign guests are taken.
+[Xiantan on its own](/moganshan/villages/xiantan/) has the rest: the count year by year, what is free and what is now ticketed, the walk to Yucun, and who should base there. [What a minsu is](/where-to-stay/minsu-explained/) covers what booking one involves, including whether foreign guests are taken.
 
 ## Sanjiuwu, where the foreign founded trade started
 
@@ -117,7 +124,7 @@ The biggest variable is the car.
 | Family with young children | Yucun or Laoling | Yucun for food and short transfers, Laoling for water and bikes |
 | Couple wanting quiet | Houwu or Dazaowu | Quiet, paid for with your evenings |
 | The foreign founded end | Sanjiuwu | Where the yangjiale trade began in 2007 |
-| Choice and price competition | Xiantan | About 135 guesthouses in one village |
+| Choice and price competition | [Xiantan](/moganshan/villages/xiantan/) | More than 150 guesthouses in one village |
 | Group taking a whole house | Xiantan or Laoling | The most properties, so the most owners to ask |
 | Arriving after 18:00 | Wukang | Transfer centres shut. Sleep in the county town, go up in the morning |
 

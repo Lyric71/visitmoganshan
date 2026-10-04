@@ -12,12 +12,12 @@ image_alt: Bamboo covered ridges rolling away north of Hangzhou under a low morn
 word_count: 976
 author: cyril-drouin
 published: 2026-08-06
-last_updated: 2026-08-07
+last_updated: 2026-10-05
 ---
 
 # Where is Moganshan?
 
-Moganshan is a mountain in Deqing County, Huzhou prefecture, Zhejiang Province, China. It stands about 60 km north of Hangzhou and 200 to 240 km from Shanghai. The main peak, Tashan, is 719 to 720 meters high.
+Moganshan is a mountain in Deqing County, Huzhou prefecture, Zhejiang Province, China. It stands about 60 km north of Hangzhou and 200 to 240 km from Shanghai. The main peak, Tashan, is 719 to 720 metres high.
 
 In Chinese it is 莫干山, sometimes written Mount Mogan. On a map, start at Hangzhou and move north into the hills.
 
@@ -40,7 +40,7 @@ Chinese addresses stack from the province down, and sites quote whichever layer 
 
 If a booking form asks you for a city, use Huzhou or Deqing.
 
-Most sources put Tashan at 719 to 720 meters. A few say 758. We use the lower figure. By Chinese standards, that is a hill. What brings people up is the temperature: July and August average 24.1 °C, 6 to 7 °C cooler than Shanghai and Hangzhou.
+Most sources put Tashan at 719 to 720 metres. A few say 758. We use the lower figure. By Chinese standards, that is a hill. What brings people up is the temperature: July and August average 24.1 °C, 6 to 7 °C cooler than Shanghai and Hangzhou.
 
 ## How far Moganshan is from Shanghai and Hangzhou
 
@@ -53,7 +53,7 @@ Almost everyone starts in one of those two cities, and neither is close.
 | Hangzhou | 60 to 63 km | about 1.5 hours | Hangzhou East to Deqing, 13 to 17 min, 16 a day |
 | Shanghai | 200 to 240 km | 2 to 3 hours | Hongqiao to Deqing, 63 to 80 min, 13 direct a day |
 
-Neither is the whole trip. Rail reaches Deqing station, not the foot of the mountain: another 30 to 40 minutes of shuttle or taxi follows. The shuttle is the Y1, RMB 10, seven a day. A taxi runs about RMB 100. Private vehicles stop at the edge of the core scenic area, where you change again at one of three transfer centers: Yucun, Fatou and Houwu. Scenic-area tickets are separate from all of that, and published prices conflict, so check at booking.
+Neither is the whole trip. Rail reaches Deqing station, not the foot of the mountain: another 30 to 40 minutes of shuttle or taxi follows. The shuttle is the Y1, RMB 10, seven a day. A taxi runs about RMB 100. Private vehicles stop at the edge of the core scenic area, where you change again at one of three transfer centres: Yucun, Fatou and Houwu. Scenic-area tickets are separate from all of that, and published prices conflict, so check at booking.
 
 Door to door is the useful figure. These are estimates, and a Friday afternoon in July runs longer than any of them.
 
@@ -99,7 +99,7 @@ The guesthouses are not on the peak. They sit in villages around the base.
 | Village | Where it is | What it is |
 |---|---|---|
 | Yucun | At the foot | The main hub, with the market square and the gateway |
-| Xiantan | North side | The densest, about 135 guesthouses among under 2,000 residents |
+| [Xiantan](/moganshan/villages/xiantan/) | North side | The densest, more than 150 guesthouses among about 2,000 residents |
 | Laoling | South side | Beside a reservoir |
 | Dazaowu | Outer edge | The most remote |
 

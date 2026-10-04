@@ -12,7 +12,7 @@ image_alt: The ticket barrier and shuttle bay at the entrance to the Moganshan c
 word_count: 1616
 author: liyan-ye
 published: 2026-08-06
-last_updated: 2026-10-02
+last_updated: 2026-10-05
 ---
 
 # Moganshan National Scenic Area
@@ -58,7 +58,7 @@ The split below decides where your day happens.
 | Inside the ticketed core | Outside it |
 |---|---|
 | Sword Pond (Jianchi) | Yucun, the main village at the foot: square, market, 1932 culture park |
-| Luhuadang Park | Xiantan, the guesthouse village on the north side, about 135 minsu |
+| Luhuadang Park | [Xiantan](/moganshan/villages/xiantan/), the guesthouse village on the north side, more than 150 minsu |
 | Dakeng | Laoling, Sanjiuwu, Houwu, Dazaowu |
 | The Xuguang sunrise platform | Almost all of the roughly 1,000 guesthouses |
 | Chiang Kai-shek's villa | Nearly all the restaurants and shops |

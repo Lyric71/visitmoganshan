@@ -12,7 +12,7 @@ image_alt: A small green shuttle bus rounding a bend on a road through dense bam
 word_count: 1516
 author: cyril-drouin
 published: 2026-08-05
-last_updated: 2026-10-02
+last_updated: 2026-10-05
 ---
 
 # Getting around Moganshan
@@ -96,7 +96,7 @@ Moganshan is not one settlement. It is a mountain with villages around it, each 
 | Village | Chinese | What it is |
 |---|---|---|
 | Yucun | 庾村 | Main hub at the foot. Market, restaurants, the main scenic area gateway. |
-| Xiantan | 仙潭村 | Northern foot. About 135 guesthouses in a village of under 2,000 people. |
+| [Xiantan](/moganshan/villages/xiantan/) | 仙潭村 | Northern foot. More than 150 guesthouses in a village of about 2,000 people. |
 | Laoling | 劳岭村 | South. Reservoir, kayaking, cycling. |
 | Sanjiuwu | 三九坞 | Where naked Home Village opened in 2007. |
 | Houwu | 后坞 | Quiet western village, about 30 minutes from Yucun. |

@@ -99,6 +99,7 @@ frontmatter, added by a person and drafted with `Draft brief B<date>.`
 | Date | Fixture | Source | Priority |
 |---|---|---|---|
 | 28 Sep 2026 | Golden Week programme drops, 7 to 10 days before each Golden Week | 德清发布 / 爱德清 / 潮新闻 | HIGH |
+| 24 Oct 2026 | Spartan Race Moganshan (斯巴达勇士赛莫干山站), 7 and 8 November 2026, registration closing 31 October: reconfirm the days two weeks out and look for the 德清县公安局交通警察大队 traffic notice for the race weekend. Yearly since 2024; the days for each edition come from the registration page | reg.zuicool.com/11858 (zuicool.com/event/51279), then 德清新闻网 | MEDIUM |
 | 25 Oct 2026 | Red maple season (红枫季) opening date; the three so far opened 1 November 2023, 12 November 2024 and 18 November 2025. A news item carries the date, and the same run adds it to `/seasons/moganshan-red-leaves/` | 莫干山管理局 via 德清新闻网 / 潮新闻 | HIGH |
 | 20 Jan 2027 | The 2027 race calendar: the annual sports presser publishes the full year in one article | 德清新闻网 `dqnews.zjol.com.cn/dqnews/xwzx/sznews/` | HIGH |
 | 27 Jan 2027 | Spring Festival programme drops, 7 to 10 days before the holiday | 德清发布 / 爱德清 | MEDIUM |
@@ -130,7 +131,7 @@ Facts with a known expiry, checked without waiting for news.
 | Shuttle hours and last bus down | Varies seasonally, extended to 21:30 in summer 2025 | Seasonally |
 | Moganshan Lodge operating status | Still listed by Lonely Planet and TripAdvisor, likely defunct | Once, then close out |
 | Spartan base at Jun An Li | Announced for Q4 2026 | Quarterly until confirmed trading |
-| Tier 1 notices behind a block | The car ban's 2018 launch notice and the transfer notice 《关于景区交通换乘的公告》 are cited from tier 2 and tier 4 copies because deqing.gov.cn timed out and zj-mgs.com returns 403 to every client; `/plan/private-car-ban-on-moganshan/` and `/plan/moganshan-shuttle-system/` carry the lower tier citations | At each quarterly volatile revision: fetch twice, and when both succeed swap the citation in the same run |
+| Tier 1 notices behind a block | The car ban's 2018 launch notice and the transfer notice 《关于景区交通换乘的公告》 are cited from tier 2 and tier 4 copies because deqing.gov.cn timed out and zj-mgs.com returns 403 to every client; `/plan/private-car-ban-on-moganshan/` and `/plan/moganshan-shuttle-system/` carry the lower tier citations. Added 4 October 2026: the county's art museum notice 莫干山镇又添文化地标 (deqing.gov.cn/art/2023/4/19/art_1229212604_59058390.html) timed out, so `/moganshan/villages/xiantan/` cites the museum's size from Xinmin Evening News, 8 October 2024 | At each quarterly volatile revision: fetch twice, and when both succeed swap the citation in the same run |
 
 ## Revision cadence by freshness tier (Part 2.5)
 

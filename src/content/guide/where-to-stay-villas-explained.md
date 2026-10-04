@@ -12,7 +12,7 @@ image_alt: A whole two-storey stone and plaster house lit from inside at blue ho
 word_count: 1327
 author: echo-peng
 published: 2026-08-08
-last_updated: 2026-08-08
+last_updated: 2026-10-05
 ---
 
 # Private villas and whole-house stays
@@ -55,9 +55,16 @@ So much for the houses you cannot have. Ten beds is not a hotel. It is a convert
 | Guesthouses around the mountain | about 1,000, September 2025 | Plenty to choose from |
 | Beds across them | roughly 10,000 | About ten beds a property |
 | Individually owned | about 80 percent | An owner, not a revenue manager |
-| Xiantan, the densest village | about 135 guesthouses, under 2,000 residents, 90 percent locally run | Where the price competition is |
+| [Xiantan](/moganshan/villages/xiantan/), the densest village | more than 150 guesthouses, about 2,000 residents, 90 percent locally run in 2019 | Where the price competition is |
 
-> Property counts, bed capacity, ownership share and Xiantan figures, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
+> Property counts, bed capacity and ownership share, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
+
+> 166 guesthouses in Xiantan, People's Daily (人民日报), 12 June 2023, tier 2.
+> https://www.crnews.net/zt/srxxzjqwgcjy/zqbwjsyy/955610_20230612122458.html
+
+> 90 percent of Xiantan's guesthouses run by locals, Shanghai Observer (上观新闻),
+> 3 April 2019, tier 2.
+> https://www.shobserver.cn/wx/detail.do?id=142561
 
 There is a catch. Whole-house is rarely a listed inventory type, so channels show rooms priced by the room, and no button says building. Pick the property, then write to the owner and ask what it costs with nobody else in it. [What a minsu is](/where-to-stay/minsu-explained/) covers how they run.
 
@@ -77,9 +84,9 @@ None of the following will stop you. All three have stopped somebody.
 
 ### You cannot drive to the door
 
-Private cars are not allowed inside the scenic area. Everybody swaps vehicles first. The three transfer centers are Yucun, Fatou and Houwu, working an 08:00 to 18:00 day.
+Private cars are not allowed inside the scenic area. Everybody swaps vehicles first. The three transfer centres are Yucun, Fatou and Houwu, working an 08:00 to 18:00 day.
 
-> Scenic-area vehicle rule and transfer center hours, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
+> Scenic-area vehicle rule and transfer centre hours, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
 Work back from it. The run up from Deqing takes 30 to 40 minutes:
 
@@ -123,7 +130,7 @@ You would not ask any of these about a room.
 | Exclusive use, or the building minus the family's floor | Owners often live in, which is normal here and not what people picture |
 | Bedrooms against actual beds | The two rarely match, and your headcount rides on the second |
 | Kitchen access, and what time dinner happens | No restaurant to fall back on |
-| Can they register a foreign passport | A directive of 24 May 2024 bars refusing foreign guests for want of a license, though refusals still get reported |
+| Can they register a foreign passport | A directive of 24 May 2024 bars refusing foreign guests for want of a licence, though refusals still get reported |
 
 > Joint directive on hotel accommodation for foreign guests, Ministry of Public Security, Ministry of Commerce and National Immigration Administration, 24 May 2024.
 

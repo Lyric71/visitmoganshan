@@ -12,7 +12,7 @@ image_alt: Village guesthouses below the bamboo slopes of Moganshan, the trade t
 word_count: 1709
 author: cyril-drouin
 published: 2026-08-08
-last_updated: 2026-08-08
+last_updated: 2026-10-05
 ---
 
 # The second opening
@@ -63,7 +63,7 @@ Read that table with a warning on it. Four of the counts are floors, written as 
 
 Foreign operators followed Horsfield: owners from France, the UK, Belgium, Denmark, the Netherlands, South Korea and Russia. Investors in Moganshan guesthouses now come from 18 countries.
 
-The volume sits somewhere else. About 80 percent of properties are individually owned. Xiantan alone holds around 135 in a village of fewer than 2,000 people, and roughly 90 percent of those are run by locals. The general Chinese word for the format is minsu (民宿), a small guesthouse the owner usually lives in or near, and [what a minsu is](/where-to-stay/minsu-explained/) covers the practical differences for a guest.
+The volume sits somewhere else. About 80 percent of properties are individually owned. [Xiantan](/moganshan/villages/xiantan/) alone holds more than 150 in a village of about 2,000 people, and in 2019 roughly 90 percent of its guesthouses were run by locals. The general Chinese word for the format is minsu (民宿), a small guesthouse the owner usually lives in or near, and [what a minsu is](/where-to-stay/minsu-explained/) covers the practical differences for a guest.
 
 Nobody publishes a count of how many properties here are foreign-owned or foreign-run today, and the 18-country figure covers investors rather than operators. What the ownership share does show is that four houses in five belong to one household, which is not a foreign-dominated trade by any reading.
 
@@ -102,11 +102,11 @@ That is the good news. Now the other column.
 | Occupancy | about 70 percent before 2021 | about 55 percent in 2024 |
 | High-end occupancy | not held for the earlier period | 68 percent in 2025 |
 | Payback on an investment | 3 to 5 years | 5 to 8 years |
-| Labor as a share of revenue | not held for the earlier period | 30 to 40 percent |
+| Labour as a share of revenue | not held for the earlier period | 30 to 40 percent |
 
-> Occupancy, payback periods and labor costs, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
+> Occupancy, payback periods and labour costs, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-Fifteen points of occupancy lands hardest on the four in five owners who are private individuals, because a private owner has one property and nothing else to carry it. Payback stretching from a 3 to 5 year range out to 5 to 8 does the same damage more slowly. Labor takes 30 to 40 percent of revenue either way.
+Fifteen points of occupancy lands hardest on the four in five owners who are private individuals, because a private owner has one property and nothing else to carry it. Payback stretching from a 3 to 5 year range out to 5 to 8 does the same damage more slowly. Labour takes 30 to 40 percent of revenue either way.
 
 An annual figure also hides how it arrives. The weekday and weekend split here is severe, holidays spike hard, and Mondays are notably quiet. Nobody on 55 percent a year is half full every night.
 

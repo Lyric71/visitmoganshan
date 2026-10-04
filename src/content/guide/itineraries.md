@@ -12,7 +12,7 @@ image_alt: A rail map, a pen and a cup of green tea on a table, with the route t
 word_count: 1457
 author: echo-peng
 published: 2026-08-06
-last_updated: 2026-08-07
+last_updated: 2026-10-05
 ---
 
 # Moganshan itineraries
@@ -21,7 +21,7 @@ Moganshan sits 60 km north of Hangzhou and 200 to 240 km from Shanghai, in Deqin
 
 The question people ask first is how many days in Moganshan. Our answer is two nights, which is not what most want to hear, since it means paying for a room.
 
-The reason is a rule most guides leave out. Private vehicles cannot drive inside the scenic area, and the transfer centers you have to change at run 08:00 to 18:00. Your day on the mountain is not the gap between your trains. It is that ten-hour window, minus the part you spent traveling into it.
+The reason is a rule most guides leave out. Private vehicles cannot drive inside the scenic area, and the transfer centres you have to change at run 08:00 to 18:00. Your day on the mountain is not the gap between your trains. It is that ten-hour window, minus the part you spent travelling into it.
 
 ## How long do you need in Moganshan?
 
@@ -31,7 +31,7 @@ The hours below are our estimates, not published figures. Treat them as rough.
 |---|---|---|---|
 | Day trip | 4 to 5 | One spare weekday | 5h30 to 7h of travel in one day |
 | One night | About 14 waking hours | A Saturday to Sunday escape | Both days are travel days |
-| Two nights | About 30 waking hours | Most travelers | Peak weekend rooms from RMB 1,000 |
+| Two nights | About 30 waking hours | Most travellers | Peak weekend rooms from RMB 1,000 |
 | Three nights | About 46 waking hours | Summer heat, or a second visit | Very little to do after dark |
 | Inside a Shanghai and Hangzhou trip | About 30 waking hours | First China trips | Costs two nights of the trip |
 
@@ -60,9 +60,9 @@ The trains are the easy part. It is the last 30 km that almost nobody plans in a
 
 Neither the shuttle nor the taxi drops you inside the scenic area. Both stop in the town.
 
-The second clock starts there. Yucun, Fatou and Houwu are the three transfer centers, all running 08:00 to 18:00. English-language sources almost never print this. It decides your last hour on the mountain.
+The second clock starts there. Yucun, Fatou and Houwu are the three transfer centres, all running 08:00 to 18:00. English-language sources almost never print this. It decides your last hour on the mountain.
 
-> Door-to-door estimates, rail frequencies, shuttle times and transfer-center hours, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
+> Door-to-door estimates, rail frequencies, shuttle times and transfer centre hours, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
 Both clocks push you toward staying over, and rooms have a price.
 
@@ -95,7 +95,7 @@ Two nights costs the same total travel as a day trip, spread over three days. Ca
 | Day | Morning | Rest of the day |
 |---|---|---|
 | One | Travel from Shanghai or Hangzhou | Check in, then the villa streets and Sword Pond |
-| Two | Early bamboo walk, before the centers get busy | Luhuadang Park or Dakeng, a second village, or the Bai and Yun Art Museum |
+| Two | Early bamboo walk, before the centres get busy | Luhuadang Park or Dakeng, a second village, or the Bai and Yun Art Museum |
 | Three | One more early walk | Out on a late-morning train |
 
 It also opens up the map. A day trip reaches one village; two nights can reach three.
@@ -103,9 +103,9 @@ It also opens up the map. A day trip reaches one village; two nights can reach t
 | Village | Where it is | What is there |
 |---|---|---|
 | Yucun | Foot of the hill | Main gateway, square, market, 1932 culture park |
-| Xiantan | North side | About 135 guesthouses in a village under 2,000 people |
+| [Xiantan](/moganshan/villages/xiantan/) | North side | More than 150 guesthouses in a village of about 2,000 people |
 | Laoling | South | A reservoir, with kayaking and cycling |
-| Houwu | 30 minutes west of Yucun | Quiet. One of the three transfer centers |
+| Houwu | 30 minutes west of Yucun | Quiet. One of the three transfer centres |
 
 If that is your Saturday and Sunday, the [weekend from Shanghai](/itineraries/weekend-from-shanghai/) page has it. Picking a village is covered on [where to stay](/where-to-stay/).
 
