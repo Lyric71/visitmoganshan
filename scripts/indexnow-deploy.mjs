@@ -117,8 +117,17 @@ async function readSitemap() {
   return entries;
 }
 
-/** Hash of what a search engine indexes, not of build artefacts. @param {string} html */
-function contentHash(html) {
+// v2 hashes the page's text lines as a sorted set, so a grid shuffled at build
+// time (the /work/ pages) is not a change; any added, removed or edited line
+// still is. v1 hashed the text in page order. A v1 snapshot is compared with
+// v1 once, then replaced by v2 hashes.
+const HASH_VERSION = 2;
+
+/**
+ * Hash of what a search engine indexes, not of build artefacts.
+ * @param {string} html @param {number} [version]
+ */
+function contentHash(html, version = HASH_VERSION) {
   const pick = (/** @type {RegExp} */ re) => html.match(re)?.[1]?.trim() ?? '';
   const head = [
     pick(/<title[^>]*>([\s\S]*?)<\/title>/i),
@@ -130,16 +139,23 @@ function contentHash(html) {
     .replace(/<(script|style|svg|noscript|template)\b[\s\S]*?<\/\1>/gi, ' ')
     // Forms carry per-request content (maths CAPTCHAs, tokens) that is not indexed.
     .replace(/<form\b[\s\S]*?<\/form>/gi, ' ')
-    .replace(/<!--[\s\S]*?-->/g, ' ')
-    .replace(/<[^>]+>/g, ' ')
-    .replace(/\s+/g, ' ')
-    .trim();
-  return createHash('sha1').update(head + '\n' + text).digest('hex');
+    .replace(/<!--[\s\S]*?-->/g, ' ');
+  const body =
+    version === 1
+      ? text.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim()
+      : text
+          .replace(/<[^>]+>/g, '\n')
+          .split('\n')
+          .map((line) => line.replace(/\s+/g, ' ').trim())
+          .filter(Boolean)
+          .sort()
+          .join('\n');
+  return createHash('sha1').update(head + '\n' + body).digest('hex');
 }
 
-/** @param {string[]} urls */
-async function hashPages(urls) {
-  /** @type {Record<string, string | null>} */
+/** @param {string[]} urls @param {number} compareVersion */
+async function hashPages(urls, compareVersion) {
+  /** @type {Record<string, {hash: string, compare: string} | null>} */
   const out = {};
   let i = 0;
   await Promise.all(
@@ -147,7 +163,13 @@ async function hashPages(urls) {
       while (i < urls.length) {
         const url = urls[i++];
         const html = await get(url, 2);
-        out[url] = html === null ? null : contentHash(html);
+        out[url] =
+          html === null
+            ? null
+            : {
+                hash: contentHash(html),
+                compare: compareVersion === HASH_VERSION ? '' : contentHash(html, compareVersion),
+              };
       }
     }),
   );
@@ -181,21 +203,23 @@ if (explicit.length) {
   const prev = previous && previous.detect === DETECT ? previous.entries : null;
   console.log(`[indexnow] ${urls.length} URLs in the live sitemap, detect=${DETECT}, snapshot=${prev ? 'yes' : 'none'}`);
 
-  const hashes = DETECT === 'content' ? await hashPages(urls) : {};
+  const compareVersion = previous?.hashVersion ?? 1;
+  const hashes = DETECT === 'content' ? await hashPages(urls, compareVersion) : {};
   next = {};
   urlList = [];
   for (const url of urls) {
     const lastmod = sitemap[url];
     if (DETECT === 'content') {
-      const hash = hashes[url];
-      if (hash === null) {
+      const h = hashes[url];
+      if (h === null) {
         // Unreachable this run: keep what we knew, submit nothing.
         if (prev?.[url]) next[url] = prev[url];
         console.log(`  skipped, not 200: ${url}`);
         continue;
       }
-      next[url] = { lastmod, hash };
-      if (prev && (!prev[url] || prev[url].hash !== hash)) urlList.push(url);
+      next[url] = { lastmod, hash: h.hash };
+      const now = compareVersion === HASH_VERSION ? h.hash : h.compare;
+      if (prev && (!prev[url] || prev[url].hash !== now)) urlList.push(url);
     } else {
       next[url] = { lastmod };
       if (prev && (!prev[url] || time(lastmod) > time(prev[url].lastmod))) urlList.push(url);
@@ -232,5 +256,5 @@ if (urlList.length && !dryRun && !record) {
 
 if (snapshotPath && next && !dryRun) {
   mkdirSync(dirname(snapshotPath), { recursive: true });
-  writeFileSync(snapshotPath, JSON.stringify({ version: 1, detect: DETECT, site: SITE, entries: next }));
+  writeFileSync(snapshotPath, JSON.stringify({ version: 1, hashVersion: HASH_VERSION, detect: DETECT, site: SITE, entries: next }));
 }
