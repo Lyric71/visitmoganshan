@@ -41,7 +41,7 @@ const dryRun = args.includes('--dry-run');
 const record = args.includes('--record');
 const snapIdx = args.indexOf('--snapshot');
 const snapshotPath = snapIdx >= 0 ? args[snapIdx + 1] : undefined;
-const explicit = args.filter((a, i) => /^https?:\/\//.test(a) && i !== snapIdx + 1);
+const explicit = args.filter((a, i) => /^https?:\/\//.test(a) && (snapIdx < 0 || i !== snapIdx + 1));
 
 if (!/^https?:\/\/[^/]+$/.test(SITE)) fail('Set SITE_URL, e.g. https://www.example.com');
 if (!['content', 'lastmod'].includes(DETECT)) fail(`INDEXNOW_DETECT must be content or lastmod, not ${DETECT}`);
