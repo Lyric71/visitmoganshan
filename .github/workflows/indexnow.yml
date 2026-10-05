@@ -1,0 +1,67 @@
+# IndexNow on every production deploy (Bing, Yandex, Naver, Seznam; Google
+# does not read IndexNow). Vercel posts a GitHub deployment status; when a
+# Production deploy succeeds, scripts/indexnow-deploy.mjs compares the live
+# site with the snapshot from the previous run and submits only new and
+# changed pages. The same workflow and script are installed in every website
+# repo in C:\Users\cyril\Project; only the env block differs.
+name: IndexNow
+
+on:
+  deployment_status:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  actions: read
+
+concurrency:
+  group: indexnow
+  cancel-in-progress: false
+
+env:
+  SITE_URL: https://www.visitmoganshan.com
+  INDEXNOW_DETECT: content
+
+jobs:
+  submit:
+    # deployment_status fires on every state change; only a successful
+    # Production deploy goes to the search engines.
+    if: >-
+      github.event_name == 'workflow_dispatch' ||
+      (github.event.deployment_status.state == 'success' &&
+       startsWith(github.event.deployment.environment, 'Production'))
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            scripts/indexnow-deploy.mjs
+            public/*.txt
+          sparse-checkout-cone-mode: false
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Restore the previous snapshot
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          id=$(gh run list -R "$GITHUB_REPOSITORY" -w indexnow.yml -s success -L 1 --json databaseId -q '.[0].databaseId')
+          if [ -n "$id" ]; then
+            gh run download "$id" -R "$GITHUB_REPOSITORY" -n indexnow-snapshot -D .indexnow || echo "No snapshot in run $id"
+          fi
+
+      - name: Let the production domain switch to the new deploy
+        if: github.event_name == 'deployment_status'
+        run: sleep 30
+
+      - name: Submit new and changed pages
+        run: node scripts/indexnow-deploy.mjs --snapshot .indexnow/snapshot.json
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: indexnow-snapshot
+          path: .indexnow/snapshot.json
+          retention-days: 90
