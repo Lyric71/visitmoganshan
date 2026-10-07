@@ -1123,6 +1123,167 @@ primary research, <dates>". -->
 * Used in: xiantan
 * Notes: logged as a cross reference so the Xiantan use is on record.
 
+### Foreign card fee in WeChat Pay: free to RMB 200, 3 percent above
+* Value: a foreign issued card payment of RMB 200 or less (inclusive) carries no foreign card fee; above RMB 200 the fee is 3 percent of the whole payment; on a refund the fee is returned in proportion; the fee is shown on the payment page to two decimal places; service line 95017
+* As of: January 2026
+* Source: Tenpay (财付通支付科技有限公司), 《关于国际卡支付服务相关规则的说明》
+* Tier: 1 (platform documentation)
+* URL: https://posts.tenpay.com/posts/9e70c66564910e6002958e997eabb18b.html
+* Verified 1: 2026-10-07 (page fetched, dated 2026-01-15; 人民币200元以下（包括人民币200元）, 免收国际卡手续费, 按照单笔交易金额的3%, 同比例原则, 小数点后2位 present)
+* Verified 2: 2026-10-07 (fetched again, every string present)
+* Shelf life: volatile, 3 months
+* Used in: paying-for-things-on-moganshan
+* Notes: Alipay's own fee page is not public outside the app; Alipay's terms are cited from the Yicai launch report below, which says they match.
+
+### Alipay and WeChat Pay foreign card terms and caps at launch, July 2023
+* Value: both free to RMB 200 a payment, 3 percent above; Alipay cap RMB 3,000 a payment; WeChat Pay caps RMB 6,000 a payment, RMB 50,000 a month, RMB 60,000 a year; WeChat Pay took Visa, Mastercard, JCB, Diners Club and Discover, Alipay all but JCB; exchange rate set by the card scheme and the issuing bank
+* As of: July 2023
+* Source: Yicai (第一财经); corroborated by Sina Finance (新浪财经), 21 July 2023, finance.sina.cn/jinrong/2023-07-21/detail-imzcmwwm8219109.d.html
+* Tier: 2
+* URL: https://www.yicai.com/news/101814100.html
+* Verified 1: 2026-10-07 (page dated 2023-07-20; 支付宝单笔为3000元, 单笔6千元、月累计5万元、年累计6万元, 200元及以下, JCB present; the Sina copy carries the same strings)
+* Verified 2: 2026-10-07 (fetched again, every string present)
+* Shelf life: a launch record, does not expire, but the caps were superseded in 2024 (next entry)
+* Used in: paying-for-things-on-moganshan
+
+### Mobile payment caps for foreign visitors raised fivefold, 2024
+* Value: per payment and per year caps raised fivefold (stated in US currency; never print the dollar figures in an article); foreign phone numbers can register; scenic areas keep staffed ticket windows that take bank cards
+* As of: July 2024
+* Source: Red Star News (红星新闻) on Tencent News (腾讯新闻), reporting the State Administration of Foreign Exchange (国家外汇管理局) at a People's Bank of China media briefing
+* Tier: 2
+* URL: https://news.qq.com/rain/a/20240726A0AHJI00
+* Verified 1: 2026-10-07 (page dated 2024-07-26 22:40; 由1000美元提高到5000美元, 由1万美元提高到5万美元, 在景区保留人工售票窗口 present)
+* Verified 2: 2026-10-07 (fetched again, present)
+* Shelf life: volatile, 3 months
+* Used in: paying-for-things-on-moganshan
+* Notes: the page's first line dates the briefing "6月24日" while the page is dated 26 July; the article says "in 2024" only. The fivefold change is measured from a base that is not the 2023 yuan launch caps, so never say the RMB 3,000 cap became RMB 15,000.
+
+### Cash acceptance, change held and inbound mobile payment, first half of 2024
+* Value: about 94,000 businesses checked nationwide, 99.3 percent took cash; 3,000 plus in 17 cities, 99.4 percent took cash and 91.9 percent held enough change; notes under RMB 20 issued up 30 percent; over 5 million inbound visitors used mobile payment, 90 million plus payments, RMB 14 billion plus; wallets from nine places scan directly; 67,000 bank branches, 4,200 plus exchange points, 320,000 ATMs
+* As of: July 2024
+* Source: China National Radio (央广网), reporting the People's Bank of China (中国人民银行)
+* Tier: 2
+* URL: https://china.cnr.cn/gdgg/20240727/t20240727_526818534.shtml
+* Verified 1: 2026-10-07 (page dated 2024-07-27; 9.4万, 99.3%, 99.4%, 91.9%, 零钞投放增加30%, 9地, 32万台ATM present)
+* Verified 2: 2026-10-07 (fetched again, every string present)
+* Shelf life: semi-stable, 6 months; replace with a newer central bank check when one is published
+* Used in: paying-for-things-on-moganshan
+
+### State Council opinion: cash as the fallback
+* Value: 坚持现金兜底定位; tourism, lodging and catering businesses to undertake publicly to accept cash and to hold change; refusals of RMB cash to be rectified with penalties published; large scenic areas, resorts and hotels must equip for mobile payment, cards and cash
+* As of: March 2024 (written 1 March, published 7 March)
+* Source: General Office of the State Council (国务院办公厅), 国办发〔2024〕10号, on the central government portal (中国政府网)
+* Tier: 1
+* URL: https://www.gov.cn/zhengce/content/202403/content_6937623.htm
+* Verified 1: 2026-10-07 (page fetched; 坚持现金兜底定位, 公开承诺可收取现金, 拒收人民币现金整治, 发布日期 2024年03月07日 present)
+* Verified 2: 2026-10-07 (fetched again, present)
+* Shelf life: evergreen until superseded
+* Used in: paying-for-things-on-moganshan
+
+### Foreign card acceptance required at 4A and 5A scenic areas and national resorts
+* Value: national 5A and 4A scenic areas, national and provincial tourist resorts, national leisure streets and hotels of three stars and above to achieve full acceptance of domestic and foreign bank cards; key sites keep staffed ticket windows and accept cash; ATM retrofit at key sites
+* As of: April 2024
+* Source: People's Bank of China, Ministry of Culture and Tourism, SAFE and National Cultural Heritage Administration, 银发〔2024〕76号, Ministry of Commerce legal database copy (商务部 全球法规网); press copy China Daily (中国日报网), 10 April 2024, cn.chinadaily.com.cn/a/202404/10/WS6615f57fa3109f7860dd8d0f.html
+* Tier: 1 (the document), 2 (the press copy)
+* URL: https://policy.mofcom.gov.cn/claw/clawContent.shtml?id=99793
+* Verified 1: 2026-10-07 (银发〔2024〕76号, 国家5A级和4A级旅游景区、国家和省级旅游度假区, 实现境内外银行卡受理全覆盖, 保留人工售票窗口, 发布日期 2024-04-01 present)
+* Verified 2: 2026-10-07 (fetched again, present)
+* Shelf life: evergreen until superseded
+* Used in: paying-for-things-on-moganshan
+* Notes: the PBoC copy (pbc.gov.cn 5324930) returned 404 and the Zhejiang copy (wwj.zj.gov.cn) timed out on 7 October 2026. No Deqing source reports how far the resort has implemented it.
+
+### Moganshan International Tourism Resort named a national tourist resort
+* Value: 德清莫干山国际旅游度假区 on the 2020 list of national tourist resorts
+* As of: December 2020
+* Source: Ministry of Culture and Tourism (文化和旅游部), 文旅资源发〔2020〕91号
+* Tier: 1
+* URL: https://zwgk.mct.gov.cn/zfxxgkml/zykf/202012/t20201228_920220.html
+* Verified 1: 2026-10-07 (浙江省 德清 莫干山国际旅游度假区, 发布时间：2020年12月15日 present)
+* Verified 2: 2026-10-07 (fetched again, present)
+* Shelf life: evergreen
+* Used in: paying-for-things-on-moganshan
+
+### Why foreign cards sometimes fail to bind in Alipay
+* Value: Alipay staff: some cards fail to bind because each foreign bank's risk control differs and the platform connects banks one by one; passport details are required, which put some users off
+* As of: February 2024
+* Source: Xinhua (新华网客户端)
+* Tier: 2
+* URL: https://app.xinhuanet.com/news/article.html?articleId=0ff4c6c0-0783-49c3-bc41-440b38e1ed44
+* Verified 1: 2026-10-07 (page dated 2024-02-28; 绑卡不成功, 风控都不一样, 护照 present)
+* Verified 2: 2026-10-07 (fetched again, present)
+* Shelf life: semi-stable, 6 months
+* Used in: paying-for-things-on-moganshan
+
+### UnionPay linked wallets from abroad scan WeChat Pay codes
+* Value: eight UnionPay linked wallets from abroad can scan WeChat Pay merchant codes from December 2024; WeChat Pay foreign card payments in November 2024 were 6.4 times the count and 4.5 times the value of July 2023
+* As of: December 2024
+* Source: Xinhua (新华网客户端), reporter 吴雨
+* Tier: 2
+* URL: https://app.xinhuanet.com/news/article.html?articleId=747534e384421407cf826f93932975f2
+* Verified 1: 2026-10-07 (page dated 2024-12-17; 8个境外电子钱包, 扫境内微信支付收款码支付, 6.4倍和4.5倍 present)
+* Verified 2: 2026-10-07 (fetched again, present)
+* Shelf life: semi-stable, 6 months
+* Used in: paying-for-things-on-moganshan
+
+### The e境通 passport reader at hotels and guesthouses in Huzhou
+* Value: about 120 hotels and guesthouses across Huzhou use the e境通 reader; reads passports of 150 plus countries; check in under one minute against six or seven minutes by hand (Huzhou police)
+* As of: March 2025
+* Source: Zhejiang Daily (浙江日报) on Hangzhou Net (杭州网)
+* Tier: 2
+* URL: https://news.hangzhou.com.cn/zjnews/content/2025-03/25/content_8959193.htm
+* Verified 1: 2026-10-07 (page dated 2025-03-25; 120家酒店民宿, 150多个国家的护照, 不到1分钟, 六七分钟 present)
+* Verified 2: 2026-10-07 (fetched again, present)
+* Shelf life: semi-stable, 6 months
+* Used in: paying-for-things-on-moganshan
+
+### Foreign entries to China, first half of 2026, and Moganshan among the summer escapes
+* Value: 22.914 million foreign national entries in the first half of 2026, up 20.4 percent (National Immigration Administration figures); Moganshan named among the cool summer places foreign visitors were crowding to
+* As of: August 2026
+* Source: People's Daily Overseas Edition (人民日报海外版), 赵珊, page 8, relayed by Sina Finance (新浪财经)
+* Tier: 2
+* URL: https://finance.sina.cn/2026-08-11/detail-inimwyqt7674173.d.html
+* Verified 1: 2026-10-07 (浙江莫干山的峰岭, 2291.4万人次, 同比增长20.4%, 2026年08月11日 第 08 版 present)
+* Verified 2: 2026-10-07 (fetched again, present)
+* Shelf life: volatile, 3 months
+* Used in: paying-for-things-on-moganshan
+* Notes: a national entry count, not a visitor count for Moganshan or Deqing; never use it as one. The paper.people.com.cn original could not be located (404 on the page index).
+
+### Reused for the payments piece
+* Value: gate ticket RMB 80 and RMB 70, transfer RMB 35 return (Huzhou Bendibao, 21 September 2023, tier 3); Deqing station lockers paid by WeChat or Alipay scan (Zhejiang Online, 9 July 2018, tier 2); nearly 900 licensed guesthouses (Xinhua, 29 September 2026, tier 2); Yucun scenic area 4A (Zhejiang Online, 9 June 2023, tier 2)
+* As of: as logged above
+* Source: see the entries above
+* Tier: as logged
+* URL: http://huzhou.bendibao.com/tour/2021123/3560.shtm ; https://zjnews.zjol.com.cn/zjnews/201807/t20180709_7732143.shtml ; http://www.zj.xinhuanet.com/20260929/2bb0c09f3dc547deb5beb818d6b25693/c.html ; https://zjnews.zjol.com.cn/zjnews/202306/t20230609_25838009.shtml
+* Verified 1: as logged above
+* Verified 2: 2026-10-07 (all four fetched again; 80元, 70元, 35元/人往返; 微信或支付宝; 900家合规民宿; 德清庾村景区 4A present)
+* Shelf life: as logged
+* Used in: paying-for-things-on-moganshan
+* Notes: cross reference so the use is on record.
+
+### Moganshan mounted police patrols on public holidays
+* Value: the county police's 莫干山骑警队 patrols the forest on horseback on public holidays (节假日), and did so for National Day 2026; Moganshan town about 190 km², of which about 170 km² forest; riders give directions, reach lost or injured walkers where vehicles cannot, stop people entering undeveloped paths (未开发野路) and give fire warnings; works alongside foot, vehicle and drone patrols
+* As of: September 2026
+* Source: Deqing News (德清新闻网), reporter Shen Yebing (沈烨冰)
+* Tier: 2
+* URL: https://dqnews.zjol.com.cn/dqnews/system/2026/09/30/035303880.shtml
+* Verified 1: 2026-10-07 (article read whole; 莫干山骑警队, 190平方公里, 170平方公里, 野路, 节假日, 无人机, dated 2026-09-30)
+* Verified 2: 2026-10-07 (fetched again with a different user agent, every string present)
+* Shelf life: semi-stable, 6 months
+* Used in: dispatch-2026-41
+* Notes: the report names no route closed and no fine; the dispatch says only that walkers on undeveloped paths are turned back. /things-to-do/hiking/ says there are no waymarked trails, so the dispatch says "built stone paths", never "marked routes".
+
+### Reused for dispatch 2026-41, checked again
+* Value: Saturday 10 October 2026 a worked day after National Day 1 to 7 October (State Council, tier 1); Kailas Moganshan Skyrace 23 to 25 October 2026 at Yucun, 10 km youth race to 100 km, entries and the supplementary round (补录报名) closed (Letour Sports, tier 3); Spartan Race 7 and 8 November 2026, entries to 23:59 on 31 October (Zuicool, tier 3); Tiankeng Mijing still on trial, about 9 mu, Southeast Asian theme, phase two with rafting next year (Deqing News, 30 September 2026, tier 2); the Hangzhou to Deqing railway in trial running since 1 September, end of year target, through running onto Hangzhou Metro Line 10, no date and no fare (FM93 carried by Deqing News, 29 September 2026, tier 2)
+* As of: as logged in the entries above
+* Source: see the entries above
+* Tier: as logged
+* URL: https://www.gov.cn/gongbao/2025/issue_12406/202511/content_7048922.html ; https://moganshan.saihuitong.com/events?mid=72300 ; https://reg.zuicool.com/11858 ; https://dqnews.zjol.com.cn/dqnews/system/2026/09/30/035303876.shtml ; https://dqnews.zjol.com.cn/dqnews/system/2026/09/29/035303205.shtml
+* Verified 1: 2026-10-07 (all five fetched; 10月10日（周六）上班; 2026年10月23日（周五）~10月25日（周日）, 庾村, 10km百里少年, 报名已截止 on the 补录 entry; 报名截止时间：2026年10月31日 23:59:59; 天坑秘境, 试营业, 9亩, 东南亚, 漂流; 9月1日，杭德市域铁路进入试运行, 年底通车 present)
+* Verified 2: 2026-10-07 (all five fetched again with a different user agent, every string present)
+* Shelf life: the race dates until each race; the railway entry expires the day an opening date is published
+* Used in: dispatch-2026-41
+* Notes: no visitor count for National Day 2026 had been published by the evening of 7 October; the dispatch says so and the tally is filed under Standing watch items in source-tiers.md.
+
 ## Retired
 
 <!-- Entries past their shelf life that were replaced. Kept for the record. -->

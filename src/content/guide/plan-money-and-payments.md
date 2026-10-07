@@ -12,7 +12,7 @@ image_alt: A phone showing a payment code propped on the wooden counter of a vil
 word_count: 1752
 author: cyril-drouin
 published: 2026-08-06
-last_updated: 2026-10-05
+last_updated: 2026-10-08
 ---
 
 # Paying for things in China as a visitor
@@ -20,11 +20,11 @@ last_updated: 2026-10-05
 
 Our subject is Moganshan, a mountain in Deqing County, Huzhou prefecture, Zhejiang Province, about 60 km north of Hangzhou and 200 to 240 km from Shanghai. (Moganshan Road is an art district in Shanghai, and search results mix the two constantly.) This page is not about the mountain. It answers a question that comes up before anyone has picked anywhere in China at all. How do you actually pay for things? Paying in China as a tourist used to be hard. It is not hard now, but the good information about it is thin.
 
-It sits inside [plan your trip](/plan/). If your entry route is not settled yet, [China visa-free entry](/plan/china-visa-free-entry/) comes first.
+It sits inside [plan your trip](/plan/). If your entry route is not settled yet, [China visa free entry](/plan/china-visa-free-entry/) comes first.
 
 ## How Alipay for foreigners works
 
-Most day-to-day payment in China runs through two apps: Alipay and WeChat Pay. For years both were effectively closed to visitors, because a foreign card could not be bound to them.
+Most day to day payment in China runs through two apps: Alipay and WeChat Pay. For years both were effectively closed to visitors, because a foreign card could not be bound to them.
 
 ![A small payment code stand on a village shop counter with a phone held towards it](/images/guide/plan-money-and-payments-2.webp 'Foreign cards have worked inside the Chinese payment apps since 2023. Set it up before you fly, not on the mountain.')
 
@@ -50,11 +50,11 @@ The visitor numbers behind it moved fast.
 
 | Measure | 2025 | Against the year before or 2023 |
 |---|---|---|
-| Foreign-national entries to China | About 41.0 million | Up from about 17.8 million in 2023 |
+| Foreign national entries to China | About 41.0 million | Up from about 17.8 million in 2023 |
 | Shanghai inbound visits | 9.36 million | 7.14 million of them foreign nationals |
 | Zhejiang inbound overnight visitors (Moganshan's province) | 4.171 million | Up 24.6 percent |
 
-Those figures answer the nervous version of the question. China payment for tourists is a well-worn path now, not an experiment.
+Those figures answer the nervous version of the question. China payment for tourists is a well worn path now, not an experiment.
 
 > Mobile payment spending and inbound entry figures, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
@@ -83,10 +83,15 @@ The app route works. What sits on top of it varies by card, by bank and by count
 |---|---|
 | Whether your particular card binds, and on which network | In the app, at home, before you travel |
 | Fees your bank charges on the transactions | Your bank, in writing |
-| Per-transaction and annual caps inside the app | The app's own limits screen |
+| Per transaction and annual caps inside the app | The app's own limits screen |
 | Whether your guesthouse takes app payment or wants cash | The property, in the message that books the room |
-| How you will pay the shuttle and the scenic-area transfer | Carry small notes and you are covered either way |
+| How you will pay the shuttle and the scenic area transfer | Carry small notes and you are covered either way |
 | VAT refund participation at a given shop | The shop, at the till, before you buy |
+
+One fee is not your bank's. The apps charge nothing on a foreign card payment of RMB 200 or less. Above RMB 200 the fee is 3 percent of the whole payment, not of the part over the line, and the payment page shows it before you confirm.
+
+> Foreign card fee, nothing up to RMB 200 a payment and 3 percent of the whole payment above it, Tenpay (财付通支付科技有限公司), 15 January 2026, tier 1.
+> https://posts.tenpay.com/posts/9e70c66564910e6002958e997eabb18b.html
 
 None of this is exotic. It is the same list you would work through for any country whose payment system is not your own, and it takes an evening.
 
@@ -102,16 +107,16 @@ The costs look like this.
 
 | What | Cost |
 |---|---|
-| Shanghai Hongqiao to Deqing, high-speed train | RMB 61 to 110 |
-| Hangzhou East to Deqing, high-speed train | RMB 16 to 67 |
+| Shanghai Hongqiao to Deqing, high speed train | RMB 61 to 110 |
+| Hangzhou East to Deqing, high speed train | RMB 16 to 67 |
 | Y1 shuttle, Deqing station to Moganshan town | RMB 10 |
 | Taxi or van, same trip | About RMB 100 |
-| Guesthouse, mid-range off-season | RMB 300 to 500 |
-| Guesthouse, mid-range at peak | RMB 1,000 and up |
+| Guesthouse, mid range off season | RMB 300 to 500 |
+| Guesthouse, mid range at peak | RMB 1,000 and up |
 
-The scenic-area ticket is missing on purpose. Published prices run from RMB 50 to RMB 130 depending on season and source, so confirm it at the gate rather than budgeting from a figure here.
+The scenic area ticket is missing on purpose. Published prices run from RMB 50 to RMB 130 depending on season and source, so confirm it at the gate rather than budgeting from a figure here.
 
-Cars stop at the scenic-area boundary, so you change to a shuttle at Yucun, Fatou or Houwu, between 08:00 and 18:00. Have both the app and a small note ready at those counters.
+Cars stop at the scenic area boundary, so between 08:00 and 17:30 you change to a shuttle at Yucun, Fatou or Houwu. Have both the app and a small note ready at those counters.
 
 ## Being turned away at the hotel desk
 
@@ -119,7 +124,7 @@ Money is only half of this anxiety. The other half is being turned away when you
 
 A joint directive of 24 May 2024 bars hotels from refusing a foreign guest for lack of a special licence. It came jointly from the Ministry of Public Security, the Ministry of Commerce and the National Immigration Administration. The rule is not ambiguous. Refusals are reported in practice anyway.
 
-The gap between the rule and the room is what you plan around. Ask in writing, before the deposit, whether the property can register a foreign passport. The question feels insulting to send. Send it anyway, because the version where you find out at the door is worse. Moganshan runs on minsu (民宿), small owner-run guesthouses, rather than hotels. [What a minsu is](/where-to-stay/minsu-explained/) explains why they vary so much on this.
+The gap between the rule and the room is what you plan around. Ask in writing, before the deposit, whether the property can register a foreign passport. The question feels insulting to send. Send it anyway, because the version where you find out at the door is worse. Moganshan runs on minsu (民宿), small owner run guesthouses, rather than hotels. [What a minsu is](/where-to-stay/minsu-explained/) explains why they vary so much on this.
 
 > Joint directive of 24 May 2024 on foreign guests, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
@@ -150,7 +155,7 @@ Moganshan is rural, and its guesthouses are scattered across a set of villages.
 
 | Village | Where | What is there |
 |---|---|---|
-| Yucun | Foot of the mountain | Main hub. Market square and the scenic-area gateway |
+| Yucun | Foot of the mountain | Main hub. Market square and the scenic area gateway |
 | [Xiantan](/moganshan/villages/xiantan/) | North | More than 150 guesthouses in a village of about 2,000 people, about 90 percent locally run in 2019 |
 | Laoling | South | Reservoir, kayaking, cycling |
 | Houwu | West | Quiet. About 30 minutes from Yucun |
@@ -163,6 +168,6 @@ Ownership is the thing to hold on to. These are not chain properties with a head
 
 Deqing knows how to host people. Its guesthouse sector takes over 7 million guests a year on revenue above RMB 3 billion. None of that means the owner of a small house in Dazaowu has ever seen a card from your bank.
 
-So: get both apps working before flying, and carry cash. Then ask the host how they want to be paid, in the same message that asks about the passport.
+So: get both apps working before flying, and carry cash. Then ask the host how they want to be paid, in the same message that asks about the passport. [Paying for things on Moganshan](/plan/paying-for-things-on-moganshan/) sets the gate ticket, the shuttle and the room against the RMB 200 line, and says what the 2024 rules require of the ticket window.
 
 *Payment rules, the hotel directive and the VAT refund thresholds stand as at 5 August 2026.*

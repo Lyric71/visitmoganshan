@@ -131,6 +131,7 @@ Facts with a known expiry, checked without waiting for news.
 | Shuttle hours and last bus down | Varies seasonally, extended to 21:30 in summer 2025 | Seasonally |
 | Moganshan Lodge operating status | Still listed by Lonely Planet and TripAdvisor, likely defunct | Once, then close out |
 | Spartan base at Jun An Li | Announced for Q4 2026 | Quarterly until confirmed trading |
+| National Day 2026 visitor tally | No count of holiday visitors to Moganshan or Deqing had been published by the evening of 7 October 2026 (dispatch 2026-41 says so). When it appears it will most likely be a county figure, not a bureau count, and is printed as such | Each sweep until it appears or until the dispatch of 22 October 2026, then close out |
 | Tier 1 notices behind a block | The car ban's 2018 launch notice and the transfer notice 《关于景区交通换乘的公告》 are cited from tier 2 and tier 4 copies because deqing.gov.cn timed out and zj-mgs.com returns 403 to every client; `/plan/private-car-ban-on-moganshan/` and `/plan/moganshan-shuttle-system/` carry the lower tier citations. Added 4 October 2026: the county's art museum notice 莫干山镇又添文化地标 (deqing.gov.cn/art/2023/4/19/art_1229212604_59058390.html) timed out, so `/moganshan/villages/xiantan/` cites the museum's size from Xinmin Evening News, 8 October 2024 | At each quarterly volatile revision: fetch twice, and when both succeed swap the citation in the same run |
 
 ## Revision cadence by freshness tier (Part 2.5)

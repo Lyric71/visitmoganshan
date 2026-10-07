@@ -12,7 +12,7 @@ image_alt: Tiled village rooftops at the foot of a bamboo ridge at Moganshan, wi
 word_count: 2091
 author: liyan-ye
 published: 2026-08-08
-last_updated: 2026-10-05
+last_updated: 2026-10-08
 ---
 
 # Yucun, Xiantan and Sanjiuwu: the villages below Moganshan
@@ -144,13 +144,16 @@ Paying splits three ways.
 
 | How you pay | Where it stands in the villages |
 |---|---|
-| Alipay or WeChat Pay, foreign card bound | The documented route. Both have taken foreign issued cards since 2023 |
+| Alipay or WeChat Pay, foreign card bound | The documented route. Both have taken foreign issued cards since 2023. No fee up to RMB 200 a payment; above that, 3 percent of the whole payment |
 | Cash | Still circulates in the villages, and small notes are worth carrying |
 | Your card in the property's terminal | Do not count on it. About 80 percent of properties are individually owned, so no chain standard applies |
 
 > Foreign card binding on Alipay and WeChat Pay, and ownership share, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-Set both apps up before you fly and carry small notes. ATMs are a Wukang errand rather than a village one, so draw cash before you come up. [Money and payments](/plan/money-and-payments/) has the setup.
+> Foreign card fee, nothing up to RMB 200 a payment and 3 percent of the whole payment above it, Tenpay (财付通支付科技有限公司), 15 January 2026, tier 1.
+> https://posts.tenpay.com/posts/9e70c66564910e6002958e997eabb18b.html
+
+Set both apps up before you fly and carry small notes. ATMs are a Wukang errand rather than a village one, so draw cash before you come up. [Money and payments](/plan/money-and-payments/) has the setup. A room paid in one go usually sits above the RMB 200 line, and [paying for things on Moganshan](/plan/paying-for-things-on-moganshan/) works through the gate, the shuttle and the guesthouse desk.
 
 ![A village kitchen at Moganshan with dishes going out to a guesthouse dining room](/images/guide/villages-4.webp 'Outside Yucun this is the only kitchen you have after dark. Dinner is a message sent before you pay, not a decision made at seven.')
 
