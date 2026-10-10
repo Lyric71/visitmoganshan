@@ -253,7 +253,7 @@ Verify each by counting or checking, not by assuming.
 * [ ] No summary or conclusion section. No typed "Checked" line.
 * [ ] Every statistic in a blockquote with publisher, characters, date, tier and URL.
 * [ ] New figures appended to `sources/verified-sources.md`.
-* [ ] Frontmatter complete in the guide schema shape; `published` and `last_updated` equal the row's `publish_date`; `word_count` counted.
+* [ ] Frontmatter complete in the guide schema shape; `published` and `last_updated` present (the publish step sets both to the day it publishes, never the row's `publish_date`); `word_count` counted.
 * [ ] `seo_title`, `meta_description`, `excerpt` counted and inside ceilings, after the quality pass too.
 * [ ] At least one table; the answer table first where the brief is numerate.
 * [ ] Internal links verified against the inventory; affiliate slug verified or none.

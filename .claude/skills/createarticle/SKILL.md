@@ -166,8 +166,8 @@ image: /images/guide/<slug>.webp
 image_alt: <hand written, descriptive, never asserts a named place>
 word_count: <counted>
 author: <from the brief>
-published: <the brief's publish_date>
-last_updated: <the brief's publish_date>
+published: <the drafting day; the publish step sets both to the day it publishes>
+last_updated: <the drafting day>
 pillar: <P1 to P9>
 slot: <n>
 freshness_tier: <volatile | semi-stable | evergreen>

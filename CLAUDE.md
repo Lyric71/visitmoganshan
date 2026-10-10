@@ -156,10 +156,10 @@ Rates show the dollar figure with the yuan beside it, since yuan is what the
 booking is settled in. Nothing on a card is written here and nothing is ranked
 by us: the order is review count.
 
-## Editorial system (one piece every three days, 14 September 2026 to 12 September 2027)
+## Editorial system (122 core pieces and 52 dispatches, planned from 14 September 2026)
 
-The pipeline lives in `editorial/`. When the user says "Draft every row that
-is due", "Draft brief 003" or "Publish <slug>", read `editorial/CLAUDE.md` and
+The pipeline lives in `editorial/`. When the user says "Draft the next row in
+the queue", "Draft brief 003" or "Publish <slug>", read `editorial/CLAUDE.md` and
 `editorial/SPEC.md` first and follow `editorial/RUNBOOK.md`. The master plan
 is `content-drafts/moganshan-build-spec_1.md`; `editorial/scripts/build-briefs.mjs`
 generates the 122 briefs and the 174 row schedule from its Part 6 and Part 7.

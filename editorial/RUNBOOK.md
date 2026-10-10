@@ -1,20 +1,24 @@
 # Runbook
 
-One core piece every three days and one dispatch every Thursday, from
-14 September 2026 to 12 September 2027. 122 core slots, 52 dispatches, 174
-rows in `schedule.csv`.
+122 core slots and 52 weekly dispatches, 174 rows in `schedule.csv`, first
+planned from 14 September 2026 to 12 September 2027. The core pieces are
+drafted one an evening in `publish_date` order, whatever the date; a dispatch
+is drafted on the Wednesday evening of its week. `publish_date` orders the
+queue and never gates a run (`CLAUDE.md`, "publish_date orders the queue").
 
 ## The daily command
 
 Open Claude Code at the repo root and paste:
 
 ```
-Draft every row that is due.
+Draft the next row in the queue.
 ```
 
-That is the whole prompt. `CLAUDE.md` tells Claude what "due" means: any row
-whose `publish_date` is tomorrow, or earlier and still `not_started`. To draft
-a specific slot:
+That is the whole prompt. The next row is the row an interrupted run left at
+`drafted` or `quality_passed`, else the earliest `not_started` core row in
+`publish_date` order, whatever its date, plus the dispatch whose week has
+come. Only a held row waits (a dispatch, or notes that say `Hold until
+YYYY-MM-DD`). To draft a specific slot:
 
 ```
 Draft brief 003.
@@ -29,8 +33,10 @@ Publish private-car-ban
 ## What Claude does, in order
 
 1. Reads `CLAUDE.md` and `SPEC.md`.
-2. Finds the due rows in `schedule.csv`, takes them in date order, one full
-   pipeline each. A row that is `blocked` is skipped and said so.
+2. Takes the rows the runner picked from `schedule.csv` (the next core row
+   whatever its date, plus the dispatch whose week has come), in
+   `publish_date` order, one full pipeline each. A row that is `blocked` or
+   still held is never picked.
 3. Reads the brief file (or `briefs/templates/dispatch.md`).
 4. Reads `sources/site-profile.md` instead of fetching the site, unless the
    profile is more than a month old.
@@ -76,9 +82,10 @@ continues when each step passes:
 3. Checks the row has a `quality_passed_on` date. A row without one has not
    been through `/content-quality-us` and is not published; it goes back to
    `drafted` with the reason in `notes`.
-4. Sets `published` and `last_updated` to the row's `publish_date`. The
-   pre push hook refuses a date in the future, which is why the publish runs
-   on the morning of that date and not the evening before.
+4. Sets `published` and `last_updated` to the day of the publish run
+   (Shanghai), never the row's `publish_date`: a row publishes as soon as it
+   is `image_ready`, often before that date, and the pre push hook refuses a
+   date in the future.
 5. For a dispatch, does what `CLAUDE.md` "Where a dispatch goes today" says.
    For every piece, core or dispatch, edits each page named in
    `affects_pages` or under AFFECTS PAGES in the asset brief: corrects the
@@ -113,15 +120,17 @@ until the scheduled task or a person moves them.
 
 ## The rhythm
 
-| Track | When | Draft run | Publish run |
+| Track | Order | Draft run | Publish run |
 |---|---|---|---|
-| Core slot n | 14 September 2026 plus 3 x (n minus 1) days | the evening before, 22:00 | that night, 03:30 |
-| Weekly dispatch | every Thursday from 17 September 2026 | Wednesday 22:00, after the sweep | Thursday 03:30 |
+| Core slot | `publish_date` order, whatever the date | the next one every evening, 22:00 | the next morning, 03:30 |
+| Weekly dispatch | every Thursday from 17 September 2026, held until its date | Wednesday 22:00, after the sweep | Thursday 03:30 |
+| Held row (`Hold until YYYY-MM-DD` in notes) | its hold date | the evening before that date, or the first evening after | that date, or the first morning after |
 
-Seasonal pieces publish four to six weeks before the season they describe.
-Slots may be swapped within a quarter to follow news or weather. Never move
-a seasonal slot across quarters. A swap is two edits to `publish_date` in
-`schedule.csv` and a rename of the two brief files.
+Seasonal pieces were planned four to six weeks before the season they
+describe; with the queue running ahead of the calendar they often publish
+earlier, which is fine. Slots may still be swapped to follow news or weather:
+a swap is two edits to `publish_date` in `schedule.csv` and a rename of the
+two brief files, and it changes the order, not a release date.
 
 ## Production order differs from publication order
 
@@ -146,10 +155,11 @@ Part 8 of the master plan:
 |---|---|---|
 | 25 to 27 September 2026 | Mid Autumn Festival | Nothing changes; slots 4 and 5 run on schedule. |
 | 1 to 7 October 2026 | National Day Golden Week | Slots 7, 8 and 9 fall inside it and run on schedule. Slot 4 (the crowd calendar) must be live by 23 September. The Golden Week programme drops around 28 September; that week's dispatch carries it. |
-| 20 January 2027 | The annual sports presser | Slot 42 (race calendar) publishes 15 January, before the presser usually lands. If the article has not appeared, the row blocks; reslot it to the next free date inside Q2 and let the dispatch carry the presser. |
-| 10 February 2027 | The ten openings document | Slot 48 publishes 2 February, same rule. |
-| 6 February 2027 | Spring Festival 2027 | Slot 31 (Chinese New Year piece) publishes 13 December, well ahead. Slots 49 and 50 fall around the holiday and run on schedule. |
-| 10 to 12 April 2027 | UTMB race weekend | Slot 65 publishes 25 March, two weeks out, as planned. |
+| 20 January 2027 | The annual sports presser | Slot 42 (race calendar) is held until 15 January (`Hold until` in its notes), before the presser usually lands. If the article has not appeared, the row blocks; reslot it to the next free date inside Q2 and let the dispatch carry the presser. |
+| 10 February 2027 | The ten openings document | Slot 48 is held until 2 February, same rule. |
+| 6 February 2027 | Spring Festival 2027 | Slot 31 (Chinese New Year piece) is not held: it publishes when the queue reaches it, well ahead of the holiday. |
+| 10 to 12 April 2027 | UTMB race weekend | Slot 65 is not held: a race preview publishes when the queue reaches it, ahead of the race. |
+| 31 December 2026 and 12 September 2027 | The two year end reviews | Slots 37 and 122 are held until their dates (`Hold until` in their notes): each reviews a year that has to be over first. |
 | 31 December 2026 | Visa free scheme expiry with no extension announced | A standing watch item. Weekly from November. The dispatch carries whatever is announced the day it is announced. |
 
 ## Reviewing a draft
@@ -207,8 +217,8 @@ and the full model are all here, and a cloud routine has none of them.
 
 | Task | When (Shanghai) | What | Default |
 |---|---|---|---|
-| VisitMoganshan Editorial Draft | every day 22:00 | `run-daily.ps1 -Mode draft`: steps 0 to 3 for every row due tomorrow, stops at `image_ready` | enabled |
-| VisitMoganshan Editorial Publish | every day 03:30 | `run-daily.ps1 -Mode publish`: publishes every `image_ready` row whose date has arrived, builds, commits, pushes, emails | enabled |
+| VisitMoganshan Editorial Draft | every day 22:00 | `run-daily.ps1 -Mode draft`: steps 0 to 3 for the next core row whatever its date, plus the dispatch whose week has come, stops at `image_ready`; then `check-queue.mjs` | enabled |
+| VisitMoganshan Editorial Publish | every day 03:30 | `run-daily.ps1 -Mode publish`: publishes every `image_ready` row whatever its date (a held row waits for its hold date), builds, commits, pushes, emails | enabled |
 | VisitMoganshan News Sweep | every third day 08:00 | `run-news.ps1 -Mode sweep`: the crawler, then a Claude run that drafts and automatically publishes at most three news items | enabled |
 | VisitMoganshan News Publish | every day 12:00 | `run-news.ps1 -Mode publish`: a safety script, no model; moves any ready draft in, checks, builds, commits, pushes, emails | enabled |
 | VisitMoganshan News Poll | never, the task is disabled | `run-news.ps1 -Mode poll`: pulls main, and when the dashboard's "Run the sweep now" button has left a request, runs the sweep | **disabled** since 13 September 2026 |
@@ -218,15 +228,20 @@ automatically after the sweep. Unpublish a live item with
 `npm run news:unpublish -- <slug>`,
 pause with `"paused": true` in `news/settings.json`.
 
-Both tasks read `schedule.csv` first and exit in a second when nothing is
-due, so the daily trigger costs nothing on the two evenings in three with no
-slot. The hours sit outside the other four pipelines on this machine
+Both tasks read `schedule.csv` first and exit in a second, without starting
+Claude, only when they have truly nothing to do: no `image_ready` row to
+publish, or no core row left to draft that is not blocked or held. The log
+line says which. After every draft run, `scripts/check-queue.mjs` mails Cyril
+once a day if drafting has stalled for two days while briefs wait, a finished
+row has sat at `image_ready` for two days, or a week or less of draftable
+briefs is left. The hours sit outside the other four pipelines on this machine
 (ChinaWebFoundry 01:30 and 05:30, BBChien 00:00 and 05:00, TheRedScroll
 00:30 and 04:00, TheChinaPath 01:00 and 04:30); every pipeline now runs at night, so
 Claude CLI sessions can overlap between 00:00 and 05:30.
 
 Scripts live in `editorial/scripts/`. `register-tasks.ps1` creates or updates
-both tasks. Each run writes its console output to
+the tasks, each through the shared retry wrapper
+`automation/scripts/Invoke-ScheduledProjectScript.ps1`. Each run writes its console output to
 `logs/runs/<date>-<mode>.txt` next to the article run log. The machine has to
 be on, or asleep with wake allowed, at the run time. A missed run fires as
 soon as the machine is back.
@@ -243,9 +258,14 @@ pin the most capable model. Never lower the model to speed a run up.
 Manual test runs:
 
 ```
-powershell -ExecutionPolicy Bypass -File editorial\scripts\run-daily.ps1 -Mode draft -Force -Extra "Draft brief 003 only."
+powershell -ExecutionPolicy Bypass -File editorial\scripts\run-daily.ps1 -Mode draft -Only 003
 powershell -ExecutionPolicy Bypass -File editorial\scripts\run-daily.ps1 -Mode publish -Force
+node editorial/scripts/check-queue.mjs --dry-run
 ```
+
+`-Force` ignores only the plan start date; `-Only <brief_id>` runs one row,
+held or not. The queue check with `--dry-run` prints the mail it would send
+and sends nothing.
 
 ## Before the first run
 

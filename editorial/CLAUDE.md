@@ -2,10 +2,10 @@
 
 You are drafting guide articles and weekly dispatches for
 **visitmoganshan.com**, an English language guide to Moganshan in Deqing
-County, Zhejiang, published by BeyondBorder Group Ltd. One core piece every
-three days and one dispatch every Thursday, for 52 weeks from 14 September
-2026, from the rows in `schedule.csv`. Every path in this folder is relative
-to `editorial/` at the repo root.
+County, Zhejiang, published by BeyondBorder Group Ltd. 122 core pieces and
+52 weekly dispatches from the rows in `schedule.csv`: the core pieces drafted
+one an evening in `publish_date` order, a dispatch every Thursday. Every path
+in this folder is relative to `editorial/` at the repo root.
 
 Read this file and `SPEC.md` before every draft. **These two files override
 any conflicting rule inside the createarticle, content-quality-us and
@@ -26,10 +26,10 @@ Every piece goes through these steps. None is optional.
 | 1. Draft | `/createarticle` (house version in `.claude/skills/`) | 13 iterations from the brief to `output/<slug>.md`, in the guide frontmatter shape | `drafted`, `drafted_on` |
 | 2. Quality | `/content-quality-us` with the British English override | 18 pass loop on the draft, in place | `quality_passed`, `quality_passed_on` |
 | 3. Images | `/generate-image-openai` | Lead image plus three body figures from the image block, each looked at, encoded, audited | `image_ready`, `image_generated_on` |
-| 4. Publish | move into `src/content/guide/`, audit, date check, `astro check`, build, git | Publishes the piece on its calendar date, commits on main, pushes to origin | `published`, `published_on` |
+| 4. Publish | move into `src/content/guide/`, audit, date check, `astro check`, build, git | Publishes the piece the morning after it reaches `image_ready`, whatever its `publish_date`, commits on main, pushes to origin | `published`, `published_on` |
 | 5. Notify | `scripts/notify-publish.mjs` (Resend) | Emails a publish summary to Cyril | (noted in the run log) |
 
-"Draft every row that is due." runs steps 0 to 3 and stops at `image_ready`.
+"Draft the next row in the queue." runs steps 0 to 3 and stops at `image_ready`.
 Step 4 runs from the scheduled publish task the next morning, or when a
 person says "Publish <slug>". Step 5 follows step 4 automatically.
 
@@ -45,12 +45,45 @@ publish step is a move, a rename and the checks.
 
 | Track | Cadence | Brief | Publishes to |
 |---|---|---|---|
-| Core editorial | one piece every three days, 122 slots | `briefs/YYYY-MM-DD-<slug>.md` | `src/content/guide/<flat-name>.md`, routed by its `url` |
+| Core editorial | one piece each evening, in `publish_date` order, 122 slots | `briefs/YYYY-MM-DD-<slug>.md` | `src/content/guide/<flat-name>.md`, routed by its `url` |
 | Weekly dispatch | every Thursday, 52 of them, drafted Wednesday evening | `briefs/templates/dispatch.md` | see "Where a dispatch goes today" |
 
-A draft run takes every row due, in date order, the full pipeline on each
-before starting the next. Some evenings that is two pieces (a core slot and a
-dispatch share 17 September, for instance).
+A draft run takes one core row (a row an interrupted run left at `drafted`
+or `quality_passed`, else the next `not_started` core row in `publish_date`
+order, whatever its date) plus the dispatch whose week has come, the full
+pipeline on each before starting the next. On a Wednesday evening that is two
+pieces.
+
+## publish_date orders the queue (standing, 10 October 2026)
+
+`publish_date` orders the queue. It never gates a run: a future date is never
+a reason to skip a row, to leave a finished draft unpublished or to end a run
+with "nothing due". Until 10 October 2026 the runner drafted a core row only
+on the evening before its `publish_date` and published it only on that date,
+so ready briefs sat idle two evenings in three and finished work waited on
+the calendar. Now the draft run takes the next core row whatever its date and
+the publish run takes every `image_ready` row. Seasonal and evergreen pieces
+publish early; that is fine.
+
+The one exception is content tied to a real date, and it is explicit:
+
+| Row | Held until | Why |
+|---|---|---|
+| A weekly dispatch (`content_type` Dispatch) | its `publish_date` | It reports the news of its own week. |
+| A row whose `notes` say `Hold until YYYY-MM-DD` | that date | A diary item waits for its source document (042, 048, 058, 060, 071, 103); a year end review waits for the year to end (037, 122). |
+
+A held row is drafted no earlier than the evening before its hold date and
+published no earlier than that date. To hold a new row for a real world
+event, put `Hold until YYYY-MM-DD.` at the start of its notes; never bring
+back a blanket date filter. `run-daily.ps1` and `scripts/check-queue.mjs`
+read the same rule. A draft run that finds no row ends without starting
+Claude only when the queue is truly empty or every remaining row is held or
+blocked, and it says which.
+
+`scripts/check-queue.mjs` runs after every draft run and mails Cyril once a
+day when no core piece has been drafted for two days while briefs wait, when
+a finished row has sat at `image_ready` for two days, or when a week or less
+of draftable briefs is left. It reports facts, never an open items list.
 
 ## Project wins over runbook
 
@@ -165,8 +198,8 @@ Say in your log that iteration 7 ran as the cadence variant.
    use USD in prose.
 8. **Dates in frontmatter.** The repo's fields are `published` and
    `last_updated`, not the master plan's `datePublished` and `dateChecked`.
-   Both are set to the row's `publish_date` on first publish. `published`
-   never moves. `last_updated` moves when the body changes, and
+   Both are set to the day the publish step runs (Shanghai), never the row's
+   `publish_date`, which only orders the queue. `published` never moves. `last_updated` moves when the body changes, and
    `npm run dates:check` refuses a push where it did not. The plan's third
    field, `dateChecked`, and the hash guarded `dateModified` are Phase 0b
    engineering and do not exist yet; see "Corrections against the repo".

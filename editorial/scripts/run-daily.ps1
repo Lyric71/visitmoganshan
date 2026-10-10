@@ -9,19 +9,29 @@
   here. A cloud routine has none of them.
 
   Modes:
-    draft    "Draft every row that is due." Steps 0 to 3 of the pipeline for
-             every schedule.csv row whose publish_date is tomorrow (or earlier
-             and still not started). Stops at image_ready. Runs every evening;
-             the calendar decides whether there is anything to do. A core
-             piece falls every third day, a dispatch every Wednesday evening
-             for Thursday.
-    publish  Publishes every row whose status is image_ready and whose
-             publish_date is today or earlier, then sends the Resend email.
-             Runs every morning. The night between the two is the review
-             window.
+    draft    "Draft the next row in the queue." Steps 0 to 3 of the pipeline
+             on one core row: a row an interrupted run left at drafted or
+             quality_passed, else the next not_started core row in
+             publish_date order, whatever its date. Plus the week's dispatch
+             once its week has come (the evening before its Thursday, or
+             later if missed). Stops at image_ready. Runs every evening.
+             Then check-queue.mjs mails Cyril when drafting stalls, a
+             finished row sits unpublished or the queue runs low.
+    publish  Publishes every row whose status is image_ready, whatever its
+             publish_date, then sends the Resend email. Runs every morning.
+             The night between the two is the review window.
 
-  Both modes read schedule.csv first and exit without starting Claude when
-  nothing is due, so an idle evening costs nothing.
+  publish_date orders the queue. It never gates a run, in either mode:
+  until 10 October 2026 a core row was drafted only on the evening before its
+  publish_date, so ready briefs sat idle two evenings in three and finished
+  work waited on the calendar. The one exception is content tied to a real
+  date: a weekly dispatch (content_type Dispatch) reports its own week, and a
+  row whose notes say "Hold until YYYY-MM-DD" waits for an event, an
+  announcement or the end of a year. Those are drafted no earlier than the
+  evening before that date and published no earlier than that date.
+
+  A run with nothing to do exits without starting Claude, and says why:
+  the queue is empty, or every remaining row is held or blocked.
 
   Output of each run is written to editorial/logs/runs/<date>-<mode>.txt.
   Register with editorial/scripts/register-tasks.ps1.
@@ -32,12 +42,12 @@
 param(
   [ValidateSet('draft', 'publish')]
   [string]$Mode = 'draft',
-  # Manual test run: ignore the plan start date and the date filters.
+  # Manual test run: ignore the plan start date.
   [switch]$Force,
   # Optional extra instructions appended to the prompt (for example a resume
   # note after an interrupted run).
   [string]$Extra = '',
-  # Run one row only, by brief_id, ignoring the date filters and the plan
+  # Run one row only, by brief_id, ignoring its hold date and the plan
   # start. The way to test the pipeline on a single piece.
   [string]$Only = ''
 )
@@ -59,30 +69,70 @@ if (-not $Force -and -not $Only -and (Get-Date).Date -lt $PlanStart) {
   exit 0
 }
 
-# Read the schedule and decide whether Claude has anything to do today. A
-# draft is due when the row publishes tomorrow, or when it publishes today or
-# earlier and was never started (a missed evening). A publish is due when the
-# row is image_ready and its date has arrived.
-$Schedule = Import-Csv (Join-Path $Repo 'editorial\schedule.csv')
+# The queue watchdog: after every draft run, including one with nothing to
+# do. It mails at most once a day and never fails the run.
+function Invoke-QueueCheck {
+  if ($Mode -ne 'draft') { return }
+  $Queue = & cmd.exe /d /c "node editorial\scripts\check-queue.mjs 2>&1"
+  "$(Get-Date -Format s) queue: $($Queue -join ' ')" | Out-File $RunLog -Append -Encoding utf8
+}
+
+# The date a time bound row is held until, or $null. A weekly dispatch reports
+# its own week, so it waits for its publish_date; any other row waits only
+# when its notes carry "Hold until YYYY-MM-DD". check-queue.mjs applies the
+# same rule.
+function Get-HoldDate($Row) {
+  if ($Row.content_type -eq 'Dispatch') { return ([datetime]$Row.publish_date).Date }
+  if ($Row.notes -match 'Hold until (\d{4}-\d{2}-\d{2})') { return ([datetime]$Matches[1]).Date }
+  return $null
+}
+function Test-Released($Row, [datetime]$Limit) {
+  $Hold = Get-HoldDate $Row
+  return (-not $Hold -or $Hold -le $Limit)
+}
+
+# Read the schedule and pick the rows. publish_date orders the queue; it is
+# never a reason to skip a row or end a run.
+#   draft:   a core row an interrupted run left at drafted or quality_passed;
+#            else the next not_started core row, whatever its date. Plus every
+#            dispatch whose week has come (hold date tomorrow or earlier),
+#            not_started or left half done. Blocked and held rows are skipped.
+#   publish: every image_ready row that is not held, whatever its date.
+$Schedule = @(Import-Csv (Join-Path $Repo 'editorial\schedule.csv') | Sort-Object publish_date, brief_id)
 $Today = (Get-Date).Date
 $Tomorrow = $Today.AddDays(1)
 if ($Only) {
-  $Due = $Schedule | Where-Object { $_.brief_id -eq $Only }
+  $Due = @($Schedule | Where-Object { $_.brief_id -eq $Only })
 } elseif ($Mode -eq 'draft') {
-  $Due = $Schedule | Where-Object {
-    $_.status -eq 'not_started' -and (
-      $Force -or ([datetime]$_.publish_date).Date -le $Tomorrow
-    )
+  $Core = @($Schedule | Where-Object { $_.content_type -ne 'Dispatch' })
+  $Next = @($Core | Where-Object { $_.status -in 'drafted', 'quality_passed' })
+  if (-not $Next) {
+    $Next = @($Core | Where-Object {
+      $_.status -eq 'not_started' -and (Test-Released $_ $Tomorrow)
+    } | Select-Object -First 1)
   }
+  $Dispatches = @($Schedule | Where-Object {
+    $_.content_type -eq 'Dispatch' -and
+    $_.status -in 'not_started', 'drafted', 'quality_passed' -and
+    (Test-Released $_ $Tomorrow)
+  })
+  $Due = @(@($Next) + @($Dispatches) | Where-Object { $_ } | Sort-Object publish_date, brief_id)
 } else {
-  $Due = $Schedule | Where-Object {
-    $_.status -eq 'image_ready' -and (
-      $Force -or ([datetime]$_.publish_date).Date -le $Today
-    )
-  }
+  $Due = @($Schedule | Where-Object {
+    $_.status -eq 'image_ready' -and (Test-Released $_ $Today)
+  })
 }
 if (-not $Due) {
-  "$(Get-Date -Format s) nothing due for $Mode" | Out-File $RunLog -Encoding utf8
+  $Left = @($Schedule | Where-Object { $_.status -notin 'published', 'image_ready', 'blocked' })
+  if ($Mode -eq 'publish') {
+    $Why = 'no image_ready row to publish'
+  } elseif (-not $Left) {
+    $Why = 'the queue is empty: every row is published, finished or blocked'
+  } else {
+    $Why = "no row is draftable: the $($Left.Count) rows left are held until their date"
+  }
+  "$(Get-Date -Format s) nothing to do for ${Mode}: $Why" | Out-File $RunLog -Encoding utf8
+  Invoke-QueueCheck
   exit 0
 }
 $DueIds = ($Due | ForEach-Object { $_.brief_id }) -join ', '
@@ -92,12 +142,18 @@ $Model = 'claude-opus-5-5'
 
 if ($Mode -eq 'draft') {
   $Prompt = @"
-Draft every row that is due.
+Draft the next row in the queue.
 
 Read editorial/CLAUDE.md, editorial/SPEC.md and editorial/RUNBOOK.md first and
-follow them exactly. The rows due tonight, by brief_id in
-editorial/schedule.csv, are: $DueIds. Take them in publish_date order, one at
-a time, the full pipeline on each before starting the next. For a core slot,
+follow them exactly. The rows for tonight, by brief_id in
+editorial/schedule.csv, are: $DueIds. The runner picked them: the next core
+row in publish_date order WHATEVER ITS PUBLISH_DATE (that column orders the
+queue, it is not a release date, and a future date is never a reason to skip
+a row or end the run), or the row an interrupted run left half done, plus the
+dispatch whose week has come. Draft exactly these. Take them in publish_date
+order, one at a time, the full pipeline on each before starting the next. A
+row that resumes at drafted or quality_passed continues from the step it
+reached. For a core slot,
 run steps 0 to 3: Chinese deep research with the source tiers applied and
 every source validated twice, the house /createarticle from the brief file,
 /content-quality-us on the finished draft with the British English override,
@@ -127,8 +183,10 @@ and do not publish it), then move the
 output file into src/content/guide under its flat file name with the guide
 frontmatter (or, for a dispatch, into the place CLAUDE.md names for
 dispatches today), confirm the four images are in public/images/guide and
-referenced from the file, set published and last_updated to the row's
-publish_date, then run npm run img:audit, npm run dates:check, npm run check
+referenced from the file, set published and last_updated to today's date in Shanghai, the day this run
+publishes it, never the row's publish_date (a row can publish before its
+publish_date, which only orders the queue, and dates:check refuses a future
+date), then run npm run img:audit, npm run dates:check, npm run check
 and npm run build. This scheduled publish run is the explicit request for a
 build that the root CLAUDE.md requires. When all four pass: set the row to
 published with published_on, git add everything the piece touched (the guide
@@ -152,7 +210,7 @@ if ($Extra) {
 }
 
 if ($Force -or $Only) {
-  $Prompt += "`n`nMANUAL TEST RUN: the date filters were ignored. Say in the run log that this was a forced test run."
+  $Prompt += "`n`nMANUAL TEST RUN: started by hand with -Force or -Only. Say in the run log that this was a forced test run."
   $RunLog = Join-Path $RunLogDir "$Stamp-$Mode-forced.txt"
 }
 
@@ -167,4 +225,5 @@ $AgentRunner = 'C:\Users\cyril\Project\automation\scripts\Invoke-ProjectAgent.ps
 $Code = & $AgentRunner -Repo $Repo -PromptFile $PromptFile -RunLog $RunLog -RunName "VisitMoganshan $Mode"
 
 "$(Get-Date -Format s) end $Mode exit $Code" | Out-File $RunLog -Append -Encoding utf8
+Invoke-QueueCheck
 exit $Code

@@ -1,8 +1,10 @@
 # Visit Moganshan editorial system
 
 The 52 week editorial plan for visitmoganshan.com and the specs Claude Code
-drafts it from: 122 core pieces, one every three days, and 52 weekly
-dispatches, every Thursday, from 14 September 2026 to 12 September 2027.
+drafts it from: 122 core pieces and 52 weekly dispatches, planned from
+14 September 2026 to 12 September 2027. The core pieces are drafted one an
+evening in `publish_date` order whatever the date, and publish the next
+morning; a dispatch goes out every Thursday.
 Lives in `editorial/` inside the repo so the pipeline can publish straight
 into `src/content/guide/`.
 
@@ -41,15 +43,19 @@ logs/runs/                runner console output, gitignored
 scripts/
   build-briefs.mjs        regenerates briefs/ and schedule.csv from the master plan
   run-daily.ps1           the runner, draft or publish mode
-  register-tasks.ps1      creates the two scheduled tasks
+  check-queue.mjs         the queue watchdog mail, after every draft run
+  register-tasks.ps1      creates the scheduled tasks
   notify-publish.mjs      the Resend email
 ```
 
 ## The daily command
 
 ```
-Draft every row that is due.
+Draft the next row in the queue.
 ```
+
+`publish_date` orders the queue and never gates a run. Only a dispatch and a
+row whose notes say `Hold until YYYY-MM-DD` wait for their date.
 
 ## The pipeline
 

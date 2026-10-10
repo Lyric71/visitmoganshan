@@ -10,10 +10,17 @@
   VisitMoganshan News Poll          disabled: picked up "Run the sweep now"
                                     requests from the dashboard
 
-  The draft and publish pair run daily and both read schedule.csv before
-  starting Claude, so an evening with no slot due exits in a second. The draft runs the evening
-  before a piece's publish date; the publish runs the next morning, so the
-  night is the review window and the piece is live on its calendar date.
+  The draft and publish pair run daily. publish_date orders the queue and
+  never gates a run: each evening the draft takes the next core row whatever
+  its date (plus the dispatch whose week has come), and the next morning the
+  publish takes every image_ready row, so the night is the review window.
+  Only a dispatch and a row whose notes say "Hold until YYYY-MM-DD" wait for
+  their date. A run exits in a second, without starting Claude, only when it
+  has truly nothing to do.
+
+  Every task runs through the shared retry wrapper
+  C:\Users\cyril\Project\automation\scripts\Invoke-ScheduledProjectScript.ps1,
+  exactly as the live tasks do, so running this script again keeps the action.
 
   The hours sit outside the other four pipelines on this machine
   (ChinaWebFoundry 01:30 and 05:30, BBChien 00:00 and 05:00, TheRedScroll
@@ -50,10 +57,11 @@ $ErrorActionPreference = 'Stop'
 $Runner = Join-Path $PSScriptRoot 'run-daily.ps1'
 $NewsRunner = Join-Path $PSScriptRoot 'run-news.ps1'
 $Pwsh = "$env:SystemRoot\System32\WindowsPowerShell\v1.0\powershell.exe"
+$Wrapper = 'C:\Users\cyril\Project\automation\scripts\Invoke-ScheduledProjectScript.ps1'
 
 function Register([string]$Name, [string]$Mode, $Trigger, [bool]$Enabled, [string]$Script = $Runner) {
   $Action = New-ScheduledTaskAction -Execute $Pwsh `
-    -Argument "-NoProfile -ExecutionPolicy Bypass -File `"$Script`" -Mode $Mode"
+    -Argument "-NoProfile -ExecutionPolicy Bypass -File `"$Wrapper`" -Runner `"$Script`" -Mode $Mode"
   $Settings = New-ScheduledTaskSettingsSet `
     -ExecutionTimeLimit (New-TimeSpan -Hours 6) `
     -StartWhenAvailable `

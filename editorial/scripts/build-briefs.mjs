@@ -187,6 +187,13 @@ const CROWD_CALENDAR_SLOTS = new Set([4, 31, 72, 90, 100]);
 const DESK_ONLY_SLOTS = new Set([2, 10, 11, 13, 28, 34]);
 const NO_CALL_SLOTS = new Set([3, 13, 22, 27]);
 
+// publish_date orders the queue and never gates a run (editorial/CLAUDE.md).
+// Only a piece tied to a real date waits for it: a diary item (its source
+// document appears on a known date) and the two year end reviews. Their notes
+// carry "Hold until <publish_date>", which run-daily.ps1 and check-queue.mjs
+// read. Notes already in schedule.csv survive a regeneration.
+const YEAR_END_SLOTS = new Set([37, 122]);
+
 // Part 5.7, affiliate placement by pillar.
 const AFFILIATE_RULE = {
   P1: 'Ticket and train modules only where the piece is transactional. Never on payments or eSIM pieces.',
@@ -549,7 +556,9 @@ for (const slot of slots) {
           : 'Article',
     status: 'not_started',
     notes: /DIARY ITEM/.test(slot.note)
-      ? 'Diary item: confirm the source document has appeared before drafting.'
+      ? `Hold until ${date}. Diary item: confirm the source document has appeared before drafting.`
+      : YEAR_END_SLOTS.has(slot.n)
+        ? `Hold until ${date}. ${slot.n === 37 ? 'Year in review' : 'A look back at the first year'}: written once the year is over.`
       : DESK_ONLY_SLOTS.has(slot.n)
         ? 'Desk written from published sources; never claim it was walked.'
         : '',
