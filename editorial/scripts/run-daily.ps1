@@ -16,7 +16,9 @@
              once its week has come (the evening before its Thursday, or
              later if missed). Stops at image_ready. Runs every evening.
              Then check-queue.mjs mails Cyril when drafting stalls, a
-             finished row sits unpublished or the queue runs low.
+             finished row sits unpublished or the queue runs low. A draft
+             that ends more than eight hours before the next scheduled
+             publish (a daytime catch up) starts the publish task at once.
     publish  Publishes every row whose status is image_ready, whatever its
              publish_date, then sends the Resend email. Runs every morning.
              The night between the two is the review window.
@@ -77,6 +79,49 @@ function Invoke-QueueCheck {
   "$(Get-Date -Format s) queue: $($Queue -join ' ')" | Out-File $RunLog -Append -Encoding utf8
 }
 
+# A draft that finishes far from its night publishes now, not at the next
+# 03:30. The 22:00 draft is meant to be followed by the 03:30 publish a few
+# hours later, the night being the review window. A draft that ends in the
+# day instead (a catch up after the machine was off, or after the tunnel was
+# down and the model unreachable) would leave its row at image_ready until
+# the next morning: on 11 October 2026 row 010 finished at 12:26 and would
+# have waited fifteen hours, after the 03:30 run had already found nothing.
+# So when the next scheduled publish is more than $ReviewWindowHours away and
+# a finished row is waiting, the publish task is started now. It runs as the
+# registered task, with its own lock, log and retries. A disabled publish
+# task means publishing is paused, and it is left alone. Forced and single
+# row test runs never chain.
+$ReviewWindowHours = 8
+$PublishTask = 'VisitMoganshan Editorial Publish'
+function Start-LatePublish {
+  if ($Mode -ne 'draft' -or $Force -or $Only) { return }
+  $Now = Get-Date
+  $Ready = @(Import-Csv (Join-Path $Repo 'editorial\schedule.csv') | Where-Object {
+    $_.status -eq 'image_ready' -and (Test-Released $_ $Now.Date)
+  })
+  if (-not $Ready) { return }
+  $Task = Get-ScheduledTask -TaskName $PublishTask -ErrorAction SilentlyContinue
+  if (-not $Task) {
+    "$(Get-Date -Format s) publish chain: no task named '$PublishTask'; rows wait for a publish run" | Out-File $RunLog -Append -Encoding utf8
+    return
+  }
+  if ($Task.State -eq 'Disabled') {
+    "$(Get-Date -Format s) publish chain: '$PublishTask' is disabled (publishing paused); not started" | Out-File $RunLog -Append -Encoding utf8
+    return
+  }
+  $Next = ($Task | Get-ScheduledTaskInfo).NextRunTime
+  if ($Next -and $Next -gt $Now -and ($Next - $Now).TotalHours -le $ReviewWindowHours) {
+    "$(Get-Date -Format s) publish chain: next publish at $($Next.ToString('s')), within the review window; not started" | Out-File $RunLog -Append -Encoding utf8
+    return
+  }
+  try {
+    Start-ScheduledTask -TaskName $PublishTask
+    "$(Get-Date -Format s) publish chain: next publish was $(if ($Next) { $Next.ToString('s') } else { 'not scheduled' }); started '$PublishTask' now for $(($Ready | ForEach-Object { $_.brief_id }) -join ', ')" | Out-File $RunLog -Append -Encoding utf8
+  } catch {
+    "$(Get-Date -Format s) publish chain: could not start '$PublishTask': $($_.Exception.Message)" | Out-File $RunLog -Append -Encoding utf8
+  }
+}
+
 # The date a time bound row is held until, or $null. A weekly dispatch reports
 # its own week, so it waits for its publish_date; any other row waits only
 # when its notes carry "Hold until YYYY-MM-DD". check-queue.mjs applies the
@@ -133,6 +178,7 @@ if (-not $Due) {
   }
   "$(Get-Date -Format s) nothing to do for ${Mode}: $Why" | Out-File $RunLog -Encoding utf8
   Invoke-QueueCheck
+  Start-LatePublish
   exit 0
 }
 $DueIds = ($Due | ForEach-Object { $_.brief_id }) -join ', '
@@ -226,4 +272,5 @@ $Code = & $AgentRunner -Repo $Repo -PromptFile $PromptFile -RunLog $RunLog -RunN
 
 "$(Get-Date -Format s) end $Mode exit $Code" | Out-File $RunLog -Append -Encoding utf8
 Invoke-QueueCheck
+if ($Code -eq 0) { Start-LatePublish }
 exit $Code

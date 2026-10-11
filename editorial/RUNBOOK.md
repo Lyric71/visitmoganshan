@@ -126,6 +126,12 @@ until the scheduled task or a person moves them.
 | Weekly dispatch | every Thursday from 17 September 2026, held until its date | Wednesday 22:00, after the sweep | Thursday 03:30 |
 | Held row (`Hold until YYYY-MM-DD` in notes) | its hold date | the evening before that date, or the first evening after | that date, or the first morning after |
 
+A draft run that ends more than eight hours before the next scheduled publish
+(a daytime catch up, after the machine was off or the tunnel was down) starts
+the publish task itself as soon as it finishes, so a finished row never waits
+a whole day for 03:30. The night window still applies to every draft that
+ends in the night. A disabled publish task pauses this too.
+
 Seasonal pieces were planned four to six weeks before the season they
 describe; with the queue running ahead of the calendar they often publish
 earlier, which is fine. Slots may still be swapped to follow news or weather:

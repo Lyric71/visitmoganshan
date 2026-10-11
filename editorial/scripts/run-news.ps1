@@ -120,11 +120,17 @@ $SweepCode = $LASTEXITCODE
 $ErrorActionPreference = 'Stop'
 if ($SweepCode -ne 0) {
   "$(Get-Date -Format s) sweep failed with exit $SweepCode, no drafting run" | Out-File $RunLog -Append -Encoding utf8
+  "$(Get-Date -Format s) end news sweep exit $SweepCode" | Out-File $RunLog -Append -Encoding utf8
   exit $SweepCode
 }
+# Both early exits close with an end line. Relaunch-MissedTasks.ps1 reads a
+# start line with no end line as a run that never finished, so every gated
+# sweep was relaunched at each logon (7 and 10 October 2026, again and again)
+# and some of those relaunches then swept on an off day, which moved the gate.
 $Triage = Join-Path $Repo "editorial\news\triage\$Stamp.md"
 if (-not (Test-Path $Triage)) {
   "$(Get-Date -Format s) no triage file for today (paused or gated), nothing to draft" | Out-File $RunLog -Append -Encoding utf8
+  "$(Get-Date -Format s) end news sweep exit 0" | Out-File $RunLog -Append -Encoding utf8
   exit 0
 }
 
