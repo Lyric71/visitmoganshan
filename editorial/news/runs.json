@@ -3,309 +3,6 @@
   "runs": [
     {
       "kind": "publish",
-      "started": "2026-09-19T05:22:40.211Z",
-      "finished": "2026-09-19T05:22:40.248Z",
-      "outcome": "skipped",
-      "skipReason": "nothing ready"
-    },
-    {
-      "kind": "sweep",
-      "started": "2026-09-19T05:30:36.659Z",
-      "outcome": "skipped",
-      "skipReason": "gate",
-      "finished": "2026-09-19T05:30:36.688Z",
-      "durationMs": 29
-    },
-    {
-      "kind": "publish",
-      "started": "2026-09-19T05:30:39.204Z",
-      "finished": "2026-09-19T05:30:39.247Z",
-      "outcome": "skipped",
-      "skipReason": "nothing ready"
-    },
-    {
-      "kind": "publish",
-      "started": "2026-09-20T04:00:07.526Z",
-      "finished": "2026-09-20T04:00:07.618Z",
-      "outcome": "skipped",
-      "skipReason": "nothing ready"
-    },
-    {
-      "kind": "publish",
-      "started": "2026-09-21T02:37:48.050Z",
-      "finished": "2026-09-21T02:37:48.095Z",
-      "outcome": "skipped",
-      "skipReason": "nothing ready"
-    },
-    {
-      "kind": "sweep",
-      "started": "2026-09-21T02:37:49.048Z",
-      "outcome": "success",
-      "sourcesQueried": 22,
-      "candidates": 34,
-      "newCandidates": 21,
-      "unreachable": [
-        "deqing-gov",
-        "huzhou-cts",
-        "zj-cts",
-        "huzhou-gov"
-      ],
-      "errors": [
-        "meadin: 酒店频道: anti bot challenge page (8232 bytes), open it in a browser instead",
-        "deqing-gov: 公告公示: timeout after 12000 ms",
-        "deqing-gov: 德清要闻 A: timeout after 12000 ms",
-        "deqing-gov: 德清要闻 B: timeout after 12000 ms",
-        "deqing-gov: 莫干山镇: timeout after 12000 ms",
-        "deqing-gov: 文广旅体局: timeout after 12000 ms",
-        "hangzhou-daily: 杭州日报数字报: anti bot challenge page (90 bytes), open it in a browser instead",
-        "huzhou-cts: 工作动态: timeout after 12000 ms",
-        "huzhou-cts: 政策文件: timeout after 12000 ms",
-        "zj-cts: 浙江文旅: fetch failed",
-        "zj-cts: 政务公开: fetch failed",
-        "zj-cts: 浙江省旅游度假区: fetch failed",
-        "huzhou-gov: 湖州要闻 德清: fetch failed",
-        "huzhou-gov: 交通运输局: timeout after 12000 ms"
-      ],
-      "triage": "editorial/news/triage/2026-09-21.md",
-      "finished": "2026-09-21T02:42:46.436Z",
-      "durationMs": 297388
-    },
-    {
-      "kind": "publish",
-      "started": "2026-09-21T03:00:41.148Z",
-      "finished": "2026-09-21T03:01:50.635Z",
-      "outcome": "success",
-      "slugs": [
-        "moganshan-1910-pool-reopens-as-a-cafe",
-        "osmanthus-in-flower-on-moganshan"
-      ],
-      "paths": [
-        "/journal/news/2026/09/moganshan-1910-pool-reopens-as-a-cafe",
-        "/journal/news/2026/09/osmanthus-in-flower-on-moganshan"
-      ],
-      "durationMs": 69487
-    },
-    {
-      "kind": "publish",
-      "started": "2026-09-21T04:00:03.547Z",
-      "finished": "2026-09-21T04:00:03.586Z",
-      "outcome": "skipped",
-      "skipReason": "nothing ready"
-    },
-    {
-      "kind": "publish",
-      "started": "2026-09-21T10:44:22.961Z",
-      "finished": "2026-09-21T10:44:23.001Z",
-      "outcome": "skipped",
-      "skipReason": "nothing ready"
-    },
-    {
-      "kind": "sweep",
-      "started": "2026-09-21T10:44:23.950Z",
-      "outcome": "skipped",
-      "skipReason": "gate",
-      "finished": "2026-09-21T10:44:23.976Z",
-      "durationMs": 26
-    },
-    {
-      "kind": "publish",
-      "started": "2026-09-21T10:47:55.832Z",
-      "finished": "2026-09-21T10:47:55.872Z",
-      "outcome": "skipped",
-      "skipReason": "nothing ready"
-    },
-    {
-      "kind": "sweep",
-      "started": "2026-09-22T00:48:43.909Z",
-      "outcome": "skipped",
-      "skipReason": "gate",
-      "finished": "2026-09-22T00:48:43.994Z",
-      "durationMs": 85
-    },
-    {
-      "kind": "publish",
-      "started": "2026-09-22T00:50:29.596Z",
-      "finished": "2026-09-22T00:50:29.640Z",
-      "outcome": "skipped",
-      "skipReason": "nothing ready"
-    },
-    {
-      "kind": "sweep",
-      "started": "2026-09-22T00:50:30.596Z",
-      "outcome": "skipped",
-      "skipReason": "gate",
-      "finished": "2026-09-22T00:50:30.609Z",
-      "durationMs": 13
-    },
-    {
-      "kind": "publish",
-      "started": "2026-09-22T01:14:10.503Z",
-      "finished": "2026-09-22T01:14:10.529Z",
-      "outcome": "skipped",
-      "skipReason": "nothing ready"
-    },
-    {
-      "kind": "sweep",
-      "started": "2026-09-22T01:14:11.442Z",
-      "outcome": "skipped",
-      "skipReason": "gate",
-      "finished": "2026-09-22T01:14:11.462Z",
-      "durationMs": 20
-    },
-    {
-      "kind": "publish",
-      "started": "2026-09-22T03:14:02.295Z",
-      "finished": "2026-09-22T03:14:02.351Z",
-      "outcome": "skipped",
-      "skipReason": "nothing ready"
-    },
-    {
-      "kind": "sweep",
-      "started": "2026-09-22T03:14:03.645Z",
-      "outcome": "skipped",
-      "skipReason": "gate",
-      "finished": "2026-09-22T03:14:03.663Z",
-      "durationMs": 18
-    },
-    {
-      "kind": "publish",
-      "started": "2026-09-22T04:00:06.437Z",
-      "finished": "2026-09-22T04:00:06.527Z",
-      "outcome": "skipped",
-      "skipReason": "nothing ready"
-    },
-    {
-      "kind": "sweep",
-      "started": "2026-09-22T07:09:51.610Z",
-      "outcome": "skipped",
-      "skipReason": "gate",
-      "finished": "2026-09-22T07:09:51.637Z",
-      "durationMs": 27
-    },
-    {
-      "kind": "publish",
-      "started": "2026-09-22T07:09:53.930Z",
-      "finished": "2026-09-22T07:09:53.980Z",
-      "outcome": "skipped",
-      "skipReason": "nothing ready"
-    },
-    {
-      "kind": "sweep",
-      "started": "2026-09-22T07:42:46.524Z",
-      "outcome": "skipped",
-      "skipReason": "gate",
-      "finished": "2026-09-22T07:42:46.537Z",
-      "durationMs": 13
-    },
-    {
-      "kind": "publish",
-      "started": "2026-09-22T07:42:47.634Z",
-      "finished": "2026-09-22T07:42:47.672Z",
-      "outcome": "skipped",
-      "skipReason": "nothing ready"
-    },
-    {
-      "kind": "sweep",
-      "started": "2026-09-22T11:46:13.304Z",
-      "outcome": "skipped",
-      "skipReason": "gate",
-      "finished": "2026-09-22T11:46:13.359Z",
-      "durationMs": 55
-    },
-    {
-      "kind": "publish",
-      "started": "2026-09-22T11:46:16.063Z",
-      "finished": "2026-09-22T11:46:16.119Z",
-      "outcome": "skipped",
-      "skipReason": "nothing ready"
-    },
-    {
-      "kind": "publish",
-      "started": "2026-09-23T01:30:22.395Z",
-      "finished": "2026-09-23T01:30:22.457Z",
-      "outcome": "skipped",
-      "skipReason": "nothing ready"
-    },
-    {
-      "kind": "sweep",
-      "started": "2026-09-23T01:50:31.524Z",
-      "outcome": "skipped",
-      "skipReason": "gate",
-      "finished": "2026-09-23T01:50:31.551Z",
-      "durationMs": 27
-    },
-    {
-      "kind": "publish",
-      "started": "2026-09-23T04:00:02.409Z",
-      "finished": "2026-09-23T04:00:02.443Z",
-      "outcome": "skipped",
-      "skipReason": "nothing ready"
-    },
-    {
-      "kind": "publish",
-      "started": "2026-09-24T02:26:25.265Z",
-      "finished": "2026-09-24T02:26:25.318Z",
-      "outcome": "skipped",
-      "skipReason": "nothing ready"
-    },
-    {
-      "kind": "sweep",
-      "started": "2026-09-24T02:26:30.788Z",
-      "outcome": "success",
-      "sourcesQueried": 22,
-      "candidates": 37,
-      "newCandidates": 28,
-      "unreachable": [
-        "deqing-gov",
-        "huzhou-cts",
-        "zj-cts",
-        "huzhou-gov"
-      ],
-      "errors": [
-        "meadin: 酒店频道: anti bot challenge page (8235 bytes), open it in a browser instead",
-        "deqing-gov: 公告公示: timeout after 12000 ms",
-        "deqing-gov: 德清要闻 A: timeout after 12000 ms",
-        "deqing-gov: 德清要闻 B: timeout after 12000 ms",
-        "deqing-gov: 莫干山镇: timeout after 12000 ms",
-        "deqing-gov: 文广旅体局: timeout after 12000 ms",
-        "hangzhou-daily: 杭州日报数字报: anti bot challenge page (90 bytes), open it in a browser instead",
-        "hangzhou-daily: 杭州网 浙江新闻: fetch failed",
-        "huzhou-cts: 工作动态: timeout after 12000 ms",
-        "huzhou-cts: 政策文件: timeout after 12000 ms",
-        "zj-cts: 浙江文旅: fetch failed",
-        "zj-cts: 政务公开: fetch failed",
-        "zj-cts: 浙江省旅游度假区: fetch failed",
-        "ctnews: 时政: fetch failed",
-        "huzhou-gov: 湖州要闻 德清: fetch failed",
-        "huzhou-gov: 交通运输局: timeout after 12000 ms",
-        "ttgasia: Site feed: timeout after 20000 ms"
-      ],
-      "triage": "editorial/news/triage/2026-09-24.md",
-      "finished": "2026-09-24T02:32:07.492Z",
-      "durationMs": 336704
-    },
-    {
-      "kind": "publish",
-      "started": "2026-09-24T02:43:17.449Z",
-      "finished": "2026-09-24T02:44:29.696Z",
-      "outcome": "success",
-      "slugs": [
-        "deqing-publishes-its-golden-week-programme"
-      ],
-      "paths": [
-        "/journal/news/2026/09/deqing-publishes-its-golden-week-programme"
-      ],
-      "durationMs": 72247
-    },
-    {
-      "kind": "publish",
-      "started": "2026-09-24T04:00:05.610Z",
-      "finished": "2026-09-24T04:00:05.675Z",
-      "outcome": "skipped",
-      "skipReason": "nothing ready"
-    },
-    {
-      "kind": "publish",
       "started": "2026-09-24T09:02:21.621Z",
       "finished": "2026-09-24T09:02:21.664Z",
       "outcome": "skipped",
@@ -843,6 +540,322 @@
         "/journal/news/2026/10/spartan-race-moganshan-set-for-7-and-8-november"
       ],
       "durationMs": 155485
+    },
+    {
+      "kind": "publish",
+      "started": "2026-10-03T10:47:53.172Z",
+      "finished": "2026-10-03T10:47:53.231Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "publish",
+      "started": "2026-10-03T12:21:15.469Z",
+      "finished": "2026-10-03T12:21:16.228Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-10-04T00:00:05.436Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-10-04T00:00:05.481Z",
+      "durationMs": 45
+    },
+    {
+      "kind": "publish",
+      "started": "2026-10-04T04:00:06.479Z",
+      "finished": "2026-10-04T04:00:06.580Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-10-04T13:31:12.640Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-10-04T13:31:12.663Z",
+      "durationMs": 23
+    },
+    {
+      "kind": "publish",
+      "started": "2026-10-04T13:31:15.856Z",
+      "finished": "2026-10-04T13:31:15.917Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "publish",
+      "started": "2026-10-05T04:00:05.041Z",
+      "finished": "2026-10-05T04:00:05.103Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-10-05T08:55:42.397Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-10-05T08:55:42.432Z",
+      "durationMs": 35
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-10-06T03:26:57.670Z",
+      "outcome": "success",
+      "sourcesQueried": 22,
+      "candidates": 42,
+      "newCandidates": 12,
+      "unreachable": [
+        "deqing-gov",
+        "huzhou-cts",
+        "zj-cts",
+        "huzhou-gov"
+      ],
+      "errors": [
+        "meadin: 酒店频道: anti bot challenge page (8234 bytes), open it in a browser instead",
+        "deqing-gov: 公告公示: timeout after 12000 ms",
+        "deqing-gov: 德清要闻 A: timeout after 12000 ms",
+        "deqing-gov: 德清要闻 B: timeout after 12000 ms",
+        "deqing-gov: 莫干山镇: timeout after 12000 ms",
+        "deqing-gov: 文广旅体局: timeout after 12000 ms",
+        "hangzhou-daily: 杭州日报数字报: anti bot challenge page (90 bytes), open it in a browser instead",
+        "huzhou-cts: 工作动态: timeout after 12000 ms",
+        "huzhou-cts: 政策文件: timeout after 12000 ms",
+        "zj-cts: 浙江文旅: fetch failed",
+        "zj-cts: 政务公开: fetch failed",
+        "zj-cts: 浙江省旅游度假区: fetch failed",
+        "huzhou-gov: 湖州要闻 德清: fetch failed",
+        "huzhou-gov: 交通运输局: timeout after 12000 ms"
+      ],
+      "triage": "editorial/news/triage/2026-10-06.md",
+      "finished": "2026-10-06T03:32:10.210Z",
+      "durationMs": 312540
+    },
+    {
+      "kind": "publish",
+      "started": "2026-10-06T03:34:51.996Z",
+      "finished": "2026-10-06T03:34:52.042Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "publish",
+      "started": "2026-10-06T04:00:02.884Z",
+      "finished": "2026-10-06T04:00:02.929Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-10-06T14:49:51.372Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-10-06T14:49:51.412Z",
+      "durationMs": 40
+    },
+    {
+      "kind": "publish",
+      "started": "2026-10-06T14:50:49.028Z",
+      "finished": "2026-10-06T14:50:49.073Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-10-07T00:00:02.827Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-10-07T00:00:02.845Z",
+      "durationMs": 18
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-10-07T03:52:16.462Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-10-07T03:52:16.499Z",
+      "durationMs": 37
+    },
+    {
+      "kind": "publish",
+      "started": "2026-10-07T04:00:04.832Z",
+      "finished": "2026-10-07T04:00:04.890Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-10-07T10:37:27.954Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-10-07T10:37:27.990Z",
+      "durationMs": 36
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-10-08T01:08:48.384Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-10-08T01:08:48.421Z",
+      "durationMs": 37
+    },
+    {
+      "kind": "publish",
+      "started": "2026-10-08T04:00:05.378Z",
+      "finished": "2026-10-08T04:00:05.500Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-10-08T13:14:45.044Z",
+      "outcome": "success",
+      "sourcesQueried": 22,
+      "candidates": 30,
+      "newCandidates": 13,
+      "unreachable": [
+        "deqing-gov",
+        "huzhou-cts",
+        "zj-cts",
+        "huzhou-gov"
+      ],
+      "errors": [
+        "meadin: 酒店频道: anti bot challenge page (8233 bytes), open it in a browser instead",
+        "deqing-gov: 公告公示: timeout after 12000 ms",
+        "deqing-gov: 德清要闻 A: timeout after 12000 ms",
+        "deqing-gov: 德清要闻 B: timeout after 12000 ms",
+        "deqing-gov: 莫干山镇: timeout after 12000 ms",
+        "deqing-gov: 文广旅体局: timeout after 12000 ms",
+        "hangzhou-daily: 杭州日报数字报: anti bot challenge page (90 bytes), open it in a browser instead",
+        "huzhou-cts: 工作动态: timeout after 12000 ms",
+        "huzhou-cts: 政策文件: timeout after 12000 ms",
+        "zj-cts: 浙江文旅: fetch failed",
+        "zj-cts: 政务公开: fetch failed",
+        "zj-cts: 浙江省旅游度假区: fetch failed",
+        "huzhou-gov: 湖州要闻 德清: fetch failed",
+        "huzhou-gov: 交通运输局: timeout after 12000 ms",
+        "ttgasia: Site feed: HTTP 500"
+      ],
+      "triage": "editorial/news/triage/2026-10-08.md",
+      "finished": "2026-10-08T13:19:51.650Z",
+      "durationMs": 306606
+    },
+    {
+      "kind": "publish",
+      "started": "2026-10-08T13:22:45.808Z",
+      "finished": "2026-10-08T13:22:45.858Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-10-09T05:08:36.183Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-10-09T05:08:36.272Z",
+      "durationMs": 89
+    },
+    {
+      "kind": "publish",
+      "started": "2026-10-09T05:08:46.393Z",
+      "finished": "2026-10-09T05:08:46.630Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "publish",
+      "started": "2026-10-09T06:23:00.003Z",
+      "finished": "2026-10-09T06:23:00.110Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-10-09T11:42:35.785Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-10-09T11:42:35.813Z",
+      "durationMs": 28
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-10-09T11:46:20.998Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-10-09T11:46:21.015Z",
+      "durationMs": 17
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-10-10T00:00:03.134Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-10-10T00:00:03.157Z",
+      "durationMs": 23
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-10-10T01:30:04.650Z",
+      "outcome": "skipped",
+      "skipReason": "gate",
+      "finished": "2026-10-10T01:30:04.684Z",
+      "durationMs": 34
+    },
+    {
+      "kind": "publish",
+      "started": "2026-10-10T04:00:05.020Z",
+      "finished": "2026-10-10T04:00:05.084Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-10-11T00:39:47.208Z",
+      "outcome": "success",
+      "sourcesQueried": 22,
+      "candidates": 29,
+      "newCandidates": 18,
+      "unreachable": [
+        "deqing-gov",
+        "huzhou-cts",
+        "zj-cts",
+        "huzhou-gov"
+      ],
+      "errors": [
+        "meadin: 酒店频道: anti bot challenge page (8235 bytes), open it in a browser instead",
+        "deqing-gov: 公告公示: timeout after 12000 ms",
+        "deqing-gov: 德清要闻 A: timeout after 12000 ms",
+        "deqing-gov: 德清要闻 B: timeout after 12000 ms",
+        "deqing-gov: 莫干山镇: timeout after 12000 ms",
+        "deqing-gov: 文广旅体局: timeout after 12000 ms",
+        "hangzhou-daily: 杭州日报数字报: anti bot challenge page (90 bytes), open it in a browser instead",
+        "huzhou-cts: 工作动态: timeout after 12000 ms",
+        "huzhou-cts: 政策文件: timeout after 12000 ms",
+        "zj-cts: 浙江文旅: fetch failed",
+        "zj-cts: 政务公开: fetch failed",
+        "zj-cts: 浙江省旅游度假区: fetch failed",
+        "huzhou-gov: 湖州要闻 德清: fetch failed",
+        "huzhou-gov: 交通运输局: timeout after 12000 ms"
+      ],
+      "triage": "editorial/news/triage/2026-10-11.md",
+      "finished": "2026-10-11T00:44:43.650Z",
+      "durationMs": 296442
+    },
+    {
+      "kind": "publish",
+      "started": "2026-10-11T00:49:09.872Z",
+      "finished": "2026-10-11T00:49:09.924Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "publish",
+      "started": "2026-10-11T04:00:02.730Z",
+      "finished": "2026-10-11T04:00:02.783Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
     }
   ]
 }

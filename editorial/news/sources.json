@@ -919,6 +919,7 @@
     { "window": "mid-July", "item": "莫干山里好清凉 避暑季", "itemEn": "Summer season launch, 100 plus events", "source": "tidenews", "priority": "HIGH" },
     { "window": "late September", "item": "莫干山会议", "itemEn": "The Moganshan Conference, descendant of the 1984 meeting", "source": "xinhua-deqing", "priority": "MEDIUM" },
     { "window": "late October", "item": "凯乐石莫干山跑山赛", "itemEn": "Kailas Moganshan Skyrace", "source": "https://moganshan.saihuitong.com/", "priority": "HIGH" },
+    { "window": "early November", "item": "斯巴达勇士赛 莫干山站", "itemEn": "Spartan Race Moganshan, 7 and 8 November in 2026: reconfirm the days two weeks out and look for the county traffic police notice for the race weekend", "source": "https://zuicool.com/event/51279", "priority": "MEDIUM" },
     { "window": "7 to 10 days before each Golden Week", "item": "黄金周节目单", "itemEn": "Golden Week programme", "source": "aideqing", "priority": "HIGH" },
     { "window": "7 to 10 days before Spring Festival", "item": "春节节目单", "itemEn": "Spring Festival programme", "source": "aideqing", "priority": "MEDIUM" }
   ],
