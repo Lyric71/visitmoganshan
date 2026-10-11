@@ -1284,6 +1284,132 @@ primary research, <dates>". -->
 * Used in: dispatch-2026-41
 * Notes: no visitor count for National Day 2026 had been published by the evening of 7 October; the dispatch says so and the tally is filed under Standing watch items in source-tiers.md.
 
+### Deqing National Day 2026 holiday tally (county figure)
+* Value: over the National Day holiday (1 to 7 October 2026) Deqing County received 2,302,100 visits (230.21万人次) and RMB 3,177 million in tourism income (31.77亿元); Deqing station about 57,000 departures and 56,000 arrivals; 156,500 hotel and guesthouse check ins county wide; five new shops opened on Yujie at Yucun over the holiday
+* As of: 9 October 2026
+* Source: Deqing News (德清新闻网), reporter Xu Shengyu (徐晟昱)
+* Tier: 2 (a county figure with no counter named; visitor numbers publish as fact only from the Huzhou or Zhejiang bureau, so this is printed as the paper's figure)
+* URL: https://dqnews.zjol.com.cn/dqnews/system/2026/10/09/035308496.shtml
+* Verified 1: 2026-10-11 (article read whole; 230.21万人次, 31.77亿元, 约5.7万人次, 约5.6万人次, 15.65万人次, 新开5家, dated 2026-10-09)
+* Verified 2: 2026-10-11 (fetched again with a different user agent, every string present)
+* Shelf life: fixed, a past holiday
+* Used in: none yet; for dispatch-2026-42
+* Notes: the Huzhou and Zhejiang culture and tourism bureaus timed out from this machine on 11 October, so no bureau figure exists to set beside it. Closes the National Day tally row under Standing watch items in source-tiers.md.
+
+### The county's 11 walking routes and the Chiang path as route one
+* Value: Moganshan town had 11 walking routes hand drawn, about 50 km in all, mostly entered from Yucun; route one is the old trading path (商旅古道) that Republican era officials used, and Chiang Kai shek was carried up it in a sedan chair, so walkers call it 蒋公道; the reporter walked from the old fluorite mine (萤石矿) by 石壁凉亭 and 炮台山 to 荫山街 in an hour and a half; every junction had a sign with a QR code; a local walking leader told walkers to avoid typhoon and flood weather
+* As of: January 2015
+* Source: Deqing News (德清新闻网)
+* Tier: 2
+* URL: http://dqnews.zjol.com.cn/dqnews/system/2015/01/04/018881662.shtml
+* Verified 1: 2026-10-11 (page decoded as GB18030; 11条线路, 大约50公里, 商旅古道, 坐轿子, 蒋公道, 一个半小时, 二维码, 台风 present, dated 2015-01-04)
+* Verified 2: 2026-10-11 (fetched again, every string present)
+* Shelf life: evergreen for the attribution and the 2015 routes; the signs are a 2015 fact, never a current one
+* Used in: chiang-kai-shek-path
+* Notes: the 2015 route the reporter walked is not said to be route one; the piece keeps the two apart. The Chiang attribution is disputed by NetEase, 15 December 2020, below; the piece prints both.
+
+### The national trail system on the Fatou side, 2014
+* Value: Moganshan national mountain fitness trail (莫干山国家登山健身步道) certified 9 October 2014; 45.1 km in all; four graded loops (大洋里 9.6 km, 瑶坞 10.2 km, 杨树林 3.2 km, 天泉山 22.1 km); 20 signboards and 93 marker posts
+* As of: November 2014
+* Source: Deqing News (德清新闻网)
+* Tier: 2
+* URL: https://dqnews.zjol.com.cn/dqnews/system/2014/11/20/018710329.shtml
+* Verified 1: 2026-10-11 (page decoded as GB18030; 45.1公里, 9.6公里, 10.2公里, 3.2公里, 22.1公里, 20个导视, 93根 present, dated 2014-11-20)
+* Verified 2: 2026-10-11 (fetched again, every string present)
+* Shelf life: evergreen as a 2014 fact
+* Used in: chiang-kai-shek-path (asset brief, for the /things-to-do/hiking/ correction)
+
+### The Chiang path loop by GPS, November 2024
+* Value: a loop from Yucun Square walked on 30 November 2024: 9.8 km, 659 m up and 659 m down, highest point 611 m, 10:40 to 16:13 (5 h 28 min); queues from the Sly Slope (狡猾坡) into the bamboo, four or five groups from Shanghai; the descent from 裸心堡 to 梅皋坞 called "the so called 蒋公道", concrete steps, broken old paving and earth, slippery near the junction in rain; a swaying footbridge before the 裸心堡 lookout; a child finished the walk
+* As of: November 2024
+* Source: 2bulu (两步路) community, walker 山野见闻
+* Tier: 3
+* URL: https://www.2bulu.com/community/gotohuatinfo.htm?id=1AkOj8IiqgxHrVc0IRUEyQ%3D%3D&type=1
+* Verified 1: 2026-10-11 (9.8km, 爬升659m, 最高611m, 5小时28分, 所谓的蒋公道, 四五个上海, 摇晃的吊桥, 2024.11.30, posted 2024-12-02 present)
+* Verified 2: 2026-10-11 (fetched again, every string present)
+* Shelf life: reported experience, evergreen as dated; the surface may change
+* Used in: chiang-kai-shek-path
+
+### The Chiang path loop by a group leader, October 2023
+* Value: 10 km with 627 m of climbing; the first 5 km up; 0 to 2.7 km road, earth and steps; 2.7 to 3.7 km loose stone needing hands, a real test for beginners; the waterfall viewing bridge (观瀑桥) at 3.8 km and about 430 m; a shop at 5.4 km, reached about 13:30; 裸心堡 at 6.9 km, the last toilet at 7.1 km; leaders may not tie route ribbons inside the scenic area; phone signal inside it; scenic area buses back to Yucun Square as the bail out
+* As of: October 2023 (the date is in the post title)
+* Source: Youxiake (游侠客) community, group leader 佩琪
+* Tier: 3
+* URL: https://bbs.youxiake.com/y/1053344.html
+* Verified 1: 2026-10-11 (总长10km, 爬升627m, 2.7km-3.7km, 观瀑桥, 430m, 5.4km, 6.9km, 7.1km, 不可以打路标带, 有信号, 返回庾村广场, 2023.10 present)
+* Verified 2: 2026-10-11 (fetched again, every string present)
+* Shelf life: reported experience, evergreen as dated
+* Used in: chiang-kai-shek-path
+
+### Eight Moganshan walking routes, GreenTour Asia, July 2026
+* Value: the Chiang path loop (蒋公古道环线) from the Yucun cultural market, 10 to 12 km, 560 m of climbing, described as free and avoiding the scenic area ticket; elsewhere on the page about 12 km in a little over 4 hours, 428 steps at 百步岭; classic full day routes five to six hours, start before 08:00 and be down by 17:30; poles and knee supports for the descent; core sights "RMB 80, but free by the Chiang path"
+* As of: July 2026 (page updated 2026/07/03)
+* Source: GreenTour Asia (绿色旅行网), guide by Twilight
+* Tier: 3
+* URL: https://www.greentourasia.com/article/moganshantubugonglve
+* Verified 1: 2026-10-11 (10-12km, 累计爬升560米, 全程免费，避开了景区门票, 428 级台阶, 12 公里, 4 个多小时, 五到六小时, 早上8点前, 下午五点半, 登山杖、护膝 present)
+* Verified 2: 2026-10-11 (fetched again, every string present)
+* Shelf life: semi-stable, 6 months
+* Used in: chiang-kai-shek-path
+* Notes: the free entry claim is policy and a tier 3 source cannot carry it; cited only as the guide's claim. The page also sells guided walks, so it is not disinterested.
+
+### A walker's doubt about the Chiang story, and ticket points for walkers, December 2020
+* Value: from 莫皋坞, about 500 m west of Yucun, a stream crossed on stones, about an hour of climbing to a three way junction; an unstaffed booth for walkers' tickets on the path to 剑池 and an unstaffed ticket office sign for walkers at the foot of the falls; no bus seat sold without an entry ticket at 荫山街; the old church built by American missionaries and later the 1984 conference hall; the writer doubts Chiang was carried up this path because a motor road existed
+* As of: December 2020
+* Source: NetEase (网易), travel writer 知行摄旅行
+* Tier: 3
+* URL: https://www.163.com/dy/article/FTTJ9B4A0524RGKC.html
+* Verified 1: 2026-10-11 (500米, 1个小时, 检票处, 售票点, 买不了景交车票, 美国传教士, 盘山公路, dated 2020-12-15 present)
+* Verified 2: 2026-10-11 (fetched again, every string present)
+* Shelf life: reported experience, evergreen as dated
+* Used in: chiang-kai-shek-path
+* Notes: the motor road argument is contradicted by Huzhou Release (1952) and Hangzhou Daily (1929 road to the foot only); the piece prints both sides. The writer entered without a ticket; the piece does not repeat that as advice.
+
+### A club walk up the Chiang path, ticket excluded, November 2018
+* Value: about 2.5 hours from the start to 荫山街; the scenic area ticket not included, "if asked to pay on the way, pay yourself" (如遇补票需自理)
+* As of: November 2018
+* Source: Sohu (搜狐), 慈溪江湖户外
+* Tier: 3
+* URL: https://www.sohu.com/a/274670840_196816
+* Verified 1: 2026-10-11 (2.5小时, 阴山街, 如遇补票需自理, dated 2018-11-11 present)
+* Verified 2: 2026-10-11 (fetched again, every string present)
+* Shelf life: reported experience, evergreen as dated
+* Used in: chiang-kai-shek-path
+
+### Roads and sedan chairs at Yucun, 1920 to 1952, as the Huzhou account published them
+* Value: 1920 a new road from Yucun to 荫山 (新马路, named 永祥路) that cars could not yet use; 1929 guests reached the foot by car and changed to rattan chairs (藤轿); 1928 rules for chair bearers, the chair station at Yucun; the motor road from Yucun up the mountain built in 1952; seven bridges in the 200 m below 剑池, among them 观瀑桥
+* As of: December 2023
+* Source: Huzhou Release (湖州发布), the city's publicity account, on The Paper (澎湃新闻), by 朱炜
+* Tier: 4 (cited as what the account published)
+* URL: https://www.thepaper.cn/newsDetail_forward_25687212
+* Verified 1: 2026-10-11 (1920年春, 新马路, 未能通汽车, 藤轿, 1952年, 七座桥, 观瀑桥, dated 2023-12-16 present)
+* Verified 2: 2026-10-11 (fetched again, every string present)
+* Shelf life: evergreen
+* Used in: chiang-kai-shek-path
+* Notes: a design trade site (Designverse, 3 December 2023, a brand story) gives 1951 for the motor road; not cited, because a brand story is tier 4 too and adds nothing. Hangzhou Daily below confirms the 1929 road reached the foot only.
+
+### The 1929 road to the foot of Moganshan and the chair bearers
+* Value: in 1929 a road was built from Hangzhou to the foot of Moganshan; people below the mountain lived by carrying sedan chairs
+* As of: December 2015
+* Source: Hangzhou Daily (杭州日报), 莫干山的故事, relayed on the Moganshan geographic information town site
+* Tier: 2
+* URL: http://gpark.mhtz.gov.cn/contents/418/4363.html
+* Verified 1: 2026-10-11 (1929年, 莫干山麓, 抬轿为生, dated 2015-12-25 present)
+* Verified 2: 2026-10-11 (fetched again, every string present)
+* Shelf life: evergreen
+* Used in: chiang-kai-shek-path
+
+### Reused for the Chiang path piece, checked again
+* Value: the RMB 80 window ticket and RMB 70 for the next day (Huzhou Bendibao, 21 September 2023, tier 3); the 17:00 last bus down (Tide News, 4 December 2025, tier 2); the mounted police patrols (Deqing News, 30 September 2026, tier 2)
+* As of: as logged in the entries above
+* Source: see the entries above
+* Tier: as logged
+* URL: http://huzhou.bendibao.com/tour/2021123/3560.shtm ; https://tidenews.com.cn/news.html?id=3315585 ; https://dqnews.zjol.com.cn/dqnews/system/2026/09/30/035303880.shtml
+* Verified 1: as logged above
+* Verified 2: 2026-10-11 (all three fetched again: 80元, 70元; 17:00; 骑警, 野路, 节假日 present)
+* Shelf life: as logged above
+* Used in: chiang-kai-shek-path
+
 ## Retired
 
 <!-- Entries past their shelf life that were replaced. Kept for the record. -->

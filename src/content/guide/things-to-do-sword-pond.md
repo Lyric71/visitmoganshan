@@ -9,17 +9,17 @@ secondary_keywords: [jianchi moganshan, moganshan waterfall, moganshan sword pon
 schema: TouristAttraction
 image: /images/guide/things-to-do-sword-pond.webp
 image_alt: Still green water in the stone basin of Sword Pond at Moganshan, with bamboo closing in overhead
-word_count: 1568
+word_count: 1723
 author: liyan-ye
 published: 2026-08-08
-last_updated: 2026-08-08
+last_updated: 2026-10-11
 ---
 
 # Sword Pond
 
 Sword Pond is the sight this mountain is named for, and it is a pool of water with a story on it. Jianchi (剑池) is the Chinese name: jian is sword, chi is pool. Anyone expecting a lake or a gorge has read the name wrong.
 
-The pond sits above the transfer centers, on the ticketed side of the mountain as far as anyone publishes. The mountain is in Deqing County, Huzhou prefecture, Zhejiang Province, an hour and a half by road from Hangzhou and 200 to 240 km out of Shanghai, under bamboo that covers more than 92 percent of the slopes. (Moganshan Road, which owns most of the English search results, is a street in Shanghai.)
+The pond sits above the transfer centres, on the ticketed side of the mountain as far as anyone publishes. The mountain is in Deqing County, Huzhou prefecture, Zhejiang Province, an hour and a half by road from Hangzhou and 200 to 240 km out of Shanghai, under bamboo that covers more than 92 percent of the slopes. (Moganshan Road, which owns most of the English search results, is a street in Shanghai.)
 
 | | |
 |---|---|
@@ -38,7 +38,7 @@ Gan Jiang (干将) and Mo Ye (莫邪) were a husband and wife who worked metal i
 
 The name follows from theirs. Mo, from Mo Ye. Gan, from Gan Jiang. Shan (山) is mountain. Mo, gan, shan: 莫干山.
 
-No date attaches beyond the period, and there is no excavation and no artifact behind it. The story runs through general Chinese cultural reference and through the naming material behind the mountain's branding, and retellings vary. That is the whole of its standing.
+No date attaches beyond the period, and there is no excavation and no artefact behind it. The story runs through general Chinese cultural reference and through the naming material behind the mountain's branding, and retellings vary. That is the whole of its standing.
 
 > The sword legend and the origin of the mountain's name, BeyondBorder Group Ltd primary research, 1 to 5 August 2026. Recorded as legend, not as documented history.
 
@@ -48,21 +48,29 @@ A legend still does work. This one explains the swords in the local branding, an
 
 ## Getting to it
 
-Say the story is enough for you. Then getting there starts a long way below the pond, with one rule English-language sources almost never print. Private vehicles cannot drive inside the scenic area. You leave the car at one of three transfer centers, all open 08:00 to 18:00.
+Say the story is enough for you. Then getting there starts a long way below the pond, with one rule English language sources almost never print. Private vehicles cannot drive inside the scenic area. You leave the car at one of three transfer centres, all open 08:00 to 18:00.
 
 | Starting from | How you get there |
 |---|---|
 | Deqing station | Y1 shuttle, RMB 10, 30 to 40 minutes, seven a day. Taxi about RMB 100, about 30 minutes |
-| A village guesthouse | Road to a transfer center, then scenic-area transport up |
+| A village guesthouse | Road to a transfer centre, then scenic area transport up |
 | The old hill station | On foot, on the stone paths between the named sights |
 
-> Scenic-area vehicle rule, transfer center hours and Y1 shuttle fares, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
+> Scenic area vehicle rule, transfer centre hours and Y1 shuttle fares, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-The last stretch is on foot, on built stone, from wherever your transport leaves you. Ask at the transfer center counter when you buy the ticket, and they will tell you how far it is from that particular gate.
+The last stretch is on foot, on built stone, from wherever your transport leaves you. Ask at the transfer centre counter when you buy the ticket, and they will tell you how far it is from that particular gate.
 
 Sword Pond sits inside the ticketed core, as our [scenic area page](/moganshan/scenic-area/) sets out. Published prices run from RMB 50 to RMB 130, and [tickets and entry](/plan/tickets-and-entry/) has both sets.
 
-![The stepped path climbing toward Sword Pond, seen from below, with the full flight visible](/images/guide/sword-pond-3.webp 'The part the photographs leave out. A flight of stone steps stands between the transport and the water.')
+You can also walk all the way up from Yucun. The old stone path, the [Chiang Kai shek path](/things-to-do/chiang-kai-shek-path/), reaches the Waterfall Viewing Bridge below the pond at about 3.8 km and the pond soon after. The path is free, but the pond is not: walkers have reported an unstaffed ticket booth on the way up to it, so buy the ticket at the Yucun transfer centre before you set off.
+
+> The Waterfall Viewing Bridge at 3.8 km and about 430 m on the loop from Yucun Square, Youxiake (游侠客) community, group leader 佩琪, October 2023, tier 3.
+> https://bbs.youxiake.com/y/1053344.html
+
+> An unstaffed booth for walkers' tickets on the path up to Sword Pond, NetEase (网易), travel writer 知行摄旅行, 15 December 2020, tier 3.
+> https://www.163.com/dy/article/FTTJ9B4A0524RGKC.html
+
+![The stepped path climbing towards Sword Pond, seen from below, with the full flight visible](/images/guide/sword-pond-3.webp 'The part the photographs leave out. A flight of stone steps stands between the transport and the water.')
 
 ## What it is like to stand there
 
@@ -70,19 +78,22 @@ Season matters less here than last week's weather. How much rain fell before you
 
 After a wet spell there is movement and sound. In a dry late summer the same place is low and flat, with pale rock showing around the rim. Both are the real Sword Pond. Only one of them matches the pictures.
 
-People also search for a Moganshan waterfall and land here. There is no named waterfall on this mountain; what falling water there is comes and goes with the rain.
+People also search for a Moganshan waterfall and land here. The falls are the stream below the pond. It is crossed by seven bridges in the 200 m below the water, one of them the Waterfall Viewing Bridge (观瀑桥), and how much goes over the rocks comes and goes with the rain.
+
+> Seven bridges in the 200 m below Sword Pond, among them the Waterfall Viewing Bridge (观瀑桥), Huzhou Release (湖州发布) on The Paper (澎湃新闻), 16 December 2023, tier 4, as the city's publicity account published it.
+> https://www.thepaper.cn/newsDetail_forward_25687212
 
 So much for the water. The surroundings do not depend on it. You stand in moso bamboo, cut and sold as a crop, and on a windy day the poles knock and creak overhead. Two minutes of standing still is worth more than another photograph. July and August average 24.1 °C up here, 6 to 7 °C below Shanghai and Hangzhou, and shade over water in August is the oldest reason anybody climbed this hill.
 
-Gray weather does not waste the trip, since low cloud suits bamboo. Wet stone argues for shoes with grip, which [walking and hiking](/things-to-do/hiking/) covers.
+Grey weather does not waste the trip, since low cloud suits bamboo. Wet stone argues for shoes with grip, which [walking and hiking](/things-to-do/hiking/) covers.
 
 ## With children
 
 Yes, if the child can manage a flight of stone steps.
 
-Steps are the limiting factor on this mountain, and the pond is reached by a flight of them. Past that the ground is kind. Paths are laid stone the whole way, and at 719 to 720 meters the height does nothing to anybody.
+Steps are the limiting factor on this mountain, and the pond is reached by a flight of them. Past that the ground is kind. Paths are laid stone the whole way, and at 719 to 720 metres the height does nothing to anybody.
 
-- **Leave the stroller below.** Nothing on this mountain is built for wheels.
+- **Leave the pushchair below.** Nothing on this mountain is built for wheels.
 - **Carry a small child.** Steps are the whole of the access question here.
 - **Hold hands at the water.** The edge is stone and the depth is not obvious.
 - **Ask the guesthouse the night before.** They will know today's answer on water level and access.
@@ -91,13 +102,13 @@ Steps are the limiting factor on this mountain, and the pond is reached by a fli
 
 ## When to go, and what to put with it
 
-The transfer centers run 08:00 to 18:00, and that window is the day you get, whatever the light is doing.
+The transfer centres run 08:00 to 18:00, and that window is the day you get, whatever the light is doing.
 
 | When | What to expect |
 |---|---|
 | Mondays and midweek | Notably quiet. The easiest version of this walk |
 | Weekends | Where the volume sits, all year |
-| May Day and National Day | 94 percent high-end occupancy in May 2024. Yucun footfall 30 to 40 percent above normal at National Day 2025 |
+| May Day and National Day | 94 percent high end occupancy in May 2024. Yucun footfall 30 to 40 percent above normal at National Day 2025 |
 | January | Mean 1.4 °C, half price under the higher ticket set, nobody there |
 
 > Holiday occupancy, footfall and seasonal temperatures, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
@@ -107,6 +118,3 @@ In those two weeks there are queues at the photogenic points, and this is one of
 Which leaves the question of what to put around it. Sword Pond does not fill a morning by itself. It sits in the ticketed core alongside Luhuadang Park, Dakeng and the Xuguang sunrise platform, linked by stone paths. What works is the villa streets of the old hill station first, then the pond, then a bamboo path down to lunch in Yucun. [Things to do](/things-to-do/) has the rest of the list, and [what and where Moganshan is](/moganshan/) is the starting point.
 
 Go up on the first transfers of the morning. The paths are emptier at that hour, and you spend the afternoon walking instead of counting backwards from a gate that shuts at six.
-
-*Transfer hours, shuttle fares, temperatures and crowd figures last checked 5 August 2026. Ticket prices vary between sources and should be confirmed at booking.*
-

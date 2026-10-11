@@ -9,15 +9,15 @@ secondary_keywords: [moganshan hiking trails, moganshan walking, hiking near sha
 schema: Article
 image: /images/guide/things-to-do-hiking.webp
 image_alt: Worn stone steps climbing between bamboo culms on a wet Moganshan path
-word_count: 1424
+word_count: 1603
 author: liyan-ye
 published: 2026-08-06
-last_updated: 2026-10-02
+last_updated: 2026-10-11
 ---
 
 # Walking and hiking in Moganshan
 
-The walking here happens on a 719 to 720 meter hill called Tashan, the main peak of Moganshan, in Deqing County, Huzhou prefecture, Zhejiang Province, China. Hangzhou is about 60 km south, Shanghai 200 to 240 km off. More than 92 percent of the mountain is forest, and almost all of that is moso bamboo.
+The walking here happens on a 719 to 720 metre hill called Tashan, the main peak of Moganshan, in Deqing County, Huzhou prefecture, Zhejiang Province, China. Hangzhou is about 60 km south, Shanghai 200 to 240 km off. More than 92 percent of the mountain is forest, and almost all of that is moso bamboo.
 
 Search engines will also offer you Moganshan Road in Shanghai's Putuo District. That is an art district on a city street, no relation.
 
@@ -25,11 +25,21 @@ Walking is the main thing people do here, and it is what this page has to be car
 
 ## Read this first: this is a network, not a trail
 
-The mountain carries a dense network of stone paths, and it is not organised the way a hiking area is. There are no named trails, no waymarked circuits and no board at the gate giving distances. What there is, is a web of built stone connecting sights, villages and villas, which you join wherever the transfer puts you down and follow until you want to turn round.
+The mountain carries a dense network of stone paths, and it is not organised the way a hiking area is. Inside the ticketed core there are no waymarked circuits and no board at the gate giving distances. What there is, is a web of built stone connecting sights, villages and villas, which you join wherever the transfer puts you down and follow until you want to turn round.
 
 That means the route is decided on the day rather than in advance. Your guesthouse is the place to get one, and staff walk this mountain weekly.
 
-> Terrain, forest cover, scenic-area size and transfer-center hours, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
+> Terrain, forest cover, scenic area size and transfer centre hours, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
+
+Named routes do exist below the core. In 2014 a national fitness trail of four graded loops, 45.1 km in all, was signposted on the Fatou side. In January 2015 the county paper reported 11 hand drawn routes, about 50 km in all and mostly starting from Yucun, with a sign and a QR code at every junction. Those are reports from 2014 and 2015, not a promise about the signs today.
+
+> A national fitness trail of four graded loops, 45.1 km in all, with 20 signboards and 93 marker posts, Deqing News (德清新闻网), 20 November 2014, tier 2.
+> https://dqnews.zjol.com.cn/dqnews/system/2014/11/20/018710329.shtml
+
+> Eleven hand drawn routes of about 50 km, a sign with a QR code at every junction, Deqing News (德清新闻网), 4 January 2015, tier 2.
+> http://dqnews.zjol.com.cn/dqnews/system/2015/01/04/018881662.shtml
+
+Route one of those 11, the old stone path from Yucun up to Sword Pond, is written up as the [Chiang Kai shek path](/things-to-do/chiang-kai-shek-path/): a 10 km loop whose top half runs inside the ticketed area.
 
 ## What kind of walking this is
 
@@ -38,9 +48,9 @@ That means the route is decided on the day rather than in advance. Your guesthou
 | Surface | A dense network of stone paths and steps, with paved lanes |
 | Highest point | Tashan, 719 to 720 m. You do not climb all of that |
 | How far, how steep | Short legs between sights, and the climbing comes as steps |
-| Route finding | Signboards at the transfer centers and junctions, largely in Chinese |
+| Route finding | Signboards at the transfer centres and junctions, largely in Chinese |
 | Remoteness | Low. You are rarely far from a road or a building |
-| Hours you can be on it | Transfer centers run 08:00 to 18:00, and they gate the scenic area |
+| Hours you can be on it | Transfer centres run 08:00 to 18:00, and they gate the scenic area |
 | Tickets | Charged. Published prices run from RMB 50 to RMB 130, and the latest dated window price is RMB 80 |
 | Company | Quiet midweek, Mondays most of all. Weekends and Golden Week are the opposite |
 
@@ -54,7 +64,7 @@ The core scenic area covers about 20 km², more than 92 percent of it forest. Ne
 
 The stone paths run through all of it, and they do three jobs.
 
-- **Sight to sight.** Sword Pond (Jianchi), Luhuadang Park, Dakeng, the Xuguang sunrise platform, Chiang Kai-shek's villa and the Bai and Yun Art Museum.
+- **Sight to sight.** Sword Pond (Jianchi), Luhuadang Park, Dakeng, the Xuguang sunrise platform, Chiang Kai shek's villa and the Bai and Yun Art Museum. The [Chiang Kai shek path](/things-to-do/chiang-kai-shek-path/) climbs into this part from Yucun.
 - **Village to village.** Around the foot of the mountain, outside the ticketed core.
 - **House to house.** The lanes of the old hill station, running between villas.
 
@@ -62,15 +72,15 @@ There is a reason the surface is built. Moganshan has been a summer town since t
 
 ## Why this is not a mountain hike
 
-Tashan tops out at 719 to 720 meters. Ignore the 758 m figure that circulates.
+Tashan tops out at 719 to 720 metres. Ignore the 758 m figure that circulates.
 
-Seven hundred meters is a hill by the standards of the Alps or the Rockies. Altitude is not a factor here, and how much height you gain depends mostly on where the transfer drops you.
+Seven hundred metres is a hill by the standards of the Alps or the Rockies. Altitude is not a factor here, and how much height you gain depends mostly on where the transfer drops you.
 
 That makes it kinder than a wilderness trail for children and for older walkers. The paths are built, and there is no scrambling and no exposure. Steps are the limiting factor rather than gradient.
 
-Moganshan is not remote, either. It is a national scenic area, rated AAAA, and a national-level tourism resort since 15 December 2020. Roads run through it. There are hotels inside it and villages around the edge, so there is no backcountry to get lost in. If your idea of a good day is nine hours without seeing anyone, this is the wrong mountain.
+Moganshan is not remote, either. It is a national scenic area, rated AAAA, and a national level tourism resort since 15 December 2020. Roads run through it. There are hotels inside it and villages around the edge, so there is no backcountry to get lost in. If your idea of a good day is nine hours without seeing anyone, this is the wrong mountain.
 
-The height buys you temperature, not difficulty. July and August average 24.1 °C up here, 6 to 7 °C cooler than Shanghai and Hangzhou, which is why the hill station exists. For a Shanghai-based reader that is the trade: three hours each way for several hours of easy walking in deep bamboo shade. That is a good weekend. It is not a trek.
+The height buys you temperature, not difficulty. July and August average 24.1 °C up here, 6 to 7 °C cooler than Shanghai and Hangzhou, which is why the hill station exists. For a Shanghai based reader that is the trade: three hours each way for several hours of easy walking in deep bamboo shade. That is a good weekend. It is not a trek.
 
 ## Weather and footwear
 
@@ -89,15 +99,15 @@ Footwear is where visitors get caught out.
 - **Boots.** Not necessary at these heights.
 - **Rain and low cloud.** Not a wasted day. Grey light suits bamboo.
 
-The [weather page](/moganshan/weather/) has the month-by-month detail.
+The [weather page](/moganshan/weather/) has the month by month detail.
 
 ## The clock that bounds your walking day
 
 Your timetable is set by something other than daylight.
 
-No private car goes inside the scenic area. Visitors transfer at one of three centers, Yucun, Fatou or Houwu, and all three run 08:00 to 18:00.
+No private car goes inside the scenic area. Visitors transfer at one of three centres, Yucun, Fatou or Houwu, and all three run 08:00 to 18:00.
 
-That rule decides your start and finish times, whether you planned around it or not. The Xuguang sunrise platform is a sunrise spot by name, and summer sunrise arrives well before the centers open. To walk early or late, you have to be sleeping inside or beside the scenic area.
+That rule decides your start and finish times, whether you planned around it or not. The Xuguang sunrise platform is a sunrise spot by name, and summer sunrise arrives well before the centres open. To walk early or late, you have to be sleeping inside or beside the scenic area.
 
 The same clock is the argument against walking here on a day trip from Shanghai. Close to three hours each way, against a gate that shuts at 18:00, leaves very little time on the paths. One night on the mountain works better.
 
@@ -106,7 +116,7 @@ Tickets are charged, and our sources disagree on the price.
 | What the sources say | Price |
 |---|---|
 | One source | RMB 120 online, RMB 130 at the gate |
-| The other | RMB 50 off-season, RMB 80 at peak |
+| The other | RMB 50 off season, RMB 80 at peak |
 | Winter | Half price. Only the higher set spells this out |
 
 Check when you book. Do not trust any published number, ours included. [Getting around Moganshan](/getting-here/getting-around/) explains the transfers, and the [scenic area page](/moganshan/scenic-area/) covers the rules.
@@ -117,20 +127,19 @@ Eat when food is in front of you, and carry something for the afternoon.
 
 ## Where to ask for an actual route
 
-Three sources can give you one, in this order.
+Four sources can give you one, in this order.
 
 ![A hand drawn sketch map of lines and arrows on paper with a pencil alongside](/images/guide/things-to-do-hiking-4.webp 'The best route advice on this mountain is still spoken, drawn on paper, and comes from where you are sleeping.')
 
 - **Your guesthouse.** The best source on this mountain. Staff walk it weekly and know which paths are closed or dug up right now. English varies from house to house. Ask the night before, not on your way out of the door.
-- **The transfer centers and scenic-area gates.** Staffed during opening hours, with signboards on the mountain, mostly in Chinese. A translation app on your phone earns its keep here.
+- **The transfer centres and scenic area gates.** Staffed during opening hours, with signboards on the mountain, mostly in Chinese. A translation app on your phone earns its keep here.
 - **The [villa walking tour](/moganshan/hill-station/walking-tour/).** Six historic buildings in a reading order, with the history checked.
+- **The [Chiang Kai shek path](/things-to-do/chiang-kai-shek-path/).** One full day loop from Yucun, stage by stage, with the timings walkers have published and the ticket question set out.
 
 ## When the paths get busy
 
-High-end guesthouse occupancy hit 94 percent over the May 2024 holiday, and during National Day 2025 daily footfall in Yucun ran 30 to 40 percent above normal. Mondays stay quiet all year.
+High end guesthouse occupancy hit 94 percent over the May 2024 holiday, and during National Day 2025 daily footfall in Yucun ran 30 to 40 percent above normal. Mondays stay quiet all year.
 
 > Holiday occupancy and footfall, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-At those peaks the main paths are busy in the ordinary Chinese-holiday sense: continuous and loud, with queues at the photogenic points. The mountain absorbs it away from the obvious routes, and few people go there. For the rest, see [things to do](/things-to-do/).
-
-*Last check on terrain, temperature and transfer-center hours: 5 August 2026. Ticket prices should be checked at booking.*
+At those peaks the main paths are busy in the ordinary Chinese holiday sense: continuous and loud, with queues at the photogenic points. The mountain absorbs it away from the obvious routes, and few people go there. For the rest, see [things to do](/things-to-do/).

@@ -716,10 +716,10 @@ CN sources: 新华网 德清; Feeling the Stones Substack; 上观新闻 2019; �
 CN sources: 本地宝; platform docs  
 > Foreigner-specific cluster. Highly linkable by China-expat resources.
 
-**10 · 11 Oct · P3 Trails** · The Chiang Kai-shek path: the free route to Sword Pond  
+**10 · 11 Oct · P3 Trails** · The Chiang Kai-shek path: the old way up to Sword Pond  
 `moganshan hiking trail / jianggong ancient path` · 2,000w · no affiliate  
 CN sources: 绿色旅行网 8条徒步路线; 新浪 3条亲测路线  
-> FLAGSHIP TRAIL PIECE. 4km one way, +400m, 10-12km full loop, +560m, bypasses the gate. Needs GPS field data.
+> FLAGSHIP TRAIL PIECE. Loop from Yucun, about 10 km and 560 to 660 m of climbing by published GPS logs (10 to 12 km in the guides), the first 5 km up. The path is free; Sword Pond and the villas it climbs into are inside the ticketed scenic area, and dated accounts show a ticket point aimed at walkers, so the piece never sells it as a way round the gate (research 11 Oct 2026). GPS figures come from walkers' published, dated logs.
 
 **11 · 14 Oct · P4 Food** · Moganshan noodles: the four shops locals actually queue for  
 `where to eat moganshan / moganshan restaurants` · 1,300w · no affiliate  
@@ -1012,7 +1012,7 @@ CN sources: 武陵村; 松月庐; 皇后饭店
 **67 · 31 Mar · P7 Compare** · Moganshan on a budget: the honest cheap version  
 `moganshan budget / cheap moganshan trip` · 1,600w · `go/stays-all`  
 CN sources: sub-500 RMB room data  
-> The shake-out made this newly true. Free hiking via the Chiang path, hostels, Yucun base.
+> The shake-out made this newly true. Free walking on the village paths and the lower Chiang path (the scenic area at the top still charges), hostels, Yucun base.
 
 **68 · 3 Apr · P8 Around** · Xinshi ancient town: the water town nobody queues for  
 `xinshi ancient town deqing` · 1,400w · no affiliate  
@@ -1376,7 +1376,7 @@ Full briefs are in `content-briefs-q1.md`. The operationally critical points:
 
 **Slot 13 is the highest-value piece on the plan.** "Can a guesthouse refuse your passport?" requires calling or messaging 20 to 30 properties across price bands and villages, then publishing the results as a dated table with the method stated. Nothing like it exists for any destination in China. Refresh annually.
 
-**Slot 10 is the flagship trail piece.** The Chiang Kai-shek path, 4 km one way and about +400 m, full loop 10 to 12 km and about +560 m, running 庾村 → 莫皋坞 → 狡猾坡 → 剑池 → 四叠瀑布, and it is free because it bypasses the ticket gate. No English source has ever described it. Publish the GPX.
+**Slot 10 is the flagship trail piece.** The Chiang Kai-shek path, a loop of about 10 km and 560 to 660 m of climbing, the first 5 km up, running 庾村 → 莫皋坞 → 狡猾坡 → 剑池 → 四叠瀑布 and back down by 百步岭. The path costs nothing, but its top half is inside the ticketed scenic area, and walkers have met a ticket point aimed at them (corrected 11 Oct 2026: the earlier line said it was free because it bypasses the ticket gate, which no tier 1 or tier 2 source supports). No English source has ever described it. Publish the GPX.
 
 **Facts already gathered for Q1, all requiring re-verification before publication:**
 

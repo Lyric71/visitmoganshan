@@ -4,7 +4,7 @@ slot: 10
 publish_date: 2026-10-11
 pillar: P3
 pillar_name: "Trails and outdoors"
-title: "The Chiang Kai-shek path: the free route to Sword Pond"
+title: "The Chiang Kai-shek path: the old way up to Sword Pond"
 url: /things-to-do/chiang-kai-shek-path/
 output_file: output/chiang-kai-shek-path.md
 guide_file: src/content/guide/things-to-do-chiang-kai-shek-path.md
@@ -19,7 +19,7 @@ desk_written: true
 status: not_started
 ---
 
-# BRIEF 010: The Chiang Kai-shek path: the free route to Sword Pond
+# BRIEF 010: The Chiang Kai-shek path: the old way up to Sword Pond
 
 Run with the house `createarticle` skill. Read `../CLAUDE.md` and `../SPEC.md`
 first. They override any conflicting rule inside the skill.
@@ -38,7 +38,7 @@ first. They override any conflicting rule inside the skill.
 |---|---|
 | Slot | 10 of 122, publishes 11 Oct 2026 (Sun) |
 | Pillar | P3, Trails and outdoors |
-| Working H1 | The Chiang Kai-shek path: the free route to Sword Pond |
+| Working H1 | The Chiang Kai-shek path: the old way up to Sword Pond |
 | URL | `/things-to-do/chiang-kai-shek-path/` (default, move it by editing `url` in the draft) |
 | Output file | `output/chiang-kai-shek-path.md` |
 | Published file | `src/content/guide/things-to-do-chiang-kai-shek-path.md` |
@@ -54,7 +54,7 @@ first. They override any conflicting rule inside the skill.
 
 ## The angle
 
-> FLAGSHIP TRAIL PIECE. 4km one way, +400m, 10-12km full loop, +560m, bypasses the gate. Needs GPS field data.
+> FLAGSHIP TRAIL PIECE. Loop from Yucun, about 10 km and 560 to 660 m of climbing by published GPS logs (10 to 12 km in the guides), the first 5 km up. The path is free; Sword Pond and the villas it climbs into are inside the ticketed scenic area, and dated accounts show a ticket point aimed at walkers, so the piece never sells it as a way round the gate (research 11 Oct 2026). GPS figures come from walkers' published, dated logs.
 
 ## Chinese sources named in the calendar
 

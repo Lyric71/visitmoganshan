@@ -52,7 +52,7 @@ first. They override any conflicting rule inside the skill.
 
 ## The angle
 
-> The shake-out made this newly true. Free hiking via the Chiang path, hostels, Yucun base.
+> The shake-out made this newly true. Free walking on the village paths and the lower Chiang path (the scenic area at the top still charges), hostels, Yucun base.
 
 ## Chinese sources named in the calendar
 
