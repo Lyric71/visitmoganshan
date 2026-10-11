@@ -721,10 +721,10 @@ CN sources: 本地宝; platform docs
 CN sources: 绿色旅行网 8条徒步路线; 新浪 3条亲测路线  
 > FLAGSHIP TRAIL PIECE. Loop from Yucun, about 10 km and 560 to 660 m of climbing by published GPS logs (10 to 12 km in the guides), the first 5 km up. The path is free; Sword Pond and the villas it climbs into are inside the ticketed scenic area, and dated accounts show a ticket point aimed at walkers, so the piece never sells it as a way round the gate (research 11 Oct 2026). GPS figures come from walkers' published, dated logs.
 
-**11 · 14 Oct · P4 Food** · Moganshan noodles: the four shops locals actually queue for  
+**11 · 14 Oct · P4 Food** · Moganshan noodles: the four shops the Chinese record names  
 `where to eat moganshan / moganshan restaurants` · 1,300w · no affiliate  
 CN sources: 腾讯 隐藏美食; 德清新闻网  
-> Food is the site's largest hole and no English source names a single restaurant. Xingxian, Aqingsao, Huiyi, Meixi.
+> Food is the site's largest hole and no English source names a single restaurant. Xingxian, Aqingsao, Huiyi, Meixi. Every one of the four is named only by county and provincial promotion accounts (2024) and an OTA listing, so the piece prints them as what the record says, never as where locals queue, and prints no price or hours (research 11 Oct 2026). Meixi is a branch of an Anji chain.
 
 **12 · 17 Oct · P2 Villages** · Houwu: streams, a thousand-year ginkgo, and the second transfer centre  
 `houwu village moganshan` · 1,500w · `go/stays-village-houwu`  
@@ -1385,7 +1385,7 @@ Full briefs are in `content-briefs-q1.md`. The operationally critical points:
 - Ticket sources disagree: 80 RMB baseline, tiering reported at 100 peak / 80 shoulder / 50 low, online at 85 and 65, bundles at 110 to 135. Gate ticket normally valid two days. Entry 08:00 to 17:00, indoor sites 08:30 to 16:30.
 - Free entry: under 1.2 m or under 6, 70 and over with ID, active military, registered disabled, Zhejiang teachers with 30-plus years' service. Half price: 1.2 to 1.4 m, full-time students to undergraduate, ages 60 to 69.
 - Deqing station: Hangzhou East about 13 min and 12 to 17.5 RMB, Shanghai Hongqiao about 1.5 to 2 h and 93.5 RMB. Y1 tourist line to Yucun, about 70 min, infrequent. Taxi 50 to 80 RMB, about 30 min. K111 to Wukang.
-- Named noodle shops: 杏仙面店 Huangfu East Rd 15, 阿庆嫂面馆 Huangfu East Rd 9, 回忆面馆 Duihekou St 27, 梅溪·小伙子干挑面.
+- Named noodle shops: 杏仙面店 Huangfu East Rd 15, 阿庆嫂面馆 Huangfu East Rd 9, 回忆面馆 Duihekou St 27, 梅溪·小伙子干挑面 (an Anji chain; Moganshan branch at Yuxin North St 42).
 - Yucun free venues: 1932庾村文创园, 莫干山民国图书馆 Huangfu West Rd 50 (Tue to Sun 09:00 to 16:30, 600-plus Republic-era periodical titles, 20,000-plus issues), 白云美术馆 Huangfu West Rd 48, 青芷Space.
 - Rural coffee: 洞穴咖啡 (brand 仅莫干) in a cave at 铜官山, Hecun, opened 2024. 格里恩咖啡 in a quarry pit at Wusi, owner 谷雪松, 2,000-plus visitors a day over May Day 2025. 人民日报 feature 30 May 2025. Over 70% of founders are post-90s or post-95s.
 

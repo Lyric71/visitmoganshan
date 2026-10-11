@@ -9,10 +9,10 @@ secondary_keywords: [moganshan without ticket]
 schema: Article + Place
 image: /images/guide/yucun.webp
 image_alt: A plane tree lined street in a small hill town on an overcast day, low shopfronts on both sides and bamboo covered slopes behind
-word_count: 1752
+word_count: 1788
 author: echo-peng
 published: 2026-09-26
-last_updated: 2026-09-26
+last_updated: 2026-10-12
 pillar: P2
 slot: 5
 freshness_tier: semi-stable
@@ -258,10 +258,10 @@ exhibition and a concert at dusk.
 
 That's the free half of the town. Lunch is where you start paying.
 
-The dated record names dishes, not restaurants. Before the street was rebuilt, a
-2018 account named pig liver noodles, sesame cakes and cloth shoes as the town's
-three treasures. A 2020 one sent visitors to bamboo shoots braised with pork and
-to wild greens.
+The two accounts below name dishes, not restaurants. Before the street was
+rebuilt, a 2018 account named pig liver noodles, sesame cakes and cloth shoes
+as the town's three treasures. A 2020 one sent visitors to bamboo shoots
+braised with pork and to wild greens.
 
 > Pig liver noodles, sesame cakes and cloth shoes as Yucun's three treasures,
 > The Paper (澎湃新闻), 湃客 contributor column, 9 October 2018, tier 3.
@@ -273,6 +273,11 @@ to wild greens.
 Neither names a restaurant we could confirm is still trading, so we haven't
 repeated either as an address. On a weekday out of season, ask your host what is
 open that evening before you walk down.
+
+County and provincial accounts have since printed noodle shops with street
+numbers on Huangfu East Road and Yuxin North Street. [Moganshan
+noodles](/things-to-do/moganshan-noodles/) sets out what the record says about
+each, and how recent it is.
 
 What has changed is the supply. Phase two of Yujie added a waterside shopping
 street, a market and a canteen for the young people working there, and the

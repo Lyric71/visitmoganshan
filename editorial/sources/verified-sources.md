@@ -724,8 +724,8 @@ checks. -->
 * Verified 1: 2026-09-25 (猪肝面, 烧饼, 老布鞋, 庾村三宝, 2018-10-09 present)
 * Verified 2: 2026-09-25 (fetched again; all present)
 * Shelf life: historical
-* Used in: yucun
-* Notes: a contributor account, so tier 3; no restaurant named in it is printed as trading.
+* Used in: yucun, moganshan-noodles
+* Notes: a contributor account, so tier 3; no restaurant named in it is printed as trading. The same page says Yucun is quiet by 21:00 (晚上9点，庾村已经静悄悄), used in moganshan-noodles; fetched again on 2026-10-11 for both checks, all present.
 
 ### Anji's 余村 as a Best Tourism Village
 * Value: 余村 in Anji County named among the first UN World Tourism Organization Best Tourism Villages on 2 December 2021
@@ -786,6 +786,88 @@ checks. -->
 * Shelf life: evergreen as advice, seasonal as news
 * Used in: dispatch-2026-40
 * Notes: about town streets and parks, not the scenic area.
+
+### Noodle shops named by the provincial tourism account
+* Value: 杏仙面店 at 黄郛东路15号 in Yucun (pig liver tossed noodles, beef tossed noodles, green pepper soup noodles, toppings fried to order, "handed down for decades"); 阿庆嫂面馆 at 黄郛东路9号, "opposite 莫干山车站" (stir fried pig liver noodles in a heavier sauce, alkaline noodles, spring bamboo shoot, beef noodles); 回忆面馆 at 对河口街27号, by the S304 opposite the reservoir, "a little out of the way" (pig liver, three delicacies with shrimp, fish, greens, shredded pork and dried bamboo shoot, pork chop noodles; dry tossed noodles with a fried egg; portions for two)
+* As of: May 2024
+* Source: 诗画浙江游浙里, the Zhejiang culture and tourism department's provincial, city and county media account, on Tencent News (腾讯新闻), sourced to 寻味星球
+* Tier: 4
+* URL: https://news.qq.com/rain/a/20240520A00KC500
+* Verified 1: 2026-10-11 (all three addresses, 莫干山车站对面, 304省道, 两个人吃一碗, pubtime 2024-05-20 present)
+* Verified 2: 2026-10-11 (fetched again; all present, plus 竹笋 and 菜炒一遍再煮面)
+* Shelf life: semi-stable, 6 months; a shop may close at any time, so the piece prints the date of the mention, never "still open"
+* Used in: moganshan-noodles
+* Notes: a promotion account: cited as what it published. The only source for 回忆面馆. 莫干山车站 cannot be the railway station of that name, which is in Wukang.
+
+### Noodle shops in the county app's 2024 vote
+* Value: the 我德清 app's "favourite noodle shop" vote, written up as eight shops across Deqing in no order, among them 杏仙面店 (莫干山镇黄郛东路15号, 老字号, 猪肝拌面) and 阿庆嫂面馆 (莫干山镇黄郛东路9号, opposite 莫干山车站, 爆炒猪肝面, 碱面, "喜欢重口的推荐这家")
+* As of: 2 September 2024
+* Source: Ai Deqing (爱德清), county promotion account, on NetEase (网易)
+* Tier: 4
+* URL: https://www.163.com/dy/article/JB3GJODL0514AIVC.html
+* Verified 1: 2026-10-11 (点赞活动, 排名不分先后, both addresses, 2024-09-02 来源: 爱德清 present)
+* Verified 2: 2026-10-11 (fetched again; all present, plus 重口的推荐这家 and 碱面)
+* Shelf life: semi-stable, 6 months
+* Used in: moganshan-noodles
+* Notes: as published; the vote is not a ranking and is never printed as one. The other six shops are in Wukang, Xinshi, Xiazhu Lake and Qianyuan.
+
+### Meixi Xiaohuozi noodles, Moganshan branch, trading
+* Value: 梅溪·小伙子干挑面·湖州地标面馆(莫干山店) at 莫干山镇庾信北街42号; listed dishes 酱爆猪肝, 油焖春笋, 干挑面, 套肠; one review dated 12 May 2026, "well known ... often a queue at mealtimes"
+* As of: 12 May 2026 (the review date)
+* Source: Ctrip restaurant listing (携程美食林), restaurant 154234561
+* Tier: 4
+* URL: https://you.ctrip.com/food/1011/154234561.html
+* Verified 1: 2026-10-11 (庾信北街42号, 2026-05-12 发布点评, 饭点还经常排队 present)
+* Verified 2: 2026-10-11 (fetched again; all present, plus 酱爆猪肝)
+* Shelf life: volatile, 3 months, as a trading signal
+* Used in: moganshan-noodles
+* Notes: an OTA listing, used the way the hotel chain uses one: evidence of trading on a date. Never a price (the listing's RMB 23 a head is user fed) and never hours.
+
+### Meixi Xiaohuozi noodles, Anji main branch
+* Value: 梅溪·小伙子干挑面(安吉总店), the brand's Anji main branch; its listed dishes include 虾皮紫菜汤 (dried shrimp and seaweed soup)
+* As of: 23 February 2024 (the review dates on the page)
+* Source: Ctrip restaurant listing (携程美食林), restaurant 19401269
+* Tier: 4
+* URL: https://you.ctrip.com/food/0/19401269.html
+* Verified 1: 2026-10-11 (安吉总店, 虾皮紫菜汤, 2024-02-23 present)
+* Verified 2: 2026-10-11 (fetched again; all present)
+* Shelf life: semi-stable, 6 months
+* Used in: moganshan-noodles (the figure 2 caption, and Meixi as an Anji brand)
+* Notes: a listing; no price used.
+
+### Dry tossed noodles as Wukang's breakfast
+* Value: 干挑面, also 猪油拌面 (lard noodles), no soup, tossed with chopsticks; the most ordered breakfast in Wukang; a resident: "eight breakfast shops in ten make it properly"
+* As of: 29 June 2011
+* Source: Deqing News (德清新闻网)
+* Tier: 2
+* URL: http://dqnews.zjol.com.cn/dqnews/system/2011/06/29/013927478.shtml
+* Verified 1: 2026-10-11 (猪油拌面, 人气最旺、被点率最高, 十家早餐店里八家 present; GB18030)
+* Verified 2: 2026-10-11 (fetched again; all present)
+* Shelf life: evergreen as food culture; the shops it names are not reused
+* Used in: moganshan-noodles
+
+### Wukang's noodle street
+* Value: 百乐街 in Wukang, under 500 m, 10 to 20 noodle shops; 水乡鱼面馆 sold 200 plus bowls a day over May Day 2026; a Shanghai visitor came down from Yucun for mutton noodles; 百乐街 and 吉祥街 as the county's food streets
+* As of: 6 May 2026
+* Source: China News Service (中国新闻网), Zhejiang edition
+* Tier: 2
+* URL: https://www.zj.chinanews.com.cn/jzkzj/2026-05-06/detail-ihfefuir8009492.shtml
+* Verified 1: 2026-10-11 (不足500米, 一、二十家, 200多碗, 庾村逛了半天, 羊肉面 present)
+* Verified 2: 2026-10-11 (fetched again; all present)
+* Shelf life: semi-stable, 6 months
+* Used in: moganshan-noodles
+
+### The Yucun square noodle family's shops in Wukang and Hangzhou
+* Value: the founder's mother opened what the account calls the first noodle shop in the town, on Yucun square; he runs 于村面馆 in Wukang and opened 庾村面馆·山河 in Shangtang, Gongshu, Hangzhou, on 1 April 2026; a fish and shrimp noodle takes 20 to 30 minutes
+* As of: 10 April 2026
+* Source: 寻"糖"记, the Shangtang subdistrict account, on Sohu (搜狐)
+* Tier: 4
+* URL: https://www.sohu.com/a/1007541664_121123792
+* Verified 1: 2026-10-11 (2026年4月1日, 于村面馆, 武康镇, 第一家面馆 present)
+* Verified 2: 2026-10-11 (fetched again; all present)
+* Shelf life: semi-stable, 6 months
+* Used in: moganshan-noodles
+* Notes: as published; "first" is the account's word.
 
 ## History and culture (evergreen)
 

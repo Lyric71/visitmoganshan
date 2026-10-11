@@ -4,7 +4,7 @@ slot: 11
 publish_date: 2026-10-14
 pillar: P4
 pillar_name: "Food, tea and coffee"
-title: "Moganshan noodles: the four shops locals actually queue for"
+title: "Moganshan noodles: the four shops the Chinese record names"
 url: /things-to-do/moganshan-noodles/
 output_file: output/moganshan-noodles.md
 guide_file: src/content/guide/things-to-do-moganshan-noodles.md
@@ -19,7 +19,7 @@ desk_written: true
 status: not_started
 ---
 
-# BRIEF 011: Moganshan noodles: the four shops locals actually queue for
+# BRIEF 011: Moganshan noodles: the four shops the Chinese record names
 
 Run with the house `createarticle` skill. Read `../CLAUDE.md` and `../SPEC.md`
 first. They override any conflicting rule inside the skill.
@@ -38,7 +38,7 @@ first. They override any conflicting rule inside the skill.
 |---|---|
 | Slot | 11 of 122, publishes 14 Oct 2026 (Wed) |
 | Pillar | P4, Food, tea and coffee |
-| Working H1 | Moganshan noodles: the four shops locals actually queue for |
+| Working H1 | Moganshan noodles: the four shops the Chinese record names |
 | URL | `/things-to-do/moganshan-noodles/` (default, move it by editing `url` in the draft) |
 | Output file | `output/moganshan-noodles.md` |
 | Published file | `src/content/guide/things-to-do-moganshan-noodles.md` |
@@ -53,7 +53,7 @@ first. They override any conflicting rule inside the skill.
 
 ## The angle
 
-> Food is the site's largest hole and no English source names a single restaurant. Xingxian, Aqingsao, Huiyi, Meixi.
+> Food is the site's largest hole and no English source names a single restaurant. Xingxian, Aqingsao, Huiyi, Meixi. Every one of the four is named only by county and provincial promotion accounts (2024) and an OTA listing, so the piece prints them as what the record says, never as where locals queue, and prints no price or hours (research 11 Oct 2026). Meixi is a branch of an Anji chain.
 
 ## Chinese sources named in the calendar
 

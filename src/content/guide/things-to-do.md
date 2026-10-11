@@ -9,10 +9,10 @@ secondary_keywords: [what to do in moganshan, moganshan things to do, moganshan 
 schema: Article + ItemList
 image: /images/guide/things-to-do.webp
 image_alt: A stone path junction under bamboo with a wooden signpost pointing towards the villas
-word_count: 1832
+word_count: 1823
 author: liyan-ye
 published: 2026-08-06
-last_updated: 2026-08-08
+last_updated: 2026-10-12
 ---
 
 # Things to do in Moganshan
@@ -33,6 +33,7 @@ This is the hub page for what to do in Moganshan. The table below groups the att
 | Walking | Paths between sights and villages | Scenic area, villages | [Hiking](/things-to-do/hiking/) |
 | Cycling, water | Reservoir, kayaks, bikes | Laoling, Dazaowu | [Where to stay](/where-to-stay/) |
 | Tea | Poured at every guesthouse | Wherever you are sitting | [Tea](/moganshan/tea/) |
+| Food | Noodle shops named in the Chinese record | Yucun, the road in | [Moganshan noodles](/things-to-do/moganshan-noodles/) |
 | Cool air | 24.1 °C in July and August | Whole mountain | [Seasons](/seasons/) |
 
 ## What kind of day this is
@@ -57,15 +58,15 @@ Everything else here grew around this.
 
 ![A stone villa gable with a tall chimney and arched windows seen from a lane below](/images/guide/things-to-do-2.webp 'The villa walk is the one thing here that is genuinely unusual, and it takes half a day at a slow pace.')
 
-American Protestant missionaries founded a summer hill station here in the 1890s, escaping the heat in Shanghai. The first Western villas date to 1896 to 1898, and by 1910 about 300 foreigners held summer homes here, mostly American and British. Around 250 villas survive, in local stone, in a mix of European and Chinese-eclectic styles that Chinese sources call an "architecture of all nations."
+American Protestant missionaries founded a summer hill station here in the 1890s, escaping the heat in Shanghai. The first Western villas date to 1896 to 1898, and by 1910 about 300 foreigners held summer homes here, mostly American and British. Around 250 villas survive, in local stone, in a mix of European and Chinese eclectic styles that Chinese sources call an "architecture of all nations".
 
-The first tennis court went in during 1901, and by 1909 the Moganshan open championship was a fixture in Sino-foreign society. People came to do very little, slowly, for a whole summer, which is roughly the offer today.
+The first tennis court went in during 1901, and by 1909 the Moganshan open championship was a fixture in Sino foreign society. People came to do very little, slowly, for a whole summer, which is roughly the offer today.
 
 Several villas carry political history.
 
 | Figure | Villa | What happened |
 |---|---|---|
-| Chiang Kai-shek | Songyue Lodge, Wuling | Honeymoon with Soong Mei-ling, December 1927. Back as President, 1948 |
+| Chiang Kai shek | Songyue Lodge, Wuling | Honeymoon with Soong Mei ling, December 1927. Back as President, 1948 |
 | Zhou Enlai | Baiyun Shanguan | Secret 1937 talks with Chiang, behind the Second United Front |
 | Mao Zedong | A 1934 villa built by banker Jiang Yizhe | Stayed in 1954 |
 
@@ -95,14 +96,14 @@ The rest of the official list runs like this:
 | Luhuadang Park | A park inside the core area, reached on the stone paths |
 | Dakeng | A named point on the official list, out on the paths |
 | Xuguang sunrise platform | A viewpoint whose name means first light |
-| Chiang Kai-shek's villa | Songyue Lodge, Wuling, as above. Seen from outside |
+| Chiang Kai shek's villa | Songyue Lodge, Wuling, as above. Seen from outside |
 | Bai and Yun Art Museum | A small museum in the core area |
 
 The [scenic area page](/moganshan/scenic-area/) takes them one by one.
 
 You cannot drive your own vehicle into the scenic area. You transfer at Yucun, Fatou or Houwu, and all three run 08:00 to 18:00. Those hours are the problem with a platform named for first light.
 
-Ticket prices conflict between sources too. One gives RMB 120 online and RMB 130 at the gate, half price in winter. Another gives RMB 50 off-season and RMB 80 at peak. Treat RMB 50 to 130 as the range and confirm it at booking.
+Ticket prices conflict between sources too. One gives RMB 120 online and RMB 130 at the gate, half price in winter. Another gives RMB 50 off season and RMB 80 at peak. Treat RMB 50 to 130 as the range and confirm it at booking.
 
 ## Walking, which is most of the day
 
@@ -138,11 +139,11 @@ July and August average 24.1 °C, about 6 to 7 °C below Shanghai and Hangzhou. 
 
 Once the temperature is the attraction, the planning changes. You stop trying to fill a day and sit outside in August without sweating.
 
-Outside write-ups say much the same. The New York Times listed Moganshan in "45 Places to Go in 2012," at position 18 on a numbered list, and Tatler Asia calls it "the Hamptons of China."
+Outside write ups say much the same. The New York Times listed Moganshan in "45 Places to Go in 2012", at position 18 on a numbered list, and Tatler Asia calls it "the Hamptons of China."
 
 > July to August mean temperature and the summer differential, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-> "45 Places to Go in 2012," The New York Times, 2012. A numbered list, not a ranking.
+> "45 Places to Go in 2012", The New York Times, 2012. A numbered list, not a ranking.
 
 ## When you go changes what you can do
 
@@ -152,7 +153,7 @@ Crowding here is not steady, and it changes what a day is worth.
 |---|---|
 | Midweek, Mondays especially | Notably quiet. The best version of the mountain |
 | Weekends | Where the volume sits |
-| May Day and National Day | High-end occupancy hit 94 percent in May 2024. Yucun footfall ran 30 to 40 percent above normal at National Day 2025 |
+| May Day and National Day | High end occupancy hit 94 percent in May 2024. Yucun footfall ran 30 to 40 percent above normal at National Day 2025 |
 
 In those weeks the main Moganshan things to do, the villa walk and the bamboo paths, queue at the photogenic points. The [seasons guide](/seasons/) has the calendar.
 
@@ -176,8 +177,6 @@ Chinese reporting on the guesthouse economy records no evening economy in these 
 
 ![A guesthouse common room in the evening with low lamps, a wood stove and empty chairs](/images/guide/things-to-do-4.webp 'The evening is a room like this one. Plan for it rather than being surprised by it.')
 
-- **No night market, little late-night food.** Guesthouses serve dinner, then the village closes.
+- **No night market, little late night food.** Guesthouses serve dinner, then the village closes.
 - **Book dinner with the room.** Visitors used to Chinese city travel complain about this, fairly.
 - **If nightlife matters,** sleep in Hangzhou and come here for the day.
-
-*Temperatures, villa counts, occupancy data and transfer hours were current on 5 August 2026. Ticket prices vary and should be confirmed at booking.*
