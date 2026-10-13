@@ -9,10 +9,10 @@ secondary_keywords: [china payment for tourists, wechat pay foreign card, paying
 schema: Article
 image: /images/guide/plan-money-and-payments.webp
 image_alt: A phone showing a payment code propped on the wooden counter of a village guesthouse
-word_count: 1752
+word_count: 1804
 author: cyril-drouin
 published: 2026-08-06
-last_updated: 2026-10-08
+last_updated: 2026-10-14
 ---
 
 # Paying for things in China as a visitor
@@ -122,11 +122,13 @@ Cars stop at the scenic area boundary, so between 08:00 and 17:30 you change to 
 
 Money is only half of this anxiety. The other half is being turned away when you arrive.
 
-A joint directive of 24 May 2024 bars hotels from refusing a foreign guest for lack of a special licence. It came jointly from the Ministry of Public Security, the Ministry of Commerce and the National Immigration Administration. The rule is not ambiguous. Refusals are reported in practice anyway.
+A joint reply of 24 May 2024 tells hotels not to refuse a foreign guest for lack of a special licence. It came from the Ministry of Public Security, the Ministry of Commerce and the National Immigration Administration, answering public messages. It is plain about that excuse, but it is not a numbered rule and names no penalty for a house that refuses anyway. Refusals are reported in practice.
 
-The gap between the rule and the room is what you plan around. Ask in writing, before the deposit, whether the property can register a foreign passport. The question feels insulting to send. Send it anyway, because the version where you find out at the door is worse. Moganshan runs on minsu (民宿), small owner run guesthouses, rather than hotels. [What a minsu is](/where-to-stay/minsu-explained/) explains why they vary so much on this.
+The gap between the reply and the room is what you plan around. Ask in writing, before the deposit, whether the property can register a foreign passport. The question feels insulting to send. Send it anyway, because the version where you find out at the door is worse. Moganshan runs on minsu (民宿), small owner run guesthouses, rather than hotels. [What a minsu is](/where-to-stay/minsu-explained/) explains why they vary so much on this.
 
-> Joint directive of 24 May 2024 on foreign guests, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
+> The joint reply of 24 May 2024 on foreign guests, China Tourism News (中国旅游新闻网), relaying the State Council website, 24 May 2024, tier 2. https://www.ctnews.com.cn/chanye/content/2024-05/24/content_160606.html
+
+How far the listings on this mountain still say no, and what the law asks of a house that says yes, is in [can a guesthouse refuse your passport](/plan/can-a-guesthouse-refuse-your-passport-foreign/).
 
 ## Getting tax back when you leave
 
@@ -170,4 +172,4 @@ Deqing knows how to host people. Its guesthouse sector takes over 7 million gues
 
 So: get both apps working before flying, and carry cash. Then ask the host how they want to be paid, in the same message that asks about the passport. [Paying for things on Moganshan](/plan/paying-for-things-on-moganshan/) sets the gate ticket, the shuttle and the room against the RMB 200 line, and says what the 2024 rules require of the ticket window.
 
-*Payment rules, the hotel directive and the VAT refund thresholds stand as at 5 August 2026.*
+*Payment rules and the VAT refund thresholds stand as at 5 August 2026.*

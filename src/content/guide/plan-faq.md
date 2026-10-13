@@ -14,10 +14,10 @@ secondary_keywords:
 schema: Article + FAQPage
 image: /images/guide/plan-faq.webp
 image_alt: A folded paper map, a notebook, keys and a glass of tea on a table by a window onto green hills
-word_count: 1979
+word_count: 2011
 author: cyril-drouin
 published: 2026-08-05
-last_updated: 2026-10-02
+last_updated: 2026-10-14
 ---
 
 # Planning questions, answered
@@ -140,7 +140,7 @@ Not quite. An Airbnb is a listing. A minsu is a category of small licensed guest
 
 ### Can a foreign passport holder book directly?
 
-Yes, and the May 2024 directive says a property cannot refuse you for lack of a licence. Refusals still happen, so confirm in writing before you pay.
+Yes, and a joint reply of 24 May 2024 says a property cannot refuse you for lack of a licence. Refusals still happen: on 13 October 2026, 308 of 805 Moganshan listings on Trip.com said they took mainland Chinese documents only. Confirm in writing before you pay. [Can a guesthouse refuse your passport](/plan/can-a-guesthouse-refuse-your-passport-foreign/) has the rules and the count.
 
 ### Is RMB 300 a night really enough?
 

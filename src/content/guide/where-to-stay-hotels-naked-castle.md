@@ -2,17 +2,17 @@
 url: /where-to-stay/hotels/naked-castle/
 title: naked Castle, Moganshan
 seo_title: "naked Castle Moganshan: The 1910 Villa Behind the Hotel"
-meta_description: "naked Castle opened in 2017 in a 1910 castle-style villa built by a Scottish missionary. About 95 rooms, part of naked Retreats. We do not rate it."
+meta_description: "naked Castle opened in 2017 in a 1910 castle style villa built by a Scottish missionary. About 95 rooms, part of naked Retreats. We do not rate it."
 excerpt: "A 1910 villa built by a Scottish missionary doctor, restored and opened as a hotel in 2017. Where it sits in the hill station's history and in the naked group."
 primary_keyword: naked castle moganshan
 secondary_keywords: [naked castle, moganshan castle hotel, naked retreats]
 schema: Hotel
 image: /images/guide/where-to-stay-hotels-naked-castle.webp
 image_alt: A granite villa with a castellated parapet and arched windows, set into a bamboo slope
-word_count: 1096
+word_count: 1106
 author: echo-peng
 published: 2026-08-07
-last_updated: 2026-08-08
+last_updated: 2026-10-14
 ---
 
 # naked Castle, Moganshan
@@ -27,7 +27,7 @@ Nobody from this site has slept in the building. So what follows describes it an
 |---|---|
 | Opened | 2017 |
 | Rooms | about 95 keys |
-| The building | an English-castle-style villa built in 1910 |
+| The building | an English castle style villa built in 1910 |
 | Who built it | a Scottish physician and missionary named Maitland |
 
 > Opening date, room count and origin of the building, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
@@ -42,7 +42,7 @@ In 1910 a Scottish doctor who came to China as a missionary built himself a hous
 
 The colony was already old by then. American Protestant missionaries found the mountain in the 1890s, and the earliest Western villas date from 1896 to 1898.
 
-Maitland built at the top of the boom. Nine years on, the foreign-owned stock was 154 villas. By 1929 it was 78, and in 1949 the foreigners left for good.
+Maitland built at the top of the boom. Nine years on, the foreign owned stock was 154 villas. By 1929 it was 78, and in 1949 the foreigners left for good.
 
 > Hill station figures for 1910, the 1920s and 1929, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
@@ -84,7 +84,7 @@ Roughly **USD 291 to 524** a night, checked 6 August 2026.
 
 Read that as a band rather than a quote for a room. It covers naked Stables and naked Castle together, and the season and the day of the week move it further than the choice between the two properties does.
 
-For scale, the local trade sets its high-end threshold at RMB 1,500, and rooms above that line grew 42 percent year on year. [Luxury stays](/where-to-stay/luxury/) sets that against the rest of the mountain.
+For scale, the local trade sets its high end threshold at RMB 1,500, and rooms above that line grew 42 percent year on year. [Luxury stays](/where-to-stay/luxury/) sets that against the rest of the mountain.
 
 ## Deqing station, then the transfer you cannot skip
 
@@ -102,7 +102,7 @@ Your station is Deqing. Moganshan railway station serves Wukang town, not the mo
 | Taxi or van for that leg | about RMB 100 |
 | Y1 shuttle instead | RMB 10, seven a day, stops in Moganshan town |
 
-Now the constraint that breaks arrival plans. Private cars stop at the scenic-area boundary. Three points handle the swap: Yucun, Fatou and Houwu. All work 08:00 to 18:00 and no later, so landing at Deqing at 19:00 means you have missed them.
+Now the constraint that breaks arrival plans. Private cars stop at the scenic area boundary. Three points handle the swap: Yucun, Fatou and Houwu. All work 08:00 to 18:00 and no later, so landing at Deqing at 19:00 means you have missed them.
 
 Which side of that line your bed is on decides whether this hits you. Message the hotel before booking the train, not after you land. [Getting around](/getting-here/getting-around/) covers the transfers.
 
@@ -112,8 +112,8 @@ Which side of that line your bed is on decides whether this hits you. Message th
 |---|---|
 | Room types and what each one includes | The categories are not obvious from the listing photographs |
 | Whether the room sits in the 1910 building or a newer one | The castle is the reason people come, and not every key is inside it |
-| Which transfer center serves the property, and the 18:00 close | This is the question that decides your arrival evening |
-| Foreign passports and cards | Under a joint directive dated 24 May 2024, hotels may not turn foreign guests away. Refusals still get reported, so confirm in writing |
+| Which transfer centre serves the property, and the 18:00 close | This is the question that decides your arrival evening |
+| Foreign passports and cards | Under a joint reply of 24 May 2024, hotels may not turn foreign guests away for want of a licence. Refusals still get reported, so confirm in writing |
 
 We do not reprint review scores from booking sites either. They are somebody else's numbers, gathered by a method nobody can inspect.
 

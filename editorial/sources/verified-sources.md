@@ -1316,7 +1316,7 @@ primary research, <dates>". -->
 * Verified 1: 2026-10-07 (page dated 2025-03-25; 120家酒店民宿, 150多个国家的护照, 不到1分钟, 六七分钟 present)
 * Verified 2: 2026-10-07 (fetched again, present)
 * Shelf life: semi-stable, 6 months
-* Used in: paying-for-things-on-moganshan
+* Used in: paying-for-things-on-moganshan, can-a-guesthouse-refuse-your-passport-foreign (99.5 percent accuracy and the Hong Kong, Macau and Taiwan permits added from the same page, checked twice on 2026-10-13)
 
 ### Foreign entries to China, first half of 2026, and Moganshan among the summer escapes
 * Value: 22.914 million foreign national entries in the first half of 2026, up 20.4 percent (National Immigration Administration figures); Moganshan named among the cool summer places foreign visitors were crowding to
@@ -1558,6 +1558,120 @@ primary research, <dates>". -->
 * Verified 2: 2026-10-13 (all seven fetched again, every string present; logs/runs/houwu-r/check2.txt)
 * Shelf life: as logged above
 * Used in: houwu
+
+
+### Foreign guest registration duty, and the penalties, in the Exit and Entry Administration Law
+* Value: Art. 39: a hotel (旅馆) registers a foreign guest under the hotel public security rules and reports the details to the local police; a foreigner lodging anywhere else registers with the local police within 24 hours of moving in, in person or through the host (留宿人). Art. 76: a foreigner or host who fails to register under Art. 39(2) gets a warning and may be fined up to RMB 2,000; a hotel that fails to register a foreign guest is punished under the public security penalties law; a hotel that fails to report the details gets a warning, and RMB 1,000 to 5,000 if serious
+* As of: law adopted 30 June 2012, in force 1 July 2013; NIA page dated 21 June 2019
+* Source: National Immigration Administration (国家移民管理局), 中华人民共和国出境入境管理法
+* Tier: 1
+* URL: https://www.nia.gov.cn/n741440/n741547/c1013311/content.html
+* Verified 1: 2026-10-13 (入住后二十四小时内由本人或者留宿人, 二千元以下罚款, 第三十九条第二款规定办理登记, 旅馆未按照规定办理外国人住宿登记, 处一千元以上五千元以下罚款 present)
+* Verified 2: 2026-10-13 (fetched again after the rewrite; every string present, logs/runs/passport-r/check2.txt)
+* Shelf life: evergreen, 12 months
+* Used in: can-a-guesthouse-refuse-your-passport-foreign
+
+### Hotel Industry Public Security Measures: register every guest, report a foreign guest within 24 hours, special trade licence
+* Value: Art. 4: a hotel opens only after its business licence and a special trade licence (特种行业许可证) from the local police; Art. 6: every guest is registered and the identity document checked; a guest from outside the mainland is reported to the local police on the registration form within 24 hours
+* As of: State Council measures of 1987, revised 29 March 2022
+* Source: 旅馆业治安管理办法, on the Ministry of Commerce law database (商务部 全球法规网)
+* Tier: 1
+* URL: https://policy.mofcom.gov.cn/claw/clawContent.shtml?id=94684
+* Verified 1: 2026-10-13 (旅馆接待旅客住宿必须登记, 接待境外旅客住宿，还应当在24小时内向当地公安机关报送住宿登记表, 申领特种行业许可证后，方准开业, 2022年3月29日 present)
+* Verified 2: 2026-10-13 (fetched again after the rewrite; every string present, logs/runs/passport-r/check2.txt)
+* Shelf life: evergreen, 12 months
+* Used in: can-a-guesthouse-refuse-your-passport-foreign
+
+### The 24 May 2024 joint reply: hotels may not refuse foreign guests for want of a foreign related qualification
+* Value: the Ministry of Public Security, the Ministry of Commerce and the National Immigration Administration, answering messages forwarded by the State Council website from foreigners (Nigeria, the UK, Pakistan) refused by hotels for "not having foreign guest qualification" or "not knowing how to enter the data", said they were studying measures and "require the hotel trade not to refuse foreign guests on the ground of having no foreign related qualification" (要求旅馆业不得以无涉外资质为由拒绝接待境外人员); the China Hotel Association issued an initiative on foreign guests at the Ministry of Commerce's direction; the police were being deployed to simplify registration
+* As of: 24 May 2024
+* Source: China Tourism News (中国旅游新闻网), relaying the State Council website (中国政府网) WeChat account
+* Tier: 2
+* URL: https://www.ctnews.com.cn/chanye/content/2024-05/24/content_160606.html
+* Verified 1: 2026-10-13 (2024-05-24, 尼日利亚、英国、巴基斯坦, 不具备涉外资格, 不知道如何将信息录入系统, the operative sentence, the initiative's title and 中国政府网 present)
+* Verified 2: 2026-10-13 (fetched again after the rewrite; every string present, logs/runs/passport-r/check2.txt)
+* Shelf life: semi-stable, 6 months (a policy statement; recheck for a numbered follow up document)
+* Used in: can-a-guesthouse-refuse-your-passport-foreign; since 14 October 2026 also /where-to-stay/minsu-explained/, /plan/money-and-payments/, /plan/china-visa-free-entry/, /where-to-stay/villas-explained/ and the news item of 24 May 2024 (its source)
+* Notes: a reply to public messages, not a numbered directive, and it names no penalty. Site pages that call it a "joint directive" are corrected by the publish step of row 013. Cite this entry, never "BeyondBorder Group Ltd primary research", for the reply.
+
+### Why hotels refused, and where the "foreign related" licence came from
+* Value: the "tourism (foreign related)" hotel licence dates from a September 1988 star rating rule; Beijing police ended designated hotels for foreigners from 1 October 2003; OTA hotel pages carry a "guests accepted" (可接待人群) line; some hotels avoid foreign guests because registration is fiddly and they fear the risk; a Shenzhen hotel worker said a wrong entry in the police (PSB) system brings a fine or at worst a suspension; Tianjin lifted its approval step on 1 November 2003 and Henan on 3 November 2005; the desk records name, nationality, date of birth, passport and visa type, validity, entry date and passport number
+* As of: May 2024
+* Source: Jiemian (界面新闻)
+* Tier: 2
+* URL: https://www.jiemian.com/article/11220490.html
+* Verified 1: 2026-10-13 (1988年9月, 2003年10月1日, 可接待人群, 操作登记麻烦、繁琐，害怕承担风险, 重的会让酒店停业整顿, PSB系统 present)
+* Verified 2: 2026-10-13 (fetched again after the rewrite; every string present, logs/runs/passport-r/check2.txt)
+* Shelf life: evergreen as a 2024 report
+* Used in: can-a-guesthouse-refuse-your-passport-foreign
+
+### Refusals four days after the reply: a reporter's test in Beijing
+* Value: on the afternoon of 28 May 2024 a Beijing chain hotel told a reporter it had no foreign guest qualification and did not take foreigners; one police station said a foreigner must register there first, another said to try another hotel; a Qunar listing read "only guests holding a valid mainland identity card"
+* As of: 28 May 2024
+* Source: Southern Metropolis Daily (南方都市报), 南都 on oeeee.com
+* Tier: 2
+* URL: https://m.mp.oeeee.com/a/BAAFRD000020240529958753.html
+* Verified 1: 2026-10-13 (5月28日下午, 酒店无外宾接待资质，不接待外宾, 建议换一家酒店入住, 仅接待中国内地签发的有效居民身份证的客人 present; page time 2024-05-28 22:23)
+* Verified 2: 2026-10-13 (fetched again after the rewrite; every string present, logs/runs/passport-r/check2.txt)
+* Shelf life: evergreen as a 2024 report
+* Used in: can-a-guesthouse-refuse-your-passport-foreign
+
+### NIA answer to foreign users on registering outside hotels, July 2025
+* Value: a Dutch user asked to register online "whether in a minsu or a friend's home"; the NIA said foreigners lodging outside hotels could also register at community police offices and foreigner service stations, and that a national online platform was being built; Beijing, Shanghai, Hainan and Chongqing (等地) already took registrations online; Zhejiang was not named
+* As of: 16 July 2025
+* Source: Xinhua (新华网), relaying the State Council website (中国政府网)
+* Tier: 2
+* URL: https://www.news.cn/government/20250716/b8ee6b49c5814c17b007815fd3f6b5d9/c.html
+* Verified 1: 2026-10-13 (无论是民宿还是亲友家, 社区警务室、外国人服务站, 正在研发全国通用的外国人住宿登记网上平台, 2025-07-16 present)
+* Verified 2: 2026-10-13 (fetched again after the rewrite; every string present, logs/runs/passport-r/check2.txt)
+* Shelf life: superseded in part by the 20 March 2026 pilot below; kept for the history
+* Used in: can-a-guesthouse-refuse-your-passport-foreign
+
+### Online registration outside hotels, pilot in seven provinces including Zhejiang, from 20 March 2026
+* Value: from 20 March 2026 a foreigner lodging outside a hotel, or the host, can register online in Hebei, Liaoning, Zhejiang, Hubei, Guangxi, Chongqing and Sichuan, on the NIA website, the 移民局12367 app, its WeChat mini program or an Alipay mini program; equal effect to registering at a police station, which remains available; the first registration at an address is made with the host's help; help on the 12367 hotline; Art. 76 warning and fine for not registering
+* As of: 20 March 2026 (announcement 2026 No. 1, and its policy interpretation)
+* Source: National Immigration Administration (国家移民管理局)
+* Tier: 1
+* URL: https://www.nia.gov.cn/n897453/c1771531/content.html ; https://www.nia.gov.cn/n741440/n741577/c1771556/content.html
+* Verified 1: 2026-10-13 (2026年第1号, 2026年3月20日, the seven provinces, 移民局12367, 支付宝小程序, 同等效力, 入住后24小时内; 首次由留宿人协助办理住宿登记, 12367服务热线, 第七十六条, 给予警告，可以并处罚款, 属地公安派出所 present)
+* Verified 2: 2026-10-13 (fetched again after the rewrite; every string present, logs/runs/passport-r/check2.txt)
+* Shelf life: volatile, 3 months (a pilot due to roll out nationally)
+* Used in: can-a-guesthouse-refuse-your-passport-foreign
+* Notes: the nationwide rollout is a standing watch row in source-tiers.md.
+
+### Deqing police foreigner services, 2024
+* Value: Deqing police opened Huzhou's first county level foreign visa point and immigration service stations in five areas where foreigners gather
+* As of: September 2024
+* Source: Huzhou Public Security Bureau (湖州市公安局) official account, on Tencent News
+* Tier: 1 (the bureau's own channel; cited only for what it says it built)
+* URL: https://news.qq.com/rain/a/20240924A03P1900
+* Verified 1: 2026-10-13 (湖州市公安局官方账号, 在5个外国人聚集区，建成移民服务站, 启用湖州首个县级外国人签证点, 德清县公安局 present)
+* Verified 2: 2026-10-13 (fetched again after the rewrite; every string present, logs/runs/passport-r/check2.txt)
+* Shelf life: semi-stable, 6 months
+* Used in: can-a-guesthouse-refuse-your-passport-foreign
+
+### Deqing's 2014 minsu measures cleared the special trade licence for guesthouses
+* Value: the 德清县民宿管理办法(试行) of January 2014 resolved the fire safety and special trade licence (特种行业许可证) obstacles for Deqing guesthouses
+* As of: March 2019 report
+* Source: China Rural Net (中国农村网), 中国村庄 journal
+* Tier: 2
+* URL: http://journal.crnews.net/zgcz/2018n/d11q/927017_20190319030107.html
+* Verified 1: 2026-10-13 (2019-03-19, 德清县民宿管理办法(试行), 突破了民宿的消防问题和特种行业许可证问题 present)
+* Verified 2: 2026-10-13 (fetched again after the rewrite; every string present, logs/runs/passport-r/check2.txt)
+* Shelf life: evergreen as a 2014 fact
+* Used in: can-a-guesthouse-refuse-your-passport-foreign
+
+### Guests Accepted lines on Moganshan's Trip.com listings, October 2026 (our own census)
+* Value: of 809 seed listings, 805 live; 497 "Guests from all countries/regions are welcome"; 228 "To comply with local regulations, this hotel only accepts guests with valid mainland Chinese ID cards"; 80 "only accepts guests with a valid travel permit, residence permit, or ID card issued in the Chinese mainland"; 4 pages gone. By name: villa 57 of 116 live mainland only, hotel or resort 46 of 155, homestay, guesthouse or inn 104 of 270. By listed address: Houwu 32 of 103, Xiantan 35 of 95, Laoling 13 of 58
+* As of: 13 October 2026, 22:13 to 22:50 Shanghai
+* Source: BeyondBorder Group Ltd primary research, Trip.com listing pages (each property's own page, the policy block)
+* Tier: own
+* URL: https://www.visitmoganshan.com/about (method and data: editorial/logs/2026-10-13.md; raw results in the gitignored logs/runs/passport-r/census.json)
+* Verified 1: 2026-10-13 (all 809 pages read; listing 445946 opened by hand and the line confirmed in the rendered policy section)
+* Verified 2: 2026-10-13 (40 listings drawn at random and read again, 40 of 40 unchanged)
+* Shelf life: volatile, 3 months (listing policies change without notice)
+* Used in: can-a-guesthouse-refuse-your-passport-foreign; since 14 October 2026 also /where-to-stay/minsu-explained/, /plan/faq/ and /where-to-stay/villas-explained/ (the villa row)
+* Notes: a listing line is what a property told the platform, not a test at the door. Cite as our own research with the date, never as a property's practice.
 
 ## Retired
 

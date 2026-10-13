@@ -2,17 +2,17 @@
 url: /where-to-stay/minsu-explained/
 title: What a minsu is, and how it differs from a hotel
 seo_title: What Is a Minsu? Moganshan Homestays Explained
-meta_description: A minsu is a small owner-run guesthouse. Moganshan has about 1,000 of them. What to expect, what it costs, and whether foreign guests are taken.
+meta_description: A minsu is a small owner run guesthouse. Moganshan has about 1,000 of them. What to expect, what it costs, and whether foreign guests are taken.
 excerpt: Moganshan has about 1,000 minsu and few hotels. Here is what a Chinese guesthouse stay involves, what it costs, and whether foreign guests are accepted.
 primary_keyword: moganshan homestay
 secondary_keywords: [what is a minsu, china minsu, moganshan guesthouse]
 schema: Article
 image: /images/guide/where-to-stay-minsu-explained.webp
 image_alt: A lit upstairs window of a whitewashed village guesthouse above a stone courtyard at dusk
-word_count: 1376
+word_count: 1480
 author: echo-peng
 published: 2026-08-05
-last_updated: 2026-10-05
+last_updated: 2026-10-14
 ---
 
 # What a minsu is, and how it differs from a hotel
@@ -23,7 +23,7 @@ The mountain has about 1,000 places to sleep. Almost none of them are hotels in 
 
 ## So what is a minsu?
 
-A minsu (民宿) is a small guesthouse, usually owned and run by the family behind it. The word is used across China. On Moganshan it normally means a village house converted room by room, with the owner or a live-in manager on the property rather than a front desk and a duty roster.
+A minsu (民宿) is a small guesthouse, usually owned and run by the family behind it. The word is used across China. On Moganshan it normally means a village house converted room by room, with the owner or a live in manager on the property rather than a front desk and a duty roster.
 
 ![The tiled entrance hall of a family run guesthouse doubling as a sitting room](/images/guide/where-to-stay-minsu-explained-2.webp 'A minsu is somebody’s house with rooms in it. The line between the family space and yours is often thin.')
 
@@ -72,17 +72,17 @@ Two decades of that curve explain most of what you will notice on the ground. So
 
 | Band | Rate | What it means |
 |---|---|---|
-| Mid-range, off season | RMB 300 to 500 a night | A converted village house, small and clean, run by the family who owns it. The normal Moganshan homestay. |
-| Mid-range, peak weekend or holiday | RMB 1,000+ | The same room. Golden Weeks and summer weekends move the number, not the product. |
-| High end | RMB 1,500+ | The threshold the local trade itself uses. Design-led builds on larger sites, with fuller service. |
-| Group-owned upper tier | about RMB 1,300 average | The 28 properties and 556 rooms Trip.com bought into in March 2025. |
+| Mid range, off season | RMB 300 to 500 a night | A converted village house, small and clean, run by the family who owns it. The normal Moganshan homestay. |
+| Mid range, peak weekend or holiday | RMB 1,000+ | The same room. Golden Weeks and summer weekends move the number, not the product. |
+| High end | RMB 1,500+ | The threshold the local trade itself uses. Design led builds on larger sites, with fuller service. |
+| Group owned upper tier | about RMB 1,300 average | The 28 properties and 556 rooms Trip.com bought into in March 2025. |
 | Resort brands | about USD 291 to 524 | naked Stables and naked Castle sit in this band. |
 
 > Rate bands, occupancy and the Trip.com acquisition of 67.04 percent of Dalezhiye, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
 Rooms priced above RMB 1,500 grew 42 percent year on year, which tells you where owners think the money is. It does not tell you the RMB 400 room is bad. Off season, midweek, that band is the reason people come back.
 
-The [best hotels and guesthouses guide](/where-to-stay/best-hotels/) covers named properties. [Where to stay](/where-to-stay/) starts with the trade-off between village and mountain instead.
+The [best hotels and guesthouses guide](/where-to-stay/best-hotels/) covers named properties. [Where to stay](/where-to-stay/) starts with the trade off between village and mountain instead.
 
 ## Breakfast, dinner, and the 8 pm problem
 
@@ -100,31 +100,33 @@ The fix is dull and it works. Ask whether the property serves dinner, and book i
 
 This is the real hesitation, and it deserves a straight answer.
 
-For years, some Chinese properties turned away foreign guests, saying they were not licensed to receive them. That is what the rule change targeted.
+For years, some Chinese properties turned away foreign guests, saying they were not licensed to receive them. That is the excuse a joint reply of 24 May 2024 ruled out.
 
-> Joint directive on hotel accommodation for foreign guests, Ministry of Public Security, Ministry of Commerce and National Immigration Administration, 24 May 2024.
+> The joint reply of 24 May 2024 from the Ministry of Public Security, the Ministry of Commerce and the National Immigration Administration, China Tourism News (中国旅游新闻网), 24 May 2024, tier 2. https://www.ctnews.com.cn/chanye/content/2024-05/24/content_160606.html
 
-The directive bars hotels from refusing foreign guests for lack of a licence. It is national, and it applies here.
+The reply tells hotels not to refuse foreign guests for lack of a licence. It is national, and it applies here. It is a published answer to public messages rather than a numbered rule, and it names no penalty for a house that refuses anyway.
 
-Refusals are still reported in practice. That is the honest position: the rule is clear, enforcement is uneven, and a small family guesthouse in a mountain village is exactly the kind of place where the old habit survives.
+Refusals are still reported in practice. That is the honest position: the national line is clear, enforcement is uneven, and a small family guesthouse in a mountain village is exactly the kind of place where the old habit survives. On 13 October 2026, 308 of 805 Moganshan listings on Trip.com said they took mainland Chinese documents only; [can a guesthouse refuse your passport](/plan/can-a-guesthouse-refuse-your-passport-foreign/) sets out the rules and the count.
+
+> Guests Accepted lines on 805 live Moganshan listings, BeyondBorder Group Ltd primary research, Trip.com listing pages read 13 October 2026.
 
 What follows from that is not fear, it is one extra message. Before you pay, write to the property and say you are a foreign passport holder and ask them to confirm they can register you. A property used to foreign guests answers that in a sentence. A property that goes quiet has told you something too.
 
-## English, check-in and paying
+## English, check in and paying
 
-Nobody publishes a survey of English levels here, so read the ownership picture instead. Around 80 percent of properties are individually owned, and in Xiantan about 90 percent are locally run. The foreign-founded yangjiale and the design-led high end are your best odds of fluent English at the door. A family house in a village of 2,000 people is not.
+Nobody publishes a survey of English levels here, so read the ownership picture instead. Around 80 percent of properties are individually owned, and in Xiantan about 90 percent are locally run. The foreign founded yangjiale and the design led high end are your best odds of fluent English at the door. A family house in a village of 2,000 people is not.
 
 ![A passport lying face down beside a paper registration form on a guesthouse counter](/images/guide/where-to-stay-minsu-explained-4.webp 'Registration is a legal requirement, not a formality. Some small properties still turn foreign guests away over it.')
 
 Translation apps carry most of this. Photos of your booking screen carry the rest.
 
-On payment, the ground has shifted in your favor. Foreign bank cards can be linked to Alipay and WeChat Pay, and have been since 2023. Inbound visitors spent about RMB 80 billion through mobile payment in 2025. Set both up before you land, because a village guesthouse may not take a foreign card directly. [Money and payments](/plan/money-and-payments/) walks through it.
+On payment, the ground has shifted in your favour. Foreign bank cards can be linked to Alipay and WeChat Pay, and have been since 2023. Inbound visitors spent about RMB 80 billion through mobile payment in 2025. Set both up before you land, because a village guesthouse may not take a foreign card directly. [Money and payments](/plan/money-and-payments/) walks through it.
 
-Bring your passport for check-in. It is what the registration the directive talks about is based on.
+Bring your passport for check in. It is what the registration the law requires is based on.
 
 ## The parts nobody advertises
 
-Occupancy on this mountain ran around 70 percent before 2021. In 2024 it was about 55 percent. The high-end segment held up better, at 68 percent in 2025.
+Occupancy on this mountain ran around 70 percent before 2021. In 2024 it was about 55 percent. The high end segment held up better, at 68 percent in 2025.
 
 Payback periods stretched from three to five years out to five to eight. Labour eats 30 to 40 percent of revenue.
 
