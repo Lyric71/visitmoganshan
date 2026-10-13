@@ -73,6 +73,19 @@ if (code !== 0) {
   console.error(out);
   process.exit(code);
 }
+
+// schtasks cannot set the power options, and Windows' defaults refuse to
+// start on battery and stop the run when the laptop is unplugged, which left
+// scheduled runs unfinished (13 October 2026).
+const power = spawnSync('powershell', ['-NoProfile', '-Command',
+  `$t = Get-ScheduledTask -TaskName '${TASK}'; $s = $t.Settings; `
+  + '$s.DisallowStartIfOnBatteries = $false; $s.StopIfGoingOnBatteries = $false; '
+  + '$s.IdleSettings.StopOnIdleEnd = $false; '
+  + `Set-ScheduledTask -TaskName '${TASK}' -Settings $s | Out-Null`], { encoding: 'utf8' });
+if (power.status !== 0) {
+  console.error(`battery settings not applied: ${(power.stderr || power.stdout || '').trim()}`);
+  process.exit(power.status || 1);
+}
 console.log(`installed: "${TASK}" every ${DAY} at ${TIME}${PUSH ? ', with push' : ', review only'}`);
 console.log(`runs: ${command}`);
 console.log(`logs: ${path.join(ROOT, 'data', 'logs')}`);
