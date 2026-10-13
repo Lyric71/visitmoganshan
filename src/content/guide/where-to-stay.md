@@ -12,7 +12,7 @@ image_alt: A lit guesthouse window on a village lane at dusk with bamboo hills s
 word_count: 1893
 author: echo-peng
 published: 2026-08-06
-last_updated: 2026-10-05
+last_updated: 2026-10-13
 ---
 
 # Where to stay in Moganshan
@@ -35,11 +35,11 @@ The villages sit around the foot of the mountain, not on top of it, and the dist
 
 | Village | Chinese | What it is | Book it if |
 |---|---|---|---|
-| Yucun | 庾村 | Main hub at the foot of the mountain. Square, market, restaurants, the "1932" culture park, main scenic-area gateway. | First visit, no car, one night |
+| Yucun | 庾村 | Main hub at the foot of the mountain. Square, market, restaurants, the "1932" culture park, main scenic area gateway. | First visit, no car, one night |
 | [Xiantan](/moganshan/villages/xiantan/) | 仙潭村 | Northern foot. Densest guesthouse village, with more than 150 minsu among about 2,000 residents, roughly 90 percent locally run in 2019. | You want choice and price competition |
 | Laoling | 劳岭村 | South side. Reservoir, kayaking, cycling. One of the earliest farmstay clusters. | You want the water and bikes |
-| Sanjiuwu | 三九坞 | Where naked Home Village opened in 2007, the first yangjiale here. | You are shopping the foreign-founded end |
-| Houwu | 后坞 | Quiet, west side, about 30 minutes from Yucun. Also one of the three transfer centres. | You want quiet and have transport |
+| Sanjiuwu | 三九坞 | Where naked Home Village opened in 2007, the first yangjiale here. | You are shopping the foreign founded end |
+| [Houwu](/moganshan/villages/houwu/) | 后坞 | Quiet, west side, about 30 minutes from Yucun. Also one of the three transfer centres. | You want quiet and have transport |
 | Dazaowu | 大造坞 | The most remote. Rice paddies and the Dadouwu reservoir. | You want the most remote option |
 | Wukang | 武康 | Deqing county seat, about 20 km away. The rail and services town, not the mountain. | You arrive late, or want a normal hotel |
 
@@ -74,9 +74,9 @@ Village settled, the next question is money, and here the mountain behaves oddly
 
 | Band | Rate a night | What you are getting |
 |---|---|---|
-| Mid-range, off season | RMB 300 to 500 | A converted village house, small and usually clean. The normal Moganshan stay. |
-| Mid-range, peak weekend or holiday | RMB 1,000+ | The same room at a holiday price. You pay for the date. |
-| High end | RMB 1,500+ | The threshold the local trade uses. Design-led builds on larger sites, fuller service. |
+| Mid range, off season | RMB 300 to 500 | A converted village house, small and usually clean. The normal Moganshan stay. |
+| Mid range, peak weekend or holiday | RMB 1,000+ | The same room at a holiday price. You pay for the date. |
+| High end | RMB 1,500+ | The threshold the local trade uses. Design led builds on larger sites, fuller service. |
 | Resort brands | about USD 291 to 524 | Where naked Stables and naked Castle sit. |
 
 > Rate bands, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
@@ -87,7 +87,7 @@ That does not make the RMB 400 room bad. Off season and midweek it is the best v
 
 The calendar sits on the [seasons page](/seasons/). July and August are the core season, the May and October Golden Weeks spike hard, and Mondays are quiet.
 
-That calendar also decides how early to book. For a Golden Week, book early: high-end occupancy hit 94 percent over the May 2024 holiday. Midweek there is usually room, since sector occupancy ran about 55 percent in 2024, and a few weeks' notice is enough.
+That calendar also decides how early to book. For a Golden Week, book early: high end occupancy hit 94 percent over the May 2024 holiday. Midweek there is usually room, since sector occupancy ran about 55 percent in 2024, and a few weeks' notice is enough.
 
 ## The four kinds of property here
 
@@ -100,7 +100,7 @@ Moganshan accommodation comes in four kinds, and price does not tell you which y
 | Minsu (民宿) | A small guesthouse, usually run by the family that owns it, and the default here. About 10,000 beds across roughly 1,000 properties, around 80 percent individually owned. A household with rooms, not a company with a building. |
 | Yangjiale (洋家乐) | Roughly "foreigner's farmstay". Guesthouses opened here by foreign owners, starting with naked Home Village at Sanjiuwu in 2007. Investors now come from 18 countries. Still a minsu, with better odds of English. |
 | Resort property | A few larger builds on the mountain, the oldest dating to 2011. Hotel service and hotel rates. |
-| Off-mountain hotel | A conventional hotel down in Wukang town, off the mountain. Fine for a late arrival, poor if you came for the bamboo. |
+| Off mountain hotel | A conventional hotel down in Wukang town, off the mountain. Fine for a late arrival, poor if you came for the bamboo. |
 
 [What a minsu is](/where-to-stay/minsu-explained/) covers what a guesthouse stay involves, including whether foreign guests are accepted.
 
@@ -116,14 +116,14 @@ These are the names, so you can search them. No ratings and no reviews, because 
 | Le Passage Mohkan Shan | About 28 keys |
 | Crowne Plaza Deqing Moganshan | About 340 rooms, down in Wukang town, 20 km away |
 | Kaiyuan Senbo | A family waterpark resort |
-| Moganshan Hotel | State-owned |
+| Moganshan Hotel | State owned |
 | Solvang Village, Lost Villa, Pullman, Arcadia Resorts | Names only, so far |
 
-Individual property pages are still in research. They need first-hand stays and photography, and until that exists, no rating goes up that has not been earned. A ranked list could be built from other people's marketing copy this afternoon, and it would tell you nothing.
+Individual property pages are still in research. They need first hand stays and photography, and until that exists, no rating goes up that has not been earned. A ranked list could be built from other people's marketing copy this afternoon, and it would tell you nothing.
 
 ## The Four Seasons, announced for 2030
 
-On 12 September 2025, Four Seasons announced a Moganshan resort: 90 keys on a 23-hectare site in Yu Village, opening in 2030. The developer is Zhejiang Shangyin Cultural Tourism Development Co., a subsidiary of the Deqing County Cultural and Tourism Development Group. Its press release calls the project "Moganshan's first international luxury resort with direct access to natural hot springs".
+On 12 September 2025, Four Seasons announced a Moganshan resort: 90 keys on a 23 hectare site in Yu Village, opening in 2030. The developer is Zhejiang Shangyin Cultural Tourism Development Co., a subsidiary of the Deqing County Cultural and Tourism Development Group. Its press release calls the project "Moganshan's first international luxury resort with direct access to natural hot springs".
 
 > Moganshan resort announcement, Four Seasons Hotels and Resorts, 12 September 2025.
 
@@ -140,7 +140,7 @@ This last part is about the business rather than your trip, and it decides what 
 | Properties, 2002 to September 2025 | 1 to about 1,000 |
 | Occupancy, before 2021 | about 70 percent |
 | Occupancy, 2024 | about 55 percent, some 15 points down |
-| High-end occupancy, 2025 | 68 percent |
+| High end occupancy, 2025 | 68 percent |
 | Share individually owned | about 80 percent |
 | Bed cap set in late 2017 | about 10,000, since drifted past |
 | Payback period | stretched from 3 to 5 years out to 5 to 8 |

@@ -9,10 +9,10 @@ secondary_keywords: [moganshan hiking trails, moganshan walking, hiking near sha
 schema: Article
 image: /images/guide/things-to-do-hiking.webp
 image_alt: Worn stone steps climbing between bamboo culms on a wet Moganshan path
-word_count: 1603
+word_count: 1609
 author: liyan-ye
 published: 2026-08-06
-last_updated: 2026-10-11
+last_updated: 2026-10-13
 ---
 
 # Walking and hiking in Moganshan
@@ -31,7 +31,7 @@ That means the route is decided on the day rather than in advance. Your guesthou
 
 > Terrain, forest cover, scenic area size and transfer centre hours, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-Named routes do exist below the core. In 2014 a national fitness trail of four graded loops, 45.1 km in all, was signposted on the Fatou side. In January 2015 the county paper reported 11 hand drawn routes, about 50 km in all and mostly starting from Yucun, with a sign and a QR code at every junction. Those are reports from 2014 and 2015, not a promise about the signs today.
+Named routes do exist below the core. In 2014 a national fitness trail of four graded loops, 45.1 km in all, was signposted on the Fatou side, most of it in [Houwu](/moganshan/villages/houwu/) village. In January 2015 the county paper reported 11 hand drawn routes, about 50 km in all and mostly starting from Yucun, with a sign and a QR code at every junction. Those are reports from 2014 and 2015, not a promise about the signs today.
 
 > A national fitness trail of four graded loops, 45.1 km in all, with 20 signboards and 93 marker posts, Deqing News (德清新闻网), 20 November 2014, tier 2.
 > https://dqnews.zjol.com.cn/dqnews/system/2014/11/20/018710329.shtml

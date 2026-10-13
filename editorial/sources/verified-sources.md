@@ -1492,6 +1492,73 @@ primary research, <dates>". -->
 * Shelf life: as logged above
 * Used in: chiang-kai-shek-path
 
+### Houwu village in 2025: households, guesthouses, hotels, the landscape belt
+* Value: Houwu (后坞村) has 470 households, more than 150 in the guesthouse trade; its first guesthouse, 香格里拉, opened in 2005; the village sits in the core of the 双溪 (twin streams) landscape belt, so protection rules limit building; after 2020 visitors to 山浩户外 and a lavender farm fell sharply; 计庙坞 (Jimiaowu), once the market town of 后坞乡, has about 1 km of shops; 心远居 (RMB 30 million) open; a 30 mu 集散中心 "about to start"; 木可町 art hotel (RMB 100 million) due October 2025; the New Year pig feast (年猪饭) held five years; a banquet hall planned
+* As of: May 2025
+* Source: Huzhou Daily (湖州日报), 后坞新招让绿水青山"变现", reporter 陆志松, carried by Sina Finance
+* Tier: 2
+* URL: https://finance.sina.com.cn/roll/2025-05-28/doc-ineyakcf9435506.shtml
+* Verified 1: 2026-10-13 (19 strings present, among them 470户, 150多户, 香格里拉, 3000万元, 年猪饭; dated 2025-05-28)
+* Verified 2: 2026-10-13 (fetched again, all 19 strings present)
+* Shelf life: semi-stable; the announced art hotel, transfer and distribution centre and summit café are a standing watch row in source-tiers.md
+* Used in: houwu
+
+### The Muke Cooperative (木可合作社, MOOKE&Co) at Jimiaowu
+* Value: a pink four storey former village credit cooperative at 计庙坞, by the road once the only way to the scenic area; 16 rooms with bathrooms; opened November 2023 for digital nomads; a pay what you want trial in which one guest paid RMB 72 for six nights; 2024 rates RMB 400 to 500 a night, RMB 2,023 a week, about RMB 4,000 a month, breakfast included; no children under 15; Jimiaowu is the village committee seat, with a Meituan grocery pickup point; the founder says "geographic arbitrage" is hard where prices are not low
+* As of: September 2024
+* Source: NetEase (网易), 文旅进行时, 一个数字游民合作社，能拯救莫干山吗？, by 蒋瞰 (Jiang Kan)
+* Tier: 3 (named writer, dated)
+* URL: https://m.163.com/dy/article/JCPD5J150524BDFD.html
+* Verified 1: 2026-10-13 (14 strings present, among them 16间, 72 元, 2023, 地理套利, 美团; dated 2024-09-23)
+* Verified 2: 2026-10-13 (fetched again, all 14 strings present)
+* Shelf life: rates volatile, printed only as the dated 2024 report; the building and opening evergreen
+* Used in: houwu
+
+### The Muke Cooperative and Xinyuanju trading (opening chain, step two)
+* Value: 莫干山·木可合作社 (MOOKE&Co) listed as opened in 2023 at 计庙坞35号, with a guest review of 30 March 2026 in our 8 August 2026 capture; 心远居 (Moganshan Xinyuanju Resort Hotel) listed at 计庙坞66号
+* As of: 13 October 2026
+* Source: Ctrip (携程) listings 117536431 and 101213236
+* Tier: 4 (a listing, used only for trading status and address, never a price)
+* URL: https://m.ctrip.com/html5/hotel/hoteldetail/117536431.html ; https://m.ctrip.com/html5/hotel/hoteldetail/101213236.html
+* Verified 1: 2026-10-13 (2023年开业, 计庙坞35号; 计庙坞66号 present)
+* Verified 2: 2026-10-13 (both fetched again, every string present)
+* Shelf life: volatile, recheck at each semi-stable revision
+* Used in: houwu
+
+### Tianquan Chan Temple and the Houwu ginkgos
+* Value: 天泉禅寺 at 坎上, Houwu, founded 535 to 546 by the monk 惟正; burned by Japanese troops in 1941, leaving the gate and two ginkgos, the 夫妻树 (south male, north female); reprinting 今日德清 of 28 January 2015 (reporter 王福田): former village head 李建立 put the male at over 40 m and more than 1,400 years old, four adults hand in hand to circle it; flowers April and May, fruit ripe in October; some older villagers dye the nuts red or green for weddings; a 19 m zelkova of 515 years at the village entrance
+* As of: December 2018 (reprinting January 2015)
+* Source: Sohu (搜狐), 章家 account, anonymous (佚名)
+* Tier: 4 (cited as what it published)
+* URL: https://www.sohu.com/a/283511134_120056432
+* Verified 1: 2026-10-13 (13 strings present, among them 惟正, 1941, 夫妻树, 40多米, 1400多年, 4个成人, 四五月开花, 染红; dated 2018-12-21)
+* Verified 2: 2026-10-13 (fetched again, all 13 strings present)
+* Shelf life: evergreen as published
+* Used in: houwu
+* Notes: content farms print 1,500 years for the tree; no survey or register found. The 今日德清 original is not online; the retry is a standing watch row in source-tiers.md.
+
+### The national mountain fitness trail mostly in Houwu, 2014
+* Value: the trail opened 9 October 2014 after six months of building, 45.1 km, four graded loops, mostly in 后坞村, 筏头乡, about 30 km west of the county centre; Fatou farmstays rose from 74 to 108 and visitors 49.1 percent in 2014
+* As of: April 2015
+* Source: China Sports Daily (中国体育报), on the General Administration of Sport site
+* Tier: 2
+* URL: https://www.sport.gov.cn/n20001280/n20745751/n20767239/c21821628/content.html
+* Verified 1: 2026-10-13 (8 strings present, among them 45.1公里, 后坞村, 以西约30公里; dated 2015-04-29)
+* Verified 2: 2026-10-13 (fetched again, all 8 strings present)
+* Shelf life: evergreen as a 2014 fact
+* Used in: houwu
+
+### Reused for the Houwu piece, checked again
+* Value: the four loops (Deqing News, 20 November 2014, tier 2); the car rule, the guest exception, the signs to 后坞换乘中心, the Houwu board and the two transfer points (Tide News, 4 December 2025, tier 2); three transfer centres (Deqing News, 30 September 2019, tier 2); Houwu parking free (Sohu Travel, 2 July 2019, tier 3); Houwu 3A (Zhejiang Online, 9 June 2023, tier 2); the 15 km walk to Yucun (Zhejiang Online, 5 April 2019, tier 2); the ginkgo nut warning (Deqing News, 24 September 2026, tier 2)
+* As of: as logged in the entries above
+* Source: see the entries above
+* Tier: as logged
+* URL: https://dqnews.zjol.com.cn/dqnews/system/2014/11/20/018710329.shtml ; https://tidenews.com.cn/news.html?id=3315585 ; https://dqnews.zjol.com.cn/dqnews/system/2019/09/30/031939856.shtml ; https://www.sohu.com/a/324235488_357973 ; https://zjnews.zjol.com.cn/zjnews/202306/t20230609_25838009.shtml ; https://huzhou.zjol.com.cn/qy/dqx18223/201904/t20190405_9837182.shtml ; https://dqnews.zjol.com.cn/dqnews/system/2026/09/24/035297964.shtml
+* Verified 1: as logged above
+* Verified 2: 2026-10-13 (all seven fetched again, every string present; logs/runs/houwu-r/check2.txt)
+* Shelf life: as logged above
+* Used in: houwu
+
 ## Retired
 
 <!-- Entries past their shelf life that were replaced. Kept for the record. -->

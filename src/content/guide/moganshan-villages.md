@@ -9,10 +9,10 @@ secondary_keywords: [yucun moganshan, xiantan moganshan, sanjiuwu, where to stay
 schema: Place
 image: /images/guide/moganshan-villages.webp
 image_alt: Tiled village rooftops at the foot of a bamboo ridge at Moganshan, with terraced vegetable plots between the houses
-word_count: 2091
+word_count: 2101
 author: liyan-ye
 published: 2026-08-08
-last_updated: 2026-10-08
+last_updated: 2026-10-13
 ---
 
 # Yucun, Xiantan and Sanjiuwu: the villages below Moganshan
@@ -35,7 +35,7 @@ A booking site gives you a property name and a pin, rarely which flank of the hi
 | Xiantan | 仙潭村 | Northern foot |
 | Laoling | 劳岭村 | South side, by a reservoir |
 | Sanjiuwu | 三九坞 | A small valley settlement below the ridge |
-| Houwu | 后坞 | West, about 30 minutes from Yucun. Also a transfer centre |
+| [Houwu](/moganshan/villages/houwu/) | 后坞 | West, about 30 minutes from Yucun. Also a transfer centre |
 | Dazaowu | 大造坞 | The most remote of them, out by the Dadouwu reservoir |
 | Wukang | 武康 | Off the mountain, about 20 km. The county seat, not a village |
 
@@ -107,7 +107,7 @@ Sanjiuwu is the village with a story. Each of these three asks you to give somet
 | Village | Where | What is there | What it costs you |
 |---|---|---|---|
 | **Laoling** 劳岭村 | South side | Reservoir, kayaking, cycling. An early farmstay cluster | You came for the water or the bike, not a square |
-| **Houwu** 后坞 | West, about 30 minutes from Yucun | Quiet. Also a transfer centre, so better connected than its reputation | Thirty minutes each way, including for dinner |
+| **[Houwu](/moganshan/villages/houwu/)** 后坞 | West, about 30 minutes from Yucun | Quiet. Also a transfer centre, so better connected than its reputation, and the 45 km national trail of 2014 starts there | Thirty minutes each way, including for dinner |
 | **Dazaowu** 大造坞 | The most remote | Rice paddies and the Dadouwu reservoir | The longest drive of the six, and the fewest doors |
 
 > Laoling, Houwu and Dazaowu, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
