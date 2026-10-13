@@ -66,6 +66,9 @@ function Register([string]$Name, [string]$Mode, $Trigger, [bool]$Enabled, [strin
     -ExecutionTimeLimit (New-TimeSpan -Hours 6) `
     -StartWhenAvailable `
     -WakeToRun `
+    -AllowStartIfOnBatteries `
+    -DontStopIfGoingOnBatteries `
+    -DontStopOnIdleEnd `
     -MultipleInstances IgnoreNew
   Register-ScheduledTask -TaskName $Name -Action $Action -Trigger $Trigger `
     -Settings $Settings -Description "Visit Moganshan editorial pipeline ($Mode)" -Force | Out-Null
