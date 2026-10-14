@@ -9,10 +9,10 @@ secondary_keywords: [moganshan national park, moganshan tickets, moganshan entra
 schema: TouristAttraction
 image: /images/guide/moganshan-scenic-area.webp
 image_alt: The ticket barrier and shuttle bay at the entrance to the Moganshan core scenic area
-word_count: 1616
+word_count: 1819
 author: liyan-ye
 published: 2026-08-06
-last_updated: 2026-10-05
+last_updated: 2026-10-15
 ---
 
 # Moganshan National Scenic Area
@@ -29,7 +29,7 @@ Three official labels sit on the same mountain.
 
 | Label | What it is | Dated |
 |---|---|---|
-| National scenic area | China's state level category for protected landscape | not published |
+| National scenic area | China's state level category for protected landscape, set up by the State Council | 1994 |
 | National AAAA tourist attraction | The second highest grade in the national A level system | not published |
 | National level tourism resort | Named "Deqing Moganshan International Tourism Resort" by the Ministry of Culture and Tourism | 15 December 2020 |
 
@@ -37,17 +37,34 @@ What reaches you is the effect of the labels. Protected status is why there is a
 
 > Designations and the 15 December 2020 resort listing, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
+> The national scenic area set up by the State Council in 1994, Deqing News
+> (德清新闻网), carrying Zhejiang Release (浙江发布), 14 October 2026, tier 2.
+> https://dqnews.zjol.com.cn/dqnews/system/2026/10/14/035310995.shtml
+
 ## How big the scenic area is
 
 | Measure | Figure |
 |---|---|
-| Core scenic area | About 20 km². Some sources quote 43 km² for a wider designated area |
+| Ticketed core | About 20 km² |
+| National scenic area, 2024 to 2035 plan | 36 km², with a core protection zone of 9.72 km² |
 | Forest cover | Over 92 percent, nearly all moso bamboo |
 | Main peak | Tashan, 719 to 720 m. You will see 758 m elsewhere; ignore it |
 
 ![An aerial view over a forested mountain massif with roofs scattered in one valley](/images/guide/moganshan-scenic-area-2.webp 'About twenty square kilometres sit inside the gate. Nearly everything a visitor books sits outside it.')
 
 Use the smaller figure, since that is the part with a ticket on it. The bamboo is grown and cut as a commercial crop, and the [bamboo forest page](/moganshan/bamboo-forest/) shows what that looks like on the ground.
+
+The larger figures come from the scenic area's master plan for 2024 to 2035, which the National Forestry and Grassland Administration (国家林业和草原局) approved on 21 September 2026. It puts the national scenic area at 36 km², in three sections (Moganshan, Moganhu and Shuangxi), with a core protection zone (核心景区) of 9.72 km². Neither is the ticketed area. The plan also caps visits at 24,000 a day, with 12,000 as the reasonable figure, and forbids admitting visitors beyond capacity. No quota or booking system has been announced; [the week 42 dispatch](/journal/news/dispatch/2026-42/) has the detail.
+
+> The 2024 to 2035 plan: 36 km², a core protection zone of 9.72 km², 12,000
+> visits a day reasonable and 24,000 absolute, National Forestry and
+> Grassland Administration (国家林业和草原局), reply 林保发〔2026〕46号,
+> 22 September 2026, tier 1.
+> https://www.forestry.gov.cn/lyj/1/gsgg/20260922/689252.html
+
+> The 36 km² in three sections, Moganshan, Moganhu and Shuangxi, Deqing News
+> (德清新闻网), carrying Zhejiang Release (浙江发布), 14 October 2026, tier 2.
+> https://dqnews.zjol.com.cn/dqnews/system/2026/10/14/035310995.shtml
 
 ## What is inside, and what is not
 
@@ -61,7 +78,7 @@ The split below decides where your day happens.
 | Luhuadang Park | [Xiantan](/moganshan/villages/xiantan/), the guesthouse village on the north side, more than 150 minsu |
 | Dakeng | Laoling, Sanjiuwu, Houwu, Dazaowu |
 | The Xuguang sunrise platform | Almost all of the roughly 1,000 guesthouses |
-| Chiang Kai-shek's villa | Nearly all the restaurants and shops |
+| Chiang Kai shek's villa | Nearly all the restaurants and shops |
 | The Bai and Yun Art Museum | The transfer centres themselves |
 | The bamboo slopes of the core | Wukang, the county town 20 km away, and Deqing station |
 

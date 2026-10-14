@@ -9,10 +9,10 @@ secondary_keywords: []
 schema: Article + Place
 image: /images/guide/xiantan.webp
 image_alt: Village houses old and new at the foot of a bamboo covered slope on an overcast day, a wet lane and a strip of fields in front
-word_count: 1760
+word_count: 1825
 author: echo-peng
 published: 2026-10-05
-last_updated: 2026-10-05
+last_updated: 2026-10-15
 pillar: P2
 slot: 8
 freshness_tier: semi-stable
@@ -47,6 +47,11 @@ sources:
     name_en: Deqing News
     url: http://dqnews.zjol.com.cn/dqnews/system/2025/03/13/034904107.shtml
     date: 2025-03-13
+    tier: "2"
+  - name: 德清新闻网
+    name_en: Deqing News
+    url: http://dqnews.zjol.com.cn/dqnews/system/2023/11/03/034421443.shtml
+    date: 2023-11-03
     tier: "2"
   - name: 中国新闻网
     name_en: China News Service
@@ -162,7 +167,8 @@ price for the reading room.
 > (中国新闻网), 3 March 2026, tier 2.
 > https://www.chinanews.com.cn/sh/2026/03-03/10580234.shtml
 
-What is no longer free is the walk Fishman took. Biwu Dragon Pool (碧坞龙潭), a
+What is no longer free is the walk Fishman took. [Biwu Dragon
+Pool](/things-to-do/biwu-dragon-pool/) (碧坞龙潭), a
 chain of waterfalls and pools up the slope behind the old Biwu end of the
 village, had "no ticket gate, and no entrance fee" when he walked it in June
 2023. Since the second half of that year a company under the county supply
@@ -173,7 +179,14 @@ drew about 85,000 visitors in 2024.
 > Biwu Dragon Pool's investment, tickets and 2024 visitors, Deqing News (德清新闻网), 13 March 2025, tier 2.
 > http://dqnews.zjol.com.cn/dqnews/system/2025/03/13/034904107.shtml
 
-No dated source we can cite prints the price; the platforms show it.
+The last price the county paper printed dates from the works. During them,
+Deqing News reported on 3 November 2023, the ticket fell to RMB 20, and it was
+to go back to RMB 60 once they finished. No county source has printed a price
+since, so check the figure on the platform you book through.
+
+> Ticket RMB 20 during the works and RMB 60 afterwards, Deqing News
+> (德清新闻网), 3 November 2023, tier 2.
+> http://dqnews.zjol.com.cn/dqnews/system/2023/11/03/034421443.shtml
 
 ![A narrow paved path beside a shallow stream at the edge of a village, rough fields on one side and houses half hidden by bamboo on the other, the light flat and wet](/images/guide/xiantan-2.webp "Xiantan's fields were a rapeseed viewing spot in the county's 2019 spring flower festival. April is when they have colour.")
 

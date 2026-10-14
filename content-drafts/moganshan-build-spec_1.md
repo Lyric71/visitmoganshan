@@ -736,10 +736,10 @@ CN sources: 新浪博客 8个村景区化
 CN sources: 2024-05-24 directive (already in /journal/news); 公安 registration rules  
 > HIGHEST LINK-VALUE PIECE ON THE PLAN. Nothing like this exists for any Chinese destination. Needs calls to properties.
 
-**14 · 23 Oct · P3 Trails** · Biwu Dragon Pool: the easiest good walk on the mountain  
+**14 · 23 Oct · P3 Trails** · Biwu Dragon Pool: a short waterfall walk the guides call free  
 `biwu longtan / moganshan easy walk` · 1,400w · `绿色旅行网; 当旅网`  
 CN sources: none  
-> 3km, stream valley, waterfall, glass platform. Bring a change of clothes.
+> 3km, stream valley, waterfall, glass platform. Guides call it free; Deqing News says it has sold tickets since 2003 (RMB 60 planned after the 2023 works). Print both. Bring a change of clothes.
 
 **15 · 26 Oct · P3 Trails** · The Kailas Moganshan Skyrace: what a 100k trail race does to a small mountain  
 `moganshan trail race / kailas skyrace` · 1,500w · `go/stays-all`  

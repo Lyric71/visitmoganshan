@@ -1375,7 +1375,7 @@ primary research, <dates>". -->
 * Verified 1: 2026-10-11 (article read whole; 230.21万人次, 31.77亿元, 约5.7万人次, 约5.6万人次, 15.65万人次, 新开5家, dated 2026-10-09)
 * Verified 2: 2026-10-11 (fetched again with a different user agent, every string present)
 * Shelf life: fixed, a past holiday
-* Used in: none yet; for dispatch-2026-42
+* Used in: dispatch-2026-42
 * Notes: the Huzhou and Zhejiang culture and tourism bureaus timed out from this machine on 11 October, so no bureau figure exists to set beside it. Closes the National Day tally row under Standing watch items in source-tiers.md.
 
 ### The county's 11 walking routes and the Chiang path as route one
@@ -1672,6 +1672,135 @@ primary research, <dates>". -->
 * Shelf life: volatile, 3 months (listing policies change without notice)
 * Used in: can-a-guesthouse-refuse-your-passport-foreign; since 14 October 2026 also /where-to-stay/minsu-explained/, /plan/faq/ and /where-to-stay/villas-explained/ (the villa row)
 * Notes: a listing line is what a property told the platform, not a test at the door. Cite as our own research with the date, never as a property's practice.
+
+### Moganshan National Scenic Area master plan 2024 to 2035 approved, with a daily visitor ceiling
+* Value: the National Forestry and Grassland Administration approved in principle the 莫干山风景名胜区总体规划 for 2024 to 2035; scenic area 36 km², core protection zone (核心景区) 9.72 km²; daily reasonable capacity within 12,000 visits (1.2万人次), daily absolute limit within 24,000 (2.4万人次), beds within 4,200; admitting visitors beyond capacity forbidden; boundary and core zone to be surveyed and marked within two years of approval
+* As of: reply signed 21 September 2026, posted 22 September 2026
+* Source: National Forestry and Grassland Administration (国家林业和草原局), reply 林保发〔2026〕46号 to the Zhejiang Forestry Bureau
+* Tier: 1
+* URL: https://www.forestry.gov.cn/lyj/1/gsgg/20260922/689252.html
+* Verified 1: 2026-10-14 (page fetched; 林保发〔2026〕46号, 发布时间 2026年09月22日, 36平方公里, 9.72平方公里, 1.2万人次, 2.4万人次, 4200张, 禁止超容量接纳游客, 2年内, 2026年9月21日 present)
+* Verified 2: 2026-10-14 (fetched again with a different user agent after the quality pass; every string present, logs/runs/dispatch-2026-42-cq/check2.txt)
+* Shelf life: evergreen until the plan is revised (runs to 2035)
+* Used in: dispatch-2026-42; /moganshan/scenic-area/ (edited by the publish run, 15 October 2026)
+* Notes: the 核心景区 is a planning protection zone, not the ticketed area the site puts at about 20 km²; never print 9.72 km² as the ticketed core. No quota or booking mechanism is in the reply; the enforcement is a standing watch row in source-tiers.md. Replaces the 43 km² "wider designated area" figure on /moganshan/scenic-area/.
+
+### Moganshan scenic area plan: the county's reading of it
+* Value: the scenic area was set up by the State Council in 1994; total area 36 km² made up of the Moganshan, Moganhu and Shuangxi sections; the plan adds 13 sights and builds a tourist transfer centre based on Moganshan town, with three driving loops around the mountain, the lake and the stream
+* As of: 14 October 2026
+* Source: Deqing News (德清新闻网), carrying Zhejiang Release (浙江发布)
+* Tier: 2
+* URL: https://dqnews.zjol.com.cn/dqnews/system/2026/10/14/035310995.shtml
+* Verified 1: 2026-10-14 (article read whole; 国务院1994年批准设立, 总面积36平方公里, 新增13处景点, 旅游换乘中心, 2.4万人次, dated 2026-10-14)
+* Verified 2: 2026-10-14 (fetched again; 2026-10-14, 浙江发布, 新增13处景点, 旅游换乘中心, 1994年, 2.4万人次 present)
+* Shelf life: evergreen until the plan is revised
+* Used in: dispatch-2026-42; /moganshan/scenic-area/ (the 1994 designation date and the three sections, edited by the publish run, 15 October 2026)
+* Notes: the full text link on the page ("查看《批复》全文") is not a link; the NFGA reply above is the tier 1 copy.
+
+### Kailas Moganshan Skyrace 2026 race shuttle seats
+* Value: the organiser sells shuttle seats for the race at RMB 15, Deqing station to the Moganshan tourist transfer centre (莫干山旅游集散（换乘中心）) on 23 and 24 October 2026, and a return run on 24 October via Deqing West station (德清西站), the Deqing International Conference Centre and Deqing station; race window 10/23 to 10/25; main entries closed (报名已截止); post race kit mailing 10/27 to 10/29, applications to 12:00 on 26 October
+* As of: event page read 14 October 2026
+* Source: Letour Sports (朗途体育), the race organiser
+* Tier: 3, authoritative for the race and its own services
+* URL: https://moganshan.saihuitong.com/events?mid=72300
+* Verified 1: 2026-10-14 (page fetched; 接驳车报名, ¥15, 德清西站, 10/23 - 10/25, 报名已截止 present; the 23 to 25 October date line is now client rendered, the age rules on the page still key on 23 and 25 October 2026)
+* Verified 2: 2026-10-14 (fetched again with a different user agent; the same strings present)
+* Shelf life: volatile, through 25 October 2026
+* Used in: dispatch-2026-42
+* Notes: a WebFetch summary read the kit mailing window 10/27 to 10/29 as the race date; it is not. No traffic notice for the weekend on 14 October.
+
+### Xiazhu Lake autumn flowers 2026
+* Value: pink muhly grass (粉黛乱子草) in full flower at Xiazhu Lake wetland park (下渚湖·湿地公园) and Xiazhu Lake Qihuan Valley (下渚湖·奇幻谷), both run by the county's culture and tourism group; muhly from late September to early November, zinnias to the end of October; the wetland's reeds best in late October (10月下旬), with rowing boats (摇橹船) through them; no prices given
+* As of: 14 October 2026
+* Source: Deqing News (德清新闻网), reporters Xu Shengyu (徐晟昱) and Bai Yu (白羽), quoting the scenic area's publicity lead
+* Tier: 2
+* URL: https://dqnews.zjol.com.cn/dqnews/system/2026/10/14/035311010.shtml
+* Verified 1: 2026-10-14 (article read whole; 粉黛乱子草, 奇幻谷, 9月底持续到11月上旬, 10月底, 10月下旬, 摇橹船)
+* Verified 2: 2026-10-14 (fetched again; every string present)
+* Shelf life: seasonal, through November 2026
+* Used in: dispatch-2026-42
+
+### Hangzhou to Deqing railway: county secretary rides a trial train, staff first aid
+* Value: on the afternoon of 10 October 2026 the county party secretary Wang Bo (王波) rode a trial train between 春晖公园 and 东山漾 stations, called the line in its final push to formal opening (正式通车冲刺期) and restated the end of year opening promise (年底通车); by 13 October 212 of the line's staff held first aid certificates (救护员证)
+* As of: 12 and 13 October 2026
+* Source: Deqing News (德清新闻网), reporters Dong Hua, Xu Chaochao and Cai Jun (12 October); reporter Hu Mingjie (13 October)
+* Tier: 2
+* URL: https://dqnews.zjol.com.cn/dqnews/system/2026/10/12/035309814.shtml and https://dqnews.zjol.com.cn/dqnews/system/2026/10/13/035310366.shtml
+* Verified 1: 2026-10-14 (both read whole; 10月10日下午, 春晖公园站, 东山漾站, 正式通车冲刺期, 年底通车; 212人, 救护员证)
+* Verified 2: 2026-10-14 (both fetched again; every string present)
+* Shelf life: volatile, until the opening date is announced
+* Used in: dispatch-2026-42
+* Notes: still no opening date, timetable or fare.
+
+### Reuse recheck, dispatch 2026-42
+* Value: the National Day 2026 county tally (Deqing News, 9 October 2026, tier 2) and the Spartan Race Moganshan days and close of entries (Zuicool, tier 3), both logged above
+* Verified 1: 2026-10-14 (both fetched; 230.21万人次, 31.77亿元, 约5.7万人次, 约5.6万人次, 15.65万人次, 新开5家; 2026年11月7日, 2026年11月8日, 2026年10月31日 23:59:59)
+* Verified 2: 2026-10-14 (fetched again with a different user agent; every string present)
+* Used in: dispatch-2026-42
+
+### Biwu Dragon Pool walk: length, surface, features, the summer stream variant
+* Value: the Biwu Dragon Pool route (碧坞龙潭线) is 3 km of stone slabs and gravel up the stream valley through bamboo, ending at the Dragon Pool waterfall and a glass viewing platform, with no steep slope and stone benches; water play in summer, icicles in winter; a separate 5 km stream walk (碧坞龙潭溯溪) from Biwu village, summer only, stream shoes because the stones in the water are slippery; in winter pick short routes such as this one, with grip and poles, and avoid rain and snow; beginners' half day routes take two to three hours; the guide calls the Biwu walk free
+* As of: July 2026 (page updated 3 July 2026)
+* Source: GreenTour Asia (绿色旅行网), author Twilight
+* Tier: 3
+* URL: https://www.greentourasia.com/article/moganshantubugonglve
+* Verified 1: 2026-10-14 (page fetched; 碧坞龙潭线：3km竹林瀑布, 石板路和碎石道, 玻璃观景台, 途中没有陡坡, 冰挂, 碧坞龙潭溯溪：5km夏天玩水, 溯溪鞋, 两到三小时, 全都免费, 2026/07/03 present)
+* Verified 2: 2026-10-14 (fetched again with a different user agent after iteration 7; every string present, logs/runs/biwu-r/check2.txt)
+* Shelf life: semi-stable, 6 months
+* Used in: biwu-dragon-pool
+* Notes: the "free" line is the guide's claim and is printed against the Deqing News ticket entries; never cite this page for a price. The same URL is logged above for the Chiang Kai shek path figures.
+
+### Biwu Dragon Pool ticket and works, November 2023
+* Value: renovation under way since early September 2023, open during the works, due before May 2024: old equipment replaced, ticket entrance rebuilt (重建检票口), a café in the old power station, an exhibition hall; scenic area about 100,000 m², trading since 2003, sights include the gate tower (城楼), the rain terrace (应雨台) and the Dragon Pool (龙潭); ticket RMB 20 a person during the works, RMB 60 to return afterwards; Deqing residents with a local ID or household register free on weekdays
+* As of: 3 November 2023
+* Source: Deqing News (德清新闻网), reporter Chen Mingyue (陈明月)
+* Tier: 2
+* URL: http://dqnews.zjol.com.cn/dqnews/system/2023/11/03/034421443.shtml
+* Verified 1: 2026-10-14 (page decoded as GB18030; 9月初进场动工, 重建检票口, 咖啡馆, 约10万平方米, 城楼、应雨台、龙潭, 自2003年营业, 票价降为20元/人, 恢复60元/人, 工作日可享受免门票 present)
+* Verified 2: 2026-10-14 (fetched again; every string present)
+* Shelf life: volatile for the price, 3 months; printed as the November 2023 figure with its date, never as today's price
+* Used in: biwu-dragon-pool; /moganshan/villages/xiantan/ (replaced "No dated source we can cite prints the price" in the publish run, 15 October 2026)
+* Notes: the only tier 1 or 2 price for the pool found. deqing.gov.cn's 碧坞龙潭改造提升进行时 (18 March 2024, art_1229212604_59071366) timed out twice on 14 October 2026.
+
+### Biwu Dragon Pool works, phase one, May 2024
+* Value: phase one of the Biwu Dragon Pool and surroundings works, RMB 8 million in all, to finish by July 2024; the pool's produce shop and the Daxiantan outdoor base at Nanlu opened on 1 May 2024
+* As of: 6 May 2024
+* Source: Deqing News (德清新闻网), reporter Hu Mingjie (扈铭洁)
+* Tier: 2
+* URL: http://dqnews.zjol.com.cn/dqnews/system/2024/05/06/034610102.shtml
+* Verified 1: 2026-10-14 (一期总投资800万元, 计划7月份前全部完工, 5月1日顺利开业, dated 2024-05-06)
+* Verified 2: 2026-10-14 (fetched again; every string present)
+* Shelf life: evergreen as a 2024 fact
+* Used in: biwu-dragon-pool
+
+### A traveller's August 2024 visit to Biwu Dragon Pool
+* Value: about an hour from the entrance to the top and back; from the Jiangnan Biwu (江南碧坞) gate and car park about five minutes through the village to the entrance; steps up; a café part way; a Nine Dragon Wall (九龙壁), a small waterfall, a glass viewing platform; about 20 minutes' drive from a guesthouse beside Yucun
+* As of: August 2024 trip, posted 19 August 2024
+* Source: Ctrip community travelogue (携程攻略 游记), traveller YoYo_2S7R1H9R
+* Tier: 3 (a named traveller's account on the platform's community pages)
+* URL: https://gs.ctrip.com/html5/you/travels/87/4143928.html
+* Verified 1: 2026-10-14 (mobile user agent; 一个小时左右就够了, 江南碧坞, 步行大概五分钟, 台阶, 咖啡馆, 九龙壁, 玻璃观光台, 开车去碧坞龙潭近20分钟, 2024-08-19 present)
+* Verified 2: 2026-10-14 (fetched again; every string present)
+* Shelf life: reported experience, cite as dated
+* Used in: biwu-dragon-pool
+* Notes: the page also prints a ticket price (成人40元); it is not used, since a page on an OTA domain is never a price source.
+
+### A 2021 account of Biwu Dragon Pool
+* Value: a five zhang fall (落差高达五丈, about 17 m), a butterfly valley along the stream path, a glass walkway and viewing platform; suggested loop up the stream path on the left past the old sights, to the glass platform, down the hill path on the right to the village; the pool tied to the Ganjiang and Moye legend; Biwu Dragon Pool and Xiantan charged no ticket and no parking fee; about three hours in all
+* As of: 25 June 2021
+* Source: Tencent News (腾讯新闻), account 江南实时分享
+* Tier: 3
+* URL: https://news.qq.com/rain/a/20210625A0BLFD00
+* Verified 1: 2026-10-14 (五丈, 蝴蝶谷, 玻璃栈道, 从景区左侧沿溪流步道而上, 景区右侧的山道下山到村落, 都不需要购买门票, 停车费, 3小时左右, 干将, pubtime 2021-06-25)
+* Verified 2: 2026-10-14 (fetched again; every string present)
+* Shelf life: reported experience, cite as dated; the free entry is contradicted by the Deqing News entries of 2023 and 2025
+* Used in: biwu-dragon-pool
+
+### Reuse for biwu-dragon-pool
+* Value: the Fishman account of June 2023 ("no ticket gate, and no entrance fee"), the Deqing News entry of 13 March 2025 (operator, platform ticket sales, about 85,000 visitors in 2024 by the operator's count, over 60 percent from Hangzhou and Shanghai) and the Kailas shuttle entry of 24 June 2025, all logged above
+* Verified 1: 2026-10-14 (all three fetched; no ticket gate, no entrance fee, 2023-07-05; 供销社, 代理售票, 抖音, 快手, 美团, 携程, 8.5万人, 60%; 凯乐石号, 碧坞龙潭, 五四村, 17:40, 5元)
+* Verified 2: 2026-10-14 (fetched again with a different user agent; every string present)
+* Used in: biwu-dragon-pool
 
 ## Retired
 

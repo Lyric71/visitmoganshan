@@ -4,7 +4,7 @@ slot: 14
 publish_date: 2026-10-23
 pillar: P3
 pillar_name: "Trails and outdoors"
-title: "Biwu Dragon Pool: the easiest good walk on the mountain"
+title: "Biwu Dragon Pool: a short waterfall walk the guides call free"
 url: /things-to-do/biwu-dragon-pool/
 output_file: output/biwu-dragon-pool.md
 guide_file: src/content/guide/things-to-do-biwu-dragon-pool.md
@@ -18,7 +18,7 @@ template: trail
 status: not_started
 ---
 
-# BRIEF 014: Biwu Dragon Pool: the easiest good walk on the mountain
+# BRIEF 014: Biwu Dragon Pool: a short waterfall walk the guides call free
 
 Run with the house `createarticle` skill. Read `../CLAUDE.md` and `../SPEC.md`
 first. They override any conflicting rule inside the skill.
@@ -37,7 +37,7 @@ first. They override any conflicting rule inside the skill.
 |---|---|
 | Slot | 14 of 122, publishes 23 Oct 2026 (Fri) |
 | Pillar | P3, Trails and outdoors |
-| Working H1 | Biwu Dragon Pool: the easiest good walk on the mountain |
+| Working H1 | Biwu Dragon Pool: a short waterfall walk the guides call free |
 | URL | `/things-to-do/biwu-dragon-pool/` (default, move it by editing `url` in the draft) |
 | Output file | `output/biwu-dragon-pool.md` |
 | Published file | `src/content/guide/things-to-do-biwu-dragon-pool.md` |
@@ -52,7 +52,7 @@ first. They override any conflicting rule inside the skill.
 
 ## The angle
 
-> 3km, stream valley, waterfall, glass platform. Bring a change of clothes.
+> 3km, stream valley, waterfall, glass platform. Guides call it free; Deqing News says it has sold tickets since 2003 (RMB 60 planned after the 2023 works). Print both. Bring a change of clothes.
 
 ## Chinese sources named in the calendar
 
