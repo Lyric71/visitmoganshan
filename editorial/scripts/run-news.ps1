@@ -112,6 +112,8 @@ if ($Mode -eq 'publish') {
 
 # 1. The sweep, no model. A paused or gated sweep writes no triage file and
 #    the run ends here.
+$Triage = Join-Path $Repo "editorial\news\triage\$Stamp.md"
+$TriageBefore = if (Test-Path $Triage) { (Get-Item $Triage).LastWriteTimeUtc } else { $null }
 $SweepArgs = 'editorial/scripts/sweep.mjs'
 if ($Force) { $SweepArgs += ' --force' }
 $ErrorActionPreference = 'Continue'
@@ -127,9 +129,20 @@ if ($SweepCode -ne 0) {
 # start line with no end line as a run that never finished, so every gated
 # sweep was relaunched at each logon (7 and 10 October 2026, again and again)
 # and some of those relaunches then swept on an off day, which moved the gate.
-$Triage = Join-Path $Repo "editorial\news\triage\$Stamp.md"
 if (-not (Test-Path $Triage)) {
   "$(Get-Date -Format s) no triage file for today (paused or gated), nothing to draft" | Out-File $RunLog -Append -Encoding utf8
+  "$(Get-Date -Format s) end news sweep exit 0" | Out-File $RunLog -Append -Encoding utf8
+  exit 0
+}
+# A gated sweep later the same day leaves the morning's triage file in place,
+# so its existence alone does not mean this run swept. When the sweep did not
+# rewrite it and a model run already completed on it today, the triage is
+# drafted and closed, and a second model run only repeats that work (the
+# relaunch at 18:14 on 11 October 2026 did). A model run that failed earlier
+# today is still retried.
+$TriageFresh = ($null -eq $TriageBefore) -or ((Get-Item $Triage).LastWriteTimeUtc -ne $TriageBefore)
+if (-not $TriageFresh -and (Select-String -Path $RunLog -Pattern 'model .+ completed successfully' -Quiet)) {
+  "$(Get-Date -Format s) today's triage was already drafted by an earlier run, nothing to draft" | Out-File $RunLog -Append -Encoding utf8
   "$(Get-Date -Format s) end news sweep exit 0" | Out-File $RunLog -Append -Encoding utf8
   exit 0
 }

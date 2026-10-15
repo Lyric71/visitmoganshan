@@ -56,6 +56,9 @@ const SECONDARY = [
   { label: 'Contact', href: '/contact' },
 ];
 
+/** The site's own account on X. */
+const X_URL = 'https://x.com/VisitMoganshan';
+
 const year = new Date().getFullYear();
 ---
 
@@ -87,6 +90,25 @@ const year = new Date().getFullYear();
            is not bundled; the stack falls through to whatever serif CJK the OS
            has. TODO: self-host a Noto Serif SC subset of these three glyphs. -->
       <p class="footer__cjk" lang="zh-Hans">莫干山</p>
+      <!-- Beside the lockup because it is about the publisher, like the brand,
+           and pushed to the far end of the row so it never reads as part of
+           the name. The label keeps the visible text first so voice control
+           users can say what they see. -->
+      <a
+        class="footer__social"
+        href={X_URL}
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label="Follow us on X, @VisitMoganshan (opens in a new tab)"
+      >
+        <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true" focusable="false">
+          <path
+            fill="currentColor"
+            d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"
+          ></path>
+        </svg>
+        <span>Follow us on X</span>
+      </a>
     </div>
 
     <nav class="footer__secondary" aria-label="About this site">
@@ -183,6 +205,26 @@ const year = new Date().getFullYear();
     font-size: 1.05rem;
     letter-spacing: 0.14em;
     color: var(--color-mist-muted);
+  }
+
+  .footer__social {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.55rem;
+    min-height: 44px;
+    margin-inline-start: auto;
+    font-size: 0.9375rem;
+    text-decoration: none;
+    color: var(--color-mist);
+  }
+
+  .footer__social svg {
+    flex: none;
+  }
+
+  .footer__social:hover {
+    text-decoration: underline;
+    text-underline-offset: 4px;
   }
 
   /* Between the columns and the legal line, and weighted between them: mist

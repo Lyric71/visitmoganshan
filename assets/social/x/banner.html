@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en-GB"><head><meta charset="utf-8">
+<style>
+  @font-face { font-family: "Playfair Display"; font-weight: 400; src: url("../../../public/fonts/playfair-display-latin-400-normal.woff2") format("woff2"); }
+
+  html, body { margin: 0; width: 1500px; height: 500px; overflow: hidden; }
+  /* The site's own dusk photograph: bamboo, cloud in the valleys, the ridge line. */
+  body {
+    position: relative; background: #1a1d1b url("../../../public/images/moganshan-dusk.jpg") no-repeat;
+    background-size: 1500px auto; background-position: 0 -96px;
+  }
+  /* Darken the bamboo side so the reversed lockup sits on a quiet field
+     (guidelines: reversed mark over a darkened area, never the bare photo). */
+  .scrim { position: absolute; inset: 0; background: linear-gradient(90deg, rgb(26 29 27 / 0.62) 0%, rgb(26 29 27 / 0.35) 38%, rgb(26 29 27 / 0) 62%); }
+
+  /* Upper left, ends above the avatar zone (y > 320 at x < 420). */
+  .lockup { position: absolute; left: 92px; top: 72px; width: 480px; height: auto; }
+  .tagline {
+    position: absolute; left: 92px; top: 200px; margin: 0;
+    font-family: "Playfair Display", serif; font-weight: 400; font-size: 34px; color: #E8EDE9;
+  }
+  .rule { position: absolute; left: 94px; top: 262px; width: 56px; height: 3px; background: #E0A458; }
+</style></head>
+<body>
+  <div class="scrim"></div>
+  <!-- public/brand/lockup-horizontal-reversed.svg, unchanged. -->
+  <img class="lockup" src="../../../public/brand/lockup-horizontal-reversed.svg" alt="Visit Moganshan">
+  <p class="tagline">Bamboo, clouds and springs</p>
+  <div class="rule"></div>
+</body></html>
