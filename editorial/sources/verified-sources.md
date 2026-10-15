@@ -1802,6 +1802,72 @@ primary research, <dates>". -->
 * Verified 2: 2026-10-14 (fetched again with a different user agent; every string present)
 * Used in: biwu-dragon-pool
 
+### Kailas Moganshan Skyrace 2026: categories, distances, climb, times, fees, rules
+* Value: 23 to 25 October 2026 at Yucun (庾村), start and finish on Yuxin North Street (庾信北街); 100 km: actual 99 km, 5,903 m climb, start Fri 23 Oct 18:00, cut off Sun 25 Oct 00:00 (30 h); 70 km: 67.2 km, 3,618 m, Fri 19:00 to Sat 14:00 (19 h); 50 km: 50.3 km, 2,615 m, Sat 06:00 to 21:00 (15 h); 30 km: 31.6 km, 1,570 m, Sun 06:00 to 16:00 (10 h); 20 km: 23.1 km, 1,049 m, Sat 08:30 to 16:30 (8 h); 10 km individual and youth 10 km: 8.5 km, 460 m, Sun 09:00 and 09:30, 3 h; fees RMB 350 (both 10 km), 450, 580, 780, 950, 1,400; pre registration 11 February to 11 March, draw 18 March; qualifying finish within a year (100 km needs a 50 km trail finish); no companion on the course, support only at stations, purchases from shops and vendors allowed; no disposable cups at stations, litter on the course disqualifies, markers collected afterwards; running on another person's number bans both; elite free entry from ITRA 780 (men) and 620 (women)
+* As of: 9 February 2026
+* Source: Letour Sports (朗途体育), the organiser, 【赛事规程】2026凯乐石莫干山跑山赛
+* Tier: 3, authoritative for its own race
+* URL: https://moganshan.saihuitong.com/article?id=69954&mid=57201
+* Verified 1: 2026-10-15 (page fetched; every figure above read on the page, dated 2026-02-09)
+* Verified 2: 2026-10-15 (fetched again with a Safari user agent; 99km, 5903米, the 18:00 start, the 30 hour cut off, all other distances and climbs, 1400, 350, 3月18日, 替跑, 不准许有任何非参赛选手陪伴, 不提供一次性水具, 随意丢弃垃圾, 回收并妥善处理, 售卖机 present)
+* Shelf life: volatile, through 25 October 2026
+* Used in: kailas-moganshan-skyrace
+* Notes: the organiser sends the course file to entrants only; no course map or checkpoint list is public. The event page (ledger entry of 14 October) was read again on 15 October for the closed entry and the RMB 15 race shuttles: 报名已截止, ¥15, 德清站, 德清西站, 换乘中心 present on both checks; whether a non entrant may book a shuttle seat is not stated.
+
+### Kailas Moganshan Skyrace, 2017 to 2025, from the county paper
+* Value: first race 28 October 2017, about 800 runners (800多名); renamed 莫干山跑山赛 in 2018, more than 3,000 runners; 5,000 in 2019 with over RMB 10 million local spending; paused for the pandemic, then new course landmarks (九曲长廊, 试剑崖, 莫干岭); the sword medal (大宝剑) after 干将莫邪; 2025 entries: over 10,000 applications on the first day against 9,000 places, 2,000 places added; 2024 runners 61 percent aged 26 to 40, 31 percent 41 to 64, mostly from Zhejiang, Shanghai and Jiangsu; 2024 operations: over 1,100 volunteers, 207 rescuers, 77 rescue vehicles, 24 coaches, 17 stations; villagers shut their dogs in; the county has restored 35 km of old paths and built 100 km of trails and 75 km of cycle paths; 60 plus runner friendly businesses in 2024
+* As of: 10 April 2025
+* Source: Deqing News (德清新闻网), reporter 陈明月
+* Tier: 2
+* URL: http://dqnews.zjol.com.cn/dqnews/system/2025/04/10/034924244.shtml
+* Verified 1: 2026-10-15 (page fetched and decoded; every figure above present)
+* Verified 2: 2026-10-15 (fetched again with a Safari user agent; 2025-04-10, 10月28日, 800多名, 3000余人, 5000人, 大宝剑, 疫情停办, 过万, 9000个名额, 2000个名额, 61%, 浙沪苏, 1100人, 207人, 77台, 24辆大巴, 17个站点, 软禁, 修复古道35公里, 步道100公里, 骑行道75公里, 60多家, and 新增了九曲长廊、试剑崖、莫干岭等特色打卡点 present)
+* Shelf life: historical; the 2024 operating figures are for that year only
+* Used in: kailas-moganshan-skyrace
+* Notes: a Tencent search summary gives 8,000 runners for 2017; three tier 2 reports say 800, and 800 is printed. "Eight editions so far" (a Sohu repost) is not used: the pandemic gap makes the count uncertain.
+
+### Kailas Moganshan Skyrace 2025: field, rooms, the street and the resort's figures
+* Value: 24 to 26 October 2025; more than 11,000 runners (1.1万余名), five categories, 14 waves, 97 foreign entrants; called an Asian record; rooms hard to find a week before (一房难求); a runner friendly alliance (跑者友好联盟) of 100 plus guesthouses and restaurants offering late checkout, discounted breakfasts and free transfers; Mogan Yujie market of 60 plus stalls, 20,000 people on the opening night (Tide News). Over 30,000 overnight visitors, more than 100 guesthouses and hotels full two nights running, 23 village energy stations (能量加油站) with 山鸡, 红薯, 青团, villagers with torches at junctions, spending up more than 300 percent on the previous period and nearly RMB 100 million, by the resort's official data (Hangzhou Daily)
+* As of: 27 and 29 October 2025
+* Source: Zhejiang Online (浙江在线) carrying Tide News (潮新闻), reporter 吴丽燕; Zhejiang Online (浙江在线) carrying Hangzhou Daily (杭州日报), reporter 沈晓颜
+* Tier: 2 (both)
+* URL: https://zjnews.zjol.com.cn/zjnews/202510/t20251027_31306828.shtml ; https://zjnews.zjol.com.cn/zjnews/202510/t20251029_31312010.shtml
+* Verified 1: 2026-10-15 (both fetched; every figure above present)
+* Verified 2: 2026-10-15 (both fetched again with a Safari user agent; 1.1万余名, 14个批次, 97名外籍选手, 亚洲纪录, 一房难求, 跑者友好联盟, 免费接驳, 60余个品牌摊位, 2万人次; 23个“能量加油站”, 山鸡、红薯、青团, 举着电筒, 3万人次, 连续两晚达到满房, 环比增长超过300%, 近亿元, 官方数据 present)
+* Shelf life: historical, for the 2025 race
+* Used in: kailas-moganshan-skyrace
+* Notes: TIER DEVIATION for the overnight visitor count and the spending: source-tiers.md routes visitor numbers to the Huzhou or Zhejiang bureau only. These are the resort's own data; the article prints them as the resort's claim and never as a bureau count. "Asian record" is printed as the press's phrase, not as a fact. A China Daily website reprint of 31 October 2025 by 王力中 (caijing.chinadaily.com.cn WS69048492a310c4deea5ef782) carries the resort's further figures (2,500 volunteers, 42 defibrillators, 108 alliance guesthouses, 20,000 overnight visitors and about RMB 15 million from rooms in 2024, two categories in 2017); check 1 passed on 15 October, but the piece does not use it after the length cut, so it has no second check and is not publishable from this entry.
+
+### Kailas Moganshan Skyrace 2025 traffic notice
+* Value: issued 17 October 2025 by the Deqing Moganshan International Tourism Resort committee, the county public security traffic brigade (德清县公安局交通管理大队) and the race committee: 24 to 26 October 2025, Yuxin North Street (start and finish) under temporary traffic management; 竹源路, 黄郛路, 于烂线 and 翠莹路 closed in phases to motor and non motor vehicles; 黄郛路 (翠莹路 to 绕镇路) one way east to west; hours set by the police on the day
+* As of: 17 October 2025
+* Source: Deqing traffic police (德清交警), as reprinted by the 108 community (德清108生活社区)
+* Tier: 4 as a copy; the issuers are tier 1
+* URL: https://m.108sq.cn/deqing/shuo/detail/69640851
+* Verified 1: 2026-10-15 (page fetched; the notice text, the three issuers and the date present)
+* Verified 2: 2026-10-15 (fetched again with a Safari user agent; 2025年10月17日, 庾信北街, 竹源路、黄郛路、于烂线、翠莹路, 单向通行, 德清县公安局交通管理大队 present)
+* Shelf life: historical; the 2026 notice replaces it as the current rule when it appears (fixture row of 21 October in source-tiers.md)
+* Used in: kailas-moganshan-skyrace
+* Notes: the original WeChat post from 德清交警 cannot be fetched from here; the article cites the copy and prints it as what the notice announced.
+
+### 2026 Moganshan outdoor sports presser
+* Value: 2026 calendar of more than ten branded races (莫干山越野赛 by UTMB, 云间花径, 凯乐石莫干山跑山赛, 斯巴达勇士赛 among them); ten new outdoor routes (10条全新户外运动赛道); 浙江省第七届户外运动大会 to open at Moganshan in April 2026
+* As of: 19 January 2026
+* Source: Deqing News (德清新闻网), reporter 陈明月
+* Tier: 2
+* URL: http://dqnews.zjol.com.cn/dqnews/system/2026/01/19/035134575.shtml
+* Verified 1: 2026-10-15 (page fetched; the strings above present)
+* Verified 2: 2026-10-15 (fetched again with a Safari user agent; 2026-01-19, 凯乐石莫干山跑山赛, 10余项, 10条全新户外运动赛道 present)
+* Shelf life: through 2026
+* Used in: kailas-moganshan-skyrace
+
+### Reuse for kailas-moganshan-skyrace
+* Value: nearly 900 licensed guesthouses around Moganshan (Xinhua, 29 September 2026, logged above)
+* Verified 1: 2026-10-15 (fetched; 900家合规民宿 present)
+* Verified 2: 2026-10-15 (fetched again with a Safari user agent; present)
+* Used in: kailas-moganshan-skyrace
+* Notes: the Zuicool 2026 event page (zuicool.com/event/89494, tier 3) was read twice on 15 October (十年, 2026.10.23, 3月18日) to confirm the ten year billing and the draw date; the article cites the organiser for both.
+
 ## Retired
 
 <!-- Entries past their shelf life that were replaced. Kept for the record. -->
