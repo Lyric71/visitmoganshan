@@ -1868,6 +1868,18 @@ primary research, <dates>". -->
 * Used in: kailas-moganshan-skyrace
 * Notes: the Zuicool 2026 event page (zuicool.com/event/89494, tier 3) was read twice on 15 October (十年, 2026.10.23, 3月18日) to confirm the ten year billing and the draw date; the article cites the organiser for both.
 
+### Outopia Haoye Sisters Moganshan Winter Race 2026
+* Value: women only trail race on 13 December 2026 (pack collection 12 December) at 阜溪街道莫干山雪乐谷; registration opened 13 October, closes 23:59 on 12 November; 20K (19.7 km, 706 m, 09:00 to 15:00, ITRA 拟1分) RMB 599 single, RMB 1,198 pair; 8K (8.4 km, 250 m, 09:30 to 13:30) RMB 519 single, RMB 1,038 pair; 捡拾净山5K (5.52 km) RMB 99 已截止; prices marked 起价; organiser account 菰城越野
+* As of: 16 October 2026
+* Source: Zuicool (最酷), registration page reg.zuicool.com/37580, event page zuicool.com/event/98987 and the announcement zuicool.com/news/archives/318953 (dated 2026-10-13)
+* Tier: 3, authoritative for the race date, the entry status and the fees because it sells the places
+* URL: https://reg.zuicool.com/37580
+* Verified 1: 2026-10-16 (all three pages fetched with the sweep user agent; the values above present)
+* Verified 2: 2026-10-16 (fetched again with a Safari user agent; 2026年12月13日, 2026年11月12日, 阜溪街道莫干山雪乐谷, 仅限女性, 599.00, 519.00, 1198.00, 1038.00, 已截止, 19.7km, 706m, 8.4km, 菰城越野 present on the registration page, 2026-10-13 on the announcement)
+* Shelf life: until 13 December 2026
+* Used in: news draft 2026-10-16-women-only-winter-trail-race-on-13-december
+* Notes: that Fuxi subdistrict borders Moganshan town to the east is from the Chinese Wikipedia entry for 阜溪街道 (the Huzhou government's approval of 13 January 2016 as described there); the venue itself is described nowhere beyond its name, and the item says so.
+
 ## Retired
 
 <!-- Entries past their shelf life that were replaced. Kept for the record. -->
