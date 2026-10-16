@@ -3,46 +3,6 @@
   "runs": [
     {
       "kind": "publish",
-      "started": "2026-09-26T06:48:39.461Z",
-      "finished": "2026-09-26T06:48:39.502Z",
-      "outcome": "skipped",
-      "skipReason": "nothing ready"
-    },
-    {
-      "kind": "sweep",
-      "started": "2026-09-26T06:48:40.388Z",
-      "outcome": "success",
-      "sourcesQueried": 22,
-      "candidates": 34,
-      "newCandidates": 5,
-      "unreachable": [
-        "deqing-gov",
-        "huzhou-cts",
-        "zj-cts",
-        "huzhou-gov"
-      ],
-      "errors": [
-        "meadin: 酒店频道: anti bot challenge page (8234 bytes), open it in a browser instead",
-        "deqing-gov: 公告公示: timeout after 12000 ms",
-        "deqing-gov: 德清要闻 A: timeout after 12000 ms",
-        "deqing-gov: 德清要闻 B: timeout after 12000 ms",
-        "deqing-gov: 莫干山镇: timeout after 12000 ms",
-        "deqing-gov: 文广旅体局: timeout after 12000 ms",
-        "hangzhou-daily: 杭州日报数字报: anti bot challenge page (90 bytes), open it in a browser instead",
-        "huzhou-cts: 工作动态: timeout after 12000 ms",
-        "huzhou-cts: 政策文件: timeout after 12000 ms",
-        "zj-cts: 浙江文旅: fetch failed",
-        "zj-cts: 政务公开: fetch failed",
-        "zj-cts: 浙江省旅游度假区: fetch failed",
-        "huzhou-gov: 湖州要闻 德清: fetch failed",
-        "huzhou-gov: 交通运输局: timeout after 12000 ms"
-      ],
-      "triage": "editorial/news/triage/2026-09-26.md",
-      "finished": "2026-09-26T06:53:50.103Z",
-      "durationMs": 309715
-    },
-    {
-      "kind": "publish",
       "started": "2026-09-26T06:55:57.484Z",
       "finished": "2026-09-26T06:55:57.519Z",
       "outcome": "skipped",
@@ -880,6 +840,52 @@
       "finished": "2026-10-15T04:00:05.505Z",
       "outcome": "skipped",
       "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-10-16T00:00:06.062Z",
+      "outcome": "success",
+      "sourcesQueried": 22,
+      "candidates": 41,
+      "newCandidates": 27,
+      "unreachable": [
+        "deqing-gov",
+        "huzhou-cts",
+        "zj-cts",
+        "huzhou-gov"
+      ],
+      "errors": [
+        "meadin: 酒店频道: anti bot challenge page (8234 bytes), open it in a browser instead",
+        "deqing-gov: 公告公示: timeout after 12000 ms",
+        "deqing-gov: 德清要闻 A: timeout after 12000 ms",
+        "deqing-gov: 德清要闻 B: timeout after 12000 ms",
+        "deqing-gov: 莫干山镇: timeout after 12000 ms",
+        "deqing-gov: 文广旅体局: timeout after 12000 ms",
+        "hangzhou-daily: 杭州日报数字报: anti bot challenge page (90 bytes), open it in a browser instead",
+        "huzhou-cts: 工作动态: timeout after 12000 ms",
+        "huzhou-cts: 政策文件: timeout after 12000 ms",
+        "zj-cts: 浙江文旅: fetch failed",
+        "zj-cts: 政务公开: fetch failed",
+        "zj-cts: 浙江省旅游度假区: fetch failed",
+        "huzhou-gov: 湖州要闻 德清: fetch failed",
+        "huzhou-gov: 交通运输局: timeout after 12000 ms"
+      ],
+      "triage": "editorial/news/triage/2026-10-16.md",
+      "finished": "2026-10-16T00:05:45.686Z",
+      "durationMs": 339624
+    },
+    {
+      "kind": "publish",
+      "started": "2026-10-16T00:14:04.064Z",
+      "finished": "2026-10-16T00:16:41.501Z",
+      "outcome": "success",
+      "slugs": [
+        "women-only-winter-trail-race-on-13-december"
+      ],
+      "paths": [
+        "/journal/news/2026/10/women-only-winter-trail-race-on-13-december"
+      ],
+      "durationMs": 157437
     }
   ]
 }
