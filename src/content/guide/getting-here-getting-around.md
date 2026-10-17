@@ -12,7 +12,7 @@ image_alt: A small green shuttle bus rounding a bend on a road through dense bam
 word_count: 1516
 author: cyril-drouin
 published: 2026-08-05
-last_updated: 2026-10-05
+last_updated: 2026-10-17
 ---
 
 # Getting around Moganshan
@@ -136,6 +136,8 @@ A taxi or van from Deqing station to Moganshan town costs about RMB 100 and take
 Seven departures is the entire service. The gap between 10:40 and 13:00 is real, and so is the 16:00 finish. Those two numbers matter more than the fare. The timetable and fares were last checked on 5 August 2026, and they change without notice, so confirm the departure your plan depends on before you travel.
 
 One warning about apps. Moganshan Road (莫干山路) is the M50 art district in Shanghai, roughly 200 km from the mountain, and the names collide constantly. Check what your ride hailing app actually selected before you confirm.
+
+The trip down is the harder one. A car has to find you on the mountain, the barrier keeps most cars out from 08:00 to 17:30, and the car that does come may want more than the fare. [Getting a car back down](/plan/getting-a-car-back-down/) covers Didi, black cars and what to agree before the bags go in.
 
 ## Guesthouse pickups
 

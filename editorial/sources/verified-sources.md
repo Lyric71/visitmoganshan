@@ -1880,6 +1880,76 @@ primary research, <dates>". -->
 * Used in: news draft 2026-10-16-women-only-winter-trail-race-on-13-december
 * Notes: that Fuxi subdistrict borders Moganshan town to the east is from the Chinese Wikipedia entry for 阜溪街道 (the Huzhou government's approval of 13 January 2016 as described there); the venue itself is described nowhere beyond its name, and the item says so.
 
+### Black cars and paid flagging down on Moganshan, and the police response
+* Value: parking shortage and black cars (黑车) called a long standing problem (多年的“顽疾”) of the scenic area; villagers flagging down cars and charging (村民招手拦车收费), black cars and unlicensed guides; visitors overcharged on a "black car trip" (黑车之旅); the Moganshan police station, with the transport and enforcement departments, dealt with black cars, black guides and flagging down in 27 batches (27批次); visitor police calls and complaints down 67.3 percent year on year since 2024, by the station's own count
+* As of: June 2025
+* Source: Ping An Times (平安时报) on Ping An Zhejiang (平安浙江网, run by the provincial political and legal affairs commission); the deputy head of the Moganshan police station (莫干山派出所副所长) quoted
+* Tier: 2
+* URL: https://www.pazjw.gov.cn/gongchuangpingan/202506/t20250624_31073840.shtml
+* Verified 1: 2026-10-16 (page fetched with a Chrome user agent; 2025年06月24日, 多年的“顽疾”, 村民招手拦车收费, 黑车之旅, 27批次, 67.3% present)
+* Verified 2: 2026-10-16 (fetched again with a Safari user agent; every string present)
+* Shelf life: volatile, 3 months for the enforcement picture; the 67.3 percent is the station's own figure and is printed as its claim
+* Used in: getting-a-car-back-down
+
+### Didi's English version for visitors
+* Value: set the Didi app to English, register with your own overseas number, pay by international bank card among other methods; Alipay or WeChat users can use the Didi mini programme in a full English interface; driver chat translated between Chinese and English; 24 hour English support in the app
+* As of: April 2025
+* Source: Guangzhou Foreign Affairs Office (广州外事, official account of 广州市人民政府外事办公室), on Tencent News
+* Tier: 2 (an official account describing a platform it does not run, recorded one tier below a platform's own documentation)
+* URL: https://news.qq.com/rain/a/20250407A08XI100
+* Verified 1: 2026-10-16 (page fetched; 2025-04-07, 滴滴英文版, 自己的手机号注册, 国际银行卡, 滴滴小程序, 中英双语, 7*24小时 present)
+* Verified 2: 2026-10-16 (fetched again with a Safari user agent; every string present)
+* Shelf life: semi-stable, 6 months
+* Used in: getting-a-car-back-down
+* Notes: the Xinhua report of 20 January 2025 on Didi 7.0 (news.cn/tech/20250120/935f3952414f4ffe8497c8c9e0343811/c.html) describes Chinese users abroad and does not support this entry.
+
+### Ride hailing on Moganshan "not very effective", and owner called cars
+* Value: Didi, Caocao and Dida "not very effective" (不太灵光) on Moganshan and asking a premium (溢价); a car called by a guesthouse or restaurant owner is usually a local taxi or a black car (出租车或黑车), not very clean, pricier, and may not come (不一定能叫到车)
+* As of: June 2020
+* Source: Youxiake (游侠客), guide by 金二思 (the same page as the RMB 130 day entry above)
+* Tier: 3
+* URL: https://www.youxiake.com/gonglue/view?id=4306
+* Verified 1: 2026-10-16 (page fetched; pubDate 2020-06-22T08:00:00, the strings above present)
+* Verified 2: 2026-10-16 (fetched again with a Safari user agent; 不太灵光, 溢价, 出租车或黑车, 不一定能叫到车, 2020-06-22, 金二思 present)
+* Shelf life: volatile, but cited only as a dated June 2020 account
+* Used in: getting-a-car-back-down
+
+### Taxi fares and surcharges, August 2019 visit
+* Value: taxi Deqing station to the transfer centre about half an hour, 17 to 18 km, about RMB 60 (17-18公里，车费60元左右); ride hailing trips in the county to the scenic area mostly add RMB 20 to 40 (加收20-40元左右); a surcharge named after the bags were loaded; on the way back RMB 30 to Deqing West agreed before boarding (讲好了到德清西站30元), with a driver touting at the transfer centre (集散中心去拉客人) who had been complained about as a ride hailing driver for surcharges (加收费用被投诉过); Deqing West to Moganshan by taxi 11 km, about RMB 30
+* As of: August 2019 (the visit the account describes)
+* Source: Youxiake community (游侠客社区), trip report by 喵喵酱旅行 (the same page as the August 2019 transfer fares entry above)
+* Tier: 3
+* URL: https://bbs.youxiake.com/y/1022265.html
+* Verified 1: 2026-10-16 (page fetched with a Chrome user agent; the strings above and the author name present)
+* Verified 2: 2026-10-16 (fetched again with a Safari user agent, which returns a shorter mobile page: every fare string and 19年8月 present, the author name not in that layout; fetched a third time with a Firefox user agent, author name present)
+* Shelf life: volatile, but cited only as a dated August 2019 account
+* Used in: getting-a-car-back-down
+
+### Taxi from Deqing and surcharges, SmartShanghai 2019
+* Value: a taxi from Deqing to your accommodation "between 50-100rmb", 30 to 40 minutes; two metered cabs demanded a surcharge of 30rmb mid trip; Didi Express drivers asked for their surcharge in advance
+* As of: August 2019
+* Source: SmartShanghai, "The Full-On, Exhaustive, Complete Guide to Moganshan"
+* Tier: 3, English corroboration only
+* URL: https://www.smartshanghai.com/articles/travelsightseeing/the-complete-guide-to-moganshan
+* Verified 1: 2026-10-16 (page fetched; Published Aug 23, 2019, 50-100rmb, surcharge of 30rmb, Didi Express present)
+* Verified 2: 2026-10-16 (fetched again with a Safari user agent; Aug 23, 2019, surcharge of 30rmb, Didi Express, 50-100rmb, 30-40 minutes present)
+* Shelf life: volatile, cited only as a dated 2019 account
+* Used in: getting-a-car-back-down
+* Notes: the surcharge paragraph was cut from the article for length; only the RMB 50 to 100 fare row is cited.
+
+### Reuse for getting-a-car-back-down
+* Value: the car rule window of 08:00 to 17:30 and free entry outside it; the Houwu board, buses 08:30 to 17:00, last down 17:00, departing when full or every 30 minutes (Tide News, 4 December 2025, tier 2, logged above); taxi or van Deqing station to Moganshan town about RMB 100, about 30 minutes, the Y1 at RMB 10 with return runs 08:40 to 17:00, Houwu about 30 minutes from Yucun, Wukang about 20 km away (BeyondBorder Group Ltd desk research, 1 to 5 August 2026, as printed on /getting-here/deqing-station/ and /getting-here/getting-around/)
+* Verified 1: 2026-10-16 (Tide News fetched; 每日8:00 to 17:30 line (quoted with a dash on the page), 17:30后自由进出, 8:30分至17:00, 下山末班车为17:00 present; the desk research sentences confirmed on both guide files)
+* Verified 2: 2026-10-16 (Tide News fetched again with a Safari user agent; the same strings and 停车预约 present)
+* Used in: getting-a-car-back-down
+* Notes: the Tide News entry was past its three month shelf life (verified 6 September), so it was fetched twice again tonight before reuse.
+
+### Not usable, 16 October 2026
+* TripAdvisor, the Mogan Mountain question thread t4238771 and reviews: 403 to WebFetch, an empty body to Chrome headless and headful. Fails check 1.
+* huzcredit.huzhou.gov.cn art/2024/10/12/art_1229635291_23187.html and jtyst.zj.gov.cn art/2023/8/4/art_1229304975_59033572.html (Deqing's 163 metered taxis and 260 drivers): timed out at 300 seconds. Watch row in source-tiers.md.
+* zj-mgs.com/wap/content/?2489.html= (the scenic area's May Day transport guide): 403 Forbidden By WAF. Watch row in source-tiers.md.
+* Autohome travelogue you.m.autohome.com.cn/details/106106 (meter refused, about RMB 100 negotiated): no date anywhere in the page; not a source.
+
 ## Retired
 
 <!-- Entries past their shelf life that were replaced. Kept for the record. -->
