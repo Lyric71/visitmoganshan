@@ -12,7 +12,7 @@ image_alt: A stone path junction under bamboo with a wooden signpost pointing to
 word_count: 1823
 author: liyan-ye
 published: 2026-08-06
-last_updated: 2026-10-12
+last_updated: 2026-10-18
 ---
 
 # Things to do in Moganshan
@@ -127,7 +127,7 @@ Which village you sleep in decides whether any of that is easy. [Where to stay](
 
 Tea is part of how the region presents itself, and guesthouses pour it freely. Ask at yours, and you will usually be given a local leaf and the story that goes with it.
 
-This is not a mountain with a visitor tea farm and a tasting room at the end of it. The [tea page](/moganshan/tea/) covers what is grown around here and how it reaches your cup.
+This is not a mountain with a visitor tea farm and a tasting room at the end of it. The [tea page](/moganshan/tea/) covers what is grown around here and how it reaches your cup. [Mogan Huangya](/things-to-do/mogan-huangya/) covers the tea itself: yellow or green, what it costs at the farm, and the April contest at Yucun.
 
 ## The summer escape itself
 

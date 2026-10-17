@@ -543,7 +543,7 @@ checks. -->
 * Verified 1: 2026-09-23 (fetched and read in Chinese; workstation, picking window, farm names and grade names confirmed)
 * Verified 2: 2026-09-23 (re-fetched, HTTP 200, unchanged)
 * Shelf life: semi-stable, 6 months
-* Used in: dispatch-2026-39
+* Used in: dispatch-2026-39, mogan-huangya (fetched a third time on 17 October 2026, unchanged)
 * Notes: the useful correction is that most tea sold as 莫干黄芽 has been made as a green tea, because menhuang (闷黄) is slow and easy to ruin. The report's 1000 公斤 sales figure is ambiguous between one farm and the group, so it was not printed. This entry contradicts the season table on /moganshan/tea/, which still has the pick coarsening after about 20 April.
 
 ### Golden rain trees on Yangshuwan Road, Wukang
@@ -1949,6 +1949,109 @@ primary research, <dates>". -->
 * huzcredit.huzhou.gov.cn art/2024/10/12/art_1229635291_23187.html and jtyst.zj.gov.cn art/2023/8/4/art_1229304975_59033572.html (Deqing's 163 metered taxis and 260 drivers): timed out at 300 seconds. Watch row in source-tiers.md.
 * zj-mgs.com/wap/content/?2489.html= (the scenic area's May Day transport guide): 403 Forbidden By WAF. Watch row in source-tiers.md.
 * Autohome travelogue you.m.autohome.com.cn/details/106106 (meter refused, about RMB 100 negotiated): no date anywhere in the page; not a source.
+
+### Mogan Huangya: the 1979 revival, the 1982 listing, the switch to green, the indication
+* Value: trial batches of the yellow tea in spring 1979 under Zhang Tangheng (张堂恒) of Zhejiang Agricultural University, at Meigaowu (梅皋坞) and Henglin (横岭); provincial named tea certificate May 1982, third after West Lake Longjing and Jingshan; from the 1990s most tea on sale under the name was the green version, because yellow dry leaf and liquor led summer and autumn buyers to take it for old tea (误为陈茶), so menhuang was dropped; trademark November 2009; Zhejiang University team (龚淑英) refining the yellow method after 2014; national agricultural geographical indication December 2017, certificate AGI02182, 26 villages in Moganshan town and the Wukang, Wuyang and Fuxi subdistricts, eastern boundary Minjin village (民进村); industry standard GH/T 1235-2018 for the yellow version (November 2018) and a group standard 莫干黄芽绿茶 for the green (February 2019); quality descriptors for each version; tea monks in the Jin dynasty and the Classic of Tea line on Wukang (武康)
+* As of: September 2019
+* Source: Deqing County Agriculture and Rural Affairs Bureau (德清县农业农村局), its own text (供稿：局质监处) on its Sohu account
+* Tier: 2 (a county bureau's own text, published on a platform rather than the county portal)
+* URL: https://www.sohu.com/a/338796221_99901975
+* Verified 1: 2026-10-17 (page fetched; datePublished 2019-09-04; AGI02182, 26个行政村, 1979年春, 梅皋坞, 横岭, 1982年5月, 第三位, 误为陈茶, 取消闷黄工艺, 2009年11月, 2014年后, 莫干黄芽绿茶 present)
+* Verified 2: 2026-10-17 (fetched again; the same strings and 夏、秋季, 晋代, 武康, 唐靖 present)
+* Shelf life: evergreen for the history and the indication; the green share is updated by the 2026 Deqing News entry
+* Used in: mogan-huangya
+* Notes: Xinhua (20 April 2023) puts the Zhejiang University team's arrival in 2013, this text says after 2014; the piece prints both. The county portal's own 2018 notice 莫干黄芽黄绿之争有定论 timed out; see the watch row in source-tiers.md.
+
+### Mogan Huangya: Xinhua's 问茶莫干山
+* Value: nearly 2,000 years of history (the county's claim); Tang Jing's (唐靖) 前溪逸志 gives the method as 炙 挼 焙 汰; the yellow method restored in the late 1970s and early 1980s under Zhuang Wanfang (庄晚芳) and Zhang Tangheng; some farmers dropped the yellow method for green; a Zhejiang University team from 2013; 15th Tea King contest at Yucun square, 26 firms, six expert judges on five criteria, five public tables; winner Wang Shiyan (王仕彦), back on the family farm after graduating in 2017; 2022 area about 24,000 mu, brand value over RMB 300 million; 2022 county tea output 1,280 t, RMB 213 million; Yunhe Shanfang (云鹤山房) tea book space in a converted old factory, gaiwan and water at 90 °C, tea sold by the gram, lifting its value three to four times; Guangming tea farm (光明茶场) in Beihu village, its 游子问茶院 guesthouse, packed tea sold at the tourist distribution centres (旅游集散中心)
+* As of: April 2023
+* Source: Xinhua (新华网)
+* Tier: 2
+* URL: http://www.news.cn/local/2023-04/20/c_1129543397.htm
+* Verified 1: 2026-10-17 (page fetched; 近2000年历史, 前溪逸志, 张堂恒, 2013年, 26家, 六位专家, 5张大众茶席, 约2.4万亩, 1280吨, 90摄氏度, 按克卖, 三四倍 present)
+* Verified 2: 2026-10-17 (fetched again; the same strings and 北湖村光明茶场, 旅游集散中心, 游子问茶院, 王仕彦 present)
+* Shelf life: semi-stable, 6 months for the places; evergreen for the history
+* Used in: mogan-huangya
+* Notes: the 2022 output is all tea in Deqing, not Mogan Huangya alone. No hours or addresses for Yunhe Shanfang are given.
+
+### Mogan Huangya: the 16th Tea King contest, 14 April 2024
+* Value: held 14 April 2024 on the Yucun square in Moganshan town; 15 firms, 15 yellow and 14 green samples; gold awards in a yellow class and a green class; Guangming tea farm took the title; yellow tea ice cream and yellow tea milk tea at the stalls
+* As of: April 2024
+* Source: Deqing News (德清新闻网)
+* Tier: 2
+* URL: http://dqnews.zjol.com.cn/dqnews/system/2024/04/15/034592331.shtml
+* Verified 1: 2026-10-17 (page fetched; page date 2024-04-15; 14日, 庾村广场, 15家, 黄茶样品15件, 绿茶样品14件, 黄茶金奖, 绿茶金奖 present)
+* Verified 2: 2026-10-17 (fetched again; the same strings and 冰激凌, 奶茶, 光明茶场 present)
+* Shelf life: evergreen as a dated record of that contest
+* Used in: mogan-huangya
+* Notes: the latest contest found reported. No report of a 2025 or 2026 contest was found on 17 October 2026; the 2027 contest is a fixture row in source-tiers.md.
+
+### Mogan Huangya: the 10th Tea King contest, 2017 area and 2018 prices
+* Value: 10th contest on 15 April 2018 at Yucun, nearly 20 producers; 2017 area 25,000 mu (2.5万亩); that spring's pre Qingming tea at several thousand yuan a jin; annual output value RMB 162 million; the judges tasted the liquor before looking at the dry leaf (先开汤评审再看干茶); better suited to ordinary households than Longjing or Jingshan
+* As of: April 2018
+* Source: China News Service (中国新闻网)
+* Tier: 2
+* URL: https://www.chinanews.com.cn/m/cj/2018/04-15/8491576.shtml
+* Verified 1: 2026-10-17 (page fetched; 2018年04月15日, 第十届, 近20家, 2.5万亩, 数千元每斤, 1.62亿元 present)
+* Verified 2: 2026-10-17 (fetched again; the same strings and 先开汤评审再看干茶, 寻常百姓家 present)
+* Shelf life: evergreen as a dated record
+* Used in: mogan-huangya
+* Notes: the area disagrees with Xinhua 2023 (about 24,000 mu in 2022) and China Quality News 2024 (1,053 ha); the piece prints all three by year.
+
+### Mogan Huangya: area, output, standards and the processing steps, 2024
+* Value: tea area 1,053 hectares, tea output 600 t, whole chain value RMB 200 million; GH/T 1235-2018 莫干黄芽茶 黄茶 and the processing code T/DQCY 005-2021; graded standard samples issued 2022; steps 杀青 揉捻 闷黄 初烘 理条 足干; a heavier yellowing gives a sweeter, softer cup (王仕彦 of 浙江莫云生态农业); that firm's yellow tea orders up 40 percent on the year, still fewer than its green
+* As of: May 2024
+* Source: China Quality News (中国质量新闻网, of 中国质量报)
+* Tier: 2
+* URL: https://www.cqn.com.cn/zj/content/2024-05/28/content_9051912.htm
+* Verified 1: 2026-10-17 (page fetched; 2024-05-28; 1053公顷, 600吨, 两亿元, GH/T 1235 2018 and T/DQCY 005 2021, each written with a long dash on the page, present)
+* Verified 2: 2026-10-17 (fetched again; the same strings and 杀青、揉捻、闷黄、初烘、理条、足干, 40%, 闷得更重 present)
+* Shelf life: semi-stable, 6 months for the area and output
+* Used in: mogan-huangya
+* Notes: the report does not say whether 600 t is Mogan Huangya alone or all county tea; printed as unclear. The page writes the standard numbers with a long dash; the piece writes them without one.
+
+### Mogan Huangya: the 2026 first pick and its farm price
+* Value: the 2026 pick opened on 15 March, reported from a garden in Minjin village (民进村), Fuxi subdistrict; Zhejiang Shuangfeng Tea (浙江双丰茶业), one of the earlier gardens, a day earlier than 2025; first three days over 200 kg preordered at RMB 2,500 to 3,600 a kilogram; more than ten cultivars including 嘉茗一号, 龙井43号 and 迎霜; picked by day, made that night, packed and on sale the next day; county peak expected around 24 March
+* As of: March 2026
+* Source: Deqing News (德清新闻网), chief reporter Ni Yixue (倪忆雪)
+* Tier: 2
+* URL: https://dqnews.zjol.com.cn/dqnews/system/2026/03/17/035174990.shtml
+* Verified 1: 2026-10-17 (page fetched; 时间 2026-03-17; 3月15日, 民进村, 200多公斤, 每公斤2500元至3600元 present)
+* Verified 2: 2026-10-17 (fetched again; the same strings and 嘉茗一号, 龙井43号, 迎霜, 十余个, 当晚加工, 24日前后 present)
+* Shelf life: semi-stable, 6 months; replaced by the 2027 first pick report (fixture row, 18 March 2027)
+* Used in: mogan-huangya; named for /seasons/spring/ in the asset brief
+* Notes: the price is one farm's preorder price, not a shop price. Per 50 g (RMB 125 to 180) is our arithmetic.
+
+### Mogan Huangya at RMB 3,300 a jin, 2024
+* Value: Mogan Huangya at RMB 3,300 a jin (每斤) ground into a yellow tea ice cream sold at RMB 15; the DANJOTEA (当酒) shop opened 2022 by the son of heritage maker He Yongkang (何永康)
+* As of: August 2024
+* Source: Zhejiang Online (浙江在线)
+* Tier: 2
+* URL: https://zjnews.zjol.com.cn/zjnews/202408/t20240801_30441075.shtml
+* Verified 1: 2026-10-17 (page fetched; 2024-08-01; 3300元每斤, 15元一个 present)
+* Verified 2: 2026-10-17 (fetched again; 3300元每斤, 15元一个, DANJOTEA, 何永康 present)
+* Shelf life: volatile for the price, cited only as a dated 2024 figure
+* Used in: mogan-huangya
+* Notes: about RMB 6,600 a kilogram, our arithmetic; printed beside the 2026 first pick price as two different teas, grades and years.
+
+### English search results for "Mogan Huangya"
+* Value: five of the first nine English web results for "Mogan Huangya" were tea retailers or a tea review site (Steepster, Sipscollection, Seven Cups twice, Dragon Tea House); the other four were China Daily's Huzhou channel, China Highlights, a holiday site and Wikipedia
+* As of: 17 October 2026
+* Source: BeyondBorder Group Ltd desk research, one web search run by this pipeline
+* Tier: own work
+* Verified 1: 2026-10-17 (search "Mogan Huangya")
+* Verified 2: 2026-10-17 (search "Mogan Huangya yellow tea": five of nine results were retailers, a retailer's guide page or a tea review site)
+* Shelf life: volatile, 3 months
+* Used in: mogan-huangya
+* Notes: a single search on one engine on one day; printed with its date and as a count, not as a claim about every engine.
+
+### Not usable, 17 October 2026
+* deqing.gov.cn art/2018/3/8/art_1229212604_55216000.html (莫干黄芽黄绿之争有定论) and huzhou.gov.cn art/2024/5/13/art_1229213487_59068321.html (德清高标准育壮“莫干黄芽”): timed out to curl and to WebFetch. Watch row in source-tiers.md.
+* zj.gov.cn 浙政发〔2023〕3号 attachment PDF: a scan with no text layer; the 2023 heritage listing is cited from Deqing News, 22 September 2026.
+* ttbz.org.cn T/CTSS 89-2024 莫干黄茶 standard PDF: 404.
+* moa.gov.cn 第2486号: a February 2017 announcement that does not name the tea.
+* 三吴图会 on NetEase (March 2025): promotional, not used.
+* Deqing News, 24 September 2026 (the fourth yellow tea conference): passed check 1 and check 2 on 17 October 2026 but was not needed in the piece.
 
 ## Retired
 

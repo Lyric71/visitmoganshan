@@ -12,7 +12,7 @@ image_alt: Bamboo shoots pushing up through leaf litter on a worked moso slope a
 word_count: 1603
 author: liyan-ye
 published: 2026-08-08
-last_updated: 2026-08-08
+last_updated: 2026-10-18
 ---
 
 # Spring in Moganshan
@@ -27,7 +27,7 @@ Spring is also the season this site recommends most and can support least. Our r
 
 Operators market two shoulder seasons, spring and clear late autumn. They are not doing it out of generosity. July and August sell themselves, and the other ten months have to be sold.
 
-The numbers underneath are plain enough. A mid-range room sits at RMB 300 to 500 a night through most of spring, against RMB 1,000 or more in July and August. Occupancy across the area averaged about 55 percent in 2024, so beds stand empty somewhere in the year, and our reading is that a spring weekday is where most of them sit.
+The numbers underneath are plain enough. A mid range room sits at RMB 300 to 500 a night through most of spring, against RMB 1,000 or more in July and August. Occupancy across the area averaged about 55 percent in 2024, so beds stand empty somewhere in the year, and our reading is that a spring weekday is where most of them sit.
 
 > Room rate bands and 2024 occupancy, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
@@ -48,7 +48,7 @@ The thermometer, in full:
 
 A year that averages 13.3 °C between a January of 1.4 and a summer of 24.1 has to pass through mild on the way up, and March to May is where that climb happens. Nobody put an instrument on April and published the answer.
 
-Your phone will not close the gap. Most apps resolve a Moganshan forecast to Wukang, the county seat, 20 km off on lower ground, so what comes back is a valley reading. The only mountain-to-valley gap we hold is the summer one, 6 to 7 °C, so read the app as a rough guide and carry a layer more. [Moganshan weather](/moganshan/weather/) sets out the figures and the gaps between them.
+Your phone will not close the gap. Most apps resolve a Moganshan forecast to Wukang, the county seat, 20 km off on lower ground, so what comes back is a valley reading. The only mountain to valley gap we hold is the summer one, 6 to 7 °C, so read the app as a rough guide and carry a layer more. [Moganshan weather](/moganshan/weather/) sets out the figures and the gaps between them.
 
 ## Shoots, and a forest that is being worked
 
@@ -70,23 +70,25 @@ Shoots are one of two things the season is promoted on locally. The other is mea
 
 ## March, April and May, one at a time
 
-| Month | The case for it | The case against | Mid-range room |
+| Month | The case for it | The case against | Mid range room |
 |---|---|---|---|
 | March | Cheapest and quietest of the three. Shoots start | Cool, wet underfoot. The harvest may not have started | RMB 300 to 500 |
-| April | Where spring pays off. Good walking, shoots at full, the tea pick | Weekends fill from mid-month | RMB 300 to 500 midweek |
+| April | Where spring pays off. Good walking, shoots at full, the tea pick | Weekends fill from mid month | RMB 300 to 500 midweek |
 | May | Warm, new growth everywhere, long afternoons | Week one is the holiday, and weekends stay heavy after | Past RMB 1,000 in week one, RMB 300 to 500 midweek after |
 
 Weekends and holidays carry the volume all year, and Monday is the emptiest day. Pick the day before the month.
 
 ## The tea gets picked in the same weeks
 
-The other spring crop here is picked rather than dug. Moganshan's tea is huangya, a yellow bud tea. Bud teas are a spring crop wherever they are made, because the pick is unopened buds rather than mature leaf, and the bud is only there early. Chinese practice measures that window against Qingming, the tomb-sweeping festival around 4 to 5 April.
+The other spring crop here is picked rather than dug. Moganshan's tea is huangya, a yellow bud tea. Bud teas are a spring crop wherever they are made, because the pick is unopened buds rather than mature leaf, and the bud is only there early. Chinese practice measures that window against Qingming, the tomb sweeping festival around 4 to 5 April.
 
 The local window moves with the weather rather than the calendar, so a cold March pushes it back a week or two.
 
-April is the month, then, without a fortnight anyone can name in advance. This is not a mountain with a visitor tea garden either. [Moganshan yellow bud tea](/moganshan/tea/) has the grades and where a cup actually comes from.
+In 2026 the pick opened on 15 March, with the county expecting its peak around 24 March, so the bud tea is a late March and early April crop. This is not a mountain with a visitor tea garden either. [Moganshan yellow bud tea](/moganshan/tea/) has the grades and where a cup actually comes from. [Mogan Huangya](/things-to-do/mogan-huangya/) has the tea itself, and why the cup you are poured may well be green.
 
-![New growth showing pale on the top of tea rows on a Moganshan slope in early April](/images/guide/spring-3.webp 'Nothing on these rows is picked below the top few centimeters, which is why a bud tea harvest is measured in weeks.')
+> The 2026 opening and the expected peak, Deqing News (德清新闻网), 17 March 2026, tier 2. https://dqnews.zjol.com.cn/dqnews/system/2026/03/17/035174990.shtml
+
+![New growth showing pale on the top of tea rows on a Moganshan slope in early April](/images/guide/spring-3.webp 'Nothing on these rows is picked below the top few centimetres, which is why a bud tea harvest is measured in weeks.')
 
 ## The week that breaks spring
 
@@ -94,18 +96,18 @@ Everything above argues for April and early May. Here is the exception. China's 
 
 | Holiday | What the figures show |
 |---|---|
-| May Day 2024 | High-end guesthouse occupancy reached 94 percent |
-| May Day 2026 | Deqing County received 2.30 million visitors, up 7.76 percent, with about 130,000 registered hotel and guesthouse check-ins |
+| May Day 2024 | High end guesthouse occupancy reached 94 percent |
+| May Day 2026 | Deqing County received 2.30 million visitors, up 7.76 percent, with about 130,000 registered hotel and guesthouse check ins |
 
 > Holiday occupancy and visitor figures, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-Read those two rows carefully. The 94 percent is the high-end segment against a 55 percent baseline covering every property across a year, and the 2026 line counts the county rather than the mountain. Neither is a gate count. Both point one way: a March room in the RMB 300 to 500 band goes past RMB 1,000 that week, and what is left is what nobody else wanted.
+Read those two rows carefully. The 94 percent is the high end segment against a 55 percent baseline covering every property across a year, and the 2026 line counts the county rather than the mountain. Neither is a gate count. Both point one way: a March room in the RMB 300 to 500 band goes past RMB 1,000 that week, and what is left is what nobody else wanted.
 
 So keep the whole first week of May clear. Block 1 to 7 May and you are covered in any year, because the holiday starts on 1 May but its length is set year by year. We expect the weeks either side to behave like ordinary spring, which is inference on our part rather than a published figure.
 
 If the holiday is your only week, come anyway and lock the room in months ahead. [Where to stay](/where-to-stay/) has the village picture, which counts for more than the property once nothing is left.
 
-![Visitors queuing at a Moganshan transfer center gate over the May Day holiday](/images/guide/spring-4.webp 'No private vehicle goes inside the scenic area, so everyone changes at Yucun, Fatou or Houwu. Holiday week does not add a fourth door.')
+![Visitors queuing at a Moganshan transfer centre gate over the May Day holiday](/images/guide/spring-4.webp 'No private vehicle goes inside the scenic area, so everyone changes at Yucun, Fatou or Houwu. Holiday week does not add a fourth door.')
 
 ## What rain does to the paths
 
@@ -116,7 +118,7 @@ No rainfall record is published for this mountain, so treat what follows as the 
 | Layers you can take off | Ridge mornings run colder than the valley forecast you checked |
 | A waterproof outer | Rain and low cloud are ordinary here in these months |
 | Shoes with real tread | Smooth soles on wet stone are how people get hurt |
-| An eye on 18:00 | Transfer centers shut then, whatever light is left |
+| An eye on 18:00 | Transfer centres shut then, whatever light is left |
 | A 16:00 deadline at Deqing station | Last Y1 shuttle up. After it, a taxi at about RMB 100 |
 
 The clock cuts the other way from November. By May the light is still good when the gate closes, so the constraint is the timetable rather than the sunset. Ticket prices disagree between published sources, so confirm yours at booking.
@@ -131,12 +133,12 @@ That is spring on its own terms. The question most readers actually arrive with 
 | The ridge view | Wet and often clouded, on our reading | Clear air is what autumn is sold on | Autumn |
 | Food | Shoots, and this year's tea | Nothing seasonal we can name | Spring |
 | The week to avoid | First week of May | First week of October | Even |
-| Rooms | RMB 300 to 500 outside week one | Near peak to mid-October, then RMB 300 to 500 | Spring |
+| Rooms | RMB 300 to 500 outside week one | Near peak to mid October, then RMB 300 to 500 | Spring |
 | Daylight | Lengthening against the 18:00 gate | Shortening against it | Spring |
 
 One caution on the view row. There is no fog or visibility record for any month here, so that row rests on a local marketing claim and our own reading of spring cloud.
 
-Autumn takes the view, spring takes most of the rest, and [the best time to visit](/plan/best-time-to-visit/) names both windows rather than picking one. If you want a single date from us: mid-April, on a Monday.
+Autumn takes the view, spring takes most of the rest, and [the best time to visit](/plan/best-time-to-visit/) names both windows rather than picking one. If you want a single date from us: mid April, on a Monday.
 
 [The seasons guide](/seasons/) sets all four against each other. We recommend spring on a harvest, a rate card and a crowd pattern, not on a temperature. Publish a spring mean and this page gets the number, with nothing above it deleted.
 

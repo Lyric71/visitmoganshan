@@ -12,7 +12,7 @@ image_alt: Rows of low tea bushes on a Moganshan slope with moso bamboo standing
 word_count: 1807
 author: liyan-ye
 published: 2026-08-08
-last_updated: 2026-10-02
+last_updated: 2026-10-18
 ---
 
 # Moganshan yellow bud tea
@@ -106,7 +106,7 @@ Tea gets poured here in every month. What the season changes is whether the cup 
 
 ## Where to drink it
 
-There is no tea house here in the sense a visitor expects, with a door, an opening time and a menu. If another page hands you a name, check whether it gives a street and an opening time too. Most do not.
+A few places now serve it under their own name, a tea and book space at the foot of the mountain and a tea café in Hecun village among them, though none publishes its hours. [Mogan Huangya](/things-to-do/mogan-huangya/) lists them, and explains why the tea in your glass may well be green.
 
 Your guesthouse is the answer that works. About 1,000 of them ring the foot of the mountain, roughly 80 percent individually owned, and tea gets poured on arrival at almost all of them. The person pouring it is your best source here.
 
