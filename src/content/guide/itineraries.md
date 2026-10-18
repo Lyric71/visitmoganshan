@@ -12,7 +12,7 @@ image_alt: A rail map, a pen and a cup of green tea on a table, with the route t
 word_count: 1457
 author: echo-peng
 published: 2026-08-06
-last_updated: 2026-10-05
+last_updated: 2026-10-19
 ---
 
 # Moganshan itineraries
@@ -88,7 +88,7 @@ A night fixes most of that. One night is a big jump for a small cost. It adds li
 
 ## Two nights: our recommended Moganshan itinerary
 
-Two nights costs the same total travel as a day trip, spread over three days. Call it a two-day itinerary with a travel day at each end. You get two mornings, and mornings are when the bamboo paths are worth walking. Forest cover runs over 92 percent, nearly all moso bamboo, grown and cut as a crop.
+Two nights costs the same total travel as a day trip, spread over three days. Call it a two day itinerary with a travel day at each end. You get two mornings, and mornings are when the bamboo paths are worth walking. Forest cover runs over 92 percent, nearly all moso bamboo, grown and cut as a crop.
 
 ![Mist burning off a bamboo valley seen from a guesthouse balcony with a chair and cup](/images/guide/itineraries-3.webp 'Two nights buys one unhurried morning, which is the single thing a day trip can never contain.')
 
@@ -96,7 +96,7 @@ Two nights costs the same total travel as a day trip, spread over three days. Ca
 |---|---|---|
 | One | Travel from Shanghai or Hangzhou | Check in, then the villa streets and Sword Pond |
 | Two | Early bamboo walk, before the centres get busy | Luhuadang Park or Dakeng, a second village, or the Bai and Yun Art Museum |
-| Three | One more early walk | Out on a late-morning train |
+| Three | One more early walk | Out on a late morning train |
 
 It also opens up the map. A day trip reaches one village; two nights can reach three.
 
@@ -108,6 +108,8 @@ It also opens up the map. A day trip reaches one village; two nights can reach t
 | Houwu | 30 minutes west of Yucun | Quiet. One of the three transfer centres |
 
 If that is your Saturday and Sunday, the [weekend from Shanghai](/itineraries/weekend-from-shanghai/) page has it. Picking a village is covered on [where to stay](/where-to-stay/).
+
+Thinking of pairing it with Anji, the bamboo county next door? [Moganshan vs Anji](/itineraries/moganshan-vs-anji/) compares the two and says what doing both takes.
 
 ## Three nights: when the extra day pays
 

@@ -4,7 +4,7 @@ slot: 18
 publish_date: 2026-11-04
 pillar: P7
 pillar_name: "Trip design and comparisons"
-title: "Moganshan vs Anji: two bamboo mountains, one weekend"
+title: "Moganshan vs Anji: one bamboo mountain, one bamboo county"
 url: /itineraries/moganshan-vs-anji/
 output_file: output/moganshan-vs-anji.md
 guide_file: src/content/guide/itineraries-moganshan-vs-anji.md
@@ -18,7 +18,7 @@ template: comparison
 status: not_started
 ---
 
-# BRIEF 018: Moganshan vs Anji: two bamboo mountains, one weekend
+# BRIEF 018: Moganshan vs Anji: one bamboo mountain, one bamboo county
 
 Run with the house `createarticle` skill. Read `../CLAUDE.md` and `../SPEC.md`
 first. They override any conflicting rule inside the skill.
@@ -37,7 +37,7 @@ first. They override any conflicting rule inside the skill.
 |---|---|
 | Slot | 18 of 122, publishes 4 Nov 2026 (Wed) |
 | Pillar | P7, Trip design and comparisons |
-| Working H1 | Moganshan vs Anji: two bamboo mountains, one weekend |
+| Working H1 | Moganshan vs Anji: one bamboo mountain, one bamboo county |
 | URL | `/itineraries/moganshan-vs-anji/` (default, move it by editing `url` in the draft) |
 | Output file | `output/moganshan-vs-anji.md` |
 | Published file | `src/content/guide/itineraries-moganshan-vs-anji.md` |
@@ -53,7 +53,7 @@ first. They override any conflicting rule inside the skill.
 
 ## The angle
 
-> TOP COMPARISON TARGET. Frommer's bundles them and nobody actually compares them.
+> TOP COMPARISON TARGET. Frommer's bundles them and nobody actually compares them. Anji is a county, not a mountain: its station is in the north at Tianzihu, 47 km by road from the Bamboo Sea, and the Chinese pair guides at the top of the search are AI written template pages (research 18 Oct 2026).
 
 ## Chinese sources named in the calendar
 

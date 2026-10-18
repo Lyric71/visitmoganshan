@@ -756,10 +756,10 @@ CN sources: TripAdvisor complaints; 当旅网 黑车 warnings
 CN sources: 新华网 问茶莫干山; 德清新闻网 茶王赛  
 > Tea retailers own this SERP with zero travel content. Links from Seven Cups, Leaves of Cha etc.
 
-**18 · 4 Nov · P7 Compare** · Moganshan vs Anji: two bamboo mountains, one weekend  
+**18 · 4 Nov · P7 Compare** · Moganshan vs Anji: one bamboo mountain, one bamboo county  
 `moganshan vs anji` · 1,900w · `go/stays-all`  
 CN sources: Chinese guides treating them as a pair  
-> TOP COMPARISON TARGET. Frommer's bundles them and nobody actually compares them.
+> TOP COMPARISON TARGET. Frommer's bundles them and nobody actually compares them. Anji is a county, not a mountain: its station is in the north at Tianzihu, 47 km by road from the Bamboo Sea, and the Chinese pair guides at the top of the search are AI written template pages (research 18 Oct 2026).
 
 **19 · 7 Nov · P5 History** · Villa 62 and its maple: how old is the tree?  
 `moganshan villas / villa 62 moganshan` · 1,300w · no affiliate  

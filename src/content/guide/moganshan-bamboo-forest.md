@@ -12,7 +12,7 @@ image_alt: A narrow earth track running between dense moso bamboo culms in the M
 word_count: 1455
 author: liyan-ye
 published: 2026-08-05
-last_updated: 2026-10-02
+last_updated: 2026-10-19
 ---
 
 # The bamboo forest at Moganshan
@@ -29,7 +29,7 @@ Moso (毛竹, maozhu) is the big timber bamboo of eastern China. Stems thick eno
 
 ![Thick pale green moso bamboo culms growing close together, bare of branches at eye level](/images/guide/moganshan-bamboo-forest-2.webp 'Moso is timber bamboo. The stems fill a hand, and the leaves are all thirty metres above you.')
 
-The result is a strange kind of woodland. Most of the volume above you is empty. The green is up in the canopy, the trunks are bare poles, and at ground level you can often see a long way between them. Sunlight arrives already colored.
+The result is a strange kind of woodland. Most of the volume above you is empty. The green is up in the canopy, the trunks are bare poles, and at ground level you can often see a long way between them. Sunlight arrives already coloured.
 
 ## It is a crop, not a park
 
@@ -43,15 +43,15 @@ Farmers cut the poles and dig the shoots, and both are sold. So the forest looks
 
 ## What it looks and sounds like
 
-The sound is the part people remember. Moso stands are dense and tall, so wind does not pass through them quietly. On a breezy day the whole slope creaks and knocks above your head, and the noise moves across the hillside like weather. Standing still for two minutes is worth more than another kilometer of walking.
+The sound is the part people remember. Moso stands are dense and tall, so wind does not pass through them quietly. On a breezy day the whole slope creaks and knocks above your head, and the noise moves across the hillside like weather. Standing still for two minutes is worth more than another kilometre of walking.
 
-The look changes with the weather more than with the season, because bamboo does not turn color and drop. Summer is deep shade and heavy green. The mountain averages 24.1 °C through July and August, which is 6 to 7 °C cooler than Shanghai and Hangzhou, and the forest is the reason. Winter thins the feel of the place without changing the color. January averages 1.4 °C, close to freezing, and the mountain empties out.
+The look changes with the weather more than with the season, because bamboo does not turn colour and drop. Summer is deep shade and heavy green. The mountain averages 24.1 °C through July and August, which is 6 to 7 °C cooler than Shanghai and Hangzhou, and the forest is the reason. Winter thins the feel of the place without changing the colour. January averages 1.4 °C, close to freezing, and the mountain empties out.
 
 Rain and low cloud are not a lost day here. Grey light suits bamboo better than hard sun does. The [weather page](/moganshan/weather/) has the monthly detail.
 
 ## When the light is best
 
-Early morning and the last hour or so before sunset. In a dense stand, midday sun comes almost straight down and gives you blown-out gaps and black shadow in the same frame, which is a hard thing to photograph and a slightly unpleasant thing to walk in.
+Early morning and the last hour or so before sunset. In a dense stand, midday sun comes almost straight down and gives you blown out gaps and black shadow in the same frame, which is a hard thing to photograph and a slightly unpleasant thing to walk in.
 
 Overcast days are the reliable ones. The canopy softens the light and the whole path goes green.
 
@@ -81,6 +81,8 @@ Many visitors arrive with a picture in their head from a famous grove on a tour 
 
 Those places are usually short, groomed and singular: a lane you walk down, photograph, and finish. Moganshan is a working forest spread across a whole mountain, with roads and houses in it and farmers in it, and no single spot where the bamboo officially happens. That is better if you want to spend a day inside it and worse if you want one guaranteed frame in twenty minutes.
 
+If the picture in your head is the bamboo fight in Crouching Tiger, Hidden Dragon, that was shot in Anji, the next county west. [Moganshan vs Anji](/itineraries/moganshan-vs-anji/) sets the two side by side.
+
 ## Month by month
 
 | Month | What the bamboo is doing | How busy |
@@ -94,14 +96,12 @@ Those places are usually short, groomed and singular: a lane you walk down, phot
 | July | Deep shade. July and August mean 24.1 °C, 6 to 7 °C cooler than the cities | Peak season |
 | August | Same, and the historic reason the hill station exists | Peak season |
 | September | Heat starts to ease, light lengthens | Busy weekends |
-| October | Clear late-autumn light, the best walking month for many people | National Day Golden Week is the other spike |
+| October | Clear late autumn light, the best walking month for many people | National Day Golden Week is the other spike |
 | November | Cool, clear, low sun in the stands | Quieter, good value |
 | December | Cold and empty | Quiet |
 
 > Temperature means, seasonal patterns and holiday demand, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-The two Golden Weeks are worth taking seriously. High-end guesthouse occupancy hit 94 percent over the May 2024 holiday. During National Day 2025, daily footfall in Yucun ran 30 to 40 percent above normal. The weekday and weekend split is severe here all year, and Mondays are notably quiet.
+The two Golden Weeks are worth taking seriously. High end guesthouse occupancy hit 94 percent over the May 2024 holiday. During National Day 2025, daily footfall in Yucun ran 30 to 40 percent above normal. The weekday and weekend split is severe here all year, and Mondays are notably quiet.
 
-At those peaks, the main paths through the bamboo are busy in the ordinary Chinese-holiday sense: continuous, loud, and queued at the photogenic points. The forest is big enough to absorb it if you walk twenty minutes off the obvious route. Most people do not. The [seasons guide](/seasons/) sets out the calendar properly.
-
-*Temperature figures, holiday occupancy data and transfer center hours last checked 5 August 2026. Ticket prices vary between sources and should be confirmed at booking.*
+At those peaks, the main paths through the bamboo are busy in the ordinary Chinese holiday sense: continuous, loud, and queued at the photogenic points. The forest is big enough to absorb it if you walk twenty minutes off the obvious route. Most people do not. The [seasons guide](/seasons/) sets out the calendar properly.

@@ -2053,6 +2053,168 @@ primary research, <dates>". -->
 * 三吴图会 on NetEase (March 2025): promotional, not used.
 * Deqing News, 24 September 2026 (the fourth yellow tea conference): passed check 1 and check 2 on 17 October 2026 but was not needed in the piece.
 
+### Anji's bamboo area, 2024, and the moso under transfer contracts
+* Value: Anji has about 1 million mu of bamboo (约100万亩, roughly 670 km²); 840,000 mu of moso put under land use transfer contracts (流转签约毛竹林84万亩); bamboo industry output RMB 18.028 billion in 2023
+* As of: August 2024
+* Source: Xinhua (新华网), reporters 朱涵 and 郑可意
+* Tier: 2
+* URL: https://www.news.cn/digital/20240815/6c532d66e1914ebaa1abfd9f48432e99/c.html
+* Verified 1: 2026-10-18 (page fetched; 约100万亩, 84万亩, 180.28亿元 and 2024 08/15 present)
+* Verified 2: 2026-10-18 (fetched again in a separate run; the same strings present)
+* Shelf life: semi-stable, 6 months
+* Used in: moganshan-vs-anji
+* Notes: disagrees with the 1.08 million mu of 2025 below; the piece prints both. The km² figure is our conversion (1 mu = 666.7 m²). The 840,000 mu are the transfer contracts, not a carbon scheme as such; the carbon work is reported alongside.
+
+### Anji's bamboo area, 2025
+* Value: 1.08 million mu of bamboo (108万亩), roughly 720 km²
+* As of: August 2025
+* Source: People's Daily Overseas Edition (人民日报海外版), reprinted by the National Forestry and Grassland Administration (国家林业和草原局)
+* Tier: 2
+* URL: https://www.forestry.gov.cn/lyj/1/gglcy/20250820/638999.html
+* Verified 1: 2026-10-18 (page fetched; 108万亩, 来源：人民日报海外版, 2025-08-20 present)
+* Verified 2: 2026-10-18 (fetched again; the same strings present)
+* Shelf life: semi-stable, 6 months
+* Used in: moganshan-vs-anji
+* Notes: logged as a disagreement with Xinhua, 15 August 2024.
+
+### Anji's Bamboo Sea as the Crouching Tiger location, and the bamboo county
+* Value: Anji is the China bamboo county (中国竹乡); its Bamboo Sea (中国大竹海) was the outdoor location for 《卧虎藏龙》 and 《像雾像雨又像风》; the bamboo expo park (竹博园); headline 安吉：卧虎藏龙的中国竹乡
+* As of: August 2013
+* Source: People's Daily Digest (人民文摘, of 人民日报), by 龙泓全
+* Tier: 2
+* URL: http://paper.people.com.cn/rmwz/html/2013-08/01/content_1295217.htm
+* Verified 1: 2026-10-18 (中国竹乡, 外景拍摄地中国大竹海, 《卧虎藏龙》, 竹博园, 2013-08-01 present)
+* Verified 2: 2026-10-18 (fetched again; present)
+* Shelf life: evergreen
+* Used in: moganshan-vs-anji
+
+### Anji station opened, 28 June 2020
+* Value: the Shangqiu to Hefei to Hangzhou line opened in full on 28 June 2020, giving Anji its first railway
+* As of: June 2020
+* Source: People's Daily Online Zhejiang (人民网 浙江频道)
+* Tier: 2
+* URL: http://zj.people.com.cn/n2/2020/0628/c186327-34116471.html
+* Verified 1: 2026-10-18 (page fetched and decoded as GB2312; 安吉结束无铁路的历史, 2020年06月28日 present)
+* Verified 2: 2026-10-18 (fetched again; present)
+* Shelf life: evergreen
+* Used in: moganshan-vs-anji
+
+### Hangzhou to Anji in 40 minutes, and where Anji station stands
+* Value: Hangzhou to Anji 40 minutes on the opening day (40分钟到安吉); the station 3.5 km from Tianzihu town (天子湖镇) and 24 km from the county town
+* As of: June 2020
+* Source: Hangzhou Net (杭州网), from Dushi Kuaibao (都市快报)
+* Tier: 2
+* URL: https://hznews.hangzhou.com.cn/chengshi/content/2020-06/29/content_7764060.htm
+* Verified 1: 2026-10-18 (40分钟到安吉, 距离天子湖镇3.5公里，距离安吉县城24公里, 2020-06-29 present)
+* Verified 2: 2026-10-18 (fetched again; present)
+* Shelf life: the distances evergreen; the journey time semi-stable, 6 months, and it is an opening day figure
+* Used in: moganshan-vs-anji
+
+### Shanghai Hongqiao to Anji: the first train, and the promised hour
+* Value: the Shanghai to Suzhou to Huzhou high speed line opened 26 December 2024; its first train left Hongqiao at 10:00 and reached Anji at 11:32 (92 minutes); Anji to Shanghai, over two hours before, "shortened to about one hour" (1小时左右)
+* As of: December 2024
+* Source: China Daily Zhejiang (中国日报网), 陈烨
+* Tier: 2
+* URL: https://zj.chinadaily.com.cn/a/202412/27/WS676e1112a310b59111dab20f.html
+* Verified 1: 2026-10-18 (10:00从上海虹桥站出发，11:32抵达湖州安吉站, 1小时左右 present)
+* Verified 2: 2026-10-18 (fetched again; present)
+* Shelf life: semi-stable, 6 months
+* Used in: moganshan-vs-anji
+* Notes: no daily train count found at any tier; the piece says so. The Beijing News, 27 December 2024 (https://www.bjnews.com.cn/detail/1735267595168415.html), gives Hongqiao to Huzhou in 55 minutes at the fastest and the 164 km line; verified 1 and 2 on 18 October 2026 (the second fetch failed once with a network error and passed on retry), cut from the piece for length and not cited.
+
+### The Cloud Grassland: altitude, summer temperatures, prices
+* Value: the Cloud Grassland (云上草原) resort at Shanchuan (山川乡), 1,168 m; about an hour and a half by car west of Hangzhou; the summit usually feels 5 to 6 °C cooler than Hangzhou in summer (体感温度); a cliff park of more than 30 high rides (30余项); skiing in winter; per published fares, non snow season adult entry RMB 180, cableway RMB 180 return or RMB 120 single, child 1.2 to 1.5 m RMB 90 entry and RMB 140 cableway
+* As of: June 2026
+* Source: Eastday (东方网), on China Daily's finance channel
+* Tier: 2, with a note: the prices are the paper's reading of public fares (根据公开票价信息), not a ticket office notice
+* URL: https://caijing.chinadaily.com.cn/a/202606/25/WS6a3cbecfa310d709c2fba050.html
+* Verified 1: 2026-10-18 (1168米, 一个半小时, 5-6℃, 往返180元, 门票180元, 90元, 140元, 30余项, 冬滑雪, 来源：东方网 2026-06-25 present)
+* Verified 2: 2026-10-18 (fetched again; every string present)
+* Shelf life: volatile, 3 months for the prices; the altitude evergreen
+* Used in: moganshan-vs-anji
+
+### Anji by car from Hangzhou, and its village cafés, October 2026
+* Value: Anji about an hour and a half by car from Hangzhou (约一个半小时车程); more than 300 village cafés (300多家村咖), per the deputy head of the county's culture, tourism and sports bureau (副局长 叶明珠)
+* As of: October 2026
+* Source: Xinhua (新华网)
+* Tier: 2
+* URL: https://www.news.cn/politics/20261008/8c9efc40e56f43b98be9df334cc7aa4d/c.html
+* Verified 1: 2026-10-18 (约一个半小时车程, 300多家, 副局长, 2026 10/08 present)
+* Verified 2: 2026-10-18 (fetched again; present)
+* Shelf life: semi-stable, 6 months
+* Used in: moganshan-vs-anji
+
+### Anji Bamboo Sea gate ticket, 2021
+* Value: RMB 58; the Bamboo Sea a 4A scenic area
+* As of: February 2021
+* Source: Tencent News (腾讯新闻), creator 骑在牛背上
+* Tier: 3
+* URL: https://news.qq.com/rain/a/20210214A07OG200
+* Verified 1: 2026-10-18 (门票58元, 4A, 2021-02-14 present)
+* Verified 2: 2026-10-18 (fetched again; present)
+* Shelf life: volatile, 3 months, on a figure already five years old
+* Used in: moganshan-vs-anji
+* Notes: no tier 1 or 2 price found; OTA pages (Ctrip, Tongcheng, Tuniu, Qunar) never used for a price; Huzhou Bendibao's RMB 45 page has no date. Printed with its date as a reported figure.
+
+### Anji Bamboo Sea glass walkway, 2020
+* Value: RMB 80 a person
+* As of: May 2020
+* Source: Tencent News (腾讯新闻), creator 小飛俠Finn
+* Tier: 3
+* URL: https://news.qq.com/rain/a/20200523A0MTVP
+* Verified 1: 2026-10-18 (80元每人, 2020-05-24 present)
+* Verified 2: 2026-10-18 (fetched again; present)
+* Shelf life: volatile, 3 months, on a figure six years old
+* Used in: moganshan-vs-anji
+
+### Road distances between Moganshan and Anji (our own measurement)
+* Value: by road, Yucun to the Bamboo Sea 49.0 km; Yucun to Anji station 48.8 km; Anji station to the Bamboo Sea 47.3 km; Yucun to Anji county town 29.4 km; Deqing station to Yucun 18.4 km
+* As of: 18 October 2026
+* Source: BeyondBorder Group Ltd desk research: places located with OpenStreetMap Nominatim (庾村 30.6029, 119.8913; 安吉站 30.8183, 119.6057; 中国大竹海 30.4881, 119.6533; 德清站 30.5470, 120.0561; the 安吉 county town point 30.6214, 119.7250), routes from the public OSRM router
+* Tier: own work
+* Verified 1: 2026-10-18 (first run)
+* Verified 2: 2026-10-18 (second run; identical to 0.1 km)
+* Shelf life: semi-stable, 6 months
+* Used in: moganshan-vs-anji
+* Notes: distances only. The router's drive times (37 to 48 minutes) are not printed: they ignore mountain roads, traffic and the car rule. Nobody drove the routes.
+
+### Frommer's files the two as one destination
+* Value: Frommer's online guide lists one destination, "Anji and Moganshan" (frommers.com/destinations/anji-and-moganshan/), with its attractions, hotels and planning pages under it
+* As of: 18 October 2026
+* Source: BeyondBorder Group Ltd desk research, English web searches
+* Tier: own work
+* Verified 1: 2026-10-18 (search "Frommer's Moganshan Anji bamboo")
+* Verified 2: 2026-10-18 (search "Frommer's Anji and Moganshan destination"; the same destination and title "Anji and Moganshan Travel Guide 2026")
+* Shelf life: volatile, 3 months
+* Used in: moganshan-vs-anji
+* Notes: the page itself returns HTTP 403 to curl and to WebFetch, so nothing from its text is used.
+
+### The Chinese guides that pair Moganshan and Anji
+* Value: of the first nine results for 莫干山 安吉 两日游 攻略 竹海 区别, five were Sina or Weibo pages in the "实测 ... +FAQ" template; the two opened end "本文由AI生成" (k.sina.com.cn/article_7879922979_1d5ae1523068024uco.html, updated 17 October 2026) and "内容由AI生成" (k.sina.cn/article_7879996882_1d5af35d206801zdgi.html, 26 September 2026)
+* As of: 18 October 2026
+* Source: BeyondBorder Group Ltd desk research
+* Tier: own work
+* Verified 1: 2026-10-18 (search run and both pages read)
+* Verified 2: 2026-10-18 (both pages fetched again; both notices and 实测 present)
+* Shelf life: volatile, 3 months
+* Used in: moganshan-vs-anji
+* Notes: the same Sina content farm the news layer's noise list drops (news/sources.json). Never a source for a fact.
+
+### Reuse for moganshan-vs-anji
+* Value: Moganshan gate RMB 80 and transfer coach RMB 35 return (Huzhou Bendibao, 21 September 2023, tier 3); loop bus RMB 15 (Youxiake, 22 June 2020, tier 3); nearly 900 licensed guesthouses (Xinhua Zhejiang, 29 September 2026, tier 2); the car rule 08:00 to 17:30 (Tide News, 4 December 2025, tier 2); the three transfer centres (Deqing News, 30 September 2019, tier 2); Anji's 余村 (Ministry of Culture and Tourism, 2 December 2021, tier 1); the Deqing trains, Y1 shuttle, taxi, forest cover, villas and scenic area size (BeyondBorder Group Ltd primary research, 1 to 5 August 2026, as printed on the transport and bamboo pages)
+* Verified 1: 2026-10-18 (every URL fetched; 80元/张, 35元/人往返, 15元/人, 900家合规民宿, 2018年11月30日 with 17：30, 庾村 筏头 后坞, 余村 最佳旅游乡村 present)
+* Verified 2: 2026-10-18 (each fetched again in a separate run; present)
+* Used in: moganshan-vs-anji
+* Notes: all were already in shelf life; fetched twice anyway because the piece leans on them.
+
+### Not usable, 18 October 2026
+* anji.gov.cn art/2024/12/27/art_1229211475_58932669.html (安吉⇆上海，说走就走), huzhou.gov.cn art_65c3fb3a58f34d31a4969946f3fee614 (安吉9条旅游专线, 2026), deqing.gov.cn art/2015/8/4/art_1229213469_54860824.html (Moganshan town, 5.8万亩 of bamboo), deqing.gov.cn art/2024/12/27/art_1229212604_59081210.html (the rail opening), whgdlyj.huzhou.gov.cn art/2017/9/2/art_1229209634_54597902.html (Moganshan profile): failed to curl, timed out at 300 seconds in WebFetch. Watch row in source-tiers.md.
+* sohu.com/a/1017153826_121106994 (the nine free bus lines, 1 May 2026): a self media copy, tier 4; not used.
+* frommers.com page text: HTTP 403.
+* huzhou.bendibao.com/jingdian/zhongguodazhuhai/price/ (Bamboo Sea RMB 45): no date; not a source.
+* zj.news.cn/20250627 (Anji's guesthouse count): certificate error to WebFetch and a failed fetch to Node; not read.
+* Beijing Daily, 14 October 2025 (Anji's 2024 visitors): a county figure, excluded by the visitor numbers rule.
+
 ## Retired
 
 <!-- Entries past their shelf life that were replaced. Kept for the record. -->
