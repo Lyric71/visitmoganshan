@@ -3,43 +3,6 @@
   "runs": [
     {
       "kind": "publish",
-      "started": "2026-09-26T06:55:57.484Z",
-      "finished": "2026-09-26T06:55:57.519Z",
-      "outcome": "skipped",
-      "skipReason": "nothing ready"
-    },
-    {
-      "kind": "publish",
-      "started": "2026-09-27T00:40:03.137Z",
-      "finished": "2026-09-27T00:40:03.182Z",
-      "outcome": "skipped",
-      "skipReason": "nothing ready"
-    },
-    {
-      "kind": "sweep",
-      "started": "2026-09-27T00:40:04.090Z",
-      "outcome": "skipped",
-      "skipReason": "gate",
-      "finished": "2026-09-27T00:40:04.107Z",
-      "durationMs": 17
-    },
-    {
-      "kind": "publish",
-      "started": "2026-09-27T00:49:12.901Z",
-      "finished": "2026-09-27T00:49:12.939Z",
-      "outcome": "skipped",
-      "skipReason": "nothing ready"
-    },
-    {
-      "kind": "sweep",
-      "started": "2026-09-27T00:49:13.944Z",
-      "outcome": "skipped",
-      "skipReason": "gate",
-      "finished": "2026-09-27T00:49:13.969Z",
-      "durationMs": 25
-    },
-    {
-      "kind": "publish",
       "started": "2026-09-27T04:00:04.660Z",
       "finished": "2026-09-27T04:00:04.700Z",
       "outcome": "skipped",
@@ -886,6 +849,73 @@
         "/journal/news/2026/10/women-only-winter-trail-race-on-13-december"
       ],
       "durationMs": 157437
+    },
+    {
+      "kind": "publish",
+      "started": "2026-10-16T04:00:10.758Z",
+      "finished": "2026-10-16T04:00:10.937Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "publish",
+      "started": "2026-10-17T04:00:05.164Z",
+      "finished": "2026-10-17T04:00:05.241Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "publish",
+      "started": "2026-10-18T04:00:14.268Z",
+      "finished": "2026-10-18T04:00:14.500Z",
+      "outcome": "skipped",
+      "skipReason": "nothing ready"
+    },
+    {
+      "kind": "sweep",
+      "started": "2026-10-19T00:00:04.061Z",
+      "outcome": "success",
+      "sourcesQueried": 22,
+      "candidates": 35,
+      "newCandidates": 14,
+      "unreachable": [
+        "deqing-gov",
+        "huzhou-cts",
+        "zj-cts",
+        "huzhou-gov"
+      ],
+      "errors": [
+        "meadin: 酒店频道: anti bot challenge page (8234 bytes), open it in a browser instead",
+        "deqing-gov: 公告公示: timeout after 12000 ms",
+        "deqing-gov: 德清要闻 A: timeout after 12000 ms",
+        "deqing-gov: 德清要闻 B: timeout after 12000 ms",
+        "deqing-gov: 莫干山镇: timeout after 12000 ms",
+        "deqing-gov: 文广旅体局: timeout after 12000 ms",
+        "hangzhou-daily: 杭州日报数字报: anti bot challenge page (90 bytes), open it in a browser instead",
+        "huzhou-cts: 工作动态: timeout after 12000 ms",
+        "huzhou-cts: 政策文件: timeout after 12000 ms",
+        "zj-cts: 浙江文旅: fetch failed",
+        "zj-cts: 政务公开: fetch failed",
+        "zj-cts: 浙江省旅游度假区: fetch failed",
+        "huzhou-gov: 湖州要闻 德清: fetch failed",
+        "huzhou-gov: 交通运输局: timeout after 12000 ms"
+      ],
+      "triage": "editorial/news/triage/2026-10-19.md",
+      "finished": "2026-10-19T00:05:08.059Z",
+      "durationMs": 303998
+    },
+    {
+      "kind": "publish",
+      "started": "2026-10-19T00:22:22.013Z",
+      "finished": "2026-10-19T00:33:26.050Z",
+      "outcome": "success",
+      "slugs": [
+        "laoling-tea-farm-cafe-lets-visitors-make-tea"
+      ],
+      "paths": [
+        "/journal/news/2026/10/laoling-tea-farm-cafe-lets-visitors-make-tea"
+      ],
+      "durationMs": 664040
     }
   ]
 }
