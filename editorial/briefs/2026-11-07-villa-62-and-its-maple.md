@@ -52,7 +52,7 @@ first. They override any conflicting rule inside the skill.
 
 ## The angle
 
-> Ties history to the autumn traffic. The 'little Kyoto' shot. The age is disputed, so the piece publishes the dispute: a 2021 Tencent trip account says more than 500 years; Tide News (Dec 2025) calls it a hundred year maple and puts the 'king of maples' at No. 274; the bureau says the oldest of its 10,000+ maples is over 500 but names no tree. Never state the Villa 62 tree is 500 years old. Link /seasons/moganshan-red-leaves/, which already sets out the three accounts.
+> Ties history to the autumn traffic. The 'little Kyoto' shot: the 2021 Tencent writer placed the existing nickname in the Villa 62 garden, he did not coin it. The age is disputed, so the piece publishes the dispute: a 2021 Tencent trip account says more than 500 years; Tide News (18 Nov 2025) calls it a hundred year maple and puts the 'king of maples' at No. 274; the bureau says the oldest of its 10,000+ maples is over 500 but names no tree; the guesthouse now in the villa says its two maples are over 500 'according to the owner' (its own listing, tier 4). Zhejiang's 2017 ancient tree measures make 500 years the grade 1 line, confirmed by the province. Never state the Villa 62 tree is 500 years old. The 1934 date and owner on Chinese Wikipedia rest on a book that cannot be checked; do not print them (research 19 Oct 2026). Link /seasons/moganshan-red-leaves/, which sets out the first three accounts.
 
 ## Chinese sources named in the calendar
 

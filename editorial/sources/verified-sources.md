@@ -871,6 +871,68 @@ checks. -->
 
 ## History and culture (evergreen)
 
+### Zhejiang ancient tree grades (浙江省古树名木保护办法)
+* Value: an ancient tree (古树) is a tree assessed by law at 100 years or more; grade 1 from 500 years (assessed by the county, confirmed by the province), grade 2 from 300 to under 500 (confirmed by the city), grade 3 from 100 to under 300 (county); catalogues filed with the province and published (目录及时向社会公布); one file per tree recording position, features, age, environment, growth and protection (一树一档); protection signs required; protected zone at least 5, 3 and 2 m beyond the crown; in a scenic area the management unit is the custodian, in a private courtyard the owner
+* As of: decree 356, published 7 July 2017, in force 1 October 2017
+* Source: Zhejiang Provincial People's Government (浙江省人民政府), on the central government portal (中国政府网)
+* Tier: 1
+* URL: https://www.gov.cn/zhengce/2021-12/27/content_5719221.htm
+* Verified 1: 2026-10-19 (第三条, 第八条 (一) to (四), 第九条 一树一档, 第十条 保护标志 and 5, 3, 2 米, 第十一条 风景名胜区 and 居民私人庭院 present)
+* Verified 2: 2026-10-19 (fetched again with a Safari user agent: 2017年7月7日, 2017年10月1日起施行, all three grade lines, 不小于树冠垂直投影外5米, 普查, 一树一档, 保护标志, 居民私人庭院 present)
+* Shelf life: evergreen while the measures stand; check for a revision at the yearly evergreen pass
+* Used in: villa-62-and-its-maple
+
+### How tree ages are measured, and the error
+* Value: methods in use are estimates from documents and interviews (文献资料、人物访谈), ring counts, needle resistance, CT, carbon 14, the increment borer, age curves and ring and diameter regression; each has limits and leaves error; the administration's research targets put the error under 25, 20 and 15 percent for grade 1, 2 and 3 trees; said by Liu Lili (刘丽莉), deputy director of the ecology department, at the 25 January 2024 briefing
+* As of: 5 March 2024
+* Source: National Forestry and Grassland Administration (国家林业和草原局) website, from Beijing News (新京报)
+* Tier: 1 (the administration's own site carrying its own official's briefing)
+* URL: https://www.forestry.gov.cn/c/www/zhzs/548184.jhtml
+* Verified 1: 2026-10-19 (page dated 2024-03-05; 刘丽莉, 人物访谈, 生长锥, 14C, 误差, 25%, 20%和15% present)
+* Verified 2: 2026-10-19 (fetched again with a Safari user agent, all present)
+* Shelf life: evergreen as a dated statement; the 25 percent is a target, never a measured error
+* Used in: villa-62-and-its-maple
+
+### The Moganshan villa group, a national key protected site
+* Value: 莫干山别墅群, No. 949 (Ⅴ－76) of 1,080 in the sixth batch of national key cultural relics protection units, period 清至民国, Deqing County; State Council notice 国发〔2006〕19号 dated 25 May 2006, published 9 June 2006
+* As of: 25 May 2006
+* Source: State Council (国务院), on the Ministry of Culture and Tourism site (文化和旅游部)
+* Tier: 1
+* URL: https://zwgk.mct.gov.cn/zfxxgkml/qt/202012/t20201206_918486.html
+* Verified 1: 2026-10-19 (949 Ⅴ－76 莫干山别墅群 清至民国 浙江省德清县, 共计1080处, 国发〔2006〕19号 present)
+* Verified 2: 2026-10-19 (fetched again, plus 二○○六年五月二十五日)
+* Shelf life: evergreen
+* Used in: villa-62-and-its-maple
+* Notes: the notice lists the group, not its houses. That Villa 62 belongs to it rests on the China News Service caption of 13 November 2024 (全国重点文物保护单位莫干山别墅群—62号别墅的红枫), tier 2, verified twice on 19 October 2026.
+
+### The guesthouse in Villa 62, as it describes itself
+* Value: 莫干山枫鹃谷忘山别墅 (Wangshan Villa, Trip.com hotelId 4365265) at 莫干山风景区内62号别墅; "two big maples, the owner says more than 500 years old" (园中两棵网红大红枫，据主人透露树龄已经500多岁); old villa built in the 1930s; seven rooms plus six in an annex, more than 30 guests; local dishes and afternoon tea in the garden; by the Huating car park (华厅停车场), five minutes down to the Sword Pond; opened 2014, renovated 2017
+* As of: read 19 October 2026 (the listing carries no publication date; its own years are 2014 and 2017)
+* Source: the property's description on ezTravel (易遊網), a Taiwanese booking site carrying the Ctrip text; Ctrip's own page (m.ctrip.com/html5/hotel/hoteldetail/4365265.html) confirms 62号别墅, 民国别墅 and 2017年装修
+* Tier: 4, as the property says; never as fact
+* URL: https://hotel.eztravel.com.tw/detail-deqing-1367-4365265/wangshan-villa/
+* Verified 1: 2026-10-19 (據主人透露樹齡已經500多歲, 建於上世紀30年代, 開幕時間： 2014, 裝修時間： 2017, 客房7個, 副樓6個, 30人以上, 下午茶, 華廳停車場 present)
+* Verified 2: 2026-10-19 (fetched again with a Safari user agent, all present)
+* Shelf life: volatile, 3 months; a listing changes without notice
+* Used in: villa-62-and-its-maple
+* Notes: the only source for the "1930s" and for the owner's 500 years; the 1934 date and the owner 黄桂珊 on Chinese Wikipedia (citing 李南 2011, p. 95) could not be checked and are not used.
+
+### The 2021 Tencent writer's "little Kyoto", read exactly
+* Value: the writer places "the so called little Kyoto" in Villa 62's garden: 在62号别墅里的那棵有着500多年历史古枫树，树下有茶座……所谓的"小京都"，大概说的就是这里; he relays the nickname, he does not coin it
+* As of: 5 December 2021
+* Source: Tencent News (腾讯新闻), travel writer 先森不讲李 (the entry under "The 2021 Tencent autumn account" above)
+* Tier: 3
+* URL: https://news.qq.com/rain/a/20211205A08VZZ00
+* Verified 1: 2026-10-01 (as logged above)
+* Verified 2: 2026-10-19 (fetched again with a Safari user agent: 500多年历史古枫树, 树下有茶座, 小京都 present)
+* Shelf life: evergreen as a dated trip account
+* Used in: villa-62-and-its-maple; moganshan-red-leaves, which the publish step corrects to the same reading
+
+### Rechecks for villa-62-and-its-maple, 19 October 2026
+* Value: the Deqing News 13 November 2024 count, the Tide News 18 November 2025 named trees (plus 百年枫韵 for the No. 274 walk, 62号枫鹃谷的漫天红叶 on the shuttle line, 民国风服饰 and the wedding couples), the China News Service 13 November 2024 caption and the 2025 route list (route 4: 荫山街, 208号, 岗头路, 展陈馆, 法韵莫干, 161号, 126号, 华厅, 62号枫鹃谷, 92号颐园) as logged above
+* Verified 2: 2026-10-19 (each fetched again with a Safari user agent; every quoted string present)
+* Used in: villa-62-and-its-maple
+
 ## Our own research
 
 <!-- Desk research only: nobody walks a route or rings a number. One entry

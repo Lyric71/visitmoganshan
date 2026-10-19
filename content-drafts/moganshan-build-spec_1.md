@@ -704,7 +704,7 @@ CN sources: 游侠客; 换乘中心 signage
 **7 · 2 Oct · P6 Seasons** · Moganshan red leaves: where the maples are and when they turn  
 `moganshan autumn / moganshan red leaves` · 1,500w · `go/stays-all`  
 CN sources: 腾讯 秋色红叶攻略; 德清新闻网  
-> Publish 6 weeks before peak. Peak is late November into early December: the festival opened 1 Nov 2023, 12 Nov 2024 and 18 Nov 2025, and in 2025 the best colour arrived in December. Queen's Hotel, Xuguang terrace, Wulingcun, the villa gardens. The bureau counts 10,000+ maples with the oldest over 500 years but names no tree; the Villa 62 '500-year maple' is one 2021 Tencent trip account, and Tide News (Dec 2025) calls the Villa 62 tree a hundred year maple.
+> Publish 6 weeks before peak. Peak is late November into early December: the festival opened 1 Nov 2023, 12 Nov 2024 and 18 Nov 2025, and in 2025 the best colour arrived in December. Queen's Hotel, Xuguang terrace, Wulingcun, the villa gardens. The bureau counts 10,000+ maples with the oldest over 500 years but names no tree; the Villa 62 '500 year maple' is one 2021 Tencent trip account, and Tide News (18 Nov 2025) calls the Villa 62 tree a hundred year maple.
 
 **8 · 5 Oct · P2 Villages** · Xiantan: the guesthouse village, and whether to stay there rather than Yucun  
 `xiantan village moganshan` · 1,600w · `go/stays-village-xiantan`  
@@ -764,7 +764,7 @@ CN sources: Chinese guides treating them as a pair
 **19 · 7 Nov · P5 History** · Villa 62 and its maple: how old is the tree?  
 `moganshan villas / villa 62 moganshan` · 1,300w · no affiliate  
 CN sources: 腾讯 红叶攻略; 武陵村 sources  
-> Ties history to the autumn traffic. The 'little Kyoto' shot. The age is disputed, so the piece publishes the dispute: a 2021 Tencent trip account says more than 500 years; Tide News (Dec 2025) calls it a hundred year maple and puts the 'king of maples' at No. 274; the bureau says the oldest of its 10,000+ maples is over 500 but names no tree. Never state the Villa 62 tree is 500 years old. Link /seasons/moganshan-red-leaves/, which already sets out the three accounts.
+> Ties history to the autumn traffic. The 'little Kyoto' shot: the 2021 Tencent writer placed the existing nickname in the Villa 62 garden, he did not coin it. The age is disputed, so the piece publishes the dispute: a 2021 Tencent trip account says more than 500 years; Tide News (18 Nov 2025) calls it a hundred year maple and puts the 'king of maples' at No. 274; the bureau says the oldest of its 10,000+ maples is over 500 but names no tree; the guesthouse now in the villa says its two maples are over 500 'according to the owner' (its own listing, tier 4). Zhejiang's 2017 ancient tree measures make 500 years the grade 1 line, confirmed by the province. Never state the Villa 62 tree is 500 years old. The 1934 date and owner on Chinese Wikipedia rest on a book that cannot be checked; do not print them (research 19 Oct 2026). Link /seasons/moganshan-red-leaves/, which sets out the first three accounts.
 
 **20 · 10 Nov · P1 Practicals** · eSIM, VPN and data on the mountain: what works in the bamboo  
 `china esim / vpn moganshan` · 1,400w · no affiliate  

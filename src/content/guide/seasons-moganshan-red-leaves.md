@@ -12,7 +12,7 @@ image_alt: Red maple leaves against a green wall of bamboo above a wet stone pat
 word_count: 1659
 author: liyan-ye
 published: 2026-10-02
-last_updated: 2026-10-02
+last_updated: 2026-10-20
 pillar: P6
 slot: 7
 freshness_tier: semi-stable
@@ -205,7 +205,10 @@ title "king of maples" (枫树王) to a tree in the yard of No. 274.
 > (中新网), 18 November 2025, tier 2.
 > https://www.chinanews.com.cn/sh/2025/11-18/9636841.shtml
 
-So there are two candidate trees and three claims about them. To be sure of
+So there are two candidate trees and three claims about them, four counting
+the guesthouse now in Villa 62, which tells its guests that its two maples
+are over 500. [Villa 62 and its maple](/journal/villa-62-and-its-maple/) sets
+out every account and what Zhejiang's rules ask of a 500 year tree. To be sure of
 the oldest, see both, from the path if the gate is shut.
 
 ![A thick old maple trunk with moss and a spread of red leaves overhead, a couple of folding tables and stools under it, seen from a garden path](/images/guide/moganshan-red-leaves-3.webp 'Several of the old trees stand in villa gardens, and some of those villas are hotels now. Look from the path unless a gate is open.')
@@ -249,8 +252,8 @@ Street.
 > festival, Deqing News (德清新闻网), 13 November 2024, tier 2.
 > https://dqnews.zjol.com.cn/dqnews/system/2024/11/13/034801734.shtml
 
-Now the honest part. The 2021 writer called autumn Moganshan a "little Kyoto"
-(小京都). It isn't. Most of the mountain stays green, and the red comes in
+Now the honest part. The 2021 writer placed autumn Moganshan's "little Kyoto"
+(小京都) in the garden of Villa 62. It isn't. Most of the mountain stays green, and the red comes in
 pockets. Two of the 2024 festival photographs were taken from a drone, which
 is how a pocket of red fills a frame. Anyone hoping for a whole hillside on
 fire has picked the wrong mountain. What's on offer is ten thousand maples
