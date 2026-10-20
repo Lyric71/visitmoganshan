@@ -397,6 +397,132 @@ checks. -->
 * Used in: dispatch-2026-40
 * Notes: a station count from the operator via the paper, not a visitor figure.
 
+### SIM cards for foreign visitors: documents and where
+* Value: passport or foreign permanent residence card, at the own halls of China Telecom, China Mobile, China Unicom or China Broadnet; packages bundle calls and data; emergency numbers 110 police, 119 fire, 120 ambulance
+* As of: April 2024
+* Source: Ministry of Commerce (商务部) with other departments, 外国商务人士在华工作生活指引（2024年版）, on the Chinese embassy in South Sudan site
+* Tier: 1
+* URL: https://ss.china-embassy.gov.cn/lsfw/dsdnflxbd/202404/t20240410_11279344.htm
+* Verified 1: 2026-10-20 (curl; 2024-04-10, 商务部会同相关部门汇编, 护照或外国人永久居留身份证, 中国广电, 流量通常是有限的, 请拨打110, 119, 120 present)
+* Verified 2: 2026-10-20 (fetched again by curl, every string present)
+* Shelf life: volatile, 3 months; the guide says it is updated yearly, so check for a later edition
+* Used in: esim-vpn-and-data-on-the-mountain
+* Notes: the 2025 edition exists on consulate sites (Gothenburg PDF, Jinan portal); the Jinan page closed the socket on 20 October 2026
+
+### SIM cards for foreign visitors: phone and number limits
+* Value: own operator halls only (自办营业厅), the holder in person, a 5G or VoLTE phone, at most five active numbers per operator nationwide; hotlines 10000 (China Telecom), 10086 (China Mobile), 10010 (China Unicom)
+* As of: April 2026
+* Source: Tianjin Communications Administration (天津市通信管理局), 外籍来华人员办理电话卡业务指南
+* Tier: 1
+* URL: https://tjca.miit.gov.cn/bsfw/bszn/art/2026/art_4cdc69ee883e409990033d44b49e0fab.html
+* Verified 1: 2026-10-20 (dated 14 April 2026; 外国人永久居留身份证或者护照, 自办营业厅, 支持5G或支持VoLTE制式, 不超过5张, 10000, 10086, 10010 present)
+* Verified 2: 2026-10-20 (fetched again, same)
+* Shelf life: volatile, 3 months
+* Used in: esim-vpn-and-data-on-the-mountain
+* Notes: a provincial branch of MIIT; the rules are national
+
+### Domestic eSIM for phones on sale nationwide
+* Value: eSIM phone service on sale nationwide from China Telecom, China Mobile and China Unicom; opened at a hall, or booked in the app and completed at a hall
+* As of: October 2025
+* Source: Xinhua (新华网)
+* Tier: 2
+* URL: http://www.news.cn/tech/20251014/8a25d52bf5594e36aa812f93e2deec35/c.html
+* Verified 1: 2026-10-20 (2025-10-14 22:27:09, 在全国正式上市销售, 前往营业厅门店办理, APP进行线上预约 present)
+* Verified 2: 2026-10-20 (fetched again, same)
+* Shelf life: volatile, 3 months
+* Used in: esim-vpn-and-data-on-the-mountain
+* Notes: the page does not give the 13 October announcement date; cite October 2025
+
+### China Mobile eSIM: overseas users not supported
+* Value: in person with phone and ID card at a hall; minors, overseas users (境外用户) and agents not supported for now
+* As of: September 2025
+* Source: Jingchu Net (荆楚网), on ctdsb.net
+* Tier: 2
+* URL: https://www.ctdsb.net/c1666_202509/2542773.html
+* Verified 1: 2026-10-20 (2025-09-21, 未成年人、境外用户、代办人暂不支持 present)
+* Verified 2: 2026-10-20 (fetched again, same)
+* Shelf life: volatile, 3 months; watch item filed in source-tiers.md
+* Used in: esim-vpn-and-data-on-the-mountain
+
+### Roaming architectures: home routed and local breakout
+* Value: two roaming models, Local Breakout (LBO) and Home Routed (HR); the user plane interface between visited and home network (N9) is used for HR only
+* As of: October 2024
+* Source: GSMA, NG.113 5GS Roaming Guidelines, version 11.0
+* Tier: 1 (platform documentation)
+* URL: https://www.gsma.com/newsroom/wp-content/uploads/NG.113.v.11.0.pdf
+* Verified 1: 2026-10-20 (PDF text: Version 11.0, October 2024, sections 3.1.1 and 3.1.2, the N9 vUPF to hUPF row marked HR)
+* Verified 2: 2026-10-20 (downloaded again by curl, same strings)
+* Shelf life: evergreen as a description of the architecture
+* Used in: esim-vpn-and-data-on-the-mountain
+* Notes: an English standards document; no Chinese tier 1 or 2 text describing home routing for inbound visitors was found. Huawei's LTE roaming whitepaper is undated and was not used
+
+### Roaming on a foreign SIM reaches home sites: reported experience
+* Value: a US prepaid SIM (Tello) roaming in China asked about reaching US sites without a VPN; reply: roaming traffic returns to the home carrier (漫游流量回传到用户归属运营商处理)
+* As of: July 2025
+* Source: US Card Forum (美卡论坛), post by Delltv, replies by snowboy and others
+* Tier: 3
+* URL: https://www.uscardforum.com/t/topic/413548
+* Verified 1: 2026-10-20 (post 13 July 2025, replies 14 July 2025 present)
+* Verified 2: 2026-10-20 (fetched again, same)
+* Shelf life: reported experience, evergreen as dated
+* Used in: esim-vpn-and-data-on-the-mountain
+
+### Home routing described by mainland users: reported experience
+* Value: international roaming routes through the home operator (归属地接入); buying local data (本地流量) does not route home
+* As of: September 2023
+* Source: V2EX, thread by liufuyi, replies by lushifu, cnbatch, domainnamesir, docx
+* Tier: 3
+* URL: https://www.v2ex.com/t/977077
+* Verified 1: 2026-10-20 (25 and 26 September 2023, 归属地接入, 本地流量 present)
+* Verified 2: 2026-10-20 (fetched again, same)
+* Shelf life: reported experience, evergreen as dated
+* Used in: esim-vpn-and-data-on-the-mountain
+
+### MIIT notice on unapproved lines and VPNs
+* Value: without approval, no self built or rented lines, VPNs included, for cross border operations; 工信部信管函〔2017〕32号 dated 17 January 2017
+* As of: January 2017
+* Source: Cyberspace Administration of China (中央网信办), publishing the MIIT notice
+* Tier: 1
+* URL: https://www.cac.gov.cn/2017-01/23/c_1120366809.htm
+* Verified 1: 2026-10-20 (不得自行建立或租用专线（含虚拟专用网络VPN） present)
+* Verified 2: 2026-10-20 (fetched again, same)
+* Shelf life: volatile as policy, 3 months
+* Used in: esim-vpn-and-data-on-the-mountain
+
+### MIIT clarification: licensed lines for companies' office use
+* Value: foreign trade and multinational firms needing cross border links for office use may lease them from licensed international gateway operators
+* As of: January 2017
+* Source: China News Service (中国新闻网)
+* Tier: 2
+* URL: https://www.chinanews.com.cn/m/cj/2017/01-24/8134818.shtml
+* Verified 1: 2026-10-20 (2017-01-24, 外贸企业、跨国企业因办公自用等原因 present)
+* Verified 2: 2026-10-20 (fetched again, same)
+* Shelf life: volatile as policy, 3 months
+* Used in: esim-vpn-and-data-on-the-mountain
+
+### Cybersecurity Law: real identity for network access, Article 26
+* Value: network operators handling network access or mobile registration must require real identity information; Article 26 since the amendment of 28 October 2025 (Article 24 before)
+* As of: December 2025
+* Source: Cyberspace Administration of China (中央网信办), the amended law text
+* Tier: 1
+* URL: https://www.cac.gov.cn/2025-12/29/c_1768735112911946.htm
+* Verified 1: 2026-10-20 (2025年10月28日 修正, 第二十六条, 应当要求用户提供真实身份信息 present)
+* Verified 2: 2026-10-20 (fetched again, same)
+* Shelf life: volatile as policy, 3 months
+* Used in: esim-vpn-and-data-on-the-mountain
+
+### Deqing's 5G aim and scenic area wifi claim, 2020
+* Value: 5G across the main town by end 2019 and the whole county in 2020 (an aim); wifi across the county's 4A scenic areas, the Moganshan resort among the smart services named (a claim)
+* As of: March 2020
+* Source: Zhejiang Online (浙江在线)
+* Tier: 2
+* URL: https://zjnews.zjol.com.cn/zjnews/huzhounews/202003/t20200302_11730781.shtml
+* Verified 1: 2026-10-20 (2020-03-02, 2019年底前完成县城主城区5G网络全覆盖，2020年实现全域全覆盖, 实现4A级旅游景区wifi全覆盖，莫干山度假区 present)
+* Verified 2: 2026-10-20 (fetched again, same)
+* Shelf life: evergreen as a dated aim; not a measurement
+* Used in: esim-vpn-and-data-on-the-mountain
+* Notes: the county's 5G base station count (statistics bulletins on deqing.gov.cn) could not be read; see the standing watch row
+
 ## Places, stays, seasons, trails (semi-stable)
 
 ### FIBA 3x3 World Tour Deqing dates
@@ -1483,7 +1609,7 @@ primary research, <dates>". -->
 * Verified 1: 2026-10-11 (总长10km, 爬升627m, 2.7km-3.7km, 观瀑桥, 430m, 5.4km, 6.9km, 7.1km, 不可以打路标带, 有信号, 返回庾村广场, 2023.10 present)
 * Verified 2: 2026-10-11 (fetched again, every string present)
 * Shelf life: reported experience, evergreen as dated
-* Used in: chiang-kai-shek-path
+* Used in: chiang-kai-shek-path, esim-vpn-and-data-on-the-mountain (the 有信号 line only)
 
 ### Eight Moganshan walking routes, GreenTour Asia, July 2026
 * Value: the Chiang path loop (蒋公古道环线) from the Yucun cultural market, 10 to 12 km, 560 m of climbing, described as free and avoiding the scenic area ticket; elsewhere on the page about 12 km in a little over 4 hours, 428 steps at 百步岭; classic full day routes five to six hours, start before 08:00 and be down by 17:30; poles and knee supports for the descent; core sights "RMB 80, but free by the Chiang path"

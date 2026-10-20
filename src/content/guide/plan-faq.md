@@ -14,10 +14,10 @@ secondary_keywords:
 schema: Article + FAQPage
 image: /images/guide/plan-faq.webp
 image_alt: A folded paper map, a notebook, keys and a glass of tea on a table by a window onto green hills
-word_count: 2011
+word_count: 2093
 author: cyril-drouin
 published: 2026-08-05
-last_updated: 2026-10-14
+last_updated: 2026-10-21
 ---
 
 # Planning questions, answered
@@ -95,6 +95,17 @@ Not inside the scenic area, where private vehicles are barred by day anyway. Bet
 ### Is there a bus between the villages?
 
 Not one we can confirm for 2026. Two themed weekend lines ran between the villages from May to October 2025, at RMB 5 a trip, and no dated source says they came back. The Y1 shuttle connects Deqing station with Moganshan town and terminates there. To move between villages, assume a car or a guesthouse pickup. The [shuttle system page](/plan/moganshan-shuttle-system/) has the 2025 routes.
+
+## Mobile data
+
+### Should I use a travel eSIM, a Chinese SIM or a VPN?
+
+Check where your plan routes its data before buying it. A travel eSIM or
+roaming plan can route through an overseas network; a Chinese SIM and
+guesthouse wifi connect inside China. Ask the provider which route your
+plan uses, and download maps and booking details before heading uphill.
+The [eSIM, VPN and mobile data guide](/plan/esim-vpn-and-data-on-the-mountain/)
+explains the options, the written rules and the limits of the signal record.
 
 ## Tickets
 
