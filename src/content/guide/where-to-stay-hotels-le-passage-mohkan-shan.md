@@ -2,7 +2,7 @@
 url: /where-to-stay/hotels/le-passage-mohkan-shan/
 title: Le Passage Mohkan Shan
 seo_title: "Le Passage Mohkan Shan, Moganshan: What We Know"
-meta_description: About 28 keys, French-founded, on Moganshan in Zhejiang. Its own website no longer resolves, so book by platform or phone.
+meta_description: About 28 keys, French founded, on Moganshan in Zhejiang. Its own website no longer resolves, so book by platform or phone.
 excerpt: Le Passage Mohkan Shan has about 28 keys and French founders on Moganshan. Its own domain no longer resolves, so book through a platform instead.
 primary_keyword: le passage mohkan shan
 secondary_keywords: [le passage moganshan, moganshan french hotel, moganshan country house]
@@ -12,7 +12,7 @@ image_alt: A rendered and stone country house with dark shutters standing among 
 word_count: 1043
 author: echo-peng
 published: 2026-08-07
-last_updated: 2026-08-08
+last_updated: 2026-10-22
 ---
 
 # Le Passage Mohkan Shan
@@ -21,7 +21,7 @@ Le Passage Mohkan Shan is a hotel on Moganshan. Place the mountain first: Zhejia
 
 This site awards no stars or scores, holds no sponsored placements, and does not repeat other people's review numbers. What this page does is describe.
 
-For this one, the record is three facts long, so this is a short page.
+The dated Chinese record places its beginnings in an old tea factory at Ziling in 2008.
 
 ## The spelling, which decides what you find
 
@@ -31,26 +31,32 @@ So try both. "Le Passage Mohkan Shan" is the property's own form. "Le Passage Mo
 
 ## What the record confirms
 
-We can stand behind three things: about 28 keys, French founders and a property built for the international market rather than the domestic one.
+Our original property record gives about 28 keys, French founders and a property built for the international market. Guangming Daily (光明日报) adds its location and opening year: a Frenchman rented an abandoned tea factory at Ziling (紫岭村), west of Sanjiuwu, in 2008, the year after naked Home Village began.
+
+> Le Passage at Ziling in 2008 and the Lanshukeng site chosen in 2009,
+> Guangming Daily (光明日报), 21 February 2013, tier 2.
+> https://epaper.gmw.cn/gmrb/html/2013-02/21/nw.D110000gmrb_20130221_1-16.htm
+
+The [Laoling and Sanjiuwu guide](/moganshan/villages/laoling/) separates these neighbouring villages and the properties that began in each.
 
 ![A white rendered hillside hotel with a two level colonnaded veranda and dark shutters](/images/guide/where-to-stay-hotels-le-passage-mohkan-shan-2.webp 'A small property of around 28 keys, in a building that borrows from the hill station rather than copying it.')
 
 > Property record, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-Twenty-eight keys sets the scale. The other three below are the only named properties on this mountain that publish a key count.
+Twenty eight keys sets the scale. The other three below are the only named properties on this mountain that publish a key count.
 
 | Property | Keys | Where |
 |---|---|---|
-| Le Passage Mohkan Shan | about 28 | On the mountain |
+| Le Passage Mohkan Shan | about 28 | Ziling (紫岭村) |
 | naked Stables | about 121 | On the mountain |
 | naked Castle | about 95 | On the mountain |
 | Crowne Plaza Deqing Moganshan | about 340 | Wukang, 20 km off the mountain |
 
 > Key counts for named properties, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-Beyond that, this property publishes almost nothing. Its opening year, its room rates, whether dinner is served, which village it sits in and whether there is English at the desk are none of them on any public record, and the phrase "built for the international market" comes from a trade description rather than from the hotel.
+The opening year and village are documented in that report. Our sources do not settle current room rates, whether dinner is served or whether there is English at the desk. The phrase "built for the international market" comes from a trade description rather than from the hotel.
 
-In English these get called a country house or a country hotel. The local words differ: minsu (民宿) for a small owner-run guesthouse, and yangjiale (洋家乐), literally a foreigner's farmstay, for the foreign-founded ones. Twenty-eight keys puts this one above the village minsu scale either way.
+In English these get called a country house or a country hotel. The local words differ: minsu (民宿) for a small owner run guesthouse, and yangjiale (洋家乐), literally a foreigner's farmstay, for the foreign founded ones. Twenty eight keys puts this one above the village minsu scale either way.
 
 ## The domain no longer resolves
 
@@ -76,11 +82,12 @@ A cached page with photographs and a room list shows some past moment, not this 
 
 ## The wave it arrived with
 
-Two of the three verified facts are about who built the place.
+Its French founders were part of the foreign farmstay trade that grew around Sanjiuwu.
 
 | When | What happened |
 |---|---|
 | 2007 | Grant Horsfield, a South African, opened naked Home Village at Sanjiuwu, the first yangjiale on the mountain |
+| 2008 | Le Passage began in an old tea factory at Ziling |
 | 2011 | naked Stables opened |
 | Since | Owners from France, Belgium, the Netherlands, Denmark, the United Kingdom, South Korea and Russia opened properties around Moganshan |
 | Now | Guesthouse investment here traces back to 18 different countries |
@@ -97,14 +104,14 @@ You still have to get there, and the route in is the same for everyone.
 |---|---|
 | Rail | Deqing is your station. From Shanghai Hongqiao the run is 63 to 80 minutes, 13 direct trains daily. From Hangzhou East, 13 to 17 minutes on 16 services |
 | Last stretch | About 30 to 40 minutes from Deqing station to Moganshan town. Van or taxi about RMB 100, Y1 shuttle RMB 10 |
-| The car rule | No private vehicle may pass the scenic-area boundary. You change vehicles at Yucun, Fatou or Houwu, whichever serves your road in |
-| The window | All three transfer centers open at 08:00 and close at 18:00 |
+| The car rule | No private vehicle may pass the scenic area boundary. You change vehicles at Yucun, Fatou or Houwu, whichever serves your road in |
+| The window | All three transfer centres open at 08:00 and close at 18:00 |
 
-> Rail times, transfer times and scenic-area vehicle rules, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
+> Rail times, transfer times and scenic area vehicle rules, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-That 18:00 close is what wrecks evening arrivals. Whether it wrecks yours depends on which side of that boundary your hotel stands. Ask two things when you book: whether the hotel sits inside the scenic area, and which transfer center serves it.
+That 18:00 close is what wrecks evening arrivals. Whether it wrecks yours depends on which side of that boundary your hotel stands. Ask two things when you book: whether the hotel sits inside the scenic area, and which transfer centre serves it.
 
-One last trap. A railway station named Moganshan exists, on a different line, and it drops you in Wukang, the county town. [Getting around](/getting-here/getting-around/) has the shuttle timetable and the transfer centers in full.
+One last trap. A railway station named Moganshan exists, on a different line, and it drops you in Wukang, the county town. [Getting around](/getting-here/getting-around/) has the shuttle timetable and the transfer centres in full.
 
 ## What to do with this page
 
@@ -114,4 +121,4 @@ Use it as a checklist, not a review. Search both spellings, confirm on a platfor
 
 Four things would change this page: a stay, an answered phone call, a dated rate sheet, and a website that loads. None has happened. The [hotel list](/where-to-stay/hotels-explained/) covers the other named properties, and [where to stay](/where-to-stay/) explains why village and price band matter more here than brand.
 
-*Rail times and transfer center hours are current as of 6 August 2026, and so is the domain check.*
+*Rail times and transfer centre hours are current as of 6 August 2026, and so is the domain check.*

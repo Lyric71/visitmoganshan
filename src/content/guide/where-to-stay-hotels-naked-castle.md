@@ -12,7 +12,7 @@ image_alt: A granite villa with a castellated parapet and arched windows, set in
 word_count: 1106
 author: echo-peng
 published: 2026-08-07
-last_updated: 2026-10-14
+last_updated: 2026-10-22
 ---
 
 # naked Castle, Moganshan
@@ -68,21 +68,23 @@ The mountain then spent fifty years out of the tourism business, which makes the
 
 | Year | Property | What it was |
 |---|---|---|
-| 2007 | naked Home Village | The first yangjiale (洋家乐) on the mountain, at Sanjiuwu. The word means a farmstay opened by a foreigner |
+| 2007 | naked Home Village | The first yangjiale (洋家乐), a farmstay opened by a foreigner, at Sanjiuwu, a hamlet of Laoling. Its farmhouses became part of naked Castle in 2017 |
 | 2011 | naked Stables | The first resort in mainland China to certify LEED Platinum |
 | 2017 | naked Castle | About 95 rooms, in Maitland's restored 1910 villa |
 
 > Opening years and room totals across the naked group, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
+> The naked Home Village farmhouses incorporated into naked Castle in 2017,
+> Zhejiang Online (浙江在线), 30 October 2018, tier 2.
+> https://zjnews.zjol.com.cn/zjnews/zjxw/201810/t20181030_8611894.shtml
+
+The [Laoling and Sanjiuwu guide](/moganshan/villages/laoling/) follows the original farmhouses and the hamlet around them.
+
 naked Retreats was not the first foreigner back. Mark Kitto opened Moganshan Lodge on a 2003 lease. But 2007 is when the wave started, and guesthouse investors here come from 18 countries.
 
 ## The price band, and what it actually covers
 
-Roughly **USD 291 to 524** a night, checked 6 August 2026.
-
-> Rate band across naked Stables and naked Castle, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
-
-Read that as a band rather than a quote for a room. It covers naked Stables and naked Castle together, and the season and the day of the week move it further than the choice between the two properties does.
+We do not hold a separate dated RMB rate for naked Castle. Check the live listing for your room type and nights; the season and the day of the week change the price.
 
 For scale, the local trade sets its high end threshold at RMB 1,500, and rooms above that line grew 42 percent year on year. [Luxury stays](/where-to-stay/luxury/) sets that against the rest of the mountain.
 
@@ -119,4 +121,4 @@ We do not reprint review scores from booking sites either. They are somebody els
 
 One last naming problem: Moganshan Solvang Village is a different property here. If this is not your place, [all hotels](/where-to-stay/hotels/) has the rest and [money and payments](/plan/money-and-payments/) covers cards.
 
-*Opening date, room count and rate band checked 6 August 2026. The band covers two properties and moves fast.*
+*Opening date and room count come from the August 2026 property record. The farmstay history is supported by the dated Zhejiang Online report above.*

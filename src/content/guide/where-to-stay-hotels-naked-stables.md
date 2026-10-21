@@ -16,18 +16,18 @@ word_count: 1098
 stay_id: 901389
 author: echo-peng
 published: 2026-08-07
-last_updated: 2026-08-08
+last_updated: 2026-10-22
 ---
 
 # naked Stables, Moganshan
 
 naked Stables is a resort on Moganshan, a bamboo mountain in Deqing County, Huzhou prefecture, Zhejiang Province, 200 to 240 km from Shanghai and 60 km from Hangzhou. It opened in 2011 and runs about 121 keys, which is the trade's word for rooms. If your search turned up a Shanghai art district, that is Moganshan Road, 200 km away and unconnected.
 
-The lowercase n is theirs, not a typo. This page exists because naked Stables is the Moganshan name most travelers arrive already knowing. It is why the outside world knows the mountain at all, and why people arrive expecting somewhere more international than they find.
+The lowercase n is theirs, not a typo. This page exists because naked Stables is the Moganshan name most travellers arrive already knowing. It is why the outside world knows the mountain at all, and why people arrive expecting somewhere more international than they find.
 
 ## Why there is no rating on this page
 
-Nobody from this site has slept at naked Stables. There is no score here, no star count, and no judgment on the rooms, food, service or building. A hotel you have only read about is one you cannot review, and passing on somebody else's impression helps nobody.
+Nobody from this site has slept at naked Stables. There is no score here, no star count, and no judgement on the rooms, food, service or building. A hotel you have only read about is one you cannot review, and passing on somebody else's impression helps nobody.
 
 We do not carry anyone else's score across either, from a booking site or anywhere else.
 
@@ -38,6 +38,7 @@ What would change this page: a stay we book and pay for ourselves, then a report
 | Item | What it says |
 |---|---|
 | Opened | 2011 |
+| Village | Lanshukeng (兰树坑), near Sanjiuwu; site chosen in 2009 |
 | Size | about 121 keys |
 | Group | naked Retreats |
 | Certification | the first LEED Platinum certified resort in mainland China, awarded on opening |
@@ -47,20 +48,30 @@ What would change this page: a stay we book and pay for ourselves, then a report
 
 > Property record and corporate history, measured. BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-That list is short on purpose. Ask the resort directly about the rest:
+> Sanjiuwu in Laoling and the Lanshukeng site, People's Daily Online (人民网),
+> carrying People's Daily Overseas Edition, 7 July 2017, tier 2.
+> http://travel.people.com.cn/n1/2017/0707/c41570-29389273.html
+
+> Le Passage at Ziling in 2008 and the Lanshukeng site chosen in 2009,
+> Guangming Daily (光明日报), 21 February 2013, tier 2.
+> https://epaper.gmw.cn/gmrb/html/2013-02/21/nw.D110000gmrb_20130221_1-16.htm
+
+The [Laoling and Sanjiuwu guide](/moganshan/villages/laoling/) traces the earlier farmstay. Naked Stables is in neighbouring Lanshukeng, not in Laoling.
+
+Ask the resort directly about the rest:
 
 | Ask about | Why |
 |---|---|
 | Room types, restaurants, spa and activities | Booking sites carry all of it, and the resort's own description is the one to work from |
 | Family policy and accessibility | The site is a plateau of separate lodges, so distances between them matter |
 | Any transfer the resort runs itself | It bears on the vehicle rule below, and on your arrival time |
-| Which village it sits in, and which transfer center serves it | It changes your arrival plan more than anything else on this page |
+| Which transfer centre serves Lanshukeng, and whether the resort collects guests | It changes your arrival plan |
 
 ## naked Retreats in Moganshan: where the company came from
 
-The company is better documented than the hotel. In 2007, in a village called Sanjiuwu at the foot of the mountain, a South African named Grant Horsfield took some village houses and turned them into naked Home Village. Locals had a word for what he had made: a "yangjiale" (洋家乐), a foreigner's farmstay. His was the first.
+The company is better documented than the hotel. In 2007, in Sanjiuwu, a hamlet of Laoling at the foot of the mountain, a South African named Grant Horsfield took some village houses and turned them into naked Home Village. Locals had a word for what he had made: a "yangjiale" (洋家乐), a foreigner's farmstay. His was the first.
 
-naked Stables came four years later, in 2011, on a larger site, carrying the LEED Platinum certification. The group added naked Castle in 2017, about 95 keys, worked into a villa a Scottish physician-missionary called Maitland built in 1910 to look like an English castle. That puts the company inside a building from the missionary community that started the hill station in the 1890s. [A short history of Moganshan](/moganshan/hill-station/history/) covers how the two eras connect.
+naked Stables came four years later, in 2011, on a larger site, carrying the LEED Platinum certification. The group added naked Castle in 2017, about 95 keys, worked into a villa a Scottish physician and missionary called Maitland built in 1910 to look like an English castle. That puts the company inside a building from the missionary community that started the hill station in the 1890s. [A short history of Moganshan](/moganshan/hill-station/history/) covers how the two eras connect.
 
 ## The press cluster, and what it left behind
 
@@ -82,7 +93,7 @@ That 2012 list numbered its entries. It did not rank them. The entry is paywalle
 
 Then it stopped. The coverage sits between 2010 and 2012, and much of it is about one company. We found no Moganshan feature in BBC Travel, Condé Nast Traveler, National Geographic Traveller, Monocle, the Financial Times or Travel + Leisure. Lonely Planet lists a point of interest and no Best in Travel place.
 
-Huzhou and Deqing publish no foreign-visitor figure, so nobody can say how many international travelers reach it.
+Huzhou and Deqing publish no foreign visitor figure, so nobody can say how many international travellers reach it.
 
 So the mountain reads as more established abroad than it is. Investors here do come from 18 countries. But there are about 1,000 guesthouses, roughly 80 percent individually owned, and most are small village businesses. Almost none resemble naked Stables.
 
@@ -95,7 +106,7 @@ The journey is the same as for any bed here, and Deqing is your station. Mogansh
 | Shanghai Hongqiao to Deqing | 63 to 80 min | 13 direct trains a day, RMB 61 to 110 |
 | Hangzhou East to Deqing | 13 to 17 min | 16 a day, RMB 16 to 67 |
 | Deqing to the mountain, taxi or van | about 30 min | about RMB 100 |
-| Deqing to the mountain, Y1 shuttle | 30 to 40 min | 7 a day, RMB 10, styled as a Republican-era tram |
+| Deqing to the mountain, Y1 shuttle | 30 to 40 min | 7 a day, RMB 10, styled as a Republican era tram |
 
 Door to door, our estimates:
 
@@ -105,22 +116,22 @@ Door to door, our estimates:
 | Shanghai Pudong | 4h00 to 4h45 |
 | Central Hangzhou, by car | 1h20 to 1h45 |
 
-> Rail and shuttle figures measured, door-to-door times estimated. BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
+> Rail and shuttle figures measured, door to door times estimated. BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
 Pudong is the one that surprises people.
 
-One rule catches almost everyone out. No private vehicle may drive into the scenic area. You get out and change vehicles on the way in. Three centers handle it: Yucun, Fatou and Houwu. All three work 08:00 to 18:00.
+One rule catches almost everyone out. No private vehicle may drive into the scenic area. You get out and change vehicles on the way in. Three centres handle it: Yucun, Fatou and Houwu. All three work 08:00 to 18:00.
 
 Whether naked Stables sits inside that zone, and whether it collects guests, is the thing to settle before you book a train. Treat 18:00 as your deadline at Deqing and ask the property first. [Getting around](/getting-here/getting-around/) sets out the shuttle times.
 
 ## What a Moganshan luxury resort costs
 
-One number covers this property and naked Castle: roughly USD 291 to 524 a night, recorded in 2025. Neither is priced separately in it.
+We do not have a separate dated RMB rate for this property. Check the live listing for your nights and room type.
 
 ![An infinity edge pool on a mountain terrace looking over layered forested ridges](/images/guide/where-to-stay-hotels-naked-stables-4.webp 'At this end of the market the rate is buying the land and the view, not the room.')
 
-Treat that as a range across two hotels. No room is sold at the band, nothing is broken out by season, and Moganshan rates change a lot between a March Tuesday and an August Saturday. The local trade treats anything above RMB 1,500 as high end.
+Moganshan rates change a lot between a March Tuesday and an August Saturday. The local trade treats anything above RMB 1,500 as high end.
 
 Every other property with rooms sits on the [hotels index](/where-to-stay/hotels/), and the top of the market on [luxury stays](/where-to-stay/luxury/). [Where to stay](/where-to-stay/) begins with the village question, which shapes a Moganshan trip more than the brand on the gate.
 
-*Keys, rate band and corporate facts stand as at 6 August 2026.*
+*Keys and corporate facts come from the August 2026 property record; village and site history are supported by the dated reports above.*

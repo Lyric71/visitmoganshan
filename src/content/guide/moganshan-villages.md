@@ -2,7 +2,7 @@
 url: /moganshan/villages/
 title: "Yucun, Xiantan and Sanjiuwu: the villages below Moganshan"
 seo_title: "Moganshan Villages: Yucun, Xiantan and Sanjiuwu"
-meta_description: Six villages ring the foot of Moganshan and your bed is in one of them. What each one has, where it sits, and how to pick between them.
+meta_description: Villages ring the foot of Moganshan and your bed is in one of them. What each one has, where it sits, and how to pick between them.
 excerpt: Most of the beds at Moganshan are not on the mountain. They are in villages around the foot of it, and which village you book changes the trip more than the room does.
 primary_keyword: moganshan villages
 secondary_keywords: [yucun moganshan, xiantan moganshan, sanjiuwu, where to stay near moganshan]
@@ -12,7 +12,7 @@ image_alt: Tiled village rooftops at the foot of a bamboo ridge at Moganshan, wi
 word_count: 2101
 author: liyan-ye
 published: 2026-08-08
-last_updated: 2026-10-13
+last_updated: 2026-10-22
 ---
 
 # Yucun, Xiantan and Sanjiuwu: the villages below Moganshan
@@ -21,7 +21,7 @@ Your booking confirmation will name a village. For most visitors that is the fir
 
 Moganshan is not one place. It is a low wooded ridge with separate settlements scattered around its base, all of them inside Moganshan Town, in Deqing County, part of Huzhou prefecture in Zhejiang Province. Hangzhou sits about 60 km south, Shanghai 200 to 240 km back. The old hill station and its stone villas are up on the ridge. The beds are below, in the villages.
 
-Six of the Moganshan villages are worth knowing by name, plus the county town off the mountain. Moganshan Town counted 2.60 million visitors in 2018 and 2.52 million in 2021. The village name is on every one of those bookings and in almost none of the English language coverage, which matters not at all until the evening you go looking for dinner in a village that has none.
+Five villages and the hamlet of Sanjiuwu are worth knowing by name, plus the county town off the mountain. Moganshan Town counted 2.60 million visitors in 2018 and 2.52 million in 2021. The village name is on every one of those bookings and in almost none of the English language coverage, which matters not at all until the evening you go looking for dinner in a village that has none.
 
 This page assumes the booking is more or less made and you want to know what is down there.
 
@@ -33,8 +33,8 @@ A booking site gives you a property name and a pin, rarely which flank of the hi
 |---|---|---|
 | Yucun | 庾村 | At the foot of the mountain. The main gateway, and a transfer centre |
 | Xiantan | 仙潭村 | Northern foot |
-| Laoling | 劳岭村 | South side, by a reservoir |
-| Sanjiuwu | 三九坞 | A small valley settlement below the ridge |
+| [Laoling](/moganshan/villages/laoling/) | 劳岭村 | South side, by a reservoir |
+| Sanjiuwu | 三九坞 | A hamlet of Laoling, further into the hills than Lingkengli |
 | [Houwu](/moganshan/villages/houwu/) | 后坞 | West, about 30 minutes from Yucun. Also a transfer centre |
 | Dazaowu | 大造坞 | The most remote of them, out by the Dadouwu reservoir |
 | Wukang | 武康 | Off the mountain, about 20 km. The county seat, not a village |
@@ -90,25 +90,33 @@ The density has a cost nobody writes down. Ninety percent locally run also means
 
 ## Sanjiuwu, where the foreign founded trade started
 
-Sanjiuwu (三九坞) is small, and its importance is historical. In 2007 Grant Horsfield, a South African, opened naked Home Village here. It was the first yangjiale (洋家乐), the local word for a farmstay founded by a foreigner, and the mountain's modern guesthouse economy dates from it.
+Sanjiuwu (三九坞) is a hamlet of Laoling village (劳岭村). In 2007 Grant Horsfield, a South African, opened naked Home Village here. It was the first yangjiale (洋家乐), the local word for a farmstay founded by a foreigner. Since 2017 those farmhouses have been part of naked Castle; naked Home Village no longer trades under its own name. The [Laoling and Sanjiuwu guide](/moganshan/villages/laoling/) follows that history and explains where visitors can stay now.
 
-That history has one practical effect on your booking. The foreign founded end of this market is where the odds are best of English at the door and a property used to foreign passports. Sanjiuwu is where it began, though it spread past this village long ago. Operators from France, the UK, Belgium, Denmark, South Korea and Russia followed him, and guesthouse investors here now come from 18 countries.
+> Sanjiuwu in Laoling and the Lanshukeng site, People's Daily Online (人民网),
+> carrying People's Daily Overseas Edition, 7 July 2017, tier 2.
+> http://travel.people.com.cn/n1/2017/0707/c41570-29389273.html
+
+> The naked Home Village farmhouses incorporated into naked Castle in 2017,
+> Zhejiang Online (浙江在线), 30 October 2018, tier 2.
+> https://zjnews.zjol.com.cn/zjnews/zjxw/201810/t20181030_8611894.shtml
+
+That history has one practical effect on your booking. The foreign founded end of this market is where the odds are best of English at the door and a property used to foreign passports. Sanjiuwu is where it began, though it spread past this hamlet long ago. Operators from France, the UK, Belgium, Denmark, South Korea and Russia followed him, and guesthouse investors here now come from 18 countries.
 
 > naked Home Village, the yangjiale label and investor origins, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-It stays a small village. Nobody comes here for a square or a choice of restaurants, and the property you book is the whole of the evening.
+It stays a small hamlet. Nobody comes here for a square or a choice of restaurants, and the property you book is the whole of the evening.
 
 ![The approach road climbing towards Moganshan through bamboo, with a village visible on the valley floor below](/images/guide/villages-3.webp 'The valley floor is where the guesthouses are. The ridge above holds the old hill station, and the road between them is the transfer nobody plans for.')
 
 ## Laoling, Houwu and Dazaowu
 
-Sanjiuwu is the village with a story. Each of these three asks you to give something up.
+Sanjiuwu holds the foreign farmstay story within Laoling. Each of these three asks you to give something up.
 
 | Village | Where | What is there | What it costs you |
 |---|---|---|---|
-| **Laoling** 劳岭村 | South side | Reservoir, kayaking, cycling. An early farmstay cluster | You came for the water or the bike, not a square |
+| **[Laoling](/moganshan/villages/laoling/)** 劳岭村 | South side | Reservoir, metasequoia avenue, cycling. An early farmstay cluster | You came for the water or the bike, not a square |
 | **[Houwu](/moganshan/villages/houwu/)** 后坞 | West, about 30 minutes from Yucun | Quiet. Also a transfer centre, so better connected than its reputation, and the 45 km national trail of 2014 starts there | Thirty minutes each way, including for dinner |
-| **Dazaowu** 大造坞 | The most remote | Rice paddies and the Dadouwu reservoir | The longest drive of the six, and the fewest doors |
+| **Dazaowu** 大造坞 | The most remote | Rice paddies and the Dadouwu reservoir | The longest drive on this list, and the fewest doors |
 
 > Laoling, Houwu and Dazaowu, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
