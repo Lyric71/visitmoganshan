@@ -12,12 +12,17 @@ image_alt: Trail runners seen from behind packed into a narrow village lane at d
 word_count: 1638
 author: liyan-ye
 published: 2026-10-16
-last_updated: 2026-10-16
+last_updated: 2026-10-22
 pillar: P3
 slot: 15
 freshness_tier: semi-stable
 affiliate_slug: stays-all
 sources:
+  - name: 德清新闻网 (莫干庾街)
+    name_en: Deqing News, carrying Mogan Yujie
+    url: https://dqnews.zjol.com.cn/dqnews/system/2026/10/19/035314153.shtml
+    date: 2026-10-19
+    tier: "4"
   - name: 朗途体育
     name_en: Letour Sports, the race organiser, 2026 race rules
     url: https://moganshan.saihuitong.com/article?id=69954&mid=57201
@@ -85,8 +90,8 @@ the mountain begins.
 | First start | 100 km, Friday 18:00 |
 | Last cut off | 30 km, Sunday 16:00 |
 | Entry | Closed; places were drawn by lottery on 18 March |
-| Size of the 2026 field | Not published |
-| Road closures for 2026 | None announced by 15 October |
+| Size of the 2026 field | 15,000 as announced by Mogan Yujie; no figure from the organiser |
+| Road closures for 2026 | None found by 21 October |
 
 > Dates, start, categories, times and the lottery, Letour Sports (朗途体育), the
 > organiser, race rules, 9 February 2026, tier 3.
@@ -160,7 +165,13 @@ five categories. The organiser had 97 foreign nationals on the entry list.
 The county paper and the provincial press call that field an Asian record.
 Nobody publishes the list it beats, so treat the phrase as the resort's
 description rather than a measured fact. The organiser bills 2026 as the
-race's tenth year and hasn't said how many will start.
+race's tenth year and hasn't said how many will start. Mogan Yujie
+(莫干庾街), the shopping street in Yucun, puts the field at 15,000 in its
+19 October announcement. That is the street's figure, not the organiser's.
+
+> Field of 15,000 as announced by Mogan Yujie (莫干庾街), carried by Deqing
+> News (德清新闻网), 19 October 2026, tier 4.
+> https://dqnews.zjol.com.cn/dqnews/system/2026/10/19/035314153.shtml
 
 ## What 11,000 runners do to the beds
 
@@ -198,7 +209,7 @@ Come the week after.
 
 ## Roads, shuttles and the night
 
-We found no traffic notice for the 2026 race by 15 October. Last year's came
+We found no traffic notice for the 2026 race by 21 October. Last year's came
 out on 17 October, a week before the start, from the resort committee, the
 county traffic police and the organiser. It put Yuxin North Street under
 traffic control for three days. Zhuyuan Road (竹源路), Huangfu Road (黄郛路),
@@ -214,14 +225,15 @@ Expect the same shape this year, and send your guesthouse your arrival time
 before you travel. Private cars already stop below the scenic area; [the car
 ban](/plan/private-car-ban-on-moganshan/) explains the rule.
 
-The organiser sells race shuttle seats at RMB 15 from Deqing station to the
-Moganshan transfer centre (换乘中心) on 23 and 24 October, and from Deqing
-West on the 24th. The listing doesn't say whether someone without a race
-number can book. [Deqing station](/getting-here/deqing-station/) covers the
-ordinary way up.
+Every race shuttle was marked closed on 21 October, including the RMB 15
+seats from Deqing station to the Moganshan transfer centre (换乘中心) on
+23 and 24 October, and from Deqing West on the 24th. Do not rely on buying
+a race shuttle seat now. [Deqing station](/getting-here/deqing-station/)
+covers the ordinary way up. The [week 43 dispatch](/journal/news/dispatch/2026-43/)
+also covers the rain forecast and the street party over race weekend.
 
-> Race shuttle seats at RMB 15, Letour Sports (朗途体育), event page, read 15
-> October 2026, tier 3. https://moganshan.saihuitong.com/events?mid=72300
+> Race shuttles marked closed, Letour Sports (朗途体育), event page, read
+> 21 October 2026, tier 3. https://moganshan.saihuitong.com/events?mid=72300
 
 It takes a lot of people. In 2024 the race used more than 1,100 volunteers, 207
 rescuers, 77 rescue vehicles and 24 coaches across 17 stations. Villagers shut

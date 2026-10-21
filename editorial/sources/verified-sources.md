@@ -995,6 +995,18 @@ checks. -->
 * Used in: moganshan-noodles
 * Notes: as published; "first" is the account's word.
 
+### Chashanli tea farm café at Laoling opens
+* Value: 茶杉里, a tea and coffee house in a former idle roadside rest stop (驿站) near the 水杉大道 in Laoling village (劳岭村), opened formally in October 2026; run by 高国治, a second generation tea man with nearly thirty years in the trade, a 浙江工匠 and a county level heritage bearer (县级非遗传承人) for the making of Mogan Huangya; 200 mu of tea around it, there since the 1950s or 1960s, now mainly a matcha leaf base; about half the products are made from tea; customers can pick and make tea on site; more than 200 visits on weekends and holidays (the owner's figure); a reporter visited on the afternoon of 12 October
+* As of: 17 October 2026
+* Source: 德清新闻网 (Deqing News), reporters Chen Mingyue (陈明月) and Yao Haixiang (姚海翔)
+* Tier: 2, and the only source. A Chinese web search for 茶杉里 劳岭村 returned only Sina and Weibo content farm guides. Dianping, step two of the openings chain, redirected to its verification wall (HTTP 302, empty body). The county portal timed out on all five listings in the 19 October sweep.
+* URL: https://dqnews.zjol.com.cn/dqnews/system/2026/10/17/035312925.shtml
+* Verified 1: 2026-10-19 (page fetched with the sweep user agent and decoded as GB2312; read whole)
+* Verified 2: 2026-10-19 (fetched again with a Safari user agent; 茶杉里, 劳岭村水杉大道, 高国治, 莫干黄芽制作技艺县级非遗传承人, 200亩, 十月份正式开业, 200人次, 10月12日 and 抹茶 all present)
+* Shelf life: volatile, 3 months
+* Used in: laoling-tea-farm-cafe-lets-visitors-make-tea (news)
+* Notes: no opening hours, no prices, no address beyond the avenue, nothing on whether picking and making are booked. It runs on the reporter's visit, the same reasoning as the 1910 pool item, and the item says the platform check failed. The footfall figure is the owner's, attributed to him.
+
 ## History and culture (evergreen)
 
 ### Zhejiang ancient tree grades (浙江省古树名木保护办法)
@@ -2402,6 +2414,151 @@ primary research, <dates>". -->
 * huzhou.bendibao.com/jingdian/zhongguodazhuhai/price/ (Bamboo Sea RMB 45): no date; not a source.
 * zj.news.cn/20250627 (Anji's guesthouse count): certificate error to WebFetch and a failed fetch to Node; not read.
 * Beijing Daily, 14 October 2025 (Anji's 2024 visitors): a county figure, excluded by the visitor numbers rule.
+
+### China Weather Network and NMC forecasts for Deqing, 21 October 2026
+* Value: 22 Oct cloudy, 15 to 21 °C; 23 Oct light rain turning moderate, 16 to 21 °C; 24 Oct moderate rain turning light, 18 to 22 °C; 25 Oct light rain, 18 to 22 °C; 26 Oct cloudy then sunny, 15 to 22 °C. The NMC page (issued 21 Oct 20:00) has the same wet days with lows of 17, 20 and 18 °C
+* As of: 21 October 2026
+* Source: 中国天气网 (China Weather Network, China Meteorological Administration), Deqing county page 101210204; 中央气象台 (National Meteorological Centre), nmc.cn/publish/forecast/AZJ/deqing.html
+* Tier: 1
+* URL: https://www.weather.com.cn/weather/101210204.shtml
+* Verified 1: 2026-10-21 (both pages read)
+* Verified 2: 2026-10-21 (both fetched again after the quality pass; 小雨转中雨, 中雨转小雨, 10/23, 10/26 present)
+* Shelf life: expires the day it is read; cited only as the forecast of 21 October
+* Used in: dispatch-2026-43
+* Notes: county town figures, not the summit.
+
+### Kailas Moganshan Skyrace 2026: shuttles closed and the street's field figure
+* Value: every race shuttle on the organiser's event page marked 报名已截止 on 21 October (it was open on 14 October); Mogan Yujie's post says 1.5万名 runners and holds a street party 23 to 25 October with a market, workshops, an electronic music night and an outdoor fashion show on 24 October
+* As of: 21 October 2026
+* Source: 朗途体育 (Letour Sports) event page, tier 3; 德清新闻网 (Deqing News), 19 October 2026, carrying a post by 莫干庾街 (Mogan Yujie), tier 4, as announced
+* URL: https://moganshan.saihuitong.com/events?mid=72300 ; https://dqnews.zjol.com.cn/dqnews/system/2026/10/19/035314153.shtml
+* Verified 1: 2026-10-21
+* Verified 2: 2026-10-21 (报名已截止, ¥15, 德清西站; 1.5万名, 10月23日-10月25日, 10月24日, 电子音乐派对 present)
+* Shelf life: until 25 October 2026
+* Used in: dispatch-2026-43; the publish step adds the street's figure (as the street's) to /things-to-do/kailas-moganshan-skyrace/
+* Notes: the organiser publishes no field size; 15,000 is printed only as the street's figure. The 2026 race rules (article 69954) were read again on 21 October for the start times and passed both checks; the times sit in separate spans and only match with the tags stripped.
+
+### Deqing traffic police notice for the 2025 Skyrace
+* Value: notice dated 17 October 2025 for the race of 24 to 26 October 2025: Yuxin North Street (庾信北街) under temporary traffic management for the three days; 竹源路, 黄郛路, 于烂线 and 翠莹路 closed to motor and non motor vehicles in phases; 黄郛路 one way east to west
+* As of: 17 October 2025
+* Source: 德清交警 (Deqing traffic police), with the resort management committee and the race committee, reprinted by 德清108生活社区 (the Deqing 108 community)
+* Tier: 4 (a forum reprint of a tier 1 notice; the original WeChat post is not addressable by URL)
+* URL: https://m.108sq.cn/deqing/shuo/detail/69640851
+* Verified 1: 2026-10-21
+* Verified 2: 2026-10-21 (2025年10月17日 and the four road names present)
+* Shelf life: historical record
+* Used in: /things-to-do/kailas-moganshan-skyrace/; dispatch-2026-43
+* Notes: no 2026 notice found on 21 October (108 forum, Tide News search, web search).
+
+### Spartan Race Moganshan 2026, reconfirmed
+* Value: 7 and 8 November 2026; entries close 2026年10月31日 23:59:59
+* As of: 21 October 2026
+* Source: 最酷 (Zuicool), registration page
+* Tier: 3
+* URL: https://reg.zuicool.com/11858
+* Verified 1: 2026-10-21
+* Verified 2: 2026-10-21
+* Shelf life: until 8 November 2026
+* Used in: dispatch-2026-43
+
+### New places at Laoling and on Yujie, October 2026
+* Value: 麓禾村 at Laoling, a Hangzhou team's conversion of an underused fruit picking farm of 约200亩, kayaks, off road karts, camping, farm activities, more than 1000人次 a day at peak; a Nordisk brand centre on Mogan Yujie (camping, gear, café); 钝行酿造所 on Yujie, 十几款 tea based sparkling drinks plus 康普茶 and alcohol free drinks, one in development with 莫干黄茶. No hours or prices in either report. The same 17 October report gives 约25万人次 for the resort over National Day (not used: the visitor numbers rule) and repeats the Houwu rainforest and Geling café as 即将 with no date
+* As of: 21 October 2026
+* Source: 德清新闻网 (Deqing News), reporter 陈明月 (Chen Mingyue), 17 and 21 October 2026
+* Tier: 2
+* URL: https://dqnews.zjol.com.cn/dqnews/system/2026/10/17/035312915.shtml ; https://dqnews.zjol.com.cn/dqnews/system/2026/10/21/035315719.shtml
+* Verified 1: 2026-10-21
+* Verified 2: 2026-10-21
+* Shelf life: semi stable, 6 months
+* Used in: dispatch-2026-43; lead for the Laoling village page (brief 021)
+
+### Moganshan weddings, October 2026
+* Value: Naked Castle (裸心堡) more than ten weddings in October, every weekend date taken, 42 weddings in 2026 so far; 缦田度假酒店 four in October, couples book rooms and meals with the ceremony; Moganshan town more than 80 weddings and wedding events in 2026, over RMB 18 million of related spending (not used)
+* As of: 21 October 2026
+* Source: 德清新闻网 (Deqing News), reporter 陈明月 (Chen Mingyue)
+* Tier: 2
+* URL: https://dqnews.zjol.com.cn/dqnews/system/2026/10/21/035315709.shtml
+* Verified 1: 2026-10-21
+* Verified 2: 2026-10-21
+* Shelf life: volatile, 3 months
+* Used in: dispatch-2026-43
+
+### naked Home Village at Sanjiuwu, Laoling, 2007
+* Value: Grant Horsfield (高天成) came to 三九坞 in 劳岭村 in 2007 and rented disused farmhouses (People's Daily); summer 2007, rooms named 紫岭居, 翠竹小筑 and 竹工作室, the hamlet called 裸心乡, tree stump tables, no air conditioning, no gas, a wood stove (Guangming Daily); rent RMB 10,000 a year, RMB 5 million invested, 21 rooms, about RMB 1,000 a night (Zhejiang Online 2018); about 20 rooms in eight mud brick farmhouses, founded with 叶凯欣 (Jiemian 2024); six houses as a bar and an inn (Tide News 2023, which misnames the result 裸心谷); washbasins from halved water jars, investment back in about a month, "20 years ago" (Xinhua 2025)
+* As of: 21 October 2026
+* Source: 人民网 (人民日报海外版), 7 July 2017; 光明日报, reporter 叶辉, 21 February 2013; 浙江在线, reporter 詹丽华, 30 October 2018; 界面新闻 carrying 空间秘探, 3 April 2024; 潮新闻, 24 February 2023; 新华网, 19 March 2025
+* Tier: 2
+* URL: http://travel.people.com.cn/n1/2017/0707/c41570-29389273.html ; https://epaper.gmw.cn/gmrb/html/2013-02/21/nw.D110000gmrb_20130221_1-16.htm ; https://zjnews.zjol.com.cn/zjnews/zjxw/201810/t20181030_8611894.shtml ; https://www.jiemian.com/article/11000849.html ; https://tidenews.com.cn/news.html?id=2374544 ; http://www.news.cn/local/20250319/6f3d6119568c45df9f68e7585d6a97c8/c.html
+* Verified 1: 2026-10-21
+* Verified 2: 2026-10-21 (all fetched again after drafting; every string present, logs/runs/laoling-cq/check2.txt)
+* Shelf life: historical record
+* Used in: laoling
+* Notes: the size disagreement is printed in the piece, not resolved. 2007 is used over Xinhua's "20 years ago".
+
+### naked Stables, naked Castle and Le Passage: where and when
+* Value: Le Passage (法国山居) set up by a Frenchman in an abandoned tea factory at 紫岭村, west of 三九坞, the year after 2007 (Guangming Daily 2013); naked Stables sited at 兰树坑 near 三九坞 in 2009 (Guangming Daily 2013, People's Daily 2017), opened 2011 for about RMB 200 million; naked Castle opened 2017 after four years and more than RMB 300 million, joining the old No. 1 castle villa and the 裸心乡 farmhouses, the old site now part of the castle; 颐园 (2002) regarded as the first modern guesthouse (Zhejiang Online 2018)
+* As of: 21 October 2026
+* Source: as above
+* Tier: 2
+* Verified 1: 2026-10-21
+* Verified 2: 2026-10-21
+* Shelf life: historical record
+* Used in: laoling; the publish step carries them to /moganshan/villages/, /where-to-stay/hotels-explained/, /where-to-stay/hotels/le-passage-mohkan-shan/, /where-to-stay/hotels/naked-stables/ and /where-to-stay/hotels/naked-castle/
+
+### Laoling in 2016, and the yangjiale named in 2009
+* Value: through the 劳岭隧道 to 岭坑里, more than ten guesthouses there, 三九坞 further into the hills; 45 guesthouses in Laoling by March 2016, more than 200 jobs, a seventh of the village's people; Deqing named the yangjiale concept in 2009
+* As of: 23 July 2016
+* Source: 浙江在线 (Zhejiang Online), reporters 张骥鸿, 陈炜, 徐赛华
+* Tier: 2
+* URL: https://zjnews.zjol.com.cn/zjnews/hznews/201607/t20160723_1789530.shtml
+* Verified 1: 2026-10-21
+* Verified 2: 2026-10-21
+* Shelf life: historical record
+* Used in: laoling
+* Notes: the article's "首创" (first in the country) for the 2009 concept is not repeated.
+
+### The guesthouse eras, Jiemian 2026
+* Value: the yangjiale from 裸心乡 in 2007, boutique guesthouses from about 2015, chain brands from 2024
+* As of: 20 May 2026
+* Source: 界面新闻 (Jiemian)
+* Tier: 2
+* URL: https://www.jiemian.com/article/14453891.html
+* Verified 1: 2026-10-21
+* Verified 2: 2026-10-21
+* Shelf life: semi stable, 6 months
+* Used in: laoling
+
+### Laoling's free things and the walk to Ziling
+* Value: the metasequoia corridor, the reservoir and its rice fields, for cycling and morning runs (The Paper, a 澎湃号 media account, 28 September 2023, tier 3); the 劳岭紫岭古道, 3.5 km from the Yucun side past the Laoling reservoir and about 100 mu of tea to 紫岭村, gentle, free (GreenTour Asia, updated 3 July 2026, tier 3); the 水杉大道 as a Laoling landmark (Deqing News, 17 October 2026, tier 2, the Chashanli entry above)
+* As of: 21 October 2026
+* Tier: 3 (the avenue's existence also tier 2)
+* URL: https://www.thepaper.cn/newsDetail_forward_24783701 ; https://www.greentourasia.com/article/moganshantubugonglve
+* Verified 1: 2026-10-21
+* Verified 2: 2026-10-21
+* Shelf life: semi stable, 6 months
+* Used in: laoling
+
+### Reuse for laoling
+* Value: the Spartan line of 2025 past Laoling reservoir (Deqing News, 24 June 2025, tier 2); the three transfer centres at Yucun, Fatou and Houwu (Deqing News, 30 September 2019, tier 2); Chashanli and Luhe Village (Deqing News, 17 October 2026, tier 2)
+* Verified 1: 2026-10-21 (each fetched; 劳岭水库, 5元/人次, 8:00至16:20; 庾村, 筏头, 后坞; 茶杉里, 麓禾村 present)
+* Verified 2: 2026-10-21 (fetched again after drafting; present)
+* Used in: laoling
+
+### Laoling listings, our capture
+* Value: 62 of 809 captured Trip.com listings give a Laoling address: 岭坑里 18, 劳岭脚 9, 鸭潭坞 8, 龙里 6, near the tunnel 4, 乌龙山 2, 三九坞 1 (naked Castle, No. 12), others 14; 56 list a restaurant, 28 an outdoor pool, 3 hot springs; 8 names carry "hot spring"; review counts Faraway Mountain 336 (most in 岭坑里), Sunsee Inn 177 (most in 鸭潭坞); 西坡·劳岭良室 (Cipo Laoling Liangshi, 110617884) on the 高南线 by 义远有机农场
+* As of: captured 8 August 2026, compiled 21 October 2026
+* Source: BeyondBorder Group Ltd primary research (`data/raw`); Chinese hamlet names from Ctrip's Chinese addresses, read 21 October 2026 (tier 4, addresses only)
+* Tier: own
+* Verified 1: 2026-10-21 (counted by script)
+* Verified 2: 2026-10-21 (the 62 rows read one by one; Ctrip addresses 劳岭村三九坞12号, 劳岭脚21号, 龙里3号, 乌龙山24号, 劳岭隧道洞口 read)
+* Shelf life: volatile, 3 months
+* Used in: laoling
+
+### Not usable, 21 October 2026 (laoling)
+* huzhou.gov.cn art/2025/3/28/art_1229213487_59075808.html and tyj.zj.gov.cn art/2020/6/4/art_1347259_44931670.html: timed out at 60 seconds; retry row in source-tiers.md.
+* Baidu Baike 劳岭村 (1,360 or 1,412 people, 6.6 km², 23 groups): no tier, cut.
+* Ctrip guide 10403573 (a kayak price at the reservoir): OTA editorial, never a price source.
+* Weibo and Sina "+FAQ" guides on Laoling guesthouses and distances: no tier.
 
 ## Retired
 
