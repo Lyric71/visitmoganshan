@@ -2560,6 +2560,44 @@ primary research, <dates>". -->
 * Ctrip guide 10403573 (a kayak price at the reservoir): OTA editorial, never a price source.
 * Weibo and Sina "+FAQ" guides on Laoling guesthouses and distances: no tier.
 
+## Winter closures, row 022, 22 October 2026
+
+### January snow closure and partial February reopening
+* Value: road icing caused a temporary scenic area closure on the evening of 30 January 2026. A management centre notice reported on 31 January announced reopening from 1 February after clearance and inspection, except Sword Pond (剑池), Dakeng (大坑) and some other sights.
+* As of: 31 January 2026, historical event only
+* Source: Tide News (潮新闻), reporter Yang Xilin (杨希林)
+* Tier: 2, dated reporting of a management centre notice, not silently upgraded to tier 1
+* URL: https://tidenews.com.cn/news.html?id=3360833
+* Verified 1: 2026-10-22, HTTP 200, full body read, closure and reopening dates and exceptions confirmed
+* Verified 2: 2026-10-22, separate fetch HTTP 200 in createarticle iteration 8, same dates and scope
+* Shelf life: six months for historical example; never usable as live closure status
+* Used in: what-actually-closes-in-winter-on-moganshan
+* Notes: no annual closure rule or subsequent reopening date for the excluded sights established. County notice portal timed out; scenic website returned 403. Retry filed in standing watch. Jingshan shuttle suspension in the same article is a different destination and is not used.
+
+### Spring Festival visitors and street activities
+* Value: visitors at Moganshan tourist transfer centre before 09:00 on the third day of Spring Festival 2026; New Year activities at Mogan Yujie (莫干庾街).
+* As of: reported 24 February 2026
+* Source: Deqing News (德清新闻网), reporters Dong Hua (董华) and Cai Jun (蔡俊)
+* Tier: 2
+* URL: https://dqnews.zjol.com.cn/dqnews/system/2026/02/24/035157936.shtml
+* Verified 1: 2026-10-22, HTTP 200, raw bytes decoded GB18030, full dated body read
+* Verified 2: 2026-10-22, HTTP 200, separate GB18030 fetch in iteration 8; time and holiday context unchanged
+* Shelf life: six months for historical event; not a future programme or timetable
+* Used in: what-actually-closes-in-winter-on-moganshan
+* Notes: no visitor numbers or annual opening guarantee inferred.
+
+### Xixin camp winter accommodation account
+* Value: an operator at Xixin camp (喜心营地) in Xiantan (仙潭村) described replacing tents with cabins owing to insulation problems, including winter cold, and visitors attracted by New Year snow in 2026.
+* As of: 3 March 2026
+* Source: China News Service (中国新闻网), author Hu Fengsheng (胡丰盛)
+* Tier: 2, attributed operator account
+* URL: https://www.chinanews.com/sh/2026/03-03/10580234.shtml
+* Verified 1: 2026-10-22, HTTP 200, full body and report date read
+* Verified 2: 2026-10-22, separate fetch HTTP 200 in iteration 8, same attribution and winter account
+* Shelf life: six months for the attributed historical account
+* Used in: what-actually-closes-in-winter-on-moganshan
+* Notes: not a property inspection, endorsement, current availability or heating guarantee; unrelated origin-story and village-count claims are not reused.
+
 ## Retired
 
 <!-- Entries past their shelf life that were replaced. Kept for the record. -->

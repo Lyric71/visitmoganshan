@@ -1,25 +1,25 @@
 ---
 url: /seasons/winter/
 title: Winter in Moganshan
-seo_title: "Moganshan in Winter: The Cheap, Empty Season"
-meta_description: "Moganshan in winter is the low season: January near freezing, rooms at RMB 300 to 500, and a half-price ticket only one published price set confirms."
-excerpt: Moganshan in winter is the cheapest, emptiest season here. What January really costs you, what the low season gives back, and who should skip it.
+seo_title: "Moganshan in winter: cold, costs and access"
+meta_description: "Plan Moganshan in winter with temperature estimates, dated price research and weather closure examples. Check access, heating and meals before booking."
+excerpt: Winter can mean a quieter stay, but cold and temporary weather closures need planning. Check access, room heating and meals for your dates before booking.
 primary_keyword: moganshan in winter
 secondary_keywords: [moganshan snow, moganshan december, moganshan low season]
 schema: Article
 image: /images/guide/seasons-winter.webp
-image_alt: A frost-dusted stone path running along a bamboo slope under a cold grey sky
-word_count: 1198
+image_alt: A stone path dusted with frost along a bamboo slope under a cold grey sky
+word_count: 1169
 author: liyan-ye
 published: 2026-08-07
-last_updated: 2026-08-09
+last_updated: 2026-10-23
 ---
 
 # Winter in Moganshan
 
-Winter here runs December to February. Moganshan in winter is the low season, and behaves like one. Rooms sit at the bottom of their range, the ticket falls under one of two published price sets, and the mountain that sells out in August is empty. The bill is cold, and daylight that runs out early in villages with no evening economy.
+Winter here runs December to February. Moganshan in winter can offer a quieter stay, but neither an empty mountain nor a cheap room is guaranteed. Our dated price research gives a starting point for budgeting. Weather, the holiday calendar and the facilities at your chosen property still need checking for your dates.
 
-Here means Deqing County, inside Huzhou prefecture, in China's Zhejiang Province, on a mountain whose main peak, Tashan, stands 719 to 720 meters up. Hangzhou is roughly 60 km down the road to the south, Shanghai 200 to 240 km off. Moganshan Road, which your search will also turn up, is a street in Shanghai. [The seasons guide](/seasons/) sets winter against the other three.
+Here means Moganshan (莫干山), in Deqing County (德清县), Huzhou (湖州), Zhejiang (浙江), China. Its main peak, Tashan (塔山), stands 719 to 720 metres up. Hangzhou (杭州) is roughly 60 km down the road to the south, Shanghai (上海) 200 to 240 km off. Moganshan Road, which your search will also turn up, is a street in Shanghai. [The seasons guide](/seasons/) sets winter against the other three.
 
 ## How cold it gets
 
@@ -43,11 +43,11 @@ Snow brings people here, and we cannot give them what they want.
 
 ![A thin melting dusting of snow on a bamboo slope under a flat grey sky](/images/guide/seasons-winter-3.webp 'Snow happens and does not last. Booking a trip for it is booking on a coin toss.')
 
-No snowfall record is published for this mountain: no average number of snow days, nothing on depth. At 720 meters in this part of Zhejiang, a January dusting is possible rather than dependable. If snow is your only reason to come, pick a different mountain.
+We have no verified long term snowfall record for this mountain: no average number of snow days or dependable depth. At 720 metres in this part of Zhejiang, a January dusting is possible rather than dependable. Do not book on the promise of snow.
 
-Do not picture the opposite either. This mountain is a bamboo crop. Forest cover runs over 92 percent, mostly moso, grown to be cut and sold. How that looks in January we have no record of. What you do in the cold is what you do in May: the old hill station, the paths up to Sword Pond.
+Do not picture the opposite either. This mountain is a bamboo crop. Forest cover runs over 92 per cent, mostly moso, grown to be cut and sold. How that looks in January we have no record of. The old hill station and Sword Pond (剑池) may be reasons to visit, but snow can interrupt access to individual sights even when the wider scenic area reopens.
 
-## The ticket, and a half-price rule one source states
+## The ticket, and a half price rule one source states
 
 Winter is when the entry price is supposed to drop. Supposed to, because the two published price sets disagree.
 
@@ -56,65 +56,67 @@ Winter is when the entry price is supposed to drop. Supposed to, because the two
 | The higher set | RMB 120 in advance, RMB 130 at the gate | Half price through winter, about RMB 60 to 65 |
 | The lower set | RMB 80 when busy | RMB 50 the rest of the year, and no winter discount stated |
 
-> Both published ticket sets and the winter half-price rule, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
+> Both published ticket sets and the winter half price rule, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-Only the higher set states the half-price rule. The lower one never uses the word winter, and neither says which months qualify. Budget on the dearer line. [Tickets and entry](/plan/tickets-and-entry/) has the conflict in full.
+Only the higher set states the half price rule. The lower one never uses the word winter, and neither says which months qualify. These are dated research figures, not a confirmed offer for your visit. [Tickets and entry](/plan/tickets-and-entry/) has the conflict in full.
 
 ## Rooms at the bottom of the band
 
-The ticket is not where the season saves you. The off-season band for a mid-range room is RMB 300 to 500 a night, and winter is its bottom. That same room clears RMB 1,000 in July and August. High-end starts near RMB 1,500.
+Our August research put a midrange room in the low season at RMB 300 to 500 a night, against RMB 1,000 in July and August. The upper end started near RMB 1,500. These are comparison bands, not quotes for a particular winter night.
 
 > Room rates, guesthouse numbers, the bed cap and 2024 occupancy, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
 
-Supply is why. About 1,000 guesthouses operate against a bed capacity capped near 10,000 in late 2017, and occupancy averaged about 55 percent in 2024. Nobody there holds a peak rate in January.
+That research recorded about 1,000 guesthouses against a bed capacity capped near 10,000 in late 2017, and average occupancy of about 55 per cent in 2024. Those figures do not establish the rate or availability at an individual property this winter.
 
-Nobody publishes winter hours here, and a good number of small properties and kitchens simply shut for the season. Ask your guesthouse what is open when you ask the price. [Where to stay](/where-to-stay/) covers the villages and tiers.
+We have no verified inventory of properties or kitchens that close for winter. Ask your guesthouse about room heating, dinner and any pool or bathing facility when you ask the price. [What actually closes in winter](/seasons/what-actually-closes-in-winter-on-moganshan/) separates the dated closure record from what still needs checking. [Where to stay](/where-to-stay/) covers the villages and tiers.
 
-## The evening problem is really a winter problem
+## Arrange the evening before arrival
 
-The cold and the price are the easy parts. Chinese reporting on the guesthouse villages notes something true all year: no evening economy, no night market, little food late.
+Do not assume every village shuts in winter. Deqing News reported visitors at the tourist transfer centre and New Year activities on Mogan Yujie (莫干庾街) during Spring Festival 2026. That holiday account does not establish ordinary weekday opening hours or dinner service at your accommodation.
 
-![A single lit guesthouse window on a dark hillside early in a winter evening](/images/guide/seasons-winter-4.webp 'In January the dark arrives at five and nothing opens after it. That is the season in one frame.')
+> Spring Festival visitors and street activities, Deqing News (德清新闻网), 24 February 2026, tier 2.
+> https://dqnews.zjol.com.cn/dqnews/system/2026/02/24/035157936.shtml
 
-In August that is a mild disappointment. You can sit outside at nine. In January at 1.4 °C you cannot. Your guesthouse dining room is the evening, and if its kitchen closes you are back in your room early. Choose the property on whether you would be content there for a long evening indoors.
+![A single lit guesthouse window on a dark hillside early in a winter evening](/images/guide/seasons-winter-4.webp 'Confirm dinner service and room heating with your accommodation before arrival.')
 
-## The light goes before the gate does
+For an evening indoors, establish what heats the bedroom and whether dinner needs booking. If you plan to eat elsewhere, confirm that venue's hours and your return transport. Choose a property where you would be content spending time if weather interrupts the next day's walk.
 
-Cold you can dress for. The clock is harder. None of the rules below changes in winter, but the daylight does, and that is what turns them into a problem.
+## Check access and the return journey
 
-| The rule | What it is |
+Road icing temporarily closed the scenic area on 30 January 2026. Tide News reported reopening from 1 February after clearance and inspection, with Sword Pond and Dakeng (大坑) among the sights still excluded. This is a historical example, not their current status.
+
+> Temporary snow closure and partial reopening, Tide News (潮新闻), 31 January 2026, tier 2.
+> https://tidenews.com.cn/news.html?id=3360833
+
+| Part of the journey | What to confirm for your date |
 |---|---|
-| Private vehicles in the scenic area | Not allowed in any season. Everyone transfers |
-| Transfer centers at Yucun, Fatou and Houwu | 08:00 to 18:00, unchanged all year |
-| Last Y1 shuttle up from Deqing station | Leaves 16:00. Seven a day, RMB 10, 30 to 40 minutes |
-| If you miss it | A taxi, about RMB 100, about 30 minutes |
+| Scenic area admission | The latest dated operating notice |
+| Individual sights and paths | Whether your intended route is included in any reopening |
+| Transfer services | Departure point, operating hours and last return |
+| Accommodation collection | A meeting point that still works if access changes |
 
-> Transfer rules, shuttle timetable and fares, BeyondBorder Group Ltd primary research, 1 to 5 August 2026.
-
-That window is ten hours wide, and in December the useful part ends mid-afternoon. Take the morning train and walk before lunch. Coming from Shanghai, we would plan on the second night paying for itself, because the arrival day goes on getting up the hill.
+We have no verified winter timetable to print here. [The shuttle guide](/plan/moganshan-shuttle-system/) distinguishes the services; obtain the current arrangements before setting off. Allow time for the return trip before a fixed train, and repeat the access check on the morning of your outing.
 
 ## Moganshan in December, January and February
 
 | Month | What changes |
 |---|---|
-| December | Autumn crowd gone. Light at its shortest against an unchanged 18:00 window |
-| January | Coldest and emptiest. Mean 1.4 °C, or about 3.5 °C by the other source |
-| February | Cold, easing late. The shortest wait to the spring shoulder |
+| December | Plan walks and return transport around the shorter daylight |
+| January | Coldest monthly mean in our research: 1.4 °C, or about 3.5 °C by the other source |
+| February | Check whether your dates coincide with Spring Festival |
 
-All three sit at the low end of RMB 300 to 500. The one date to watch in February is Spring Festival, when domestic travel moves everywhere in China at once.
+The low season room band is a budgeting reference for these months, not a guarantee. Check the holiday calendar before assuming a winter date will be quiet.
 
-Then the day of the week, which every other page here tells you to pick first. Moganshan runs as a weekend market all year and Mondays are notably quiet. Winter takes the force out of that: a season this far below capacity does not fill on a Saturday the way October does.
+Compare the actual weekday and weekend quotes for your stay. A general description of winter demand cannot tell you which rooms will be available.
 
 ## Who should come, and when
 
-An October weekend cannot sell you an empty path at any price. January gives one away with the room.
+A winter trip suits someone who can change a walking plan and enjoy the accommodation if mountain access is disrupted.
 
 | Come in winter if | Stay home if |
 |---|---|
 | What you want is the mountain itself | This is your only trip to China |
-| An empty path beats a warm one | Anyone with you will not walk in the cold |
+| You can change plans when access is disrupted | Anyone with you will not walk in the cold |
 | Price is what decides the trip | You need a village awake at nine |
 
-The site sends first-time visitors here in autumn, so for one season this page argues against itself. Pressed for a date, we would say a January weekday, on a morning train, picking the guesthouse before the village. [The best time to visit](/plan/best-time-to-visit/) has the other case.
-
-*Temperature means, room rates, shuttle fares and the winter half-price ticket, all last checked 6 August 2026. Published ticket prices disagree from source to source and move with the season, so confirm yours at booking.*
+The site generally sends first time visitors here in autumn. If you choose winter, pick the guesthouse with heating and meals in mind, then check access for the sights you want. [The best time to visit](/plan/best-time-to-visit/) compares the seasons.

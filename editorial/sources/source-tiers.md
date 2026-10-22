@@ -144,6 +144,10 @@ Facts with a known expiry, checked without waiting for news.
 | Deqing metered taxi tariff | `/plan/getting-a-car-back-down/` prints taxi fares only as dated reports (RMB 60 and RMB 50 to 100 in 2019, about RMB 100 in our desk research of August 2026), because no county tariff (起步价, 每公里运价) for Deqing's metered taxis could be found at any tier on 16 October 2026 | At each quarterly volatile revision: search deqing.gov.cn, the county development and reform bureau (发改局) and 德清新闻网 for 出租车 运价 or 起步价; when a dated tier 1 or 2 tariff is read twice, add it to that page's fare table and to `/getting-here/deqing-station/`, and delete this row |
 | Domestic eSIM for foreign visitors | China Mobile's eSIM booking (Jingchu Net, 21 September 2025) excluded overseas users (境外用户) for now; nothing later found as of 20 October 2026. `/plan/esim-vpn-and-data-on-the-mountain/` says a China eSIM for a visitor means a travel eSIM bought abroad | Quarterly with the volatile revision: search 10086.cn, 德清新闻网 and Xinhua for eSIM 境外用户 or 护照 开通; when any operator opens eSIM to passport holders, update that page's eSIM section and table and move its `last_updated` |
 
+### Winter operating notices, added 22 October 2026
+
+Row 022 uses Tide News of 31 January 2026 (https://tidenews.com.cn/news.html?id=3360833) for the dated snow closure and partial reopening only. Both reads passed. County notices at https://www.deqing.gov.cn/col/col1229212609/ were inaccessible in web and timed out locally; https://www.zj-mgs.com/ returned 403 locally and was inaccessible in web. At the next winter news sweep, retry these official channels for a dated operating notice. Replace the historical source only when a matching written notice is read twice. A January exception for Sword Pond and Dakeng is not their current status. No fixed winter timetable or current property closure list was verified, so neither is printed.
+
 ## Revision cadence by freshness tier (Part 2.5)
 
 | Tier | Pages | Cadence |
