@@ -52,11 +52,11 @@ first. They override any conflicting rule inside the skill.
 
 ## The angle
 
-> The most publishable visual story on the mountain right now. Zero English coverage. Over 70 percent of founders are post-90s.
+> Two different former extraction sites adapted for coffee: the cave at Hecun and the open quarry at Wusi. The cave opened in April 2025, the quarry cafe in November 2024. The 30 May 2025 report says over 70 percent of rural cafe operators across Deqing were born in the 1990s, including the post 1995 group; it is not a count of these venues' founders. Attribute the dated figure and omit unsourced current prices and hours.
 
 ## Chinese sources named in the calendar
 
-中国日报 一杯咖啡香满村; 德清新闻网 洞穴野咖
+人民日报海外版 一杯咖啡香满村 (30 May 2025, original of the China Daily reprint); 德清新闻网 探索“村咖”新模式 (1 April 2025), 退休矿工重返故地 (14 May 2025), 废弃矿坑变身网红“村咖” (28 November 2024)
 
 Pull these first. Every figure still goes through the tier check for its fact
 type and both validation checks before it enters the draft.

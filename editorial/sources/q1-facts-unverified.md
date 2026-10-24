@@ -61,11 +61,15 @@ Sources disagree. Publish the disagreement.
 
 ## Rural coffee (slots 23, 29, 39, 70)
 
-* 洞穴咖啡 (brand 仅莫干) in a cave at 铜官山, Hecun, opened 2024.
-* 格里恩咖啡 in a quarry pit at Wusi, owner 谷雪松, 2,000 plus visitors a day
-  over May Day 2025.
-* 人民日报 feature 30 May 2025.
-* Over 70 percent of founders are post 90s or post 95s.
+* Corrected 23 October 2026: 遇见地心 cave cafe at 铜官山, Hecun, opened
+  April 2025, not 2024 (Deqing News, 14 May 2025). The team is 只有莫干 in
+  the April report and 只此莫干 in May; the earlier 仅莫干 spelling was wrong.
+* 格里恩咖啡 in a quarry at Wusi, operator 谷雪松, opened November 2024.
+  Do not reuse operator visitor counts without the required bureau source.
+* People's Daily Overseas Edition feature, 30 May 2025, is the original
+  of the China Daily reprint. It reports over 70 percent of rural cafe
+  operators across Deqing as born in the 1990s, including the post 1995
+  group. No sampling method supplied. See the verified ledger for both checks.
 
 ## The trail (slot 10, desk written)
 

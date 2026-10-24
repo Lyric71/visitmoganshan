@@ -148,6 +148,18 @@ Facts with a known expiry, checked without waiting for news.
 
 Row 022 uses Tide News of 31 January 2026 (https://tidenews.com.cn/news.html?id=3360833) for the dated snow closure and partial reopening only. Both reads passed. County notices at https://www.deqing.gov.cn/col/col1229212609/ were inaccessible in web and timed out locally; https://www.zj-mgs.com/ returned 403 locally and was inaccessible in web. At the next winter news sweep, retry these official channels for a dated operating notice. Replace the historical source only when a matching written notice is read twice. A January exception for Sword Pond and Dakeng is not their current status. No fixed winter timetable or current property closure list was verified, so neither is printed.
 
+### Cafe operating evidence, added 23 October 2026
+
+Row 023 cites the dated Chinese record for the Hecun cave cafe and Wusi's
+Gelien quarry cafe. No tier 1 current tariff or operating notice was found;
+the county notices portal (https://www.deqing.gov.cn/col/col1229212609/) and
+scenic website (https://www.zj-mgs.com/) were inaccessible in web. The dated
+Deqing News directory of 17 June 2026 establishes addresses and listing
+only. At the next semi stable revision, retry official sources for these
+venues. Add a tariff or hours only after a matching dated notice is read
+twice. Do not substitute OTA packages or apply the scenic area timetable
+to these village businesses.
+
 ## Revision cadence by freshness tier (Part 2.5)
 
 | Tier | Pages | Cadence |

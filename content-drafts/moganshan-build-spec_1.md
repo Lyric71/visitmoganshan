@@ -783,8 +783,8 @@ CN sources: 当旅网; seasonal 攻略
 
 **23 · 19 Nov · P4 Food** · The cave cafe at Tongguanshan and the quarry cafe at Wusi  
 `moganshan cafe / rural coffee china` · 1,600w · no affiliate  
-CN sources: 中国日报 一杯咖啡香满村; 德清新闻网 洞穴野咖  
-> The most publishable visual story on the mountain right now. Zero English coverage. Over 70 percent of founders are post-90s.
+CN sources: 人民日报海外版 一杯咖啡香满村 (30 May 2025, original of the China Daily reprint); 德清新闻网 探索“村咖”新模式 (1 April 2025), 退休矿工重返故地 (14 May 2025), 废弃矿坑变身网红“村咖” (28 November 2024)
+> Two different former extraction sites adapted for coffee: the cave at Hecun and the open quarry at Wusi. The cave opened in April 2025, the quarry cafe in November 2024. The 30 May 2025 report says over 70 percent of rural cafe operators across Deqing were born in the 1990s, including the post 1995 group; it is not a count of these venues' founders. Attribute the dated figure and omit unsourced current prices and hours.
 
 **24 · 22 Nov · P6 Seasons** · Moganshan in the snow: ice curtains, empty villas, and the road  
 `moganshan snow` · 1,200w · `go/stays-all`  
@@ -867,8 +867,8 @@ CN sources: 云海 coverage; gate hours
 
 **39 · 6 Jan · P2 Villages** · Hecun: 1,600 mu of tea and a cave  
 `hecun moganshan tea` · 1,400w · no affiliate  
-CN sources: 德清新闻网 洞穴野咖  
-> Tongguanshan cave cafe sits here. Pairs with the coffee feature.
+CN sources: 德清新闻网 探索“村咖”新模式 (1 April 2025), 退休矿工重返故地 (14 May 2025)
+> Tongguanshan cave cafe sits at Shuiwuli in Hecun and opened in April 2025. Pairs with the coffee feature. The brand spelling differs between the reports; use the venue name 遇见地心 with an English rendering.
 
 **40 · 9 Jan · P3 Trails** · Moganshan hiking: the eight routes, with distances and honest timings  
 `moganshan hiking` · 2,600w · no affiliate  
@@ -1387,7 +1387,7 @@ Full briefs are in `content-briefs-q1.md`. The operationally critical points:
 - Deqing station: Hangzhou East about 13 min and 12 to 17.5 RMB, Shanghai Hongqiao about 1.5 to 2 h and 93.5 RMB. Y1 tourist line to Yucun, about 70 min, infrequent. Taxi 50 to 80 RMB, about 30 min. K111 to Wukang.
 - Named noodle shops: 杏仙面店 Huangfu East Rd 15, 阿庆嫂面馆 Huangfu East Rd 9, 回忆面馆 Duihekou St 27, 梅溪·小伙子干挑面 (an Anji chain; Moganshan branch at Yuxin North St 42).
 - Yucun free venues: 1932庾村文创园, 莫干山民国图书馆 Huangfu West Rd 50 (Tue to Sun 09:00 to 16:30, 600-plus Republic-era periodical titles, 20,000-plus issues), 白云美术馆 Huangfu West Rd 48, 青芷Space.
-- Rural coffee: 洞穴咖啡 (brand 仅莫干) in a cave at 铜官山, Hecun, opened 2024. 格里恩咖啡 in a quarry pit at Wusi, owner 谷雪松, 2,000-plus visitors a day over May Day 2025. 人民日报 feature 30 May 2025. Over 70% of founders are post-90s or post-95s.
+- Rural coffee: 遇见地心 cave cafe at 铜官山, Hecun, opened April 2025 (Deqing News, 14 May 2025), not 2024. The team is 只有莫干 in the April report and 只此莫干 in May; do not use the unsupported 仅莫干 spelling. 格里恩咖啡 opened in a quarry at Wusi in November 2024, operator 谷雪松. People's Daily Overseas Edition, 30 May 2025, reports over 70 percent of rural cafe operators across Deqing as born in the 1990s, including the post 1995 group. No sampling method supplied. Omit operator visitor counts without the bureau source the house rules require.
 
 **Q1 totals.** 30 pieces, about 43,500 words. P1 Practicals 10, P2 Villages 5, P3 Trails 4, P4 Food 3, P5 History 2, P6 Seasons 5, P7 Comparisons 1.
 

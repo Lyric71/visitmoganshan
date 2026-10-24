@@ -2598,6 +2598,68 @@ primary research, <dates>". -->
 * Used in: what-actually-closes-in-winter-on-moganshan
 * Notes: not a property inspection, endorsement, current availability or heating guarantee; unrelated origin-story and village-count claims are not reused.
 
+## Cave and quarry cafes, row 023, 23 October 2026
+
+### Deqing rural cafe operators and the cave description
+* Value: more than 70 percent of rural cafe operators across Deqing described as born in the 1990s, including the post 1995 group; natural cave description at Hecun Tongguanshan with designed waterfall and viewing platform.
+* As of: 30 May 2025
+* Source: People's Daily Overseas Edition (人民日报海外版), Xie Shangguo (谢尚国)
+* Tier: 2
+* URL: https://paper.people.com.cn/rmrbhwb/pc/content/202505/30/content_30076370.html
+* Verified 1: 2026-10-23, full original fetched in web research; date, place and 超七成 read. China Daily reprint identified as the same report, not independent corroboration.
+* Verified 2: 2026-10-23, fresh local HTTP 200 UTF8 fetch in iteration 8; full claim and location reread. Raw HTML and checks saved under logs/runs/2026-10-23-draft-research/.
+* Shelf life: six months for dated historical account; not a current census.
+* Used in: cave-cafe-at-tongguanshan-and-the-quarry
+* Notes: no sampling method stated. Not the share of founders of the two venues. Natural cave wording differs in emphasis from mining account below; both attributed. Visitor counts, rankings and conservation claims excluded.
+
+### Wusi quarry cafe opening and physical setting
+* Value: Gelien Coffee (格里恩咖啡) recently open in Wusi village (五四村) by November 2024; lawn, waterfall and wooden buildings; operator Gu Xuesong (谷雪松).
+* As of: 28 November 2024
+* Source: Deqing News (德清新闻网), Chen Mingyue (陈明月), photograph Zhao Ning (赵宁)
+* Tier: 2
+* URL: https://dqnews.zjol.com.cn/dqnews/system/2024/11/28/034822127.shtml
+* Verified 1: 2026-10-23, full web fetch; date, 刚开业, 五四村, 木屋 and operator name read.
+* Verified 2: 2026-10-23, fresh local HTTP 200 GB18030 fetch in iteration 8; same claims reread.
+* Shelf life: six months for setting, historical opening date retained.
+* Used in: cave-cafe-at-tongguanshan-and-the-quarry
+* Notes: operator footfall counts excluded under bureau requirement; no current service guarantee.
+
+### Cave construction at Shuiwuli and shared development team
+* Value: cave cafe under construction on 1 April 2025 at Shuiwuli (水坞里), Tongguanshan (铜官山), Hecun (何村); operator Cai Zhexiao (蔡哲枭); team already developed Gelien in Wusi. Proposed artificial waterfall and viewing platform.
+* As of: 1 April 2025
+* Source: Deqing News (德清新闻网), Chen Mingyue (陈明月)
+* Tier: 2
+* URL: https://dqnews.zjol.com.cn/dqnews/system/2025/04/01/034917617.shtml
+* Verified 1: 2026-10-23, full web fetch; location, construction state, operator and previous project read.
+* Verified 2: 2026-10-23, fresh local HTTP 200 GB18030 fetch in iteration 8; same claims reread.
+* Shelf life: historical construction record; six months before reuse review.
+* Used in: cave-cafe-at-tongguanshan-and-the-quarry; brief 039 correction.
+* Notes: forecast mid April opening is not trading confirmation. Team is called 只有莫干 here and 只此莫干 in May; article uses venue name and avoids brand assertion. Unsupported 仅莫干 removed from master and seed note.
+
+### Cave opened in April 2025 and retired miners returned
+* Value: Yujian Dixin cave cafe (遇见地心) opened in April 2025; 40 retired copper and iron miners visited afterwards, recognised working marks; report describes waterfall and viewing platform.
+* As of: 14 May 2025
+* Source: Deqing News (德清新闻网), Chen Mingyue (陈明月)
+* Tier: 2
+* URL: https://dqnews.zjol.com.cn/dqnews/system/2025/05/14/034957464.shtml
+* Verified 1: 2026-10-23, full web fetch on zjol host; date, 40位 and 今年4月 read. Alternative dqnews.com.cn host failed decoding.
+* Verified 2: 2026-10-23, fresh local HTTP 200 GB18030 fetch in iteration 8; opening month and miners account reread.
+* Shelf life: historical opening record; six months before reuse review.
+* Used in: cave-cafe-at-tongguanshan-and-the-quarry; master plan and brief 039 corrections.
+* Notes: 40 is the reported retired worker group, not a tourism footfall estimate. No exact opening day given. Han dynasty dating, 90 percent preservation, revenue projection, trial visitor totals and rankings omitted.
+
+### June 2026 directory and Gelien address
+* Value: both venues appear in a dated county news cafe directory. Gelien address: 88 Hutangli (湖塘里88号), Wusi village, Moganshan town; red roofed wooden buildings and dark quarry face.
+* As of: 17 June 2026
+* Source: Deqing News (德清新闻网)
+* Tier: 2, dated local directory, not an official operating notice.
+* URL: https://dqnews.zjol.com.cn/dqnews/system/2026/06/17/035232330.shtml
+* Verified 1: 2026-10-23, full web page read. Resolved truncated search snippet that incorrectly juxtaposed another cafe's Phoenix Mountain address.
+* Verified 2: 2026-10-23, fresh local HTTP 200 GB18030 fetch in iteration 8; 湖塘里88号 and both venues present.
+* Shelf life: six months for address and dated listing; reconfirm before a visit.
+* Used in: cave-cafe-at-tongguanshan-and-the-quarry
+* Notes: do not republish directory hours as current official hours; do not infer open today. No current tariff or access certification established. County and scenic portals inaccessible in web; no phone call made.
+
 ## Retired
 
 <!-- Entries past their shelf life that were replaced. Kept for the record. -->
